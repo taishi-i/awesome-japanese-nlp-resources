@@ -18,6 +18,7 @@ A curated list of resources dedicated to **Python libraries** of NLP for Japanes
  * [Pretrained model](#Pretrained-model)
  * [Dictionary](#Dictionary)
  * [Reference](#Reference)
+ * [Contributors](#Contributors)
 
 
 ## Morphology analysis
