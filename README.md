@@ -292,4 +292,4 @@ A curated list of resources dedicated to **Python libraries** of NLP for Japanes
 
 ## Contributors
 
- * [HelloRusk](https://github.com/HelloRusk)
+ * [HelloRusk](https://github.com/HelloRusk) - [website](https://hellorusk.net)
