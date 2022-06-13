@@ -3,6 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources dedicated to **Python libraries** of NLP for Japanese
+Your contributions are always welcome! [Contribution guide](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)
 
 
 ## Contents
