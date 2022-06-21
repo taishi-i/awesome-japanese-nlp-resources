@@ -90,7 +90,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
  * [pykakasi](https://github.com/miurahr/pykakasi) - Lightweight converter from Japanese Kana-kanji sentences into Kana-Roman.
  * [cutlet](https://github.com/polm/cutlet) - Japanese to romaji converter in Python
  * [alphabet2kana](https://github.com/shihono/alphabet2kana) - Convert English alphabet to Katakana
- * [Convert-Numbers-to-Japanese.py](https://github.com/Greatdane/Convert-Numbers-to-Japanese/blob/master/Convert-Numbers-to-Japanese.py) - Converts Arabic numerals, or 'western' style numbers, to a Japanese context.
+ * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - Converts Arabic numerals, or 'western' style numbers, to a Japanese context.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -98,7 +98,8 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 |[pykakasi](https://github.com/miurahr/pykakasi)|[![Downloads](https://pepy.tech/badge/pykakasi/week)](https://pepy.tech/project/pykakasi)|[![Downloads](https://pepy.tech/badge/pykakasi)](https://pepy.tech/project/pykakasi)|![GitHub Repo stars](https://img.shields.io/github/stars/miurahr/pykakasi?style=social)|
 |[cutlet](https://github.com/polm/cutlet)|[![Downloads](https://pepy.tech/badge/cutlet/week)](https://pepy.tech/project/cutlet)|[![Downloads](https://pepy.tech/badge/cutlet)](https://pepy.tech/project/cutlet)|![GitHub Repo stars](https://img.shields.io/github/stars/polm/cutlet?style=social)|
 |[alphabet2kana](https://github.com/shihono/alphabet2kana)|[![Downloads](https://pepy.tech/badge/alphabet2kana/week)](https://pepy.tech/project/alphabet2kana)|[![Downloads](https://pepy.tech/badge/alphabet2kana)](https://pepy.tech/project/alphabet2kana)|![GitHub Repo stars](https://img.shields.io/github/stars/shihono/alphabet2kana?style=social)|
-|[Convert-Numbers-to-Japanese.py](https://github.com/Greatdane/Convert-Numbers-to-Japanese/blob/master/Convert-Numbers-to-Japanese.py)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/master/Convert-Numbers-to-Japanese.py?style=social)|
+|[Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Greatdane/Convert-Numbers-to-Japanese?style=social)|
+
 
 
 ## Preprocessor
