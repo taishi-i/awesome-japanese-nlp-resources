@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources dedicated to **Python libraries** of NLP for Japanese
+A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
@@ -10,17 +10,18 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 
 
 ## Contents
-
- * [Morphology analysis](#Morphology-analysis)
- * [Parsing](#Parsing)
- * [Converter](#Converter)
- * [Preprocessor](#Preprocessor)
- * [Sentence spliter](#Sentence-spliter)
- * [Sentiment Analysis](#Sentiment-Analysis)
- * [OCR](#OCR)
- * [Others](#Others)
+ * Python library
+   * [Morphology analysis](#Morphology-analysis)
+   * [Parsing](#Parsing)
+   * [Converter](#Converter)
+   * [Preprocessor](#Preprocessor)
+   * [Sentence spliter](#Sentence-spliter)
+   * [Sentiment Analysis](#Sentiment-Analysis)
+   * [OCR](#OCR)
+   * [Others](#Others)
  * [Pretrained model](#Pretrained-model)
  * [Dictionary](#Dictionary)
+ * [Corpus](#Corpus)
  * [Reference](#Reference)
  * [Contributors](#Contributors)
 
