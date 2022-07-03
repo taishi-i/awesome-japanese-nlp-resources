@@ -22,6 +22,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
  * [Pretrained model](#Pretrained-model)
  * [Dictionary](#Dictionary)
  * [Corpus](#Corpus)
+ * [Research summary](#Research-summary)
  * [Reference](#Reference)
  * [Contributors](#Contributors)
 
@@ -381,6 +382,11 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 |[house-of-councillors](https://github.com/smartnews-smri/house-of-councillors)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/smartnews-smri/house-of-councillors?style=social)|
 |[house-of-representatives](https://github.com/smartnews-smri/house-of-representatives)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/smartnews-smri/house-of-representatives?style=social)|
 
+
+## Research summary
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
 
 
 ## Reference
