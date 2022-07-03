@@ -385,8 +385,11 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 
 ## Research summary
 
+ * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 文法誤り訂正に関する日本語文献を収集・分類するためのリポジトリ
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
+|[GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gotutiyan/GEC-Info-ja?style=social)|
 
 
 ## Reference
