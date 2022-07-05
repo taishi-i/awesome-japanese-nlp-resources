@@ -401,6 +401,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
  * https://github.com/topics/japanese?l=python
  * https://github.com/topics/japanese-language?l=python
  * https://github.com/search?o=desc&q=corpus+japanese&s=&type=Repositories
+ * https://paperswithcode.com/datasets?lang=japanese
 
 
 ## Contributors
