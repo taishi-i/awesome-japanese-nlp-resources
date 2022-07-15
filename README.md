@@ -459,4 +459,4 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 
 ## Contributors
 
- * [HelloRusk](https://github.com/HelloRusk) - [website](https://hellorusk.net)
+ * [kaisugi](https://github.com/kaisugi) - [website](https://hellorusk.net)
