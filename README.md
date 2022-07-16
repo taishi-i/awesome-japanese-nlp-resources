@@ -16,7 +16,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
    * [Converter](#Converter)
    * [Preprocessor](#Preprocessor)
    * [Sentence spliter](#Sentence-spliter)
-   * [Sentiment Analysis](#Sentiment-Analysis)
+   * [Sentiment analysis](#Sentiment-analysis)
    * [Machine translation](#Machine-translation)
    * [OCR](#OCR)
    * [Others](#Others)
@@ -147,7 +147,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 |[kuzukiri](https://github.com/alinear-corp/kuzukiri)|[![Downloads](https://pepy.tech/badge/kuzukiri/week)](https://pepy.tech/project/kuzukiri)|[![Downloads](https://pepy.tech/badge/kuzukiri)](https://pepy.tech/project/kuzukiri)|![GitHub Repo stars](https://img.shields.io/github/stars/alinear-corp/kuzukiri?style=social)|
 
 
-## Sentiment Analysis
+## Sentiment analysis
 
  * [oseti](https://github.com/ikegami-yukino/oseti) - Dictionary based Sentiment Analysis for Japanese
  * [negapoji](https://github.com/liaoziyang/negapoji) - Japanese negative positive classification.日本語文書のネガポジを判定。
@@ -167,6 +167,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 
  * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
  * [JASS](https://github.com/Mao-KU/JASS) - JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation (LREC2020) & Linguistically Driven Multi-Task Pre-Training for Low-Resource Neural Machine Translation (ACM TALLIP)
+
 
 
 |Name|downloads/week|total downloads|stars|
