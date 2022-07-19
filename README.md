@@ -401,6 +401,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
  * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITAコーパスの文章リスト
  * [rohan4600](https://github.com/mmorise/rohan4600) - モーラバランス型日本語コーパス
  * [anlp-jp-history](https://github.com/whym/anlp-jp-history) - 言語処理学会年次大会講演の全リスト・機械可読版など
+ * [JMRD](https://github.com/ku-nlp/JMRD) - Japanese Movie Recommendation Dialogue dataset
 
 
 
@@ -447,6 +448,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 |[ita-corpus](https://github.com/mmorise/ita-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mmorise/ita-corpus?style=social)|
 |[rohan4600](https://github.com/mmorise/rohan4600)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mmorise/rohan4600?style=social)|
 |[anlp-jp-history](https://github.com/whym/anlp-jp-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/whym/anlp-jp-history?style=social)|
+|[JMRD](https://github.com/ku-nlp/JMRD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/JMRD?style=social)|
 
 
 
