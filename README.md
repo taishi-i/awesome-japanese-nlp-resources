@@ -665,6 +665,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * https://github.com/topics/japanese-language?l=python
  * https://github.com/search?o=desc&q=corpus+japanese&s=&type=Repositories
  * https://paperswithcode.com/datasets?lang=japanese
+ * https://github.com/himkt/awesome-bert-japanese
 
 
 ## Contributors
