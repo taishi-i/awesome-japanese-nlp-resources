@@ -20,6 +20,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
    * [Tool for pretrained models](#Tool-for-pretrained-models)
    * [Others](#Others)
  * [Rust crate](#Rust-crate)
+   * [Morphology analysis](#Morphology-analysis)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -387,6 +388,14 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Kyubyong/neural_japanese_transliterator?style=social)|
 
 ## Rust crate
+
+ * [lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[lindera](https://github.com/lindera-morphology/lindera)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera?style=social)|
+
 
 ## Pretrained model
 
