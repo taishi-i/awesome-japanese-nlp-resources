@@ -706,6 +706,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * https://github.com/search?o=desc&q=corpus+japanese&s=&type=Repositories
  * https://paperswithcode.com/datasets?lang=japanese
  * https://github.com/himkt/awesome-bert-japanese
+ * [Awesome-Rust-MachineLearning-日本語向けのrustクレートや記事等をまとめたもの](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
 
 
 ## Contributors
