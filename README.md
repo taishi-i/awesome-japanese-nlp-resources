@@ -398,6 +398,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto: Very Accelerated POintwise pREdicTion based TOkenizer
  * [goya](https://github.com/Leko/goya) - Japanese Morphological Analysis written in Rust
+ * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: Viterbi-based accelerated tokenizer
 
 
 |Name|downloads/week|total downloads|stars|
@@ -405,6 +406,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[lindera](https://github.com/lindera-morphology/lindera)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera?style=social)|
 |[vaporetto](https://github.com/daac-tools/vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vaporetto?style=social)|
 |[goya](https://github.com/Leko/goya)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Leko/goya?style=social)|
+|[vibrato](https://github.com/daac-tools/vibrato)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vibrato?style=social)|
 
 
 ## Pretrained model
