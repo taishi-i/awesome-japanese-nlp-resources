@@ -23,6 +23,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
    * [Others](#Others)
  * [Rust crate](#Rust-crate)
    * [Morphology analysis](#Morphology-analysis)
+   * [Converter](#Converter)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -409,6 +410,16 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[goya](https://github.com/Leko/goya)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Leko/goya?style=social)|
 |[vibrato](https://github.com/daac-tools/vibrato)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vibrato?style=social)|
 |[yoin](https://github.com/agatan/yoin)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/agatan/yoin?style=social)|
+
+
+### Converter
+
+ * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - Utility library for checking and converting between Japanese characters - Hiragana, Katakana - and Romaji
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
 
 
 ## Pretrained model
