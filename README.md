@@ -415,11 +415,13 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 ### Converter
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - Utility library for checking and converting between Japanese characters - Hiragana, Katakana - and Romaji
+ * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - A Rust library to convert Japanese Half-width-kana[半角ｶﾅ] and Wide-alphanumeric[全角英数] into normal ones
 
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
+|[unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gemmarx/unicode-jp-rs?style=social)|
 
 
 ## Pretrained model
