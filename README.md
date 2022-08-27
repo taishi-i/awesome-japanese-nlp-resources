@@ -399,6 +399,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto: Very Accelerated POintwise pREdicTion based TOkenizer
  * [goya](https://github.com/Leko/goya) - Japanese Morphological Analysis written in Rust
  * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: Viterbi-based accelerated tokenizer
+ * [yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
 
 
 |Name|downloads/week|total downloads|stars|
@@ -407,6 +408,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[vaporetto](https://github.com/daac-tools/vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vaporetto?style=social)|
 |[goya](https://github.com/Leko/goya)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Leko/goya?style=social)|
 |[vibrato](https://github.com/daac-tools/vibrato)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vibrato?style=social)|
+|[yoin](https://github.com/agatan/yoin)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/agatan/yoin?style=social)|
 
 
 ## Pretrained model
