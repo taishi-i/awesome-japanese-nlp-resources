@@ -24,6 +24,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
  * [Rust crate](#Rust-crate)
    * [Morphology analysis](#Morphology-analysis)
    * [Converter](#Converter)
+   * [Search engine library](#Search-engine-library)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -424,6 +425,16 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
 |[unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gemmarx/unicode-jp-rs?style=social)|
 |[kana](https://github.com/gbrlsnchs/kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gbrlsnchs/kana?style=social)|
+
+
+### Search engine library
+
+ * [tantivy](https://github.com/quickwit-oss/tantivy) - Lindera tokenizer for Tantivy.
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[tantivy](https://github.com/quickwit-oss/tantivy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social)|
 
 
 ## Pretrained model
