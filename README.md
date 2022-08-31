@@ -429,12 +429,12 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [tantivy](https://github.com/quickwit-oss/tantivy) - Lindera tokenizer for Tantivy.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy.
 
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-|[tantivy](https://github.com/quickwit-oss/tantivy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social)|
+|[lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera-tantivy?style=social)|
 
 
 ## Pretrained model
