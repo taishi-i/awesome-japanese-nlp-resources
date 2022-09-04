@@ -7,6 +7,8 @@ A curated list of resources dedicated to Python libraries, pre-trained models, d
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
 
+Japanese NLP Resources not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
+
 
 ## Contents
  * [Python library](#Python-library)
