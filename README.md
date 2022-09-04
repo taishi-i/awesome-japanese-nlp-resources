@@ -21,6 +21,8 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
    * [OCR](#OCR)
    * [Tool for pretrained models](#Tool-for-pretrained-models)
    * [Others](#Others)
+ * [C++](#C++)
+   * [Morphology analysis](#Morphology-analysis)
  * [Rust crate](#Rust-crate)
    * [Morphology analysis](#Morphology-analysis)
    * [Converter](#Converter)
@@ -394,6 +396,19 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[neural_ime](https://github.com/yohokuno/neural_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yohokuno/neural_ime?style=social)|
 |[neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Kyubyong/neural_japanese_transliterator?style=social)|
 |[tinysegmenter](https://github.com/SamuraiT/tinysegmenter)|[![Downloads](https://pepy.tech/badge/tinysegmenter/week)](https://pepy.tech/project/tinysegmenter3)|[![Downloads](https://pepy.tech/badge/tinysegmenter3)](https://pepy.tech/project/tinysegmenter3)|![GitHub Repo stars](https://img.shields.io/github/stars/SamuraiT/tinysegmenter3?style=social)|
+
+
+## C++
+
+### Morphology analysis
+
+ * [mecab](https://github.com/taku910/mecab) - Yet another Japanese morphological analyzer
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[mecab](https://github.com/taku910/mecab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/mecab?style=social)|
+
 
 
 ## Rust crate
