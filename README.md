@@ -413,6 +413,15 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[jumanpp](https://github.com/ku-nlp/jumanpp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/jumanpp?style=social)|
 |[kytea](https://github.com/neubig/kytea)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neubig/kytea?style=social)|
 
+### Parsing
+
+ * [cabocha](https://github.com/taku910/cabocha) - Yet Another Japanese Dependency Structure Analyzer
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[cabocha](https://github.com/taku910/cabocha)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/cabocha?style=social)|
+
 
 ## Rust crate
 
