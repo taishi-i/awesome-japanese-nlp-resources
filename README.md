@@ -416,11 +416,13 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 ### Parsing
 
  * [cabocha](https://github.com/taku910/cabocha) - Yet Another Japanese Dependency Structure Analyzer
+ * [knp](https://github.com/ku-nlp/knp) - A Japanese Parser
 
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[cabocha](https://github.com/taku910/cabocha)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/cabocha?style=social)|
+|[knp](https://github.com/ku-nlp/knp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/knp?style=social)|
 
 
 ## Rust crate
