@@ -23,6 +23,8 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
    * [Others](#Others)
  * [C++](#C++)
    * [Morphology analysis](#Morphology-analysis)
+   * [Parsing](#Parsing)
+   * [Others](#Others)
  * [Rust crate](#Rust-crate)
    * [Morphology analysis](#Morphology-analysis)
    * [Converter](#Converter)
@@ -423,6 +425,15 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 -|-|-|-
 |[cabocha](https://github.com/taku910/cabocha)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/cabocha?style=social)|
 |[knp](https://github.com/ku-nlp/knp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/knp?style=social)|
+
+### Others
+
+ * [jsc](https://github.com/yohokuno/jsc) - Joint source channel model for Japanese Kana Kanji conversion, Chinese pinyin input and CJE mixed input.
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[jsc](https://github.com/yohokuno/jsc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yohokuno/jsc?style=social)|
 
 
 ## Rust crate
