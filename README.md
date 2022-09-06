@@ -24,7 +24,7 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
    * [Tool for pretrained models](#Tool-for-pretrained-models)
    * [Others](#Others)
  * [C++](#c)
-   * [Morphology analysis](morphology-analysis-1)
+   * [Morphology analysis](#morphology-analysis-1)
    * [Parsing](#parsing-1)
    * [Others](#others-1)
  * [Rust crate](#Rust-crate)
