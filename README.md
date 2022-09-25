@@ -31,6 +31,7 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
    * [Morphology analysis](#morphology-analysis-2)
    * [Converter](#converter-1)
    * [Search engine library](#Search-engine-library)
+   * [Others](#Others-2)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -40,7 +41,7 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
    * [Text classification](#Text-classification)
    * [Parallel corpus](#Parallel-corpus)
    * [Dialog corpus](#Dialog-corpus)
-   * [Others](#others-2)
+   * [Others](#others-3)
  * [Tutorial](#Tutorial)
  * [Research summary](#Research-summary)
  * [Reference](#Reference)
@@ -507,6 +508,15 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera-tantivy?style=social)|
+
+
+### Others
+
+ * [daachorse](https://github.com/daac-tools/daachorse) - A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[daachorse](https://github.com/daac-tools/daachorse)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/daachorse?style=social)|
 
 
 ## Pretrained model
