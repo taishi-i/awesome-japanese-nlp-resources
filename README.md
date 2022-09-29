@@ -9,6 +9,14 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 
 Japanese NLP Resources not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
 
+## The latest additions 🎉
+
+* [kwja](https://github.com/ku-nlp/kwja) - A unified language analyzer for Japanese
+* [jinf](https://github.com/hkiyomaru/jinf) - A Japanese inflection converter
+* [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) - Aggregating Japanese words based on Juman++ and ConceptNet5.5
+* [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) - 日本の国会議員のデータ
+
+Updated on Sep 30
 
 ## Contents
  * [Python library](#Python-library)
