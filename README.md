@@ -519,11 +519,13 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 ### Search engine library
 
  * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy.
+ * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - A Tantivy tokenizer using Vibrato.
 
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera-tantivy?style=social)|
+|[tantivy-vibrato](https://github.com/akr4/tantivy-vibrato)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akr4/tantivy-vibrato?style=social)|
 
 
 ### Others
