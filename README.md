@@ -11,11 +11,12 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
 
 ## The latest additions 🎉
 
- * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - A Tantivy tokenizer using Vibrato.
- * [crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
- * [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) - Reproduced package based on Masked Language Model Scoring (ACL2020).
+ * [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) - [PyTorch] ClipCap for Japanese
+ * [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) - [PyTorch] Show, Attend and Tell for Japanese
+ * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - A BERT model for nagisa
+ * [cihai](https://github.com/cihai/cihai) - Python library for CJK (Chinese, Japanese, and Korean) language dictionary
 
-_Updated on Oct 7, 2022_
+_Updated on Oct 12, 2022_
 
 ## Contents
  * [Python library](#Python-library)
@@ -262,7 +263,6 @@ _Updated on Oct 7, 2022_
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - Japanese-BPEEncoder Version 2
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法誤り訂正ツール
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - Japanese Stable Diffusion is a Japanese specific latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
- * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - A BERT model for nagisa
 
 
 |Name|downloads/week|total downloads|stars|
@@ -365,7 +365,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [kwja](https://github.com/ku-nlp/kwja) - A unified language analyzer for Japanese
  * [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) - Reproduced package based on Masked Language Model Scoring (ACL2020).
  * [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) - [PyTorch] ClipCap for Japanese
- * [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) -
+ * [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) - [PyTorch] Show, Attend and Tell for Japanese
  * [cihai](https://github.com/cihai/cihai) - Python library for CJK (Chinese, Japanese, and Korean) language dictionary
 
 
