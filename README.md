@@ -541,6 +541,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [daachorse](https://github.com/daac-tools/daachorse) - A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
  * [crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
+ * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) -  Comparison code of various tokenizers
 
 
 |Name|downloads/week|total downloads|stars|
@@ -548,6 +549,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[daachorse](https://github.com/daac-tools/daachorse)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/daachorse?style=social)|
 |[find-simdoc](https://github.com/legalforce-research/find-simdoc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/find-simdoc?style=social)|
 |[crawdad](https://github.com/daac-tools/crawdad)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/crawdad?style=social)|
+|[tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/tokenizer-speed-bench?style=social)|
 
 
 ## Pretrained model
