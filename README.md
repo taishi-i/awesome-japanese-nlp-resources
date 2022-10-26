@@ -11,9 +11,12 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
 
 ## The latest additions 🎉
 
- * [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) - wikiHow dataset (Japanese version)
+ * [marine](https://github.com/6gsn/marine) - MARINE : Multi-task leaRnIng-based JapaNese accent Estimation
+ * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) -  Comparison code of various tokenizers
+ * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - Here provides benchmark tools to compare the performance of data structures for string matching.
 
-_Updated on Oct 22, 2022_
+
+_Updated on Oct 27, 2022_
 
 ## Contents
  * [Python library](#Python-library)
@@ -542,6 +545,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
  * [crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
  * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) -  Comparison code of various tokenizers
+ * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - Here provides benchmark tools to compare the performance of data structures for string matching.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -550,6 +554,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[find-simdoc](https://github.com/legalforce-research/find-simdoc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/find-simdoc?style=social)|
 |[crawdad](https://github.com/daac-tools/crawdad)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/crawdad?style=social)|
 |[tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/tokenizer-speed-bench?style=social)|
+|[stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/stringmatch-bench?style=social)|
 
 
 ## Pretrained model
