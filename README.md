@@ -492,11 +492,13 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 ### Others
 
  * [jsc](https://github.com/yohokuno/jsc) - Joint source channel model for Japanese Kana Kanji conversion, Chinese pinyin input and CJE mixed input.
+ * [aquaskk](https://github.com/codefirst/aquaskk) - An input method without morphological analysis.
 
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[jsc](https://github.com/yohokuno/jsc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yohokuno/jsc?style=social)|
+|[aquaskk](https://github.com/codefirst/aquaskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/codefirst/aquaskk?style=social)|
 
 
 ## Rust crate
