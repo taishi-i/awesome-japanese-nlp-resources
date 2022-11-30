@@ -11,9 +11,9 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
 
 ## The latest additions 🎉
 
- * [jcms](https://github.com/shigashiyama/jcms) - A Japanese Corpus of Many Specialized Domains (JCMS)
+ * [radicalchar](https://github.com/yamamaya/radicalchar) -  部首文字正規化ライブラリ
 
-_Updated on Nov 19, 2022_
+_Updated on Dec 1, 2022_
 
 ## Contents
  * [Python library](#Python-library)
@@ -368,6 +368,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) - Finetuning Whisper ASR model
  * [JaNLI](https://github.com/verypluming/JaNLI) - JaNLI (Japanese Adversarial Natural Language Inference)
  * [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) - A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder
+ * [radicalchar](https://github.com/yamamaya/radicalchar) - 部首文字正規化ライブラリ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -458,6 +459,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarulab-speech/whisper-asr-finetune?style=social)|
 |[JaNLI](https://github.com/verypluming/JaNLI)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/verypluming/JaNLI?style=social)|
 |[japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CjangCjengh/japanese_chatbot?style=social)|
+|[radicalchar](https://github.com/yamamaya/radicalchar)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamamaya/radicalchar?style=social)|
 
 
 ## C++
