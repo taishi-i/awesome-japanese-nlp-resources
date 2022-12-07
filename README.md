@@ -555,6 +555,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
  * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) -  Comparison code of various tokenizers
  * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - Here provides benchmark tools to compare the performance of data structures for string matching.
+ * [vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
 
 
 |Name|downloads/week|total downloads|stars|
@@ -564,6 +565,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[crawdad](https://github.com/daac-tools/crawdad)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/crawdad?style=social)|
 |[tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/tokenizer-speed-bench?style=social)|
 |[stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/stringmatch-bench?style=social)|
+|[vime](https://github.com/algon-320/vime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/algon-320/vime?style=social)
 
 
 ## Pretrained model
