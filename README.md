@@ -265,6 +265,7 @@ _Updated on Dec 15, 2022_
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - Japanese-BPEEncoder Version 2
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法誤り訂正ツール
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - Japanese Stable Diffusion is a Japanese specific latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
+ * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - A BERT model for nagisa
 
 
 |Name|downloads/week|total downloads|stars|
