@@ -20,7 +20,7 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 implementation of Japanese
 
-_Updated on Jan 4, 2022_
+_Updated on Jan 4, 2023_
 
 ## Contents
  * [Python library](#Python-library)
