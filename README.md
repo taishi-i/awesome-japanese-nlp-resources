@@ -382,6 +382,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [radicalchar](https://github.com/yamamaya/radicalchar) - 部首文字正規化ライブラリ
  * [akaza](https://github.com/tokuhirom/akaza) - Yet another Japanese IME for IBus/Linux
  * [posuto](https://github.com/polm/posuto) -  Japanese postal code data.
+ * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 implementation of Japanese
 
 
 |Name|downloads/week|total downloads|stars|
@@ -474,6 +475,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[radicalchar](https://github.com/yamamaya/radicalchar)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamamaya/radicalchar?style=social)|
 |[akaza](https://github.com/tokuhirom/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tokuhirom/akaza?style=social)|
 |[posuto](https://github.com/polm/posuto)|[![Downloads](https://pepy.tech/badge/posuto/week)](https://pepy.tech/project/posuto)|[![Downloads](https://pepy.tech/badge/posuto)](https://pepy.tech/project/posuto)|![GitHub Repo stars](https://img.shields.io/github/stars/polm/posuto?style=social)|
+|[tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CjangCjengh/tacotron2-japanese?style=social)|
 
 
 ## C++
