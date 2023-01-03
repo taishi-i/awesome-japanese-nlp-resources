@@ -378,6 +378,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) - Finetuning Whisper ASR model
  * [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) - A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder
  * [radicalchar](https://github.com/yamamaya/radicalchar) - 部首文字正規化ライブラリ
+ * [akaza](https://github.com/tokuhirom/akaza) - Yet another Japanese IME for IBus/Linux
 
 
 |Name|downloads/week|total downloads|stars|
@@ -468,6 +469,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarulab-speech/whisper-asr-finetune?style=social)|
 |[japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CjangCjengh/japanese_chatbot?style=social)|
 |[radicalchar](https://github.com/yamamaya/radicalchar)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamamaya/radicalchar?style=social)|
+|[akaza](https://github.com/tokuhirom/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tokuhirom/akaza?style=social)|
 
 
 ## C++
