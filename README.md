@@ -379,6 +379,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) - A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder
  * [radicalchar](https://github.com/yamamaya/radicalchar) - 部首文字正規化ライブラリ
  * [akaza](https://github.com/tokuhirom/akaza) - Yet another Japanese IME for IBus/Linux
+ * [posuto](https://github.com/polm/posuto) -  Japanese postal code data.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -470,6 +471,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CjangCjengh/japanese_chatbot?style=social)|
 |[radicalchar](https://github.com/yamamaya/radicalchar)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamamaya/radicalchar?style=social)|
 |[akaza](https://github.com/tokuhirom/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tokuhirom/akaza?style=social)|
+|[posuto](https://github.com/polm/posuto)|[![Downloads](https://pepy.tech/badge/posuto/week)](https://pepy.tech/project/posuto)|[![Downloads](https://pepy.tech/badge/posuto)](https://pepy.tech/project/posuto)|![GitHub Repo stars](https://img.shields.io/github/stars/polm/posuto?style=social)|
 
 
 ## C++
