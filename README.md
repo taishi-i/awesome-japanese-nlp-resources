@@ -5,7 +5,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 332 Japanese NLP repositories.
+This list includes 337 Japanese NLP repositories.
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
@@ -14,13 +14,13 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
 
 ## The latest additions 🎉
 
- * [GPTSAN](https://github.com/tanreinama/GPTSAN) - General-purpose Swich transformer based Japanese language mode
- * [aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) - text-only archives of www.aozora.gr.jp
- * [friendly_JA-Corpus](https://github.com/astremo/friendly_JA-Corpus) - friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon
- * [japanese-clip](https://github.com/rinnakk/japanese-clip) - Japanese CLIP by rinna Co., Ltd.
- * [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) - JMdict and JMnedict in JSON format
+ * [akaza](https://github.com/tokuhirom/akaza) - Yet another Japanese IME for IBus/Linux
+ * [posuto](https://github.com/polm/posuto) -  Japanese postal code data.
+ * [topokanji](https://github.com/scriptin/topokanji) - Topologically ordered lists of kanji for effective learning
+ * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes
+ * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 implementation of Japanese
 
-_Updated on Dec 30, 2022_
+_Updated on Jan 4, 2022_
 
 ## Contents
  * [Python library](#Python-library)
