@@ -15,13 +15,11 @@ Japanese NLP Resources not available on GitHub are added to the [wiki](https://g
 
 ## The latest additions 🎉
 
- * [akaza](https://github.com/tokuhirom/akaza) - Yet another Japanese IME for IBus/Linux
- * [posuto](https://github.com/polm/posuto) -  Japanese postal code data.
- * [topokanji](https://github.com/scriptin/topokanji) - Topologically ordered lists of kanji for effective learning
- * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes
- * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 implementation of Japanese
+ * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
+ * [furiganapad](https://github.com/esrille/furiganapad) - ふりがなパッド
+ * [isbn4groups](https://github.com/uribo/isbn4groups) - ISBN-13における日本語での出版物 (978-4-XXXXXXXXX) に関するデータ等
 
-_Updated on Jan 4, 2023_
+_Updated on Jan 9, 2023_
 
 ## Contents
  * [Python library](#Python-library)
