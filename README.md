@@ -384,6 +384,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [posuto](https://github.com/polm/posuto) -  Japanese postal code data.
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 implementation of Japanese
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
+ * [furiganapad](https://github.com/esrille/furiganapad) - ふりがなパッド
 
 
 |Name|downloads/week|total downloads|stars|
@@ -478,6 +479,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[posuto](https://github.com/polm/posuto)|[![Downloads](https://pepy.tech/badge/posuto/week)](https://pepy.tech/project/posuto)|[![Downloads](https://pepy.tech/badge/posuto)](https://pepy.tech/project/posuto)|![GitHub Repo stars](https://img.shields.io/github/stars/polm/posuto?style=social)|
 |[tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CjangCjengh/tacotron2-japanese?style=social)|
 |[ibus-hiragana](https://github.com/esrille/ibus-hiragana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/esrille/ibus-hiragana?style=social)|
+|[furiganapad](https://github.com/esrille/furiganapad)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/esrille/furiganapad?style=social)|
 
 
 ## C++
