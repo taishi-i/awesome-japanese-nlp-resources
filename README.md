@@ -982,3 +982,4 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 ## Contributors
 
  * [kaisugi](https://github.com/kaisugi) - [website](https://hellorusk.net)
+ * [bomin0624](https://github.com/bomin0624) - [twitter](https://twitter.com/bomin0624_c)
