@@ -21,9 +21,10 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
  * [NMeCab](https://github.com/komutan/NMeCab) - NMeCab: About Japanese morphological analyzer on .NET
  * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - deep-learning-with-pytorchの日本語版repositoryです。
 
-[bomin0624](https://github.com/bomin0624) provided some repository infomation! Thank you!
-
 _Updated on Jan 13, 2023_
+
+🏅 [bomin0624](https://github.com/bomin0624) provided some repository information. Thank you!
+
 
 ## Contents
  * [Python library](#Python-library)
