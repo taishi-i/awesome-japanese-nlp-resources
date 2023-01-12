@@ -6,20 +6,24 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 340 Japanese NLP repositories.
+This list includes 345 Japanese NLP repositories.
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
 
-Japanese NLP Resources not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
+Resources that are not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
 
 ## The latest additions 🎉
 
- * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
- * [furiganapad](https://github.com/esrille/furiganapad) - ふりがなパッド
- * [isbn4groups](https://github.com/uribo/isbn4groups) - ISBN-13における日本語での出版物 (978-4-XXXXXXXXX) に関するデータ等
+ * [ndlngramdata](https://github.com/ndl-lab/ndlngramdata) - デジタル化資料から作成したOCRテキストデータのngram頻度統計情報のデータセット
+ * [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) - 2023年1月にリニューアルしたNDL Ngram Viewerのソースコード等一式
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - Japanese synonym library
+ * [NMeCab](https://github.com/komutan/NMeCab) - NMeCab: About Japanese morphological analyzer on .NET
+ * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - deep-learning-with-pytorchの日本語版repositoryです。
 
-_Updated on Jan 9, 2023_
+[bomin0624](https://github.com/bomin0624) provided some repository infomation! Thank you!
+
+_Updated on Jan 13, 2023_
 
 ## Contents
  * [Python library](#Python-library)
