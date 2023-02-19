@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 359 Japanese NLP repositories.
+This list includes 361 Japanese NLP repositories.
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
@@ -15,10 +15,12 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
- * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - Japanese version of LIWC2015
- * [mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
+ * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - Comparison of Japanese Sentence Segmentation Tools
+ * [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) - Convert external words into Mozc system dictionary
 
-_Updated on Feb 13, 2023_
+[study_program](https://qiita.com/study_program) wrote [the article - 文章分割(Sentence spliter):bunkai、ネガポジ判定(Sentiment analysis):osetiのOSSを試す](https://qiita.com/study_program/items/3346d764f27c69c855a8) with reference to this repository. Thank you 🙏
+
+_Updated on Feb 20, 2023_
 
 
 ## Contents
