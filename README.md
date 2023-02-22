@@ -542,6 +542,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [goya](https://github.com/Leko/goya) - Japanese Morphological Analysis written in Rust
  * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: Viterbi-based accelerated tokenizer
  * [yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
+ * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
 
 
 |Name|downloads/week|total downloads|stars|
@@ -551,6 +552,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[goya](https://github.com/Leko/goya)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Leko/goya?style=social)|
 |[vibrato](https://github.com/daac-tools/vibrato)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vibrato?style=social)|
 |[yoin](https://github.com/agatan/yoin)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/agatan/yoin?style=social)|
+|[mecab-rs](https://github.com/tsurai/mecab-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tsurai/mecab-rs?style=social)|
 
 
 ### Converter
@@ -591,6 +593,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - A free online, self-hostable, multilang Japanese dictionary.
  * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - Google 日本語入力用DvorakJPローマ字テーブル / DvorakJP Roman Table for Google Japanese Input
+ * [niinii](https://github.com/Netdex/niinii) -  Japanese glossator for assisted reading of text using Ichiran
 
 
 |Name|downloads/week|total downloads|stars|
@@ -605,6 +608,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[akaza](https://github.com/akaza-im/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akaza-im/akaza?style=social)
 |[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
 |[dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-romantable?style=social)|
+|[niinii](https://github.com/Netdex/niinii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Netdex/niinii?style=social)|
 
 
 ## Pretrained model
