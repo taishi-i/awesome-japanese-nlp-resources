@@ -589,6 +589,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
  * [akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
+ * [Jotoba](https://github.com/WeDontPanic/Jotoba) - A free online, self-hostable, multilang Japanese dictionary.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -601,6 +602,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[vime](https://github.com/algon-320/vime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/algon-320/vime?style=social)
 |[voicevox_core](https://github.com/VOICEVOX/voicevox_core)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/VOICEVOX/voicevox_core?style=social)|
 |[akaza](https://github.com/akaza-im/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akaza-im/akaza?style=social)
+|[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
 
 
 ## Pretrained model
