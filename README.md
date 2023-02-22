@@ -23,9 +23,9 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
  * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
-[study_program](https://qiita.com/study_program) wrote [the article - 文章分割(Sentence spliter):bunkai、ネガポジ判定(Sentiment analysis):osetiのOSSを試す](https://qiita.com/study_program/items/3346d764f27c69c855a8) with reference to this repository. Thank you 🙏
-
 _Updated on Feb 23, 2023_
+
+[study_program](https://qiita.com/study_program) wrote [the article - 文章分割(Sentence spliter):bunkai、ネガポジ判定(Sentiment analysis):osetiのOSSを試す](https://qiita.com/study_program/items/3346d764f27c69c855a8) with reference to this repository. Thank you 🙏
 
 
 ## Contents
