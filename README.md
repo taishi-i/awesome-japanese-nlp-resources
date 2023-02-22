@@ -543,6 +543,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: Viterbi-based accelerated tokenizer
  * [yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
+ * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
 
 |Name|downloads/week|total downloads|stars|
@@ -553,6 +554,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[vibrato](https://github.com/daac-tools/vibrato)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vibrato?style=social)|
 |[yoin](https://github.com/agatan/yoin)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/agatan/yoin?style=social)|
 |[mecab-rs](https://github.com/tsurai/mecab-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tsurai/mecab-rs?style=social)|
+|[awabi](https://github.com/nakagami/awabi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nakagami/awabi?style=social)|
 
 
 ### Converter
