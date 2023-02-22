@@ -50,6 +50,8 @@ _Updated on Feb 23, 2023_
    * [Converter](#converter-1)
    * [Search engine library](#Search-engine-library)
    * [Others](#Others-2)
+ * [JavaScript](#JavaScript)
+   * [Converter](#converter-2)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -616,6 +618,18 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
 |[dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-romantable?style=social)|
 |[niinii](https://github.com/Netdex/niinii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Netdex/niinii?style=social)|
+
+
+## JavaScript
+
+### Converter
+
+ * [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[kuroshiro](https://github.com/hexenq/kuroshiro)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hexenq/kuroshiro?style=social)|
 
 
 ## Pretrained model
