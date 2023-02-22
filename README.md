@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 361 Japanese NLP repositories.
+This list includes 366 Japanese NLP repositories.
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
@@ -15,12 +15,17 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
- * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - Comparison of Japanese Sentence Segmentation Tools
- * [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) - Convert external words into Mozc system dictionary
+### Rust
+ * [akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
+ * [Jotoba](https://github.com/WeDontPanic/Jotoba) - A free online, self-hostable, multilang Japanese dictionary.
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - Google 日本語入力用DvorakJPローマ字テーブル / DvorakJP Roman Table for Google Japanese Input
+ * [niinii](https://github.com/Netdex/niinii) -  Japanese glossator for assisted reading of text using Ichiran
+ * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
+ * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
 [study_program](https://qiita.com/study_program) wrote [the article - 文章分割(Sentence spliter):bunkai、ネガポジ判定(Sentiment analysis):osetiのOSSを試す](https://qiita.com/study_program/items/3346d764f27c69c855a8) with reference to this repository. Thank you 🙏
 
-_Updated on Feb 20, 2023_
+_Updated on Feb 23, 2023_
 
 
 ## Contents
