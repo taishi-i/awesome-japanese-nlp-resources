@@ -54,6 +54,8 @@ _Updated on Feb 23, 2023_
    * [Morphology analysis](#morphology-analysis-3)
    * [Converter](#converter-2)
    * [Others](#Others-3)
+ * [Go](#Go)
+   * [Morphology analysis](#morphology-analysis-4)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -693,6 +695,18 @@ Resources
 |[sentiment_ja_js](https://github.com/otodn/sentiment_ja_js)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/otodn/sentiment_ja_js?style=social)|
 |[mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed)|![npm](https://img.shields.io/npm/dw/mecab-ipadic-seed)|![npm](https://img.shields.io/npm/dt/mecab-ipadic-seed)|![GitHub Repo stars](https://img.shields.io/github/stars/takuyaa/mecab-ipadic-seed?style=social)|
 |[Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day)|![npm](https://img.shields.io/npm/dw/japanese-wotd)|![npm](https://img.shields.io/npm/dt/japanese-wotd)|![GitHub Repo stars](https://img.shields.io/github/stars/LuanRT/Japanese-Word-Of-The-Day?style=social)|
+
+
+## Go
+
+### Morphology analysis
+
+ * [kagome](https://github.com/ikawaha/kagome) - Self-contained Japanese Morphological Analyzer written in pure Go
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[kagome](https://github.com/ikawaha/kagome)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome?style=social)|
 
 
 ## Pretrained model
