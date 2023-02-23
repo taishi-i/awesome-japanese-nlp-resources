@@ -57,6 +57,8 @@ _Updated on Feb 23, 2023_
  * [Go](#Go)
    * [Morphology analysis](#morphology-analysis-4)
    * [Others](#Others-4)
+ * [Java](#Java)
+   * [Morphology analysis](#morphology-analysis-5)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -726,6 +728,18 @@ Resources
 |[yomichan-import](https://github.com/FooSoft/yomichan-import)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FooSoft/yomichan-import?style=social)|
 |[imas-ime-dic](https://github.com/maruamyu/imas-ime-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/maruamyu/imas-ime-dic?style=social)|
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
+
+
+## Java
+
+### Morphology analysis
+
+ * [kuromoji](https://github.com/atilika/kuromoji) - Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[kuromoji](https://github.com/atilika/kuromoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/atilika/kuromoji?style=social)|
 
 
 ## Pretrained model
