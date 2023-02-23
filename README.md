@@ -53,6 +53,7 @@ _Updated on Feb 23, 2023_
  * [JavaScript](#JavaScript)
    * [Morphology analysis](#morphology-analysis-3)
    * [Converter](#converter-2)
+   * [Others](#Others-3)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -648,6 +649,16 @@ Resources
 |[kuroshiro](https://github.com/hexenq/kuroshiro)|![npm](https://img.shields.io/npm/dw/kuroshiro)|![npm](https://img.shields.io/npm/dt/kuroshiro)|![GitHub Repo stars](https://img.shields.io/github/stars/hexenq/kuroshiro?style=social)|
 |[hepburn](https://github.com/lovell/hepburn)|![npm](https://img.shields.io/npm/dw/hepburn)|![npm](https://img.shields.io/npm/dt/hepburn)|![GitHub Repo stars](https://img.shields.io/github/stars/lovell/hepburn?style=social)|
 |[japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number)|![npm](https://img.shields.io/npm/dw/japanese-numerals-to-number)|![npm](https://img.shields.io/npm/dt/japanese-numerals-to-number)|![GitHub Repo stars](https://img.shields.io/github/stars/twada/japanese-numerals-to-number?style=social)|
+
+
+### Others
+
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[bangumi-data](https://github.com/bangumi-data/bangumi-data)|![npm](https://img.shields.io/npm/dw/bangumi-data)|![npm](https://img.shields.io/npm/dt/bangumi-data)|![GitHub Repo stars](https://img.shields.io/github/stars/bangumi-data/bangumi-data?style=social)|
 
 
 ## Pretrained model
