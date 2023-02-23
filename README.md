@@ -56,6 +56,7 @@ _Updated on Feb 23, 2023_
    * [Others](#Others-3)
  * [Go](#Go)
    * [Morphology analysis](#morphology-analysis-4)
+   * [Others](#Others-4)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
@@ -707,6 +708,16 @@ Resources
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[kagome](https://github.com/ikawaha/kagome)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome?style=social)|
+
+
+### Others
+
+ * [ojosama](https://github.com/jiro4989/ojosama) - テキストを壱百満天原サロメお嬢様風の口調に変換します
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[ojosama](https://github.com/jiro4989/ojosama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jiro4989/ojosama?style=social)|
 
 
 ## Pretrained model
