@@ -640,7 +640,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-|[kuroshiro](https://github.com/hexenq/kuroshiro)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hexenq/kuroshiro?style=social)|
+|[kuroshiro](https://github.com/hexenq/kuroshiro)|![npm](https://img.shields.io/npm/dw/kuroshiro)|![npm](https://img.shields.io/npm/dt/kuroshiro)|![GitHub Repo stars](https://img.shields.io/github/stars/hexenq/kuroshiro?style=social)|
 
 
 ## Pretrained model
