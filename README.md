@@ -51,6 +51,7 @@ _Updated on Feb 23, 2023_
    * [Search engine library](#Search-engine-library)
    * [Others](#Others-2)
  * [JavaScript](#JavaScript)
+   * [Morphology analysis](#morphology-analysis-3)
    * [Converter](#converter-2)
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
@@ -621,6 +622,16 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 
 ## JavaScript
+
+### Morphology analysis
+
+ * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - JavaScript implementation of Japanese morphological analyzer
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[kuromoji.js](https://github.com/takuyaa/kuromoji.js)|![npm](https://img.shields.io/npm/dw/kuromoji)|![npm](https://img.shields.io/npm/dt/kuromoji)|![GitHub Repo stars](https://img.shields.io/github/stars/takuyaa/kuromoji.js?style=social)|
+
 
 ### Converter
 
