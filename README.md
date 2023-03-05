@@ -6,7 +6,8 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 411 Japanese NLP repositories.
+This list includes 412 Japanese NLP repositories.
+[The search site](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) in Hugging Face Spaces is available to help you find these repositories.
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
@@ -16,17 +17,10 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 ## The latest additions 🎉
 
 **Python library**
- * [shuwa](https://github.com/google/shuwa) - Extend GNOME On-Screen Keyboard for Input Methods
-
-**JavaScript**
- * [oskim](https://github.com/esrille/oskim) - Extend GNOME On-Screen Keyboard for Input Methods
-
-**Corpus**
- * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - Japanese Livedoor news corpus for huggingface datasets
- * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
+ * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR用テキスト認識モジュール
 
 
-_Updated on Feb 28, 2023_
+_Updated on Mar 5, 2023_
 
 
 ## Contents
