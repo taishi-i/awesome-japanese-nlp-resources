@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 412 Japanese NLP repositories.
+This list includes 416 Japanese NLP repositories.
 [The search site](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) in Hugging Face Spaces is available to help you find these repositories.
 
 Your contributions are always welcome!
@@ -16,11 +16,16 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
-**Python library**
- * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR用テキスト認識モジュール
+**Pretrained model**
+ * [AcademicBART](https://github.com/EhimeNLP/AcademicBART) - We pretrained a BART-based Japanese masked language model on paper abstracts from the academic database CiNii Articles
+ * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - We pretrained a RoBERTa-based Japanese masked language model on paper abstracts from the academic database CiNii Articles.
+
+**Corpus**
+ * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality is a dataset created through crowdsourcing that reflects the commonsense morality of Japanese annotators.
+ * [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) - COMET-ATOMIC ja
 
 
-_Updated on Mar 5, 2023_
+_Updated on Mar 7, 2023_
 
 
 ## Contents
