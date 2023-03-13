@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 418 Japanese NLP repositories.
+This list includes 425 Japanese NLP repositories.
 [The search site](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) in Hugging Face Spaces is available to help you find these repositories.
 
 Your contributions are always welcome!
@@ -16,14 +16,19 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
-**JavaScript**
- * [tweetMapping](https://github.com/wtnv-lab/tweetMapping) - 東日本大震災発生から24時間以内につぶやかれたジオタグ付きツイートのデジタルアーカイブです。
+**Python library**
+ * [jamorasep](https://github.com/tachi-hi/jamorasep) - Japanese text parser to separate Hiragana/Katakana string into morae (syllables)
+ * [HojiChar](https://github.com/HojiChar/HojiChar) - 複数の前処理を構成して管理するテキスト前処理ツール
+
+**C++**
+ * [trimatch](https://github.com/tuem/trimatch) - Trimatch: An (Exact|Prefix|Approximate) String Matching Library
+ * [resembla](https://github.com/tuem/resembla) - Resembla: Word-based Japanese similar sentence search library
 
 **Corpus**
- * [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) - Dialogue Commonsense Graph in Japanese
+ * [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) - "Proposal and Evaluation of Japanese Toxicity Schema" provides a schema and dataset for toxicity in the Japanese language.
 
 
-_Updated on Mar 12, 2023_
+_Updated on Mar 14, 2023_
 
 
 ## Contents
@@ -546,6 +551,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [aquaskk](https://github.com/codefirst/aquaskk) - An input method without morphological analysis.
  * [mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
  * [trimatch](https://github.com/tuem/trimatch) - Trimatch: An (Exact|Prefix|Approximate) String Matching Library
+ * [resembla](https://github.com/tuem/resembla) - Resembla: Word-based Japanese similar sentence search library
 
 
 |Name|downloads/week|total downloads|stars|
@@ -554,6 +560,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[aquaskk](https://github.com/codefirst/aquaskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/codefirst/aquaskk?style=social)|
 |[mozc](https://github.com/google/mozc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/google/mozc?style=social)|
 |[trimatch](https://github.com/tuem/trimatch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tuem/trimatch?style=social)|
+|[resembla](https://github.com/tuem/resembla)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tuem/resembla?style=social)|
 
 
 ## Rust crate
