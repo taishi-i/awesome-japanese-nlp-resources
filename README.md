@@ -69,6 +69,7 @@ _Updated on Mar 18, 2023_
  * [Pretrained model](#Pretrained-model)
    * [Word2Vec](#Word2Vec)
    * [Transformer based models](#Transformer-based-models)
+ * [ChatGPT](#ChatGPT)
  * [Dictionary](#Dictionary)
  * [Corpus](#Corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
@@ -894,6 +895,16 @@ Resources
 |[AcademicBART](https://github.com/EhimeNLP/AcademicBART)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/AcademicBART?style=social)|
 |[AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)|
 |[LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/line/LINE-DistilBERT-Japanese?style=social)|
+
+
+## ChatGPT
+
+ * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
+
+
+|Name|downloads/week|total downloads|stars|
+-|-|-|-
+|[VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Yuchi-Games/VRChatGPT?style=social)|
 
 
 ## Dictionary
