@@ -16,16 +16,20 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
-** Pretrained model **
+**Parsing**
+ * [yomikata](https://github.com/passaglia/yomikata) - Heteronym disambiguation library using a fine-tuned BERT model.
+
+**Pretrained model**
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
 
-** ChatGPT **
+**ChatGPT**
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - AITuberの基礎となる部分を開発しています
  * [wanna](https://github.com/hirokidaichi/wanna) - Shell command launcher with natural language
  * [ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot
  * [ChuanhuChatGPTJapanese](https://github.com/gyokuro33/ChuanhuChatGPTJapanese) - GUI for ChatGPT API For Japanese
 
+[passaglia](https://github.com/passaglia) provided some repository infomation! Thank you!
 
 _Updated on Mar 27, 2023_
 
