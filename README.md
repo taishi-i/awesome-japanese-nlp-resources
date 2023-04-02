@@ -14,7 +14,7 @@ Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-ja
 
 Resources that are not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
 
-We have released a new Awesome repository dedicated to ChatGPT ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) 🎉 You can access it from [here](https://github.com/taishi-i/awesome-ChatGPT-repositories).
+We have released a new Awesome repository dedicated to ChatGPT ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) 😎 You can access it from [here](https://github.com/taishi-i/awesome-ChatGPT-repositories)!
 
 
 ## The latest additions 🎉
