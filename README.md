@@ -12,9 +12,11 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
 
-Resources that are not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
 
 We have released a new Awesome repository dedicated to ChatGPT ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) 😎
+
+[English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/README.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+The descriptions in each repository are translated using a machine translation model ([facebook/nllb-200-distilled-1.3B](https://huggingface.co/facebook/nllb-200-distilled-1.3B)).
 
 
 ## The latest additions 🎉
@@ -23,12 +25,10 @@ We have released a new Awesome repository dedicated to ChatGPT ([awesome-ChatGPT
  * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - jp-localization
 
-
 **Corpus**
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - FactCheckSentenceNLIデータセット
 
-_Updated on Apr 8, 2023_
-
+_Updated on Apr 09, 2023_
 
 ## Contents
  * [Python library](#Python-library)
