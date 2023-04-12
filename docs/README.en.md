@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 450 Japanese NLP repositories.
+This list includes 453 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -21,13 +21,15 @@ We have released a new Awesome repository dedicated to ChatGPT ([awesome-ChatGPT
 ## The latest additions 🎉
 
 **Python**
- * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models
- * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - Jp-localization is a
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
+
+**ChatGPT**
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - Japanese Daily Dialogue, or 日本語日常対話コーパス in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment.
 
 **Corpus**
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - FactCheckSentenceNLIデータセット
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - This sample shows some approaches to creating ChatGPT-like experiences for unique data using Retrieval Augmented Generation patterns.
 
-_Updated on Apr 09, 2023_
+_Updated on Apr 13, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -298,6 +300,7 @@ _Updated on Apr 09, 2023_
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - Japanese Stable Diffusion is a Japanese specific latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - A BERT model for nagisa
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
 
 
 |Name|downloads/week|total downloads|stars|
@@ -317,7 +320,7 @@ _Updated on Apr 09, 2023_
 |[japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/japanese-stable-diffusion?style=social)|
 |[nagisa_bert](https://github.com/taishi-i/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert/week)](https://pepy.tech/project/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert)](https://pepy.tech/project/nagisa_bert)|![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/nagisa_bert?style=social)|
 |[prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/prefix-tuning-gpt?style=social)|
-
+|[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 
 ### Others
 
@@ -681,7 +684,7 @@ Resources
  * [hepburn](https://github.com/lovell/hepburn) - Node.js module for converting Japanese Hiragana and Katakana script to, and from, Romaji using Hepburn romanisation
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - Converts Japanese Numerals into number
  * [jslingua](https://github.com/kariminf/jslingua) - JavaScript libraries to process text: Arabic, Japanese, etc.
- * [WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana <--> Katakana <--> Romaji
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - The Javascript library for detecting and transliterating Hiragana
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - Normalize and fix common issues with Romaji-based Japanese names.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
 
@@ -914,6 +917,7 @@ Resources
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPT is a YouTuber.
  * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - A chatbox application built using Nuxt 3 powered by Open AI Text completion endpoint. You can select different personality of your AI friend. The default will respond in Japanese. You can use this app to practice your Nihongo skills!
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - This Chrome extension can translate selected Japanese text to Hiragana by using ChatGPT.
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - This sample shows some approaches to creating ChatGPT-like experiences for unique data using Retrieval Augmented Generation patterns.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -928,6 +932,7 @@ Resources
 |[gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/gptuber-by-langchain?style=social)|
 |[openai-chatfriend](https://github.com/supershaneski/openai-chatfriend)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/supershaneski/openai-chatfriend?style=social)|
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
+|[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 
 
 ## Dictionary
@@ -948,7 +953,7 @@ Resources
  * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - IME dictionary, common to both the Nikonico and Pixib encyclopedias
  * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - GoogleIME用カタカナ語辞書プロジェクトのアーカイブです。Project archive of Google IME user dictionary from Katakana word ( Japanese loanword ) to English.
  * [emoticon](https://github.com/tiwanari/emoticon) - The Japanese-language entry of the Google face dictionary  ((,,Ò‿Ó,,) 
- * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - open source mozc dictionaryをMeCab辞書のフォーマットに変換したものです。
+ * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - It is a conversion of the open source mozc dictionary to the MeCab dictionary format.
  * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - RadioIME: A dictionary of terms related to the "radio department" that are intended for use in Microsoft IME and other applications.
  * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - It is a dictionary of related terms intended for use in Microsoft IME and other applications.
  * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - The name of the game is a dictionary of all known Pokémon names that were intended to be used in Microsoft IME and other applications.
@@ -1050,6 +1055,7 @@ Resources
  * [asdc](https://github.com/megagonlabs/asdc) - Accommodation Search Dialog Corpus (宿泊施設探索対話コーパス)
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - Japanese language interaction data for seq2seq etc
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - This repository contains the Japanese–English bilingual chat corpus BPersona-chat published in the paper Chat Translation Error Detection for Assisting Cross-lingual Communications at AACL-IJCNLP 2022's Workshop Eval4NLP 2022.
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - Japanese Daily Dialogue, or 日本語日常対話コーパス in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1060,7 +1066,7 @@ Resources
 |[asdc](https://github.com/megagonlabs/asdc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/asdc?style=social)|
 |[japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MokkeMeguru/japanese-corpus?style=social)|
 |[BPersona-chat](https://github.com/cl-tohoku/BPersona-chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/BPersona-chat?style=social)|
-
+|[japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jqk09a/japanese-daily-dialogue?style=social)|
 
 ### Others
 
