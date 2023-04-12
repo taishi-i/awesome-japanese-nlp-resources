@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 450 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 453 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -18,13 +18,15 @@
 ## The latest additions 🎉
 
 **Python**
- * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - 透過使用前言論結構來進行自動評估
- * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 沒有任何可能的.
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 訓練與評估JGLUE的文本,
+
+**ChatGPT**
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本日日對話,或日本語日常對話コーパス, 是一個高品質的多轉對話資料集, 包含關於五個主題的日常對話:日常生活,學校,旅行,健康和娛樂.
 
 **Corpus**
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 實際檢查句子NLI數據集
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 這樣的情況是, 透過使用Retrieval Augmented Generation模式,
 
-_Updated on Apr 09, 2023_
+_Updated on Apr 13, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -295,6 +297,7 @@ _Updated on Apr 09, 2023_
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本穩定傳播是一個日本特有的隱藏文字轉圖像傳播模型,
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - 這裡是一個很棒的地方.
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 標示代碼用于先調 GPT/GPT-NeoX 模型和訓練先的推論
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 訓練與評估JGLUE的文本,
 
 
 |Name|downloads/week|total downloads|stars|
@@ -314,7 +317,7 @@ _Updated on Apr 09, 2023_
 |[japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/japanese-stable-diffusion?style=social)|
 |[nagisa_bert](https://github.com/taishi-i/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert/week)](https://pepy.tech/project/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert)](https://pepy.tech/project/nagisa_bert)|![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/nagisa_bert?style=social)|
 |[prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/prefix-tuning-gpt?style=social)|
-
+|[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 
 ### Others
 
@@ -335,7 +338,7 @@ _Updated on Apr 09, 2023_
  * [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
  * [showcase](https://github.com/cl-tohoku/showcase) - 該網站的網站使用者將會在此網站上使用PyTorch.
  * [darts-clone-python](https://github.com/rixwew/darts-clone-python) - 子子綁定
- * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 沒有任何關於日本的新聞,
+ * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 關於日本實際文字含義體的示例代碼
  * [desuwa](https://github.com/megagonlabs/desuwa) - 基於KNP規則檔案的形狀和短語的特征注解器 (純Python)
  * [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) - 餐廳搜尋系統透過日文對話.
  * [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) - 日本語自然語言處理的示範編碼
@@ -354,7 +357,7 @@ _Updated on Apr 09, 2023_
  * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - 這是一篇日本文章的總結.
  * [chirptext](https://github.com/letuananh/chirptext) - 這裡有許多文本處理工具,
  * [yubin](https://github.com/alvations/yubin) - 沒有任何關於我們.
- * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 這裡有許多不同的語言,
+ * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本語維基百科清潔器
  * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 這是一本將日文轉換成語音的 Python 庫.
  * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - 這裡包含與"以情感為基礎的文字分類日本代幣化器的實驗評估"中的實驗相關的代碼.
  * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - 關於
@@ -674,11 +677,11 @@ Resources
 ### Converter
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - 提供日本語文庫, 能將日本語句子轉換成海拉加納,卡塔卡納或羅馬吉,
- * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 科羅木治形狀分析器為科羅希羅.
+ * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 沒有任何關於 Kuromoji 的相關貼子!
  * [hepburn](https://github.com/lovell/hepburn) - Node.js模組,可使用赫伯恩的羅曼化將日文語和卡塔卡納文字轉換為羅馬文
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 轉換日文數字成數字
  * [jslingua](https://github.com/kariminf/jslingua) - 沒有任何關於JavaScript的資料.
- * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和翻譯海拉加納語的 JavaScript 庫
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和轉寫海拉加納 <--> 加塔卡納 <--> 羅馬吉的JavaScript庫
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 規范並解決羅馬吉名字常見問題.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 工具集, 使日本文本變得舊式
 
@@ -780,7 +783,7 @@ Resources
  * [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) - 漢字翻譯為海拉加納/卡塔卡納/羅馬吉,
  * [Kamite](https://github.com/fauu/Kamite) - 台式電腦學習日文的語言沉浸伴侶
  * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - 合式日本代碼化原生插件
- * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 這裡有許多不同的語言,
+ * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本分析器使用kuromoji日本代號化器進行彈性搜尋
  * [moji4j](https://github.com/andree-surya/moji4j) - 這是一本Java圖書館,
  * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 關於日本語文字標準化器
 
@@ -843,7 +846,7 @@ Resources
  * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 經由 UniDic & SudachiPy 協助 MeCab 預先標示,
  * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 訓練句子 BERT的代碼 抱擁臉型號中心的日本模型
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 官方微調代碼"日本推特情緒分析與日本疫苗的比較"
- * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 這種情況是很常見的.
+ * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代模型
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于gpt-2的文本2文本轉換模型
  * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 這種情況是很常見的.
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 試圖讓西方人更容易/更容易使用日文, 透過使用拉丁/英語衍生的卡塔卡納詞彙,
@@ -911,6 +914,7 @@ Resources
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 這裡有許多人使用GPT,
  * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - 透過 Open AI 文字完成終點建立的 Nuxt 3 聊天盒應用程式.您可以選擇您的 AI 朋友的不同性格.預設會用日文回應.您可以使用此應用程式練習您的尼宏技能!
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - 這項 Chrome 擴展可以使用 ChatGPT 將選定的日文翻譯成海拉加納.
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 這樣的情況是, 透過使用Retrieval Augmented Generation模式,
 
 
 |Name|downloads/week|total downloads|stars|
@@ -925,6 +929,7 @@ Resources
 |[gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/gptuber-by-langchain?style=social)|
 |[openai-chatfriend](https://github.com/supershaneski/openai-chatfriend)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/supershaneski/openai-chatfriend?style=social)|
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
+|[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 
 
 ## Dictionary
@@ -1047,6 +1052,7 @@ Resources
  * [asdc](https://github.com/megagonlabs/asdc) - 住宿搜尋對話資料庫 (宿泊施設探索対話コーパス)
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 這裡是日本語的對話數據,
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 這份資料庫包含了在AACL-IJCNLP 2022年研討會Eval4NLP 2022上發表的日本英雙語聊天資料庫BPersona-chat.
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本日日對話,或日本語日常對話コーパス, 是一個高品質的多轉對話資料集, 包含關於五個主題的日常對話:日常生活,學校,旅行,健康和娛樂.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1057,7 +1063,7 @@ Resources
 |[asdc](https://github.com/megagonlabs/asdc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/asdc?style=social)|
 |[japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MokkeMeguru/japanese-corpus?style=social)|
 |[BPersona-chat](https://github.com/cl-tohoku/BPersona-chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/BPersona-chat?style=social)|
-
+|[japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jqk09a/japanese-daily-dialogue?style=social)|
 
 ### Others
 

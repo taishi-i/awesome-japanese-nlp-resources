@@ -20,13 +20,15 @@ ChatGPTに関する新しいAwesomeリポジトリ ([awesome-ChatGPT-repositorie
 ## The latest additions 🎉
 
 **Python**
- * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE: 画像字幕モデルのためのプレディケート-アーグメント構造を使用する自動評価メトリック
- * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - jp-localization
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 日本語理解基準であるJGLUEのための訓練と評価スクリプト
+
+**ChatGPT**
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス (日々の会話) は,日々の生活,学校,旅行,健康,娯楽など5つのトピックに関する日常会話を含む高品質の多回転対話データセットです.
 
 **Corpus**
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - フォクトチェックNLIデータセット
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
 
-_Updated on Apr 09, 2023_
+_Updated on Apr 13, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -165,7 +167,7 @@ _Updated on Apr 09, 2023_
 ### Preprocessor
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - 日本語テキスト標準化器 mecab-neologd
- * [jaconv](https://github.com/ikegami-yukino/jaconv) - Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, and Zenkaku
+ * [jaconv](https://github.com/ikegami-yukino/jaconv) - 純Pythonで日本語の文字を変換するヒラガナ,カタカナ,ハンカク,ゼンカク
  * [mojimoji](https://github.com/studio-ousia/mojimoji) - A fast converter between Japanese hankaku and zenkaku characters
  * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 日本語のウェブテキストのための強力なテキストクリーナー
  * [HojiChar](https://github.com/HojiChar/HojiChar) - 複数の前処理を構成して管理するテキスト前処理ツール
@@ -297,6 +299,7 @@ _Updated on Apr 09, 2023_
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本式安定拡散は,日本語特有の潜性テキスト・トゥ・イメージ拡散モデルで,テキスト入力条件で写真リアルな画像を生成できる.
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - A BERT model for nagisa
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - プレフィックス調節 GPT/GPT-NeoX モデルと訓練されたプレフィックスによる推論の例コード
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 日本語理解基準であるJGLUEのための訓練と評価スクリプト
 
 
 |Name|downloads/week|total downloads|stars|
@@ -316,7 +319,7 @@ _Updated on Apr 09, 2023_
 |[japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/japanese-stable-diffusion?style=social)|
 |[nagisa_bert](https://github.com/taishi-i/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert/week)](https://pepy.tech/project/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert)](https://pepy.tech/project/nagisa_bert)|![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/nagisa_bert?style=social)|
 |[prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/prefix-tuning-gpt?style=social)|
-
+|[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 
 ### Others
 
@@ -355,7 +358,7 @@ _Updated on Apr 09, 2023_
  * [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) - Get Japanese dialogue corpus
  * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - 日本語の記事の要約書
  * [chirptext](https://github.com/letuananh/chirptext) - ChirpTextは,Python用のテキスト処理ツールの一覧です.
- * [yubin](https://github.com/alvations/yubin) - Japanese Address Munger
+ * [yubin](https://github.com/alvations/yubin) - 日本語 アドレス モンガー
  * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本語ウィキペディア クリーンヤー
  * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 日本語を音符に変換する Python ライブラリです
  * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - このリポジトリには",感情に基づくテキスト分類のための日本のトークナイザー実験評価"の実験に関連するコードが含まれています.
@@ -612,7 +615,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - リンデラ・トークナイザー
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy.
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - バイブラトを使ったタンティヴィのトークナイザー
 
 
@@ -699,7 +702,7 @@ Resources
 
 ### Others
 
- * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本アニメの原始データ
  * [yomichan](https://github.com/FooSoft/yomichan) - 日本語ポップアップ辞書拡張 Chrome と Firefox のために
  * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - GUIで動作する文書校正ツール GUI テキストリントツール
  * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - ジェームズ・ハイジグの"漢字を覚えておく" 6版で教えられている 2200文字を表示するウェブアプリ.
@@ -784,7 +787,7 @@ Resources
  * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - Async 日本語トークナイザー Native Plugin for React iOSとAndroid向けネイティブ
  * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本解析器はElasticSearchの日本語トークナイザー"kuromoji"を使用しています.
  * [moji4j](https://github.com/andree-surya/moji4j) - 日本語のヒラガナ,カタカナ,ロマジ文字を変換するJavaライブラリ.
- * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - Japanese text normalizer for mecab-neologd
+ * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 日本語テキスト標準化器 mecab-neologd
 
 
 |Name|downloads/week|total downloads|stars|
@@ -847,7 +850,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - "日本のツイートの感情分析と 日本でのワクチンとの比較"の公式の調整コード
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代モデル
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - gpt-2 ベースの text2text 変換モデル
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - GPT-2 Japanese model for HuggingFace's transformers
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - ハグジングフェイスのトランスフォーマー用の日本製GPT-2モデル
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - フレンドリー_JAコープスを使って訓練されたMTモデル.標準の中日語辞書ではなくラテン語/英語から派生したカタカナ辞書を使って,日本語を西洋人により簡単に/より簡単に利用できるようにしようとしています.
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 文の日本語は,BERTで,SentencePieceで
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 日本語WikipediaコーパスでBERTのPre-Trainedモデルを生成するためのリポジトリ
@@ -913,6 +916,7 @@ Resources
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPTがYouTuberをやります
  * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - Open AI Text completion endpointで動力されるNuxt 3を使用して構築されたチャットボックスアプリケーション.AI友人の異なる性格を選択できます.デフォルトでは日本語で応答します.このアプリを使用してニホンゴスキルを練習できます!
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - このChrome拡張子は,チャットGPTを使用して,日本語のテキストをヒラガナに翻訳することができます.
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -927,6 +931,7 @@ Resources
 |[gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/gptuber-by-langchain?style=social)|
 |[openai-chatfriend](https://github.com/supershaneski/openai-chatfriend)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/supershaneski/openai-chatfriend?style=social)|
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
+|[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 
 
 ## Dictionary
@@ -1049,6 +1054,7 @@ Resources
  * [asdc](https://github.com/megagonlabs/asdc) - 宿泊施設 検索対話コーパス
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 日本語の対話データ for seq2seq etc
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - このリポジトリには,AACL-IJCNLP 2022のワークショップEval4NLP 2022で言語間コミュニケーションを支援するためのチャット翻訳エラー検出に関する論文に掲載された日本語・英語双語チャットコープスBPersona-chatが含まれています.
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス (日々の会話) は,日々の生活,学校,旅行,健康,娯楽など5つのトピックに関する日常会話を含む高品質の多回転対話データセットです.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1059,7 +1065,7 @@ Resources
 |[asdc](https://github.com/megagonlabs/asdc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/asdc?style=social)|
 |[japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MokkeMeguru/japanese-corpus?style=social)|
 |[BPersona-chat](https://github.com/cl-tohoku/BPersona-chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/BPersona-chat?style=social)|
-
+|[japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jqk09a/japanese-daily-dialogue?style=social)|
 
 ### Others
 
@@ -1085,7 +1091,7 @@ Resources
  * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 日本語における不適切表現を収集します。自然言語処理の時のデータクリーニング用等に使えると思います。
  * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 参議院の公式ウェブサイトから会派、議員、議案、質問主意書のデータを整理しました。
  * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 国会議案データベース：衆議院
- * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIRキャプション: 大規模な日本語画像キャプションデータセット
+ * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIR captions: large-scale Japanese image caption dataset
  * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - ワイングラッド・スキーマ・チャレンジの日本語訳
  * [speechBSD](https://github.com/ku-nlp/speechBSD) - 音声とスピーカー属性情報を含む BSD コルプスの拡張
  * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITAコーパスの文章リスト
@@ -1139,7 +1145,7 @@ Resources
  * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMoralityは,日本の注釈者の常識的な道徳を反映したクラウドソーシングで作成されたデータセットです.
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - なんとかデータベース( https://supleks.jp/ )からのスクレイピングツールと収集データ
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - CAMERA (CYBERAgent Multimodal Evaluation for Ad Text GeneRAtion) は,ハグシングフェイスデータセットの利用について
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - フォクトチェックNLIデータセット
+ * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - FactCheckSentenceNLIデータセット
 
 
 |Name|downloads/week|total downloads|stars|

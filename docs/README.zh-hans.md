@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 450 个日语 NLP 存储库。
+此列表包含 453 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -19,13 +19,15 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 ## The latest additions 🎉
 
 **Python**
- * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE:自动评估指标使用图像字幕模型的预言-参数结构
- * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 现在我们可以使用
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 对于日本语理解的基准标准JGLUE的培训和评估脚本
+
+**ChatGPT**
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日常对话,或日本语日常对话コーパス,是一个高质量的多轮对话数据集,包含关于五个主题的日常对话:日常生活,学校,旅行,健康和娱乐.
 
 **Corpus**
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 实验SentenceNLI数据集
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 这样,我们可以使用Retrieval Augmented Generation模式,
 
-_Updated on Apr 09, 2023_
+_Updated on Apr 13, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -164,7 +166,7 @@ _Updated on Apr 09, 2023_
 ### Preprocessor
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - 对于mecab-neologd,日本文本正常化器
- * [jaconv](https://github.com/ikegami-yukino/jaconv) - 清纯的Python日本字符互换器
+ * [jaconv](https://github.com/ikegami-yukino/jaconv) - 纯Python日本字符交换器用于海拉加纳,卡塔卡纳,汉卡库和卡库
  * [mojimoji](https://github.com/studio-ousia/mojimoji) - 现在我们将使用一个简单的字符转换器.
  * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 一个强大的文字清理器,用于日本的网文
  * [HojiChar](https://github.com/HojiChar/HojiChar) - 编程和管理多个预处理.
@@ -296,6 +298,7 @@ _Updated on Apr 09, 2023_
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本稳定扩散是一种日本特有的隐藏文本到图像扩散模型,可以在任何输入文本的情况下生成照片逼真的图像.
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - 对于一个小女孩来说,
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 预fix调节GPT/GPT-NeoX模型和训练前推断的示例代码
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 对于日本语理解的基准标准JGLUE的培训和评估脚本
 
 
 |Name|downloads/week|total downloads|stars|
@@ -315,7 +318,7 @@ _Updated on Apr 09, 2023_
 |[japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/japanese-stable-diffusion?style=social)|
 |[nagisa_bert](https://github.com/taishi-i/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert/week)](https://pepy.tech/project/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert)](https://pepy.tech/project/nagisa_bert)|![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/nagisa_bert?style=social)|
 |[prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/prefix-tuning-gpt?style=social)|
-
+|[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 
 ### Others
 
@@ -410,7 +413,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 实施日本语的Tacotron2
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 对于IBus来说,IME是不清楚的
  * [furiganapad](https://github.com/esrille/furiganapad) - 它们是非常可怕的.
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本语同义词图书馆
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 它们是什么意思?
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - 机器人 + 编程 + 文件 + Python3
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 现在我们可以使用
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 现在我们要做什么?
@@ -679,7 +682,7 @@ Resources
  * [hepburn](https://github.com/lovell/hepburn) - 使用赫伯恩的罗马化将日本的海拉加纳和卡塔卡纳文字转换到和从罗马吉的Node.js模块
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 将日本数字转换为数字
  * [jslingua](https://github.com/kariminf/jslingua) - 它们可以使用 JavaScript 库来处理文本:
- * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和转写海拉加纳语的JavaScript库
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和转写海拉加纳字母的JavaScript库
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 规范和解决基于罗马吉的日语名字的常见问题.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 让日本文本变得老式的实用工具
 
@@ -698,7 +701,7 @@ Resources
 
 ### Others
 
- * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本动漫的原始数据
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 简单的数据
  * [yomichan](https://github.com/FooSoft/yomichan) - 翻译为 Chrome 和 Firefox 的日语弹出式词典扩展.
  * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - 操作GUI的文档校正工具,
  * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - 一个显示詹姆斯·海西格"记住汉字"第6版的2200个汉字的网络应用程序.
@@ -781,7 +784,7 @@ Resources
  * [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) - 汉字转换为海拉加纳/卡塔卡纳/罗马吉, 在Java
  * [Kamite](https://github.com/fauu/Kamite) - 对于学习日语的学习者来说,一个桌面语言沉浸伴侣
  * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - 亚同步日本代币化器原生插件
- * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 对于一个字符串,我们需要一个字符串.
+ * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本分析器使用 kuromoji 日本代币化器进行弹性搜索
  * [moji4j](https://github.com/andree-surya/moji4j) - 一个Java库,可以在日本的海拉加纳,卡塔卡纳和罗马吉字体之间转换.
  * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 对于mecab-neologd,日本文本正常化器
 
@@ -846,7 +849,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 官方微调代码"日本推特情感分析与日本疫苗接种比较"
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2代模型
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于gpt-2的 text2text转换模型
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 现在我们将使用 GPT-2
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 拥抱脸的变压器的日本型GPT-2
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 通过使用friendly_JA Corpus训练的MT模型,试图通过使用拉丁/英语衍生的卡塔卡纳词汇而不是标准的中日词汇,使日本语更容易/更容易获得西方人
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 对于日本文本,
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 库存用于生成日本语维基百科库的BERT预训练模型
@@ -912,6 +915,7 @@ Resources
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 现在我们要做什么?
  * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - 采用Nuxt 3构建的聊天盒应用程序,由Open AI Text完成终点提供动力.您可以选择您的AI朋友的不同个性.默认情况下会用日本语响应.您可以使用此应用程序练习您的尼宏技能!
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - 这款Chrome扩展可以使用ChatGPT将选定的日本文本翻译成海拉加纳.
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 这样,我们可以使用Retrieval Augmented Generation模式,
 
 
 |Name|downloads/week|total downloads|stars|
@@ -926,6 +930,7 @@ Resources
 |[gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/gptuber-by-langchain?style=social)|
 |[openai-chatfriend](https://github.com/supershaneski/openai-chatfriend)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/supershaneski/openai-chatfriend?style=social)|
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
+|[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 
 
 ## Dictionary
@@ -1048,6 +1053,7 @@ Resources
  * [asdc](https://github.com/megagonlabs/asdc) - 住宿搜索对话库 (宿泊施設探索対話コーパス)
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 对于seq2seq等,
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 本库包含了在AACL-IJCNLP 2022年研讨会Eval4NLP 2022上发表的日本英语双语聊天库BPersona-chat.
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日常对话,或日本语日常对话コーパス,是一个高质量的多轮对话数据集,包含关于五个主题的日常对话:日常生活,学校,旅行,健康和娱乐.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1058,7 +1064,7 @@ Resources
 |[asdc](https://github.com/megagonlabs/asdc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/asdc?style=social)|
 |[japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MokkeMeguru/japanese-corpus?style=social)|
 |[BPersona-chat](https://github.com/cl-tohoku/BPersona-chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/BPersona-chat?style=social)|
-
+|[japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jqk09a/japanese-daily-dialogue?style=social)|
 
 ### Others
 
@@ -1100,7 +1106,7 @@ Resources
  * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - 车辆故障信息数据集
  * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - 数字化材料是OCR文本化业务所创建的OCR学习数据集
  * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - 根据美国国家杂志数据,
- * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 果公司的自制品牌
+ * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 语 (日本多功能演讲) コーパスの自作のラベル
  * [hirakanadic](https://github.com/po3rin/hirakanadic) - 允许Sudachi从任何复合单词列表中从海拉加纳到卡塔卡纳进行正常化
  * [animedb](https://github.com/anilogia/animedb) - 它们的数据库包含了近100年的动画作品.
  * [security_words](https://github.com/SaitoLab/security_words) - 网络安全相关的公共机构
