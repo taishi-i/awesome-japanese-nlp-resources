@@ -6,27 +6,23 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 453 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 455 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
-我們發布了一個專用於 ChatGPT 的新 Awesome 存儲庫 ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) 😎
+GitHub 上不可用的資源將添加到 [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki)。
+
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## The latest additions 🎉
 
-**Python**
- * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 訓練與評估JGLUE的文本,
-
-**ChatGPT**
- * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本日日對話,或日本語日常對話コーパス, 是一個高品質的多轉對話資料集, 包含關於五個主題的日常對話:日常生活,學校,旅行,健康和娛樂.
-
 **Corpus**
- * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 這樣的情況是, 透過使用Retrieval Augmented Generation模式,
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這裡是用於 databricks/dolly-v2-12b 的學習數據的 databricks-dolly-15k.jsonl 翻譯成日文的數據集.
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基于MELD的情感感應用語音翻譯的日英文數據集.
 
-_Updated on Apr 13, 2023_
+_Updated on Apr 16, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -123,7 +119,7 @@ _Updated on Apr 13, 2023_
  * [cabocha](https://github.com/ikegami-yukino/cabocha) - 另一位日本依賴結構分析器
  * [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) - 代號化POS標籤化和依賴分析器,
  * [camphr](https://github.com/PKSHATechnology-Research/camphr) - 布管道組件的使用
- * [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) - 標籤
+ * [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) - 標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標
  * [depccg](https://github.com/masashi-y/depccg) - 具有超標籤和依賴因素模型的CCG解析器
  * [bertknp](https://github.com/ku-nlp/bertknp) - 基于BERT的日本依賴解析器
  * [esupar](https://github.com/KoichiYasuoka/esupar) - 標籤化POS標籤和依賴分析器,
@@ -338,7 +334,7 @@ _Updated on Apr 13, 2023_
  * [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
  * [showcase](https://github.com/cl-tohoku/showcase) - 該網站的網站使用者將會在此網站上使用PyTorch.
  * [darts-clone-python](https://github.com/rixwew/darts-clone-python) - 子子綁定
- * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 關於日本實際文字含義體的示例代碼
+ * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 沒有任何關於日本的新聞,
  * [desuwa](https://github.com/megagonlabs/desuwa) - 基於KNP規則檔案的形狀和短語的特征注解器 (純Python)
  * [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) - 餐廳搜尋系統透過日文對話.
  * [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) - 日本語自然語言處理的示範編碼
@@ -1105,7 +1101,7 @@ Resources
  * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - 沒有任何關於車輛故障的資料集.
  * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - 數字化資料是OCR文本化事業所製作的學習資料集,
  * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - 來自國家雜誌資料的數據集.
- * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 果自作的標誌
+ * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 這裡是日本的第一間廣告公司,
  * [hirakanadic](https://github.com/po3rin/hirakanadic) - 允許Sudachi從任何複合詞列表中將海拉根改為卡塔卡納
  * [animedb](https://github.com/anilogia/animedb) - 數據庫裡的動畫作品,
  * [security_words](https://github.com/SaitoLab/security_words) - 網路安全與公共組織相關的日英回應
@@ -1144,6 +1140,8 @@ Resources
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - 沒有任何方法可以取資料.
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 網路代理多模式評估廣告文字基因編輯 (CAMERA)
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 實際檢查句子NLI數據集
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這裡是用於 databricks/dolly-v2-12b 的學習數據的 databricks-dolly-15k.jsonl 翻譯成日文的數據集.
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基于MELD的情感感應用語音翻譯的日英文數據集.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1225,6 +1223,8 @@ Resources
 |[ramendb](https://github.com/nuko-yokohama/ramendb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nuko-yokohama/ramendb?style=social)|
 |[huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shunk031/huggingface-datasets_CAMERA?style=social)|
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
+|[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
+|[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
 
 
 ## Tutorial

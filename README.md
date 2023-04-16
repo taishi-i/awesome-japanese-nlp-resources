@@ -6,30 +6,25 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 453 Japanese NLP repositories.
+This list includes 455 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
 Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
 
+Resources that are not available on GitHub are added to the [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki).
 
-We have released a new Awesome repository dedicated to ChatGPT ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) 😎
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## The latest additions 🎉
 
-**Python**
- * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
-
-**ChatGPT**
- * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - Japanese Daily Dialogue, or 日本語日常対話コーパス in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment.
-
 **Corpus**
- * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD is an English-Japanese dataset for emotion-aware speech translation based on MELD.
 
-_Updated on Apr 13, 2023_
+_Updated on Apr 16, 2023_
 
 ## Contents
  * [Python library](#Python-library)

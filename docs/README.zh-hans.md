@@ -6,28 +6,24 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 453 个日语 NLP 存储库。
+此列表包含 455 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
-我们发布了一个专用于 ChatGPT 的新 Awesome 存储库 ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) 😎
+GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki)。
+
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## The latest additions 🎉
 
-**Python**
- * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 对于日本语理解的基准标准JGLUE的培训和评估脚本
-
-**ChatGPT**
- * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日常对话,或日本语日常对话コーパス,是一个高质量的多轮对话数据集,包含关于五个主题的日常对话:日常生活,学校,旅行,健康和娱乐.
-
 **Corpus**
- * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 这样,我们可以使用Retrieval Augmented Generation模式,
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 它们是用在databricks/dolly-v2-12b学习数据上的databricks-dolly-15k.jsonl.
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD 是基于MELD的情感感的语音翻译的英日数据集.
 
-_Updated on Apr 13, 2023_
+_Updated on Apr 16, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -166,7 +162,7 @@ _Updated on Apr 13, 2023_
 ### Preprocessor
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - 对于mecab-neologd,日本文本正常化器
- * [jaconv](https://github.com/ikegami-yukino/jaconv) - 纯Python日本字符交换器用于海拉加纳,卡塔卡纳,汉卡库和卡库
+ * [jaconv](https://github.com/ikegami-yukino/jaconv) - 清纯的Python日本字符互换器
  * [mojimoji](https://github.com/studio-ousia/mojimoji) - 现在我们将使用一个简单的字符转换器.
  * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 一个强大的文字清理器,用于日本的网文
  * [HojiChar](https://github.com/HojiChar/HojiChar) - 编程和管理多个预处理.
@@ -413,7 +409,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 实施日本语的Tacotron2
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 对于IBus来说,IME是不清楚的
  * [furiganapad](https://github.com/esrille/furiganapad) - 它们是非常可怕的.
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 它们是什么意思?
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本语同义词图书馆
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - 机器人 + 编程 + 文件 + Python3
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 现在我们可以使用
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 现在我们要做什么?
@@ -614,7 +610,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 现在我们可以使用Lindera.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 林德拉代币化器为Tantivy.
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 一个使用Vibrato的Tantivy代币化器.
 
 
@@ -678,7 +674,7 @@ Resources
 ### Converter
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - 支持里加纳和奥古里加纳模式的日本语库,可将日本语句转换为里加纳,卡塔卡纳或罗马吉.
- * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 库罗莫吉形态分析仪对库罗希罗.
+ * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 库罗莫吉形态分析仪
  * [hepburn](https://github.com/lovell/hepburn) - 使用赫伯恩的罗马化将日本的海拉加纳和卡塔卡纳文字转换到和从罗马吉的Node.js模块
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 将日本数字转换为数字
  * [jslingua](https://github.com/kariminf/jslingua) - 它们可以使用 JavaScript 库来处理文本:
@@ -701,7 +697,7 @@ Resources
 
 ### Others
 
- * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 简单的数据
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本动漫的原始数据
  * [yomichan](https://github.com/FooSoft/yomichan) - 翻译为 Chrome 和 Firefox 的日语弹出式词典扩展.
  * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - 操作GUI的文档校正工具,
  * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - 一个显示詹姆斯·海西格"记住汉字"第6版的2200个汉字的网络应用程序.
@@ -809,7 +805,7 @@ Resources
  * [chiVe](https://github.com/WorksApplications/chiVe) - 嵌入了苏达奇和NWJC的日语单词
  * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - 艾尔莫-日本语
  * [embedrank](https://github.com/yagays/embedrank) - 嵌入Rank的 Python 实现
- * [aovec](https://github.com/eggplants/aovec) - 简单的 Word2Vec 构建器 - 蓝色文库所有书籍的 Word2Vec 构建器+已建模
+ * [aovec](https://github.com/eggplants/aovec) - 简单的aozorabunko Word2Vec 构建器 - 青空文库全书的Word2Vecビルダー+构建済み模型
  * [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) - 这是AI LAB文章"係り受けに基づく日本語単語埋込 (依存性基於日本語字嵌入) "的存储库 (文章URL https://ai-lab.lapras.com/nlp/japanese-word-embedding/)
  * [jawikivec](https://github.com/wikiwikification/jawikivec) - 另一个日本维基百科实体向量
  * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - 基于最新的日语维基百科的倾倒数据,使用MeCab在IPA词典和最新的Neologd词典中进行形状解析,并基于结果学习 word2vec,fastText,GloVe的词分散表达
@@ -1106,7 +1102,7 @@ Resources
  * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - 车辆故障信息数据集
  * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - 数字化材料是OCR文本化业务所创建的OCR学习数据集
  * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - 根据美国国家杂志数据,
- * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 语 (日本多功能演讲) コーパスの自作のラベル
+ * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 果公司的自制品牌
  * [hirakanadic](https://github.com/po3rin/hirakanadic) - 允许Sudachi从任何复合单词列表中从海拉加纳到卡塔卡纳进行正常化
  * [animedb](https://github.com/anilogia/animedb) - 它们的数据库包含了近100年的动画作品.
  * [security_words](https://github.com/SaitoLab/security_words) - 网络安全相关的公共机构
@@ -1127,7 +1123,7 @@ Resources
  * [data_set](https://github.com/japanese-law-analysis/data_set) - 法律和案例数据集
  * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - 拥抱面数据集的WRIME
  * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - 编辑: 陈 编辑: 陈
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - 现在我们可以使用GIS和考古模拟器.
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - 现在正在开发的GIS和考古模拟器.
  * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - 韩语版的LIWC2015
  * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - 日本直播新闻库,用于拥抱脸数据集
  * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - 关于"拥抱面孔"数据集的日本语一般语言理解评估
@@ -1145,6 +1141,8 @@ Resources
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - 如何从数据库中收集数据?
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 对于拥抱面孔数据集,CAMERA (网络代理多模式评估广告文本基因组)
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 实验SentenceNLI数据集
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 它们是用在databricks/dolly-v2-12b学习数据上的databricks-dolly-15k.jsonl.
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD 是基于MELD的情感感的语音翻译的英日数据集.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1226,6 +1224,8 @@ Resources
 |[ramendb](https://github.com/nuko-yokohama/ramendb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nuko-yokohama/ramendb?style=social)|
 |[huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shunk031/huggingface-datasets_CAMERA?style=social)|
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
+|[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
+|[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
 
 
 ## Tutorial

@@ -6,29 +6,25 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、453件の日本語NLPリポジトリが含まれています。
+このリストには、455件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
 貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)をお読みください。
 
-ChatGPTに関する新しいAwesomeリポジトリ ([awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)) をリリースしました 😎
+GitHubに存在しないリソースは、[Wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki)に追加されます。
+
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## The latest additions 🎉
 
-**Python**
- * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 日本語理解基準であるJGLUEのための訓練と評価スクリプト
-
-**ChatGPT**
- * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス (日々の会話) は,日々の生活,学校,旅行,健康,娯楽など5つのトピックに関する日常会話を含む高品質の多回転対話データセットです.
-
 **Corpus**
- * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELDは,MELDをベースとした感情意識のスピーチ翻訳のための英語・日本語データセットです.
 
-_Updated on Apr 13, 2023_
+_Updated on Apr 16, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -358,8 +354,8 @@ _Updated on Apr 13, 2023_
  * [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) - Get Japanese dialogue corpus
  * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - 日本語の記事の要約書
  * [chirptext](https://github.com/letuananh/chirptext) - ChirpTextは,Python用のテキスト処理ツールの一覧です.
- * [yubin](https://github.com/alvations/yubin) - 日本語 アドレス モンガー
- * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本語ウィキペディア クリーンヤー
+ * [yubin](https://github.com/alvations/yubin) - Japanese Address Munger
+ * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - Japanese Wikipedia Cleaner
  * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 日本語を音符に変換する Python ライブラリです
  * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - このリポジトリには",感情に基づくテキスト分類のための日本のトークナイザー実験評価"の実験に関連するコードが含まれています.
  * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - について
@@ -582,7 +578,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [lindera](https://github.com/lindera-morphology/lindera) - 形状分析図書館
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto: 非常加速点向型予測型TOケナイザー
  * [goya](https://github.com/Leko/goya) - 日本語形状分析 で書かれた
- * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: Viterbi-based accelerated tokenizer
+ * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: ビテルビベースの加速トークナイザー
  * [yoin](https://github.com/agatan/yoin) - 純正なで書かれた日本語形状分析器
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - 安全な 鉄鋼の結合 メカブ 部分の音声と形状分析器のライブラリ
  * [awabi](https://github.com/nakagami/awabi) - メカブ辞書を使用する形状分析器
@@ -683,7 +679,7 @@ Resources
  * [hepburn](https://github.com/lovell/hepburn) - 日本語ヒラガナとカタカナ文字をヘプバーン語化を使ってロマジに変換するNode.jsモジュール
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 日本数字を数に変換する
  * [jslingua](https://github.com/kariminf/jslingua) - Javascript libraries to process text: Arabic, Japanese, etc.
- * [WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana <--> Katakana <--> Romaji
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - ハイラガナ <--> カタカナ <--> ロマジ を 検知 し て 書き換える JavaScript 図書館
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - ローマジをベースにした日本語の名前に関する一般的な問題を正し,正常化します.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 日本語のテキストを古典化するためのユーティリティコレクション
 
@@ -702,7 +698,7 @@ Resources
 
 ### Others
 
- * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本アニメの原始データ
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime
  * [yomichan](https://github.com/FooSoft/yomichan) - 日本語ポップアップ辞書拡張 Chrome と Firefox のために
  * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - GUIで動作する文書校正ツール GUI テキストリントツール
  * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - ジェームズ・ハイジグの"漢字を覚えておく" 6版で教えられている 2200文字を表示するウェブアプリ.
@@ -768,7 +764,7 @@ Resources
 
  * [kuromoji](https://github.com/atilika/kuromoji) - 検索のために設計された,自立で,非常に簡単に使用できる日本語形状分析機です
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
- * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - スーダチ語辞書
+ * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1075,7 +1071,7 @@ Resources
  * [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - 日本語の文簡化のためのパラフレーズデータベース
  * [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - chakkiのアスペクトベース・センチメンタル・アナリティスデータセット
  * [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) - JaQuAD: 日本語質問回答データセット (2022年,Skelter Labs)
- * [JaNLI](https://github.com/verypluming/JaNLI) - 日本語対抗性自然言語推論データセット
+ * [JaNLI](https://github.com/verypluming/JaNLI) - Japanese Adversarial Natural Language Inference Dataset
  * [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) - 証拠に基づく説明データセット (AACL-IJCNLP 2020)
  * [emoji-ja](https://github.com/yagays/emoji-ja) - UNICODE絵文字の日本語読み/キーワード/分類辞書
  * [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) - Wikipediaから作成した日本語名寄せデータセット
@@ -1145,7 +1141,9 @@ Resources
  * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMoralityは,日本の注釈者の常識的な道徳を反映したクラウドソーシングで作成されたデータセットです.
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - なんとかデータベース( https://supleks.jp/ )からのスクレイピングツールと収集データ
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - CAMERA (CYBERAgent Multimodal Evaluation for Ad Text GeneRAtion) は,ハグシングフェイスデータセットの利用について
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - FactCheckSentenceNLIデータセット
+ * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - フォクトチェックNLIデータセット
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELDは,MELDをベースとした感情意識のスピーチ翻訳のための英語・日本語データセットです.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1227,11 +1225,13 @@ Resources
 |[ramendb](https://github.com/nuko-yokohama/ramendb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nuko-yokohama/ramendb?style=social)|
 |[huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shunk031/huggingface-datasets_CAMERA?style=social)|
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
+|[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
+|[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
 
 
 ## Tutorial
 
- * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - インターフェースやコンピュータ
+ * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - インターフェースや コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ,コンピュータ
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 日本語コープスで速読のトレーニングのチュートリアル
  * [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) - AllenNLP-NER-ja: AllenNLP による日本語を対象とした固有表現抽出
  * [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) - 日本語のテキスト分類実験 カーツとPyTorchを用いる
