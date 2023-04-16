@@ -11,7 +11,7 @@ You can contribute to this repository in two ways.
 First, please check the [content](https://github.com/taishi-i/awesome-japanese-nlp-resources#contents) you want to add. If there is no matching content, please add it to [others](https://github.com/taishi-i/awesome-japanese-nlp-resources#Others).
 
 * Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
-    * Keep descriptions concise and **short**.
+    * Keep descriptions concise and **short**. You only need to add it to **[README.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/README.md)**. The maintainer will automatically apply it to each language.
 
 * Add project stats to the table: Add the following table content.
 
