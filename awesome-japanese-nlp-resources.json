@@ -2635,6 +2635,12 @@
                 "repository_name": "EaST-MELD",
                 "user_name": "ku-nlp",
                 "description": "EaST-MELD is an English-Japanese dataset for emotion-aware speech translation based on MELD."
+            },
+            "https://github.com/elith-co-jp/meconaudio": {
+                "sub_category": null,
+                "repository_name": "meconaudio",
+                "user_name": "elith-co-jp",
+                "description": "Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の読み上げデータセットです。"
             }
         },
         "Tutorial": {

@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 455 个日语 NLP 存储库。
+此列表包含 456 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -20,10 +20,9 @@ GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awes
 ## The latest additions 🎉
 
 **Corpus**
- * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 它们是用在databricks/dolly-v2-12b学习数据上的databricks-dolly-15k.jsonl.
- * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD 是基于MELD的情感感的语音翻译的英日数据集.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 医疗会议音频是由卫生和劳工部主办的先进医疗会议记录的读取数据集.
 
-_Updated on Apr 16, 2023_
+_Updated on Apr 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -124,7 +123,7 @@ _Updated on Apr 16, 2023_
  * [depccg](https://github.com/masashi-y/depccg) - 一个具有超标签和依赖因素模型的CCG解析器
  * [bertknp](https://github.com/ku-nlp/bertknp) - 基于BERT的日本依赖分析器
  * [esupar](https://github.com/KoichiYasuoka/esupar) - 标记器 POS-Tagger 和依赖性解析器,使用BERT/RoBERTa/DeBERTa模型,用于日本和其他语言
- * [yomikata](https://github.com/passaglia/yomikata) - 使用精细调整的BERT模型.
+ * [yomikata](https://github.com/passaglia/yomikata) - 异名调解库使用精细调整的BERT模型.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -288,7 +287,7 @@ _Updated on Apr 16, 2023_
  * [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) - 对于Shiba的AllenNLP集成:日本的 CANINE模型
  * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - 编程以评估预先训练的日本语word2vec模型
  * [gector-ja](https://github.com/jonnyli1125/gector-ja) - 基于BERT的日本GEC标签
- * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 日本BPE编码器
+ * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 现在我们可以使用
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - 现在我们将使用
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 编译器,编译器,编译器
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本稳定扩散是一种日本特有的隐藏文本到图像扩散模型,可以在任何输入文本的情况下生成照片逼真的图像.
@@ -407,9 +406,9 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [akaza](https://github.com/tokuhirom/akaza) - 另一个日本IME为IBus/Linux
  * [posuto](https://github.com/polm/posuto) - 现在我们将使用
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 实施日本语的Tacotron2
- * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 对于IBus来说,IME是不清楚的
+ * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 他们的时间为IBus
  * [furiganapad](https://github.com/esrille/furiganapad) - 它们是非常可怕的.
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本语同义词图书馆
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 它们是什么意思?
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - 机器人 + 编程 + 文件 + Python3
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 现在我们可以使用
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 现在我们要做什么?
@@ -631,7 +630,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 现在我们可以使用免费的中等质量的文本阅读软件,
  * [akaza](https://github.com/akaza-im/akaza) - 另一个日本IME为IBus/Linux
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 一个免费的在线,自主托管,多语言的日语词典.
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 对于谷歌日语输入,DvorakJP罗马表
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 谷歌日本语输入用DvorakJP罗马字桌 / DvorakJP罗马表
  * [niinii](https://github.com/Netdex/niinii) - 使用Ichiran的日本语音语音器
 
 
@@ -678,7 +677,7 @@ Resources
  * [hepburn](https://github.com/lovell/hepburn) - 使用赫伯恩的罗马化将日本的海拉加纳和卡塔卡纳文字转换到和从罗马吉的Node.js模块
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 将日本数字转换为数字
  * [jslingua](https://github.com/kariminf/jslingua) - 它们可以使用 JavaScript 库来处理文本:
- * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和转写海拉加纳字母的JavaScript库
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和转写海拉加纳语的JavaScript库
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 规范和解决基于罗马吉的日语名字的常见问题.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 让日本文本变得老式的实用工具
 
@@ -782,7 +781,7 @@ Resources
  * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - 亚同步日本代币化器原生插件
  * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本分析器使用 kuromoji 日本代币化器进行弹性搜索
  * [moji4j](https://github.com/andree-surya/moji4j) - 一个Java库,可以在日本的海拉加纳,卡塔卡纳和罗马吉字体之间转换.
- * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 对于mecab-neologd,日本文本正常化器
+ * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 对于 mecab-neologd 的日语文本正常化器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -805,7 +804,7 @@ Resources
  * [chiVe](https://github.com/WorksApplications/chiVe) - 嵌入了苏达奇和NWJC的日语单词
  * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - 艾尔莫-日本语
  * [embedrank](https://github.com/yagays/embedrank) - 嵌入Rank的 Python 实现
- * [aovec](https://github.com/eggplants/aovec) - 简单的aozorabunko Word2Vec 构建器 - 青空文库全书的Word2Vecビルダー+构建済み模型
+ * [aovec](https://github.com/eggplants/aovec) - 简单的 Word2Vec 构建器 - 蓝色文库所有书籍的 Word2Vec 构建器+已建模
  * [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) - 这是AI LAB文章"係り受けに基づく日本語単語埋込 (依存性基於日本語字嵌入) "的存储库 (文章URL https://ai-lab.lapras.com/nlp/japanese-word-embedding/)
  * [jawikivec](https://github.com/wikiwikification/jawikivec) - 另一个日本维基百科实体向量
  * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - 基于最新的日语维基百科的倾倒数据,使用MeCab在IPA词典和最新的Neologd词典中进行形状解析,并基于结果学习 word2vec,fastText,GloVe的词分散表达
@@ -834,7 +833,7 @@ Resources
  * [Dialog](https://github.com/reppy4620/Dialog) - 一个PyTorch 实现日本聊天机器人使用BERT和变压器的解码器
  * [language-pretraining](https://github.com/retarfi/language-pretraining) - 对于日语文本的PyTorch实现的BERT和ELECTRA模型.
  * [medbertjp](https://github.com/ou-medinfo/medbertjp) - 试验日本医疗领域的预先训练的BERT模型.
- * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - 现在我们可以使用
+ * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - 没有任何问题.
  * [t5-japanese](https://github.com/megagonlabs/t5-japanese) - 编码用于预训练日本T5模型
  * [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) - 现在我们将使用Pytorch来学习
  * [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) - 工作室BERT 日本:日本BERT 预训练使用Web-Corpus
@@ -845,7 +844,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 官方微调代码"日本推特情感分析与日本疫苗接种比较"
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2代模型
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于gpt-2的 text2text转换模型
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 拥抱脸的变压器的日本型GPT-2
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 现在我们将使用 GPT-2
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 通过使用friendly_JA Corpus训练的MT模型,试图通过使用拉丁/英语衍生的卡塔卡纳词汇而不是标准的中日词汇,使日本语更容易/更容易获得西方人
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 对于日本文本,
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 库存用于生成日本语维基百科库的BERT预训练模型
@@ -1123,7 +1122,7 @@ Resources
  * [data_set](https://github.com/japanese-law-analysis/data_set) - 法律和案例数据集
  * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - 拥抱面数据集的WRIME
  * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - 编辑: 陈 编辑: 陈
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - 现在正在开发的GIS和考古模拟器.
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - 现在我们可以使用GIS和考古模拟器.
  * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - 韩语版的LIWC2015
  * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - 日本直播新闻库,用于拥抱脸数据集
  * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - 关于"拥抱面孔"数据集的日本语一般语言理解评估
@@ -1143,6 +1142,7 @@ Resources
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 实验SentenceNLI数据集
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 它们是用在databricks/dolly-v2-12b学习数据上的databricks-dolly-15k.jsonl.
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD 是基于MELD的情感感的语音翻译的英日数据集.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 医疗会议音频是由卫生和劳工部主办的先进医疗会议记录的读取数据集.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1226,6 +1226,7 @@ Resources
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
+|[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
 
 
 ## Tutorial

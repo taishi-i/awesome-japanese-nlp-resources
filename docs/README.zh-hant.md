@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 455 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 456 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -19,10 +19,9 @@ GitHub 上不可用的資源將添加到 [wiki](https://github.com/taishi-i/awes
 ## The latest additions 🎉
 
 **Corpus**
- * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這裡是用於 databricks/dolly-v2-12b 的學習數據的 databricks-dolly-15k.jsonl 翻譯成日文的數據集.
- * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基于MELD的情感感應用語音翻譯的日英文數據集.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 醫療會議音頻是由國家衛生與勞工部主辦的先進醫療會議錄音數據集.
 
-_Updated on Apr 16, 2023_
+_Updated on Apr 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -408,7 +407,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 台灣的網路使用者
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 沒有任何資訊.
  * [furiganapad](https://github.com/esrille/furiganapad) - 這種情況是非常嚴重的,
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 這裡是日本的同義詞庫,
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本語同義詞圖書館
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - 沒有任何其他可供使用.
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 這種情況是非常常見的.
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 這裡有許多人使用GPT,
@@ -609,7 +608,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 沒有任何關於我們.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 林德拉是塔尼維的代號.
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 塔尼維使用Vibrato的代號化器.
 
 
@@ -630,7 +629,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 提供免費的中等質量的文字閱讀軟體,
  * [akaza](https://github.com/akaza-im/akaza) - 還有另一台日本IME系統
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 這是一本免費的網路,自主托管,多語言日文字典.
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 果日文輸入用DvorakJP羅馬字母表
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 請使用Google 日本語輸入的DvorakJPローマ字テーブル/DvorakJP羅馬字表
  * [niinii](https://github.com/Netdex/niinii) - 義大利語語語錄用語錄
 
 
@@ -673,11 +672,11 @@ Resources
 ### Converter
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - 提供日本語文庫, 能將日本語句子轉換成海拉加納,卡塔卡納或羅馬吉,
- * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 沒有任何關於 Kuromoji 的相關貼子!
+ * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 科羅木治形狀分析器為科羅希羅.
  * [hepburn](https://github.com/lovell/hepburn) - Node.js模組,可使用赫伯恩的羅曼化將日文語和卡塔卡納文字轉換為羅馬文
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 轉換日文數字成數字
  * [jslingua](https://github.com/kariminf/jslingua) - 沒有任何關於JavaScript的資料.
- * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和轉寫海拉加納 <--> 加塔卡納 <--> 羅馬吉的JavaScript庫
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和翻譯海拉加納語的 JavaScript 庫
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 規范並解決羅馬吉名字常見問題.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 工具集, 使日本文本變得舊式
 
@@ -844,7 +843,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 官方微調代碼"日本推特情緒分析與日本疫苗的比較"
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代模型
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于gpt-2的文本2文本轉換模型
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 這種情況是很常見的.
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 哈格格臉的變壓器的日本型GPT-2
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 試圖讓西方人更容易/更容易使用日文, 透過使用拉丁/英語衍生的卡塔卡納詞彙,
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 還有日本文本的句子片.
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 網站的網站是一個網站,
@@ -1142,6 +1141,7 @@ Resources
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 實際檢查句子NLI數據集
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這裡是用於 databricks/dolly-v2-12b 的學習數據的 databricks-dolly-15k.jsonl 翻譯成日文的數據集.
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基于MELD的情感感應用語音翻譯的日英文數據集.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 醫療會議音頻是由國家衛生與勞工部主辦的先進醫療會議錄音數據集.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1225,6 +1225,7 @@ Resources
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
+|[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
 
 
 ## Tutorial
@@ -1235,7 +1236,7 @@ Resources
  * [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) - 經驗使用車輛和PyTorch對日本文字的分類
  * [ginza-examples](https://github.com/poyo46/ginza-examples) - 這裡是日本NLP圖書館的首頁.
  * [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) - 文件分類使用BERT-日文
- * [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) - 這就是如何動手使用日本語BERT.
+ * [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) - 這裡是我在日本的部落格.
  * [bert-book](https://github.com/stockmarkteam/bert-book) - 接著我們將會看到更多的資訊.
  * [janome-tutorial](https://github.com/mocobeta/janome-tutorial) - 這是一本關於使用 Janome 來開發文字的教學.
  * [handson-language-models](https://github.com/hnishi/handson-language-models) - 這裡是日本語語言模型的漢字資料.

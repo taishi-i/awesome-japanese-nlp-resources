@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、455件の日本語NLPリポジトリが含まれています。
+このリストには、456件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -21,10 +21,9 @@ GitHubに存在しないリソースは、[Wiki](https://github.com/taishi-i/awe
 ## The latest additions 🎉
 
 **Corpus**
- * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。
- * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELDは,MELDをベースとした感情意識のスピーチ翻訳のための英語・日本語データセットです.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の読み上げデータセットです。
 
-_Updated on Apr 16, 2023_
+_Updated on Apr 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -163,7 +162,7 @@ _Updated on Apr 16, 2023_
 ### Preprocessor
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - 日本語テキスト標準化器 mecab-neologd
- * [jaconv](https://github.com/ikegami-yukino/jaconv) - 純Pythonで日本語の文字を変換するヒラガナ,カタカナ,ハンカク,ゼンカク
+ * [jaconv](https://github.com/ikegami-yukino/jaconv) - Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, and Zenkaku
  * [mojimoji](https://github.com/studio-ousia/mojimoji) - A fast converter between Japanese hankaku and zenkaku characters
  * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 日本語のウェブテキストのための強力なテキストクリーナー
  * [HojiChar](https://github.com/HojiChar/HojiChar) - 複数の前処理を構成して管理するテキスト前処理ツール
@@ -355,7 +354,7 @@ _Updated on Apr 16, 2023_
  * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - 日本語の記事の要約書
  * [chirptext](https://github.com/letuananh/chirptext) - ChirpTextは,Python用のテキスト処理ツールの一覧です.
  * [yubin](https://github.com/alvations/yubin) - Japanese Address Munger
- * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - Japanese Wikipedia Cleaner
+ * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本語ウィキペディア クリーンヤー
  * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 日本語を音符に変換する Python ライブラリです
  * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - このリポジトリには",感情に基づくテキスト分類のための日本のトークナイザー実験評価"の実験に関連するコードが含まれています.
  * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - について
@@ -410,7 +409,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 日本語のタコトロン2の導入
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
  * [furiganapad](https://github.com/esrille/furiganapad) - ふりがなパッド
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - Japanese synonym library
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本語同義語図書館
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - メカブ + ネオログド + ドッカー + パイソン3
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - JapaneseEmbeddingEval
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPTがYouTuberをやります
@@ -599,7 +598,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 日本語文字 - ヒラガナ,カタカナ - とロマジの間のチェックと変換のためのユーティリティライブラリ
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 日本語の半角カナと全角英数を正規文字に変換するRustライブラリ
- * [kana](https://github.com/gbrlsnchs/kana) - [ミラー] CLI プログラム ロマジ文字を ヒラガナやカタカナに 書き換える
+ * [kana](https://github.com/gbrlsnchs/kana) - [Mirror] CLI program for transliterating romaji text to either hiragana or katakana
 
 
 |Name|downloads/week|total downloads|stars|
@@ -764,7 +763,7 @@ Resources
 
  * [kuromoji](https://github.com/atilika/kuromoji) - 検索のために設計された,自立で,非常に簡単に使用できる日本語形状分析機です
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
- * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
+ * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - スーダチ語辞書
 
 
 |Name|downloads/week|total downloads|stars|
@@ -846,7 +845,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - "日本のツイートの感情分析と 日本でのワクチンとの比較"の公式の調整コード
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代モデル
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - gpt-2 ベースの text2text 変換モデル
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - ハグジングフェイスのトランスフォーマー用の日本製GPT-2モデル
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - GPT-2 Japanese model for HuggingFace's transformers
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - フレンドリー_JAコープスを使って訓練されたMTモデル.標準の中日語辞書ではなくラテン語/英語から派生したカタカナ辞書を使って,日本語を西洋人により簡単に/より簡単に利用できるようにしようとしています.
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 文の日本語は,BERTで,SentencePieceで
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 日本語WikipediaコーパスでBERTのPre-Trainedモデルを生成するためのリポジトリ
@@ -1071,7 +1070,7 @@ Resources
  * [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - 日本語の文簡化のためのパラフレーズデータベース
  * [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - chakkiのアスペクトベース・センチメンタル・アナリティスデータセット
  * [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) - JaQuAD: 日本語質問回答データセット (2022年,Skelter Labs)
- * [JaNLI](https://github.com/verypluming/JaNLI) - Japanese Adversarial Natural Language Inference Dataset
+ * [JaNLI](https://github.com/verypluming/JaNLI) - 日本語対抗性自然言語推論データセット
  * [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) - 証拠に基づく説明データセット (AACL-IJCNLP 2020)
  * [emoji-ja](https://github.com/yagays/emoji-ja) - UNICODE絵文字の日本語読み/キーワード/分類辞書
  * [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) - Wikipediaから作成した日本語名寄せデータセット
@@ -1087,7 +1086,7 @@ Resources
  * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 日本語における不適切表現を収集します。自然言語処理の時のデータクリーニング用等に使えると思います。
  * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 参議院の公式ウェブサイトから会派、議員、議案、質問主意書のデータを整理しました。
  * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 国会議案データベース：衆議院
- * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIR captions: large-scale Japanese image caption dataset
+ * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIRキャプション: 大規模な日本語画像キャプションデータセット
  * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - ワイングラッド・スキーマ・チャレンジの日本語訳
  * [speechBSD](https://github.com/ku-nlp/speechBSD) - 音声とスピーカー属性情報を含む BSD コルプスの拡張
  * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITAコーパスの文章リスト
@@ -1144,6 +1143,7 @@ Resources
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - フォクトチェックNLIデータセット
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELDは,MELDをベースとした感情意識のスピーチ翻訳のための英語・日本語データセットです.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の読み上げデータセットです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1227,6 +1227,7 @@ Resources
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
+|[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
 
 
 ## Tutorial

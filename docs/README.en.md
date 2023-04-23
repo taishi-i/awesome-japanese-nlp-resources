@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 455 Japanese NLP repositories.
+This list includes 456 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -21,10 +21,9 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 ## The latest additions 🎉
 
 **Corpus**
- * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - This is a data set that translates databricks-dolly-15k.jsonl into Japanese.
- * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD is an English-Japanese dataset for emotion-aware speech translation based on MELD.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio (Medical Conference Audio) is a reading dataset of the minutes of the Advanced Medical Conference organized by the Ministry of Health and Labor.
 
-_Updated on Apr 16, 2023_
+_Updated on Apr 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -679,7 +678,7 @@ Resources
  * [hepburn](https://github.com/lovell/hepburn) - Node.js module for converting Japanese Hiragana and Katakana script to, and from, Romaji using Hepburn romanisation
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - Converts Japanese Numerals into number
  * [jslingua](https://github.com/kariminf/jslingua) - JavaScript libraries to process text: Arabic, Japanese, etc.
- * [WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana <--> Katakana <--> Romaji
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - The Javascript library for detecting and transliterating Hiragana
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - Normalize and fix common issues with Romaji-based Japanese names.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
 
@@ -948,7 +947,7 @@ Resources
  * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - IME dictionary, common to both the Nikonico and Pixib encyclopedias
  * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - GoogleIME用カタカナ語辞書プロジェクトのアーカイブです。Project archive of Google IME user dictionary from Katakana word ( Japanese loanword ) to English.
  * [emoticon](https://github.com/tiwanari/emoticon) - The Japanese-language entry of the Google face dictionary  ((,,Ò‿Ó,,) 
- * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - It is a conversion of the open source mozc dictionary to the MeCab dictionary format.
+ * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - open source mozc dictionaryをMeCab辞書のフォーマットに変換したものです。
  * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - RadioIME: A dictionary of terms related to the "radio department" that are intended for use in Microsoft IME and other applications.
  * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - It is a dictionary of related terms intended for use in Microsoft IME and other applications.
  * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - The name of the game is a dictionary of all known Pokémon names that were intended to be used in Microsoft IME and other applications.
@@ -1079,7 +1078,7 @@ Resources
  * [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) - The three-line summary data set.
  * [japanese](https://github.com/hingston/japanese) - This repo contains a list of the 44,998 most common Japanese words in order of frequency, as determined by the University of Leeds Corpus.
  * [kanji-frequency](https://github.com/scriptin/kanji-frequency) - Kanji usage frequency data collected from various sources
- * [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) - TEDxJP-10K ASR Evaluation Dataset
+ * [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) - This is the TEDxJP-10K ASR Evaluation Dataset.
  * [CoARiJ](https://github.com/chakki-works/CoARiJ) - Corpus of Annual Reports in Japan
  * [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) - A collection of technical papers written in Japanese
  * [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) - Chunked word annotation for ITA corpus
@@ -1103,7 +1102,7 @@ Resources
  * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - The data set for vehicle malfunction information
  * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - Digitized material OCR texting business created OCR learning data set
  * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - This is a collection of data from the National Book Journal.
- * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - JVS (Japanese versatile speech) コーパスの自作のラベル
+ * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - JVS (Japanese versatile speech) is a self-made label from Corpus.
  * [hirakanadic](https://github.com/po3rin/hirakanadic) - Allows Sudachi to normalize from hiragana to katakana from any compound word list
  * [animedb](https://github.com/anilogia/animedb) - It's a database of animated films spanning almost 100 years.
  * [security_words](https://github.com/SaitoLab/security_words) - The public organization concerned with cybersecurity
@@ -1124,7 +1123,7 @@ Resources
  * [data_set](https://github.com/japanese-law-analysis/data_set) - Data sets related to law and case law.
  * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - WRIME for huggingface datasets
  * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - NDL classic OCR data set for learning (all together copying and processing data)
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 is in development.
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 in development.
  * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - Japanese version of LIWC2015
  * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - Japanese Livedoor news corpus for huggingface datasets
  * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
@@ -1141,9 +1140,10 @@ Resources
  * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality is a dataset created through crowdsourcing that reflects the commonsense morality of Japanese annotators.
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - I'm trying to figure out how to get the data from the database.
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) for huggingface datasets
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - The data set is called the FactCheckSentenceNLI.
+ * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - FactCheckSentenceNLIデータセット
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - This is a data set that translates databricks-dolly-15k.jsonl into Japanese.
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD is an English-Japanese dataset for emotion-aware speech translation based on MELD.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio (Medical Conference Audio) is a reading dataset of the minutes of the Advanced Medical Conference organized by the Ministry of Health and Labor.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1227,6 +1227,7 @@ Resources
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
+|[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
 
 
 ## Tutorial
