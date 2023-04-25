@@ -182,6 +182,12 @@
                 "user_name": "tachi-hi",
                 "description": "Japanese text parser to separate Hiragana/Katakana string into morae (syllables)."
             },
+            "https://github.com/korguchi/text2phoneme": {
+                "sub_category": "Converter",
+                "repository_name": "text2phoneme",
+                "user_name": "korguchi",
+                "description": "日本語文を音素列へ変換するスクリプト"
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -1087,6 +1093,12 @@
                 "repository_name": "Retrieval-based-Voice-Conversion-WebUI-JP-localization",
                 "user_name": "yantaisa11",
                 "description": "jp-localization"
+            },
+            "https://github.com/r9y9/pyopenjtalk": {
+                "sub_category": null,
+                "repository_name": "pyopenjtalk",
+                "user_name": "r9y9",
+                "description": "Python wrapper for OpenJTalk"
             }
         },
         "C++": {

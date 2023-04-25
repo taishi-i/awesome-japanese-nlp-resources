@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 456 个日语 NLP 存储库。
+此列表包含 458 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -19,10 +19,11 @@ GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awes
 
 ## The latest additions 🎉
 
-**Corpus**
- * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 医疗会议音频是由卫生和劳工部主办的先进医疗会议记录的读取数据集.
+**Python**
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - 开放JTalk的Python包装
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 翻译一个字符串,
 
-_Updated on Apr 24, 2023_
+_Updated on Apr 26, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -123,7 +124,7 @@ _Updated on Apr 24, 2023_
  * [depccg](https://github.com/masashi-y/depccg) - 一个具有超标签和依赖因素模型的CCG解析器
  * [bertknp](https://github.com/ku-nlp/bertknp) - 基于BERT的日本依赖分析器
  * [esupar](https://github.com/KoichiYasuoka/esupar) - 标记器 POS-Tagger 和依赖性解析器,使用BERT/RoBERTa/DeBERTa模型,用于日本和其他语言
- * [yomikata](https://github.com/passaglia/yomikata) - 异名调解库使用精细调整的BERT模型.
+ * [yomikata](https://github.com/passaglia/yomikata) - 使用精细调整的BERT模型.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -146,6 +147,7 @@ _Updated on Apr 24, 2023_
  * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - 转换阿拉伯数字或"西方"式数字,
  * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - 对于Python的Mozc: 卡纳-坎吉转换器
  * [jamorasep](https://github.com/tachi-hi/jamorasep) - 单词分析器可以将语/卡塔卡纳字符串分成单词.
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 翻译一个字符串,
 
 
 |Name|downloads/week|total downloads|stars|
@@ -156,11 +158,12 @@ _Updated on Apr 24, 2023_
 |[Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Greatdane/Convert-Numbers-to-Japanese?style=social)|
 |[mozcpy](https://github.com/ikegami-yukino/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy/week)](https://pepy.tech/project/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy)](https://pepy.tech/project/mozcpy)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mozcpy?style=social)|
 |[jamorasep](https://github.com/tachi-hi/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep/week)](https://pepy.tech/project/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep)](https://pepy.tech/project/jamorasep)|![GitHub Repo stars](https://img.shields.io/github/stars/tachi-hi/jamorasep?style=social)|
+|[text2phoneme](https://github.com/korguchi/text2phoneme)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/korguchi/text2phoneme?style=social)|
 
 
 ### Preprocessor
 
- * [neologdn](https://github.com/ikegami-yukino/neologdn) - 对于mecab-neologd,日本文本正常化器
+ * [neologdn](https://github.com/ikegami-yukino/neologdn) - 对于 mecab-neologd 的日语文本正常化器
  * [jaconv](https://github.com/ikegami-yukino/jaconv) - 清纯的Python日本字符互换器
  * [mojimoji](https://github.com/studio-ousia/mojimoji) - 现在我们将使用一个简单的字符转换器.
  * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 一个强大的文字清理器,用于日本的网文
@@ -408,7 +411,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 实施日本语的Tacotron2
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 他们的时间为IBus
  * [furiganapad](https://github.com/esrille/furiganapad) - 它们是非常可怕的.
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 它们是什么意思?
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本语同义词图书馆
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - 机器人 + 编程 + 文件 + Python3
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 现在我们可以使用
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 现在我们要做什么?
@@ -418,6 +421,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [fugumt](https://github.com/s-taka/fugumt) - 翻译环境使用了公开的机器翻译引擎. 可以翻译输入的字符串,翻译PDF.
  * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE:自动评估指标使用图像字幕模型的预言-参数结构
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 现在我们可以使用
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - 开放JTalk的Python包装
 
 
 |Name|downloads/week|total downloads|stars|
@@ -523,6 +527,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[fugumt](https://github.com/s-taka/fugumt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s-taka/fugumt?style=social)|
 |[JaSPICE](https://github.com/keio-smilab23/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE/week)](https://pepy.tech/project/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE)](https://pepy.tech/project/JaSPICE)|![GitHub Repo stars](https://img.shields.io/github/stars/keio-smilab23/JaSPICE?style=social)|
 |[Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization?style=social)|
+|[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 
 
 ## C++
@@ -609,7 +614,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 林德拉代币化器为Tantivy.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 现在我们可以使用Lindera.
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 一个使用Vibrato的Tantivy代币化器.
 
 
@@ -630,7 +635,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 现在我们可以使用免费的中等质量的文本阅读软件,
  * [akaza](https://github.com/akaza-im/akaza) - 另一个日本IME为IBus/Linux
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 一个免费的在线,自主托管,多语言的日语词典.
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 谷歌日本语输入用DvorakJP罗马字桌 / DvorakJP罗马表
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 对于谷歌日语输入,DvorakJP罗马表
  * [niinii](https://github.com/Netdex/niinii) - 使用Ichiran的日本语音语音器
 
 
@@ -673,11 +678,11 @@ Resources
 ### Converter
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - 支持里加纳和奥古里加纳模式的日本语库,可将日本语句转换为里加纳,卡塔卡纳或罗马吉.
- * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 库罗莫吉形态分析仪
+ * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 库罗莫吉形态分析仪对库罗希罗.
  * [hepburn](https://github.com/lovell/hepburn) - 使用赫伯恩的罗马化将日本的海拉加纳和卡塔卡纳文字转换到和从罗马吉的Node.js模块
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 将日本数字转换为数字
  * [jslingua](https://github.com/kariminf/jslingua) - 它们可以使用 JavaScript 库来处理文本:
- * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和转写海拉加纳语的JavaScript库
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和转写海拉加纳字母的JavaScript库
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 规范和解决基于罗马吉的日语名字的常见问题.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 让日本文本变得老式的实用工具
 
@@ -781,7 +786,7 @@ Resources
  * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - 亚同步日本代币化器原生插件
  * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本分析器使用 kuromoji 日本代币化器进行弹性搜索
  * [moji4j](https://github.com/andree-surya/moji4j) - 一个Java库,可以在日本的海拉加纳,卡塔卡纳和罗马吉字体之间转换.
- * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 对于 mecab-neologd 的日语文本正常化器
+ * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 对于mecab-neologd,日本文本正常化器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -833,7 +838,7 @@ Resources
  * [Dialog](https://github.com/reppy4620/Dialog) - 一个PyTorch 实现日本聊天机器人使用BERT和变压器的解码器
  * [language-pretraining](https://github.com/retarfi/language-pretraining) - 对于日语文本的PyTorch实现的BERT和ELECTRA模型.
  * [medbertjp](https://github.com/ou-medinfo/medbertjp) - 试验日本医疗领域的预先训练的BERT模型.
- * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - 没有任何问题.
+ * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - 现在我们可以使用
  * [t5-japanese](https://github.com/megagonlabs/t5-japanese) - 编码用于预训练日本T5模型
  * [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) - 现在我们将使用Pytorch来学习
  * [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) - 工作室BERT 日本:日本BERT 预训练使用Web-Corpus
@@ -844,7 +849,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 官方微调代码"日本推特情感分析与日本疫苗接种比较"
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2代模型
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于gpt-2的 text2text转换模型
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 现在我们将使用 GPT-2
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 拥抱脸的变压器的日本型GPT-2
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 通过使用friendly_JA Corpus训练的MT模型,试图通过使用拉丁/英语衍生的卡塔卡纳词汇而不是标准的中日词汇,使日本语更容易/更容易获得西方人
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 对于日本文本,
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 库存用于生成日本语维基百科库的BERT预训练模型

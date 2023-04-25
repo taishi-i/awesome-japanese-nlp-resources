@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、456件の日本語NLPリポジトリが含まれています。
+このリストには、458件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -20,10 +20,11 @@ GitHubに存在しないリソースは、[Wiki](https://github.com/taishi-i/awe
 
 ## The latest additions 🎉
 
-**Corpus**
- * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の読み上げデータセットです。
+**Python**
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - OpenJTalk の Python ループ
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 日本語文を音素列へ変換するスクリプト
 
-_Updated on Apr 24, 2023_
+_Updated on Apr 26, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -147,6 +148,7 @@ _Updated on Apr 24, 2023_
  * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - アラビア数字や"西洋"の数字を 日本語文脈に変換します
  * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - Python の Mozc: カナ-カンジ変換
  * [jamorasep](https://github.com/tachi-hi/jamorasep) - Japanese text parser to separate Hiragana/Katakana string into morae (syllables).
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 日本語文を音素列へ変換するスクリプト
 
 
 |Name|downloads/week|total downloads|stars|
@@ -157,6 +159,7 @@ _Updated on Apr 24, 2023_
 |[Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Greatdane/Convert-Numbers-to-Japanese?style=social)|
 |[mozcpy](https://github.com/ikegami-yukino/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy/week)](https://pepy.tech/project/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy)](https://pepy.tech/project/mozcpy)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mozcpy?style=social)|
 |[jamorasep](https://github.com/tachi-hi/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep/week)](https://pepy.tech/project/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep)](https://pepy.tech/project/jamorasep)|![GitHub Repo stars](https://img.shields.io/github/stars/tachi-hi/jamorasep?style=social)|
+|[text2phoneme](https://github.com/korguchi/text2phoneme)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/korguchi/text2phoneme?style=social)|
 
 
 ### Preprocessor
@@ -288,7 +291,7 @@ _Updated on Apr 24, 2023_
  * [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) - シーバのためのAllenNLP統合:日本の CANINEモデル
  * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - プリトレーニングされた日本語 word2vecモデルを日本語類似性データセットで評価するスクリプト
  * [gector-ja](https://github.com/jonnyli1125/gector-ja) - 日本語用GECタグ付け
- * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 日本語BPEエンコーダ
+ * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - Japanese-BPEEncoder
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - Japanese-BPEEncoder Version 2
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法誤り訂正ツール
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本式安定拡散は,日本語特有の潜性テキスト・トゥ・イメージ拡散モデルで,テキスト入力条件で写真リアルな画像を生成できる.
@@ -407,7 +410,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [akaza](https://github.com/tokuhirom/akaza) - IBus/Linux のもう1つの日本語IME
  * [posuto](https://github.com/polm/posuto) - Japanese postal code data.
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 日本語のタコトロン2の導入
- * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
+ * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - IBus の タイム ライン
  * [furiganapad](https://github.com/esrille/furiganapad) - ふりがなパッド
  * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本語同義語図書館
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - メカブ + ネオログド + ドッカー + パイソン3
@@ -419,6 +422,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [fugumt](https://github.com/s-taka/fugumt) - ぷるーふおぶこんせぷと で公開した機械翻訳エンジンを利用する翻訳環境です。 フォームに入力された文字列の翻訳、PDFの翻訳が可能です。
  * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE: 画像字幕モデルのためのプレディケート-アーグメント構造を使用する自動評価メトリック
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - jp-localization
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - OpenJTalk の Python ループ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -524,6 +528,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[fugumt](https://github.com/s-taka/fugumt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s-taka/fugumt?style=social)|
 |[JaSPICE](https://github.com/keio-smilab23/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE/week)](https://pepy.tech/project/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE)](https://pepy.tech/project/JaSPICE)|![GitHub Repo stars](https://img.shields.io/github/stars/keio-smilab23/JaSPICE?style=social)|
 |[Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization?style=social)|
+|[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 
 
 ## C++
@@ -598,7 +603,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 日本語文字 - ヒラガナ,カタカナ - とロマジの間のチェックと変換のためのユーティリティライブラリ
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 日本語の半角カナと全角英数を正規文字に変換するRustライブラリ
- * [kana](https://github.com/gbrlsnchs/kana) - [Mirror] CLI program for transliterating romaji text to either hiragana or katakana
+ * [kana](https://github.com/gbrlsnchs/kana) - [ミラー] CLI プログラム ロマジ文字を ヒラガナやカタカナに 書き換える
 
 
 |Name|downloads/week|total downloads|stars|
@@ -610,7 +615,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - リンデラ・トークナイザー
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - バイブラトを使ったタンティヴィのトークナイザー
 
 
@@ -697,7 +702,7 @@ Resources
 
 ### Others
 
- * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本アニメの原始データ
  * [yomichan](https://github.com/FooSoft/yomichan) - 日本語ポップアップ辞書拡張 Chrome と Firefox のために
  * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - GUIで動作する文書校正ツール GUI テキストリントツール
  * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - ジェームズ・ハイジグの"漢字を覚えておく" 6版で教えられている 2200文字を表示するウェブアプリ.
@@ -845,7 +850,7 @@ Resources
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - "日本のツイートの感情分析と 日本でのワクチンとの比較"の公式の調整コード
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代モデル
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - gpt-2 ベースの text2text 変換モデル
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - GPT-2 Japanese model for HuggingFace's transformers
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - ハグジングフェイスのトランスフォーマー用の日本製GPT-2モデル
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - フレンドリー_JAコープスを使って訓練されたMTモデル.標準の中日語辞書ではなくラテン語/英語から派生したカタカナ辞書を使って,日本語を西洋人により簡単に/より簡単に利用できるようにしようとしています.
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 文の日本語は,BERTで,SentencePieceで
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 日本語WikipediaコーパスでBERTのPre-Trainedモデルを生成するためのリポジトリ
@@ -1070,7 +1075,7 @@ Resources
  * [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - 日本語の文簡化のためのパラフレーズデータベース
  * [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - chakkiのアスペクトベース・センチメンタル・アナリティスデータセット
  * [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) - JaQuAD: 日本語質問回答データセット (2022年,Skelter Labs)
- * [JaNLI](https://github.com/verypluming/JaNLI) - 日本語対抗性自然言語推論データセット
+ * [JaNLI](https://github.com/verypluming/JaNLI) - Japanese Adversarial Natural Language Inference Dataset
  * [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) - 証拠に基づく説明データセット (AACL-IJCNLP 2020)
  * [emoji-ja](https://github.com/yagays/emoji-ja) - UNICODE絵文字の日本語読み/キーワード/分類辞書
  * [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) - Wikipediaから作成した日本語名寄せデータセット
@@ -1086,7 +1091,7 @@ Resources
  * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 日本語における不適切表現を収集します。自然言語処理の時のデータクリーニング用等に使えると思います。
  * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 参議院の公式ウェブサイトから会派、議員、議案、質問主意書のデータを整理しました。
  * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 国会議案データベース：衆議院
- * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIRキャプション: 大規模な日本語画像キャプションデータセット
+ * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIR captions: large-scale Japanese image caption dataset
  * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - ワイングラッド・スキーマ・チャレンジの日本語訳
  * [speechBSD](https://github.com/ku-nlp/speechBSD) - 音声とスピーカー属性情報を含む BSD コルプスの拡張
  * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITAコーパスの文章リスト

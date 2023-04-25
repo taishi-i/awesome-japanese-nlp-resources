@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 456 Japanese NLP repositories.
+This list includes 458 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -20,10 +20,11 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
-**Corpus**
- * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio (Medical Conference Audio) is a reading dataset of the minutes of the Advanced Medical Conference organized by the Ministry of Health and Labor.
+**Python**
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python wrapper for OpenJTalk
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - A script that converts Japanese words into vowel sounds
 
-_Updated on Apr 24, 2023_
+_Updated on Apr 26, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -147,6 +148,7 @@ _Updated on Apr 24, 2023_
  * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - Converts Arabic numerals, or 'western' style numbers, to a Japanese context.
  * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - Mozc for Python: Kana-Kanji converter
  * [jamorasep](https://github.com/tachi-hi/jamorasep) - Japanese text parser to separate Hiragana/Katakana string into morae (syllables).
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - A script that converts Japanese words into vowel sounds
 
 
 |Name|downloads/week|total downloads|stars|
@@ -157,6 +159,7 @@ _Updated on Apr 24, 2023_
 |[Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Greatdane/Convert-Numbers-to-Japanese?style=social)|
 |[mozcpy](https://github.com/ikegami-yukino/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy/week)](https://pepy.tech/project/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy)](https://pepy.tech/project/mozcpy)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mozcpy?style=social)|
 |[jamorasep](https://github.com/tachi-hi/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep/week)](https://pepy.tech/project/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep)](https://pepy.tech/project/jamorasep)|![GitHub Repo stars](https://img.shields.io/github/stars/tachi-hi/jamorasep?style=social)|
+|[text2phoneme](https://github.com/korguchi/text2phoneme)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/korguchi/text2phoneme?style=social)|
 
 
 ### Preprocessor
@@ -419,6 +422,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [fugumt](https://github.com/s-taka/fugumt) - It is a translation environment that uses a machine translation engine that is published by Plug-and-play. It allows you to translate the strings entered in the form, or translate PDFs.
  * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - Jp-localization is a
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python wrapper for OpenJTalk
 
 
 |Name|downloads/week|total downloads|stars|
@@ -524,6 +528,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[fugumt](https://github.com/s-taka/fugumt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s-taka/fugumt?style=social)|
 |[JaSPICE](https://github.com/keio-smilab23/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE/week)](https://pepy.tech/project/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE)](https://pepy.tech/project/JaSPICE)|![GitHub Repo stars](https://img.shields.io/github/stars/keio-smilab23/JaSPICE?style=social)|
 |[Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization?style=social)|
+|[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 
 
 ## C++
@@ -577,7 +582,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto: Very Accelerated POintwise pREdicTion based TOkenizer
  * [goya](https://github.com/Leko/goya) - Japanese Morphological Analysis written in Rust
- * [vibrato](https://github.com/daac-tools/vibrato) - vibrato: Viterbi-based accelerated tokenizer
+ * [vibrato](https://github.com/daac-tools/vibrato) - Vibrator: Viterbi-based accelerated tokenizer
  * [yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
  * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
@@ -947,7 +952,7 @@ Resources
  * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - IME dictionary, common to both the Nikonico and Pixib encyclopedias
  * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - GoogleIME用カタカナ語辞書プロジェクトのアーカイブです。Project archive of Google IME user dictionary from Katakana word ( Japanese loanword ) to English.
  * [emoticon](https://github.com/tiwanari/emoticon) - The Japanese-language entry of the Google face dictionary  ((,,Ò‿Ó,,) 
- * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - open source mozc dictionaryをMeCab辞書のフォーマットに変換したものです。
+ * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - It is a conversion of the open source mozc dictionary to the MeCab dictionary format.
  * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - RadioIME: A dictionary of terms related to the "radio department" that are intended for use in Microsoft IME and other applications.
  * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - It is a dictionary of related terms intended for use in Microsoft IME and other applications.
  * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - The name of the game is a dictionary of all known Pokémon names that were intended to be used in Microsoft IME and other applications.
@@ -1123,7 +1128,7 @@ Resources
  * [data_set](https://github.com/japanese-law-analysis/data_set) - Data sets related to law and case law.
  * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - WRIME for huggingface datasets
  * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - NDL classic OCR data set for learning (all together copying and processing data)
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 in development.
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 is in development.
  * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - Japanese version of LIWC2015
  * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - Japanese Livedoor news corpus for huggingface datasets
  * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets

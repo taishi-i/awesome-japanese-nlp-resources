@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 456 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 458 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -18,10 +18,11 @@ GitHub 上不可用的資源將添加到 [wiki](https://github.com/taishi-i/awes
 
 ## The latest additions 🎉
 
-**Corpus**
- * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 醫療會議音頻是由國家衛生與勞工部主辦的先進醫療會議錄音數據集.
+**Python**
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - 該網站的使用者:
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 這是一款將日文翻譯成音符串的程式,
 
-_Updated on Apr 24, 2023_
+_Updated on Apr 26, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -145,6 +146,7 @@ _Updated on Apr 24, 2023_
  * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - 轉換阿拉伯數字或"西方"式數字,
  * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - 該網站的使用者:
  * [jamorasep](https://github.com/tachi-hi/jamorasep) - 這項軟體是日本文本解析器,
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 這是一款將日文翻譯成音符串的程式,
 
 
 |Name|downloads/week|total downloads|stars|
@@ -155,6 +157,7 @@ _Updated on Apr 24, 2023_
 |[Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Greatdane/Convert-Numbers-to-Japanese?style=social)|
 |[mozcpy](https://github.com/ikegami-yukino/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy/week)](https://pepy.tech/project/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy)](https://pepy.tech/project/mozcpy)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mozcpy?style=social)|
 |[jamorasep](https://github.com/tachi-hi/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep/week)](https://pepy.tech/project/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep)](https://pepy.tech/project/jamorasep)|![GitHub Repo stars](https://img.shields.io/github/stars/tachi-hi/jamorasep?style=social)|
+|[text2phoneme](https://github.com/korguchi/text2phoneme)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/korguchi/text2phoneme?style=social)|
 
 
 ### Preprocessor
@@ -385,7 +388,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) - 日本語動詞/形容詞曲工具
  * [jageocoder](https://github.com/t-sagara/jageocoder) - 純粹的Python日文地址地理編碼器
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - 這項計畫的目標是:
- * [nksnd](https://github.com/yoriyuki/nksnd) - 沒有任何關於我們.
+ * [nksnd](https://github.com/yoriyuki/nksnd) - 新的卡納-坎吉轉換引擎
  * [JaMIE](https://github.com/racerandom/JaMIE) - 日本醫學資訊提取工具組
  * [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) - 比較快速文字與word2vec,執行程式,學習程式.
  * [minimal-search-engine](https://github.com/GINK03/minimal-search-engine) - 這就是最好的搜尋引擎.
@@ -417,6 +420,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [fugumt](https://github.com/s-taka/fugumt) - 翻譯環境使用公佈於Puru-fūū-fū-fū的機器翻譯引擎.
  * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - 透過使用前言論結構來進行自動評估
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 沒有任何可能的.
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - 該網站的使用者:
 
 
 |Name|downloads/week|total downloads|stars|
@@ -522,6 +526,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[fugumt](https://github.com/s-taka/fugumt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s-taka/fugumt?style=social)|
 |[JaSPICE](https://github.com/keio-smilab23/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE/week)](https://pepy.tech/project/JaSPICE)|[![Downloads](https://pepy.tech/badge/JaSPICE)](https://pepy.tech/project/JaSPICE)|![GitHub Repo stars](https://img.shields.io/github/stars/keio-smilab23/JaSPICE?style=social)|
 |[Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization?style=social)|
+|[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 
 
 ## C++
@@ -629,7 +634,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 提供免費的中等質量的文字閱讀軟體,
  * [akaza](https://github.com/akaza-im/akaza) - 還有另一台日本IME系統
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 這是一本免費的網路,自主托管,多語言日文字典.
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 請使用Google 日本語輸入的DvorakJPローマ字テーブル/DvorakJP羅馬字表
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 果日文輸入用DvorakJP羅馬字母表
  * [niinii](https://github.com/Netdex/niinii) - 義大利語語語錄用語錄
 
 
@@ -761,7 +766,7 @@ Resources
 
  * [kuromoji](https://github.com/atilika/kuromoji) - 木是一款獨立且易於使用的日本形狀分析器,
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
- * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - 蘇達奇的詞典
+ * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - 這裡是我最愛的地方.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1138,7 +1143,7 @@ Resources
  * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - 反映日本注解者的常識道德.
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - 沒有任何方法可以取資料.
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 網路代理多模式評估廣告文字基因編輯 (CAMERA)
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 實際檢查句子NLI數據集
+ * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 沒有任何關於我們的消息.
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這裡是用於 databricks/dolly-v2-12b 的學習數據的 databricks-dolly-15k.jsonl 翻譯成日文的數據集.
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基于MELD的情感感應用語音翻譯的日英文數據集.
  * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 醫療會議音頻是由國家衛生與勞工部主辦的先進醫療會議錄音數據集.
@@ -1236,7 +1241,7 @@ Resources
  * [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) - 經驗使用車輛和PyTorch對日本文字的分類
  * [ginza-examples](https://github.com/poyo46/ginza-examples) - 這裡是日本NLP圖書館的首頁.
  * [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) - 文件分類使用BERT-日文
- * [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) - 這裡是我在日本的部落格.
+ * [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) - 這就是如何動手使用日本語BERT.
  * [bert-book](https://github.com/stockmarkteam/bert-book) - 接著我們將會看到更多的資訊.
  * [janome-tutorial](https://github.com/mocobeta/janome-tutorial) - 這是一本關於使用 Janome 來開發文字的教學.
  * [handson-language-models](https://github.com/hnishi/handson-language-models) - 這裡是日本語語言模型的漢字資料.
