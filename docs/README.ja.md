@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、458件の日本語NLPリポジトリが含まれています。
+このリストには、459件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -20,11 +20,10 @@ GitHubに存在しないリソースは、[Wiki](https://github.com/taishi-i/awe
 
 ## The latest additions 🎉
 
-**Python**
- * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - OpenJTalk の Python ループ
- * [text2phoneme](https://github.com/korguchi/text2phoneme) - 日本語文を音素列へ変換するスクリプト
+**ChatGPT**
+ * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
 
-_Updated on Apr 26, 2023_
+_Updated on May 02, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -291,7 +290,7 @@ _Updated on Apr 26, 2023_
  * [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) - シーバのためのAllenNLP統合:日本の CANINEモデル
  * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - プリトレーニングされた日本語 word2vecモデルを日本語類似性データセットで評価するスクリプト
  * [gector-ja](https://github.com/jonnyli1125/gector-ja) - 日本語用GECタグ付け
- * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - Japanese-BPEEncoder
+ * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 日本語BPEエンコーダ
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - Japanese-BPEEncoder Version 2
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法誤り訂正ツール
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本式安定拡散は,日本語特有の潜性テキスト・トゥ・イメージ拡散モデルで,テキスト入力条件で写真リアルな画像を生成できる.
@@ -410,7 +409,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [akaza](https://github.com/tokuhirom/akaza) - IBus/Linux のもう1つの日本語IME
  * [posuto](https://github.com/polm/posuto) - Japanese postal code data.
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 日本語のタコトロン2の導入
- * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - IBus の タイム ライン
+ * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
  * [furiganapad](https://github.com/esrille/furiganapad) - ふりがなパッド
  * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本語同義語図書館
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - メカブ + ネオログド + ドッカー + パイソン3
@@ -768,7 +767,7 @@ Resources
 
  * [kuromoji](https://github.com/atilika/kuromoji) - 検索のために設計された,自立で,非常に簡単に使用できる日本語形状分析機です
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
- * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - スーダチ語辞書
+ * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
 
 
 |Name|downloads/week|total downloads|stars|
@@ -785,7 +784,7 @@ Resources
  * [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) - Kanji transliteration to hiragana/katakana/romaji, in Java
  * [Kamite](https://github.com/fauu/Kamite) - 日本語学習者のためのデスクトップ言語浸透パートナー
  * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - Async 日本語トークナイザー Native Plugin for React iOSとAndroid向けネイティブ
- * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本解析器はElasticSearchの日本語トークナイザー"kuromoji"を使用しています.
+ * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - Japanese analyzer uses kuromoji japanese tokenizer for ElasticSearch
  * [moji4j](https://github.com/andree-surya/moji4j) - 日本語のヒラガナ,カタカナ,ロマジ文字を変換するJavaライブラリ.
  * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 日本語テキスト標準化器 mecab-neologd
 
@@ -848,9 +847,9 @@ Resources
  * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 日本語BERTはAozora BunkoとWikipediaで訓練され,UniDic&SudachiPyでMeCabによってプリトークン化されています
  * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 訓練コード 文 BERT ハグリングフェイスの日本語モデル
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - "日本のツイートの感情分析と 日本でのワクチンとの比較"の公式の調整コード
- * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代モデル
+ * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - Japanese GPT2 Generation Model
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - gpt-2 ベースの text2text 変換モデル
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - ハグジングフェイスのトランスフォーマー用の日本製GPT-2モデル
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - GPT-2 Japanese model for HuggingFace's transformers
  * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - フレンドリー_JAコープスを使って訓練されたMTモデル.標準の中日語辞書ではなくラテン語/英語から派生したカタカナ辞書を使って,日本語を西洋人により簡単に/より簡単に利用できるようにしようとしています.
  * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 文の日本語は,BERTで,SentencePieceで
  * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 日本語WikipediaコーパスでBERTのPre-Trainedモデルを生成するためのリポジトリ
@@ -917,6 +916,7 @@ Resources
  * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - Open AI Text completion endpointで動力されるNuxt 3を使用して構築されたチャットボックスアプリケーション.AI友人の異なる性格を選択できます.デフォルトでは日本語で応答します.このアプリを使用してニホンゴスキルを練習できます!
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - このChrome拡張子は,チャットGPTを使用して,日本語のテキストをヒラガナに翻訳することができます.
  * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
+ * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -932,6 +932,7 @@ Resources
 |[openai-chatfriend](https://github.com/supershaneski/openai-chatfriend)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/supershaneski/openai-chatfriend?style=social)|
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
 |[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
+|[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 
 
 ## Dictionary
@@ -952,7 +953,7 @@ Resources
  * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - ニコニコ大百科とピクシブ百科事典の共通部分のIME辞書
  * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - GoogleIME用カタカナ語辞書プロジェクトのアーカイブです。Google IMEユーザー辞書のプロジェクトアーカイブ.
  * [emoticon](https://github.com/tiwanari/emoticon) - Google日本語入力の顔文字辞書∩(,,Ò‿Ó,,)∩
- * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - open source mozc dictionaryをMeCab辞書のフォーマットに変換したものです。
+ * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - オープンソースのMozc辞書をMeCab辞書のフォーマットに変換したものです.
  * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - 電音IME: Microsoft IMEなどで利用することを想定した「電音部」関連用語の辞書
  * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - Microsoft IMEなどで利用することを想定した「にじさんじ」関連用語の用語辞書です。
  * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - Microsoft IMEなどで利用することを想定した、現状判明している全てのポケモンの名前を網羅した用語辞書です。
@@ -1128,7 +1129,7 @@ Resources
  * [data_set](https://github.com/japanese-law-analysis/data_set) - 法律・判例関係のデータセット
  * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - huggingface データセットの WRIME
  * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - NDL古典籍OCR学習用データセット（みんなで翻刻加工データ）
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 in development.
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS&考古学シミュレーター 2023年開発中
  * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - 日本語版 LIWC2015
  * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - 日本語 ライブドアニュースコープス 抱擁顔データセット
  * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: 抱擁顔データセットの日本語一般言語理解評価

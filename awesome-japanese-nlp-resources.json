@@ -1875,6 +1875,12 @@
                 "repository_name": "azure-search-openai-demo",
                 "user_name": "nohanaga",
                 "description": "このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。"
+            },
+            "https://github.com/pixiv/chatvrm": {
+                "sub_category": null,
+                "repository_name": "chatvrm",
+                "user_name": "pixiv",
+                "description": "ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。"
             }
         },
         "Dictionary": {
