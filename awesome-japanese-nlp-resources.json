@@ -1881,6 +1881,12 @@
                 "repository_name": "chatvrm",
                 "user_name": "pixiv",
                 "description": "ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。"
+            },
+            "https://github.com/kmizu/sftly-replace": {
+                "sub_category": null,
+                "repository_name": "sftly-replace",
+                "user_name": "kmizu",
+                "description": "A Chrome extention to replace the selected text softly"
             }
         },
         "Dictionary": {

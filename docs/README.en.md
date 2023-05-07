@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 459 Japanese NLP repositories.
+This list includes 460 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -17,13 +17,15 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
+_☝ By using ChatGPT, we were able to improve the translation results._
+
 
 ## The latest additions 🎉
 
 **ChatGPT**
- * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM is a demo application that allows you to easily chat with 3D characters in a browser.
+ * [sftly-replace](https://github.com/kmizu/sftly-replace) - A Chrome extention to replace the selected text softly
 
-_Updated on May 02, 2023_
+_Updated on May 07, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -88,11 +90,11 @@ _Updated on May 02, 2023_
  * [Mykytea-python](https://github.com/chezou/Mykytea-python) - Python wrapper for KyTea
  * [konoha](https://github.com/himkt/konoha) - Konoha: Simple wrapper of Japanese Tokenizers
  * [natto-py](https://github.com/buruzaemon/natto-py) - natto-py combines the Python programming language with MeCab, the part-of-speech and morphological analyzer for the Japanese language.
- * [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) - It's called Rakuten MA.
- * [python-vaporetto](https://github.com/daac-tools/python-vaporetto) - Vaporetto is a fast and lightweight pointwise prediction based tokenizer. This is a Python wrapper for Vaporetto.
+ * [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) - Rakuten MA (Python version)
+ * [python-vaporetto](https://github.com/daac-tools/python-vaporetto) -  Vaporetto is a fast and lightweight pointwise prediction based tokenizer. This is a Python wrapper for Vaporetto.
  * [dango](https://github.com/mkartawijaya/dango) - An easy to use tokenizer for Japanese text, aimed at language learners and non-linguists
  * [rhoknp](https://github.com/ku-nlp/rhoknp) - Yet another Python binding for Juman++/KNP
- * [python-vibrato](https://github.com/daac-tools/python-vibrato) - Viterbi-based accelerated tokenizer (Python wrapper)
+ * [python-vibrato](https://github.com/daac-tools/python-vibrato) -  Viterbi-based accelerated tokenizer (Python wrapper)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -206,7 +208,7 @@ _Updated on May 02, 2023_
 ### Sentiment analysis
 
  * [oseti](https://github.com/ikegami-yukino/oseti) - Dictionary based Sentiment Analysis for Japanese
- * [negapoji](https://github.com/liaoziyang/negapoji) - Japanese negative positive classification. Determine the negative positives of Japanese documents.
+ * [negapoji](https://github.com/liaoziyang/negapoji) - Japanese negative positive classification.日本語文書のネガポジを判定。
  * [pymlask](https://github.com/ikegami-yukino/pymlask) - Emotion analyzer for Japanese text
  * [asari](https://github.com/Hironsan/asari) - Japanese sentiment analyzer implemented in Python.
 
@@ -258,10 +260,10 @@ _Updated on May 02, 2023_
  * [Manga OCR](https://github.com/kha-white/manga-ocr) - About Optical character recognition for Japanese text, with the main focus being Japanese manga
  * [mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
  * [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) - Handwritten Japanese OCR demo using touch panel to draw the input text using Intel OpenVINO toolkit
- * [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) - Japanese OCR
+ * [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) - 日本語OCR
  * [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) - The application of NDLOCR
  * [donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
- * [JMTrans](https://github.com/ttop32/JMTrans) - I'm going to try to translate this.
+ * [JMTrans](https://github.com/ttop32/JMTrans) - manga translator - get japanese manga from url to translate manga image
  * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - OCR system for recognizing modern Japanese magazines
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - Text recognition module for NDLOCR
 
@@ -352,7 +354,7 @@ _Updated on May 02, 2023_
  * [YouyakuMan](https://github.com/neilctwu/YouyakuMan) - Extractive summarizer using BertSum as summarization model
  * [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) - A parser for Japanese number (Kanji, arabic) in the natural language.
  * [kantan](https://github.com/itayperl/kantan) - Lookup japanese words by radical patterns
- * [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) - Get the Japanese dialogue corpus
+ * [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) - Get Japanese dialogue corpus
  * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - A summarizer for Japanese articles.
  * [chirptext](https://github.com/letuananh/chirptext) - ChirpText is a collection of text processing tools for Python.
  * [yubin](https://github.com/alvations/yubin) - Japanese Address Munger
@@ -369,7 +371,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [chainer_nic](https://github.com/yuyay/chainer_nic) - Neural Image Caption (NIC) on chainer, its pretrained models on English and Japanese image caption datasets.
  * [unihan-lm](https://github.com/JetRunner/unihan-lm) - The official repository for "UnihanLM: Coarse-to-Fine Chinese-Japanese Language Model Pretraining with the Unihan Database", AACL-IJCNLP 2020
  * [mbart-finetuning](https://github.com/ken11/mbart-finetuning) - Code to perform finetuning of the mBART model.
- * [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) - Xvector model on jtubespeech
+ * [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) - xvector model on jtubespeech
  * [TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker) - A tool for creating your own learning models for TinySegmenter.
  * [Grongish](https://github.com/shogo82148/Grongish) - Japanese and Grongy mutual transliteration script
  * [WordCloud-Japanese](https://github.com/aocattleya/WordCloud-Japanese) - A script that allows Japanese text to be displayed in WordCloud without using the Mecab (form factor analysis engine)
@@ -378,7 +380,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [termextract](https://github.com/kanjirz50/termextract) - - Practice implementing a technical term extraction algorithm
  * [JDT-with-KenLM-scoring](https://github.com/TUT-SLP-lab/JDT-with-KenLM-scoring) - For the Japanese-Dialog-Transformer response candidates, KenLM's N-gram language model is used to score, filter, or re-rank.
  * [mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model) - Mixture of Unigram Model and Infinite Mixture of Unigram Model in Python. (混合ユニグラムモデルと無限混合ユニグラムモデル)
- * [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) - The Hidden Markov Model (HMM) and Infinite Hidden Markov Model (iHMM) in Python is a simple and easy to use, but extremely simple, method of solving a problem.
+ * [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) - Hidden Markov Model (HMM) and Infinite Hidden Markov Model (iHMM) in Python. (隠れマルコフモデルと無限隠れマルコフモデル)
  * [Ngram-language-model](https://github.com/KentoW/Ngram-language-model) - Ngram language model in Python. (Nグラム言語モデル)
  * [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) - Automatic Speech Recognition with deepspeech2 model in pytorch with support from Zakuro AI.
  * [neural_ime](https://github.com/yohokuno/neural_ime) - Neural IME: Neural Input Method Engine
@@ -407,20 +409,20 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) - A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder
  * [radicalchar](https://github.com/yamamaya/radicalchar) - The headline standardization library.
  * [akaza](https://github.com/tokuhirom/akaza) - Yet another Japanese IME for IBus/Linux
- * [posuto](https://github.com/polm/posuto) - Japanese postal code data.
+ * [posuto](https://github.com/polm/posuto) -  Japanese postal code data.
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 implementation of Japanese
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - The IME for IBus is blurry.
  * [furiganapad](https://github.com/esrille/furiganapad) - It's a very good pad.
  * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - Japanese synonym library
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - Mecab + NEologd + Docker + Python3
- * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - Japanese EmbeddingEval
+ * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - JapaneseEmbeddingEval
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPT is a YouTuber.
  * [shuwa](https://github.com/google/shuwa) - Extend GNOME On-Screen Keyboard for Input Methods
  * [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) - This repository provides the code for Japanese NLI model, a fine-tuned masked language model.
  * [tra-fugu](https://github.com/tos-kamiya/tra-fugu) - A tool for Japanese-English translation and English-Japanese translation by using FuguMT
  * [fugumt](https://github.com/s-taka/fugumt) - It is a translation environment that uses a machine translation engine that is published by Plug-and-play. It allows you to translate the strings entered in the form, or translate PDFs.
  * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models
- * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - Jp-localization is a
+ * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - jp-localization
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python wrapper for OpenJTalk
 
 
@@ -614,7 +616,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy. This is the first time I've seen it.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy.
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - A Tantivy tokenizer using Vibrato.
 
 
@@ -629,14 +631,14 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [daachorse](https://github.com/daac-tools/daachorse) - A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
  * [crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
- * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) - Comparison code of various tokenizers
+ * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) -  Comparison code of various tokenizers
  * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - Here provides benchmark tools to compare the performance of data structures for string matching.
  * [vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - It's a free, medium-quality text reader software, the core of VOICEVOX.
  * [akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - A free online, self-hostable, multilang Japanese dictionary.
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - DvorakJP Roman Table for Google Japanese Input is a Japanese language text file format.
- * [niinii](https://github.com/Netdex/niinii) - Japanese glossator for assisted reading of text using Ichiran
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - Google 日本語入力用DvorakJPローマ字テーブル / DvorakJP Roman Table for Google Japanese Input
+ * [niinii](https://github.com/Netdex/niinii) -  Japanese glossator for assisted reading of text using Ichiran
 
 
 |Name|downloads/week|total downloads|stars|
@@ -659,7 +661,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 ### Morphology analysis
 
  * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - JavaScript implementation of Japanese morphological analyzer
- * [rakutenma](https://github.com/rakuten-nlp/rakutenma) - Rakuten MA - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript.
+ * [rakutenma](https://github.com/rakuten-nlp/rakutenma) -  Rakuten MA - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript.
 Resources
  * [node-mecab-ya](https://github.com/golbin/node-mecab-ya) - Yet another mecab wrapper for nodejs
  * [juman-bin](https://github.com/thammin/juman-bin) - a User-Extensible Morphological Analyzer for Japanese. 日本語形態素解析システム
@@ -681,7 +683,7 @@ Resources
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuromoji morphological analyzer for kuroshiro.
  * [hepburn](https://github.com/lovell/hepburn) - Node.js module for converting Japanese Hiragana and Katakana script to, and from, Romaji using Hepburn romanisation
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - Converts Japanese Numerals into number
- * [jslingua](https://github.com/kariminf/jslingua) - JavaScript libraries to process text: Arabic, Japanese, etc.
+ * [jslingua](https://github.com/kariminf/jslingua) - Javascript libraries to process text: Arabic, Japanese, etc.
  * [WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana <--> Katakana <--> Romaji
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - Normalize and fix common issues with Romaji-based Japanese names.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
@@ -807,9 +809,9 @@ Resources
 
  * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - Word2vec (word to vectors) approach for Japanese language using Gensim and Mecab.
  * [chiVe](https://github.com/WorksApplications/chiVe) - Japanese word embedding with Sudachi and NWJC
- * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - Elmo-Japanese
+ * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - elmo-japanese
  * [embedrank](https://github.com/yagays/embedrank) - Python Implementation of EmbedRank
- * [aovec](https://github.com/eggplants/aovec) - Easy aozorabunko Word2Vec Builder - a built-in model of the entire Word2Vec Builder library
+ * [aovec](https://github.com/eggplants/aovec) - Easy aozorabunko Word2Vec Builder - 青空文庫全書籍のWord2Vecビルダー+構築済みモデル
  * [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) - This is a repository for the AI LAB article "係り受けに基づく日本語単語埋込 (Dependency-based Japanese Word Embeddings)" ( Article URL https://ai-lab.lapras.com/nlp/japanese-word-embedding/)
  * [jawikivec](https://github.com/wikiwikification/jawikivec) - Yet Another Japanese-Wikipedia Entity Vectors
  * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - A script to learn word-dispersive representation of word2vec, fastText, and GloVe based on the results of the IPA dictionary and the latest Neologd dictionary using MeCab from the latest Japanese Wikipedia dump data
@@ -838,12 +840,12 @@ Resources
  * [Dialog](https://github.com/reppy4620/Dialog) - A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder
  * [language-pretraining](https://github.com/retarfi/language-pretraining) - BERT and ELECTRA models of PyTorch implementations for Japanese text.
  * [medbertjp](https://github.com/ou-medinfo/medbertjp) - Trials of pre-trained BERT models for the medical domain in Japanese.
- * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - I'm going to call you back.
+ * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - ILYS-aoba-chatbot
  * [t5-japanese](https://github.com/megagonlabs/t5-japanese) - Codes to pre-train Japanese T5 models
  * [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) - I'm using the Japanese learning model of BERT in Pytorch.
  * [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) - Laboro BERT Japanese: Japanese BERT Pre-Trained With Web-Corpus
  * [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) - Japanese BERT Pretrained Model
- * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - MLP Transformer Model for Japanese
+ * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - aMLP Transformer Model for Japanese
  * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - Japanese BERT trained on Aozora Bunko and Wikipedia, pre-tokenized by MeCab with UniDic & SudachiPy
  * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - Code to train Sentence BERT Japanese model for Hugging Face Model Hub
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - Official fine-tuning code for "Emotion Analysis of Japanese Tweets and Comparison to Vaccinations in Japan"
@@ -917,6 +919,7 @@ Resources
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - This Chrome extension can translate selected Japanese text to Hiragana by using ChatGPT.
  * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - This sample shows some approaches to creating ChatGPT-like experiences for unique data using Retrieval Augmented Generation patterns.
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM is a demo application that allows you to easily chat with 3D characters in a browser.
+ * [sftly-replace](https://github.com/kmizu/sftly-replace) - A Chrome extention to replace the selected text softly
 
 
 |Name|downloads/week|total downloads|stars|
@@ -933,6 +936,7 @@ Resources
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
 |[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
+|[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
 
 
 ## Dictionary
@@ -942,7 +946,7 @@ Resources
  * [jamdict](https://github.com/neocl/jamdict) - Python 3 library for manipulating Jim Breen's JMdict, KanjiDic2, JMnedict and kanji-radical mappings
  * [unidic-py](https://github.com/polm/unidic-py) - Unidic packaged for installation via pip.
  * [Japanese-Company-Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon) - Japanese Company Lexicon (JCLdic)
- * [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) - The Sudachi dictionary of diseases
+ * [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) - Sudachi向け万病辞書
  * [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) - Generate SKK/MeCab dictionary from Wikipedia(Japanese edition)
  * [JIWC-Dictionary](https://github.com/sociocom/JIWC-Dictionary) - dictionary to find emotion related to text
  * [JumanDIC](https://github.com/ku-nlp/JumanDIC) - This repository contains source dictionary files to build dictionaries for JUMAN and Juman++.
@@ -952,14 +956,14 @@ Resources
  * [google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary) - IME extension dictionary for Japanese-English translation and English abbreviation deployment orange_book IME extension dictionary that allows for Japanese-to-English translation and English abbreviation deployment with Google Japanese input and ATOK, etc.
  * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - IME dictionary, common to both the Nikonico and Pixib encyclopedias
  * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - GoogleIME用カタカナ語辞書プロジェクトのアーカイブです。Project archive of Google IME user dictionary from Katakana word ( Japanese loanword ) to English.
- * [emoticon](https://github.com/tiwanari/emoticon) - The Japanese-language entry of the Google face dictionary  ((,,Ò‿Ó,,) 
+ * [emoticon](https://github.com/tiwanari/emoticon) - Google日本語入力の顔文字辞書∩(,,Ò‿Ó,,)∩
  * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - It is a conversion of the open source mozc dictionary to the MeCab dictionary format.
  * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - RadioIME: A dictionary of terms related to the "radio department" that are intended for use in Microsoft IME and other applications.
  * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - It is a dictionary of related terms intended for use in Microsoft IME and other applications.
  * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - The name of the game is a dictionary of all known Pokémon names that were intended to be used in Microsoft IME and other applications.
  * [EJDict](https://github.com/kujirahand/EJDict) - English-Japanese Dictionary data (Public Domain) EJDict-hand
  * [Ayashiy-Nipongo-Dic](https://github.com/Rinrin0413/Ayashiy-Nipongo-Dic) - I used your words to make sure I could speak Japanese properly.
- * [genshin-dict](https://github.com/kotofurumiya/genshin-dict) - It's a dictionary of the original words for Windows and macOS.
+ * [genshin-dict](https://github.com/kotofurumiya/genshin-dict) - Windows/macOSで使える原神の単語辞書です
  * [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) - JMdict and JMnedict in JSON format
  * [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) - Convert external words into Mozc system dictionary
 
@@ -1000,7 +1004,7 @@ Resources
  * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - A Japanese language expression extraction dataset using Wikipedia
  * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - Japanese IOB2 tagged corpus for Named Entity Recognition.
  * [TwitterCorpus](https://github.com/tmu-nlp/TwitterCorpus) - The capital of Japan
- * [UD_Japanese-PUD](https://github.com/megagonlabs/UD_Japanese-PUD) - So, we have parallel universal dependencies.
+ * [UD_Japanese-PUD](https://github.com/megagonlabs/UD_Japanese-PUD) - Parallel Universal Dependencies.
  * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - Japanese data from the Google UDT 2.0.
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - Kyoto University Web Document Leads Corpus
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - Annotated Fuman Kaitori Center Corpus
@@ -1027,9 +1031,9 @@ Resources
  * [giant_ja-en_parallel_corpus](https://github.com/DayuanJiang/giant_ja-en_parallel_corpus) - This directory includes a giant Japanese-English subtitle corpus. The raw data comes from the Stanford’s JESC project.
  * [jesc_small](https://github.com/yusugomori/jesc_small) - Small Japanese-English Subtitle Corpus
  * [graded-enja-corpus](https://github.com/marmooo/graded-enja-corpus) - The English Corpus is a daily English translation, taking into account prohibited terms and word levels.
- * [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / Chinese-Korean computer science terms comparison / Japanese-South Korean computer science terms comparison / Han·중·일 precalculus term contrast
+ * [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
  * [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) - Scripts for creating a Japanese-English parallel corpus and training NMT models
- * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - I'm going to go with google-vs-deepl-je.
+ * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - google-vs-deepl-je
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1049,11 +1053,11 @@ Resources
 
 ### Dialog corpus
 
- * [JMRD](https://github.com/ku-nlp/JMRD) - This is the Japanese Movie Recommendation Dialogue dataset.
+ * [JMRD](https://github.com/ku-nlp/JMRD) - Japanese Movie Recommendation Dialogue dataset
  * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - I've crawl through the two of them and created a dialog corpus.
  * [BSD](https://github.com/tsuruoka-lab/BSD) - The Business Scene Dialogue corpus
  * [asdc](https://github.com/megagonlabs/asdc) - Accommodation Search Dialog Corpus (宿泊施設探索対話コーパス)
- * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - Japanese language interaction data for seq2seq etc
+ * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 日本語の対話データ for seq2seq etc
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - This repository contains the Japanese–English bilingual chat corpus BPersona-chat published in the paper Chat Translation Error Detection for Assisting Cross-lingual Communications at AACL-IJCNLP 2022's Workshop Eval4NLP 2022.
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - Japanese Daily Dialogue, or 日本語日常対話コーパス in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment.
 
@@ -1084,7 +1088,7 @@ Resources
  * [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) - The three-line summary data set.
  * [japanese](https://github.com/hingston/japanese) - This repo contains a list of the 44,998 most common Japanese words in order of frequency, as determined by the University of Leeds Corpus.
  * [kanji-frequency](https://github.com/scriptin/kanji-frequency) - Kanji usage frequency data collected from various sources
- * [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) - This is the TEDxJP-10K ASR Evaluation Dataset.
+ * [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) - TEDxJP-10K ASR Evaluation Dataset
  * [CoARiJ](https://github.com/chakki-works/CoARiJ) - Corpus of Annual Reports in Japan
  * [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) - A collection of technical papers written in Japanese
  * [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) - Chunked word annotation for ITA corpus
@@ -1114,7 +1118,7 @@ Resources
  * [security_words](https://github.com/SaitoLab/security_words) - The public organization concerned with cybersecurity
  * [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) - Data from the Japanese parliament
  * [honkoku-data](https://github.com/yuta1984/honkoku-data) - 歴史資料の市民参加型翻刻プラットフォーム「みんなで翻刻」のテキストデータ置き場です。 / Transcription texts created on Minna de Honkoku (https://honkoku.org), a crowdsourced transcription platform for historical Japanese documents.
- * [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) - This is a wikiHow dataset.
+ * [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) - wikiHow dataset (Japanese version)
  * [engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - Engineer Vocabulary List in Japanese/English
  * [JSICK](https://github.com/verypluming/JSICK) - Japanese Sentences Involving Compositional Knowledge (JSICK) Dataset/JSICK-stress Test Set
  * [phishurl-list](https://github.com/JPCERTCC/phishurl-list) - Phishing URL dataset from JPCERT/CC
@@ -1129,17 +1133,17 @@ Resources
  * [data_set](https://github.com/japanese-law-analysis/data_set) - Data sets related to law and case law.
  * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - WRIME for huggingface datasets
  * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - NDL classic OCR data set for learning (all together copying and processing data)
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 is in development.
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS & Archaeological Simulator. 2023 in development.
  * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - Japanese version of LIWC2015
  * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - Japanese Livedoor news corpus for huggingface datasets
  * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
  * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality is a dataset created through crowdsourcing that reflects the commonsense morality of Japanese annotators.
- * [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) - I'm going to go with the COMET-ATOMIC ja.
+ * [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) - COMET-ATOMIC ja
  * [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) - Dialogue Commonsense Graph in Japanese
  * [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) - "Proposal and Evaluation of Japanese Toxicity Schema" provides a schema and dataset for toxicity in the Japanese language.
  * [camera](https://github.com/CyberAgentAILab/camera) - CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) is the Japanese ad text generation dataset.
  * [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) - Japanese Fake News Data Set
- * [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) - This is the data set.
+ * [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) - jpn_explainable_qa_dataset
  * [copa-japanese](https://github.com/nlp-titech/copa-japanese) - COPA Dataset in Japanese
  * [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) - Word Familiarity Rate for 'Word List by Semantic Principles (WLSP)'
  * [ProSub](https://github.com/matbahasa/ProSub) - A cross-linguistic study of pronoun substitutes and address terms
@@ -1149,7 +1153,7 @@ Resources
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - FactCheckSentenceNLIデータセット
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - This is a data set that translates databricks-dolly-15k.jsonl into Japanese.
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD is an English-Japanese dataset for emotion-aware speech translation based on MELD.
- * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio (Medical Conference Audio) is a reading dataset of the minutes of the Advanced Medical Conference organized by the Ministry of Health and Labor.
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の読み上げデータセットです。
 
 
 |Name|downloads/week|total downloads|stars|
