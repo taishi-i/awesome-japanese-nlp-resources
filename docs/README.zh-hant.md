@@ -23,7 +23,7 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 **ChatGPT**
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - 一個Chrome擴展程序，可以輕鬆替換所選文本
 
-_Updated on May 07, 2023_
+_Updated on May 10, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -78,21 +78,21 @@ _Updated on May 07, 2023_
 
 ### Morphology analysis
 
- * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - 該網站的網站名稱為"Sudachi.rs".
- * [Janome](https://github.com/mocobeta/janome) - 日本形狀分析引擎用純粹的Python寫
- * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - 您可以在此找到原版:http://taku910.github.io/mecab/
- * [mecab](https://github.com/ikegami-yukino/mecab) - 這裡是一個可以使用Windows 64位 MeCab二進制程式,
- * [fugashi](https://github.com/polm/fugashi) - 該網站的網站是一個非常重要的網站,
- * [nagisa](https://github.com/taishi-i/nagisa) - 基于反復性神經網絡的日本代幣化器
- * [pyknp](https://github.com/ku-nlp/pyknp) - 該網站的使用者應使用:
- * [Mykytea-python](https://github.com/chezou/Mykytea-python) - 該網站的使用者必須:
- * [konoha](https://github.com/himkt/konoha) - 野:日本代幣化器的簡單包裝
- * [natto-py](https://github.com/buruzaemon/natto-py) - 該網站將Python程式語言與MeCab結合,
- * [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) - 拉庫登MA (Python版本)
- * [python-vaporetto](https://github.com/daac-tools/python-vaporetto) - 這是一款基于點性預測的快速輕量令牌.
- * [dango](https://github.com/mkartawijaya/dango) - 簡易使用的日文標記器, 面向學習語言和非語言學家
- * [rhoknp](https://github.com/ku-nlp/rhoknp) - 還有另一項Python對Juman++/KNP的結合
- * [python-vibrato](https://github.com/daac-tools/python-vibrato) - 基于Viterbi的加速令牌化器 (Python包裝)
+ * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6*及以上版本已開發為Sudachi.rs。
+ * [Janome](https://github.com/mocobeta/janome) - 純Python編寫的日語形態分析引擎
+ * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - mecab-python。mecab-python。您可以在此處找到原始版本：http://taku910.github.io/mecab/。
+ * [mecab](https://github.com/ikegami-yukino/mecab) - 這個存儲庫是用於構建Windows 64位MeCab二進制文件和改進MeCab Python綁定的。
+ * [fugashi](https://github.com/polm/fugashi) - 一個Cython MeCab包裝器，用於快速、Python式的日語分詞和形態分析。
+ * [nagisa](https://github.com/taishi-i/nagisa) - 基於循環神經網絡的日語分詞器
+ * [pyknp](https://github.com/ku-nlp/pyknp) - 一個用於 JUMAN++/KNP 的 Python 模組
+ * [Mykytea-python](https://github.com/chezou/Mykytea-python) - KyTea 的 Python 封裝程式
+ * [konoha](https://github.com/himkt/konoha) - 木葉：日本分詞器的簡單封裝
+ * [natto-py](https://github.com/buruzaemon/natto-py) - natto-py 將 Python 程式語言與 MeCab 結合，後者是日語詞性和形態分析器。
+ * [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) - 樂天 MA（Python 版本）
+ * [python-vaporetto](https://github.com/daac-tools/python-vaporetto) - Vaporetto 是一個快速且輕量級的基於點預測的分詞器。這是 Vaporetto 的 Python 封裝。
+ * [dango](https://github.com/mkartawijaya/dango) - 一個易於使用的日文分詞器，針對語言學習者和非語言學家。
+ * [rhoknp](https://github.com/ku-nlp/rhoknp) - 又一個 Juman++/KNP 的 Python 綁定程式
+ * [python-vibrato](https://github.com/daac-tools/python-vibrato) - 基於維特比算法的加速分詞器（Python封裝）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -116,15 +116,15 @@ _Updated on May 07, 2023_
 
 ### Parsing
 
- * [ginza](https://github.com/megagonlabs/ginza) - 使用 spaCy作為基于通用依賴的框架的日本NLP圖書館
- * [cabocha](https://github.com/ikegami-yukino/cabocha) - 另一位日本依賴結構分析器
- * [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) - 代號化POS標籤化和依賴分析器,
- * [camphr](https://github.com/PKSHATechnology-Research/camphr) - 布管道組件的使用
- * [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) - 標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標籤標
- * [depccg](https://github.com/masashi-y/depccg) - 具有超標籤和依賴因素模型的CCG解析器
- * [bertknp](https://github.com/ku-nlp/bertknp) - 基于BERT的日本依賴解析器
- * [esupar](https://github.com/KoichiYasuoka/esupar) - 標籤化POS標籤和依賴分析器,
- * [yomikata](https://github.com/passaglia/yomikata) - 使用精準調節的BERT模型.
+ * [ginza](https://github.com/megagonlabs/ginza) - 一個基於Universal Dependencies的spaCy框架的日本NLP庫
+ * [cabocha](https://github.com/ikegami-yukino/cabocha) - 另一個日本依存結構分析器
+ * [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) - 現代和當代日語的分詞器、詞性標記器、詞形還原器和依存句法分析器
+ * [camphr](https://github.com/PKSHATechnology-Research/camphr) - Camphr - 用於創建管道組件的 NLP 庫
+ * [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) - 使用BERT模型的現代和當代日語分詞器、詞性標記器、詞形還原器和依存句法分析器
+ * [depccg](https://github.com/masashi-y/depccg) - 具有超標記和依存因素模型的A* CCG解析器
+ * [bertknp](https://github.com/ku-nlp/bertknp) - 基於BERT的日語依存句法分析器
+ * [esupar](https://github.com/KoichiYasuoka/esupar) - 使用BERT/RoBERTa/DeBERTa模型的分詞器POS-標記器和依存句法分析器，適用於日語和其他語言。
+ * [yomikata](https://github.com/passaglia/yomikata) - 使用微調的BERT模型進行異音詞消歧的程式庫。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -141,13 +141,13 @@ _Updated on May 07, 2023_
 
 ### Converter
 
- * [pykakasi](https://github.com/miurahr/pykakasi) - 輕量轉換器從日本語卡納-坎吉句子到卡納-羅馬文.
- * [cutlet](https://github.com/polm/cutlet) - 在Python中將日文轉換為羅馬吉
- * [alphabet2kana](https://github.com/shihono/alphabet2kana) - 將英語字母改成卡塔卡納
- * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - 轉換阿拉伯數字或"西方"式數字,
- * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - 該網站的使用者:
- * [jamorasep](https://github.com/tachi-hi/jamorasep) - 如何將日本文字解析器分為摩拉 (音節)
- * [text2phoneme](https://github.com/korguchi/text2phoneme) - 這是一款將日文翻譯成音符串的程式,
+ * [pykakasi](https://github.com/miurahr/pykakasi) - 輕量級的轉換器，可將日文假名漢字句子轉換為假名羅馬字。
+ * [cutlet](https://github.com/polm/cutlet) - Python中的日文轉羅馬字轉換器
+ * [alphabet2kana](https://github.com/shihono/alphabet2kana) - 將英文字母轉換為片假名
+ * [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) - 將阿拉伯數字或「西方」風格的數字轉換為日本上下文。
+ * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - Python的Mozc：假名漢字轉換器
+ * [jamorasep](https://github.com/tachi-hi/jamorasep) - 日文文本解析器，將平假名/片假名字符串分離成音節（拼音）。
+ * [text2phoneme](https://github.com/korguchi/text2phoneme) - 將日文轉換為音素序列的腳本
 
 
 |Name|downloads/week|total downloads|stars|
@@ -163,11 +163,11 @@ _Updated on May 07, 2023_
 
 ### Preprocessor
 
- * [neologdn](https://github.com/ikegami-yukino/neologdn) - 關於日本語文字標準化器
- * [jaconv](https://github.com/ikegami-yukino/jaconv) - 純Python日本字符對比器, 適用於海拉根,卡塔卡納,漢字和卡努
- * [mojimoji](https://github.com/studio-ousia/mojimoji) - 快速轉換日本漢字與字符
- * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 能使用日本語文字清潔器
- * [HojiChar](https://github.com/HojiChar/HojiChar) - 如何使用此工具?
+ * [neologdn](https://github.com/ikegami-yukino/neologdn) - mecab-neologd 的日文文本正規化工具
+ * [jaconv](https://github.com/ikegami-yukino/jaconv) - 純Python日文字符互轉器，支援平假名、片假名、半角和全角。
+ * [mojimoji](https://github.com/studio-ousia/mojimoji) - 一個快速轉換日文半角和全角字符的轉換器
+ * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 一款強大的日文網頁文本清理工具
+ * [HojiChar](https://github.com/HojiChar/HojiChar) - 構成並管理多個前處理的文字前處理工具
 
 
 |Name|downloads/week|total downloads|stars|
@@ -181,14 +181,14 @@ _Updated on May 07, 2023_
 
 ### Sentence spliter
 
- * [Bunkai](https://github.com/megagonlabs/bunkai) - 日本文本的句子界定判定工具 (日本語文境界判定器)
- * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - 日本語句子破解器
- * [sengiri](https://github.com/ikegami-yukino/sengiri) - 還有另一種用於日本文字的句子級代碼化
- * [budoux](https://github.com/google/budoux) - 獨立,小,中立語言. BudouX是Budou的後繼者,
- * [ja_sentence_segmenter](https://github.com/wwwcojp/ja_sentence_segmenter) - 文的日本語句子分割圖書館
- * [hasami](https://github.com/mkartawijaya/hasami) - 在日文文本上進行句子分割的工具
- * [kuzukiri](https://github.com/alinear-corp/kuzukiri) - 在Rust中寫的Python的日本文本分區器
- * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - 日本語句子分割工具的比較
+ * [Bunkai](https://github.com/megagonlabs/bunkai) - 日本語文境界判定工具
+ * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - 日本語句子分解器
+ * [sengiri](https://github.com/ikegami-yukino/sengiri) - 另一個針對日文文本的句子級分詞器
+ * [budoux](https://github.com/google/budoux) - 獨立的。小巧的。語言中立的。BudouX 是機器學習驅動的斷行整理工具 Budou 的後繼者。
+ * [ja_sentence_segmenter](https://github.com/wwwcojp/ja_sentence_segmenter) - Python 的日文句子分割程式庫
+ * [hasami](https://github.com/mkartawijaya/hasami) - 一個用於對日文文本進行句子分割的工具
+ * [kuzukiri](https://github.com/alinear-corp/kuzukiri) - 用 Rust 編寫的 Python 日文文本分割器
+ * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - 日本語句子分割工具比較
 
 
 |Name|downloads/week|total downloads|stars|
@@ -205,10 +205,10 @@ _Updated on May 07, 2023_
 
 ### Sentiment analysis
 
- * [oseti](https://github.com/ikegami-yukino/oseti) - 根據字典的日本語情緒分析
- * [negapoji](https://github.com/liaoziyang/negapoji) - 日本的負正分類.日本語文書のネガポジを判定.
- * [pymlask](https://github.com/ikegami-yukino/pymlask) - 日本文字情感分析器
- * [asari](https://github.com/Hironsan/asari) - 已在Python中實現日本情緒分析器.
+ * [oseti](https://github.com/ikegami-yukino/oseti) - 基於詞典的日語情感分析
+ * [negapoji](https://github.com/liaoziyang/negapoji) - 日本語文書的正負面分類。
+ * [pymlask](https://github.com/ikegami-yukino/pymlask) - 日文文本情感分析器
+ * [asari](https://github.com/Hironsan/asari) - 使用Python實現的日語情感分析器。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -221,10 +221,10 @@ _Updated on May 07, 2023_
 
 ### Machine translation
 
- * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - 該計畫的目標是:
- * [JASS](https://github.com/Mao-KU/JASS) - 語言學習與語言翻譯 (JASS) 專門針對日文的神經機器翻譯 (LREC2020) 序列到序列預訓練,
- * [PheMT](https://github.com/cl-tohoku/PheMT) - 這是一套由日語-英語機器翻譯強度的現象評估資料集. 資料集是基于MTNT資料集,並附加了四種語言現象的注解; 屬名詞,縮寫名詞,口頭式表達,和變體. COLING 2020.
- * [VISA](https://github.com/ku-nlp/VISA) - 兩邊都使用了不同的字幕,
+ * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - JParaCrawl 預訓練神經機器翻譯 (NMT) 模型的使用示例。
+ * [JASS](https://github.com/Mao-KU/JASS) - JASS：針對日本特定序列的序列到序列預訓練，用於神經機器翻譯（LREC2020）和基於語言學的多任務預訓練，用於低資源神經機器翻譯（ACM TALLIP）。
+ * [PheMT](https://github.com/cl-tohoku/PheMT) - 一個針對日英機器翻譯韌性的現象級評估數據集。該數據集基於MTNT數據集，並附加了四種語言現象的註釋；專有名詞、縮寫名詞、口語表達和變體。COLING 2020。
+ * [VISA](https://github.com/ku-nlp/VISA) - 一個用於視覺場景感知機器翻譯的模糊字幕數據集
 
 
 |Name|downloads/week|total downloads|stars|
@@ -237,11 +237,11 @@ _Updated on May 07, 2023_
 
 ### Named entity recognition
 
- * [namaco](https://github.com/chakki-works/namaco) - 基於字符命名的實體識別.
- * [entitypedia](https://github.com/chakki-works/entitypedia) - 實體百科是維基百科的擴展名稱實體字典.
- * [noyaki](https://github.com/ken11/noyaki) - 轉換字符跨度標籤資訊為代號化文字標籤資訊.
- * [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) - 該程式的使用者必須使用 BERT 模型的代碼.
- * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - 基于詳細的注解標準, 能推論案例報告資料庫中固有表達及關係抽取精度的代碼
+ * [namaco](https://github.com/chakki-works/namaco) - 基於字元的命名實體識別。
+ * [entitypedia](https://github.com/chakki-works/entitypedia) - Entitypedia是一個從維基百科擴展出來的命名實體詞典。
+ * [noyaki](https://github.com/ken11/noyaki) - 將字符跨度標籤信息轉換為基於分詞文本的標籤信息。
+ * [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) - 用於BERT模型微調的代碼。這是用於創建和使用用於實體識別任務的模型的BERT模型微調示例。
+ * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - 從基於詳細註釋標準的病例報告語料庫中進行固有表達和關係抽取精度推論的代碼。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -255,15 +255,15 @@ _Updated on May 07, 2023_
 
 ### OCR
 
- * [Manga OCR](https://github.com/kha-white/manga-ocr) - 關於日本文字的光學字符識別,
- * [mokuro](https://github.com/kha-white/mokuro) - 閱讀日本漫畫在浏览器內,
- * [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) - 手寫的日本OCR演示使用觸控面板繪製輸入文字使用Intel OpenVINO工具包
+ * [Manga OCR](https://github.com/kha-white/manga-ocr) - 關於日文文字的光學字符識別，主要聚焦於日本漫畫。
+ * [mokuro](https://github.com/kha-white/mokuro) - 在瀏覽器中閱讀日本漫畫，並可選擇文字。
+ * [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) - 手寫日文OCR演示，使用觸控面板繪製輸入文本，使用Intel OpenVINO工具包。
  * [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) - 日本語OCR
- * [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) - 沒有任何可能的.
- * [donut](https://github.com/clovaai/donut) - 沒有OCR的文件理解變壓器 (Donut) 和合成文件生成器 (SynthDoG) 的官方實施, ECCV 2022
- * [JMTrans](https://github.com/ttop32/JMTrans) - 漫畫翻譯器 - 從URL上獲取日本漫畫翻譯漫畫圖片
- * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - 認識現代日本雜誌的OCR系統
- * [text_recognition](https://github.com/ndl-lab/text_recognition) - 沒有任何可能的.
+ * [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) - NDLOCR的應用程式
+ * [donut](https://github.com/clovaai/donut) - OCR-free文件理解轉換器（Donut）和合成文件生成器（SynthDoG）的官方實施，ECCV 2022
+ * [JMTrans](https://github.com/ttop32/JMTrans) - 漫畫翻譯器 - 從網址獲取日本漫畫以翻譯漫畫圖像
+ * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - 識別現代日本雜誌的OCR系統
+ * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR使用文字識別模組
 
 
 |Name|downloads/week|total downloads|stars|
@@ -281,22 +281,23 @@ _Updated on May 07, 2023_
 
 ### Tool for pretrained models
 
- * [JGLUE](https://github.com/yahoojapan/JGLUE) - 評估日本語一般語言理解
- * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - 在空間變壓器中使用自訂令牌
- * [t5_japanese_dialogue_generation](https://github.com/Jinyamyzk/t5_japanese_dialogue_generation) - 沒有任何可能的.
- * [japanese_text_classification](https://github.com/Masao-Taketani/japanese_text_classification) - 調查包括MLP,CNN,RNN,BERT方法在內的各種DNN文字分類器.
- * [Japanese-BERT-Sentiment-Analyzer](https://github.com/izuna385/Japanese-BERT-Sentiment-Analyzer) - 部署使用FastAPI和BERT的情緒分析伺服器
- * [jmlm_scoring](https://github.com/minhpqn/jmlm_scoring) - 面具式語言模型為日語和越南語提供分數
- * [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) - 關於西巴的AllenNLP整合:日本的 CANINE模型
- * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - 經驗證書以評估日本類似性數據集中的日本語 word2vec模型
- * [gector-ja](https://github.com/jonnyli1125/gector-ja) - 根據BERT的日本語 GEC標籤
- * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 沒有任何其他國家的
- * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - 日本BPE編碼器版本 2
- * [transformer-copy](https://github.com/youichiro/transformer-copy) - 語語法誤區修正工具
- * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本穩定傳播是一個日本特有的隱藏文字轉圖像傳播模型,
- * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - 納吉薩的 BERT 模型
- * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 標示代碼用于先調 GPT/GPT-NeoX 模型和訓練先的推論
- * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - 訓練與評估JGLUE的文本,
+ * [JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE：日本通用語言理解評估
+ * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - 在spacy-transformers中使用自定義分詞器
+ * [t5_japanese_dialogue_generation](https://github.com/Jinyamyzk/t5_japanese_dialogue_generation) - 使用T5生成對話
+ * [japanese_text_classification](https://github.com/Masao-Taketani/japanese_text_classification) - 調查各種DNN文本分類器，包括MLP、CNN、RNN、BERT方法。
+ * [Japanese-BERT-Sentiment-Analyzer](https://github.com/izuna385/Japanese-BERT-Sentiment-Analyzer) - 使用FastAPI和BERT部署情感分析伺服器
+ * [jmlm_scoring](https://github.com/minhpqn/jmlm_scoring) - 基於遮蔽語言模型的日語和越南語評分
+ * [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) - Shiba 的 AllenNLP 整合：日本 CANINE 模型
+ * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - 輸入：用於評估預先訓練的日語word2vec模型的日語相似性數據集腳本
+輸出：
+ * [gector-ja](https://github.com/jonnyli1125/gector-ja) - 基於BERT的日語GEC標記
+ * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 日本語-BPE編碼器
+ * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - 日本語-BPE編碼器版本2
+ * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法錯誤訂正工具
+ * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本穩定擴散是一種日本特有的潛在文本到圖像擴散模型，能夠生成逼真的照片般的圖像，並接受任何文本輸入。
+ * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - 一個針對nagisa的BERT模型
+ * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 輸入：前綴調整 GPT/GPT-NeoX 模型的範例代碼以及使用訓練過的前綴進行推論的代碼。
+ * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUE的訓練和評估腳本，這是一個日語理解基準測試。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -320,108 +321,112 @@ _Updated on May 07, 2023_
 
 ### Others
 
- * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 這種工具可以將日本名字分為姓氏和姓氏.
- * [asa-python](https://github.com/ikegami-yukino/asa-python) - 專為日本人使用的NLPPython圖書館的資源
- * [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) - 語版本日本語意義角色赋予系統 (ASA)
- * [toiro](https://github.com/taishi-i/toiro) - 日本代幣化工具的比較工具
- * [ja-timex](https://github.com/yagays/ja-timex) - 根據規則的解析器,
- * [JapaneseTokenizers](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers) - 數據集,用于從文字資料中選擇特征
- * [daaja](https://github.com/kajyuuen/daaja) - 這裡有日本人使用的NLP數據增強實施.
- * [accel-brain-code](https://github.com/accel-brain/accel-brain-code) - 該資料庫的目的是在我在網站上所寫的概念證明 (PoC) 和研發 (R&D) 背景下, 製作原型作為案例研究. 主要研究主題是與表示學習相關的自動編碼器,
- * [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) - 該系統是為KyotoCorpus,KWDLC和AnnotatedFKCCorpus提供處理器,
- * [nlplot](https://github.com/takapy0210/nlplot) - 顯示模組為自然語言處理
- * [rake-ja](https://github.com/kanjirz50/rake-ja) - 快速自動關鍵字提取算法
- * [jel](https://github.com/izuna385/jel) - 沒有任何證據顯示,
- * [MedNER-J](https://github.com/sociocom/MedNER-J) - 醫療用品的最新版本
- * [zunda-python](https://github.com/ikegami-yukino/zunda-python) - 達:Python的日本增強模式分析器客戶端.
- * [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - 沒有任何其他國家的國家.
- * [showcase](https://github.com/cl-tohoku/showcase) - 該網站的網站使用者將會在此網站上使用PyTorch.
- * [darts-clone-python](https://github.com/rixwew/darts-clone-python) - 子子綁定
- * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 關於日本實際文字含義體的示例代碼
- * [desuwa](https://github.com/megagonlabs/desuwa) - 基於KNP規則檔案的形狀和短語的特征注解器 (純Python)
- * [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) - 餐廳搜尋系統透過日文對話.
- * [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) - 日本語自然語言處理的示範編碼
- * [Japanese_nlp_scripts](https://github.com/olsgaard/Japanese_nlp_scripts) - 在Python中使用日本文本的小範例程式碼
- * [DNorm-J](https://github.com/sociocom/DNorm-J) - 這項法律是日本版的,
- * [pyknp-eventgraph](https://github.com/ku-nlp/pyknp-eventgraph) - EventGraph是用日文發明高層次NLP應用程式的開發平台.
- * [ishi](https://github.com/ku-nlp/ishi) - 義:日本人的意志分類器
- * [python-npylm](https://github.com/musyoku/python-npylm) - 沒有教師的形式分析,
- * [python-npycrf](https://github.com/musyoku/python-npycrf) - 半教師的形式解析是透過結合條件付設概率場和基層階層語言模型,
- * [unsupervised-pos-tagging](https://github.com/musyoku/unsupervised-pos-tagging) - 教師沒有品詞タグ推定
- * [negima](https://github.com/cocodrips/negima) - 請使用您所定義的部分語言規則.
- * [YouyakuMan](https://github.com/neilctwu/YouyakuMan) - 抽取總結器使用BertSum作為總結模型
- * [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) - 語言中的日文數字解析器 (漢字,阿拉伯文).
- * [kantan](https://github.com/itayperl/kantan) - 搜尋根基圖案的日文單詞
- * [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) - 獲得日本語對話資料庫
- * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - 這是一篇日本文章的總結.
- * [chirptext](https://github.com/letuananh/chirptext) - 這裡有許多文本處理工具,
- * [yubin](https://github.com/alvations/yubin) - 沒有任何關於我們.
- * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本語維基百科清潔器
- * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 這是一本將日文轉換成語音的 Python 庫.
- * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - 這裡包含與"以情感為基礎的文字分類日本代幣化器的實驗評估"中的實驗相關的代碼.
+ * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 一個將日本全名分為姓氏和名字的工具。
+ * [asa-python](https://github.com/ikegami-yukino/asa-python) - 一個精選的資源清單，專門為日語自然語言處理的Python庫而設。
+ * [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) - Python版日本語意味角色賦予系統（ASA）
+ * [toiro](https://github.com/taishi-i/toiro) - 日本語分詞器比較工具
+ * [ja-timex](https://github.com/yagays/ja-timex) - 基於規則的解析器，用於提取/規範自然語言中的時間信息表達。
+ * [JapaneseTokenizers](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers) - 從文本數據中選擇特徵的一組度量標準
+ * [daaja](https://github.com/kajyuuen/daaja) - 這個存儲庫包含了針對日語自然語言處理的數據增強實現。
+ * [accel-brain-code](https://github.com/accel-brain/accel-brain-code) - 這個存儲庫的目的是在概念證明（PoC）和研究開發（R＆D）的背景下製作原型作為案例研究，這些案例研究已經在我的網站上寫出來。主要研究主題是與表示學習相關的自動編碼器，基於能量模型的統計機器學習，對抗生成網絡...
+ * [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) - 一個用於KyotoCorpus、KWDLC和AnnotatedFKCCorpus的處理器
+ * [nlplot](https://github.com/takapy0210/nlplot) - 自然語言處理的可視化模組
+ * [rake-ja](https://github.com/kanjirz50/rake-ja) - 日語快速自動關鍵詞提取演算法
+ * [jel](https://github.com/izuna385/jel) - 日本實體連結器。
+ * [MedNER-J](https://github.com/sociocom/MedNER-J) - 最新版本的MedEX/J（日本疾病名稱提取器）
+ * [zunda-python](https://github.com/ikegami-yukino/zunda-python) - Zunda：Python 的日本增強型情態分析器客戶端。
+ * [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/ 
+
+輸出：https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
+ * [showcase](https://github.com/cl-tohoku/showcase) - 一個PyTorch實現的日本述語-參數結構（PAS）分析器，該分析器在Matsubayashi＆Inui（2018）的論文中提出，並進行了一些改進。
+ * [darts-clone-python](https://github.com/rixwew/darts-clone-python) - 飛鏢克隆 Python 綁定
+ * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 日本寫實文本蘊含語料庫的範例代碼
+ * [desuwa](https://github.com/megagonlabs/desuwa) - 基於KNP規則文件的特徵標註器，可將單詞和詞組轉換為形態素（純Python）
+ * [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) - 通過日語對話的餐廳搜索系統。
+ * [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) - 日語自然語言處理的樣本程式碼
+ * [Japanese_nlp_scripts](https://github.com/olsgaard/Japanese_nlp_scripts) - 在Python中處理日文文本的小例子腳本
+ * [DNorm-J](https://github.com/sociocom/DNorm-J) - DNorm的日文版本
+ * [pyknp-eventgraph](https://github.com/ku-nlp/pyknp-eventgraph) - EventGraph是一個針對高階日語自然語言處理應用的開發平台。
+ * [ishi](https://github.com/ku-nlp/ishi) - 石：日語意志分類器
+ * [python-npylm](https://github.com/musyoku/python-npylm) - 利用貝葉斯階層語言模型進行無監督詞素分析
+ * [python-npycrf](https://github.com/musyoku/python-npycrf) - 條件付機率場和貝葉斯階層語言模型的整合，實現半監督形態素分析。
+ * [unsupervised-pos-tagging](https://github.com/musyoku/unsupervised-pos-tagging) - 教師無品詞標記推斷
+ * [negima](https://github.com/cocodrips/negima) - Negima是一個Python套件，可以通過使用您定義的基於詞性的規則來提取日文文本中的短語。
+ * [YouyakuMan](https://github.com/neilctwu/YouyakuMan) - 使用BertSum作為摘要模型的提取式摘要器
+ * [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) - 一個自然語言中的日本數字（漢字、阿拉伯數字）解析器。
+ * [kantan](https://github.com/itayperl/kantan) - 按部首模式查找日語單詞
+ * [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) - 獲取日語對話語料庫
+ * [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) - 日本文章摘要器。
+ * [chirptext](https://github.com/letuananh/chirptext) - ChirpText 是一個針對 Python 的文本處理工具集合。
+ * [yubin](https://github.com/alvations/yubin) - 日本地址 Munger
+ * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本維基百科清潔工具
+ * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 一個將日文轉換為音素的Python庫。
+ * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - 這個存儲庫包含與“基於情感的文本分類的日語分詞器的實驗評估”相關的代碼。
  * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - 關於
 This project aims to classify Japanese sentence to how well similar to some Japanese classical writers, such as Soseki Natsume, Ogai Mori, Ryunosuke Akutagawa and so on.
- * [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) - 生成Aozora Bunko的平面或代號化文本檔案
- * [JLM](https://github.com/jiali-ms/JLM) - 快速的LSTM語言模型,
- * [NTM](https://github.com/m3yrin/NTM) - 日本文章的神經主題建模的測試
- * [EN-JP-ML-Lexicon](https://github.com/Machine-Learning-Tokyo/EN-JP-ML-Lexicon) - 這是一本英文和日文的詞典,
- * [text-generation](https://github.com/discus0434/text-generation) - 輕鬆使用的程式碼, 能夠將GPT-2-JA與自己的文字調整,
- * [chainer_nic](https://github.com/yuyay/chainer_nic) - 網頁上使用的圖像標語數據集.
- * [unihan-lm](https://github.com/JetRunner/unihan-lm) - 官方資料庫"UnihanLM:用Unihan資料庫進行粗略至細致的中日語言模型預訓練",
- * [mbart-finetuning](https://github.com/ken11/mbart-finetuning) - 執行mbart模型的細節調節代碼.
- * [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) - 在jtubespeech上使用x向量模型
- * [TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker) - 該工具是為TinySegmenter製作學習模型的工具.
- * [Grongish](https://github.com/shogo82148/Grongish) - 語言的翻譯方式
- * [WordCloud-Japanese](https://github.com/aocattleya/WordCloud-Japanese) - 沒有使用Mecab (形素解析引擎) 來實現 WordCloud 中日文文字的形素解析式表示的程式.
- * [snark](https://github.com/hiraokusky/snark) - 網站使用者必須使用
- * [toEmoji](https://github.com/mkan0141/toEmoji) - 沒有任何可能的.
- * [termextract](https://github.com/kanjirz50/termextract) - 實踐如何實現抽取術語的算法.
- * [JDT-with-KenLM-scoring](https://github.com/TUT-SLP-lab/JDT-with-KenLM-scoring) - 該網站的網站使用了 KenLM 的 N-gram 語言模型來評分,過濾或重新排名日本-對話-變更器的答案候選人.
- * [mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model) - 在Python中混合聯系模型和無限聯系模型的混合.
- * [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) - 隱藏馬爾科夫模型 (HMM) 和無限隱藏馬爾科夫模型 (iHMM) 在 Python 中.
- * [Ngram-language-model](https://github.com/KentoW/Ngram-language-model) - 在Python中使用的語語言模型.
- * [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) - 自動語音識別與深度語音2模型在pytorch中,
- * [neural_ime](https://github.com/yohokuno/neural_ime) - 神經IME:神經輸入方法引擎
- * [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) - 能將羅馬語正確翻譯成日文嗎?
- * [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) - 已指定為日本的代號化器
- * [AugLy-jp](https://github.com/chck/AugLy-jp) - 在日本文本上增加數據
- * [furigana4epub](https://github.com/Mumumu4/furigana4epub) - 增加furigana到使用Mecab和Unidic的日本ePUB書.
- * [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) - 日本語動詞/形容詞曲工具
- * [jageocoder](https://github.com/t-sagara/jageocoder) - 純粹的Python日文地址地理編碼器
- * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - 這項計畫的目標是:
- * [nksnd](https://github.com/yoriyuki/nksnd) - 新的卡納-坎吉轉換引擎
- * [JaMIE](https://github.com/racerandom/JaMIE) - 日本醫學資訊提取工具組
- * [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) - 比較快速文字與word2vec,執行程式,學習程式.
- * [minimal-search-engine](https://github.com/GINK03/minimal-search-engine) - 這就是最好的搜尋引擎.
- * [5ch-analysis](https://github.com/GINK03/5ch-analysis) - 搜尋過去的字母,
- * [tweet_extructor](https://github.com/tatHi/tweet_extructor) - 推特日文評論資料集的推特下載器
- * [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) - 根據Juman++和ConceptNet5.5的日文單詞集成
- * [jinf](https://github.com/hkiyomaru/jinf) - 日本的曲率轉換器
- * [kwja](https://github.com/ku-nlp/kwja) - 日本語的一體語言分析器
- * [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) - 基於面罩式語言模型分數 (ACL2020) 的複製包裝.
- * [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) - 果版的"果版"是一個很棒的工具.
- * [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) - 顯示,參與和告訴日本人
- * [cihai](https://github.com/cihai/cihai) - 語庫為CJK (中文,日文,韓文) 語言字典
- * [marine](https://github.com/6gsn/marine) - 語估計: 基于多項任務的日本口音
- * [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) - 微調聲ASR模型
- * [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) - 透過BERT和變壓器解碼器實現日本聊天機
- * [radicalchar](https://github.com/yamamaya/radicalchar) - 沒有任何關於我們.
- * [akaza](https://github.com/tokuhirom/akaza) - 還有另一台日本IME系統
- * [posuto](https://github.com/polm/posuto) - 關於日本的郵政編號.
- * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 台灣的網路使用者
- * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - 沒有任何資訊.
- * [furiganapad](https://github.com/esrille/furiganapad) - 這種情況是非常嚴重的,
- * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日本語同義詞圖書館
- * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - 沒有任何其他可供使用.
- * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 日本語嵌入Eval
- * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 這裡有許多人使用GPT,
- * [shuwa](https://github.com/google/shuwa) - 擴展GNOME的畫面鍵盤
- * [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) - 這裡提供日本NLI模型的代碼,
- * [tra-fugu](https://github.com/tos-kamiya/tra-fugu) - 透過FuguMT進行日語-英語翻譯和英語-日語翻譯
- * [fugumt](https://github.com/s-taka/fugumt) - 翻譯環境使用公佈於Puru-fūū-fū-fū的機器翻譯引擎.
- * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - 透過使用前言論結構來進行自動評估
- * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) -  jp 定位
- * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - 該網站的使用者:
+ * [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) - 從青空文庫生成純文本或標記化文本文件
+ * [JLM](https://github.com/jiali-ms/JLM) - 一個快速的LSTM語言模型，適用於日語和中文等大詞彙語言。
+ * [NTM](https://github.com/m3yrin/NTM) - 日本文章的神經主題建模測試
+ * [EN-JP-ML-Lexicon](https://github.com/Machine-Learning-Tokyo/EN-JP-ML-Lexicon) - 這是一個機器學習和深度學習術語的英日詞彙表。
+ * [text-generation](https://github.com/discus0434/text-generation) - 易於使用的腳本，可調整GPT-2-JA與您自己的文本，生成句子並自動發推文。
+ * [chainer_nic](https://github.com/yuyay/chainer_nic) - 在Chainer上的神經圖像標題（NIC），其預訓練模型適用於英語和日語圖像標題數據集。
+ * [unihan-lm](https://github.com/JetRunner/unihan-lm) - 「UnihanLM：使用Unihan數據庫進行粗到細的中日語言模型預訓練」的官方存儲庫，AACL-IJCNLP 2020
+ * [mbart-finetuning](https://github.com/ken11/mbart-finetuning) - 執行 mBART 模型微調的程式碼。
+ * [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) - 在jtubespeech上的xvector模型
+ * [TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker) - 自製TinySegmenter學習模型的工具。
+ * [Grongish](https://github.com/shogo82148/Grongish) - 日本語和格隆基語的相互轉換腳本
+ * [WordCloud-Japanese](https://github.com/aocattleya/WordCloud-Japanese) - 使用WordCloud製作日文文章的腳本，實現形態素解析式的顯示，不需使用Mecab（形態素解析引擎）。
+ * [snark](https://github.com/hiraokusky/snark) - 利用日本語詞彙網路的資料庫存取程式庫
+ * [toEmoji](https://github.com/mkan0141/toEmoji) - 將日文轉換為僅由表情符號組成的文本的工具
+ * [termextract](https://github.com/kanjirz50/termextract) - - 專門用語抽出演算法的實現練習
+ * [JDT-with-KenLM-scoring](https://github.com/TUT-SLP-lab/JDT-with-KenLM-scoring) - 對於Japanese-Dialog-Transformer的回應候選，使用KenLM的N-gram語言模型進行評分，進行過濾或重新排序。
+ * [mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model) - Python中的混合Unigram模型和无限混合Unigram模型。 (混合單詞模型和無限混合單詞模型在Python中。)
+ * [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) - Python中的隱藏馬可夫模型（HMM）和無限隱藏馬可夫模型（iHMM）。
+ * [Ngram-language-model](https://github.com/KentoW/Ngram-language-model) - Python中的Ngram語言模型。 (N-gram語言模型)
+ * [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) - 使用PyTorch中的deepspeech2模型和Zakuro AI的支援進行自動語音識別。
+ * [neural_ime](https://github.com/yohokuno/neural_ime) - 神經輸入法引擎：神經輸入法引擎
+ * [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) - 神經網路能正確地將羅馬字轉寫成日文嗎？
+ * [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) - 針對日語指定的分詞器
+ * [AugLy-jp](https://github.com/chck/AugLy-jp) - 在AugLy上進行日文文本的數據增強
+ * [furigana4epub](https://github.com/Mumumu4/furigana4epub) - 一個使用Mecab和Unidic將振仮名添加到日語epub書籍的Python腳本。
+ * [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) - 日語動詞/形容詞變化工具
+ * [jageocoder](https://github.com/t-sagara/jageocoder) - 純Python日本地址地理編碼器
+ * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp，一個用於對日文文本進行地理標記的Python模塊。
+ * [nksnd](https://github.com/yoriyuki/nksnd) - 新的假名漢字轉換引擎
+ * [JaMIE](https://github.com/racerandom/JaMIE) - 一個日本醫學信息提取工具箱
+ * [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) - 這是有關 fasttext 和 word2vec 的比較，以及執行腳本和學習腳本。
+ * [minimal-search-engine](https://github.com/GINK03/minimal-search-engine) - 最小的搜尋引擎/PageRank/tf-idf
+ * [5ch-analysis](https://github.com/GINK03/5ch-analysis) - 利用網路爬蟲技術，對5ch的歷史紀錄進行擷取，追蹤調查過去流行的詞語（例如：香具師、orz等）。
+ * [tweet_extructor](https://github.com/tatHi/tweet_extructor) - Twitter日語評價分析資料集的推文下載器
+ * [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) - 基於Juman++和ConceptNet5.5的日語詞匯聚合
+ * [jinf](https://github.com/hkiyomaru/jinf) - 一個日語變化轉換器
+ * [kwja](https://github.com/ku-nlp/kwja) - 一個統一的日語語言分析器
+ * [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) - 基於遮蔽語言模型評分的複製套件（ACL2020）。
+ * [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) - [PyTorch] 日語 ClipCap
+ * [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) - [PyTorch] 展示、關注和講述日語
+ * [cihai](https://github.com/cihai/cihai) - Python CJK（中文、日文、韓文）語言字典庫
+ * [marine](https://github.com/6gsn/marine) - MARINE：基於多任務學習的日語口音估計
+ * [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) - 微調Whisper ASR模型
+ * [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) - 使用BERT和Transformer解碼器的日語聊天機器人的PyTorch實現
+ * [radicalchar](https://github.com/yamamaya/radicalchar) - 部首文字正規化程式庫
+ * [akaza](https://github.com/tokuhirom/akaza) - 又一個針對IBus/Linux的日文輸入法
+ * [posuto](https://github.com/polm/posuto) - 日本郵遞區號資料。
+ * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - Tacotron2 日語實現
+ * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - IBus 平假名輸入法
+ * [furiganapad](https://github.com/esrille/furiganapad) - 注音輸入板
+ * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日語同義詞庫
+ * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - Mecab + NEologd + Docker + Python3
+輸入：Mecab + NEologd + Docker + Python3
+輸出：
+ * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 日本嵌入評估
+ * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPT會當YouTuber
+ * [shuwa](https://github.com/google/shuwa) - 擴展 GNOME 螢幕鍵盤以支援輸入法
+ * [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) - 這個存儲庫提供了日語NLI模型的代碼，一個經過微調的遮蔽語言模型。
+ * [tra-fugu](https://github.com/tos-kamiya/tra-fugu) - 使用FuguMT進行日英翻譯和英日翻譯的工具
+ * [fugumt](https://github.com/s-taka/fugumt) - 這是一個使用在ぷるーふおぶこんせぷと上公開的機器翻譯引擎的翻譯環境。可以翻譯輸入在表格中的文字，以及 PDF 文件的翻譯。
+ * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE：使用謂詞-參數結構自動評估圖像標題模型的評估指標
+ * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 日本本地化
+ * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python 封裝 OpenJTalk
 
 
 |Name|downloads/week|total downloads|stars|
@@ -534,9 +539,9 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Morphology analysis
 
- * [mecab](https://github.com/taku910/mecab) - 這也是日本的形狀分析器,
- * [jumanpp](https://github.com/ku-nlp/jumanpp) - 曼++ (一種形狀分析工具組)
- * [kytea](https://github.com/neubig/kytea) - 京都文本分析工具包,
+ * [mecab](https://github.com/taku910/mecab) - 又一個日本語形態分析器
+ * [jumanpp](https://github.com/ku-nlp/jumanpp) - Juman++（一個形態學分析工具包）
+ * [kytea](https://github.com/neubig/kytea) - 京都文本分析工具箱，可用於詞語分割和發音估計等。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -547,8 +552,8 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Parsing
 
- * [cabocha](https://github.com/taku910/cabocha) - 另一位日本依賴結構分析器
- * [knp](https://github.com/ku-nlp/knp) - 日本的解析器
+ * [cabocha](https://github.com/taku910/cabocha) - 另一個日本依存結構分析器
+ * [knp](https://github.com/ku-nlp/knp) - 一個日語解析器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -558,11 +563,11 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Others
 
- * [jsc](https://github.com/yohokuno/jsc) - 共同源頻道模型, 提供日文法轉換,中國字輸入和CJE混合輸入.
- * [aquaskk](https://github.com/codefirst/aquaskk) - 沒有形狀分析的輸入方法.
- * [mozc](https://github.com/google/mozc) - Mozc - 一款設計為多平台的日本輸入方法編輯器
- * [trimatch](https://github.com/tuem/trimatch) - :一個 (ExactabordPrefixabordApproximate) 字符串匹配圖書館
- * [resembla](https://github.com/tuem/resembla) - 類似的句子搜尋圖書館
+ * [jsc](https://github.com/yohokuno/jsc) - 日文假名漢字轉換、中文拼音輸入和CJE混合輸入的聯合源通道模型。
+ * [aquaskk](https://github.com/codefirst/aquaskk) - 沒有形態學分析的輸入法。
+ * [mozc](https://github.com/google/mozc) - Mozc - 一款為多平台設計的日本輸入法編輯器
+ * [trimatch](https://github.com/tuem/trimatch) - Trimatch：一個（精確|前綴|近似）字串匹配庫
+ * [resembla](https://github.com/tuem/resembla) - Resembla：基於單詞的日語相似句子搜索庫
 
 
 |Name|downloads/week|total downloads|stars|
@@ -578,13 +583,13 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Morphology analysis
 
- * [lindera](https://github.com/lindera-morphology/lindera) - 形狀分析圖書館.
- * [vaporetto](https://github.com/daac-tools/vaporetto) - 非常加速的點性預測基於TOkenizer
- * [goya](https://github.com/Leko/goya) - 日本語形狀分析用寫
- * [vibrato](https://github.com/daac-tools/vibrato) - :基于維特比的加速標記器
- * [yoin](https://github.com/agatan/yoin) - 這是一款用純字寫的日本形狀分析器,
- * [mecab-rs](https://github.com/tsurai/mecab-rs) - 安全接器為mecab提供部分語音和形狀分析器圖書館
- * [awabi](https://github.com/nakagami/awabi) - 透過使用mecab字典的形狀分析器
+ * [lindera](https://github.com/lindera-morphology/lindera) - 一個形態學分析庫。
+ * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto：基於點預測的高速分詞器
+ * [goya](https://github.com/Leko/goya) - 用 Rust 寫的日語形態分析
+ * [vibrato](https://github.com/daac-tools/vibrato) - 顫音：基於維特比加速的分詞器
+ * [yoin](https://github.com/agatan/yoin) - 一個用純 Rust 編寫的日語形態分析器
+ * [mecab-rs](https://github.com/tsurai/mecab-rs) - 安全的 Rust 綁定，用於 mecab 詞性和形態分析庫。
+ * [awabi](https://github.com/nakagami/awabi) - 一個使用mecab字典的形態分析器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -600,9 +605,9 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Converter
 
- * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 工具庫,可檢查和轉換日文字符 - - 希拉加納,卡塔卡納和羅馬吉
- * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 存庫將日本半角卡納和全角英數轉換成正常字體
- * [kana](https://github.com/gbrlsnchs/kana) - 羅馬日文字轉換成黑拉加納或卡塔卡納的 CLI 程式.
+ * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 檢查和轉換日文字符（平假名、片假名）和羅馬字的實用程式庫
+ * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 一個 Rust 函式庫，可將日文半角ｶﾅ和全角英數轉換為正常字符。
+ * [kana](https://github.com/gbrlsnchs/kana) - [鏡像] CLI 程序，可將羅馬字文本轉寫為平假名或片假名。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -614,8 +619,10 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Search engine library
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - 林德拉是塔尼維的代號.
- * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 塔尼維使用Vibrato的代號化器.
+ * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy. 
+
+林德拉分詞器用於Tantivy。
+ * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 使用 Vibrato 的 Tantivy 分詞器。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -626,17 +633,17 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Others
 
- * [daachorse](https://github.com/daac-tools/daachorse) - 快速實現使用Aho-Corasick算法,
- * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - 找到所有相似文件的對,
- * [crawdad](https://github.com/daac-tools/crawdad) - 化自然語言字典庫使用字符式雙陣列試用.
- * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) - 其他代號化工具的比较代碼
- * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - 這裡提供了基准工具, 來比較數據結構的性能,
- * [vime](https://github.com/algon-320/vime) - 使用Vim作為X11應用程式的輸入方法
- * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 提供免費的中等質量的文字閱讀軟體,
- * [akaza](https://github.com/akaza-im/akaza) - 還有另一台日本IME系統
- * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 這是一本免費的網路,自主托管,多語言日文字典.
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 請使用Google 日本語輸入的DvorakJPローマ字テーブル/DvorakJP羅馬字表
- * [niinii](https://github.com/Netdex/niinii) - 義大利語語語錄用語錄
+ * [daachorse](https://github.com/daac-tools/daachorse) - 一個在 Rust 中使用緊湊的雙陣列資料結構實現 Aho-Corasick 算法的快速實現。
+ * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - 以時間和記憶體效率找出所有相似文件的配對
+ * [crawdad](https://github.com/daac-tools/crawdad) - 使用字符雙陣列嘗試的自然語言字典的 Rust 函式庫。
+ * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) - 各種分詞器的比較代碼
+ * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - 這裡提供基準工具，用於比較字串匹配的資料結構效能。
+ * [vime](https://github.com/algon-320/vime) - 使用Vim作為X11應用程式的輸入法
+ * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 免費使用的中等質量的文字朗讀軟件，VOICEVOX的核心
+ * [akaza](https://github.com/akaza-im/akaza) - 又一個針對IBus/Linux的日文輸入法
+ * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 一個免費的在線自主托管的多語言日語詞典。
+ * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - Google 日本語輸入用 DvorakJP 羅馬字表 / DvorakJP Roman Table for Google Japanese Input
+ * [niinii](https://github.com/Netdex/niinii) - 使用一個日語注釋器來輔助閱讀文本，使用「一覧」。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -658,12 +665,12 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 
 ### Morphology analysis
 
- * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - 日本形狀分析器的JavaScript實現
- * [rakutenma](https://github.com/rakuten-nlp/rakutenma) - 拉庫登MA - 單純用JavaScript寫的中文和日文形狀分析器 (字段分辨器+PoS標籤).
+ * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - 日本語形態素解析器的JavaScript實現
+ * [rakutenma](https://github.com/rakuten-nlp/rakutenma) - Rakuten MA - 一款純粹使用 JavaScript 編寫的中日文形態分析器（詞分割器 + 詞性標記器）。
 Resources
- * [node-mecab-ya](https://github.com/golbin/node-mecab-ya) - 還有其他關於Nodejs的Mecab包裝
- * [juman-bin](https://github.com/thammin/juman-bin) - 日本語形式素解析系統.
- * [node-mecab-async](https://github.com/hecomi/node-mecab-async) - 沒有任何證據顯示,
+ * [node-mecab-ya](https://github.com/golbin/node-mecab-ya) - 另一個用於 Node.js 的 MeCab 封裝程式
+ * [juman-bin](https://github.com/thammin/juman-bin) - 一個可擴展的日本語形態素解析器。日本語形態素解析系統。
+ * [node-mecab-async](https://github.com/hecomi/node-mecab-async) - 使用MeCab的非同步日語形態分析器。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -677,14 +684,16 @@ Resources
 
 ### Converter
 
- * [kuroshiro](https://github.com/hexenq/kuroshiro) - 提供日本語文庫, 能將日本語句子轉換成海拉加納,卡塔卡納或羅馬吉,
- * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 科羅木治形狀分析器為科羅希羅.
- * [hepburn](https://github.com/lovell/hepburn) - Node.js模組,可使用赫伯恩的羅曼化將日文語和卡塔卡納文字轉換為羅馬文
- * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 轉換日文數字成數字
- * [jslingua](https://github.com/kariminf/jslingua) - 處理文字的JavaScript圖書館:阿拉伯文,日文等.
- * [WanaKana](https://github.com/WaniKani/WanaKana) - 查找和轉寫海拉加納 <--> 加塔卡納 <--> 羅馬吉的JavaScript庫
- * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 規范並解決羅馬吉名字常見問題.
- * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 工具集, 使日本文本變得舊式
+ * [kuroshiro](https://github.com/hexenq/kuroshiro) - 輸入：日語語言庫，可將日語句子轉換為平假名、片假名或羅馬字，支持振り仮名和送り仮名模式。
+
+輸出：
+ * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuroshiro 的 Kuromoji 形態分析器。
+ * [hepburn](https://github.com/lovell/hepburn) - 使用 Hepburn 羅馬拼音將日文平假名和片假名轉換為羅馬字的 Node.js 模組。
+ * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 將日本數字轉換為數字
+ * [jslingua](https://github.com/kariminf/jslingua) - 處理文本的Javascript庫：阿拉伯語，日語等。
+ * [WanaKana](https://github.com/WaniKani/WanaKana) - JavaScript 庫，用於檢測和轉寫平假名 <--> 片假名 <--> 羅馬字。
+ * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 將基於羅馬字的日本名字進行標準化和修復常見問題。
+ * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 製作日本古風文本的實用集合
 
 
 |Name|downloads/week|total downloads|stars|
@@ -701,18 +710,18 @@ Resources
 
 ### Others
 
- * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本動漫的原始數據
- * [yomichan](https://github.com/FooSoft/yomichan) - 顯示了許多新語言,
- * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - 圖文編輯工具,
- * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - 顯示詹姆斯海西格的"記住漢字"第6版中所教的2200個漢字.
- * [japanese-toolkit](https://github.com/echamudi/japanese-toolkit) - 漢字,利根,日文DB等的單字字
- * [analyze-desumasu-dearu](https://github.com/textlint-ja/analyze-desumasu-dearu) - 解析句子的敬體和常體.
- * [hatsuon](https://github.com/DJTB/hatsuon) - 日本口音高低,
- * [sentiment_ja_js](https://github.com/otodn/sentiment_ja_js) - 情緒分析用JavaScript
- * [mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed) - 果語彙閱讀器
- * [Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day) - 這種日本語每天都有不同的字.
- * [oskim](https://github.com/esrille/oskim) - 擴展GNOME的畫面鍵盤
- * [tweetMapping](https://github.com/wtnv-lab/tweetMapping) - 這是一份數位檔案,
+ * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本動畫的原始數據
+ * [yomichan](https://github.com/FooSoft/yomichan) - Chrome和Firefox的日語彈出詞典擴展。
+ * [proofreading-tool](https://github.com/gecko655/proofreading-tool) - GUI工具，用於文本校對。
+ * [kanjigrid](https://github.com/minosvasilias/kanjigrid) - 一個網頁應用程式，顯示詹姆斯·海西格《漢字憶起》第六版所教授的2200個漢字。
+ * [japanese-toolkit](https://github.com/echamudi/japanese-toolkit) - 單一存儲庫用於漢字、假名、日語數據庫等。
+ * [analyze-desumasu-dearu](https://github.com/textlint-ja/analyze-desumasu-dearu) - 解析敬體（敬語）和常體（平語）的JavaScript程式庫
+ * [hatsuon](https://github.com/DJTB/hatsuon) - 日語音高工具
+ * [sentiment_ja_js](https://github.com/otodn/sentiment_ja_js) - 使用JavaScript進行日語情感分析，sentiment_ja。
+ * [mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed) - mecab-ipadic種子詞典閱讀器
+ * [Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day) - 每天一個不同的日語單詞。
+ * [oskim](https://github.com/esrille/oskim) - 擴展 GNOME 螢幕鍵盤以支援輸入法
+ * [tweetMapping](https://github.com/wtnv-lab/tweetMapping) - 這是東日本大地震發生後24小時內帶有地理標籤的推文的數字檔案。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -735,7 +744,7 @@ Resources
 
 ### Morphology analysis
 
- * [kagome](https://github.com/ikawaha/kagome) - 獨立的日本形狀分析器用純高寫
+ * [kagome](https://github.com/ikawaha/kagome) - 純Go編寫的自包含日語形態分析器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -745,11 +754,11 @@ Resources
 
 ### Others
 
- * [ojosama](https://github.com/jiro4989/ojosama) - 接著我們將文字轉換成風的風.
- * [nihongo](https://github.com/gojp/nihongo) - 日本語字典
- * [yomichan-import](https://github.com/FooSoft/yomichan-import) - 來自美國的字典輸入商.
- * [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) - 該網站的網站是日本語IME的IDOLM@STER字典 (由imas-db.jp提供)
- * [go-moji](https://github.com/ktnyt/go-moji) - 轉換Zenkaku/Hankaku的 Go 圖書館
+ * [ojosama](https://github.com/jiro4989/ojosama) - 將文字轉換為百滿天原薩洛美小姐風格的口吻。
+ * [nihongo](https://github.com/gojp/nihongo) - 日本語詞典
+ * [yomichan-import](https://github.com/FooSoft/yomichan-import) - Yomichan 的外部詞典導入工具。
+ * [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) - THE IDOLM@STER 日文輸入法詞彙表（由imas-db.jp提供）
+ * [go-moji](https://github.com/ktnyt/go-moji) - 一個用於全角/半角轉換的 Go 函式庫
 
 
 |Name|downloads/week|total downloads|stars|
@@ -765,9 +774,9 @@ Resources
 
 ### Morphology analysis
 
- * [kuromoji](https://github.com/atilika/kuromoji) - 木是一款獨立且易於使用的日本形狀分析器,
+ * [kuromoji](https://github.com/atilika/kuromoji) - Kuromoji是一個自包含且非常易於使用的日語形態分析器，專為搜索而設計。
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
- * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - 蘇達奇的詞典
+ * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - Sudachi詞彙表
 
 
 |Name|downloads/week|total downloads|stars|
@@ -779,14 +788,14 @@ Resources
 
 ### Others
 
- * [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) - 圖片中識別日文字符的Java圖書館
- * [jakaroma](https://github.com/nicolas-raoul/jakaroma) - 翻譯日本漢字為羅馬吉 (拉丁字母) 的Java圖書館和命令行工具
- * [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) - 漢字翻譯為語/卡塔卡納/羅馬吉,
- * [Kamite](https://github.com/fauu/Kamite) - 台式電腦學習日文的語言沉浸伴侶
- * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - 合式日本代碼化原生插件
- * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本分析器使用kuromoji日本代號化器進行彈性搜尋
- * [moji4j](https://github.com/andree-surya/moji4j) - 這是一本Java圖書館,
- * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - 關於日本語文字標準化器
+ * [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) - 從圖像中識別日文字符的Java庫
+ * [jakaroma](https://github.com/nicolas-raoul/jakaroma) - 將日本漢字轉換為羅馬字（拉丁字母）的Java庫和命令行工具
+ * [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) - Java中的漢字轉假名/片假名/羅馬字輸出
+ * [Kamite](https://github.com/fauu/Kamite) - 一款桌面式的日語學習輔助工具
+ * [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) - React Native 的非同步日本語分詞原生插件，適用於 iOS 和 Android。
+ * [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) - 日本語分析器使用Kuromoji日本語分詞器進行ElasticSearch。
+ * [moji4j](https://github.com/andree-surya/moji4j) - 一個Java庫，可在日文平假名、片假名和羅馬字之間進行轉換。
+ * [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) - mecab-neologd 的日文文本正規化工具
 
 
 |Name|downloads/week|total downloads|stars|
@@ -805,14 +814,14 @@ Resources
 
 ### Word2Vec
 
- * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - 語言的語言與語言的語言.
- * [chiVe](https://github.com/WorksApplications/chiVe) - 包含南大和NWJC的日文字
- * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - 語
- * [embedrank](https://github.com/yagays/embedrank) - 嵌入Rank的 Python 實現
- * [aovec](https://github.com/eggplants/aovec) - 簡單的aozorabunko Word2Vec Builder - 青空文庫全書籍的Word2Vecビルダー+構築済みモデル
- * [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) - 這是AI LAB文章"係り受けに基づく日本語単語埋込 (依存性基於日語字嵌入) "的資料庫.
- * [jawikivec](https://github.com/wikiwikification/jawikivec) - 還有另一種日本維基百科實體向量
- * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - 透過MeCab在IPA字典和最新Neologd字典中進行形體解析, 並學習 word2vec,fastText,GloVe的字體分散表達,
+ * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - 使用Gensim和Mecab的日語Word2vec（單詞到向量）方法。
+ * [chiVe](https://github.com/WorksApplications/chiVe) - 使用Sudachi和NWJC的日語詞嵌入
+ * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - 艾摩日文
+ * [embedrank](https://github.com/yagays/embedrank) - EmbedRank 的 Python 實現
+ * [aovec](https://github.com/eggplants/aovec) - 簡易青空文庫Word2Vec建構器 - 青空文庫全書籍的Word2Vec建構器+已建構模型
+ * [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) - 這是 AI LAB 文章「係り受けに基づく日本語単語埋込 (Dependency-based Japanese Word Embeddings)」的儲存庫 (文章網址 https://ai-lab.lapras.com/nlp/japanese-word-embedding/)。
+ * [jawikivec](https://github.com/wikiwikification/jawikivec) - 另一個日本維基百科實體向量
+ * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - 從最新的日本語Wikipedia傾印數據中，使用MeCab在IPA詞典和最新的Neologd詞典中進行形態素分析，並基於該結果學習word2vec、fastText和GloVe的詞向量表示的腳本。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -829,40 +838,42 @@ Resources
 
 ### Transformer based models
 
- * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - 該網站的網站是一個很棒的網站.
- * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - 提供由 rinna Co., Ltd 提供的日本預先訓練型號的產品代碼.
- * [bert-japanese](https://github.com/yoheikikuta/bert-japanese) - 還有日本文本的句子片.
- * [SudachiTra](https://github.com/WorksApplications/SudachiTra) - 變形金屬的日本代幣化器
- * [japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) - 該系統的使用者必須記錄在網站上,
- * [shiba](https://github.com/octanove/shiba) - 實現Pytorch並預先訓練日本模型,
- * [Dialog](https://github.com/reppy4620/Dialog) - 透過BERT和變壓器解碼器實現日本聊天機
- * [language-pretraining](https://github.com/retarfi/language-pretraining) - 該網站的網站使用者必須記錄在網站上,
- * [medbertjp](https://github.com/ou-medinfo/medbertjp) - 已受過預先訓練的BERT模型在日本醫學領域進行試驗.
- * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - 沒有任何相關資訊.
- * [t5-japanese](https://github.com/megagonlabs/t5-japanese) - 預先訓練日本T5型號的編碼
- * [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) - 該網站的使用者必須使用
- * [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) - 網站內存與網站內存的使用
- * [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) - 日本BERT訓練模型
- * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - 該變壓器的模型為日本
- * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 經由 UniDic & SudachiPy 協助 MeCab 預先標示,
- * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 訓練句子 BERT的代碼 抱擁臉型號中心的日本模型
- * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 官方微調代碼"日本推特情緒分析與日本疫苗的比較"
- * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2世代模型
- * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于gpt-2的文本2文本轉換模型
- * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - 哈格格臉的變壓器的日本型GPT-2
- * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 試圖讓西方人更容易/更容易使用日文, 透過使用拉丁/英語衍生的卡塔卡納詞彙,
- * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 還有日本文本的句子片.
- * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 網站的網站是一個網站,
- * [DistilBERT-base-jp](https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp) - 這位在維基百科上受過訓練的日本DistilBERT模特.
- * [bert](https://github.com/informatix-inc/bert) - 這裡提供使用 RoBERTa 在日本語資料庫中預先訓練的片段. 我們的資料集包括日本語維基百科和網頁覽文章,總共25GB. 發布的模型是建立在 HuggingFace 的基於.
- * [Laboro-DistilBERT-Japanese](https://github.com/laboroai/Laboro-DistilBERT-Japanese) - 拉博羅蒸酒
- * [luke](https://github.com/studio-ousia/luke) - 語言理解與知識基礎嵌入
- * [GPTSAN](https://github.com/tanreinama/GPTSAN) - 基於日語語言模式的通用轉換器
- * [japanese-clip](https://github.com/rinnakk/japanese-clip) - 日本的Rina Co., Ltd.
- * [AcademicBART](https://github.com/EhimeNLP/AcademicBART) - 我們在學術資料庫 CiNii Articles 的紙上進行了基于 BART 的日文蒙面語言模型的預訓練.
- * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 我們在學術資料庫CiNii Articles的紙上摘要上進行了基于RoBERTa的日本化面具語言模型的預訓練.
- * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 經由日本網頁文本的131GB進行預先訓練.
- * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 透過Stanford Alpaca的數據集翻譯成日文,
+ * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - 日文文本的BERT模型。
+ * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - 由rinna株式會社提供的生成日語預訓練模型的代碼。
+ * [bert-japanese](https://github.com/yoheikikuta/bert-japanese) - 使用SentencePiece的BERT模型進行日文文本處理。
+ * [SudachiTra](https://github.com/WorksApplications/SudachiTra) - Transformer 的日語分詞器
+ * [japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) - NTT有限公司提供的評估日語預訓練模型的代碼。
+ * [shiba](https://github.com/octanove/shiba) - CANINE是一種高效的字符級別轉換器，我們提供了Pytorch實現和預訓練的日語模型。
+ * [Dialog](https://github.com/reppy4620/Dialog) - 使用BERT和Transformer解碼器的日本聊天機器人的PyTorch實現
+ * [language-pretraining](https://github.com/retarfi/language-pretraining) - PyTorch 實現的 BERT 和 ELECTRA 模型，適用於日文文本。
+ * [medbertjp](https://github.com/ou-medinfo/medbertjp) - 在日本醫學領域中，預訓練BERT模型的試驗。
+ * [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) - ILYS-aoba聊天機器人
+ * [t5-japanese](https://github.com/megagonlabs/t5-japanese) - 預訓練日語T5模型的代碼
+ * [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) - 使用Pytorch來使用BERT的日文預訓練模型。
+ * [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) - Laboro BERT 日語：使用 Web-Corpus 預訓練的日語 BERT
+ * [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) - 日本BERT預訓練模型
+ * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - 日本語的aMLP Transformer模型
+ * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 使用UniDic和SudachiPy預先分詞，並在青空文庫和維基百科上訓練的日語BERT。
+ * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 輸入：用於 Hugging Face Model Hub 的句子 BERT 日語模型訓練代碼
+輸出：
+ * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 「日本推文情緒分析與疫苗接種比較」官方微調程式碼
+ * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本語GPT2生成モデル
+ * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基於gpt-2的文本轉換模型
+ * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - HuggingFace 的 transformers 的 GPT-2 日本模型
+ * [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) - 使用friendly_JA語料庫訓練的MT模型，嘗試通過使用拉丁/英語衍生的片假名詞彙表，而不是標準的漢日詞彙表，使日語對西方人更加容易/易於理解。
+ * [albert-japanese](https://github.com/alinear-corp/albert-japanese) - 使用SentencePiece的BERT模型進行日文文本處理。
+ * [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) - 在日語Wikipedia語料庫中生成BERT預訓練模型的存儲庫
+ * [DistilBERT-base-jp](https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp) - 一個在維基百科上訓練的日本DistilBERT預訓練模型。
+ * [bert](https://github.com/informatix-inc/bert) - 這個存儲庫提供了使用 RoBERTa 預訓練於日本語語料庫的片段。我們的數據集包括日本維基百科和網頁滾動文章，總共 25GB。釋出的模型是基於 HuggingFace 的模型構建的。
+ * [Laboro-DistilBERT-Japanese](https://github.com/laboroai/Laboro-DistilBERT-Japanese) - 勞羅 DistilBERT 日文
+ * [luke](https://github.com/studio-ousia/luke) - LUKE -- 基於知識嵌入的語言理解
+ * [GPTSAN](https://github.com/tanreinama/GPTSAN) - 通用開關變壓器基於日語模式
+ * [japanese-clip](https://github.com/rinnakk/japanese-clip) - 日本CLIP由rinna有限公司開發。
+ * [AcademicBART](https://github.com/EhimeNLP/AcademicBART) - 我們在學術數據庫CiNii Articles的論文摘要上，預先訓練了一個基於BART的日語遮罩語言模型。
+ * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 我們在學術數據庫CiNii Articles的論文摘要上預訓練了一個基於RoBERTa的日語遮罩語言模型。
+ * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 輸入：DistilBERT模型預先在131 GB的日本網頁文本上進行了預訓練。教師模型是LINE內部建立的BERT-base模型。
+輸出：
+ * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 使用經過日語翻譯的Stanford Alpaca資料集，進行LLaMA的微調並創建了Low-Rank Adapter，以下是其連結和生成樣本程式碼。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -905,19 +916,19 @@ Resources
 
 ## ChatGPT
 
- * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - 透過網路通訊,
- * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - 我們正在研發AITuber的基礎部分.
- * [wanna](https://github.com/hirokidaichi/wanna) - 牌命令發射器使用自然語言
- * [ChatdollKit](https://github.com/uezo/ChatdollKit) - 聊天工具讓你將你的3D模型變成聊天機
- * [ChuanhuChatGPTJapanese](https://github.com/gyokuro33/ChuanhuChatGPTJapanese) - 關於日本語的GUI
- * [AISisterAIChan](https://github.com/manju-summoner/AISisterAIChan) - 這款服務器是搭載ChatGPT 3.5的"AI妹妹艾".
- * [vrchatbot](https://github.com/Geson-anko/vrchatbot) - 提供一個可供使用的資料庫.
- * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 這裡有許多人使用GPT,
- * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - 透過 Open AI 文字完成終點建立的 Nuxt 3 聊天盒應用程式.您可以選擇您的 AI 朋友的不同性格.預設會用日文回應.您可以使用此應用程式練習您的尼宏技能!
- * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - 這項 Chrome 擴展可以使用 ChatGPT 將選定的日文翻譯成海拉加納.
- * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 這樣的情況是, 透過使用Retrieval Augmented Generation模式,
- * [chatvrm](https://github.com/pixiv/chatvrm) - 聊天VRM是一個可以在網頁覽器上輕鬆與3D角色交談的示範應用程式.
- * [sftly-replace](https://github.com/kmizu/sftly-replace) - 顯示選項的位置.
+ * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - 使用ChatGPT的程式，讓您可以在VRChat上聊天。
+ * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - 我們正在開發AITuber的基礎部分。
+ * [wanna](https://github.com/hirokidaichi/wanna) - 具有自然語言的Shell命令啟動器
+ * [ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit 可以讓您將您的 3D 模型製作成聊天機器人。
+ * [ChuanhuChatGPTJapanese](https://github.com/gyokuro33/ChuanhuChatGPTJapanese) - ChatGPT API 日文版的 GUI
+ * [AISisterAIChan](https://github.com/manju-summoner/AISisterAIChan) - 這是搭載了ChatGPT3.5的伺か鬼「AI妹アイちゃん」。使用需要另外準備ChatGPT的API金鑰。
+ * [vrchatbot](https://github.com/Geson-anko/vrchatbot) - 建立VRChat AI Bot的存儲庫
+ * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPT會當YouTuber
+ * [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) - 一個使用 Nuxt 3 構建的聊天框應用程序，由 Open AI 文本完成端點提供支持。您可以選擇不同的 AI 朋友個性。默認情況下，它會用日語回答。您可以使用此應用程序練習您的日語技能！
+ * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - 這個 Chrome 擴充功能可以使用 ChatGPT 將選定的日文文本翻譯成平假名。
+ * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 在這個範例中，我們使用檢索增強生成模式，展示了一些創建類似ChatGPT體驗的方法，以應用於自己的數據。
+ * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM是一個可以在瀏覽器中輕鬆與3D角色對話的演示應用程式。
+ * [sftly-replace](https://github.com/kmizu/sftly-replace) - 一個Chrome擴展程序，可以輕鬆替換所選文本
 
 
 |Name|downloads/week|total downloads|stars|
@@ -939,31 +950,31 @@ Resources
 
 ## Dictionary
 
- * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 基于網路上的語言資源的新詞彙
- * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 這是一台日本口音字典生成器,
- * [jamdict](https://github.com/neocl/jamdict) - 該網站的使用者必須在使用者之前,
- * [unidic-py](https://github.com/polm/unidic-py) - 裝置使用管道.
- * [Japanese-Company-Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon) - 該公司的經驗與經驗
- * [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) - 蘇達奇向け万病辞書
- * [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) - 來自維基百科的SKK/MeCab字典
- * [JIWC-Dictionary](https://github.com/sociocom/JIWC-Dictionary) - 字典找到與文字相關的情感
- * [JumanDIC](https://github.com/ku-nlp/JumanDIC) - 這裡包含了源字典檔案,
- * [ipadic-py](https://github.com/polm/ipadic-py) - 提供了IPAdic包裝,
- * [unidic-lite](https://github.com/polm/unidic-lite) - 這是一款小型版本的UniDic,
- * [emoji-ime-dictionary](https://github.com/peaceiris/emoji-ime-dictionary) - 提供日本語圖形字母輸入的IME, 附加字典 orange_book Google 日本語輸入等, 允許將日文轉換為圖形字母的IME擴展字典
- * [google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary) - 增加日英文轉換及英語簡略展開的IME字典 orange_book 擴展IME字典,可使用Google日語輸入,ATOK等來將日語轉換及英語簡略展開
- * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - 尼古尼科百科和皮克西布百科的共同部分IME字典
- * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - 該網站的網站是GoogleIME使用カタカナ語詞典計畫的檔案.
- * [emoticon](https://github.com/tiwanari/emoticon) - 請使用Google日本語入力の顔文字辞書
- * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - 這項計畫是為將開源Mozc字典轉換成MeCab字典格式.
- * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - 微軟IME等應用程式使用的"電訊部"相關詞彙.
- * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - 這是一本由微軟 IME等應用程式所設計的""相關詞彙詞典.
- * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - 這裡是微軟 IME等網站所使用的,目前已知的所有波克蒙名稱的詞典.
- * [EJDict](https://github.com/kujirahand/EJDict) - 義語-日語字典資料 (公開領域)
- * [Ayashiy-Nipongo-Dic](https://github.com/Rinrin0413/Ayashiy-Nipongo-Dic) - 們使用貴貌的詞畫來使用正當的日文.
- * [genshin-dict](https://github.com/kotofurumiya/genshin-dict) - 這是Windows/macOS上可用的原神的字典.
- * [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) - 在 JSON格式中使用 JMdict 和 JMnedict
- * [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) - 將外部詞語轉換成Mozc系統字典
+ * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 基於網絡語言資源的新詞典，適用於mecab-ipadic。
+ * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 一個日本口音字典生成器
+ * [jamdict](https://github.com/neocl/jamdict) - Python 3 庫，用於操作Jim Breen的JMdict、KanjiDic2、JMnedict和漢字-部首映射。
+ * [unidic-py](https://github.com/polm/unidic-py) - 透過pip安裝的Unidic打包。
+ * [Japanese-Company-Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon) - 日本公司用語辭典（JCLdic）
+ * [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) - 酸橙專用萬病辭書
+ * [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) - 從維基百科（日文版）生成SKK / MeCab詞典
+ * [JIWC-Dictionary](https://github.com/sociocom/JIWC-Dictionary) - 字典以尋找與文本相關的情感
+ * [JumanDIC](https://github.com/ku-nlp/JumanDIC) - 這個存儲庫包含源字典文件，用於構建 JUMAN 和 Juman++ 的字典。
+ * [ipadic-py](https://github.com/polm/ipadic-py) - IPAdic打包成Python易於使用的套件。
+ * [unidic-lite](https://github.com/polm/unidic-lite) - 一個小型的UniDic版本，方便進行pip安裝。
+ * [emoji-ime-dictionary](https://github.com/peaceiris/emoji-ime-dictionary) - 日本語輸入表情符號的 IME 附加詞典 orange_book，Google 日本語輸入等可將日本語轉換為表情符號的 IME 擴展詞典。
+ * [google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary) - 日英轉換・英語縮寫展開的 IME 追加詞典 orange_book，可在 Google 日本語輸入法或 ATOK 等輸入法中實現從日語到英語的和英轉換和英語縮寫展開的 IME 擴展詞典。
+ * [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) - NicoNico大百科和Pixiv百科全書共同部分的IME詞典
+ * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - 這是GoogleIME用片假名詞彙字典專案的存檔，從日語外來詞的片假名詞彙轉換為英語。
+ * [emoticon](https://github.com/tiwanari/emoticon) - Google日本語輸入的表情符號字典∩(,,Ò‿Ó,,)∩
+ * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - 這是將開源mozc字典轉換為MeCab字典格式的結果。
+ * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - 電音IME：針對Microsoft IME等輸入法所設計的「電音部」相關用語詞典。
+ * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - 這是一個針對 Microsoft IME 等輸入法所設計的「にじさんじ」相關用語詞典。
+ * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - 這是一個包含目前已知所有寶可夢名稱的用語詞典，旨在供Microsoft IME等輸入法使用。
+ * [EJDict](https://github.com/kujirahand/EJDict) - 英日辭典數據（公共領域）EJDict-hand
+ * [Ayashiy-Nipongo-Dic](https://github.com/Rinrin0413/Ayashiy-Nipongo-Dic) - 利用貴公司提供的輸入法，可以正確地使用日語。
+ * [genshin-dict](https://github.com/kotofurumiya/genshin-dict) - 這是可用於 Windows/macOS 的原神詞彙字典。
+ * [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) - JMdict和JMnedict的JSON格式
+ * [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) - 將外部單詞轉換為Mozc系統詞典
 
 
 |Name|downloads/week|total downloads|stars|
@@ -999,13 +1010,13 @@ Resources
 
 ### Part-of-speech tagging / Named entity recognition
 
- * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - 來自日本的語言
- * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - 沒有任何關於"日本"的消息.
- * [TwitterCorpus](https://github.com/tmu-nlp/TwitterCorpus) - 首都大日本語 Twitter 科普
- * [UD_Japanese-PUD](https://github.com/megagonlabs/UD_Japanese-PUD) - 其他國家的國家.
- * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - 來自Google UDT 2.0的日語數據.
- * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大學網站文件引導資料庫
- * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 註解: 福山凱多里中心資料庫
+ * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - 使用維基百科進行日語固有表現抽取的資料集
+ * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - 用於命名實體識別的日語IOB2標記語料庫。
+ * [TwitterCorpus](https://github.com/tmu-nlp/TwitterCorpus) - 首都大日本語 Twitter 語料庫
+ * [UD_Japanese-PUD](https://github.com/megagonlabs/UD_Japanese-PUD) - 平行通用依存句法。
+ * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - 從Google UDT 2.0輸入的日本數據。
+ * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大學網頁文件引導語料庫
+ * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 註釋版的富滿開取中心語料庫
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1021,17 +1032,17 @@ Resources
 
 ### Parallel corpus
 
- * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 沒有任何關於日本語的相關報導.
- * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - 網頁搜尋日本與中國的 NMT
- * [CourseraParallelCorpusMining](https://github.com/shyyhs/CourseraParallelCorpusMining) - 學習者可使用Coursera Corpus Mining及多階段精準調整,
- * [JESC](https://github.com/rpryzant/JESC) - 這裡有許多英語與日文,
- * [AMI-Meeting-Parallel-Corpus](https://github.com/tsuruoka-lab/AMI-Meeting-Parallel-Corpus) - 其他國家的會議
- * [giant_ja-en_parallel_corpus](https://github.com/DayuanJiang/giant_ja-en_parallel_corpus) - 這份目錄包含一大批日語-英語字幕資料庫.
- * [jesc_small](https://github.com/yusugomori/jesc_small) - 字幕提供日語-英語字幕
- * [graded-enja-corpus](https://github.com/marmooo/graded-enja-corpus) - 沒有任何關於""的相關資訊.
- * [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - 數學學用詞比較 / 中日韓電腦科學術語對照 / 日中韓的數學學用詞對照 / 한·중·일 전산학 용어 대조
- * [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) - 建立日語與英語並行資料庫及訓練NMT模型的脚本
- * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - 沒有任何相關資訊,
+ * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k 英日平行語料庫，用於機器翻譯基準測試。
+ * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - 一個用於日中機器翻譯的網絡爬蟲語料庫
+ * [CourseraParallelCorpusMining](https://github.com/shyyhs/CourseraParallelCorpusMining) - Coursera 課程挖掘和多階段微調，以改善講座翻譯
+ * [JESC](https://github.com/rpryzant/JESC) - 一個大型的英日平行語料庫
+ * [AMI-Meeting-Parallel-Corpus](https://github.com/tsuruoka-lab/AMI-Meeting-Parallel-Corpus) - AMI會議平行語料庫
+ * [giant_ja-en_parallel_corpus](https://github.com/DayuanJiang/giant_ja-en_parallel_corpus) - 這個目錄包含一個龐大的日英字幕語料庫。原始數據來自斯坦福大學的JESC項目。
+ * [jesc_small](https://github.com/yusugomori/jesc_small) - 小型日英字幕語料庫
+ * [graded-enja-corpus](https://github.com/marmooo/graded-enja-corpus) - 禁止用語或單詞級別考慮的日英對譯語料庫。
+ * [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - 中日韓電腦科學術語對照 / 日中韓的電腦科學用語對照 / 韓中日電腦科學術語對照 / 한중일 컴퓨터 과학 용어 대조
+ * [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) - 創建日英平行語料庫和訓練NMT模型的腳本
+ * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - 谷歌 vs DeepL JE
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1051,13 +1062,13 @@ Resources
 
 ### Dialog corpus
 
- * [JMRD](https://github.com/ku-nlp/JMRD) - 日本電影推薦對話資料集
- * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - 透過覽與編輯,
- * [BSD](https://github.com/tsuruoka-lab/BSD) - 商界對話資料庫
- * [asdc](https://github.com/megagonlabs/asdc) - 住宿搜尋對話資料庫 (宿泊施設探索対話コーパス)
- * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 日本語對話數據,
- * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 這份資料庫包含了在AACL-IJCNLP 2022年研討會Eval4NLP 2022上發表的日本英雙語聊天資料庫BPersona-chat.
- * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本日日對話,或日本語日常對話コーパス, 是一個高品質的多轉對話資料集, 包含關於五個主題的日常對話:日常生活,學校,旅行,健康和娛樂.
+ * [JMRD](https://github.com/ku-nlp/JMRD) - 日本電影推薦對話數據集
+ * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - 透過爬蟲從Open 2ch網站建立的對話語料庫
+ * [BSD](https://github.com/tsuruoka-lab/BSD) - 商業場景對話語料庫
+ * [asdc](https://github.com/megagonlabs/asdc) - 住宿搜索對話語料庫 (宿泊施設探索對話語料庫)
+ * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 日語對話資料，適用於seq2seq等。
+ * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 這個存儲庫包含了在AACL-IJCNLP 2022的Eval4NLP 2022研討會上發表的論文《Chat Translation Error Detection for Assisting Cross-lingual Communications》中所發布的日英雙語聊天語料庫BPersona-chat。
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス是一個高品質的多輪對話數據集，包含五個主題的日常對話：生活、學校、旅行、健康和娛樂。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1072,86 +1083,87 @@ Resources
 
 ### Others
 
- * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - 沒有任何關於日本實際文本含義資料庫的相關資料.
- * [kanji-data](https://github.com/davidluzgouveia/kanji-data) - 具有更新的JLPT水平和 WaniKani資訊的JSON漢字數據集
- * [JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) - 日本語字類相似性資料集
- * [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - 簡化日本文本的翻譯資料庫
- * [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - 查基的以觀點為基礎的情緒分析資料集
- * [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) - 該網站的網站是日本語版的網站,
- * [JaNLI](https://github.com/verypluming/JaNLI) - 日本對抗性自然語言推論資料集
- * [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) - 根據證據的解釋資料集 (AACL-IJCNLP 2020)
- * [emoji-ja](https://github.com/yagays/emoji-ja) - 單字字母的日文閱讀/關鍵字/分類字典
- * [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) - 來自維基百科的日語名稱集資料集
- * [ja.text8](https://github.com/Hironsan/ja.text8) - 沒有任何關於日本語的資訊.
- * [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) - 這就是我想要的.
- * [japanese](https://github.com/hingston/japanese) - 這份報告包含了利兹大學校內資料庫所決定的44998個最常見的日文單詞,
- * [kanji-frequency](https://github.com/scriptin/kanji-frequency) - 來自各種來源收集的漢字使用頻率數據
- * [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) - 美國美國電視台的評估數據集
- * [CoARiJ](https://github.com/chakki-works/CoARiJ) - 日本年度報告集
- * [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) - 關於日本的技術資料庫/工具
- * [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) - 部分字段註解 ITA 資料
- * [wikipedia-utils](https://github.com/singletongue/wikipedia-utils) - 維基百科文字預先處理的實用程式程式
- * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 收集日本語中的不當表達.
- * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 參加會議的會員,議員,議案及提問主題資料.
- * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 國會法案資料庫:國會議院
- * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - 台上字幕:大尺度的日本圖片字幕資料集
- * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - 維諾格拉德方案挑戰的日文翻譯
- * [speechBSD](https://github.com/ku-nlp/speechBSD) - 具有音訊和音箱屬性資訊的 BSD 資料庫的擴展
- * [ita-corpus](https://github.com/mmorise/ita-corpus) - 沒有任何關於我,
- * [rohan4600](https://github.com/mmorise/rohan4600) - 沒有任何關於日本的新聞.
- * [anlp-jp-history](https://github.com/whym/anlp-jp-history) - 語言處理學會年會演講的完整列表,
- * [keigo_transfer_task](https://github.com/cl-tohoku/keigo_transfer_task) - 語言翻譯任務中的評估資料集
- * [loanwords_gairaigo](https://github.com/jamesohortle/loanwords_gairaigo) - 日本語中的英文借用詞
- * [jawikicorpus](https://github.com/wikiwikification/jawikicorpus) - 日本語維基百科維基資料庫
- * [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) - 這是日本總理的一般政策演講.
- * [wrime](https://github.com/ids-cv/wrime) - 沒有任何證據顯示,
- * [jtubespeech](https://github.com/sarulab-speech/jtubespeech) - JTubeSpeech:來自YouTube的日語語彙集
- * [WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList) - 常用日本語維基百科的單詞列表
- * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - 沒有任何關於車輛故障的資料集.
- * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - 數字化資料是OCR文本化事業所製作的學習資料集,
- * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - 來自國家雜誌資料的數據集.
- * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - 果自作的標誌
- * [hirakanadic](https://github.com/po3rin/hirakanadic) - 允許Sudachi從任何複合詞列表中將海拉根改為卡塔卡納
- * [animedb](https://github.com/anilogia/animedb) - 數據庫裡的動畫作品,
- * [security_words](https://github.com/SaitoLab/security_words) - 網路安全與公共組織相關的日英回應
- * [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) - 數據來自日本國會議員,
- * [honkoku-data](https://github.com/yuta1984/honkoku-data) - 歷史資料的公民參與型翻刻平台『みんなで翻刻』的文字資料置き場です。/在日本歷史文獻群眾轉錄平台Minna de Honkoku (https://honkoku.org) 上創建的抄錄文本.
- * [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) - 維基如何資料集 (日文版)
- * [engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - 工程師的日語/英語詞彙列表
- * [JSICK](https://github.com/verypluming/JSICK) - 包含組成知識的日本語句子 (JSICK) 資料集/JSICK壓力測試集
- * [phishurl-list](https://github.com/JPCERTCC/phishurl-list) - 魚網址資料集來自JPCERT/CC
- * [jcms](https://github.com/shigashiyama/jcms) - 許多專業領域的日本資料庫 (JCMS)
- * [aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) - 只有文字檔案的 www.aozora.gr.jp
- * [friendly_JA-Corpus](https://github.com/astremo/friendly_JA-Corpus) - friendly_JA是一份平行日語與日語資料庫,旨在使用拉丁/英語衍生卡塔卡納詞彙,
- * [topokanji](https://github.com/scriptin/topokanji) - 具體的學習目的,
- * [isbn4groups](https://github.com/uribo/isbn4groups) - 關於ISBN-13中的日文出版物 (978-4-XXXXXXXXX) 的數據等
- * [NMeCab](https://github.com/komutan/NMeCab) - 關於.NET上的日本形狀分析器
- * [ndlngramdata](https://github.com/ndl-lab/ndlngramdata) - 數位化資料的數據集
- * [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) - 該網站的源代碼為
- * [data_set](https://github.com/japanese-law-analysis/data_set) - 沒有任何證據顯示,
- * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - 關於 huggingface數據集的 WRIME
- * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - 數據庫裡的數據是數據庫中使用的數據,
- * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - 基因系統與考古模擬器.
- * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - 沒有任何相關資訊.
- * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - 日本直播新聞資料庫
- * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - 關於日本的一般語言理解
- * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - 反映日本注解者的常識道德.
- * [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) - 美國的原子彈
- * [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) - 關於日本的對話
- * [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) - 提供日本毒性方案的方案和數據集.
- * [camera](https://github.com/CyberAgentAILab/camera) - 網路代理多模式評估廣告文字基因分析 (CAMERA) 是日本的廣告文字生成數據集.
- * [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) - 沒有任何關於日本的新聞.
- * [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) - 沒有任何資料.
- * [copa-japanese](https://github.com/nlp-titech/copa-japanese) - 已使用的語言
- * [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) - 字母熟悉率為"用語意原理列表 (WLSP) "
- * [ProSub](https://github.com/matbahasa/ProSub) - 跨語言研究代名詞和地址詞
- * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - 反映日本注解者的常識道德.
- * [ramendb](https://github.com/nuko-yokohama/ramendb) - 沒有任何方法可以取資料.
- * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 網路代理多模式評估廣告文字基因編輯 (CAMERA)
- * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 實際檢查句子NLI數據集
- * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這裡是用於 databricks/dolly-v2-12b 的學習數據的 databricks-dolly-15k.jsonl 翻譯成日文的數據集.
- * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基于MELD的情感感應用語音翻譯的日英文數據集.
- * [meconaudio](https://github.com/elith-co-jp/meconaudio) - 醫學會議錄音是厚生勞工部主辦的先進醫學會議議錄音的閱讀數據集.
+ * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - 日本現實文本蘊含語料庫（NLP 2020，LREC 2020）
+ * [kanji-data](https://github.com/davidluzgouveia/kanji-data) - 一個包含更新的JLPT級別和WaniKani信息的JSON漢字數據集。
+ * [JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) - 日本語詞語相似度資料集
+ * [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - 一個用於日文簡化的改述資料庫
+ * [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - 翻譯：chakki的基於方面的情感分析數據集
+ * [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) - JaQuAD：日本機器閱讀理解問答資料集（2022年，Skelter Labs）
+ * [JaNLI](https://github.com/verypluming/JaNLI) - 日本對抗自然語言推論數據集
+ * [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) - 基於證據的解釋數據集（AACL-IJCNLP 2020）
+ * [emoji-ja](https://github.com/yagays/emoji-ja) - UNICODE繪文字的日本語讀音/關鍵字/分類詞典
+ * [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) - 從維基百科創建的日語名稱對齊數據集
+ * [ja.text8](https://github.com/Hironsan/ja.text8) - 用於詞向量嵌入的日文文本8語料庫。
+ * [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) - 3行要約資料集
+ * [japanese](https://github.com/hingston/japanese) - 這個存儲庫包含由利茲大學語料庫確定頻率排序的44,998個最常見的日語單詞列表。
+ * [kanji-frequency](https://github.com/scriptin/kanji-frequency) - 從各種來源收集的漢字使用頻率數據
+ * [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) - TEDxJP-10K 語音辨識評估數據集
+ * [CoARiJ](https://github.com/chakki-works/CoARiJ) - 日本年報語料庫
+ * [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) - 收集了用日語撰寫的技術書籍的生語料庫/工具
+ * [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) - ITA語料庫的分塊詞註釋
+ * [wikipedia-utils](https://github.com/singletongue/wikipedia-utils) - 用於自然語言處理的預處理維基百科文本的實用腳本
+ * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 收集日語中不適當的表達方式。可用於自然語言處理時的數據清理等。
+ * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 從參議院官方網站整理了會派、議員、議案、質問主意書的數據。
+ * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 國會議案資料庫：衆議院
+ * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - 輸入：STAIR字幕：大規模日本圖像字幕數據集
+ * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - Winograd模式挑戰的日本翻譯
+ * [speechBSD](https://github.com/ku-nlp/speechBSD) - 一個包含音訊和說話者屬性信息的BSD語料庫擴展版。
+ * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITA語料庫的文章清單
+ * [rohan4600](https://github.com/mmorise/rohan4600) - 莫拉平衡型日本語語料庫
+ * [anlp-jp-history](https://github.com/whym/anlp-jp-history) - 語言處理學會年度大會演講的完整列表和機器可讀版本等。
+ * [keigo_transfer_task](https://github.com/cl-tohoku/keigo_transfer_task) - 敬語轉換任務中的評估數據集
+ * [loanwords_gairaigo](https://github.com/jamesohortle/loanwords_gairaigo) - 日本中的英語借詞
+ * [jawikicorpus](https://github.com/wikiwikification/jawikicorpus) - 日本維基百科鏈接化語料庫
+ * [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) - 這是日本總理一般政策演說的語料庫。
+ * [wrime](https://github.com/ids-cv/wrime) - WRIME：主觀與客觀情感分析資料集
+ * [jtubespeech](https://github.com/sarulab-speech/jtubespeech) - JTubeSpeech：從YouTube收集的日語語音語料庫
+ * [WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList) - 在日語Wikipedia中常用的單詞列表
+ * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - 車輛不具合情報相關資料集
+ * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - 在數位化資料OCR文字化業務中所創建的OCR學習用資料集。
+ * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - 從全國書目資料中創建的假名數據集
+ * [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) - JVS（日本語多目的話者）語料庫的自製標籤
+ * [hirakanadic](https://github.com/po3rin/hirakanadic) - 允許Sudachi從任何複合詞列表中將平假名轉換為片假名。
+ * [animedb](https://github.com/anilogia/animedb) - 約100年的動畫作品清單資料庫
+ * [security_words](https://github.com/SaitoLab/security_words) - 與網路安全相關的公共組織的日英對應
+ * [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) - 日本國會議員的資料
+ * [honkoku-data](https://github.com/yuta1984/honkoku-data) - 這是歷史資料的市民參與型翻刻平台「大家一起翻刻」的文本數據存放處。/ 這些文本是在「大家一起翻刻」（https://honkoku.org）這個為日本歷史文獻提供群眾翻刻的平台上創建的。
+ * [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) - wikiHow數據集（日語版）
+ * [engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - 日英工程師詞彙表
+ * [JSICK](https://github.com/verypluming/JSICK) - 日本語組成知識（JSICK）資料集/JSICK壓力測試集
+ * [phishurl-list](https://github.com/JPCERTCC/phishurl-list) - JPCERT/CC 的釣魚網址數據集
+ * [jcms](https://github.com/shigashiyama/jcms) - 一個日本多個專業領域的語料庫 (JCMS)
+ * [aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) - www.aozora.gr.jp 的純文字檔案存檔
+ * [friendly_JA-Corpus](https://github.com/astremo/friendly_JA-Corpus) - friendly_JA 是一個平行的日語對日語語料庫，旨在通過使用拉丁/英語衍生的片假名詞彙表，而不是標準的漢日詞彙表，使日語更容易。
+ * [topokanji](https://github.com/scriptin/topokanji) - 有效學習漢字的拓撲排序列表
+ * [isbn4groups](https://github.com/uribo/isbn4groups) - 關於ISBN-13中以日語出版的出版物（978-4-XXXXXXXXX）相關的數據等。
+ * [NMeCab](https://github.com/komutan/NMeCab) - NMeCab：關於在.NET上的日語形態分析器
+ * [ndlngramdata](https://github.com/ndl-lab/ndlngramdata) - 由數位化資料製作的OCR文字資料的ngram頻率統計資訊資料集。
+ * [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) - 2023年1月重新設計的NDL Ngram Viewer源代碼等一套
+ * [data_set](https://github.com/japanese-law-analysis/data_set) - 法律・判例相關的資料集
+ * [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) - WRIME 的 HuggingFace 資料集
+ * [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) - NDL古典籍OCR學習用數據集（大家一起翻刻加工數據）
+ * [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - GIS和考古模擬器。2023年開發中。
+ * [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) - LIWC2015的日文版本
+ * [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) - 日本Livedoor新聞語料庫，用於huggingface數據集。
+ * [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE：用於huggingface數據集的日語通用語言理解評估
+ * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality是一個通過眾包創建的數據集，反映了日本標註者的常識道德。
+ * [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) - COMET-ATOMIC ja
+彗星原子 ja
+ * [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) - 日語對話常識圖表
+ * [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) - 「日本語毒性スキーマの提案と評価」は、日本語の毒性に関するスキーマとデータセットを提供します。
+ * [camera](https://github.com/CyberAgentAILab/camera) - CAMERA（CyberAgent多模態評估廣告文本生成）是日本的廣告文本生成數據集。
+ * [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) - 日本語假新聞資料庫
+ * [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) - jpn可解釋問答數據集
+ * [copa-japanese](https://github.com/nlp-titech/copa-japanese) - 日本語的 COPA 資料集
+ * [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) - 「按語義原則分類的單詞列表（WLSP）」的詞語熟悉度率
+ * [ProSub](https://github.com/matbahasa/ProSub) - 代詞替代和稱呼詞的跨語言研究
+ * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality是一個通過眾包創建的數據集，反映了日本標註者的常識道德。
+ * [ramendb](https://github.com/nuko-yokohama/ramendb) - 從なんとか資料庫(https://supleks.jp/)的網頁爬蟲工具和收集的資料。
+ * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 相機（CyberAgent多模態評估廣告文本生成）用於huggingface數據集
+ * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 事實檢查句子NLI數據集
+ * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這是將用於databricks/dolly-v2-12b的學習數據中使用的databricks-dolly-15k.jsonl翻譯成日語的數據集。
+ * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基於MELD的情感感知語音翻譯的英日數據集。
+ * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio（醫學會議音頻）是厚生勞動省主辦的先進醫療會議議事錄的朗讀數據集。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1240,18 +1252,18 @@ Resources
 
 ## Tutorial
 
- * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - 接著我們開始使用""這個詞,
- * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 訓練快速文字的教程
- * [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) - 關於日本語的固有表現抽出
- * [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) - 經驗使用車輛和PyTorch對日本文字的分類
- * [ginza-examples](https://github.com/poyo46/ginza-examples) - 這裡是日本NLP圖書館的首頁.
- * [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) - 文件分類使用BERT-日文
- * [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) - 這就是如何動手使用日本語BERT.
- * [bert-book](https://github.com/stockmarkteam/bert-book) - 接著我們將會看到更多的資訊.
- * [janome-tutorial](https://github.com/mocobeta/janome-tutorial) - 這是一本關於使用 Janome 來開發文字的教學.
- * [handson-language-models](https://github.com/hnishi/handson-language-models) - 這裡是日本語語言模型的漢字資料.
- * [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) - 在Google Colab上試用日本語文字推論
- * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - 這裡是pytorch的日本語版資料庫.
+ * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCy英文和日文教程。spacy-transformers、BERT、GiNZA。
+ * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 使用日語語料庫訓練fastText的教程
+ * [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) - AllenNLP-NER-ja：使用AllenNLP進行針對日語的專有名詞識別。
+ * [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) - 使用 chariot 和 PyTorch 进行日文文本分类的实验
+ * [ginza-examples](https://github.com/poyo46/ginza-examples) - 日本語NLP程式庫GiNZA的推薦
+ * [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) - 使用BERT進行文件分類-日文
+ * [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) - 這是在 Google Colaboratory 上運行日本語 BERT 的方法。
+ * [bert-book](https://github.com/stockmarkteam/bert-book) - 「BERT自然語言處理入門：使用Transformers的實踐編程」支援頁面
+ * [janome-tutorial](https://github.com/mocobeta/janome-tutorial) - 這是使用Janome進行文本探勘的入門教程。
+ * [handson-language-models](https://github.com/hnishi/handson-language-models) - 這是日語語言模型的實作指南資料。
+ * [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) - 嘗試在Google Colab進行日文文本推論。
+ * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - 這是 deep-learning-with-pytorch 的日文版 repository。
  * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) -【2023年版】BERTによるテキスト分類
 
 
@@ -1273,11 +1285,11 @@ Resources
 
 ## Research summary
 
- * [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 已接受預先訓練的日本語 BERT 模型列表,
- * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 收集和分類有關文法誤區的日文文獻的資料庫
- * [dataset-list](https://github.com/ikegami-yukino/dataset-list) - 文本庫列表及其他資料 (主要是日文)
- * [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) - 如何在深度學習模式中最大限度地提高性能.
- * [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) - 嘗試將日本語音調,尤其是音高口音資源整合到一份名單中,
+ * [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 一份預先訓練的BERT模型清單，包括日語的單詞/子詞分詞和詞彙構建算法信息。
+ * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 收集和分类有关日语文法错误修正的文献的存储库
+ * [dataset-list](https://github.com/ikegami-yukino/dataset-list) - 文本語料庫列表及更多（主要為日語）
+ * [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) - 系統地最大化深度學習模型性能的策略手冊
+ * [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) - 嘗試將日語音韻，特別是音高重音資源整合成一個清單。
 
 
 |Name|downloads/week|total downloads|stars|
