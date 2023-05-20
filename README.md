@@ -867,6 +867,7 @@ Resources
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
  * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model was trained using code based on EleutherAI/gpt-neox.
  * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model is based on rinna/japanese-gpt-neox-3.6b and has been finetuned to serve as a instruction-following conversational agent.
+ * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - This is a Japanese HuBERT (Hidden Unit Bidirectional Encoder Representations from Transformers) model trained by rinna Co., Ltd.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -907,6 +908,7 @@ Resources
 |[Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/Japanese-Alpaca-LoRA?style=social)|
 |[japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)|-|-|-|
 |[japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)|-|-|-|
+|[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
 
 
 ## ChatGPT
