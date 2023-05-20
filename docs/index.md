@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、460件の日本語NLPリポジトリが含まれています。
+このリストには、464件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -22,10 +22,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Tutorial**
- * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - ディープラーニングによる自然言語処理（共立出版）のサポートページです
+**Pretrained model**
+ * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。このモデルは、EleutherAI/gpt-neoxに基づくコードを使用してトレーニングされました。
+ * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。モデルはrinna/japanese-gpt-neox-3.6bをベースにしており、指示に従う会話エージェントとして機能するように微調整されています。
+ * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - これは、りんな株式会社によって訓練された日本語HuBERT（Hidden Unit Bidirectional Encoder Representations from Transformers）モデルです。
+ * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALMは、サイバーエージェント株式会社が開発した、日本語のデータセットで事前学習されたデコーダー専用の言語モデルのスイートです。
 
-_Updated on May 14, 2023_
+_Updated on May 21, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -865,6 +868,10 @@ Resources
  * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 私たちは、学術データベースCiNii Articlesの論文要約を用いて、RoBERTaベースの日本語マスク言語モデルを事前学習しました。
  * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 入力：131 GBの日本語ウェブテキストで事前学習されたDistilBERTモデル。教師モデルは、LINE内で構築されたBERT-baseです。
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
+ * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。このモデルは、EleutherAI/gpt-neoxに基づくコードを使用してトレーニングされました。
+ * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。モデルはrinna/japanese-gpt-neox-3.6bをベースにしており、指示に従う会話エージェントとして機能するように微調整されています。
+ * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - これは、りんな株式会社によって訓練された日本語HuBERT（Hidden Unit Bidirectional Encoder Representations from Transformers）モデルです。
+ * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALMは、サイバーエージェント株式会社が開発した、日本語のデータセットで事前学習されたデコーダー専用の言語モデルのスイートです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -903,6 +910,10 @@ Resources
 |[AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)|
 |[LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/line/LINE-DistilBERT-Japanese?style=social)|
 |[Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/Japanese-Alpaca-LoRA?style=social)|
+|[japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)|-|-|-|
+|[japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)|-|-|-|
+|[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
+|[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 
 
 ## ChatGPT

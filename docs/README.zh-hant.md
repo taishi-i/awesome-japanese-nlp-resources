@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 460 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 464 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -20,10 +20,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Tutorial**
- * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - 透過深度學習的自然語言處理（共立出版）支援頁面。
+**Pretrained model**
+ * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型是使用基於EleutherAI/gpt-neox的代碼進行訓練的。
+ * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型基於rinna/japanese-gpt-neox-3.6b，並進行了微調，以作為指令跟隨對話代理。
+ * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - 這是由rinna有限公司訓練的日本HuBERT（從變形金剛中隱藏單元的雙向編碼器表示）模型。
+ * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。
 
-_Updated on May 14, 2023_
+_Updated on May 21, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -874,6 +877,10 @@ Resources
  * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 輸入：DistilBERT模型預先在131 GB的日本網頁文本上進行了預訓練。教師模型是LINE內部建立的BERT-base模型。
 輸出：
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 使用經過日語翻譯的Stanford Alpaca資料集，進行LLaMA的微調並創建了Low-Rank Adapter，以下是其連結和生成樣本程式碼。
+ * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型是使用基於EleutherAI/gpt-neox的代碼進行訓練的。
+ * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型基於rinna/japanese-gpt-neox-3.6b，並進行了微調，以作為指令跟隨對話代理。
+ * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - 這是由rinna有限公司訓練的日本HuBERT（從變形金剛中隱藏單元的雙向編碼器表示）模型。
+ * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -912,6 +919,10 @@ Resources
 |[AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)|
 |[LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/line/LINE-DistilBERT-Japanese?style=social)|
 |[Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/Japanese-Alpaca-LoRA?style=social)|
+|[japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)|-|-|-|
+|[japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)|-|-|-|
+|[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
+|[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 
 
 ## ChatGPT

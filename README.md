@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 460 Japanese NLP repositories.
+This list includes 464 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -22,10 +22,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Tutorial**
- * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - ディープラーニングによる自然言語処理（共立出版）のサポートページです
+**Pretrained model**
+ * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model was trained using code based on EleutherAI/gpt-neox.
+ * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model is based on rinna/japanese-gpt-neox-3.6b and has been finetuned to serve as a instruction-following conversational agent.
+ * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - This is a Japanese HuBERT (Hidden Unit Bidirectional Encoder Representations from Transformers) model trained by rinna Co., Ltd.
+ * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.
 
-_Updated on May 14, 2023_
+_Updated on May 21, 2023_
 
 ## Contents
  * [Python library](#Python-library)
