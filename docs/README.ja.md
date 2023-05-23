@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、464件の日本語NLPリポジトリが含まれています。
+このリストには、465件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -22,13 +22,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Pretrained model**
- * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。このモデルは、EleutherAI/gpt-neoxに基づくコードを使用してトレーニングされました。
- * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。モデルはrinna/japanese-gpt-neox-3.6bをベースにしており、指示に従う会話エージェントとして機能するように微調整されています。
- * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - これは、りんな株式会社によって訓練された日本語HuBERT（Hidden Unit Bidirectional Encoder Representations from Transformers）モデルです。
- * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALMは、サイバーエージェント株式会社が開発した、日本語のデータセットで事前学習されたデコーダー専用の言語モデルのスイートです。
+**ChatGPT**
+ * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 図を含むarXiv論文を要約する。
 
-_Updated on May 21, 2023_
+_Updated on May 23, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -931,6 +928,7 @@ Resources
  * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - 選択したテキストをやさしく置き換えるためのChrome拡張機能
+ * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 図を含むarXiv論文を要約する。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -948,6 +946,7 @@ Resources
 |[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
+|[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
 
 
 ## Dictionary

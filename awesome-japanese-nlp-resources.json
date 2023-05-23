@@ -3807,6 +3807,18 @@
                     "zh-hans": "一个Chrome扩展，可以轻松替换所选文本",
                     "zh-hant": "一個Chrome擴展程序，可以輕鬆替換所選文本"
                 }
+            },
+            "https://github.com/rkmt/summarize_arxv": {
+                "sub_category": null,
+                "repository_name": "summarize_arxv",
+                "user_name": "rkmt",
+                "description": "Summarize arXiv paper with figures",
+                "multilingual_descriptions": {
+                    "en": "Summarize arXiv paper with figures",
+                    "ja": "図を含むarXiv論文を要約する。",
+                    "zh-hans": "用图表总结arXiv论文",
+                    "zh-hant": "用圖表總結arXiv論文"
+                }
             }
         },
         "Dictionary": {

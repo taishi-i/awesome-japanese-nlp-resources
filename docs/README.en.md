@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 464 Japanese NLP repositories.
+This list includes 465 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -22,13 +22,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Pretrained model**
- * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model was trained using code based on EleutherAI/gpt-neox.
- * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model is based on rinna/japanese-gpt-neox-3.6b and has been finetuned to serve as a instruction-following conversational agent.
- * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - This is a Japanese HuBERT (Hidden Unit Bidirectional Encoder Representations from Transformers) model trained by rinna Co., Ltd.
- * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.
+**ChatGPT**
+ * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - Summarize arXiv paper with figures
 
-_Updated on May 21, 2023_
+_Updated on May 23, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -931,6 +928,7 @@ Resources
  * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - In this sample, we demonstrate several approaches to creating an experience similar to ChatGPT for proprietary data using the Retrieval Augmented Generation pattern.
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM is a demo application that allows you to easily chat with 3D characters in your browser.
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - A Chrome extention to replace the selected text softly
+ * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - Summarize arXiv paper with figures
 
 
 |Name|downloads/week|total downloads|stars|
@@ -948,6 +946,7 @@ Resources
 |[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
+|[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
 
 
 ## Dictionary

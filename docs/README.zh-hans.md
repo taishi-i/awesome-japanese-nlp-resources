@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 464 个日语 NLP 存储库。
+此列表包含 465 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -21,13 +21,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Pretrained model**
- * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - 该存储库提供了一个36亿参数的日语GPT-NeoX模型。该模型是使用基于EleutherAI/gpt-neox的代码进行训练的。
- * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 该存储库提供了一个参数为36亿的日语GPT-NeoX模型。该模型基于rinna/japanese-gpt-neox-3.6b，并进行了微调，以用作指令跟随的对话代理。
- * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - 这是由rinna有限公司训练的日本HuBERT（Transformer中的隐藏单元双向编码器表示）模型。
- * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司开发的一套仅解码的语言模型，预先在日本数据集上进行了训练。
+**ChatGPT**
+ * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用图表总结arXiv论文
 
-_Updated on May 21, 2023_
+_Updated on May 23, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -938,6 +935,7 @@ Resources
  * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - 在这个样例中，我们使用检索增强生成模式，展示了几种方法来创建类似于ChatGPT的体验，以适用于您自己的数据。
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM是一个可以在浏览器中轻松与3D角色交谈的演示应用程序。
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - 一个Chrome扩展，可以轻松替换所选文本
+ * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用图表总结arXiv论文
 
 
 |Name|downloads/week|total downloads|stars|
@@ -955,6 +953,7 @@ Resources
 |[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
+|[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
 
 
 ## Dictionary
