@@ -22,10 +22,16 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
+**Transformer based models**
+ * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。
+
+**Corpus**
+ * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用の日本語チャットデータセット
+
 **ChatGPT**
  * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 図を含むarXiv論文を要約する。
 
-_Updated on May 23, 2023_
+_Updated on May 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -869,6 +875,7 @@ Resources
  * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。モデルはrinna/japanese-gpt-neox-3.6bをベースにしており、指示に従う会話エージェントとして機能するように微調整されています。
  * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - これは、りんな株式会社によって訓練された日本語HuBERT（Hidden Unit Bidirectional Encoder Representations from Transformers）モデルです。
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALMは、サイバーエージェント株式会社が開発した、日本語のデータセットで事前学習されたデコーダー専用の言語モデルのスイートです。
+ * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -911,6 +918,7 @@ Resources
 |[japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)|-|-|-|
 |[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
+|[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 
 
 ## ChatGPT
@@ -1070,7 +1078,7 @@ Resources
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - seq2seqなどに使用する日本語の対話データ
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - このリポジトリには、AACL-IJCNLP 2022のWorkshop Eval4NLP 2022で発表された「Chat Translation Error Detection for Assisting Cross-lingual Communications」の論文で公開された日英バイリンガルチャットコーパスBPersna-chatが含まれています。
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 「日本語日常対話コーパス」は、日常生活に関する会話を中心に、学校、旅行、健康、エンターテインメントの5つのトピックについての高品質なマルチターン対話データセットです。
-
+ * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用の日本語チャットデータセット
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
@@ -1081,6 +1089,7 @@ Resources
 |[japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MokkeMeguru/japanese-corpus?style=social)|
 |[BPersona-chat](https://github.com/cl-tohoku/BPersona-chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/BPersona-chat?style=social)|
 |[japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jqk09a/japanese-daily-dialogue?style=social)|
+|[llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masanorihirano/llm-japanese-dataset?style=social)|
 
 ### Others
 

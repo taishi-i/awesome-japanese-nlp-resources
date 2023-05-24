@@ -3649,6 +3649,18 @@
                     "zh-hans": "OpenCALM是由CyberAgent公司开发的一套仅解码的语言模型，预先在日本数据集上进行了训练。",
                     "zh-hant": "OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。"
                 }
+            },
+            "https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner": {
+                "sub_category": "Transformer based models",
+                "repository_name": "luke-japanese-base-finetuned-ner",
+                "user_name": "Mizuiro-sakura",
+                "description": "このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。",
+                "multilingual_descriptions": {
+                    "en": "This model fine-tunes luke-japanese-base to be used for named entity recognition (NER).",
+                    "ja": "このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。",
+                    "zh-hans": "这个模型是通过对luke-japanese-base进行微调，使其可以用于命名实体识别（NER）。",
+                    "zh-hant": "這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。"
+                }
             }
         },
         "ChatGPT": {
@@ -4422,6 +4434,18 @@
                     "ja": "「日本語日常対話コーパス」は、日常生活に関する会話を中心に、学校、旅行、健康、エンターテインメントの5つのトピックについての高品質なマルチターン対話データセットです。",
                     "zh-hans": "输入：日本日常对话语料库，或日本语日常対話コーパス，是一个高质量的多轮对话数据集，包含五个主题的日常对话：日常生活，学校，旅行，健康和娱乐。",
                     "zh-hant": "日本語日常対話コーパス是一個高品質的多輪對話數據集，包含五個主題的日常對話：生活、學校、旅行、健康和娛樂。"
+                }
+            },
+            "https://github.com/masanorihirano/llm-japanese-dataset": {
+                "sub_category": "Dialog corpus",
+                "repository_name": "llm-japanese-dataset",
+                "user_name": "masanorihirano",
+                "description": "LLM構築用の日本語チャットデータセット",
+                "multilingual_descriptions": {
+                    "en": "Japanese chat dataset for building LLM.",
+                    "ja": "LLM構築用の日本語チャットデータセット",
+                    "zh-hans": "LLM构建用的日语聊天数据集",
+                    "zh-hant": "LLM構築用的日本語聊天資料集"
                 }
             },
             "https://github.com/megagonlabs/jrte-corpus": {

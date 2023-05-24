@@ -20,10 +20,16 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
+**Transformer based models**
+ * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。
+
+**Corpus**
+ * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用的日本語聊天資料集
+
 **ChatGPT**
  * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用圖表總結arXiv論文
 
-_Updated on May 23, 2023_
+_Updated on May 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -878,6 +884,7 @@ Resources
  * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型基於rinna/japanese-gpt-neox-3.6b，並進行了微調，以作為指令跟隨對話代理。
  * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - 這是由rinna有限公司訓練的日本HuBERT（從變形金剛中隱藏單元的雙向編碼器表示）模型。
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。
+ * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -920,6 +927,7 @@ Resources
 |[japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)|-|-|-|
 |[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
+|[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 
 
 ## ChatGPT
@@ -1079,7 +1087,7 @@ Resources
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 日語對話資料，適用於seq2seq等。
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 這個存儲庫包含了在AACL-IJCNLP 2022的Eval4NLP 2022研討會上發表的論文《Chat Translation Error Detection for Assisting Cross-lingual Communications》中所發布的日英雙語聊天語料庫BPersona-chat。
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス是一個高品質的多輪對話數據集，包含五個主題的日常對話：生活、學校、旅行、健康和娛樂。
-
+ * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用的日本語聊天資料集
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
@@ -1090,6 +1098,7 @@ Resources
 |[japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MokkeMeguru/japanese-corpus?style=social)|
 |[BPersona-chat](https://github.com/cl-tohoku/BPersona-chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/BPersona-chat?style=social)|
 |[japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jqk09a/japanese-daily-dialogue?style=social)|
+|[llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masanorihirano/llm-japanese-dataset?style=social)|
 
 ### Others
 
