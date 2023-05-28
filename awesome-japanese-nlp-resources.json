@@ -3831,6 +3831,18 @@
                     "zh-hans": "用图表总结arXiv论文",
                     "zh-hant": "用圖表總結arXiv論文"
                 }
+            },
+            "https://github.com/uezo/aiavatarkit": {
+                "sub_category": null,
+                "repository_name": "aiavatarkit",
+                "user_name": "uezo",
+                "description": "Building AI-based conversational avatars lightning fast",
+                "multilingual_descriptions": {
+                    "en": "Building AI-based conversational avatars lightning fast",
+                    "ja": "AIベースの会話型アバターを超高速で構築する",
+                    "zh-hans": "快速构建基于人工智能的对话化头像",
+                    "zh-hant": "快速建立基於人工智慧的對話化頭像"
+                }
             }
         },
         "Dictionary": {
