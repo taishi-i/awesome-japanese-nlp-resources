@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 465 个日语 NLP 存储库。
+此列表包含 468 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -21,16 +21,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Transformer based models**
- * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 这个模型是通过对luke-japanese-base进行微调，使其可以用于命名实体识别（NER）。
-
-**Corpus**
- * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM构建用的日语聊天数据集
-
 **ChatGPT**
- * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用图表总结arXiv论文
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 快速构建基于人工智能的对话化头像
 
-_Updated on May 24, 2023_
+_Updated on May 28, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -944,6 +938,7 @@ Resources
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM是一个可以在浏览器中轻松与3D角色交谈的演示应用程序。
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - 一个Chrome扩展，可以轻松替换所选文本
  * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用图表总结arXiv论文
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 快速构建基于人工智能的对话化头像
 
 
 |Name|downloads/week|total downloads|stars|
@@ -962,6 +957,7 @@ Resources
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
 |[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
+|[aiavatarkit](https://github.com/uezo/aiavatarkit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/aiavatarkit?style=social)|
 
 
 ## Dictionary

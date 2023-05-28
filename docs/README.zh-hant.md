@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 465 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 468 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -20,16 +20,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Transformer based models**
- * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。
-
-**Corpus**
- * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用的日本語聊天資料集
-
 **ChatGPT**
- * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用圖表總結arXiv論文
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 快速建立基於人工智慧的對話化頭像
 
-_Updated on May 24, 2023_
+_Updated on May 28, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -946,6 +940,7 @@ Resources
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM是一個可以在瀏覽器中輕鬆與3D角色對話的演示應用程式。
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - 一個Chrome擴展程序，可以輕鬆替換所選文本
  * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 用圖表總結arXiv論文
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 快速建立基於人工智慧的對話化頭像
 
 
 |Name|downloads/week|total downloads|stars|
@@ -964,6 +959,7 @@ Resources
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
 |[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
+|[aiavatarkit](https://github.com/uezo/aiavatarkit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/aiavatarkit?style=social)|
 
 
 ## Dictionary

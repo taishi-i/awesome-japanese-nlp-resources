@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 465 Japanese NLP repositories.
+This list includes 468 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -22,16 +22,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Transformer based models**
- * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - This model fine-tunes luke-japanese-base to be used for named entity recognition (NER).
-
-**Corpus**
- * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - Japanese chat dataset for building LLM.
-
 **ChatGPT**
- * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - Summarize arXiv paper with figures
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - Building AI-based conversational avatars lightning fast
 
-_Updated on May 24, 2023_
+_Updated on May 28, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -937,6 +931,7 @@ Resources
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRM is a demo application that allows you to easily chat with 3D characters in your browser.
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - A Chrome extention to replace the selected text softly
  * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - Summarize arXiv paper with figures
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - Building AI-based conversational avatars lightning fast
 
 
 |Name|downloads/week|total downloads|stars|
@@ -955,6 +950,7 @@ Resources
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
 |[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
+|[aiavatarkit](https://github.com/uezo/aiavatarkit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/aiavatarkit?style=social)|
 
 
 ## Dictionary
