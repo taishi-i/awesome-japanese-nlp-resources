@@ -2197,6 +2197,18 @@
                     "zh-hans": "Python封装OpenJTalk",
                     "zh-hant": "Python 封裝 OpenJTalk"
                 }
+            },
+            "https://github.com/rabbit19981023/yomigana-ebook": {
+                "sub_category": null,
+                "repository_name": "yomigana-ebook",
+                "user_name": "rabbit19981023",
+                "description": "Make learning Japanese easier by adding readings for every kanji in the eBook",
+                "multilingual_descriptions": {
+                    "en": "Make learning Japanese easier by adding readings for every kanji in the eBook",
+                    "ja": "電子書籍に漢字の読み方を追加することで、日本語の学習をより簡単にすることができます。",
+                    "zh-hans": "通过在电子书中为每个汉字添加读音，使学习日语更容易。",
+                    "zh-hant": "在電子書中為每個漢字添加讀音，讓學習日語更容易。"
+                }
             }
         },
         "C++": {
