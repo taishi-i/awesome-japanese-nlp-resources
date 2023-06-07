@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 469 Japanese NLP repositories.
+This list includes 471 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -22,10 +22,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Python**
- * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - Make learning Japanese easier by adding readings for every kanji in the eBook
+**Converter**
+ * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - Open source address normalization library.
 
-_Updated on Jun 04, 2023_
+**Corpus**
+ * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - Open data of address data at the town and block level nationwide (277,191 entries).
+
+_Updated on Jun 07, 2023_
 
 🏅 [rabbit19981023](https://github.com/rabbit19981023) provided some repository information. Thank you!
 
@@ -691,6 +694,7 @@ Resources
  * [WanaKana](https://github.com/WaniKani/WanaKana) - A Javascript library that can detect and transliterate between Hiragana, Katakana, and Romaji.
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - Normalize and fix common issues with Romaji-based Japanese names.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
+ * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - Open source address normalization library.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -703,6 +707,7 @@ Resources
 |[WanaKana](https://github.com/WaniKani/WanaKana)|![npm](https://img.shields.io/npm/dw/wanakana)|![npm](https://img.shields.io/npm/dt/wanakana)|![GitHub Repo stars](https://img.shields.io/github/stars/WaniKani/WanaKana?style=social)|
 |[node-romaji-name](https://github.com/jeresig/node-romaji-name)|![npm](https://img.shields.io/npm/dw/romaji-name)|![npm](https://img.shields.io/npm/dt/romaji-name)|![GitHub Repo stars](https://img.shields.io/github/stars/jeresig/node-romaji-name?style=social)|
 |[kyujitai.js](https://github.com/hakatashi/kyujitai.js)|![npm](https://img.shields.io/npm/dw/kyujitai)|![npm](https://img.shields.io/npm/dt/kyujitai)|![GitHub Repo stars](https://img.shields.io/github/stars/hakatashi/kyujitai.js?style=social)|
+|[normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/normalize-japanese-addresses?style=social)|
 
 
 ### Others
@@ -1173,6 +1178,7 @@ Resources
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - This is a dataset that has been translated into Japanese from the databricks-dolly-15k.jsonl file used for training in databricks/dolly-v2-12b.
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD is an English-Japanese dataset for emotion-aware speech translation based on MELD.
  * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio (Medical Conference Audio) is a dataset of read-out minutes for advanced medical conferences sponsored by the Ministry of Health, Labour and Welfare.
+ * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - Open data of address data at the town and block level nationwide (277,191 entries).
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1257,6 +1263,7 @@ Resources
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
 |[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
+|[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 
 
 ## Tutorial

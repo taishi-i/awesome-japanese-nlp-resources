@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 469 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 471 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -20,10 +20,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Python**
- * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 在電子書中為每個漢字添加讀音，讓學習日語更容易。
+**Converter**
+ * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - 開源的地址規範化程式庫。
 
-_Updated on Jun 04, 2023_
+**Corpus**
+ * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全國的町丁目級別（277,191項）住址數據的開放數據
+
+_Updated on Jun 07, 2023_
 
 🏅 [rabbit19981023](https://github.com/rabbit19981023) provided some repository information. Thank you!
 
@@ -698,6 +701,7 @@ Resources
  * [WanaKana](https://github.com/WaniKani/WanaKana) - JavaScript 庫，用於檢測和轉寫平假名 <--> 片假名 <--> 羅馬字。
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 將基於羅馬字的日本名字進行標準化和修復常見問題。
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 製作日本古風文本的實用集合
+ * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - 開源的地址規範化程式庫。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -710,6 +714,7 @@ Resources
 |[WanaKana](https://github.com/WaniKani/WanaKana)|![npm](https://img.shields.io/npm/dw/wanakana)|![npm](https://img.shields.io/npm/dt/wanakana)|![GitHub Repo stars](https://img.shields.io/github/stars/WaniKani/WanaKana?style=social)|
 |[node-romaji-name](https://github.com/jeresig/node-romaji-name)|![npm](https://img.shields.io/npm/dw/romaji-name)|![npm](https://img.shields.io/npm/dt/romaji-name)|![GitHub Repo stars](https://img.shields.io/github/stars/jeresig/node-romaji-name?style=social)|
 |[kyujitai.js](https://github.com/hakatashi/kyujitai.js)|![npm](https://img.shields.io/npm/dw/kyujitai)|![npm](https://img.shields.io/npm/dt/kyujitai)|![GitHub Repo stars](https://img.shields.io/github/stars/hakatashi/kyujitai.js?style=social)|
+|[normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/normalize-japanese-addresses?style=social)|
 
 
 ### Others
@@ -1183,6 +1188,7 @@ Resources
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 這是將用於databricks/dolly-v2-12b的學習數據中使用的databricks-dolly-15k.jsonl翻譯成日語的數據集。
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELD是基於MELD的情感感知語音翻譯的英日數據集。
  * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio（醫學會議音頻）是厚生勞動省主辦的先進醫療會議議事錄的朗讀數據集。
+ * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全國的町丁目級別（277,191項）住址數據的開放數據
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1267,6 +1273,7 @@ Resources
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
 |[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
+|[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 
 
 ## Tutorial

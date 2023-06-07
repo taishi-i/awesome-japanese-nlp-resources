@@ -2768,6 +2768,18 @@
                     "zh-hant": "製作日本古風文本的實用集合"
                 }
             },
+            "https://github.com/geolonia/normalize-japanese-addresses": {
+                "sub_category": "Converter",
+                "repository_name": "normalize-japanese-addresses",
+                "user_name": "geolonia",
+                "description": "オープンソースの住所正規化ライブラリ。",
+                "multilingual_descriptions": {
+                    "en": "Open source address normalization library.",
+                    "ja": "オープンソースの住所正規化ライブラリ。",
+                    "zh-hans": "开源地址规范化库。",
+                    "zh-hant": "開源的地址規範化程式庫。"
+                }
+            },
             "https://github.com/bangumi-data/bangumi-data": {
                 "sub_category": null,
                 "repository_name": "bangumi-data",
@@ -5418,6 +5430,18 @@
                     "ja": "Mecon Audio（メディカル・カンファレンス・オーディオ）は、厚生労働省が主催する先進医療会議の議事録を読み上げるためのデータセットです。",
                     "zh-hans": "Mecon Audio（医疗会议音频）是厚生劳动省主办的先进医疗会议记录的朗读数据集。",
                     "zh-hant": "Mecon Audio（醫學會議音頻）是厚生勞動省主辦的先進醫療會議議事錄的朗讀數據集。"
+                }
+            },
+            "https://github.com/geolonia/japanese-addresses": {
+                "sub_category": null,
+                "repository_name": "japanese-addresses",
+                "user_name": "geolonia",
+                "description": "全国の町丁目レベル（277,191件）の住所データのオープンデータ",
+                "multilingual_descriptions": {
+                    "en": "Open data of address data at the town and block level nationwide (277,191 entries).",
+                    "ja": "全国の町丁目レベル（277,191件）の住所データのオープンデータ",
+                    "zh-hans": "全国镇街道级别（277,191条）的地址数据开放数据",
+                    "zh-hant": "全國的町丁目級別（277,191項）住址數據的開放數據"
                 }
             }
         },
