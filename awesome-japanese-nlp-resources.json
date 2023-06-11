@@ -374,6 +374,18 @@
                     "zh-hant": "將日文轉換為音素序列的腳本"
                 }
             },
+            "https://github.com/opencollector/jntajis-python": {
+                "sub_category": "Converter",
+                "repository_name": "jntajis-python",
+                "user_name": "opencollector",
+                "description": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's",
+                "multilingual_descriptions": {
+                    "en": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's corporate number (法人番号) system.",
+                    "ja": "日本国税庁の法人番号システムで定義されたスキームに基づく、高速な文字変換および転写ライブラリ。",
+                    "zh-hans": "一个快速的字符转换和音译库，基于日本国税局的法人番号系统定义的方案。",
+                    "zh-hant": "一個快速的字符轉換和音譯庫，基於日本國稅廳的法人番號系統定義的方案。"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -3685,6 +3697,18 @@
                     "zh-hans": "这个模型是通过对luke-japanese-base进行微调，使其可以用于命名实体识别（NER）。",
                     "zh-hant": "這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。"
                 }
+            },
+            "https://github.com/nknytk/albert-japanese-tinysegmenter": {
+                "sub_category": "Transformer based models",
+                "repository_name": "albert-japanese-tinysegmenter",
+                "user_name": "nknytk",
+                "description": "Pretrained models, codes and guidances to pretrain official ALBERT(https://github.com/google-research/albert) on Japanese Wikipedia Resources",
+                "multilingual_descriptions": {
+                    "en": "Pretrained models, codes and guidances to pretrain official ALBERT(https://github.com/google-research/albert) on Japanese Wikipedia Resources",
+                    "ja": "日本語のWikipediaリソースで公式ALBERT（https://github.com/google-research/albert）を事前学習するための事前学習済みモデル、コード、ガイダンスを提供します。",
+                    "zh-hans": "提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。",
+                    "zh-hant": "提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。"
+                }
             }
         },
         "ChatGPT": {
@@ -4168,6 +4192,18 @@
                     "ja": "外部の単語をMozcシステム辞書に変換する。",
                     "zh-hans": "将外部词汇转换为Mozc系统词典",
                     "zh-hant": "將外部單詞轉換為Mozc系統詞典"
+                }
+            },
+            "https://github.com/utubo/mh-dict-jp": {
+                "sub_category": null,
+                "repository_name": "mh-dict-jp",
+                "user_name": "utubo",
+                "description": "MonsterHunterのユーザー辞書を作りたい…",
+                "multilingual_descriptions": {
+                    "en": "I want to create a user dictionary for Monster Hunter...",
+                    "ja": "MonsterHunterのユーザー辞書を作りたい…",
+                    "zh-hans": "想要制作Monster Hunter的用户词典…",
+                    "zh-hant": "想要創建Monster Hunter的用戶詞典..."
                 }
             }
         },

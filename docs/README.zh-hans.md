@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 471 个日语 NLP 存储库。
+此列表包含 474 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -21,13 +21,16 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Converter**
- * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - 开源地址规范化库。
+**Transformer based models**
+ * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。
 
-**Corpus**
- * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全国镇街道级别（277,191条）的地址数据开放数据
+**Python - Converter**
+ * [jntajis-python](https://github.com/opencollector/jntajis-python) - 一个快速的字符转换和音译库，基于日本国税局的法人番号系统定义的方案。
 
-_Updated on Jun 07, 2023_
+**Dictionary**
+ * [mh-dict-jp](https://github.com/utubo/mh-dict-jp) - 想要制作Monster Hunter的用户词典…
+
+_Updated on Jun 11, 2023_
 
 🏅 [rabbit19981023](https://github.com/rabbit19981023) provided some repository information. Thank you!
 
@@ -154,6 +157,7 @@ _Updated on Jun 07, 2023_
  * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - Python的Mozc：假名汉字转换器
  * [jamorasep](https://github.com/tachi-hi/jamorasep) - 日语文本解析器，将平假名/片假名字符串分离成音节（拼音）。
  * [text2phoneme](https://github.com/korguchi/text2phoneme) - 将日语文本转换为音素序列的脚本
+ * [jntajis-python](https://github.com/opencollector/jntajis-python) - 一个快速的字符转换和音译库，基于日本国税局的法人番号系统定义的方案。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -165,6 +169,7 @@ _Updated on Jun 07, 2023_
 |[mozcpy](https://github.com/ikegami-yukino/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy/week)](https://pepy.tech/project/mozcpy)|[![Downloads](https://pepy.tech/badge/mozcpy)](https://pepy.tech/project/mozcpy)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mozcpy?style=social)|
 |[jamorasep](https://github.com/tachi-hi/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep/week)](https://pepy.tech/project/jamorasep)|[![Downloads](https://pepy.tech/badge/jamorasep)](https://pepy.tech/project/jamorasep)|![GitHub Repo stars](https://img.shields.io/github/stars/tachi-hi/jamorasep?style=social)|
 |[text2phoneme](https://github.com/korguchi/text2phoneme)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/korguchi/text2phoneme?style=social)|
+|[jntajis-python](https://github.com/opencollector/jntajis-python)|[![Downloads](https://pepy.tech/badge/jntajis-python/week)](https://pepy.tech/project/jntajis-python)|[![Downloads](https://pepy.tech/badge/jntajis-python)](https://pepy.tech/project/jntajis-python)|![GitHub Repo stars](https://img.shields.io/github/stars/opencollector/jntajis-python?style=social)|
 
 
 ### Preprocessor
@@ -886,6 +891,7 @@ Resources
  * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - 这是由rinna有限公司训练的日本HuBERT（Transformer中的隐藏单元双向编码器表示）模型。
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司开发的一套仅解码的语言模型，预先在日本数据集上进行了训练。
  * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 这个模型是通过对luke-japanese-base进行微调，使其可以用于命名实体识别（NER）。
+ * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -929,6 +935,7 @@ Resources
 |[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 |[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
+|[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
 
 
 ## ChatGPT
@@ -996,6 +1003,7 @@ Resources
  * [genshin-dict](https://github.com/kotofurumiya/genshin-dict) - 这是一个可在Windows/macOS上使用的原神词典。
  * [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) - JMdict和JMnedict的JSON格式
  * [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) - 将外部词汇转换为Mozc系统词典
+ * [mh-dict-jp](https://github.com/utubo/mh-dict-jp) - 想要制作Monster Hunter的用户词典…
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1025,6 +1033,7 @@ Resources
 |[genshin-dict](https://github.com/kotofurumiya/genshin-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kotofurumiya/genshin-dict?style=social)|
 |[jmdict-simplified](https://github.com/scriptin/jmdict-simplified)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/scriptin/jmdict-simplified?style=social)|
 |[mozcdict-ext](https://github.com/reasonset/mozcdict-ext)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reasonset/mozcdict-ext?style=social)|
+|[mh-dict-jp](https://github.com/utubo/mh-dict-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utubo/mh-dict-jp?style=social)|
 
 
 ## Corpus
