@@ -806,6 +806,18 @@
                     "zh-hant": "NDLOCR使用文字識別模組"
                 }
             },
+            "https://github.com/blueaxis/Poricom": {
+                "sub_category": "OCR",
+                "repository_name": "Poricom",
+                "user_name": "blueaxis",
+                "description": "Optical character recognition in manga images. Manga OCR desktop application",
+                "multilingual_descriptions": {
+                    "en": "Optical character recognition in manga images. Manga OCR desktop application",
+                    "ja": "漫画画像の光学文字認識。漫画OCRデスクトップアプリケーション。",
+                    "zh-hans": "输入：漫画图像的光学字符识别。漫画OCR桌面应用程序。",
+                    "zh-hant": "漫畫圖像的光學字符識別。漫畫OCR桌面應用程式。"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -5478,6 +5490,18 @@
                     "ja": "全国の町丁目レベル（277,191件）の住所データのオープンデータ",
                     "zh-hans": "全国镇街道级别（277,191条）的地址数据开放数据",
                     "zh-hant": "全國的町丁目級別（277,191項）住址數據的開放數據"
+                }
+            },
+            "https://github.com/myokoym/aozorasearch": {
+                "sub_category": null,
+                "repository_name": "aozorasearch",
+                "user_name": "myokoym",
+                "description": "The full-text search system for Aozora Bunko by Groonga. 青空文庫全文検索ライブラリ兼Webアプリ。",
+                "multilingual_descriptions": {
+                    "en": "The full-text search system for Aozora Bunko by Groonga. 青空文庫全文検索ライブラリ兼Webアプリ。",
+                    "ja": "グルンガによる青空文庫の全文検索システム。青空文庫全文検索ライブラリ兼Webアプリ。",
+                    "zh-hans": "Groonga为青空文库提供的全文搜索系统。",
+                    "zh-hant": "Groonga的青空文庫全文檢索系統。青空文庫全文檢索庫兼Web應用程式。"
                 }
             }
         },
