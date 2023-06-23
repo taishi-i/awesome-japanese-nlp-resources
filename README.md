@@ -307,6 +307,7 @@ _Updated on Jun 19, 2023_
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [language-pretraining](https://github.com/retarfi/language-pretraining) - Pre-training Language Models for Japanese
+ * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Japanese Tokenizer for transformers library
 
 
 |Name|downloads/week|total downloads|stars|
@@ -328,6 +329,7 @@ _Updated on Jun 19, 2023_
 |[prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/prefix-tuning-gpt?style=social)|
 |[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 |[language-pretraining](https://github.com/retarfi/language-pretraining)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/language-pretraining?style=social)|
+|[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
 
 
 ### Others
