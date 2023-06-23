@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 476 个日语 NLP 存储库。
+此列表包含 477 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -21,13 +21,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Python - OCR**
- * [Poricom](https://github.com/blueaxis/Poricom) - 输入：漫画图像的光学字符识别。漫画OCR桌面应用程序。
+**Python - Tool for pretrained models**
+ * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Transformers库的日语分词器
 
-**Corpus**
- * [aozorasearch](https://github.com/myokoym/aozorasearch) - Groonga为青空文库提供的全文搜索系统。
-
-_Updated on Jun 19, 2023_
+_Updated on Jun 23, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -305,6 +302,7 @@ _Updated on Jun 19, 2023_
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - 一个用于nagisa的BERT模型
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 用于前缀调整GPT/GPT-NeoX模型的示例代码以及使用训练好的前缀进行推理的代码。
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUE的训练和评估脚本，是一个日语理解基准测试。
+ * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Transformers库的日语分词器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -325,6 +323,8 @@ _Updated on Jun 19, 2023_
 |[nagisa_bert](https://github.com/taishi-i/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert/week)](https://pepy.tech/project/nagisa_bert)|[![Downloads](https://pepy.tech/badge/nagisa_bert)](https://pepy.tech/project/nagisa_bert)|![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/nagisa_bert?style=social)|
 |[prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rinnakk/prefix-tuning-gpt?style=social)|
 |[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
+|[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
+
 
 ### Others
 

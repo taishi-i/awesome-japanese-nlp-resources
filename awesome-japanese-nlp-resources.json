@@ -1010,6 +1010,18 @@
                     "zh-hant": "JGLUE的訓練和評估腳本，這是一個日語理解基準測試。"
                 }
             },
+            "https://github.com/retarfi/jptranstokenizer": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "jptranstokenizer",
+                "user_name": "retarfi",
+                "description": "Japanese Tokenizer for transformers library",
+                "multilingual_descriptions": {
+                    "en": "日本語のトークナイザー（分かち書きツール）をTransformersライブラリ用に作成しました。",
+                    "ja": "トランスフォーマーライブラリの日本語トークナイザー",
+                    "zh-hans": "Transformers库的日语分词器",
+                    "zh-hant": "Transformers 库的日语分词器"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
