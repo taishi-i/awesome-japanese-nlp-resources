@@ -3915,6 +3915,18 @@
                     "zh-hans": "快速构建基于人工智能的对话化头像",
                     "zh-hant": "快速建立基於人工智慧的對話化頭像"
                 }
+            },
+            "https://github.com/City-of-Kobe/pva-aoai-integration-solution": {
+                "sub_category": null,
+                "repository_name": "pva-aoai-integration-solution",
+                "user_name": "City-of-Kobe",
+                "description": "このリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。",
+                "multilingual_descriptions": {
+                    "en": "This repository is intended to package and release the flows and other solutions created for the trial use of ChatGPT at Kobe City Hall.",
+                    "ja": "このリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。",
+                    "zh-hans": "这个存储库是为了将在神户市政府试用ChatGPT的流程等转化为解决方案并公开而创建的。",
+                    "zh-hant": "這個存儲庫是為了將在神戶市政府進行的ChatGPT試行使用所創建的流程等進行解決方案化並公開。"
+                }
             }
         },
         "Dictionary": {
