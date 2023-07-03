@@ -1022,6 +1022,18 @@
                     "zh-hant": "Transformers 库的日语分词器"
                 }
             },
+            "https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "jp-stable",
+                "user_name": "tree",
+                "description": "JP Language Model Evaluation Harness",
+                "multilingual_descriptions": {
+                    "en": "JP Language Model Evaluation Harness",
+                    "ja": "入力：JP言語モデル評価ハーネス\n出力：",
+                    "zh-hans": "输入：JP语言模型评估工具\n输出：",
+                    "zh-hant": "JP 語言模型評估工具"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
