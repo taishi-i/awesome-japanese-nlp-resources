@@ -3939,6 +3939,18 @@
                     "zh-hans": "这个存储库是为了将在神户市政府试用ChatGPT的流程等转化为解决方案并公开而创建的。",
                     "zh-hant": "這個存儲庫是為了將在神戶市政府進行的ChatGPT試行使用所創建的流程等進行解決方案化並公開。"
                 }
+            },
+            "https://github.com/azure-samples/jp-azureopenai-samples": {
+                "sub_category": null,
+                "repository_name": "jp-azureopenai-samples",
+                "user_name": "azure-samples",
+                "description": "Azure OpenAIを活用したアプリケーション実装のリファレンスを目的として、アプリのサンプル（リファレンスアーキテクチャ、サンプルコードとデプロイ手順）を無償提供しています。",
+                "multilingual_descriptions": {
+                    "en": "We provide free samples of applications (reference architecture, sample code, and deployment instructions) for the purpose of implementing applications using Azure OpenAI.",
+                    "ja": "Azure OpenAIを活用したアプリケーション実装のリファレンスを目的として、アプリのサンプル（リファレンスアーキテクチャ、サンプルコードとデプロイ手順）を無償提供しています。",
+                    "zh-hans": "为了提供使用Azure OpenAI实现应用程序的参考，我们免费提供应用程序示例（参考架构、示例代码和部署步骤）。",
+                    "zh-hant": "為了提供使用Azure OpenAI進行應用程式實作的參考，我們免費提供應用程式的範例（參考架構、範例程式碼和部署步驟）。"
+                }
             }
         },
         "Dictionary": {
