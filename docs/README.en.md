@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 480 Japanese NLP repositories.
+This list includes 481 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -22,10 +22,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - We provide free samples of applications (reference architecture, sample code, and deployment instructions) for the purpose of implementing applications using Azure OpenAI.
+**Python**
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023
 
-_Updated on Jul 10, 2023_
+_Updated on Jul 18, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -305,6 +305,7 @@ _Updated on Jul 10, 2023_
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - 日本語のトークナイザー（分かち書きツール）をTransformersライブラリ用に作成しました。
  * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP Language Model Evaluation Harness
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023
 
 
 |Name|downloads/week|total downloads|stars|
@@ -327,6 +328,7 @@ _Updated on Jul 10, 2023_
 |[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 |[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
 |[jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/lm-evaluation-harness?style=social)|
+|[compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hitachi-nlp/compare-ja-tokenizer?style=social)|
 
 
 ### Others

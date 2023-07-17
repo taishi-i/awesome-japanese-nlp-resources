@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 480 个日语 NLP 存储库。
+此列表包含 481 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -21,10 +21,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 为了提供使用Azure OpenAI实现应用程序的参考，我们免费提供应用程序示例（参考架构、示例代码和部署步骤）。
+**Python**
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023
 
-_Updated on Jul 10, 2023_
+_Updated on Jul 18, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -305,6 +305,7 @@ _Updated on Jul 10, 2023_
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Transformers库的日语分词器
  * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - 输入：JP语言模型评估工具
 输出：
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023
 
 
 |Name|downloads/week|total downloads|stars|
@@ -327,6 +328,7 @@ _Updated on Jul 10, 2023_
 |[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 |[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
 |[jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/lm-evaluation-harness?style=social)|
+|[compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hitachi-nlp/compare-ja-tokenizer?style=social)|
 
 
 ### Others

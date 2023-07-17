@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、480件の日本語NLPリポジトリが含まれています。
+このリストには、481件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -22,10 +22,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - Azure OpenAIを活用したアプリケーション実装のリファレンスを目的として、アプリのサンプル（リファレンスアーキテクチャ、サンプルコードとデプロイ手順）を無償提供しています。
+**Python**
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 入力：異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023
 
-_Updated on Jul 10, 2023_
+_Updated on Jul 18, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -306,6 +306,7 @@ _Updated on Jul 10, 2023_
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - トランスフォーマーライブラリの日本語トークナイザー
  * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - 入力：JP言語モデル評価ハーネス
 出力：
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 入力：異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023
 
 
 |Name|downloads/week|total downloads|stars|
@@ -328,6 +329,7 @@ _Updated on Jul 10, 2023_
 |[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 |[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
 |[jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/lm-evaluation-harness?style=social)|
+|[compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hitachi-nlp/compare-ja-tokenizer?style=social)|
 
 
 ### Others

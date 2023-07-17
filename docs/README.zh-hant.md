@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 480 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 481 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -20,10 +20,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 為了提供使用Azure OpenAI進行應用程式實作的參考，我們免費提供應用程式的範例（參考架構、範例程式碼和部署步驟）。
+**Python**
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023
 
-_Updated on Jul 10, 2023_
+_Updated on Jul 18, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -304,6 +304,7 @@ _Updated on Jul 10, 2023_
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUE的訓練和評估腳本，這是一個日語理解基準測試。
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Transformers 库的日语分词器
  * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP 語言模型評估工具
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023
 
 
 |Name|downloads/week|total downloads|stars|
@@ -326,6 +327,7 @@ _Updated on Jul 10, 2023_
 |[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
 |[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
 |[jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/lm-evaluation-harness?style=social)|
+|[compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hitachi-nlp/compare-ja-tokenizer?style=social)|
 
 
 ### Others

@@ -1034,6 +1034,18 @@
                     "zh-hant": "JP 語言模型評估工具"
                 }
             },
+            "https://github.com/hitachi-nlp/compare-ja-tokenizer": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "compare-ja-tokenizer",
+                "user_name": "hitachi-nlp",
+                "description": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese-ACL SRW 2023",
+                "multilingual_descriptions": {
+                    "en": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023",
+                    "ja": "入力：異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023",
+                    "zh-hans": "不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023",
+                    "zh-hant": "不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
