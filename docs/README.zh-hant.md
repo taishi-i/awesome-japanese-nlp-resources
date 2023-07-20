@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 481 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 482 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -22,8 +22,10 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 **Python**
  * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 輸入：lightblue/japanese-mpt-7b
+輸出：
 
-_Updated on Jul 18, 2023_
+_Updated on Jul 21, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -895,6 +897,8 @@ Resources
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。
  * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 輸入：lightblue/japanese-mpt-7b
+輸出：
 
 
 |Name|downloads/week|total downloads|stars|
@@ -939,6 +943,7 @@ Resources
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 |[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 |[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
+|[japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b)|-|-|-|
 
 
 ## ChatGPT

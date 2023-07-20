@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、481件の日本語NLPリポジトリが含まれています。
+このリストには、482件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -24,8 +24,9 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 **Python**
  * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 入力：異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 薄い青/日本語-MPT-7b
 
-_Updated on Jul 18, 2023_
+_Updated on Jul 21, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -887,6 +888,7 @@ Resources
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALMは、サイバーエージェント株式会社が開発した、日本語のデータセットで事前学習されたデコーダー専用の言語モデルのスイートです。
  * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 日本語のWikipediaリソースで公式ALBERT（https://github.com/google-research/albert）を事前学習するための事前学習済みモデル、コード、ガイダンスを提供します。
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 薄い青/日本語-MPT-7b
 
 
 |Name|downloads/week|total downloads|stars|
@@ -931,6 +933,7 @@ Resources
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 |[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 |[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
+|[japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b)|-|-|-|
 
 
 ## ChatGPT

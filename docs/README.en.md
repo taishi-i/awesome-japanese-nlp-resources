@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 481 Japanese NLP repositories.
+This list includes 482 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -24,8 +24,9 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 **Python**
  * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - light blue/japanese-mpt-7b
 
-_Updated on Jul 18, 2023_
+_Updated on Jul 21, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -886,6 +887,7 @@ Resources
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.
  * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - This model fine-tunes luke-japanese-base to be used for named entity recognition (NER).
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - Pretrained models, codes and guidances to pretrain official ALBERT(https://github.com/google-research/albert) on Japanese Wikipedia Resources
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - light blue/japanese-mpt-7b
 
 
 |Name|downloads/week|total downloads|stars|
@@ -930,6 +932,7 @@ Resources
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 |[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 |[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
+|[japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b)|-|-|-|
 
 
 ## ChatGPT

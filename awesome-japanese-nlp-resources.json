@@ -3757,6 +3757,18 @@
                     "zh-hans": "提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。",
                     "zh-hant": "提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。"
                 }
+            },
+            "https://huggingface.co/lightblue/japanese-mpt-7b": {
+                "sub_category": "Transformer based models",
+                "repository_name": "japanese-mpt-7b",
+                "user_name": "lightblue",
+                "description": "lightblue/japanese-mpt-7b",
+                "multilingual_descriptions": {
+                    "en": "light blue/japanese-mpt-7b",
+                    "ja": "薄い青/日本語-MPT-7b",
+                    "zh-hans": "浅蓝色/日本-7b",
+                    "zh-hant": "輸入：lightblue/japanese-mpt-7b\n輸出："
+                }
             }
         },
         "ChatGPT": {
