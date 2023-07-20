@@ -886,6 +886,7 @@ Resources
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.
  * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - Pretrained models, codes and guidances to pretrain official ALBERT(https://github.com/google-research/albert) on Japanese Wikipedia Resources
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - lightblue/japanese-mpt-7b
 
 
 |Name|downloads/week|total downloads|stars|
@@ -930,6 +931,7 @@ Resources
 |[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
 |[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 |[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
+|[japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b)|-|-|-|
 
 
 ## ChatGPT
