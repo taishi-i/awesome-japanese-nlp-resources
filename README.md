@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 482 Japanese NLP repositories.
+This list includes 484 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -23,10 +23,12 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 ## The latest additions 🎉
 
 **Python**
- * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023
- * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - lightblue/japanese-mpt-7b
+ * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator
 
-_Updated on Jul 21, 2023_
+**C++**
+ * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ SKK-like Japanese Input Method Editor for Windows
+
+_Updated on Jul 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)

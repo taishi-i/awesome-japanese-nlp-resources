@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 482 个日语 NLP 存储库。
+此列表包含 484 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -22,10 +22,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 ## The latest additions 🎉
 
 **Python**
- * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023
- * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 浅蓝色/日本-7b
+ * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 输入：基于耳语的日文字幕生成器
+输出：
 
-_Updated on Jul 21, 2023_
+**C++**
+ * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - 输入：▽▼ 适用于Windows的类似SKK的日语输入法编辑器
+
+_Updated on Jul 24, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -441,6 +444,8 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 日本本地化
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python封装OpenJTalk
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 通过在电子书中为每个汉字添加读音，使学习日语更容易。
+ * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 输入：基于耳语的日文字幕生成器
+输出：
 
 
 |Name|downloads/week|total downloads|stars|
@@ -548,6 +553,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization?style=social)|
 |[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
+|[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
 
 
 ## C++
@@ -583,6 +589,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [mozc](https://github.com/google/mozc) - Mozc - 一款为多平台设计的日语输入法编辑器
  * [trimatch](https://github.com/tuem/trimatch) - Trimatch：一个（精确|前缀|近似）字符串匹配库
  * [resembla](https://github.com/tuem/resembla) - Resembla：基于单词的日语相似句子搜索库
+ * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - 输入：▽▼ 适用于Windows的类似SKK的日语输入法编辑器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -592,6 +599,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[mozc](https://github.com/google/mozc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/google/mozc?style=social)|
 |[trimatch](https://github.com/tuem/trimatch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tuem/trimatch?style=social)|
 |[resembla](https://github.com/tuem/resembla)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tuem/resembla?style=social)|
+|[corvusskk](https://github.com/nathancorvussolis/corvusskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nathancorvussolis/corvusskk?style=social)|
 
 
 ## Rust crate

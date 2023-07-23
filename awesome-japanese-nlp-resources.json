@@ -2269,6 +2269,18 @@
                     "zh-hans": "通过在电子书中为每个汉字添加读音，使学习日语更容易。",
                     "zh-hant": "在電子書中為每個漢字添加讀音，讓學習日語更容易。"
                 }
+            },
+            "https://github.com/Ayanaminn/N46Whisper": {
+                "sub_category": null,
+                "repository_name": "N46Whisper",
+                "user_name": "Ayanaminn",
+                "description": "Whisper based Japanese subtitle generator",
+                "multilingual_descriptions": {
+                    "en": "Whisper based Japanese subtitle generator",
+                    "ja": "入力：ささやきベースの日本語字幕生成ツール\n出力：",
+                    "zh-hans": "输入：基于耳语的日文字幕生成器\n输出：",
+                    "zh-hant": "基於耳語的日文字幕生成器"
+                }
             }
         },
         "C++": {
@@ -2390,6 +2402,18 @@
                     "ja": "Resembla：単語ベースの日本語類似文検索ライブラリ",
                     "zh-hans": "Resembla：基于单词的日语相似句子搜索库",
                     "zh-hant": "Resembla：基於單詞的日語相似句子搜索庫"
+                }
+            },
+            "https://github.com/nathancorvussolis/corvusskk": {
+                "sub_category": null,
+                "repository_name": "corvusskk",
+                "user_name": "nathancorvussolis",
+                "description": "▽▼ SKK-like Japanese Input Method Editor for Windows",
+                "multilingual_descriptions": {
+                    "en": "▽▼ SKK-like Japanese Input Method Editor for Windows",
+                    "ja": "入力：▽▼ Windows用のSKK風日本語入力エディタ",
+                    "zh-hans": "输入：▽▼ 适用于Windows的类似SKK的日语输入法编辑器",
+                    "zh-hant": "輸入：▽▼ Windows 的 SKK-like 日文輸入法編輯器"
                 }
             }
         },
