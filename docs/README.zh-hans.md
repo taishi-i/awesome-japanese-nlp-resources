@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 484 个日语 NLP 存储库。
+此列表包含 486 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -21,14 +21,13 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Python**
- * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 输入：基于耳语的日文字幕生成器
-输出：
+**Corpus**
+ * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - 该存储库包含用于重现LLM-jp语料库的脚本。
 
-**C++**
- * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - 输入：▽▼ 适用于Windows的类似SKK的日语输入法编辑器
+**Research summary**
+ * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 开源的日语LLM总结
 
-_Updated on Jul 24, 2023_
+_Updated on Jul 25, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -1214,6 +1213,7 @@ COMET-ATOMIC ja
  * [meconaudio](https://github.com/elith-co-jp/meconaudio) - Mecon Audio（医疗会议音频）是厚生劳动省主办的先进医疗会议记录的朗读数据集。
  * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全国镇街道级别（277,191条）的地址数据开放数据
  * [aozorasearch](https://github.com/myokoym/aozorasearch) - Groonga为青空文库提供的全文搜索系统。
+ * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - 该存储库包含用于重现LLM-jp语料库的脚本。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1300,6 +1300,7 @@ COMET-ATOMIC ja
 |[meconaudio](https://github.com/elith-co-jp/meconaudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elith-co-jp/meconaudio?style=social)|
 |[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 |[aozorasearch](https://github.com/myokoym/aozorasearch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/myokoym/aozorasearch?style=social)|
+|[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
 
 
 ## Tutorial
@@ -1345,6 +1346,7 @@ COMET-ATOMIC ja
  * [dataset-list](https://github.com/ikegami-yukino/dataset-list) - 文本语料库列表和更多（主要是日语）
  * [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) - 深度学习模型性能最大化的系统指南
  * [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) - 尝试将日语音标，特别是声调资源整合成一个列表。
+ * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 开源的日语LLM总结
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1354,6 +1356,7 @@ COMET-ATOMIC ja
 |[dataset-list](https://github.com/ikegami-yukino/dataset-list)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/dataset-list?style=social)|
 |[tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Valkyrja3607/tuning_playbook_ja?style=social)|
 |[japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/olety/japanese-pitch-accent-resources?style=social)|
+|[awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/awesome-japanese-llm?style=social)|
 
 
 ## Reference

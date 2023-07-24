@@ -5599,6 +5599,18 @@
                     "zh-hans": "Groonga为青空文库提供的全文搜索系统。",
                     "zh-hant": "Groonga的青空文庫全文檢索系統。青空文庫全文檢索庫兼Web應用程式。"
                 }
+            },
+            "https://github.com/llm-jp/llm-jp-corpus": {
+                "sub_category": null,
+                "repository_name": "llm-jp-corpus",
+                "user_name": "llm-jp",
+                "description": "This repository contains scripts to reproduce the LLM-jp corpus.",
+                "multilingual_descriptions": {
+                    "en": "This repository contains scripts to reproduce the LLM-jp corpus.",
+                    "ja": "このリポジトリには、LLM-jpコーパスを再現するためのスクリプトが含まれています。",
+                    "zh-hans": "该存储库包含用于重现LLM-jp语料库的脚本。",
+                    "zh-hant": "此存儲庫包含重現LLM-jp語料庫的腳本。"
+                }
             }
         },
         "Tutorial": {
@@ -5818,6 +5830,18 @@
                     "ja": "日本語の音声、特にアクセントに関するリソースを一つのリストにまとめようとしています。",
                     "zh-hans": "尝试将日语音标，特别是声调资源整合成一个列表。",
                     "zh-hant": "嘗試將日語音韻，特別是音高重音資源整合成一個清單。"
+                }
+            },
+            "https://github.com/llm-jp/awesome-japanese-llm": {
+                "sub_category": null,
+                "repository_name": "awesome-japanese-llm",
+                "user_name": "llm-jp",
+                "description": "オープンソースの日本語LLMまとめ",
+                "multilingual_descriptions": {
+                    "en": "Summary of Japanese LLM (Open Source)",
+                    "ja": "オープンソースの日本語LLMまとめ",
+                    "zh-hans": "开源的日语LLM总结",
+                    "zh-hant": "開源的日本語LLM總結"
                 }
             }
         }
