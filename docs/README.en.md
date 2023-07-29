@@ -28,7 +28,7 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 **Research summary**
  * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - Summary of Japanese LLM (Open Source)
 
-_Updated on Jul 25, 2023_
+_Updated on Jul 29, 2023_
 
 ## Contents
  * [Python library](#Python-library)

@@ -27,7 +27,7 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 **Research summary**
  * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 开源的日语LLM总结
 
-_Updated on Jul 25, 2023_
+_Updated on Jul 29, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -84,7 +84,7 @@ _Updated on Jul 25, 2023_
 
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6及以上版本已经开发为Sudachi.rs。
  * [Janome](https://github.com/mocobeta/janome) - 用纯Python编写的日语形态分析引擎
- * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - 输入：mecab-python。mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。
+ * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - mecab-python。mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。
  * [mecab](https://github.com/ikegami-yukino/mecab) - 这个仓库用于构建Windows 64位MeCab二进制文件并改进MeCab Python绑定。
  * [fugashi](https://github.com/polm/fugashi) - 一个Cython MeCab包装器，用于快速、Pythonic的日语分词和形态分析。
  * [nagisa](https://github.com/taishi-i/nagisa) - 基于循环神经网络的日语分词器
@@ -270,7 +270,7 @@ _Updated on Jul 25, 2023_
  * [JMTrans](https://github.com/ttop32/JMTrans) - 漫画翻译器 - 从网址获取日本漫画以翻译漫画图像
  * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - 用于识别现代日本杂志的OCR系统
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR文本识别模块
- * [Poricom](https://github.com/blueaxis/Poricom) - 输入：漫画图像的光学字符识别。漫画OCR桌面应用程序。
+ * [Poricom](https://github.com/blueaxis/Poricom) - 漫画图像的光学字符识别。漫画OCR桌面应用程序。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -306,8 +306,7 @@ _Updated on Jul 25, 2023_
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 用于前缀调整GPT/GPT-NeoX模型的示例代码以及使用训练好的前缀进行推理的代码。
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUE的训练和评估脚本，是一个日语理解基准测试。
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Transformers库的日语分词器
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - 输入：JP语言模型评估工具
-输出：
+ * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP语言模型评估工具
  * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023
 
 
@@ -386,8 +385,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [text-generation](https://github.com/discus0434/text-generation) - 易于使用的脚本，可通过您自己的文本对GPT-2-JA进行微调，生成句子并自动发布推文。
  * [chainer_nic](https://github.com/yuyay/chainer_nic) - 神经图像描述（NIC）在Chainer上的预训练模型，其英语和日语图像描述数据集的预训练模型。
  * [unihan-lm](https://github.com/JetRunner/unihan-lm) - “UnihanLM: 基于Unihan数据库的中日语言模型预训练的官方代码库”，AACL-IJCNLP 2020
- * [mbart-finetuning](https://github.com/ken11/mbart-finetuning) - 输入：用于微调mBART模型的代码。
-输出：
+ * [mbart-finetuning](https://github.com/ken11/mbart-finetuning) - 用于微调mBART模型的代码。
  * [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) - 在jtubespeech上的xvector模型
  * [TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker) - 用于创建TinySegmenter学习模型的工具。
  * [Grongish](https://github.com/shogo82148/Grongish) - 日语和格龙基语的相互转换脚本
@@ -412,8 +410,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [JaMIE](https://github.com/racerandom/JaMIE) - 一个日本医疗信息提取工具包
  * [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) - 这是有关fasttext和word2vec的比较，以及执行脚本和学习脚本。
  * [minimal-search-engine](https://github.com/GINK03/minimal-search-engine) - 最小的搜索引擎/PageRank/tf-idf
- * [5ch-analysis](https://github.com/GINK03/5ch-analysis) - 输入：通过网络爬虫获取5ch的历史记录，跟踪调查过去流行的词语（例如，香具师，orz）等。
-输出：
+ * [5ch-analysis](https://github.com/GINK03/5ch-analysis) - 通过网络爬虫获取5ch的历史记录，跟踪调查过去流行的词语（例如，香具师，orz）等。
  * [tweet_extructor](https://github.com/tatHi/tweet_extructor) - 用于Twitter日语评价分析数据集的推文下载器
  * [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) - 基于Juman++和ConceptNet5.5聚合日语单词。
  * [jinf](https://github.com/hkiyomaru/jinf) - 一个日语变形转换器
@@ -443,8 +440,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 日本本地化
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python封装OpenJTalk
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 通过在电子书中为每个汉字添加读音，使学习日语更容易。
- * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 输入：基于耳语的日文字幕生成器
-输出：
+ * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 基于耳语的日文字幕生成器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -588,7 +584,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [mozc](https://github.com/google/mozc) - Mozc - 一款为多平台设计的日语输入法编辑器
  * [trimatch](https://github.com/tuem/trimatch) - Trimatch：一个（精确|前缀|近似）字符串匹配库
  * [resembla](https://github.com/tuem/resembla) - Resembla：基于单词的日语相似句子搜索库
- * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - 输入：▽▼ 适用于Windows的类似SKK的日语输入法编辑器
+ * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ 适用于Windows的类似SKK的日语输入法编辑器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -704,9 +700,7 @@ Resources
 
 ### Converter
 
- * [kuroshiro](https://github.com/hexenq/kuroshiro) - 输入：日语语言库，可将日语句子转换为平假名、片假名或罗马字，并支持振假名和送假名模式。
-
-输出：
+ * [kuroshiro](https://github.com/hexenq/kuroshiro) - 日语语言库，可将日语句子转换为平假名、片假名或罗马字，并支持振假名和送假名模式。
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuroshiro 的 Kuromoji 形态分析器。
  * [hepburn](https://github.com/lovell/hepburn) - 使用Hepburn罗马化将日语平假名和片假名转换为罗马字的Node.js模块。
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 将日语数字转换为阿拉伯数字
@@ -876,8 +870,7 @@ Resources
  * [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) - 日语BERT预训练模型
  * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - 用于日语的aMLP Transformer模型
  * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 使用UniDic和SudachiPy进行预分词的日语BERT，训练数据来自青空文库和维基百科。
- * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 输入：用于 Hugging Face 模型中心训练 Sentence BERT 日语模型的代码
-输出：
+ * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 用于 Hugging Face 模型中心训练 Sentence BERT 日语模型的代码
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - “日本推文情感分析与疫苗接种比较”的官方微调代码。
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本GPT2生成模型
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基于GPT-2的文本转换模型
@@ -893,8 +886,7 @@ Resources
  * [japanese-clip](https://github.com/rinnakk/japanese-clip) - 日本CLIP由rinna有限公司制造。
  * [AcademicBART](https://github.com/EhimeNLP/AcademicBART) - 我们在学术数据库CiNii Articles的论文摘要上预训练了一个基于BART的日语掩码语言模型。
  * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 我们在学术数据库CiNii Articles的论文摘要上预训练了一个基于RoBERTa的日语掩码语言模型。
- * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 输入：DistilBERT模型在131GB的日语网络文本上进行了预训练。教师模型是LINE内部构建的BERT-base模型。
-输出：
+ * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - DistilBERT模型在131GB的日语网络文本上进行了预训练。教师模型是LINE内部构建的BERT-base模型。
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 使用翻译成日语的Stanford Alpaca数据集对LLaMA进行微调，创建了Low-Rank Adapter，并提供了链接和生成示例代码。
  * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - 该存储库提供了一个36亿参数的日语GPT-NeoX模型。该模型是使用基于EleutherAI/gpt-neox的代码进行训练的。
  * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 该存储库提供了一个参数为36亿的日语GPT-NeoX模型。该模型基于rinna/japanese-gpt-neox-3.6b，并进行了微调，以用作指令跟随的对话代理。
@@ -1011,7 +1003,7 @@ Resources
  * [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) - 这是GoogleIME用的日语片假名词典项目的存档，从片假名词（即日语外来词）翻译成英语。
  * [emoticon](https://github.com/tiwanari/emoticon) - Google日本语输入的表情符号字典∩(,,Ò‿Ó,,)∩
  * [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) - 这是将开源mozc词典转换为MeCab词典格式的结果。
- * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - 输入：电音IME：用于Microsoft IME等的“电音部”相关术语词典。
+ * [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) - 电音IME：用于Microsoft IME等的“电音部”相关术语词典。
  * [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) - 这是一个“虹三”相关术语词典，旨在供Microsoft IME等使用。
  * [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) - 这是一个包含目前已知的所有宝可梦名称的术语词典，旨在供Microsoft IME等输入法使用。
  * [EJDict](https://github.com/kujirahand/EJDict) - 英日词典数据（公共领域）EJDict-hand
@@ -1114,7 +1106,7 @@ Resources
  * [asdc](https://github.com/megagonlabs/asdc) - 住宿搜索对话语料库
  * [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) - 用于seq2seq等的日语对话数据
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 这个仓库包含了日英双语聊天语料库BPersona-chat，该语料库已发表在AACL-IJCNLP 2022的Eval4NLP 2022研讨会上的论文《聊天翻译错误检测以协助跨语言交流》中。
- * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 输入：日本日常对话语料库，或日本语日常対話コーパス，是一个高质量的多轮对话数据集，包含五个主题的日常对话：日常生活，学校，旅行，健康和娱乐。
+ * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本日常对话语料库，或日本语日常対話コーパス，是一个高质量的多轮对话数据集，包含五个主题的日常对话：日常生活，学校，旅行，健康和娱乐。
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM构建用的日语聊天数据集
 
 |Name|downloads/week|total downloads|stars|
@@ -1152,7 +1144,7 @@ Resources
  * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 收集日语中不适当的表达方式。可用于自然语言处理时的数据清理等。
  * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 我们整理了参议院官方网站上的会派、议员、议案和质询意见书的数据。
  * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 国会议案数据库：众议院
- * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - 输入：STAIR字幕：大规模日本图像字幕数据集
+ * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIR字幕：大规模日本图像字幕数据集
  * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - Winograd模式挑战的日语翻译
  * [speechBSD](https://github.com/ku-nlp/speechBSD) - 一个带有音频和说话人属性信息的BSD语料库扩展
  * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITA语料库的文章列表

@@ -28,7 +28,7 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 **Research summary**
  * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - オープンソースの日本語LLMまとめ
 
-_Updated on Jul 25, 2023_
+_Updated on Jul 29, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -307,9 +307,8 @@ _Updated on Jul 25, 2023_
  * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - トレーニング済みのプレフィックスを使用したGPT/GPT-NeoXモデルのプレフィックスチューニングの例コードと推論のためのコード。
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUEのトレーニングと評価スクリプト、日本語理解ベンチマーク用
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - トランスフォーマーライブラリの日本語トークナイザー
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - 入力：JP言語モデル評価ハーネス
-出力：
- * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 入力：異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023
+ * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP言語モデル評価ハーネス
+ * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023
 
 
 |Name|downloads/week|total downloads|stars|
@@ -440,8 +439,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 日本語ローカライゼーション
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - OpenJTalkのPythonラッパー
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 電子書籍に漢字の読み方を追加することで、日本語の学習をより簡単にすることができます。
- * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 入力：ささやきベースの日本語字幕生成ツール
-出力：
+ * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - ささやきベースの日本語字幕生成ツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -585,7 +583,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [mozc](https://github.com/google/mozc) - Mozc - マルチプラットフォームに対応した日本語入力システムエディター
  * [trimatch](https://github.com/tuem/trimatch) - Trimatch：（完全|接頭辞|近似）文字列マッチングライブラリ
  * [resembla](https://github.com/tuem/resembla) - Resembla：単語ベースの日本語類似文検索ライブラリ
- * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - 入力：▽▼ Windows用のSKK風日本語入力エディタ
+ * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ Windows用のSKK風日本語入力エディタ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -887,7 +885,7 @@ Resources
  * [japanese-clip](https://github.com/rinnakk/japanese-clip) - 株式会社りんなの日本語クリップ。
  * [AcademicBART](https://github.com/EhimeNLP/AcademicBART) - 私たちは、学術データベースCiNii Articlesの論文要約を用いて、BARTベースの日本語マスク言語モデルを事前学習しました。
  * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 私たちは、学術データベースCiNii Articlesの論文要約を用いて、RoBERTaベースの日本語マスク言語モデルを事前学習しました。
- * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 入力：131 GBの日本語ウェブテキストで事前学習されたDistilBERTモデル。教師モデルは、LINE内で構築されたBERT-baseです。
+ * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 131 GBの日本語ウェブテキストで事前学習されたDistilBERTモデル。教師モデルは、LINE内で構築されたBERT-baseです。
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
  * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。このモデルは、EleutherAI/gpt-neoxに基づくコードを使用してトレーニングされました。
  * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。モデルはrinna/japanese-gpt-neox-3.6bをベースにしており、指示に従う会話エージェントとして機能するように微調整されています。

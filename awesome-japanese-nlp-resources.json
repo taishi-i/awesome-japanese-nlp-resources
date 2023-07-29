@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "contents": {
         "Python library": {
             "https://github.com/WorksApplications/sudachi.rs": {
@@ -34,7 +34,7 @@
                 "multilingual_descriptions": {
                     "en": "mecab-python. mecab-python. you can find original version here:http://taku910.github.io/mecab/",
                     "ja": "mecab-pythonです。mecab-pythonです。オリジナルバージョンはこちらから見つけることができます：http://taku910.github.io/mecab/。",
-                    "zh-hans": "输入：mecab-python。mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。",
+                    "zh-hans": "mecab-python。mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。",
                     "zh-hant": "mecab-python。mecab-python。您可以在此處找到原始版本：http://taku910.github.io/mecab/。"
                 }
             },
@@ -814,7 +814,7 @@
                 "multilingual_descriptions": {
                     "en": "Optical character recognition in manga images. Manga OCR desktop application",
                     "ja": "漫画画像の光学文字認識。漫画OCRデスクトップアプリケーション。",
-                    "zh-hans": "输入：漫画图像的光学字符识别。漫画OCR桌面应用程序。",
+                    "zh-hans": "漫画图像的光学字符识别。漫画OCR桌面应用程序。",
                     "zh-hant": "漫畫圖像的光學字符識別。漫畫OCR桌面應用程式。"
                 }
             },
@@ -911,7 +911,7 @@
                     "en": "script to evaluate pre-trained Japanese word2vec model on Japanese similarity dataset",
                     "ja": "日本語の類似度データセットで事前学習された日本語word2vecモデルを評価するスクリプト",
                     "zh-hans": "用于评估预训练的日语word2vec模型在日语相似性数据集上的脚本",
-                    "zh-hant": "輸入：用於評估預先訓練的日語word2vec模型的日語相似性數據集腳本\n輸出："
+                    "zh-hant": "用於評估預先訓練的日語word2vec模型的日語相似性數據集腳本"
                 }
             },
             "https://github.com/jonnyli1125/gector-ja": {
@@ -995,7 +995,7 @@
                     "en": "Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes",
                     "ja": "トレーニング済みのプレフィックスを使用したGPT/GPT-NeoXモデルのプレフィックスチューニングの例コードと推論のためのコード。",
                     "zh-hans": "用于前缀调整GPT/GPT-NeoX模型的示例代码以及使用训练好的前缀进行推理的代码。",
-                    "zh-hant": "輸入：前綴調整 GPT/GPT-NeoX 模型的範例代碼以及使用訓練過的前綴進行推論的代碼。"
+                    "zh-hant": "前綴調整 GPT/GPT-NeoX 模型的範例代碼以及使用訓練過的前綴進行推論的代碼。"
                 }
             },
             "https://github.com/nobu-g/JGLUE-benchmark": {
@@ -1029,8 +1029,8 @@
                 "description": "JP Language Model Evaluation Harness",
                 "multilingual_descriptions": {
                     "en": "JP Language Model Evaluation Harness",
-                    "ja": "入力：JP言語モデル評価ハーネス\n出力：",
-                    "zh-hans": "输入：JP语言模型评估工具\n输出：",
+                    "ja": "JP言語モデル評価ハーネス",
+                    "zh-hans": "JP语言模型评估工具",
                     "zh-hant": "JP 語言模型評估工具"
                 }
             },
@@ -1041,7 +1041,7 @@
                 "description": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese-ACL SRW 2023",
                 "multilingual_descriptions": {
                     "en": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023",
-                    "ja": "入力：異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023",
+                    "ja": "異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023",
                     "zh-hans": "不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023",
                     "zh-hant": "不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023"
                 }
@@ -1223,7 +1223,7 @@
                     "en": "https://www.nlp.ecei.tohoku.ac.jp/projects/aio/",
                     "ja": "https://www.nlp.ecei.tohoku.ac.jp/projects/aio/ を入力してください。",
                     "zh-hans": "https://www.nlp.ecei.tohoku.ac.jp/projects/aio/ \n\nhttps://www.nlp.ecei.tohoku.ac.jp/projects/aio/",
-                    "zh-hant": "https://www.nlp.ecei.tohoku.ac.jp/projects/aio/ \n\n輸出：https://www.nlp.ecei.tohoku.ac.jp/projects/aio/"
+                    "zh-hant": "https://www.nlp.ecei.tohoku.ac.jp/projects/aio/ \n\nhttps://www.nlp.ecei.tohoku.ac.jp/projects/aio/"
                 }
             },
             "https://github.com/cl-tohoku/showcase": {
@@ -1618,7 +1618,7 @@
                 "multilingual_descriptions": {
                     "en": "Code to perform finetuning of the mBART model.",
                     "ja": "mBARTモデルのファインチューニングを実行するためのコード。",
-                    "zh-hans": "输入：用于微调mBART模型的代码。\n输出：",
+                    "zh-hans": "用于微调mBART模型的代码。",
                     "zh-hant": "執行 mBART 模型微調的程式碼。"
                 }
             },
@@ -1918,7 +1918,7 @@
                 "multilingual_descriptions": {
                     "en": "Scraping past logs from 5ch and conducting tracking investigations on words that were popular in the past (e.g. kagutsushi, orz).",
                     "ja": "5chの過去ログをスクレイピングして、過去流行った単語(ex, 香具師, orz)などを追跡調査",
-                    "zh-hans": "输入：通过网络爬虫获取5ch的历史记录，跟踪调查过去流行的词语（例如，香具师，orz）等。\n输出：",
+                    "zh-hans": "通过网络爬虫获取5ch的历史记录，跟踪调查过去流行的词语（例如，香具师，orz）等。",
                     "zh-hant": "利用網路爬蟲技術，對5ch的歷史紀錄進行擷取，追蹤調查過去流行的詞語（例如：香具師、orz等）。"
                 }
             },
@@ -2147,7 +2147,7 @@
                     "en": "Mecab + NEologd + Docker + Python3",
                     "ja": "Mecab + NEologd + Docker + Python3 の入力となります。",
                     "zh-hans": "Mecab + NEologd + Docker + Python3 的输出",
-                    "zh-hant": "Mecab + NEologd + Docker + Python3\n輸入：Mecab + NEologd + Docker + Python3\n輸出："
+                    "zh-hant": "Mecab + NEologd + Docker + Python3\nMecab + NEologd + Docker + Python3"
                 }
             },
             "https://github.com/oshizo/JapaneseEmbeddingEval": {
@@ -2277,8 +2277,8 @@
                 "description": "Whisper based Japanese subtitle generator",
                 "multilingual_descriptions": {
                     "en": "Whisper based Japanese subtitle generator",
-                    "ja": "入力：ささやきベースの日本語字幕生成ツール\n出力：",
-                    "zh-hans": "输入：基于耳语的日文字幕生成器\n输出：",
+                    "ja": "ささやきベースの日本語字幕生成ツール",
+                    "zh-hans": "基于耳语的日文字幕生成器",
                     "zh-hant": "基於耳語的日文字幕生成器"
                 }
             }
@@ -2411,9 +2411,9 @@
                 "description": "▽▼ SKK-like Japanese Input Method Editor for Windows",
                 "multilingual_descriptions": {
                     "en": "▽▼ SKK-like Japanese Input Method Editor for Windows",
-                    "ja": "入力：▽▼ Windows用のSKK風日本語入力エディタ",
-                    "zh-hans": "输入：▽▼ 适用于Windows的类似SKK的日语输入法编辑器",
-                    "zh-hant": "輸入：▽▼ Windows 的 SKK-like 日文輸入法編輯器"
+                    "ja": "▽▼ Windows用のSKK風日本語入力エディタ",
+                    "zh-hans": "▽▼ 适用于Windows的类似SKK的日语输入法编辑器",
+                    "zh-hant": "▽▼ Windows 的 SKK-like 日文輸入法編輯器"
                 }
             }
         },
@@ -2764,8 +2764,8 @@
                 "multilingual_descriptions": {
                     "en": "Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.",
                     "ja": "ふりがなと送り仮名モードに対応した、日本語の文章をひらがな、カタカナ、ローマ字に変換するための日本語言語ライブラリ。",
-                    "zh-hans": "输入：日语语言库，可将日语句子转换为平假名、片假名或罗马字，并支持振假名和送假名模式。\n\n输出：",
-                    "zh-hant": "輸入：日語語言庫，可將日語句子轉換為平假名、片假名或羅馬字，支持振り仮名和送り仮名模式。\n\n輸出："
+                    "zh-hans": "日语语言库，可将日语句子转换为平假名、片假名或罗马字，并支持振假名和送假名模式。",
+                    "zh-hant": "日語語言庫，可將日語句子轉換為平假名、片假名或羅馬字，支持振り仮名和送り仮名模式。"
                 }
             },
             "https://github.com/hexenq/kuroshiro-analyzer-kuromoji": {
@@ -3502,8 +3502,8 @@
                 "multilingual_descriptions": {
                     "en": "Code to train Sentence BERT Japanese model for Hugging Face Model Hub",
                     "ja": "ハギングフェイスモデルハブのSentence BERT日本語モデルをトレーニングするためのコード",
-                    "zh-hans": "输入：用于 Hugging Face 模型中心训练 Sentence BERT 日语模型的代码\n输出：",
-                    "zh-hant": "輸入：用於 Hugging Face Model Hub 的句子 BERT 日語模型訓練代碼\n輸出："
+                    "zh-hans": "用于 Hugging Face 模型中心训练 Sentence BERT 日语模型的代码",
+                    "zh-hant": "用於 Hugging Face Model Hub 的句子 BERT 日語模型訓練代碼"
                 }
             },
             "https://github.com/PatrickJohnRamos/BERT-Japan-vaccination": {
@@ -3693,9 +3693,9 @@
                 "description": "DistilBERT model pre-trained on 131 GB of Japanese web text. The teacher model is BERT-base that built in-house at LINE.",
                 "multilingual_descriptions": {
                     "en": "DistilBERT model pre-trained on 131 GB of Japanese web text. The teacher model is BERT-base that built in-house at LINE.",
-                    "ja": "入力：131 GBの日本語ウェブテキストで事前学習されたDistilBERTモデル。教師モデルは、LINE内で構築されたBERT-baseです。",
-                    "zh-hans": "输入：DistilBERT模型在131GB的日语网络文本上进行了预训练。教师模型是LINE内部构建的BERT-base模型。\n输出：",
-                    "zh-hant": "輸入：DistilBERT模型預先在131 GB的日本網頁文本上進行了預訓練。教師模型是LINE內部建立的BERT-base模型。\n輸出："
+                    "ja": "131 GBの日本語ウェブテキストで事前学習されたDistilBERTモデル。教師モデルは、LINE内で構築されたBERT-baseです。",
+                    "zh-hans": "DistilBERT模型在131GB的日语网络文本上进行了预训练。教师模型是LINE内部构建的BERT-base模型。",
+                    "zh-hant": "DistilBERT模型預先在131 GB的日本網頁文本上進行了預訓練。教師模型是LINE內部建立的BERT-base模型。"
                 }
             },
             "https://github.com/kunishou/Japanese-Alpaca-LoRA": {
@@ -3791,7 +3791,7 @@
                     "en": "light blue/japanese-mpt-7b",
                     "ja": "薄い青/日本語-MPT-7b",
                     "zh-hans": "浅蓝色/日本-7b",
-                    "zh-hant": "輸入：lightblue/japanese-mpt-7b\n輸出："
+                    "zh-hant": "lightblue/japanese-mpt-7b"
                 }
             }
         },
@@ -4214,7 +4214,7 @@
                 "multilingual_descriptions": {
                     "en": "Electric Sound Dictionary: A dictionary of terms related to \"Electric Sound Department\" intended for use with Microsoft IME and other similar software.",
                     "ja": "電音IME: Microsoft IMEなどで利用することを想定した「電音部」関連用語の辞書",
-                    "zh-hans": "输入：电音IME：用于Microsoft IME等的“电音部”相关术语词典。",
+                    "zh-hans": "电音IME：用于Microsoft IME等的“电音部”相关术语词典。",
                     "zh-hant": "電音IME：針對Microsoft IME等輸入法所設計的「電音部」相關用語詞典。"
                 }
             },
@@ -4612,7 +4612,7 @@
                 "multilingual_descriptions": {
                     "en": "Japanese Daily Dialogue, or 日本語日常対話コーパス in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment.",
                     "ja": "「日本語日常対話コーパス」は、日常生活に関する会話を中心に、学校、旅行、健康、エンターテインメントの5つのトピックについての高品質なマルチターン対話データセットです。",
-                    "zh-hans": "输入：日本日常对话语料库，或日本语日常対話コーパス，是一个高质量的多轮对话数据集，包含五个主题的日常对话：日常生活，学校，旅行，健康和娱乐。",
+                    "zh-hans": "日本日常对话语料库，或日本语日常対話コーパス，是一个高质量的多轮对话数据集，包含五个主题的日常对话：日常生活，学校，旅行，健康和娱乐。",
                     "zh-hant": "日本語日常対話コーパス是一個高品質的多輪對話數據集，包含五個主題的日常對話：生活、學校、旅行、健康和娛樂。"
                 }
             },
@@ -4900,8 +4900,8 @@
                 "multilingual_descriptions": {
                     "en": "STAIR captions: A Japanese image caption dataset on a large scale.",
                     "ja": "STAIRキャプション：大規模な日本語画像キャプションデータセット",
-                    "zh-hans": "输入：STAIR字幕：大规模日本图像字幕数据集",
-                    "zh-hant": "輸入：STAIR字幕：大規模日本圖像字幕數據集"
+                    "zh-hans": "STAIR字幕：大规模日本图像字幕数据集",
+                    "zh-hant": "STAIR字幕：大規模日本圖像字幕數據集"
                 }
             },
             "https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja": {

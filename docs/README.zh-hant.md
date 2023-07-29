@@ -26,7 +26,7 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 **Research summary**
  * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 開源的日本語LLM總結
 
-_Updated on Jul 25, 2023_
+_Updated on Jul 29, 2023_
 
 ## Contents
  * [Python library](#Python-library)
@@ -295,15 +295,14 @@ _Updated on Jul 25, 2023_
  * [Japanese-BERT-Sentiment-Analyzer](https://github.com/izuna385/Japanese-BERT-Sentiment-Analyzer) - 使用FastAPI和BERT部署情感分析伺服器
  * [jmlm_scoring](https://github.com/minhpqn/jmlm_scoring) - 基於遮蔽語言模型的日語和越南語評分
  * [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) - Shiba 的 AllenNLP 整合：日本 CANINE 模型
- * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - 輸入：用於評估預先訓練的日語word2vec模型的日語相似性數據集腳本
-輸出：
+ * [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) - 用於評估預先訓練的日語word2vec模型的日語相似性數據集腳本
  * [gector-ja](https://github.com/jonnyli1125/gector-ja) - 基於BERT的日語GEC標記
  * [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) - 日本語-BPE編碼器
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - 日本語-BPE編碼器版本2
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法錯誤訂正工具
  * [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) - 日本穩定擴散是一種日本特有的潛在文本到圖像擴散模型，能夠生成逼真的照片般的圖像，並接受任何文本輸入。
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - 一個針對nagisa的BERT模型
- * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 輸入：前綴調整 GPT/GPT-NeoX 模型的範例代碼以及使用訓練過的前綴進行推論的代碼。
+ * [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) - 前綴調整 GPT/GPT-NeoX 模型的範例代碼以及使用訓練過的前綴進行推論的代碼。
  * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUE的訓練和評估腳本，這是一個日語理解基準測試。
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - Transformers 库的日语分词器
  * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP 語言模型評估工具
@@ -351,7 +350,7 @@ _Updated on Jul 25, 2023_
  * [zunda-python](https://github.com/ikegami-yukino/zunda-python) - Zunda：Python 的日本增強型情態分析器客戶端。
  * [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/ 
 
-輸出：https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
+https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
  * [showcase](https://github.com/cl-tohoku/showcase) - 一個PyTorch實現的日本述語-參數結構（PAS）分析器，該分析器在Matsubayashi＆Inui（2018）的論文中提出，並進行了一些改進。
  * [darts-clone-python](https://github.com/rixwew/darts-clone-python) - 飛鏢克隆 Python 綁定
  * [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) - 日本寫實文本蘊含語料庫的範例代碼
@@ -430,8 +429,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [furiganapad](https://github.com/esrille/furiganapad) - 注音輸入板
  * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日語同義詞庫
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - Mecab + NEologd + Docker + Python3
-輸入：Mecab + NEologd + Docker + Python3
-輸出：
+Mecab + NEologd + Docker + Python3
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 日本嵌入評估
  * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPT會當YouTuber
  * [shuwa](https://github.com/google/shuwa) - 擴展 GNOME 螢幕鍵盤以支援輸入法
@@ -586,7 +584,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [mozc](https://github.com/google/mozc) - Mozc - 一款為多平台設計的日本輸入法編輯器
  * [trimatch](https://github.com/tuem/trimatch) - Trimatch：一個（精確|前綴|近似）字串匹配庫
  * [resembla](https://github.com/tuem/resembla) - Resembla：基於單詞的日語相似句子搜索庫
- * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - 輸入：▽▼ Windows 的 SKK-like 日文輸入法編輯器
+ * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ Windows 的 SKK-like 日文輸入法編輯器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -704,9 +702,7 @@ Resources
 
 ### Converter
 
- * [kuroshiro](https://github.com/hexenq/kuroshiro) - 輸入：日語語言庫，可將日語句子轉換為平假名、片假名或羅馬字，支持振り仮名和送り仮名模式。
-
-輸出：
+ * [kuroshiro](https://github.com/hexenq/kuroshiro) - 日語語言庫，可將日語句子轉換為平假名、片假名或羅馬字，支持振り仮名和送り仮名模式。
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuroshiro 的 Kuromoji 形態分析器。
  * [hepburn](https://github.com/lovell/hepburn) - 使用 Hepburn 羅馬拼音將日文平假名和片假名轉換為羅馬字的 Node.js 模組。
  * [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) - 將日本數字轉換為數字
@@ -876,8 +872,7 @@ Resources
  * [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) - 日本BERT預訓練模型
  * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - 日本語的aMLP Transformer模型
  * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 使用UniDic和SudachiPy預先分詞，並在青空文庫和維基百科上訓練的日語BERT。
- * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 輸入：用於 Hugging Face Model Hub 的句子 BERT 日語模型訓練代碼
-輸出：
+ * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - 用於 Hugging Face Model Hub 的句子 BERT 日語模型訓練代碼
  * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 「日本推文情緒分析與疫苗接種比較」官方微調程式碼
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本語GPT2生成モデル
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - 基於gpt-2的文本轉換模型
@@ -893,8 +888,7 @@ Resources
  * [japanese-clip](https://github.com/rinnakk/japanese-clip) - 日本CLIP由rinna有限公司開發。
  * [AcademicBART](https://github.com/EhimeNLP/AcademicBART) - 我們在學術數據庫CiNii Articles的論文摘要上，預先訓練了一個基於BART的日語遮罩語言模型。
  * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 我們在學術數據庫CiNii Articles的論文摘要上預訓練了一個基於RoBERTa的日語遮罩語言模型。
- * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - 輸入：DistilBERT模型預先在131 GB的日本網頁文本上進行了預訓練。教師模型是LINE內部建立的BERT-base模型。
-輸出：
+ * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - DistilBERT模型預先在131 GB的日本網頁文本上進行了預訓練。教師模型是LINE內部建立的BERT-base模型。
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 使用經過日語翻譯的Stanford Alpaca資料集，進行LLaMA的微調並創建了Low-Rank Adapter，以下是其連結和生成樣本程式碼。
  * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型是使用基於EleutherAI/gpt-neox的代碼進行訓練的。
  * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型基於rinna/japanese-gpt-neox-3.6b，並進行了微調，以作為指令跟隨對話代理。
@@ -902,8 +896,7 @@ Resources
  * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。
  * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。
- * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 輸入：lightblue/japanese-mpt-7b
-輸出：
+ * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - lightblue/japanese-mpt-7b
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1153,7 +1146,7 @@ Resources
  * [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) - 收集日語中不適當的表達方式。可用於自然語言處理時的數據清理等。
  * [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 從參議院官方網站整理了會派、議員、議案、質問主意書的數據。
  * [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) - 國會議案資料庫：衆議院
- * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - 輸入：STAIR字幕：大規模日本圖像字幕數據集
+ * [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) - STAIR字幕：大規模日本圖像字幕數據集
  * [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) - Winograd模式挑戰的日本翻譯
  * [speechBSD](https://github.com/ku-nlp/speechBSD) - 一個包含音訊和說話者屬性信息的BSD語料庫擴展版。
  * [ita-corpus](https://github.com/mmorise/ita-corpus) - ITA語料庫的文章清單
