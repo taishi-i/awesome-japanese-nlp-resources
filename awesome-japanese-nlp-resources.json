@@ -1046,6 +1046,18 @@
                     "zh-hant": "不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023"
                 }
             },
+            "https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "lm-evaluation-harness-jp-stable",
+                "user_name": "tdc-yamada-ya",
+                "description": "A framework for few-shot evaluation of autoregressive language models.",
+                "multilingual_descriptions": {
+                    "en": "A framework for few-shot evaluation of autoregressive language models.",
+                    "ja": "自己回帰言語モデルの少数ショット評価のためのフレームワーク。",
+                    "zh-hans": "一个用于自回归语言模型少样本评估的框架。",
+                    "zh-hant": "一個用於少樣本評估自回歸語言模型的框架。"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
