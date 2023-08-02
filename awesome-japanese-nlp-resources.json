@@ -1058,6 +1058,18 @@
                     "zh-hant": "一個用於少樣本評估自回歸語言模型的框架。"
                 }
             },
+            "https://github.com/hppRC/llm-lora-classification": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "llm-lora-classification",
+                "user_name": "hppRC",
+                "description": "llm-lora-classification",
+                "multilingual_descriptions": {
+                    "en": "llm-lora-classification",
+                    "ja": "llm-lora-classification\nllm-lora-分類",
+                    "zh-hans": "llm-lora-classification\nllm-lora-分类",
+                    "zh-hant": "llm-lora-classification"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",

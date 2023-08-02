@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 487 Japanese NLP repositories.
+This list includes 488 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -24,8 +24,9 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 **Python**
  * [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) - A framework for few-shot evaluation of autoregressive language models.
+ * [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) - llm-lora-classification
 
-_Updated on Jul 31, 2023_
+_Updated on Aug 03, 2023_
 
 ## Contents
  * [Python library](#Python-library)
