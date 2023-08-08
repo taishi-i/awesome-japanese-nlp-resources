@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 488 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 489 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -20,11 +20,12 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Python**
- * [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) - 一個用於少樣本評估自回歸語言模型的框架。
- * [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) - llm-lora-classification
+**Tutorial**
+ * [llm-book](https://github.com/ghmagazine/llm-book) - 「大規模言語模型入門」（技術評論社，2023）的GitHub存儲庫
 
-_Updated on Aug 03, 2023_
+_Updated on Aug 09, 2023_
+
+🏅 [bomin0624](https://github.com/bomin0624) provided some repository information. Thank you!
 
 ## Contents
  * [Python library](#Python-library)
@@ -1315,6 +1316,7 @@ Resources
  * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - 這是 deep-learning-with-pytorch 的日文版 repository。
  * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) -【2023年版】BERTによるテキスト分類
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - 透過深度學習的自然語言處理（共立出版）支援頁面。
+ * [llm-book](https://github.com/ghmagazine/llm-book) - 「大規模言語模型入門」（技術評論社，2023）的GitHub存儲庫
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1333,6 +1335,7 @@ Resources
 |[deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Gin5050/deep-learning-with-pytorch-ja?style=social)|
 |[bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/bert-classification-tutorial?style=social)|
 |[python-nlp-book](https://github.com/python-nlp-book/python-nlp-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/python-nlp-book/python-nlp-book?style=social)|
+|[llm-book](https://github.com/ghmagazine/llm-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ghmagazine/llm-book?style=social)|
 
 
 ## Research summary

@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 488 Japanese NLP repositories.
+This list includes 489 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -22,11 +22,12 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Python**
- * [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) - A framework for few-shot evaluation of autoregressive language models.
- * [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) - llm-lora-classification
+**Tutorial**
+ * [llm-book](https://github.com/ghmagazine/llm-book) - GitHub repository for "Introduction to Large-scale Language Models" (Gijutsu-Hyoronsha, 2023)
 
-_Updated on Aug 03, 2023_
+_Updated on Aug 09, 2023_
+
+🏅 [bomin0624](https://github.com/bomin0624) provided some repository information. Thank you!
 
 ## Contents
  * [Python library](#Python-library)
@@ -1311,6 +1312,7 @@ Resources
  * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - deep-learning-with-pytorchの日本語版repositoryです。
  * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) -【2023年版】BERTによるテキスト分類
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - This is the support page for "Natural Language Processing with Deep Learning" (published by Kyoritsu Shuppan)
+ * [llm-book](https://github.com/ghmagazine/llm-book) - GitHub repository for "Introduction to Large-scale Language Models" (Gijutsu-Hyoronsha, 2023)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1329,6 +1331,7 @@ Resources
 |[deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Gin5050/deep-learning-with-pytorch-ja?style=social)|
 |[bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/bert-classification-tutorial?style=social)|
 |[python-nlp-book](https://github.com/python-nlp-book/python-nlp-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/python-nlp-book/python-nlp-book?style=social)|
+|[llm-book](https://github.com/ghmagazine/llm-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ghmagazine/llm-book?style=social)|
 
 
 ## Research summary

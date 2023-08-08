@@ -5793,6 +5793,18 @@
                     "zh-hans": "这是《自然语言处理：基于深度学习》（共立出版社）的支持页面。",
                     "zh-hant": "透過深度學習的自然語言處理（共立出版）支援頁面。"
                 }
+            },
+            "https://github.com/ghmagazine/llm-book": {
+                "sub_category": null,
+                "repository_name": "llm-book",
+                "user_name": "ghmagazine",
+                "description": "「大規模言語モデル入門」（技術評論社, 2023）のGitHubリポジトリ",
+                "multilingual_descriptions": {
+                    "en": "GitHub repository for \"Introduction to Large-scale Language Models\" (Gijutsu-Hyoronsha, 2023)",
+                    "ja": "「大規模言語モデル入門」（技術評論社, 2023）のGitHubリポジトリ",
+                    "zh-hans": "「大规模语言模型入门」（技术评论社，2023）的GitHub仓库",
+                    "zh-hant": "「大規模言語模型入門」（技術評論社，2023）的GitHub存儲庫"
+                }
             }
         },
         "Research summary": {
