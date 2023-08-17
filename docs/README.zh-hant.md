@@ -15,8 +15,6 @@ GitHub 上不可用的資源將添加到 [wiki](https://github.com/taishi-i/awes
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
-_☝ By using ChatGPT, we were able to improve the translation results._
-
 
 ## The latest additions 🎉
 
