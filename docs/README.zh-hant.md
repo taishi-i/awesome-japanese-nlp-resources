@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 490 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 493 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -19,7 +19,11 @@ GitHub 上不可用的資源將添加到 [wiki](https://github.com/taishi-i/awes
 ## The latest additions 🎉
 
 **Python**
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP 語言模型評估工具
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等的日本語對應LLM(大規模言語模型)用的簡易Web介面是。
+
+**Corpus**
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - 這是將alpaca數據集翻譯成日文的內容。
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 日本語指示データ
 
 _Updated on Aug 18, 2023_
 
@@ -442,6 +446,7 @@ Mecab + NEologd + Docker + Python3
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python 封裝 OpenJTalk
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 在電子書中為每個漢字添加讀音，讓學習日語更容易。
  * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 基於耳語的日文字幕生成器
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等的日本語對應LLM(大規模言語模型)用的簡易Web介面是。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -550,6 +555,7 @@ Mecab + NEologd + Docker + Python3
 |[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
 |[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
+|[japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/noir55/japanese_llm_simple_webui?style=social)|
 
 
 ## C++
@@ -1209,6 +1215,8 @@ Resources
  * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全國的町丁目級別（277,191項）住址數據的開放數據
  * [aozorasearch](https://github.com/myokoym/aozorasearch) - Groonga的青空文庫全文檢索系統。青空文庫全文檢索庫兼Web應用程式。
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - 此存儲庫包含重現LLM-jp語料庫的腳本。
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - 這是將alpaca數據集翻譯成日文的內容。
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 日本語指示データ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1296,6 +1304,8 @@ Resources
 |[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 |[aozorasearch](https://github.com/myokoym/aozorasearch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/myokoym/aozorasearch?style=social)|
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
+|[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
+|[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
 
 
 ## Tutorial

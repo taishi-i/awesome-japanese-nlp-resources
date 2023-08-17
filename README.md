@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 490 Japanese NLP repositories.
+This list includes 493 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -21,7 +21,11 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 ## The latest additions 🎉
 
 **Python**
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP Language Model Evaluation Harness
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等の日本語対応LLM(大規模言語モデル)用の簡易Webインタフェースです
+
+**Corpus**
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - alpacaデータセットを日本語化したものです
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - Japanese instruction data (日本語指示データ)
 
 _Updated on Aug 18, 2023_
 

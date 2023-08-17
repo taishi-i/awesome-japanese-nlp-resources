@@ -2305,6 +2305,18 @@
                     "zh-hans": "基于耳语的日文字幕生成器",
                     "zh-hant": "基於耳語的日文字幕生成器"
                 }
+            },
+            "https://github.com/noir55/japanese_llm_simple_webui": {
+                "sub_category": null,
+                "repository_name": "japanese_llm_simple_webui",
+                "user_name": "noir55",
+                "description": "Rinna-3.6B、OpenCALM等の日本語対応LLM(大規模言語モデル)用の簡易Webインタフェースです",
+                "multilingual_descriptions": {
+                    "en": "This is a simple web interface for Japanese compatible LLM (Large Language Model) such as Rinna-3.6B and OpenCALM.",
+                    "ja": "Rinna-3.6B、OpenCALM等の日本語対応LLM(大規模言語モデル)用の簡易Webインタフェースです",
+                    "zh-hans": "Rinna-3.6B、OpenCALM等是用于日语支持的大规模语言模型（LLM）的简易Web界面。",
+                    "zh-hant": "Rinna-3.6B、OpenCALM等的日本語對應LLM(大規模言語模型)用的簡易Web介面是。"
+                }
             }
         },
         "C++": {
@@ -5634,6 +5646,30 @@
                     "ja": "このリポジトリには、LLM-jpコーパスを再現するためのスクリプトが含まれています。",
                     "zh-hans": "该存储库包含用于重现LLM-jp语料库的脚本。",
                     "zh-hant": "此存儲庫包含重現LLM-jp語料庫的腳本。"
+                }
+            },
+            "https://github.com/shi3z/alpaca_ja": {
+                "sub_category": null,
+                "repository_name": "alpaca_ja",
+                "user_name": "shi3z",
+                "description": "alpacaデータセットを日本語化したものです",
+                "multilingual_descriptions": {
+                    "en": "This is a Japanese version of the alpaca dataset.",
+                    "ja": "alpacaデータセットを日本語化したものです",
+                    "zh-hans": "这是将alpaca数据集翻译成日语的内容。",
+                    "zh-hant": "這是將alpaca數據集翻譯成日文的內容。"
+                }
+            },
+            "https://github.com/megagonlabs/instruction_ja": {
+                "sub_category": null,
+                "repository_name": "instruction_ja",
+                "user_name": "megagonlabs",
+                "description": "Japanese instruction data (日本語指示データ)",
+                "multilingual_descriptions": {
+                    "en": "Japanese instruction data (日本語指示データ)",
+                    "ja": "出力",
+                    "zh-hans": "日语指示数据",
+                    "zh-hant": "日本語指示データ"
                 }
             }
         },

@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 490 个日语 NLP 存储库。
+此列表包含 493 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -20,7 +20,11 @@ GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awes
 ## The latest additions 🎉
 
 **Python**
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP语言模型评估工具
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等是用于日语支持的大规模语言模型（LLM）的简易Web界面。
+
+**Corpus**
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - 这是将alpaca数据集翻译成日语的内容。
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 日语指示数据
 
 _Updated on Aug 18, 2023_
 
@@ -443,6 +447,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python封装OpenJTalk
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 通过在电子书中为每个汉字添加读音，使学习日语更容易。
  * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 基于耳语的日文字幕生成器
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等是用于日语支持的大规模语言模型（LLM）的简易Web界面。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -551,6 +556,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
 |[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
+|[japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/noir55/japanese_llm_simple_webui?style=social)|
 
 
 ## C++
@@ -1208,6 +1214,8 @@ COMET-ATOMIC ja
  * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全国镇街道级别（277,191条）的地址数据开放数据
  * [aozorasearch](https://github.com/myokoym/aozorasearch) - Groonga为青空文库提供的全文搜索系统。
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - 该存储库包含用于重现LLM-jp语料库的脚本。
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - 这是将alpaca数据集翻译成日语的内容。
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 日语指示数据
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1295,6 +1303,8 @@ COMET-ATOMIC ja
 |[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 |[aozorasearch](https://github.com/myokoym/aozorasearch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/myokoym/aozorasearch?style=social)|
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
+|[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
+|[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
 
 
 ## Tutorial

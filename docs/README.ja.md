@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、490件の日本語NLPリポジトリが含まれています。
+このリストには、493件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -21,7 +21,11 @@ GitHubに存在しないリソースは、[Wiki](https://github.com/taishi-i/awe
 ## The latest additions 🎉
 
 **Python**
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP言語モデル評価ハーネス
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等の日本語対応LLM(大規模言語モデル)用の簡易Webインタフェースです
+
+**Corpus**
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - alpacaデータセットを日本語化したものです
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 出力
 
 _Updated on Aug 18, 2023_
 
@@ -442,6 +446,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - OpenJTalkのPythonラッパー
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 電子書籍に漢字の読み方を追加することで、日本語の学習をより簡単にすることができます。
  * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - ささやきベースの日本語字幕生成ツール
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等の日本語対応LLM(大規模言語モデル)用の簡易Webインタフェースです
 
 
 |Name|downloads/week|total downloads|stars|
@@ -550,6 +555,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
 |[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
+|[japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/noir55/japanese_llm_simple_webui?style=social)|
 
 
 ## C++
@@ -1206,6 +1212,8 @@ Resources
  * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全国の町丁目レベル（277,191件）の住所データのオープンデータ
  * [aozorasearch](https://github.com/myokoym/aozorasearch) - グルンガによる青空文庫の全文検索システム。青空文庫全文検索ライブラリ兼Webアプリ。
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - このリポジトリには、LLM-jpコーパスを再現するためのスクリプトが含まれています。
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - alpacaデータセットを日本語化したものです
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 出力
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1293,6 +1301,8 @@ Resources
 |[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 |[aozorasearch](https://github.com/myokoym/aozorasearch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/myokoym/aozorasearch?style=social)|
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
+|[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
+|[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
 
 
 ## Tutorial

@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 490 Japanese NLP repositories.
+This list includes 493 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -21,7 +21,11 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 ## The latest additions 🎉
 
 **Python**
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP Language Model Evaluation Harness
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - This is a simple web interface for Japanese compatible LLM (Large Language Model) such as Rinna-3.6B and OpenCALM.
+
+**Corpus**
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - This is a Japanese version of the alpaca dataset.
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - Japanese instruction data (日本語指示データ)
 
 _Updated on Aug 18, 2023_
 
@@ -441,6 +445,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - Python wrapper for OpenJTalk
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - Make learning Japanese easier by adding readings for every kanji in the eBook
  * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator
+ * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - This is a simple web interface for Japanese compatible LLM (Large Language Model) such as Rinna-3.6B and OpenCALM.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -549,6 +554,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
 |[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
+|[japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/noir55/japanese_llm_simple_webui?style=social)|
 
 
 ## C++
@@ -1205,6 +1211,8 @@ Resources
  * [japanese-addresses](https://github.com/geolonia/japanese-addresses) - Open data of address data at the town and block level nationwide (277,191 entries).
  * [aozorasearch](https://github.com/myokoym/aozorasearch) - The full-text search system for Aozora Bunko by Groonga. 青空文庫全文検索ライブラリ兼Webアプリ。
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - This repository contains scripts to reproduce the LLM-jp corpus.
+ * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - This is a Japanese version of the alpaca dataset.
+ * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - Japanese instruction data (日本語指示データ)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1292,6 +1300,8 @@ Resources
 |[japanese-addresses](https://github.com/geolonia/japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses?style=social)|
 |[aozorasearch](https://github.com/myokoym/aozorasearch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/myokoym/aozorasearch?style=social)|
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
+|[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
+|[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
 
 
 ## Tutorial
