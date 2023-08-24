@@ -1070,6 +1070,18 @@
                     "zh-hant": "llm-lora-classification"
                 }
             },
+            "https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "rinna_gpt-neox_ggml-lora",
+                "user_name": "yukaryavka",
+                "description": "The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the \"rinna/japanese-gpt-neox...\" [gpt-neox] model converted to ggml.",
+                "multilingual_descriptions": {
+                    "en": "The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the \"rinna/japanese-gpt-neox...\" [gpt-neox] model converted to ggml.",
+                    "ja": "このリポジトリには、\"rinna/japanese-gpt-neox...\" [gpt-neox] モデルをggmlに変換した場合に、Alpaca-LoraアダプターをLoRAチューニングに適応させるために修正されたスクリプトとマージスクリプトが含まれています。",
+                    "zh-hans": "该存储库包含已修改的脚本和合并脚本，用于适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的\"gpt-neox\"模型的\"rinna/japanese-gpt-neox...\"。\n该存储库包含已修改的脚本和合并脚本，用于适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的\"gpt-neox\"模型的\"rinna/japanese-gpt-neox...\"。",
+                    "zh-hant": "該存儲庫包含已修改的腳本和合併腳本，用於將Alpaca-Lora適配器調整為支持LoRA調諧，假設使用了“rinna/japanese-gpt-neox...” [gpt-neox]模型轉換為ggml。"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
@@ -4348,6 +4360,18 @@
                     "ja": "MonsterHunterのユーザー辞書を作りたい…",
                     "zh-hans": "想要制作Monster Hunter的用户词典…",
                     "zh-hant": "想要創建Monster Hunter的用戶詞典..."
+                }
+            },
+            "https://github.com/stephenmk/jitenbot": {
+                "sub_category": null,
+                "repository_name": "jitenbot",
+                "user_name": "stephenmk",
+                "description": "Convert data from Japanese dictionary websites and applications into portable file formats",
+                "multilingual_descriptions": {
+                    "en": "Convert data from Japanese dictionary websites and applications into portable file formats",
+                    "ja": "日本語の辞書ウェブサイトやアプリからデータをポータブルなファイル形式に変換する",
+                    "zh-hans": "将日语字典网站和应用程序中的数据转换为便携文件格式",
+                    "zh-hant": "將日本字典網站和應用程式的資料轉換為可攜式檔案格式。"
                 }
             }
         },
