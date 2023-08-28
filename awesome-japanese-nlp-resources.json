@@ -2329,6 +2329,18 @@
                     "zh-hans": "Rinna-3.6B、OpenCALM等是用于日语支持的大规模语言模型（LLM）的简易Web界面。",
                     "zh-hant": "Rinna-3.6B、OpenCALM等的日本語對應LLM(大規模言語模型)用的簡易Web介面是。"
                 }
+            },
+            "https://github.com/discus0434/pdf-translator": {
+                "sub_category": null,
+                "repository_name": "pdf-translator",
+                "user_name": "discus0434",
+                "description": "pdf-translator translates English PDF files into Japanese, preserving the original layout.",
+                "multilingual_descriptions": {
+                    "en": "pdf-translator translates English PDF files into Japanese, preserving the original layout.",
+                    "ja": "pdf-translatorは、英語のPDFファイルを日本語に翻訳し、元のレイアウトを保持します。",
+                    "zh-hans": "pdf-translator将英文PDF文件翻译成日语，保留原始布局。",
+                    "zh-hant": "pdf-translator 將英文 PDF 檔案翻譯成日文，並保留原始的版面配置。"
+                }
             }
         },
         "C++": {

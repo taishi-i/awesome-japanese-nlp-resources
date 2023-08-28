@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 495 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 496 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
@@ -19,12 +19,9 @@ GitHub 上不可用的資源將添加到 [wiki](https://github.com/taishi-i/awes
 ## The latest additions 🎉
 
 **Python**
- * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 該存儲庫包含已修改的腳本和合併腳本，用於將Alpaca-Lora適配器調整為支持LoRA調諧，假設使用了“rinna/japanese-gpt-neox...” [gpt-neox]模型轉換為ggml。
+ * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator 將英文 PDF 檔案翻譯成日文，並保留原始的版面配置。
 
-**Dictionary**
- * [jitenbot](https://github.com/stephenmk/jitenbot) - 將日本字典網站和應用程式的資料轉換為可攜式檔案格式。
-
-_Updated on Aug 25, 2023_
+_Updated on Aug 29, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -448,6 +445,7 @@ Mecab + NEologd + Docker + Python3
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 在電子書中為每個漢字添加讀音，讓學習日語更容易。
  * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 基於耳語的日文字幕生成器
  * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等的日本語對應LLM(大規模言語模型)用的簡易Web介面是。
+ * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator 將英文 PDF 檔案翻譯成日文，並保留原始的版面配置。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -557,6 +555,7 @@ Mecab + NEologd + Docker + Python3
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
 |[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
 |[japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/noir55/japanese_llm_simple_webui?style=social)|
+|[pdf-translator](https://github.com/discus0434/pdf-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/pdf-translator?style=social)|
 
 
 ## C++

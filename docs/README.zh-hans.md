@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 495 个日语 NLP 存储库。
+此列表包含 496 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -20,13 +20,9 @@ GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awes
 ## The latest additions 🎉
 
 **Python**
- * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 该存储库包含已修改的脚本和合并脚本，用于适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的"gpt-neox"模型的"rinna/japanese-gpt-neox..."。
-该存储库包含已修改的脚本和合并脚本，用于适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的"gpt-neox"模型的"rinna/japanese-gpt-neox..."。
+ * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator将英文PDF文件翻译成日语，保留原始布局。
 
-**Dictionary**
- * [jitenbot](https://github.com/stephenmk/jitenbot) - 将日语字典网站和应用程序中的数据转换为便携文件格式
-
-_Updated on Aug 25, 2023_
+_Updated on Aug 29, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -451,6 +447,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 通过在电子书中为每个汉字添加读音，使学习日语更容易。
  * [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 基于耳语的日文字幕生成器
  * [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) - Rinna-3.6B、OpenCALM等是用于日语支持的大规模语言模型（LLM）的简易Web界面。
+ * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator将英文PDF文件翻译成日语，保留原始布局。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -560,6 +557,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
 |[N46Whisper](https://github.com/Ayanaminn/N46Whisper)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ayanaminn/N46Whisper?style=social)|
 |[japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/noir55/japanese_llm_simple_webui?style=social)|
+|[pdf-translator](https://github.com/discus0434/pdf-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/pdf-translator?style=social)|
 
 
 ## C++
