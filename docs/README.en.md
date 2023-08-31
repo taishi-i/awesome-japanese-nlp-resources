@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 496 Japanese NLP repositories.
+This list includes 498 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -20,10 +20,13 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
-**Python**
- * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator translates English PDF files into Japanese, preserving the original layout.
+**Rust**
+ * [cskk](https://github.com/naokiri/cskk) - SKK (Simple Kana Kanji conversion) library
 
-_Updated on Aug 29, 2023_
+**Corpus**
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - Top 5000 Japanese family names, with readings, ordered by frequency.
+
+_Updated on Sep 01, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -666,6 +669,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - A free online, self-hostable, multilang Japanese dictionary.
  * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - DvorakJP Roman Table for Google Japanese Input
  * [niinii](https://github.com/Netdex/niinii) -  Japanese glossator for assisted reading of text using Ichiran
+ * [cskk](https://github.com/naokiri/cskk) - SKK (Simple Kana Kanji conversion) library
 
 
 |Name|downloads/week|total downloads|stars|
@@ -681,6 +685,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
 |[dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-romantable?style=social)|
 |[niinii](https://github.com/Netdex/niinii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Netdex/niinii?style=social)|
+|[cskk](https://github.com/naokiri/cskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naokiri/cskk?style=social)|
 
 
 ## JavaScript
@@ -1215,6 +1220,7 @@ Resources
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - This repository contains scripts to reproduce the LLM-jp corpus.
  * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - This is a Japanese version of the alpaca dataset.
  * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - Japanese instruction data (日本語指示データ)
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - Top 5000 Japanese family names, with readings, ordered by frequency.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1304,6 +1310,7 @@ Resources
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
 |[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
 |[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
+|[japanese-family-names](https://github.com/siikamiika/japanese-family-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/siikamiika/japanese-family-names?style=social)|
 
 
 ## Tutorial

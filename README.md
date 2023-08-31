@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 496 Japanese NLP repositories.
+This list includes 498 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 Your contributions are always welcome!
@@ -20,10 +20,13 @@ Resources that are not available on GitHub are added to the [wiki](https://githu
 
 ## The latest additions 🎉
 
-**Python**
- * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator translates English PDF files into Japanese, preserving the original layout.
+**Rust**
+ * [cskk](https://github.com/naokiri/cskk) - SKK (Simple Kana Kanji henkan) library
 
-_Updated on Aug 29, 2023_
+**Corpus**
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - Top 5000 Japanese family names, with readings, ordered by frequency.
+
+_Updated on Sep 01, 2023_
 
 ## Contents
  * [Python library](#python-library)

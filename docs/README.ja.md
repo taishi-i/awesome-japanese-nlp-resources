@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-このリストには、496件の日本語NLPリポジトリが含まれています。
+このリストには、498件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 
 あなたの貢献をいつでも歓迎します！
@@ -20,10 +20,13 @@ GitHubに存在しないリソースは、[Wiki](https://github.com/taishi-i/awe
 
 ## The latest additions 🎉
 
-**Python**
- * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translatorは、英語のPDFファイルを日本語に翻訳し、元のレイアウトを保持します。
+**Rust**
+ * [cskk](https://github.com/naokiri/cskk) - 出力: SKK（シンプルかな漢字変換）ライブラリ
 
-_Updated on Aug 29, 2023_
+**Corpus**
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - 頻度順に並べられた読み付きの上位5000の日本の姓
+
+_Updated on Sep 01, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -667,6 +670,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 無料でオンラインで自己ホスト可能な、多言語対応の日本語辞書。
  * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - Google日本語入力用のDvorakJPローマ字テーブル
  * [niinii](https://github.com/Netdex/niinii) - 一覧を使用したテキストの補助読みのための日本語の注釈者
+ * [cskk](https://github.com/naokiri/cskk) - 出力: SKK（シンプルかな漢字変換）ライブラリ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -682,6 +686,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
 |[dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-romantable?style=social)|
 |[niinii](https://github.com/Netdex/niinii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Netdex/niinii?style=social)|
+|[cskk](https://github.com/naokiri/cskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naokiri/cskk?style=social)|
 
 
 ## JavaScript
@@ -1216,6 +1221,7 @@ Resources
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - このリポジトリには、LLM-jpコーパスを再現するためのスクリプトが含まれています。
  * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - alpacaデータセットを日本語化したものです
  * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 出力
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - 頻度順に並べられた読み付きの上位5000の日本の姓
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1305,6 +1311,7 @@ Resources
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
 |[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
 |[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
+|[japanese-family-names](https://github.com/siikamiika/japanese-family-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/siikamiika/japanese-family-names?style=social)|
 
 
 ## Tutorial

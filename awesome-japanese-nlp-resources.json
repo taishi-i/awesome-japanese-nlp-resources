@@ -2753,6 +2753,18 @@
                     "zh-hans": "使用Ichiran辅助阅读文本的日语注释器",
                     "zh-hant": "使用一個日語注釋器來輔助閱讀文本，使用「一覧」。"
                 }
+            },
+            "https://github.com/naokiri/cskk": {
+                "sub_category": null,
+                "repository_name": "cskk",
+                "user_name": "naokiri",
+                "description": "SKK (Simple Kana Kanji henkan) library",
+                "multilingual_descriptions": {
+                    "en": "SKK (Simple Kana Kanji conversion) library",
+                    "ja": "出力: SKK（シンプルかな漢字変換）ライブラリ",
+                    "zh-hans": "SKK（简单假名汉字转换）库",
+                    "zh-hant": "SKK（簡易假名漢字轉換）程式庫"
+                }
             }
         },
         "JavaScript": {
@@ -5706,6 +5718,18 @@
                     "ja": "出力",
                     "zh-hans": "日语指示数据",
                     "zh-hant": "日本語指示データ"
+                }
+            },
+            "https://github.com/siikamiika/japanese-family-names": {
+                "sub_category": null,
+                "repository_name": "japanese-family-names",
+                "user_name": "siikamiika",
+                "description": "Top 5000 Japanese family names, with readings, ordered by frequency.",
+                "multilingual_descriptions": {
+                    "en": "Top 5000 Japanese family names, with readings, ordered by frequency.",
+                    "ja": "頻度順に並べられた読み付きの上位5000の日本の姓",
+                    "zh-hans": "前5000个日本姓氏，附带读音，按频率排序。",
+                    "zh-hant": "按頻率排序的前5000個日本姓氏，附帶讀音。"
                 }
             }
         },

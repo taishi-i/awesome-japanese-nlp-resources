@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 496 个日语 NLP 存储库。
+此列表包含 498 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
@@ -19,10 +19,13 @@ GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awes
 
 ## The latest additions 🎉
 
-**Python**
- * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator将英文PDF文件翻译成日语，保留原始布局。
+**Rust**
+ * [cskk](https://github.com/naokiri/cskk) - SKK（简单假名汉字转换）库
 
-_Updated on Aug 29, 2023_
+**Corpus**
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - 前5000个日本姓氏，附带读音，按频率排序。
+
+_Updated on Sep 01, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -669,6 +672,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 一个免费的在线、自托管、多语言的日语词典。
  * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - 谷歌日语输入用DvorakJP罗马字表 / DvorakJP罗马字表适用于谷歌日语输入
  * [niinii](https://github.com/Netdex/niinii) - 使用Ichiran辅助阅读文本的日语注释器
+ * [cskk](https://github.com/naokiri/cskk) - SKK（简单假名汉字转换）库
 
 
 |Name|downloads/week|total downloads|stars|
@@ -684,6 +688,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
 |[dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-romantable?style=social)|
 |[niinii](https://github.com/Netdex/niinii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Netdex/niinii?style=social)|
+|[cskk](https://github.com/naokiri/cskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naokiri/cskk?style=social)|
 
 
 ## JavaScript
@@ -1219,6 +1224,7 @@ COMET-ATOMIC ja
  * [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) - 该存储库包含用于重现LLM-jp语料库的脚本。
  * [alpaca_ja](https://github.com/shi3z/alpaca_ja) - 这是将alpaca数据集翻译成日语的内容。
  * [instruction_ja](https://github.com/megagonlabs/instruction_ja) - 日语指示数据
+ * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - 前5000个日本姓氏，附带读音，按频率排序。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1308,6 +1314,7 @@ COMET-ATOMIC ja
 |[llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-corpus?style=social)|
 |[alpaca_ja](https://github.com/shi3z/alpaca_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/alpaca_ja?style=social)|
 |[instruction_ja](https://github.com/megagonlabs/instruction_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/instruction_ja?style=social)|
+|[japanese-family-names](https://github.com/siikamiika/japanese-family-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/siikamiika/japanese-family-names?style=social)|
 
 
 ## Tutorial
