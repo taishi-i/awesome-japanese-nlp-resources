@@ -6,12 +6,12 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 498 个日语 NLP 存储库。
+此列表包含 492 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
 
-GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awesome-japanese-nlp-resources/wiki)。
+关于日语LLM的信息，请查看[llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm)。这个页面上，展示了开源的 GitHub 仓库信息。
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -25,7 +25,7 @@ GitHub 上不可用的资源将添加到 [wiki](https://github.com/taishi-i/awes
 **Corpus**
  * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - 前5000个日本姓氏，附带读音，按频率排序。
 
-_Updated on Sep 01, 2023_
+_Updated on Sep 03, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -902,13 +902,7 @@ Resources
  * [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) - 我们在学术数据库CiNii Articles的论文摘要上预训练了一个基于RoBERTa的日语掩码语言模型。
  * [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) - DistilBERT模型在131GB的日语网络文本上进行了预训练。教师模型是LINE内部构建的BERT-base模型。
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 使用翻译成日语的Stanford Alpaca数据集对LLaMA进行微调，创建了Low-Rank Adapter，并提供了链接和生成示例代码。
- * [japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b) - 该存储库提供了一个36亿参数的日语GPT-NeoX模型。该模型是使用基于EleutherAI/gpt-neox的代码进行训练的。
- * [japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft) - 该存储库提供了一个参数为36亿的日语GPT-NeoX模型。该模型基于rinna/japanese-gpt-neox-3.6b，并进行了微调，以用作指令跟随的对话代理。
- * [japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base) - 这是由rinna有限公司训练的日本HuBERT（Transformer中的隐藏单元双向编码器表示）模型。
- * [open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b) - OpenCALM是由CyberAgent公司开发的一套仅解码的语言模型，预先在日本数据集上进行了训练。
- * [luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner) - 这个模型是通过对luke-japanese-base进行微调，使其可以用于命名实体识别（NER）。
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。
- * [japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b) - 浅蓝色/日本-7b
 
 
 |Name|downloads/week|total downloads|stars|
@@ -947,13 +941,7 @@ Resources
 |[AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)|
 |[LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/line/LINE-DistilBERT-Japanese?style=social)|
 |[Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/Japanese-Alpaca-LoRA?style=social)|
-|[japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)|-|-|-|
-|[japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)|-|-|-|
-|[japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)|-|-|-|
-|[open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)|-|-|-|
-|[luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)|-|-|-|
 |[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
-|[japanese-mpt-7b](https://huggingface.co/lightblue/japanese-mpt-7b)|-|-|-|
 
 
 ## ChatGPT

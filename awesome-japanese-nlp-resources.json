@@ -3782,66 +3782,6 @@
                     "zh-hant": "使用經過日語翻譯的Stanford Alpaca資料集，進行LLaMA的微調並創建了Low-Rank Adapter，以下是其連結和生成樣本程式碼。"
                 }
             },
-            "https://huggingface.co/rinna/japanese-gpt-neox-3.6b": {
-                "sub_category": "Transformer based models",
-                "repository_name": "japanese-gpt-neox-3.6b",
-                "user_name": "rinna",
-                "description": "This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model was trained using code based on EleutherAI/gpt-neox.",
-                "multilingual_descriptions": {
-                    "en": "This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model was trained using code based on EleutherAI/gpt-neox.",
-                    "ja": "このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。このモデルは、EleutherAI/gpt-neoxに基づくコードを使用してトレーニングされました。",
-                    "zh-hans": "该存储库提供了一个36亿参数的日语GPT-NeoX模型。该模型是使用基于EleutherAI/gpt-neox的代码进行训练的。",
-                    "zh-hant": "這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型是使用基於EleutherAI/gpt-neox的代碼進行訓練的。"
-                }
-            },
-            "https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft": {
-                "sub_category": "Transformer based models",
-                "repository_name": "japanese-gpt-neox-3.6b-instruction-sft",
-                "user_name": "rinna",
-                "description": "This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model is based on rinna/japanese-gpt-neox-3.6b and has been finetuned to serve as a instruction-following conversational agent.",
-                "multilingual_descriptions": {
-                    "en": "This repository provides a Japanese GPT-NeoX model of 3.6 billion parameters. The model was trained using code based on EleutherAI/gpt-neox.",
-                    "ja": "このリポジトリは、36億パラメータの日本語GPT-NeoXモデルを提供しています。このモデルは、EleutherAI/gpt-neoxに基づくコードを使用してトレーニングされました。",
-                    "zh-hans": "该存储库提供了一个36亿参数的日语GPT-NeoX模型。该模型是使用基于EleutherAI/gpt-neox的代码进行训练的。",
-                    "zh-hant": "這個存儲庫提供了一個擁有36億參數的日語GPT-NeoX模型。該模型是使用基於EleutherAI/gpt-neox的代碼進行訓練的。"
-                }
-            },
-            "https://huggingface.co/rinna/japanese-hubert-base": {
-                "sub_category": "Transformer based models",
-                "repository_name": "japanese-hubert-base",
-                "user_name": "rinna",
-                "description": "This is a Japanese HuBERT (Hidden Unit Bidirectional Encoder Representations from Transformers) model trained by rinna Co., Ltd.",
-                "multilingual_descriptions": {
-                    "en": "This is a Japanese HuBERT (Hidden Unit Bidirectional Encoder Representations from Transformers) model trained by rinna Co., Ltd.",
-                    "ja": "これは、りんな株式会社によって訓練された日本語HuBERT（Hidden Unit Bidirectional Encoder Representations from Transformers）モデルです。",
-                    "zh-hans": "这是由rinna有限公司训练的日本HuBERT（Transformer中的隐藏单元双向编码器表示）模型。",
-                    "zh-hant": "這是由rinna有限公司訓練的日本HuBERT（從變形金剛中隱藏單元的雙向編碼器表示）模型。"
-                }
-            },
-            "https://huggingface.co/cyberagent/open-calm-7b": {
-                "sub_category": "Transformer based models",
-                "repository_name": "open-calm-7b",
-                "user_name": "cyberagent",
-                "description": "OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.",
-                "multilingual_descriptions": {
-                    "en": "OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.",
-                    "ja": "OpenCALMは、サイバーエージェント株式会社が開発した、日本語のデータセットで事前学習されたデコーダー専用の言語モデルのスイートです。",
-                    "zh-hans": "OpenCALM是由CyberAgent公司开发的一套仅解码的语言模型，预先在日本数据集上进行了训练。",
-                    "zh-hant": "OpenCALM是由CyberAgent公司開發的一套僅解碼的語言模型套件，預先在日本數據集上進行了訓練。"
-                }
-            },
-            "https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner": {
-                "sub_category": "Transformer based models",
-                "repository_name": "luke-japanese-base-finetuned-ner",
-                "user_name": "Mizuiro-sakura",
-                "description": "このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。",
-                "multilingual_descriptions": {
-                    "en": "This model fine-tunes luke-japanese-base to be used for named entity recognition (NER).",
-                    "ja": "このモデルはluke-japanese-baseをファインチューニングして、固有表現抽出（NER）に用いれるようにしたものです。",
-                    "zh-hans": "这个模型是通过对luke-japanese-base进行微调，使其可以用于命名实体识别（NER）。",
-                    "zh-hant": "這個模型是對luke-japanese-base進行微調，以便用於命名實體識別（NER）。"
-                }
-            },
             "https://github.com/nknytk/albert-japanese-tinysegmenter": {
                 "sub_category": "Transformer based models",
                 "repository_name": "albert-japanese-tinysegmenter",
@@ -3852,18 +3792,6 @@
                     "ja": "日本語のWikipediaリソースで公式ALBERT（https://github.com/google-research/albert）を事前学習するための事前学習済みモデル、コード、ガイダンスを提供します。",
                     "zh-hans": "提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。",
                     "zh-hant": "提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。"
-                }
-            },
-            "https://huggingface.co/lightblue/japanese-mpt-7b": {
-                "sub_category": "Transformer based models",
-                "repository_name": "japanese-mpt-7b",
-                "user_name": "lightblue",
-                "description": "lightblue/japanese-mpt-7b",
-                "multilingual_descriptions": {
-                    "en": "light blue/japanese-mpt-7b",
-                    "ja": "薄い青/日本語-MPT-7b",
-                    "zh-hans": "浅蓝色/日本-7b",
-                    "zh-hant": "lightblue/japanese-mpt-7b"
                 }
             }
         },
