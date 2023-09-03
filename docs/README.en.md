@@ -19,11 +19,11 @@ Please refer to [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-
 
 ## The latest additions 🎉
 
-**Rust**
- * [cskk](https://github.com/naokiri/cskk) - SKK (Simple Kana Kanji conversion) library
+**Python**
+ * [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) - Haystack + Elasticsearch + wikipedia(ja) を用いた、日本語の質問応答システムのサンプル
 
-**Corpus**
- * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - Top 5000 Japanese family names, with readings, ordered by frequency.
+**ChatGPT**
+ * [character_chat](https://github.com/mutaguchi/character_chat) - This is a chat script that uses OpenAI's API to have a conversation with a character set in Japanese.
 
 _Updated on Sep 03, 2023_
 

@@ -18,11 +18,11 @@
 
 ## The latest additions 🎉
 
-**Rust**
- * [cskk](https://github.com/naokiri/cskk) - SKK（簡易假名漢字轉換）程式庫
+**Python**
+ * [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) - 使用Haystack + Elasticsearch + wikipedia(ja)構建的日語問答系統的示例
 
-**Corpus**
- * [japanese-family-names](https://github.com/siikamiika/japanese-family-names) - 按頻率排序的前5000個日本姓氏，附帶讀音。
+**ChatGPT**
+ * [character_chat](https://github.com/mutaguchi/character_chat) - 這是一個使用OpenAI API的聊天腳本，可以與設定的角色用日語進行對話。
 
 _Updated on Sep 03, 2023_
 
