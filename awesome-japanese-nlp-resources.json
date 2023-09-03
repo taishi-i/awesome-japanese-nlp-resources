@@ -2341,6 +2341,18 @@
                     "zh-hans": "pdf-translator将英文PDF文件翻译成日语，保留原始布局。",
                     "zh-hant": "pdf-translator 將英文 PDF 檔案翻譯成日文，並保留原始的版面配置。"
                 }
+            },
+            "https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es": {
+                "sub_category": null,
+                "repository_name": "japanese_qa_demo_with_haystack_and_es",
+                "user_name": "Shingo-Kamata",
+                "description": "Haystack + Elasticsearch + wikipedia(ja) を用いた、日本語の質問応答システムのサンプル",
+                "multilingual_descriptions": {
+                    "en": "Haystack + Elasticsearch + wikipedia(ja) を用いた、日本語の質問応答システムのサンプル",
+                    "ja": "Haystack + Elasticsearch + wikipedia(ja) を用いた、日本語の質問応答システムのサンプル\nヘイスタック + エラスティックサーチ + Wikipedia(ja) を使用した、日本語の質問応答システムのサンプル",
+                    "zh-hans": "使用Haystack + Elasticsearch + wikipedia(ja)构建的日语问答系统示例",
+                    "zh-hant": "使用Haystack + Elasticsearch + wikipedia(ja)構建的日語問答系統的示例"
+                }
             }
         },
         "C++": {
@@ -3998,6 +4010,18 @@
                     "ja": "Azure OpenAIを活用したアプリケーション実装のリファレンスを目的として、アプリのサンプル（リファレンスアーキテクチャ、サンプルコードとデプロイ手順）を無償提供しています。",
                     "zh-hans": "为了提供使用Azure OpenAI实现应用程序的参考，我们免费提供应用程序示例（参考架构、示例代码和部署步骤）。",
                     "zh-hant": "為了提供使用Azure OpenAI進行應用程式實作的參考，我們免費提供應用程式的範例（參考架構、範例程式碼和部署步驟）。"
+                }
+            },
+            "https://github.com/mutaguchi/character_chat": {
+                "sub_category": null,
+                "repository_name": "character_chat",
+                "user_name": "mutaguchi",
+                "description": "OpenAIのAPIを利用して、設定したキャラクターと日本語で会話するチャットスクリプトです。",
+                "multilingual_descriptions": {
+                    "en": "This is a chat script that uses OpenAI's API to have a conversation with a character set in Japanese.",
+                    "ja": "OpenAIのAPIを利用して、設定したキャラクターと日本語で会話するチャットスクリプトです。",
+                    "zh-hans": "这是一个使用OpenAI API的聊天脚本，可以与设定的角色用日语进行对话。",
+                    "zh-hant": "這是一個使用OpenAI API的聊天腳本，可以與設定的角色用日語進行對話。"
                 }
             }
         },
