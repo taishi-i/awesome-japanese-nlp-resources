@@ -2353,6 +2353,18 @@
                     "zh-hans": "使用Haystack + Elasticsearch + wikipedia(ja)构建的日语问答系统示例",
                     "zh-hant": "使用Haystack + Elasticsearch + wikipedia(ja)構建的日語問答系統的示例"
                 }
+            },
+            "https://github.com/google/mozc-devices": {
+                "sub_category": null,
+                "repository_name": "mozc-devices",
+                "user_name": "google",
+                "description": "Automatically exported from code.google.com/p/mozc-morse",
+                "multilingual_descriptions": {
+                    "en": "Automatically exported from code.google.com/p/mozc-morse",
+                    "ja": "自動的にcode.google.com/p/mozc-morseからエクスポートされました。",
+                    "zh-hans": "自动从code.google.com/p/mozc-morse导出",
+                    "zh-hant": "自動從code.google.com/p/mozc-morse匯出"
+                }
             }
         },
         "C++": {
@@ -3091,6 +3103,30 @@
                     "zh-hans": "这是一个带有地理标签的推文数字档案，记录了发生在东日本大地震后24小时内发布的推文。",
                     "zh-hant": "這是東日本大地震發生後24小時內帶有地理標籤的推文的數字檔案。"
                 }
+            },
+            "https://github.com/shirakaba/pitch-accent": {
+                "sub_category": null,
+                "repository_name": "pitch-accent",
+                "user_name": "shirakaba",
+                "description": "Predict pitch accent in Japanese",
+                "multilingual_descriptions": {
+                    "en": "Predict pitch accent in Japanese",
+                    "ja": "日本語のアクセントを予測する",
+                    "zh-hans": "预测日语的声调重音",
+                    "zh-hant": "預測日語的音高重音"
+                }
+            },
+            "https://github.com/amanoese/kana2ipa": {
+                "sub_category": null,
+                "repository_name": "kana2ipa",
+                "user_name": "amanoese",
+                "description": "「ひらがな」または「カタカナ」を日本語で発音する際の音声記号(IPA)に変換するコマンド",
+                "multilingual_descriptions": {
+                    "en": "Command to convert \"hiragana\" or \"katakana\" into International Phonetic Alphabet (IPA) symbols when pronouncing in Japanese.",
+                    "ja": "「ひらがな」または「カタカナ」を日本語で発音する際の音声記号(IPA)に変換するコマンド",
+                    "zh-hans": "将「ひらがな」或「カタカナ」转换为日语发音时的音标(IPA)的命令。",
+                    "zh-hant": "將「ひらがな」或「カタカナ」轉換為日語發音時的音標(IPA)的指令"
+                }
             }
         },
         "Go": {
@@ -3164,6 +3200,18 @@
                     "ja": "全角/半角変換のためのGoライブラリ",
                     "zh-hans": "一个用于全角/半角转换的Go库",
                     "zh-hant": "一個用於全角/半角轉換的 Go 函式庫"
+                }
+            },
+            "https://github.com/greymd/ojichat": {
+                "sub_category": null,
+                "repository_name": "ojichat",
+                "user_name": "greymd",
+                "description": "おじさんがLINEやメールで送ってきそうな文を生成する",
+                "multilingual_descriptions": {
+                    "en": "Generate sentences that an uncle would send via LINE or email.",
+                    "ja": "おじさんがLINEやメールで送ってきそうな文を生成する",
+                    "zh-hans": "生成一个似乎是叔叔通过LINE或邮件发送的句子。",
+                    "zh-hant": "生成一些看起来像叔叔会通过LINE或邮件发送的文本"
                 }
             }
         },
@@ -3286,6 +3334,18 @@
                     "ja": "mecab-neologd用の日本語テキスト正規化ツール",
                     "zh-hans": "针对mecab-neologd的日语文本规范化工具",
                     "zh-hant": "mecab-neologd 的日文文本正規化工具"
+                }
+            },
+            "https://github.com/worksapplications/elasticsearch-sudachi": {
+                "sub_category": null,
+                "repository_name": "elasticsearch-sudachi",
+                "user_name": "worksapplications",
+                "description": "The Japanese analysis plugin for elasticsearch",
+                "multilingual_descriptions": {
+                    "en": "The Japanese analysis plugin for elasticsearch",
+                    "ja": "Elasticsearchのための日本語解析プラグイン",
+                    "zh-hans": "日本的elasticsearch分析插件",
+                    "zh-hant": "日本的elasticsearch分析插件"
                 }
             }
         },
@@ -4348,6 +4408,30 @@
                     "ja": "日本語の辞書ウェブサイトやアプリからデータをポータブルなファイル形式に変換する",
                     "zh-hans": "将日语字典网站和应用程序中的数据转换为便携文件格式",
                     "zh-hant": "將日本字典網站和應用程式的資料轉換為可攜式檔案格式。"
+                }
+            },
+            "https://github.com/neologd/mecab-unidic-neologd": {
+                "sub_category": null,
+                "repository_name": "mecab-unidic-neologd",
+                "user_name": "neologd",
+                "description": "Neologism dictionary based on the language resources on the Web for mecab-unidic",
+                "multilingual_descriptions": {
+                    "en": "Neologism dictionary based on the language resources on the Web for mecab-unidic",
+                    "ja": "mecab-unidicの言語リソースに基づいたネオログ辞書",
+                    "zh-hans": "基于网络语言资源的mecab-unidic新词典",
+                    "zh-hant": "基於網絡語言資源的mecab-unidic新詞典"
+                }
+            },
+            "https://github.com/heppokofrontend/hololive-dictionary": {
+                "sub_category": null,
+                "repository_name": "hololive-dictionary",
+                "user_name": "heppokofrontend",
+                "description": "ホロライブ（ホロライブプロダクション）に関する辞書ファイルです。./dictionary フォルダ内のテキストファイルを使って、IMEに単語を追加できます。詳細はREADME.mdをご覧ください。",
+                "multilingual_descriptions": {
+                    "en": "This is a dictionary file about Hololive (Hololive Production). You can use the text files in the ./dictionary folder to add words to your IME. Please refer to README.md for more details.",
+                    "ja": "ホロライブ（ホロライブプロダクション）に関する辞書ファイルです。./dictionary フォルダ内のテキストファイルを使って、IMEに単語を追加できます。詳細はREADME.mdをご覧ください。",
+                    "zh-hans": "这是关于Hololive（Hololive Production）的词典文件。您可以使用./dictionary文件夹中的文本文件将单词添加到输入法中。详细信息请参阅README.md。",
+                    "zh-hant": "這是關於Hololive（Hololive Production）的字典文件。您可以使用./dictionary文件夾中的文本文件將單詞添加到IME中。詳情請參閱README.md。"
                 }
             }
         },
