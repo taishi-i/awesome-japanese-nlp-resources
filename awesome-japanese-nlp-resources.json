@@ -386,6 +386,30 @@
                     "zh-hant": "一個快速的字符轉換和音譯庫，基於日本國稅廳的法人番號系統定義的方案。"
                 }
             },
+            "https://github.com/eggplants/wiredify": {
+                "sub_category": "Converter",
+                "repository_name": "wiredify",
+                "user_name": "eggplants",
+                "description": "Convert japanese kana from ba-bi-bu-be-bo into va-vi-vu-ve-vo",
+                "multilingual_descriptions": {
+                    "en": "Convert japanese kana from ba-bi-bu-be-bo into va-vi-vu-ve-vo",
+                    "ja": "「ばびぶべぼ」から「ヴァヴィヴヴェヴォ」に変換してください。",
+                    "zh-hans": "将日语假名从ba-bi-bu-be-bo转换为va-vi-vu-ve-vo",
+                    "zh-hant": "將日文假名從ba-bi-bu-be-bo轉換為va-vi-vu-ve-vo\n將日文假名從ba-bi-bu-be-bo轉換為va-vi-vu-ve-vo"
+                }
+            },
+            "https://github.com/34j/mecab-text-cleaner": {
+                "sub_category": "Converter",
+                "repository_name": "mecab-text-cleaner",
+                "user_name": "34j",
+                "description": "Simple Python package (CLI/Python API) for getting japanese readings (yomigana) and accents using MeCab.",
+                "multilingual_descriptions": {
+                    "en": "Simple Python package (CLI/Python API) for getting japanese readings (yomigana) and accents using MeCab.",
+                    "ja": "MeCabを使用して、日本語の読み仮名とアクセントを取得するためのシンプルなPythonパッケージ（CLI/Python API）。",
+                    "zh-hans": "使用MeCab获取日语读音（yomigana）和重音的简单Python包（CLI/Python API）。",
+                    "zh-hant": "使用MeCab獲取日文讀音（yomigana）和重音的簡單Python套件（CLI/Python API）。"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
