@@ -4107,6 +4107,18 @@
                     "zh-hans": "这是一个使用OpenAI API的聊天脚本，可以与设定的角色用日语进行对话。",
                     "zh-hant": "這是一個使用OpenAI API的聊天腳本，可以與設定的角色用日語進行對話。"
                 }
+            },
+            "https://github.com/sifue/chatgpt-slackbot": {
+                "sub_category": null,
+                "repository_name": "chatgpt-slackbot",
+                "user_name": "sifue",
+                "description": "OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)",
+                "multilingual_descriptions": {
+                    "en": "Slackbot script for using OpenAI's ChatGPT API on Slack (assumes usage in Japanese)",
+                    "ja": "OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)",
+                    "zh-hans": "用于在Slack上使用OpenAI的ChatGPT API的Slackbot脚本（假设使用日语）",
+                    "zh-hant": "用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）\n用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）"
+                }
             }
         },
         "Dictionary": {

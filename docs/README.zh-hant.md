@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 503 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 504 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集🎉
 
@@ -20,12 +20,11 @@
 
 ## The latest additions 🎉
 
-**Python**
- * [wiredify](https://github.com/eggplants/wiredify) - 將日文假名從ba-bi-bu-be-bo轉換為va-vi-vu-ve-vo
-將日文假名從ba-bi-bu-be-bo轉換為va-vi-vu-ve-vo
- * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - 使用MeCab獲取日文讀音（yomigana）和重音的簡單Python套件（CLI/Python API）。
+**ChatGPT**
+ * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
+用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
 
-_Updated on Sep 10, 2023_
+_Updated on Sep 15, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -982,6 +981,8 @@ Resources
  * [pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution) - 這個存儲庫是為了將在神戶市政府進行的ChatGPT試行使用所創建的流程等進行解決方案化並公開。
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 為了提供使用Azure OpenAI進行應用程式實作的參考，我們免費提供應用程式的範例（參考架構、範例程式碼和部署步驟）。
  * [character_chat](https://github.com/mutaguchi/character_chat) - 這是一個使用OpenAI API的聊天腳本，可以與設定的角色用日語進行對話。
+ * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
+用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1004,6 +1005,7 @@ Resources
 |[pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/City-of-Kobe/pva-aoai-integration-solution?style=social)|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|
 |[character_chat](https://github.com/mutaguchi/character_chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mutaguchi/character_chat?style=social)|
+|[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
 
 
 ## Dictionary

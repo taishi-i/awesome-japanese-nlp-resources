@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 503 Japanese NLP repositories.
+This list includes 504 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 We have released a Japanese NLP classification dataset called [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)🎉
@@ -21,11 +21,10 @@ Please refer to [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-
 
 ## The latest additions 🎉
 
-**Python**
- * [wiredify](https://github.com/eggplants/wiredify) - Convert japanese kana from ba-bi-bu-be-bo into va-vi-vu-ve-vo
- * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - Simple Python package (CLI/Python API) for getting japanese readings (yomigana) and accents using MeCab.
+**ChatGPT**
+ * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - Slackbot script for using OpenAI's ChatGPT API on Slack (assumes usage in Japanese)
 
-_Updated on Sep 10, 2023_
+_Updated on Sep 15, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -976,6 +975,7 @@ Resources
  * [pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution) - This repository is intended to package and release the flows and other solutions created for the trial use of ChatGPT at Kobe City Hall.
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - We provide free samples of applications (reference architecture, sample code, and deployment instructions) for the purpose of implementing applications using Azure OpenAI.
  * [character_chat](https://github.com/mutaguchi/character_chat) - This is a chat script that uses OpenAI's API to have a conversation with a character set in Japanese.
+ * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - Slackbot script for using OpenAI's ChatGPT API on Slack (assumes usage in Japanese)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -998,6 +998,7 @@ Resources
 |[pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/City-of-Kobe/pva-aoai-integration-solution?style=social)|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|
 |[character_chat](https://github.com/mutaguchi/character_chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mutaguchi/character_chat?style=social)|
+|[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
 
 
 ## Dictionary

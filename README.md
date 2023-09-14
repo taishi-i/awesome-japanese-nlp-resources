@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, pre-trained models, dictionaries, and corpora of NLP for Japanese
 
-This list includes 503 Japanese NLP repositories.
+This list includes 504 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 We have released a Japanese NLP classification dataset called [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)🎉
@@ -21,11 +21,10 @@ Please refer to [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-
 
 ## The latest additions 🎉
 
-**Python**
- * [wiredify](https://github.com/eggplants/wiredify) - Convert japanese kana from ba-bi-bu-be-bo into va-vi-vu-ve-vo
- * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - Simple Python package (CLI/Python API) for getting japanese readings (yomigana) and accents using MeCab.
+**ChatGPT**
+ * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)
 
-_Updated on Sep 10, 2023_
+_Updated on Sep 15, 2023_
 
 ## Contents
  * [Python library](#python-library)
