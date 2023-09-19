@@ -18,8 +18,7 @@ Huggingface に掲載されているモデルは、[こちら](https://github.co
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)
+Add [a list of models and datasets on Huugingface](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)🤗
 
 _Updated on Sep 20, 2023_
 

@@ -19,8 +19,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用于在Slack上使用OpenAI的ChatGPT API的Slackbot脚本（假设使用日语）
+Add [a list of models and datasets on Huugingface](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)🤗
 
 _Updated on Sep 20, 2023_
 

@@ -17,9 +17,7 @@
 
 ## The latest additions 🎉
 
-**ChatGPT**
- * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
-用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
+Add [a list of models and datasets on Huugingface](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)🤗
 
 _Updated on Sep 20, 2023_
 
