@@ -10,9 +10,7 @@
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集🎉
 
-隨時歡迎您的貢獻！請在投稿前閱讀[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
-
-有關日本語LLM的資訊，請查看 [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm)。
+您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -24,7 +22,7 @@
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
 
-_Updated on Sep 15, 2023_
+_Updated on Sep 20, 2023_
 
 ## Contents
  * [Python library](#python-library)

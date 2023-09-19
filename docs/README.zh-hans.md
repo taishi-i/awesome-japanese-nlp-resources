@@ -11,9 +11,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 
 我们发布了一个名为 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日语 NLP 分类数据集🎉
 
-随时欢迎您的贡献！请在投稿前阅读[投稿指南](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)。
-
-关于日语LLM的信息，请查看[llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm)。
+您可以在Huggingface上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -24,7 +22,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 **ChatGPT**
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用于在Slack上使用OpenAI的ChatGPT API的Slackbot脚本（假设使用日语）
 
-_Updated on Sep 15, 2023_
+_Updated on Sep 20, 2023_
 
 ## Contents
  * [Python library](#python-library)

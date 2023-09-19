@@ -11,10 +11,7 @@
 
 [日本語 NLP 分類データセット](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)を公開しました🎉
 
-あなたの貢献をいつでも歓迎します！
-貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md)をお読みください。
-
-日本語LLMの情報に関しては、[llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm)をご確認ください。
+Huggingface に掲載されているモデルは、[こちら](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) をご覧ください。
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -25,7 +22,7 @@
 **ChatGPT**
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)
 
-_Updated on Sep 15, 2023_
+_Updated on Sep 20, 2023_
 
 ## Contents
  * [Python library](#python-library)

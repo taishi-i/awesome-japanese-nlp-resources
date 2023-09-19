@@ -11,10 +11,8 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 
 We have released a Japanese NLP classification dataset called [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)🎉
 
-Your contributions are always welcome!
-Please read the [Contribution guidelines](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/contributing.md) before contributing.
+For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-Please refer to [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) for information on the Japanese LLM.
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
@@ -24,7 +22,7 @@ Please refer to [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-
 **ChatGPT**
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - Slackbot script for using OpenAI's ChatGPT API on Slack (assumes usage in Japanese)
 
-_Updated on Sep 15, 2023_
+_Updated on Sep 20, 2023_
 
 ## Contents
  * [Python library](#python-library)
