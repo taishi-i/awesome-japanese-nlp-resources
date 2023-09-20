@@ -18,9 +18,9 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-Add [a list of models and datasets on Huugingface](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)🤗
+Add [a multilingual list](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) of Hugingface models and datasets🤗
 
-_Updated on Sep 20, 2023_
+_Updated on Sep 21, 2023_
 
 ## Contents
  * [Python library](#python-library)
