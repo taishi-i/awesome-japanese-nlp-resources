@@ -1106,6 +1106,18 @@
                     "zh-hant": "該存儲庫包含已修改的腳本和合併腳本，用於將Alpaca-Lora適配器調整為支持LoRA調諧，假設使用了“rinna/japanese-gpt-neox...” [gpt-neox]模型轉換為ggml。"
                 }
             },
+            "https://github.com/oshizo/japanese-llm-roleplay-benchmark": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "japanese-llm-roleplay-benchmark",
+                "user_name": "oshizo",
+                "description": "このリポジトリは日本語LLMのキャラクターロールプレイに関する性能を評価するために作成しました。",
+                "multilingual_descriptions": {
+                    "en": "This repository was created to evaluate the performance of character role-playing in Japanese LLM.",
+                    "ja": "このリポジトリは日本語LLMのキャラクターロールプレイに関する性能を評価するために作成しました。",
+                    "zh-hans": "这个存储库是为了评估日本语LLM角色扮演的性能而创建的。",
+                    "zh-hant": "這個存儲庫是為了評估日本語LLM的角色扮演性能而創建的。"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
