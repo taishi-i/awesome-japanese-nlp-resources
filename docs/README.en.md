@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-This list includes 505 Japanese NLP repositories.
+This list includes 506 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -18,10 +18,10 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-**Tool for pretrained models**
- * [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) - This repository was created to evaluate the performance of character role-playing in Japanese LLM.
+**Python**
+ * [natsume](https://github.com/faruzan0820/natsume) - A Japanese text frontend processing toolkit
 
-_Updated on Sep 24, 2023_
+_Updated on Sep 29, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -451,6 +451,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator translates English PDF files into Japanese, preserving the original layout.
  * [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) - Haystack + Elasticsearch + wikipedia(ja) を用いた、日本語の質問応答システムのサンプル
  * [mozc-devices](https://github.com/google/mozc-devices) - Automatically exported from code.google.com/p/mozc-morse
+ * [natsume](https://github.com/faruzan0820/natsume) - A Japanese text frontend processing toolkit
 
 
 |Name|downloads/week|total downloads|stars|
@@ -563,6 +564,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[pdf-translator](https://github.com/discus0434/pdf-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/pdf-translator?style=social)|
 |[japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es?style=social)|
 |[mozc-devices](https://github.com/google/mozc-devices)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/google/mozc-devices?style=social)|
+|[natsume](https://github.com/faruzan0820/natsume)|[![Downloads](https://pepy.tech/badge/natsume/week)](https://pepy.tech/project/natsume)|[![Downloads](https://pepy.tech/badge/natsume)](https://pepy.tech/project/natsume)|![GitHub Repo stars](https://img.shields.io/github/stars/faruzan0820/natsume?style=social)|
 
 
 ## C++

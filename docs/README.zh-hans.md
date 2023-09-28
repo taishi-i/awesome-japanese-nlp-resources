@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-此列表包含 505 个日语 NLP 存储库。
+此列表包含 506 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
@@ -19,10 +19,10 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 
 ## The latest additions 🎉
 
-**Tool for pretrained models**
- * [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) - 这个存储库是为了评估日本语LLM角色扮演的性能而创建的。
+**Python**
+ * [natsume](https://github.com/faruzan0820/natsume) - 一个日文文本前端处理工具包
 
-_Updated on Sep 24, 2023_
+_Updated on Sep 29, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -456,6 +456,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [pdf-translator](https://github.com/discus0434/pdf-translator) - pdf-translator将英文PDF文件翻译成日语，保留原始布局。
  * [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) - 使用Haystack + Elasticsearch + wikipedia(ja)构建的日语问答系统示例
  * [mozc-devices](https://github.com/google/mozc-devices) - 自动从code.google.com/p/mozc-morse导出
+ * [natsume](https://github.com/faruzan0820/natsume) - 一个日文文本前端处理工具包
 
 
 |Name|downloads/week|total downloads|stars|
@@ -568,6 +569,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[pdf-translator](https://github.com/discus0434/pdf-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/pdf-translator?style=social)|
 |[japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es?style=social)|
 |[mozc-devices](https://github.com/google/mozc-devices)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/google/mozc-devices?style=social)|
+|[natsume](https://github.com/faruzan0820/natsume)|[![Downloads](https://pepy.tech/badge/natsume/week)](https://pepy.tech/project/natsume)|[![Downloads](https://pepy.tech/badge/natsume)](https://pepy.tech/project/natsume)|![GitHub Repo stars](https://img.shields.io/github/stars/faruzan0820/natsume?style=social)|
 
 
 ## C++
