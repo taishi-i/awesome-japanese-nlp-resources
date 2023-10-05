@@ -2413,6 +2413,18 @@
                     "zh-hans": "一个日文文本前端处理工具包",
                     "zh-hant": "一個日文文本前端處理工具包"
                 }
+            },
+            "https://github.com/litagin02/vits-japros-webui": {
+                "sub_category": null,
+                "repository_name": "vits-japros-webui",
+                "user_name": "litagin02",
+                "description": "日本語TTS（VITS）の学習と音声合成のGradio WebUI",
+                "multilingual_descriptions": {
+                    "en": "日本語TTS（VITS）の学習と音声合成のGradio WebUI",
+                    "ja": "日本語TTS（VITS）の学習と音声合成のGradio WebUI",
+                    "zh-hans": "日本语TTS（VITS）的学习和音频合成的Gradio WebUI",
+                    "zh-hant": "日本語TTS（VITS）的學習和音訊合成的Gradio WebUI\n日本語TTS（VITS）的學習和音訊合成的Gradio WebUI"
+                }
             }
         },
         "C++": {
@@ -4143,6 +4155,18 @@
                     "zh-hans": "用于在Slack上使用OpenAI的ChatGPT API的Slackbot脚本（假设使用日语）",
                     "zh-hant": "用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）\n用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）"
                 }
+            },
+            "https://github.com/dahatake/chatgpt-prompt-sample-japanese": {
+                "sub_category": null,
+                "repository_name": "chatgpt-prompt-sample-japanese",
+                "user_name": "dahatake",
+                "description": "ChatGPT の Prompt のサンプルです。",
+                "multilingual_descriptions": {
+                    "en": "This is a sample of ChatGPT's prompt.",
+                    "ja": "ChatGPT の Prompt のサンプルです。",
+                    "zh-hans": "这是ChatGPT的提示示例。",
+                    "zh-hant": "這是ChatGPT的提示示例。\nChatGPT的提示示例。"
+                }
             }
         },
         "Dictionary": {
@@ -4492,6 +4516,18 @@
                     "ja": "ホロライブ（ホロライブプロダクション）に関する辞書ファイルです。./dictionary フォルダ内のテキストファイルを使って、IMEに単語を追加できます。詳細はREADME.mdをご覧ください。",
                     "zh-hans": "这是关于Hololive（Hololive Production）的词典文件。您可以使用./dictionary文件夹中的文本文件将单词添加到输入法中。详细信息请参阅README.md。",
                     "zh-hant": "這是關於Hololive（Hololive Production）的字典文件。您可以使用./dictionary文件夾中的文本文件將單詞添加到IME中。詳情請參閱README.md。"
+                }
+            },
+            "https://github.com/themoeway/jmdict-yomitan": {
+                "sub_category": null,
+                "repository_name": "jmdict-yomitan",
+                "user_name": "themoeway",
+                "description": "JMdict, JMnedict, KANJIDIC for Yomitan/Yomichan.",
+                "multilingual_descriptions": {
+                    "en": "JMdict, JMnedict, KANJIDIC for Yomitan/Yomichan.",
+                    "ja": "Yomitan/YomichanのためのJMdict、JMnedict、KANJIDIC。",
+                    "zh-hans": "Yomitan / Yomichan的JMdict，JMnedict，KANJIDIC。",
+                    "zh-hant": "Yomitan/Yomichan的JMdict、JMnedict和KANJIDIC。"
                 }
             }
         },

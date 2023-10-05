@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-此列表包括 506 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+此列表包括 509 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集。
@@ -17,10 +17,18 @@
 
 ## The latest additions 🎉
 
-**Python**
- * [natsume](https://github.com/faruzan0820/natsume) - 一個日文文本前端處理工具包
+**ChatGPT**
+ * [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 這是ChatGPT的提示示例。
+ChatGPT的提示示例。
 
-_Updated on Sep 29, 2023_
+**Python**
+ * [vits-japros-webui](https://github.com/litagin02/vits-japros-webui) - 日本語TTS（VITS）的學習和音訊合成的Gradio WebUI
+日本語TTS（VITS）的學習和音訊合成的Gradio WebUI
+
+**Dictionary**
+ * [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) - Yomitan/Yomichan的JMdict、JMnedict和KANJIDIC。
+
+_Updated on Oct 06, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -455,6 +463,8 @@ Mecab + NEologd + Docker + Python3
  * [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) - 使用Haystack + Elasticsearch + wikipedia(ja)構建的日語問答系統的示例
  * [mozc-devices](https://github.com/google/mozc-devices) - 自動從code.google.com/p/mozc-morse匯出
  * [natsume](https://github.com/faruzan0820/natsume) - 一個日文文本前端處理工具包
+ * [vits-japros-webui](https://github.com/litagin02/vits-japros-webui) - 日本語TTS（VITS）的學習和音訊合成的Gradio WebUI
+日本語TTS（VITS）的學習和音訊合成的Gradio WebUI
 
 
 |Name|downloads/week|total downloads|stars|
@@ -568,6 +578,7 @@ Mecab + NEologd + Docker + Python3
 |[japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es?style=social)|
 |[mozc-devices](https://github.com/google/mozc-devices)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/google/mozc-devices?style=social)|
 |[natsume](https://github.com/faruzan0820/natsume)|[![Downloads](https://pepy.tech/badge/natsume/week)](https://pepy.tech/project/natsume)|[![Downloads](https://pepy.tech/badge/natsume)](https://pepy.tech/project/natsume)|![GitHub Repo stars](https://img.shields.io/github/stars/faruzan0820/natsume?style=social)|
+|[vits-japros-webui](https://github.com/litagin02/vits-japros-webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/litagin02/vits-japros-webui?style=social)|
 
 
 ## C++
@@ -983,6 +994,8 @@ Resources
  * [character_chat](https://github.com/mutaguchi/character_chat) - 這是一個使用OpenAI API的聊天腳本，可以與設定的角色用日語進行對話。
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
 用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）
+ * [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 這是ChatGPT的提示示例。
+ChatGPT的提示示例。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1006,6 +1019,7 @@ Resources
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|
 |[character_chat](https://github.com/mutaguchi/character_chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mutaguchi/character_chat?style=social)|
 |[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
+|[chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/chatgpt-prompt-sample-japanese?style=social)|
 
 
 ## Dictionary
@@ -1039,6 +1053,7 @@ Resources
  * [jitenbot](https://github.com/stephenmk/jitenbot) - 將日本字典網站和應用程式的資料轉換為可攜式檔案格式。
  * [mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd) - 基於網絡語言資源的mecab-unidic新詞典
  * [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) - 這是關於Hololive（Hololive Production）的字典文件。您可以使用./dictionary文件夾中的文本文件將單詞添加到IME中。詳情請參閱README.md。
+ * [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) - Yomitan/Yomichan的JMdict、JMnedict和KANJIDIC。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1072,6 +1087,7 @@ Resources
 |[jitenbot](https://github.com/stephenmk/jitenbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/jitenbot?style=social)|
 |[mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neologd/mecab-unidic-neologd?style=social)|
 |[hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/heppokofrontend/hololive-dictionary?style=social)|
+|[jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/themoeway/jmdict-yomitan?style=social)|
 
 
 ## Corpus
