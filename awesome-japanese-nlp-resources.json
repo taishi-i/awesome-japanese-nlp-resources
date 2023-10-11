@@ -1118,6 +1118,18 @@
                     "zh-hant": "這個存儲庫是為了評估日本語LLM的角色扮演性能而創建的。"
                 }
             },
+            "https://github.com/yuzu-ai/japanese-llm-ranking": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "japanese-llm-ranking",
+                "user_name": "yuzu-ai",
+                "description": "This repository supports YuzuAI's Rakuda leaderboard of Japanese LLMs, which is a Japanese-focused analogue of LMSYS' Vicuna eval.",
+                "multilingual_descriptions": {
+                    "en": "This repository supports YuzuAI's Rakuda leaderboard of Japanese LLMs, which is a Japanese-focused analogue of LMSYS' Vicuna eval.",
+                    "ja": "このリポジトリは、YuzuAIのラクダリーダーボードをサポートしています。ラクダリーダーボードは、LMSYSのビクーナ評価の日本に特化した類似物です。",
+                    "zh-hans": "该存储库支持YuzuAI的Rakuda排行榜，该排行榜是日本LLMs的日本重点模拟版本，类似于LMSYS的Vicuna评估。",
+                    "zh-hant": "這個儲存庫支援YuzuAI的Rakuda排行榜，該排行榜是日本語言模型的日本專用版本，類似於LMSYS的Vicuna評估。"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
@@ -2848,6 +2860,18 @@
                     "ja": "出力: SKK（シンプルかな漢字変換）ライブラリ",
                     "zh-hans": "SKK（简单假名汉字转换）库",
                     "zh-hant": "SKK（簡易假名漢字轉換）程式庫"
+                }
+            },
+            "https://github.com/tysonwu/japanki": {
+                "sub_category": null,
+                "repository_name": "japanki",
+                "user_name": "tysonwu",
+                "description": "Learn Japanese vocabs 🇯🇵 by doing quizzes on CLI!",
+                "multilingual_descriptions": {
+                    "en": "Learn Japanese vocabs 🇯🇵 by doing quizzes on CLI!",
+                    "ja": "CLIでクイズをすることで日本語の単語を学びましょう！ 🇯🇵",
+                    "zh-hans": "通过在CLI上做测验来学习日语词汇🇯🇵！",
+                    "zh-hant": "通過在CLI上進行測驗來學習日語詞彙🇯🇵！"
                 }
             }
         },
