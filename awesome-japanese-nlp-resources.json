@@ -4553,6 +4553,18 @@
                     "zh-hans": "Yomitan / Yomichan的JMdict，JMnedict，KANJIDIC。",
                     "zh-hant": "Yomitan/Yomichan的JMdict、JMnedict和KANJIDIC。"
                 }
+            },
+            "https://github.com/stephenmk/yomichan-jlpt-vocab": {
+                "sub_category": null,
+                "repository_name": "yomichan-jlpt-vocab",
+                "user_name": "stephenmk",
+                "description": "JLPT level tags for words in Yomichan",
+                "multilingual_descriptions": {
+                    "en": "JLPT level tags for words in Yomichan",
+                    "ja": "Yomichanの単語に対するJLPTレベルのタグ",
+                    "zh-hans": "Yomichan中单词的JLPT级别标签",
+                    "zh-hant": "Yomichan中單詞的JLPT級別標籤"
+                }
             }
         },
         "Corpus": {
