@@ -1130,6 +1130,42 @@
                     "zh-hant": "這個儲存庫支援YuzuAI的Rakuda排行榜，該排行榜是日本語言模型的日本專用版本，類似於LMSYS的Vicuna評估。"
                 }
             },
+            "https://github.com/llm-jp/llm-jp-eval": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "llm-jp-eval",
+                "user_name": "llm-jp",
+                "description": "このツールは、複数のデータセットを横断して日本語の大規模言語モデルを自動評価するものです．",
+                "multilingual_descriptions": {
+                    "en": "This tool is designed to automatically evaluate large-scale Japanese language models across multiple datasets.",
+                    "ja": "このツールは、複数のデータセットを横断して日本語の大規模言語モデルを自動評価するものです．",
+                    "zh-hans": "这个工具可以跨多个数据集对日语大规模语言模型进行自动评估。",
+                    "zh-hant": "這個工具可以跨多個數據集對日語大規模語言模型進行自動評估。"
+                }
+            },
+            "https://github.com/llm-jp/llm-jp-sft": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "llm-jp-sft",
+                "user_name": "llm-jp",
+                "description": "This repository contains the code for supervised fine-tuning of LLM-jp models.",
+                "multilingual_descriptions": {
+                    "en": "This repository contains the code for supervised fine-tuning of LLM-jp models.",
+                    "ja": "このリポジトリには、LLM-jpモデルの教師ありファインチューニングのためのコードが含まれています。",
+                    "zh-hans": "该存储库包含了LLM-jp模型的监督微调代码。",
+                    "zh-hant": "此存儲庫包含了LLM-jp模型的監督微調代碼。"
+                }
+            },
+            "https://github.com/llm-jp/llm-jp-tokenizer": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "llm-jp-tokenizer",
+                "user_name": "llm-jp",
+                "description": "LLM勉強会（LLM-jp）で開発しているLLM用のトークナイザー関連をまとめたリポジトリです．",
+                "multilingual_descriptions": {
+                    "en": "This is a repository that summarizes the tokenizer related to LLM being developed at the LLM Study Group (LLM-jp).",
+                    "ja": "LLM勉強会（LLM-jp）で開発しているLLM用のトークナイザー関連をまとめたリポジトリです．",
+                    "zh-hans": "这是一个整理了在LLM勉强会（LLM-jp）中开发的与LLM的分词器相关的存储库。",
+                    "zh-hant": "這是一個整理了在LLM勉強會（LLM-jp）中開發的與LLM用戶端相關的分詞器的存儲庫。"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
