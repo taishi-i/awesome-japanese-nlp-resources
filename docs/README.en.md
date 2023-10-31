@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 515 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 516 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -18,15 +18,10 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-**Tool for pretrained models**
- * [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) - This tool is designed to automatically evaluate large-scale Japanese language models across multiple datasets.
- * [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) - This repository contains the code for supervised fine-tuning of LLM-jp models.
- * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - This is a repository that summarizes the tokenizer related to LLM being developed at the LLM Study Group (LLM-jp).
+**Python**
+ * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
 
-**Dictionary**
- * [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) - JLPT level tags for words in Yomichan
-
-_Updated on Oct 23, 2023_
+_Updated on Nov 01, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -251,6 +246,7 @@ _Updated on Oct 23, 2023_
  * [noyaki](https://github.com/ken11/noyaki) - Converts character span label information to tokenized text-based label information.
  * [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) - This is a sample code for creating and using a model for named entity recognition task through finetuning of the BERT model.
  * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - Code for inferring the accuracy of named entity and relation extraction from a case report corpus based on detailed annotation criteria.
+ * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -260,6 +256,7 @@ _Updated on Oct 23, 2023_
 |[noyaki](https://github.com/ken11/noyaki)|[![Downloads](https://static.pepy.tech/badge/noyaki/week)](https://pepy.tech/project/noyaki)|[![Downloads](https://static.pepy.tech/badge/noyaki)](https://pepy.tech/project/noyaki)|![GitHub Repo stars](https://img.shields.io/github/stars/ken11/noyaki?style=social)|
 |[bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ken11/bert-japanese-ner-finetuning?style=social)|
 |[joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aih-uth/joint-information-extraction-hs?style=social)|
+|[pygeonlp](https://github.com/geonlp-platform/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp/week)](https://pepy.tech/project/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp)](https://pepy.tech/project/pygeonlp)|![GitHub Repo stars](https://img.shields.io/github/stars/geonlp-platform/pygeonlp?style=social)|
 
 
 ### OCR

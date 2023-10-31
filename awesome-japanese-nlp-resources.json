@@ -722,6 +722,18 @@
                     "zh-hant": "從基於詳細註釋標準的病例報告語料庫中進行固有表達和關係抽取精度推論的代碼。"
                 }
             },
+            "https://github.com/geonlp-platform/pygeonlp": {
+                "sub_category": null,
+                "repository_name": "pygeonlp",
+                "user_name": "geonlp-platform",
+                "description": "pygeonlp, A python module for geotagging Japanese texts.",
+                "multilingual_descriptions": {
+                    "en": "pygeonlp, A python module for geotagging Japanese texts.",
+                    "ja": "pygeonlpは、日本語テキストのジオタギングに使用するPythonモジュールです。",
+                    "zh-hans": "pygeonlp，一个用于对日语文本进行地理标记的Python模块。",
+                    "zh-hant": "pygeonlp，一個用於對日文文本進行地理標記的Python模塊。"
+                }
+            },
             "https://github.com/kha-white/manga-ocr": {
                 "sub_category": "OCR",
                 "repository_name": "manga-ocr",
@@ -1968,18 +1980,6 @@
                     "ja": "純粋なPythonの日本の住所ジオコーダー",
                     "zh-hans": "纯Python日本地址地理编码器",
                     "zh-hant": "純Python日本地址地理編碼器"
-                }
-            },
-            "https://github.com/geonlp-platform/pygeonlp": {
-                "sub_category": null,
-                "repository_name": "pygeonlp",
-                "user_name": "geonlp-platform",
-                "description": "pygeonlp, A python module for geotagging Japanese texts.",
-                "multilingual_descriptions": {
-                    "en": "pygeonlp, A python module for geotagging Japanese texts.",
-                    "ja": "pygeonlpは、日本語テキストのジオタギングに使用するPythonモジュールです。",
-                    "zh-hans": "pygeonlp，一个用于对日语文本进行地理标记的Python模块。",
-                    "zh-hant": "pygeonlp，一個用於對日文文本進行地理標記的Python模塊。"
                 }
             },
             "https://github.com/yoriyuki/nksnd": {
