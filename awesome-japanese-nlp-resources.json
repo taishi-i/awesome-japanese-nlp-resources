@@ -4227,6 +4227,18 @@
                     "zh-hans": "这是ChatGPT的提示示例。",
                     "zh-hant": "這是ChatGPT的提示示例。\nChatGPT的提示示例。"
                 }
+            },
+            "https://github.com/adilmoujahid/kanji-flashcard-app-gpt4": {
+                "sub_category": null,
+                "repository_name": "kanji-flashcard-app-gpt4",
+                "user_name": "adilmoujahid",
+                "description": "A Japanese Kanji Flashcard App built using Python and Langchain, enhanced with the intelligence of GPT-4.",
+                "multilingual_descriptions": {
+                    "en": "A Japanese Kanji Flashcard App built using Python and Langchain, enhanced with the intelligence of GPT-4.",
+                    "ja": "PythonとLangchainを使用して構築された日本語漢字フラッシュカードアプリで、GPT-4の知能が強化されています。",
+                    "zh-hans": "一个使用Python和Langchain构建的日语汉字闪卡应用，结合了GPT-4的智能功能。",
+                    "zh-hant": "一個使用Python和Langchain構建的日語漢字閃卡應用程序，並搭載了GPT-4的智能增強功能。"
+                }
             }
         },
         "Dictionary": {
@@ -4600,6 +4612,18 @@
                     "ja": "Yomichanの単語に対するJLPTレベルのタグ",
                     "zh-hans": "Yomichan中单词的JLPT级别标签",
                     "zh-hant": "Yomichan中單詞的JLPT級別標籤"
+                }
+            },
+            "https://github.com/stephenmk/Jitendex": {
+                "sub_category": null,
+                "repository_name": "Jitendex",
+                "user_name": "stephenmk",
+                "description": "A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients",
+                "multilingual_descriptions": {
+                    "en": "A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients",
+                    "ja": "複数の辞書クライアントと互換性のある、無料でオープンライセンスの日本語-英語辞書",
+                    "zh-hans": "一个免费且开放许可的日英词典，可与多个词典客户端兼容。",
+                    "zh-hant": "一個免費且開放授權的日英詞典，可與多個詞典客戶端兼容。"
                 }
             }
         },

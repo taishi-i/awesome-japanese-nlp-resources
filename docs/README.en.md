@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 516 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 518 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -18,10 +18,13 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-**Python**
- * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
+**ChatGPT**
+ * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - A Japanese Kanji Flashcard App built using Python and Langchain, enhanced with the intelligence of GPT-4.
 
-_Updated on Nov 01, 2023_
+**Dictionary**
+ * [Jitendex](https://github.com/stephenmk/Jitendex) - A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients
+
+_Updated on Nov 10, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -992,6 +995,7 @@ Resources
  * [character_chat](https://github.com/mutaguchi/character_chat) - This is a chat script that uses OpenAI's API to have a conversation with a character set in Japanese.
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - Slackbot script for using OpenAI's ChatGPT API on Slack (assumes usage in Japanese)
  * [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - This is a sample of ChatGPT's prompt.
+ * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - A Japanese Kanji Flashcard App built using Python and Langchain, enhanced with the intelligence of GPT-4.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1016,6 +1020,7 @@ Resources
 |[character_chat](https://github.com/mutaguchi/character_chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mutaguchi/character_chat?style=social)|
 |[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
 |[chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/chatgpt-prompt-sample-japanese?style=social)|
+|[kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/adilmoujahid/kanji-flashcard-app-gpt4?style=social)|
 
 
 ## Dictionary
@@ -1051,6 +1056,7 @@ Resources
  * [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) - This is a dictionary file about Hololive (Hololive Production). You can use the text files in the ./dictionary folder to add words to your IME. Please refer to README.md for more details.
  * [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) - JMdict, JMnedict, KANJIDIC for Yomitan/Yomichan.
  * [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) - JLPT level tags for words in Yomichan
+ * [Jitendex](https://github.com/stephenmk/Jitendex) - A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1086,6 +1092,7 @@ Resources
 |[hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/heppokofrontend/hololive-dictionary?style=social)|
 |[jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/themoeway/jmdict-yomitan?style=social)|
 |[yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/yomichan-jlpt-vocab?style=social)|
+|[Jitendex](https://github.com/stephenmk/Jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/Jitendex?style=social)|
 
 
 ## Corpus

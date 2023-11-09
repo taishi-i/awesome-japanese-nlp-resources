@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 516 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 518 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -18,10 +18,13 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-**Python**
- * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
+**ChatGPT**
+ * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - A Japanese Kanji Flashcard App built using Python and Langchain, enhanced with the intelligence of GPT-4.
 
-_Updated on Nov 01, 2023_
+**Dictionary**
+ * [Jitendex](https://github.com/stephenmk/Jitendex) - A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients
+
+_Updated on Nov 10, 2023_
 
 ## Contents
  * [Python library](#python-library)

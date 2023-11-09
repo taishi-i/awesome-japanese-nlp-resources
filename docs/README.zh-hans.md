@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 516 个日语 NLP 存储库。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 518 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
@@ -19,10 +19,13 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 
 ## The latest additions 🎉
 
-**Python**
- * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp，一个用于对日语文本进行地理标记的Python模块。
+**ChatGPT**
+ * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - 一个使用Python和Langchain构建的日语汉字闪卡应用，结合了GPT-4的智能功能。
 
-_Updated on Nov 01, 2023_
+**Dictionary**
+ * [Jitendex](https://github.com/stephenmk/Jitendex) - 一个免费且开放许可的日英词典，可与多个词典客户端兼容。
+
+_Updated on Nov 10, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -997,6 +1000,7 @@ Resources
  * [character_chat](https://github.com/mutaguchi/character_chat) - 这是一个使用OpenAI API的聊天脚本，可以与设定的角色用日语进行对话。
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 用于在Slack上使用OpenAI的ChatGPT API的Slackbot脚本（假设使用日语）
  * [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 这是ChatGPT的提示示例。
+ * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - 一个使用Python和Langchain构建的日语汉字闪卡应用，结合了GPT-4的智能功能。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1021,6 +1025,7 @@ Resources
 |[character_chat](https://github.com/mutaguchi/character_chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mutaguchi/character_chat?style=social)|
 |[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
 |[chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/chatgpt-prompt-sample-japanese?style=social)|
+|[kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/adilmoujahid/kanji-flashcard-app-gpt4?style=social)|
 
 
 ## Dictionary
@@ -1056,6 +1061,7 @@ Resources
  * [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) - 这是关于Hololive（Hololive Production）的词典文件。您可以使用./dictionary文件夹中的文本文件将单词添加到输入法中。详细信息请参阅README.md。
  * [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) - Yomitan / Yomichan的JMdict，JMnedict，KANJIDIC。
  * [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) - Yomichan中单词的JLPT级别标签
+ * [Jitendex](https://github.com/stephenmk/Jitendex) - 一个免费且开放许可的日英词典，可与多个词典客户端兼容。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1091,6 +1097,7 @@ Resources
 |[hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/heppokofrontend/hololive-dictionary?style=social)|
 |[jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/themoeway/jmdict-yomitan?style=social)|
 |[yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/yomichan-jlpt-vocab?style=social)|
+|[Jitendex](https://github.com/stephenmk/Jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/Jitendex?style=social)|
 
 
 ## Corpus
