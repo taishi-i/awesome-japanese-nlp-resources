@@ -5959,6 +5959,18 @@
                     "zh-hans": "前5000个日本姓氏，附带读音，按频率排序。",
                     "zh-hant": "按頻率排序的前5000個日本姓氏，附帶讀音。"
                 }
+            },
+            "https://github.com/kanjialive/kanji-data-media": {
+                "sub_category": null,
+                "repository_name": "kanji-data-media",
+                "user_name": "kanjialive",
+                "description": "Japanese language data on kanji, radicals, media files, fonts and related resources from Kanji alive",
+                "multilingual_descriptions": {
+                    "en": "Japanese language data on kanji, radicals, media files, fonts and related resources from Kanji alive",
+                    "ja": "漢字アライブからの漢字、部首、メディアファイル、フォント、関連リソースに関する日本語データ",
+                    "zh-hans": "来自Kanji alive的关于汉字、部首、媒体文件、字体和相关资源的日语语言数据",
+                    "zh-hant": "來自Kanji alive的漢字、部首、媒體文件、字體和相關資源的日語語言數據"
+                }
             }
         },
         "Tutorial": {
