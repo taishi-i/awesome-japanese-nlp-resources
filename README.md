@@ -465,6 +465,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [vits-japros-webui](https://github.com/litagin02/vits-japros-webui) - 日本語TTS（VITS）の学習と音声合成のGradio WebUI
  * [ja-law-parser](https://github.com/takuyaa/ja-law-parser) - A Japanese law parser
  * [dictation-kit](https://github.com/julius-speech/dictation-kit) - Japanese dictation kit using Julius
+ * [julius4seg](https://github.com/Hiroshiba/julius4seg) - Juliusを使ったセグメンテーション支援ツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -581,6 +582,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[vits-japros-webui](https://github.com/litagin02/vits-japros-webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/litagin02/vits-japros-webui?style=social)|
 |[ja-law-parser](https://github.com/takuyaa/ja-law-parser)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takuyaa/ja-law-parser?style=social)|
 |[dictation-kit](https://github.com/julius-speech/dictation-kit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/julius-speech/dictation-kit?style=social)|
+|[julius4seg](https://github.com/Hiroshiba/julius4seg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hiroshiba/julius4seg?style=social)|
 
 
 ## C++
