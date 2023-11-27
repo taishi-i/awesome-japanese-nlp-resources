@@ -464,6 +464,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [natsume](https://github.com/faruzan0820/natsume) - A Japanese text frontend processing toolkit
  * [vits-japros-webui](https://github.com/litagin02/vits-japros-webui) - 日本語TTS（VITS）の学習と音声合成のGradio WebUI
  * [ja-law-parser](https://github.com/takuyaa/ja-law-parser) - A Japanese law parser
+ * [dictation-kit](https://github.com/julius-speech/dictation-kit) - Japanese dictation kit using Julius
 
 
 |Name|downloads/week|total downloads|stars|
@@ -579,6 +580,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[natsume](https://github.com/faruzan0820/natsume)|[![Downloads](https://pepy.tech/badge/natsume/week)](https://pepy.tech/project/natsume)|[![Downloads](https://pepy.tech/badge/natsume)](https://pepy.tech/project/natsume)|![GitHub Repo stars](https://img.shields.io/github/stars/faruzan0820/natsume?style=social)|
 |[vits-japros-webui](https://github.com/litagin02/vits-japros-webui)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/litagin02/vits-japros-webui?style=social)|
 |[ja-law-parser](https://github.com/takuyaa/ja-law-parser)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takuyaa/ja-law-parser?style=social)|
+|[dictation-kit](https://github.com/julius-speech/dictation-kit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/julius-speech/dictation-kit?style=social)|
 
 
 ## C++
