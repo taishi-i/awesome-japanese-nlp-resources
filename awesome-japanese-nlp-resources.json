@@ -2473,6 +2473,54 @@
                     "zh-hans": "日本语TTS（VITS）的学习和音频合成的Gradio WebUI",
                     "zh-hant": "日本語TTS（VITS）的學習和音訊合成的Gradio WebUI\n日本語TTS（VITS）的學習和音訊合成的Gradio WebUI"
                 }
+            },
+            "https://github.com/takuyaa/ja-law-parser": {
+                "sub_category": null,
+                "repository_name": "ja-law-parser",
+                "user_name": "takuyaa",
+                "description": "A Japanese law parser",
+                "multilingual_descriptions": {
+                    "en": "A Japanese law parser",
+                    "ja": "日本の法律パーサー",
+                    "zh-hans": "一个日本法律解析器",
+                    "zh-hant": "一個日本法律解析器"
+                }
+            },
+            "https://github.com/julius-speech/dictation-kit": {
+                "sub_category": null,
+                "repository_name": "dictation-kit",
+                "user_name": "julius-speech",
+                "description": "Japanese dictation kit using Julius",
+                "multilingual_descriptions": {
+                    "en": "日本語の音声認識キットを使用しているジュリウス",
+                    "ja": "Juliusを使用した日本語音声認識キット",
+                    "zh-hans": "使用Julius的日语口述套件",
+                    "zh-hant": "使用Julius的日語口述套件"
+                }
+            },
+            "https://github.com/Hiroshiba/julius4seg": {
+                "sub_category": null,
+                "repository_name": "julius4seg",
+                "user_name": "Hiroshiba",
+                "description": "Juliusを使ったセグメンテーション支援ツール",
+                "multilingual_descriptions": {
+                    "en": "Segmentation support tool using Julius",
+                    "ja": "Juliusを使ったセグメンテーション支援ツール",
+                    "zh-hans": "使用Julius的分割支援工具",
+                    "zh-hant": "使用Julius的分割支援工具"
+                }
+            },
+            "https://github.com/VOICEVOX/voicevox_engine": {
+                "sub_category": null,
+                "repository_name": "voicevox_engine",
+                "user_name": "VOICEVOX",
+                "description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン",
+                "multilingual_descriptions": {
+                    "en": "VOICEVOX is a high-quality text-to-speech software that can be used for free.",
+                    "ja": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン",
+                    "zh-hans": "免费使用的中等质量的文本朗读软件，VOICEVOX的语音合成引擎",
+                    "zh-hant": "免費使用的中等品質文字朗讀軟體，VOICEVOX的語音合成引擎"
+                }
             }
         },
         "C++": {
@@ -3246,6 +3294,18 @@
                     "ja": "「ひらがな」または「カタカナ」を日本語で発音する際の音声記号(IPA)に変換するコマンド",
                     "zh-hans": "将「ひらがな」或「カタカナ」转换为日语发音时的音标(IPA)的命令。",
                     "zh-hant": "將「ひらがな」或「カタカナ」轉換為日語發音時的音標(IPA)的指令"
+                }
+            },
+            "https://github.com/VOICEVOX/voicevox": {
+                "sub_category": null,
+                "repository_name": "voicevox",
+                "user_name": "VOICEVOX",
+                "description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
+                "multilingual_descriptions": {
+                    "en": "Editor for VOICEVOX, a high-quality text-to-speech software that can be used for free.",
+                    "ja": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
+                    "zh-hans": "免费使用的中等质量的文本朗读软件，VOICEVOX的编辑器",
+                    "zh-hant": "免費使用的中等品質文字朗讀軟體，VOICEVOX的編輯器"
                 }
             }
         },
