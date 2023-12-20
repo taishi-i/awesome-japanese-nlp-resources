@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 524 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 528 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -19,15 +19,12 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 ## The latest additions 🎉
 
 **Python**
- * [ja-law-parser](https://github.com/takuyaa/ja-law-parser) - A Japanese law parser
- * [dictation-kit](https://github.com/julius-speech/dictation-kit) - 日本語の音声認識キットを使用しているジュリウス
- * [julius4seg](https://github.com/Hiroshiba/julius4seg) - Segmentation support tool using Julius
- * [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - VOICEVOX is a high-quality text-to-speech software that can be used for free.
+ * [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) - LLaVA-JP is a Japanese VLM trained by LLaVA method
+ * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - Open source RAG with Llama Index for Japanese LLM in low resource settting
+ * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日本語言模型金融评估工具
+ * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - Japanese Vicuna QA Benchmark
 
-**JavaScript**
- * [voicevox](https://github.com/VOICEVOX/voicevox) - Editor for VOICEVOX, a high-quality text-to-speech software that can be used for free.
-
-_Updated on Nov 28, 2023_
+_Updated on Dec 21, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -323,6 +320,8 @@ _Updated on Nov 28, 2023_
  * [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) - This tool is designed to automatically evaluate large-scale Japanese language models across multiple datasets.
  * [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) - This repository contains the code for supervised fine-tuning of LLM-jp models.
  * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - This is a repository that summarizes the tokenizer related to LLM being developed at the LLM Study Group (LLM-jp).
+ * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日本語言模型金融评估工具
+ * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - Japanese Vicuna QA Benchmark
 
 
 |Name|downloads/week|total downloads|stars|
@@ -355,6 +354,8 @@ _Updated on Nov 28, 2023_
 |[llm-jp-eval](https://github.com/llm-jp/llm-jp-eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-eval?style=social)|
 |[llm-jp-sft](https://github.com/llm-jp/llm-jp-sft)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-sft?style=social)|
 |[llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-tokenizer?style=social)|
+|[japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/japanese-lm-fin-harness?style=social)|
+|[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
 
 
 ### Others
@@ -473,6 +474,8 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [dictation-kit](https://github.com/julius-speech/dictation-kit) - 日本語の音声認識キットを使用しているジュリウス
  * [julius4seg](https://github.com/Hiroshiba/julius4seg) - Segmentation support tool using Julius
  * [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - VOICEVOX is a high-quality text-to-speech software that can be used for free.
+ * [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) - LLaVA-JP is a Japanese VLM trained by LLaVA method
+ * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - Open source RAG with Llama Index for Japanese LLM in low resource settting
 
 
 |Name|downloads/week|total downloads|stars|
@@ -591,6 +594,8 @@ This project aims to classify Japanese sentence to how well similar to some Japa
 |[dictation-kit](https://github.com/julius-speech/dictation-kit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/julius-speech/dictation-kit?style=social)|
 |[julius4seg](https://github.com/Hiroshiba/julius4seg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hiroshiba/julius4seg?style=social)|
 |[voicevox_engine](https://github.com/VOICEVOX/voicevox_engine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/VOICEVOX/voicevox_engine?style=social)|
+|[LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tosiyuki/LLaVA-JP?style=social)|
+|[RAG-Japanese](https://github.com/AkimParis/RAG-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AkimParis/RAG-Japanese?style=social)|
 
 
 ## C++

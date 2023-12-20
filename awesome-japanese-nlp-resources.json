@@ -1178,6 +1178,30 @@
                     "zh-hant": "這是一個整理了在LLM勉強會（LLM-jp）中開發的與LLM用戶端相關的分詞器的存儲庫。"
                 }
             },
+            "https://github.com/pfnet-research/japanese-lm-fin-harness": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "japanese-lm-fin-harness",
+                "user_name": "pfnet-research",
+                "description": "Japanese Language Model Financial Evaluation Harness",
+                "multilingual_descriptions": {
+                    "en": "日本語言模型金融评估工具",
+                    "ja": "日本語言語モデルの金融評価ハーネス",
+                    "zh-hans": "日语语言模型金融评估工具",
+                    "zh-hant": "日語語言模型金融評估工具"
+                }
+            },
+            "https://github.com/ku-nlp/ja-vicuna-qa-benchmark": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "ja-vicuna-qa-benchmark",
+                "user_name": "ku-nlp",
+                "description": "Japanese Vicuna QA Benchmark",
+                "multilingual_descriptions": {
+                    "en": "Japanese Vicuna QA Benchmark",
+                    "ja": "日本のビクーニャQAベンチマーク",
+                    "zh-hans": "日本维库纳问答基准",
+                    "zh-hant": "日本維卡尼亞QA基準"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
@@ -2520,6 +2544,30 @@
                     "ja": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン",
                     "zh-hans": "免费使用的中等质量的文本朗读软件，VOICEVOX的语音合成引擎",
                     "zh-hant": "免費使用的中等品質文字朗讀軟體，VOICEVOX的語音合成引擎"
+                }
+            },
+            "https://github.com/tosiyuki/LLaVA-JP": {
+                "sub_category": null,
+                "repository_name": "LLaVA-JP",
+                "user_name": "tosiyuki",
+                "description": "LLaVA-JP is a Japanese VLM trained by LLaVA method",
+                "multilingual_descriptions": {
+                    "en": "LLaVA-JP is a Japanese VLM trained by LLaVA method",
+                    "ja": "LLaVA-JPは、LLaVAメソッドで訓練された日本のVLMです。",
+                    "zh-hans": "LLaVA-JP是一种由LLaVA方法训练的日本VLM。",
+                    "zh-hant": "LLaVA-JP 是一個由 LLaVA 方法訓練的日本 VLM。"
+                }
+            },
+            "https://github.com/AkimParis/RAG-Japanese": {
+                "sub_category": null,
+                "repository_name": "RAG-Japanese",
+                "user_name": "AkimParis",
+                "description": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
+                "multilingual_descriptions": {
+                    "en": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
+                    "ja": "日本の低資源設定での日本語LLM用のオープンソースRAGとLlama Index",
+                    "zh-hans": "用于日本低资源环境中的开源RAG和Llama指数的LLM",
+                    "zh-hant": "用於低資源環境下的日本LLM的開源RAG與Llama指數"
                 }
             }
         },

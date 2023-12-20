@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 524 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 528 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集。
@@ -18,15 +18,12 @@
 ## The latest additions 🎉
 
 **Python**
- * [ja-law-parser](https://github.com/takuyaa/ja-law-parser) - 一個日本法律解析器
- * [dictation-kit](https://github.com/julius-speech/dictation-kit) - 使用Julius的日語口述套件
- * [julius4seg](https://github.com/Hiroshiba/julius4seg) - 使用Julius的分割支援工具
- * [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 免費使用的中等品質文字朗讀軟體，VOICEVOX的語音合成引擎
+ * [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) - LLaVA-JP 是一個由 LLaVA 方法訓練的日本 VLM。
+ * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - 用於低資源環境下的日本LLM的開源RAG與Llama指數
+ * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日語語言模型金融評估工具
+ * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - 日本維卡尼亞QA基準
 
-**JavaScript**
- * [voicevox](https://github.com/VOICEVOX/voicevox) - 免費使用的中等品質文字朗讀軟體，VOICEVOX的編輯器
-
-_Updated on Nov 28, 2023_
+_Updated on Dec 21, 2023_
 
 ## Contents
  * [Python library](#python-library)
@@ -323,6 +320,8 @@ _Updated on Nov 28, 2023_
  * [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) - 這個工具可以跨多個數據集對日語大規模語言模型進行自動評估。
  * [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) - 此存儲庫包含了LLM-jp模型的監督微調代碼。
  * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - 這是一個整理了在LLM勉強會（LLM-jp）中開發的與LLM用戶端相關的分詞器的存儲庫。
+ * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日語語言模型金融評估工具
+ * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - 日本維卡尼亞QA基準
 
 
 |Name|downloads/week|total downloads|stars|
@@ -355,6 +354,8 @@ _Updated on Nov 28, 2023_
 |[llm-jp-eval](https://github.com/llm-jp/llm-jp-eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-eval?style=social)|
 |[llm-jp-sft](https://github.com/llm-jp/llm-jp-sft)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-sft?style=social)|
 |[llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-tokenizer?style=social)|
+|[japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/japanese-lm-fin-harness?style=social)|
+|[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
 
 
 ### Others
@@ -477,6 +478,8 @@ Mecab + NEologd + Docker + Python3
  * [dictation-kit](https://github.com/julius-speech/dictation-kit) - 使用Julius的日語口述套件
  * [julius4seg](https://github.com/Hiroshiba/julius4seg) - 使用Julius的分割支援工具
  * [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 免費使用的中等品質文字朗讀軟體，VOICEVOX的語音合成引擎
+ * [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) - LLaVA-JP 是一個由 LLaVA 方法訓練的日本 VLM。
+ * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - 用於低資源環境下的日本LLM的開源RAG與Llama指數
 
 
 |Name|downloads/week|total downloads|stars|
@@ -595,6 +598,8 @@ Mecab + NEologd + Docker + Python3
 |[dictation-kit](https://github.com/julius-speech/dictation-kit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/julius-speech/dictation-kit?style=social)|
 |[julius4seg](https://github.com/Hiroshiba/julius4seg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hiroshiba/julius4seg?style=social)|
 |[voicevox_engine](https://github.com/VOICEVOX/voicevox_engine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/VOICEVOX/voicevox_engine?style=social)|
+|[LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tosiyuki/LLaVA-JP?style=social)|
+|[RAG-Japanese](https://github.com/AkimParis/RAG-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AkimParis/RAG-Japanese?style=social)|
 
 
 ## C++
