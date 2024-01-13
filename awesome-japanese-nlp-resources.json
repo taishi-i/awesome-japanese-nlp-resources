@@ -2569,6 +2569,42 @@
                     "zh-hans": "用于日本低资源环境中的开源RAG和Llama指数的LLM",
                     "zh-hant": "用於低資源環境下的日本LLM的開源RAG與Llama指數"
                 }
+            },
+            "https://github.com/er-ri/bertjsc": {
+                "sub_category": null,
+                "repository_name": "bertjsc",
+                "user_name": "er-ri",
+                "description": "Japanese Spelling Error Corrector using BERT(Masked-Language Model). BERTに基づいて日本語校正",
+                "multilingual_descriptions": {
+                    "en": "Japanese Spelling Error Corrector using BERT(Masked-Language Model). BERTに基づいて日本語校正",
+                    "ja": "BERTを使用した日本語スペルエラー修正ツール",
+                    "zh-hans": "使用BERT（遮蔽语言模型）的日语拼写错误校正器。基于BERT的日语校正器。",
+                    "zh-hant": "使用BERT（遮罩語言模型）的日語拼寫錯誤修正器。基於BERT的日語校正。"
+                }
+            },
+            "https://github.com/wandb/llm-leaderboard": {
+                "sub_category": null,
+                "repository_name": "llm-leaderboard",
+                "user_name": "wandb",
+                "description": "Project of llm evaluation to Japanese tasks",
+                "multilingual_descriptions": {
+                    "en": "Project of llm evaluation to Japanese tasks",
+                    "ja": "日本のタスクのLLM評価プロジェクト",
+                    "zh-hans": "日本任务的llm评估项目",
+                    "zh-hant": "日本任務的llm評估項目"
+                }
+            },
+            "https://github.com/nobu-g/jglue-evaluation-scripts": {
+                "sub_category": null,
+                "repository_name": "jglue-evaluation-scripts",
+                "user_name": "nobu-g",
+                "description": "About",
+                "multilingual_descriptions": {
+                    "en": "About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
+                    "ja": "JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して\nJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。",
+                    "zh-hans": "关于JGLUE的培训和评估脚本，这是一个日语理解基准测试。",
+                    "zh-hant": "關於JGLUE的培訓和評估腳本，這是一個日語理解基準的項目。"
+                }
             }
         },
         "C++": {
@@ -4732,6 +4768,18 @@
                     "ja": "複数の辞書クライアントと互換性のある、無料でオープンライセンスの日本語-英語辞書",
                     "zh-hans": "一个免费且开放许可的日英词典，可与多个词典客户端兼容。",
                     "zh-hant": "一個免費且開放授權的日英詞典，可與多個詞典客戶端兼容。"
+                }
+            },
+            "https://github.com/obfusk/jiten": {
+                "sub_category": null,
+                "repository_name": "jiten",
+                "user_name": "obfusk",
+                "description": "japanese android/cli/web dictionary based on jmdict/kanjidic — 日本語　辞典　和英辞典　漢英字典　和独辞典　和蘭辞典",
+                "multilingual_descriptions": {
+                    "en": "japanese android/cli/web dictionary based on jmdict/kanjidic — 日本語　辞典　和英辞典　漢英字典　和独辞典　和蘭辞典",
+                    "ja": "JMDict/Kanjidicに基づいた日本語のAndroid/CLI/Web辞書 — 日本語辞典、和英辞典、漢英字典、和独辞典、和蘭辞典",
+                    "zh-hans": "基于jmdict/kanjidic的日本安卓/命令行/网络词典 — 日英词典、汉英字典、德英词典、荷英词典",
+                    "zh-hant": "基於jmdict/kanjidic的日本Android/CLI/Web字典 - 日語辭典、和英辭典、漢英字典、和德辭典、和蘭辭典"
                 }
             }
         },
