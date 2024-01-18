@@ -182,6 +182,18 @@
                     "zh-hant": "基於維特比算法的加速分詞器（Python封裝）"
                 }
             },
+            "https://github.com/lighttransport/jagger-python": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "jagger-python",
+                "user_name": "lighttransport",
+                "description": "Python binding for Jagger(C++ implementation of Pattern-based Japanese Morphological Analyzer)",
+                "multilingual_descriptions": {
+                    "en": "Python binding for Jagger(C++ implementation of Pattern-based Japanese Morphological Analyzer)",
+                    "ja": "JaggerのPythonバインディング（パターンベースの日本語形態素解析器のC++実装）",
+                    "zh-hans": "Python绑定Jagger（基于模式的日语形态分析器的C++实现）",
+                    "zh-hant": "Jagger的Python綁定（基於模式的日語形態分析器的C++實現）"
+                }
+            },
             "https://github.com/megagonlabs/ginza": {
                 "sub_category": "Parsing",
                 "repository_name": "ginza",
@@ -288,6 +300,18 @@
                     "ja": "微調整されたBERTモデルを使用した異音異義語の曖昧性解消ライブラリ。",
                     "zh-hans": "使用经过微调的BERT模型的异音词消歧库。",
                     "zh-hant": "使用微調的BERT模型進行異音詞消歧的程式庫。"
+                }
+            },
+            "https://github.com/lighttransport/jdepp-python": {
+                "sub_category": "Parsing",
+                "repository_name": "jdepp-python",
+                "user_name": "lighttransport",
+                "description": "Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)",
+                "multilingual_descriptions": {
+                    "en": "Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)",
+                    "ja": "J.DepPのPythonバインディング（日本語依存構造解析器のC++実装）",
+                    "zh-hans": "Python绑定J.DepP（日语依存解析器的C++实现）",
+                    "zh-hant": "J.DepP的Python綁定（日本依存句法分析器的C++實現）"
                 }
             },
             "https://github.com/miurahr/pykakasi": {
@@ -2605,6 +2629,18 @@
                     "zh-hans": "关于JGLUE的培训和评估脚本，这是一个日语理解基准测试。",
                     "zh-hant": "關於JGLUE的培訓和評估腳本，這是一個日語理解基準的項目。"
                 }
+            },
+            "https://github.com/ZhaoPeiduo/BLIP2-Japanese": {
+                "sub_category": null,
+                "repository_name": "BLIP2-Japanese",
+                "user_name": "ZhaoPeiduo",
+                "description": "Modifying LAVIS' BLIP2 Q-former with models pretrained on Japanese datasets.",
+                "multilingual_descriptions": {
+                    "en": "Modifying LAVIS' BLIP2 Q-former with models pretrained on Japanese datasets.",
+                    "ja": "日本のデータセットで事前学習されたモデルを使用して、LAVISのBLIP2 Q-formerを修正します。\nLAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモデルを用いて修正します。",
+                    "zh-hans": "使用在日本数据集上预训练的模型来修改LAVIS的BLIP2 Q-former。",
+                    "zh-hant": "使用在日本數據集上預訓練的模型，修改LAVIS的BLIP2 Q-former。"
+                }
             }
         },
         "C++": {
@@ -4128,6 +4164,18 @@
                     "ja": "日本語のWikipediaリソースで公式ALBERT（https://github.com/google-research/albert）を事前学習するための事前学習済みモデル、コード、ガイダンスを提供します。",
                     "zh-hans": "提供预训练模型、代码和指南，以在日本维基百科资源上预训练官方ALBERT（https://github.com/google-research/albert）。",
                     "zh-hant": "提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。"
+                }
+            },
+            "https://github.com/lighttransport/japanese-llama-experiment": {
+                "sub_category": "Transformer based models",
+                "repository_name": "japanese-llama-experiment",
+                "user_name": "lighttransport",
+                "description": "Japanese LLaMa experiment",
+                "multilingual_descriptions": {
+                    "en": "日本のLLaMa実験",
+                    "ja": "日本のLLaMa実験\n日本のLLaMa実験",
+                    "zh-hans": "日本的LLaMa实验",
+                    "zh-hant": "日本的LLaMa實驗"
                 }
             }
         },
