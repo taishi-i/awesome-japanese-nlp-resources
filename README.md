@@ -487,6 +487,7 @@ This project aims to classify Japanese sentence to how well similar to some Japa
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - Project of llm evaluation to Japanese tasks
  * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - About
 Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
+ * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - Modifying LAVIS' BLIP2 Q-former with models pretrained on Japanese datasets.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -610,6 +611,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[bertjsc](https://github.com/er-ri/bertjsc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/er-ri/bertjsc?style=social)|
 |[llm-leaderboard](https://github.com/wandb/llm-leaderboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/wandb/llm-leaderboard?style=social)|
 |[jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/jglue-evaluation-scripts?style=social)|
+|[BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ZhaoPeiduo/BLIP2-Japanese?style=social)|
 
 
 ## C++
