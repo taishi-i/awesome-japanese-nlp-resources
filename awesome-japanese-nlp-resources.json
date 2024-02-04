@@ -2641,6 +2641,18 @@
                     "zh-hans": "使用在日本数据集上预训练的模型来修改LAVIS的BLIP2 Q-former。",
                     "zh-hant": "使用在日本數據集上預訓練的模型，修改LAVIS的BLIP2 Q-former。"
                 }
+            },
+            "https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils": {
+                "sub_category": null,
+                "repository_name": "wikipedia-passages-jawiki-embeddings-utils",
+                "user_name": "hotchpotch",
+                "description": "wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。",
+                "multilingual_descriptions": {
+                    "en": "wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。",
+                    "ja": "wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。",
+                    "zh-hans": "wikipedia 日本语的文本转换为各种日本语嵌入和faiss索引的脚本等。",
+                    "zh-hant": "將維基百科的日文句子轉換為各種日文嵌入和faiss索引的腳本等。"
+                }
             }
         },
         "C++": {
@@ -3076,6 +3088,18 @@
                     "ja": "CLIでクイズをすることで日本語の単語を学びましょう！ 🇯🇵",
                     "zh-hans": "通过在CLI上做测验来学习日语词汇🇯🇵！",
                     "zh-hant": "通過在CLI上進行測驗來學習日語詞彙🇯🇵！"
+                }
+            },
+            "https://github.com/jpreprocess/jpreprocess": {
+                "sub_category": null,
+                "repository_name": "jpreprocess",
+                "user_name": "jpreprocess",
+                "description": "Japanese text preprocessor for Text-to-Speech applications (OpenJTalk rewrite in rust language)",
+                "multilingual_descriptions": {
+                    "en": "Japanese text preprocessor for Text-to-Speech applications (OpenJTalk rewrite in rust language)",
+                    "ja": "テキスト読み上げアプリケーション用の日本語テキストプリプロセッサ（Rust言語でのOpenJTalkの書き直し）",
+                    "zh-hans": "用于文本转语音应用程序的日语文本预处理器（OpenJTalk在Rust语言中的重写）\n用于文本转语音应用程序的日语文本预处理器（用Rust语言重写的OpenJTalk）",
+                    "zh-hant": "用於文本轉語音應用的日文文本預處理器（OpenJTalk在Rust語言中的重寫）"
                 }
             }
         },
@@ -6174,6 +6198,30 @@
                     "ja": "漢字アライブからの漢字、部首、メディアファイル、フォント、関連リソースに関する日本語データ",
                     "zh-hans": "来自Kanji alive的关于汉字、部首、媒体文件、字体和相关资源的日语语言数据",
                     "zh-hant": "來自Kanji alive的漢字、部首、媒體文件、字體和相關資源的日語語言數據"
+                }
+            },
+            "https://github.com/reazon-research/reazonspeech": {
+                "sub_category": null,
+                "repository_name": "reazonspeech",
+                "user_name": "reazon-research",
+                "description": "Construct large-scale Japanese audio corpus at home",
+                "multilingual_descriptions": {
+                    "en": "Construct large-scale Japanese audio corpus at home",
+                    "ja": "自宅で大規模な日本語音声コーパスを構築する",
+                    "zh-hans": "在家构建大规模的日语音频语料库",
+                    "zh-hant": "在家建立大规模的日语音频语料库"
+                }
+            },
+            "https://github.com/ndl-lab/huriganacorpus-aozora": {
+                "sub_category": null,
+                "repository_name": "huriganacorpus-aozora",
+                "user_name": "ndl-lab",
+                "description": "青空文庫及びサピエの点字データから作成した振り仮名のデータセット",
+                "multilingual_descriptions": {
+                    "en": "Data set of furigana created from Aozora Bunko and Sapie's braille data.",
+                    "ja": "青空文庫及びサピエの点字データから作成した振り仮名のデータセット",
+                    "zh-hans": "青空文库和Sapie的点字数据创建的假名数据集",
+                    "zh-hant": "從青空文庫和Sapie點字數據創建的假名數據集\n從青空文庫及及サピエ的點字數據創建的振り仮名的數據集"
                 }
             }
         },
