@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 540 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 542 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集。
@@ -18,17 +18,10 @@
 ## The latest additions 🎉
 
 **Python**
- * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - 將維基百科的日文句子轉換為各種日文嵌入和faiss索引的腳本等。
+ * [utsuho](https://github.com/juno-rmks/utsuho) - Utsuho是一個Python模組，用於在日語中半角片假名和全角片假名之間進行雙向轉換。
+ * [python-habachen](https://github.com/Hizuru3/python-habachen) - 另一個快速的日本字符串轉換器
 
-**Rust**
- * [jpreprocess](https://github.com/jpreprocess/jpreprocess) - 用於文本轉語音應用的日文文本預處理器（OpenJTalk在Rust語言中的重寫）
-
-**Corpus**
- * [reazonspeech](https://github.com/reazon-research/reazonspeech) - 在家建立大规模的日语音频语料库
- * [huriganacorpus-aozora](https://github.com/ndl-lab/huriganacorpus-aozora) - 從青空文庫和Sapie點字數據創建的假名數據集
-從青空文庫及及サピエ的點字數據創建的振り仮名的數據集
-
-_Updated on Feb 05, 2024_
+_Updated on Feb 13, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -185,6 +178,8 @@ _Updated on Feb 05, 2024_
  * [mojimoji](https://github.com/studio-ousia/mojimoji) - 一個快速轉換日文半角和全角字符的轉換器
  * [text-cleaning](https://github.com/ku-nlp/text-cleaning) - 一款強大的日文網頁文本清理工具
  * [HojiChar](https://github.com/HojiChar/HojiChar) - 構成並管理多個前處理的文字前處理工具
+ * [utsuho](https://github.com/juno-rmks/utsuho) - Utsuho是一個Python模組，用於在日語中半角片假名和全角片假名之間進行雙向轉換。
+ * [python-habachen](https://github.com/Hizuru3/python-habachen) - 另一個快速的日本字符串轉換器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -194,6 +189,8 @@ _Updated on Feb 05, 2024_
 |[mojimoji](https://github.com/studio-ousia/mojimoji)|[![Downloads](https://static.pepy.tech/badge/mojimoji/week)](https://pepy.tech/project/mojimoji)|[![Downloads](https://static.pepy.tech/badge/mojimoji)](https://pepy.tech/project/mojimoji)|![GitHub Repo stars](https://img.shields.io/github/stars/studio-ousia/mojimoji?style=social)|
 |[text-cleaning](https://github.com/ku-nlp/text-cleaning)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/text-cleaning?style=social)|
 |[HojiChar](https://github.com/HojiChar/HojiChar)|[![Downloads](https://static.pepy.tech/badge/HojiChar/week)](https://pepy.tech/project/HojiChar)|[![Downloads](https://static.pepy.tech/badge/HojiChar)](https://pepy.tech/project/HojiChar)|![GitHub Repo stars](https://img.shields.io/github/stars/HojiChar/HojiChar?style=social)|
+|[utsuho](https://github.com/juno-rmks/utsuho)|[![Downloads](https://pepy.tech/badge/utsuho/week)](https://pepy.tech/project/utsuho)|[![Downloads](https://pepy.tech/badge/utsuho)](https://pepy.tech/project/utsuho)|![GitHub Repo stars](https://img.shields.io/github/stars/juno-rmks/utsuho?style=social)|
+|[python-habachen](https://github.com/Hizuru3/python-habachen)|[![Downloads](https://pepy.tech/badge/habachen/week)](https://pepy.tech/project/habachen)|[![Downloads](https://pepy.tech/badge/habachen)](https://pepy.tech/project/habachen)|![GitHub Repo stars](https://img.shields.io/github/stars/Hizuru3/python-habachen?style=social)|
 
 
 ### Sentence spliter

@@ -494,6 +494,30 @@
                     "zh-hant": "構成並管理多個前處理的文字前處理工具"
                 }
             },
+            "https://github.com/juno-rmks/utsuho": {
+                "sub_category": "Preprocessor",
+                "repository_name": "utsuho",
+                "user_name": "juno-rmks",
+                "description": "Utsuho is a Python module that facilitates bidirectional conversion between half-width katakana and full-width katakana in Japanese.",
+                "multilingual_descriptions": {
+                    "en": "Utsuho is a Python module that facilitates bidirectional conversion between half-width katakana and full-width katakana in Japanese.",
+                    "ja": "Utsuhoは、日本語の半角カタカナと全角カタカナの間で双方向変換を容易にするPythonモジュールです。",
+                    "zh-hans": "Utsuho是一个Python模块，用于在日语中半角片假名和全角片假名之间进行双向转换的工具。",
+                    "zh-hant": "Utsuho是一個Python模組，用於在日語中半角片假名和全角片假名之間進行雙向轉換。"
+                }
+            },
+            "https://github.com/Hizuru3/python-habachen": {
+                "sub_category": "Preprocessor",
+                "repository_name": "python-habachen",
+                "user_name": "Hizuru3",
+                "description": "Yet Another Fast Japanese String Converter",
+                "multilingual_descriptions": {
+                    "en": "Yet Another Fast Japanese String Converter",
+                    "ja": "もう一つの高速な日本語文字列変換ツール",
+                    "zh-hans": "另一个快速的日语字符串转换器",
+                    "zh-hant": "另一個快速的日本字符串轉換器"
+                }
+            },
             "https://github.com/megagonlabs/bunkai": {
                 "sub_category": "Sentence spliter",
                 "repository_name": "bunkai",
