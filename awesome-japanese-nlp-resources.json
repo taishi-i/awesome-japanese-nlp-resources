@@ -4479,6 +4479,18 @@
                     "zh-hans": "一个使用Python和Langchain构建的日语汉字闪卡应用，结合了GPT-4的智能功能。",
                     "zh-hant": "一個使用Python和Langchain構建的日語漢字閃卡應用程序，並搭載了GPT-4的智能增強功能。"
                 }
+            },
+            "https://github.com/jungokasai/IgakuQA": {
+                "sub_category": null,
+                "repository_name": "IgakuQA",
+                "user_name": "jungokasai",
+                "description": "Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations",
+                "multilingual_descriptions": {
+                    "en": "Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations",
+                    "ja": "日本の医師免許試験におけるGPT-4とChatGPTの評価",
+                    "zh-hans": "评估GPT-4和ChatGPT在日本医学执照考试中的表现",
+                    "zh-hant": "評估GPT-4和ChatGPT在日本醫學執照考試上的表現"
+                }
             }
         },
         "Dictionary": {
@@ -4876,6 +4888,18 @@
                     "ja": "JMDict/Kanjidicに基づいた日本語のAndroid/CLI/Web辞書 — 日本語辞典、和英辞典、漢英字典、和独辞典、和蘭辞典",
                     "zh-hans": "基于jmdict/kanjidic的日本安卓/命令行/网络词典 — 日英词典、汉英字典、德英词典、荷英词典",
                     "zh-hant": "基於jmdict/kanjidic的日本Android/CLI/Web字典 - 日語辭典、和英辭典、漢英字典、和德辭典、和蘭辭典"
+                }
+            },
+            "https://github.com/MarvNC/pixiv-yomitan": {
+                "sub_category": null,
+                "repository_name": "pixiv-yomitan",
+                "user_name": "MarvNC",
+                "description": "Pixiv Encyclopedia Dictionary for Yomitan",
+                "multilingual_descriptions": {
+                    "en": "Pixiv Encyclopedia Dictionary for Yomitan",
+                    "ja": "ピクシブ百科事典読谷のため",
+                    "zh-hans": "Pixiv百科全书关于与那城的词典",
+                    "zh-hant": "Pixiv 百科全書對於讀谷村的詞典"
                 }
             }
         },
@@ -6246,6 +6270,42 @@
                     "ja": "青空文庫及びサピエの点字データから作成した振り仮名のデータセット",
                     "zh-hans": "青空文库和Sapie的点字数据创建的假名数据集",
                     "zh-hant": "從青空文庫和Sapie點字數據創建的假名數據集\n從青空文庫及及サピエ的點字數據創建的振り仮名的數據集"
+                }
+            },
+            "https://github.com/koniwa/koniwa": {
+                "sub_category": null,
+                "repository_name": "koniwa",
+                "user_name": "koniwa",
+                "description": "An open collection of annotated voices in Japanese language",
+                "multilingual_descriptions": {
+                    "en": "An open collection of annotated voices in Japanese language",
+                    "ja": "日本語のアノテーション付き声のオープンコレクション",
+                    "zh-hans": "一个用日语语言注释的开放声音收集",
+                    "zh-hant": "一個包含日語註釋聲音的開放收藏。"
+                }
+            },
+            "https://github.com/nlp-waseda/JMMLU": {
+                "sub_category": null,
+                "repository_name": "JMMLU",
+                "user_name": "nlp-waseda",
+                "description": "日本語マルチタスク言語理解ベンチマーク Japanese Massive Multitask Language Understanding Benchmark",
+                "multilingual_descriptions": {
+                    "en": "Japanese Massive Multitask Language Understanding Benchmark",
+                    "ja": "日本語マルチタスク言語理解ベンチマーク 日本語巨大マルチタスク言語理解ベンチマーク",
+                    "zh-hans": "日本語大规模多任务语言理解基准测试",
+                    "zh-hant": "日本語大規模マルチタスク言語理解ベンチマーク"
+                }
+            },
+            "https://github.com/ndl-lab/hurigana-speech-corpus-aozora": {
+                "sub_category": null,
+                "repository_name": "hurigana-speech-corpus-aozora",
+                "user_name": "ndl-lab",
+                "description": "青空文庫振り仮名注釈付き音声コーパスのデータセット",
+                "multilingual_descriptions": {
+                    "en": "Dataset of audio corpus with furigana annotations from Aozora Bunko",
+                    "ja": "青空文庫振り仮名注釈付き音声コーパスのデータセット",
+                    "zh-hans": "青空文库振り仮名注释附带音频语料库数据集",
+                    "zh-hant": "青空文庫振り仮名註釋附音訊語料庫的數據集"
                 }
             }
         },
