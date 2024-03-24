@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 547 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 549 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集。
@@ -17,18 +17,14 @@
 
 ## The latest additions 🎉
 
-**Corpus**
- * [koniwa](https://github.com/koniwa/koniwa) - 一個包含日語註釋聲音的開放收藏。
- * [JMMLU](https://github.com/nlp-waseda/JMMLU) - 日本語大規模マルチタスク言語理解ベンチマーク
- * [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) - 青空文庫振り仮名註釋附音訊語料庫的數據集
+**Go**
+ * [go-kakasi](https://github.com/sarumaj/go-kakasi) - 在Go中將漢字音譯為平假名/片假名/羅馬字
+將漢字音譯為平假名/片假名/羅馬字，在Go中
 
-**ChatGPT**
- * [IgakuQA](https://github.com/jungokasai/IgakuQA) - 評估GPT-4和ChatGPT在日本醫學執照考試上的表現
+**Tutorial**
+ * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 教程三 創建並學習日語大規模語言模型 - 環境構建步驟與源代碼
 
-**Dictionary**
- * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv 百科全書對於讀谷村的詞典
-
-_Updated on Feb 25, 2024_
+_Updated on Mar 25, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -864,6 +860,8 @@ Resources
  * [nihongo](https://github.com/gojp/nihongo) - 日本語詞典
  * [yomichan-import](https://github.com/FooSoft/yomichan-import) - Yomichan 的外部詞典導入工具。
  * [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) - THE IDOLM@STER 日文輸入法詞彙表（由imas-db.jp提供）
+ * [go-kakasi](https://github.com/sarumaj/go-kakasi) - 在Go中將漢字音譯為平假名/片假名/羅馬字
+將漢字音譯為平假名/片假名/羅馬字，在Go中
  * [go-moji](https://github.com/ktnyt/go-moji) - 一個用於全角/半角轉換的 Go 函式庫
  * [ojichat](https://github.com/greymd/ojichat) - 生成一些看起来像叔叔会通过LINE或邮件发送的文本
 
@@ -874,6 +872,7 @@ Resources
 |[nihongo](https://github.com/gojp/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gojp/nihongo?style=social)|
 |[yomichan-import](https://github.com/FooSoft/yomichan-import)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FooSoft/yomichan-import?style=social)|
 |[imas-ime-dic](https://github.com/maruamyu/imas-ime-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/maruamyu/imas-ime-dic?style=social)|
+|[go-kakasi](https://github.com/sarumaj/go-kakasi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarumaj/go-kakasi?style=social)|
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
 |[ojichat](https://github.com/greymd/ojichat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/greymd/ojichat?style=social)|
 
@@ -1443,6 +1442,7 @@ ChatGPT的提示示例。
  * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) -【2023年版】BERTによるテキスト分類
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - 透過深度學習的自然語言處理（共立出版）支援頁面。
  * [llm-book](https://github.com/ghmagazine/llm-book) - 「大規模言語模型入門」（技術評論社，2023）的GitHub存儲庫
+ * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 教程三 創建並學習日語大規模語言模型 - 環境構建步驟與源代碼
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1462,6 +1462,7 @@ ChatGPT的提示示例。
 |[bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/bert-classification-tutorial?style=social)|
 |[python-nlp-book](https://github.com/python-nlp-book/python-nlp-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/python-nlp-book/python-nlp-book?style=social)|
 |[llm-book](https://github.com/ghmagazine/llm-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ghmagazine/llm-book?style=social)|
+|[nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-matsuda-rit/nlp2024-tutorial-3?style=social)|
 
 
 ## Research summary

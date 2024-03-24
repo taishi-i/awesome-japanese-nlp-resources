@@ -3538,6 +3538,18 @@
                     "zh-hant": "THE IDOLM@STER 日文輸入法詞彙表（由imas-db.jp提供）"
                 }
             },
+            "https://github.com/sarumaj/go-kakasi": {
+                "sub_category": null,
+                "repository_name": "go-kakasi",
+                "user_name": "sarumaj",
+                "description": "Kanji transliteration to hiragana/katakana/romaji, in Go",
+                "multilingual_descriptions": {
+                    "en": "Kanji 転写 to hiragana/katakana/romaji, in Go",
+                    "ja": "Goで漢字の読み仮名/片仮名/ローマ字に変換",
+                    "zh-hans": "汉字转换为平假名/片假名/罗马字母，在围棋游戏中",
+                    "zh-hant": "在Go中將漢字音譯為平假名/片假名/羅馬字\n將漢字音譯為平假名/片假名/羅馬字，在Go中"
+                }
+            },
             "https://github.com/ktnyt/go-moji": {
                 "sub_category": null,
                 "repository_name": "go-moji",
@@ -6476,6 +6488,18 @@
                     "ja": "「大規模言語モデル入門」（技術評論社, 2023）のGitHubリポジトリ",
                     "zh-hans": "「大规模语言模型入门」（技术评论社，2023）的GitHub仓库",
                     "zh-hant": "「大規模言語模型入門」（技術評論社，2023）的GitHub存儲庫"
+                }
+            },
+            "https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3": {
+                "sub_category": null,
+                "repository_name": "nlp2024-tutorial-3",
+                "user_name": "hiroshi-matsuda-rit",
+                "description": "環境構築手順とソースコード",
+                "multilingual_descriptions": {
+                    "en": "NLP2024 Tutorial 3 Creating and Learning a Large-Scale Japanese Language Model - Environment Setup Procedure and Source Code",
+                    "ja": "NLP2024 チュートリアル３ 作って学ぶ日本語大規模言語モデル - 環境構築手順とソースコード",
+                    "zh-hans": "NLP2024 教程3 制作和学习日语大规模语言模型 - 环境搭建步骤和源代码",
+                    "zh-hant": "NLP2024 教程三 創建並學習日語大規模語言模型 - 環境構建步驟與源代碼"
                 }
             }
         },

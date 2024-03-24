@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 547 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 549 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -18,18 +18,13 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-**Corpus**
- * [koniwa](https://github.com/koniwa/koniwa) - An open collection of annotated voices in Japanese language
- * [JMMLU](https://github.com/nlp-waseda/JMMLU) - Japanese Massive Multitask Language Understanding Benchmark
- * [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) - Dataset of audio corpus with furigana annotations from Aozora Bunko
+**Go**
+ * [go-kakasi](https://github.com/sarumaj/go-kakasi) - Kanji 転写 to hiragana/katakana/romaji, in Go
 
-**ChatGPT**
- * [IgakuQA](https://github.com/jungokasai/IgakuQA) - Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations
+**Tutorial**
+ * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 Tutorial 3 Creating and Learning a Large-Scale Japanese Language Model - Environment Setup Procedure and Source Code
 
-**Dictionary**
- * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv Encyclopedia Dictionary for Yomitan
-
-_Updated on Feb 25, 2024_
+_Updated on Mar 25, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -858,6 +853,7 @@ Resources
  * [nihongo](https://github.com/gojp/nihongo) - Japanese Dictionary
  * [yomichan-import](https://github.com/FooSoft/yomichan-import) - External dictionary importer for Yomichan.
  * [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) - THE IDOLM@STER words dictionary for Japanese IME (by imas-db.jp)
+ * [go-kakasi](https://github.com/sarumaj/go-kakasi) - Kanji 転写 to hiragana/katakana/romaji, in Go
  * [go-moji](https://github.com/ktnyt/go-moji) - A Go library for Zenkaku/Hankaku conversion
  * [ojichat](https://github.com/greymd/ojichat) - Generate sentences that an uncle would send via LINE or email.
 
@@ -868,6 +864,7 @@ Resources
 |[nihongo](https://github.com/gojp/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gojp/nihongo?style=social)|
 |[yomichan-import](https://github.com/FooSoft/yomichan-import)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FooSoft/yomichan-import?style=social)|
 |[imas-ime-dic](https://github.com/maruamyu/imas-ime-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/maruamyu/imas-ime-dic?style=social)|
+|[go-kakasi](https://github.com/sarumaj/go-kakasi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarumaj/go-kakasi?style=social)|
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
 |[ojichat](https://github.com/greymd/ojichat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/greymd/ojichat?style=social)|
 
@@ -1433,6 +1430,7 @@ Resources
  * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) -【2023年版】BERTによるテキスト分類
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - This is the support page for "Natural Language Processing with Deep Learning" (published by Kyoritsu Shuppan)
  * [llm-book](https://github.com/ghmagazine/llm-book) - GitHub repository for "Introduction to Large-scale Language Models" (Gijutsu-Hyoronsha, 2023)
+ * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 Tutorial 3 Creating and Learning a Large-Scale Japanese Language Model - Environment Setup Procedure and Source Code
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1452,6 +1450,7 @@ Resources
 |[bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/bert-classification-tutorial?style=social)|
 |[python-nlp-book](https://github.com/python-nlp-book/python-nlp-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/python-nlp-book/python-nlp-book?style=social)|
 |[llm-book](https://github.com/ghmagazine/llm-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ghmagazine/llm-book?style=social)|
+|[nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-matsuda-rit/nlp2024-tutorial-3?style=social)|
 
 
 ## Research summary

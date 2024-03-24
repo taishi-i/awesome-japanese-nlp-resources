@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 547 个日语 NLP 存储库。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 549 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
@@ -19,18 +19,13 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 
 ## The latest additions 🎉
 
-**Corpus**
- * [koniwa](https://github.com/koniwa/koniwa) - 一个用日语语言注释的开放声音收集
- * [JMMLU](https://github.com/nlp-waseda/JMMLU) - 日本語大规模多任务语言理解基准测试
- * [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) - 青空文库振り仮名注释附带音频语料库数据集
+**Go**
+ * [go-kakasi](https://github.com/sarumaj/go-kakasi) - 汉字转换为平假名/片假名/罗马字母，在围棋游戏中
 
-**ChatGPT**
- * [IgakuQA](https://github.com/jungokasai/IgakuQA) - 评估GPT-4和ChatGPT在日本医学执照考试中的表现
+**Tutorial**
+ * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 教程3 制作和学习日语大规模语言模型 - 环境搭建步骤和源代码
 
-**Dictionary**
- * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv百科全书关于与那城的词典
-
-_Updated on Feb 25, 2024_
+_Updated on Mar 25, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -864,6 +859,7 @@ Resources
  * [nihongo](https://github.com/gojp/nihongo) - 日语词典
  * [yomichan-import](https://github.com/FooSoft/yomichan-import) - Yomichan的外部词典导入器。
  * [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) - 《偶像大师》日语输入法词典（由imas-db.jp提供）
+ * [go-kakasi](https://github.com/sarumaj/go-kakasi) - 汉字转换为平假名/片假名/罗马字母，在围棋游戏中
  * [go-moji](https://github.com/ktnyt/go-moji) - 一个用于全角/半角转换的Go库
  * [ojichat](https://github.com/greymd/ojichat) - 生成一个似乎是叔叔通过LINE或邮件发送的句子。
 
@@ -874,6 +870,7 @@ Resources
 |[nihongo](https://github.com/gojp/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gojp/nihongo?style=social)|
 |[yomichan-import](https://github.com/FooSoft/yomichan-import)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FooSoft/yomichan-import?style=social)|
 |[imas-ime-dic](https://github.com/maruamyu/imas-ime-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/maruamyu/imas-ime-dic?style=social)|
+|[go-kakasi](https://github.com/sarumaj/go-kakasi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarumaj/go-kakasi?style=social)|
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
 |[ojichat](https://github.com/greymd/ojichat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/greymd/ojichat?style=social)|
 
@@ -1440,6 +1437,7 @@ COMET-ATOMIC ja
  * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) -【2023年版】BERTによるテキスト分類
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - 这是《自然语言处理：基于深度学习》（共立出版社）的支持页面。
  * [llm-book](https://github.com/ghmagazine/llm-book) - 「大规模语言模型入门」（技术评论社，2023）的GitHub仓库
+ * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 教程3 制作和学习日语大规模语言模型 - 环境搭建步骤和源代码
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1459,6 +1457,7 @@ COMET-ATOMIC ja
 |[bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/bert-classification-tutorial?style=social)|
 |[python-nlp-book](https://github.com/python-nlp-book/python-nlp-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/python-nlp-book/python-nlp-book?style=social)|
 |[llm-book](https://github.com/ghmagazine/llm-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ghmagazine/llm-book?style=social)|
+|[nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-matsuda-rit/nlp2024-tutorial-3?style=social)|
 
 
 ## Research summary
