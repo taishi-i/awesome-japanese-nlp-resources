@@ -4237,6 +4237,18 @@
                     "zh-hans": "日本的LLaMa实验",
                     "zh-hant": "日本的LLaMa實驗"
                 }
+            },
+            "https://github.com/zuntan03/easylightchatassistant": {
+                "sub_category": "Transformer based models",
+                "repository_name": "easylightchatassistant",
+                "user_name": "zuntan03",
+                "description": "EasyLightChatAssistant は軽量で検閲や規制のないローカル日本語モデルのLightChatAssistant を、KoboldCpp で簡単にお試しする環境です。",
+                "multilingual_descriptions": {
+                    "en": "EasyLightChatAssistant は軽量で検閲や規制のないローカル日本語モデルのLightChatAssistant を、KoboldCpp で簡単にお試しする環境です。",
+                    "ja": "EasyLightChatAssistantは、KoboldCppで簡単に試すことができる、軽量で検閲や規制のないローカル日本語モデルのLightChatAssistantです。",
+                    "zh-hans": "EasyLightChatAssistant是一个轻量级的、没有审查或限制的本地日语模型LightChatAssistant，在KoboldCpp中可以轻松尝试的环境。",
+                    "zh-hant": "EasyLightChatAssistant 是一個輕量級的環境，用於輕鬆測試不受審查或規範的本地日語模型LightChatAssistant，使用KoboldCpp。"
+                }
             }
         },
         "ChatGPT": {
@@ -6318,6 +6330,18 @@
                     "ja": "青空文庫振り仮名注釈付き音声コーパスのデータセット",
                     "zh-hans": "青空文库振り仮名注释附带音频语料库数据集",
                     "zh-hant": "青空文庫振り仮名註釋附音訊語料庫的數據集"
+                }
+            },
+            "https://github.com/hotchpotch/jqara": {
+                "sub_category": null,
+                "repository_name": "jqara",
+                "user_name": "hotchpotch",
+                "description": "検索拡張(RAG)評価のための日本語Q&Aデータセット",
+                "multilingual_descriptions": {
+                    "en": "JQaRA: Japanese Question Answering with Retrieval Augmentation - 検索拡張(RAG)評価のための日本語Q&Aデータセット",
+                    "ja": "JQaRA: 検索拡張（RAG）を活用した日本語質問応答データセット",
+                    "zh-hans": "JQaRA：具有检索增强功能的日语问答系统 - 用于检索增强（RAG）评估的日语问答数据集",
+                    "zh-hant": "JQaRA：具有檢索增強功能的日本問答系統 - 用於檢索增強(RAG)評估的日語問答資料集"
                 }
             }
         },
