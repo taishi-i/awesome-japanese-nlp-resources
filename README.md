@@ -1182,6 +1182,7 @@ Resources
  * [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
  * [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) - Scripts for creating a Japanese-English parallel corpus and training NMT models
  * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - google-vs-deepl-je
+ * [qedatasetjaen](https://github.com/tntc-project/qedatasetjaen) - This repository contains word-level translation quality estimation labels for both source language (Japanese) and target language (English) documents.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1197,6 +1198,7 @@ Resources
 |[cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dahlia/cjk-compsci-terms?style=social)|
 |[Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laboroai/Laboro-ParaCorpus?style=social)|
 |[google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Tzawa/google-vs-deepl-je?style=social)|
+|[qedatasetjaen](https://github.com/tntc-project/qedatasetjaen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tntc-project/qedatasetjaen?style=social)|
 
 
 ### Dialog corpus
