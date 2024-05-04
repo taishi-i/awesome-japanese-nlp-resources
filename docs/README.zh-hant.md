@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 551 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 558 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集。
@@ -18,12 +18,21 @@
 ## The latest additions 🎉
 
 **Corpus**
- * [jqara](https://github.com/hotchpotch/jqara) - JQaRA：具有檢索增強功能的日本問答系統 - 用於檢索增強(RAG)評估的日語問答資料集
+ * [jemhopqa](https://github.com/aiishii/jemhopqa) - JEMHopQA（日本語説明可能なマルチホップ質問応答）は、内部推論を評価できる日本語マルチホップQAデータセットです。
+ * [qedatasetjaen](https://github.com/tntc-project/qedatasetjaen) - 這個存儲庫包含了源語言（日語）和目標語言（英語）文檔的詞級翻譯質量估計標籤。
+ * [jacred](https://github.com/youmima/jacred) - 用於日文文件級關係提取數據集的存儲庫（計劃在三月份發布）。
+用於日文文件級關係提取數據集的存儲庫（計劃在三月份發布）。
+ * [jades](https://github.com/naist-nlp/jades) - JADES是一個針對非母語使用者的日文文本簡化數據集，詳細介紹在《JADES:針對非母語使用者的日文新文本簡化數據集》（論文即將發表）。
+ * [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) - 2023年8月，墨爾本大學公開了安全性評估數據集『Do-Not-Answer』，該數據集已經被自動翻譯成日語，並且考慮了日本文化進行了修正，以便在日語LLM評估中使用。
+ * [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) - OpenAssistant 的開源數據 OASST1 已經被翻譯成日文的數據集。
 
-**Pretrained model**
- * [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) - EasyLightChatAssistant 是一個輕量級的環境，用於輕鬆測試不受審查或規範的本地日語模型LightChatAssistant，使用KoboldCpp。
+**ChatGPT**
+ * [japagen](https://github.com/retrieva/japagen) - 使用LLM在日語任務中生成虛擬學習數據的研究
 
-_Updated on Apr 15, 2024_
+**Python**
+ * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 探索日本SimCSE
+
+_Updated on May 04, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -982,6 +991,7 @@ Resources
  * [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 使用經過日語翻譯的Stanford Alpaca資料集，進行LLaMA的微調並創建了Low-Rank Adapter，以下是其連結和生成樣本程式碼。
  * [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) - 提供預訓練模型、程式碼和指導文件，以在日本維基百科資源上預訓練官方ALBERT（https://github.com/google-research/albert）。
  * [japanese-llama-experiment](https://github.com/lighttransport/japanese-llama-experiment) - 日本的LLaMa實驗
+ * [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) - EasyLightChatAssistant 是一個輕量級的環境，用於輕鬆測試不受審查或規範的本地日語模型LightChatAssistant，使用KoboldCpp。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1022,6 +1032,7 @@ Resources
 |[Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/Japanese-Alpaca-LoRA?style=social)|
 |[albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nknytk/albert-japanese-tinysegmenter?style=social)|
 |[japanese-llama-experiment](https://github.com/lighttransport/japanese-llama-experiment)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lighttransport/japanese-llama-experiment?style=social)|
+|[easylightchatassistant](https://github.com/zuntan03/easylightchatassistant)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easylightchatassistant?style=social)|
 
 
 ## ChatGPT
@@ -1306,6 +1317,7 @@ ChatGPT的提示示例。
  * [copa-japanese](https://github.com/nlp-titech/copa-japanese) - 日本語的 COPA 資料集
  * [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) - 「按語義原則分類的單詞列表（WLSP）」的詞語熟悉度率
  * [ProSub](https://github.com/matbahasa/ProSub) - 代詞替代和稱呼詞的跨語言研究
+ * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality是一個通過眾包創建的數據集，反映了日本標註者的常識道德。
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - 從なんとか資料庫(https://supleks.jp/)的網頁爬蟲工具和收集的資料。
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 相機（CyberAgent多模態評估廣告文本生成）用於huggingface數據集
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 事實檢查句子NLI數據集
@@ -1325,6 +1337,7 @@ ChatGPT的提示示例。
  * [koniwa](https://github.com/koniwa/koniwa) - 一個包含日語註釋聲音的開放收藏。
  * [JMMLU](https://github.com/nlp-waseda/JMMLU) - 日本語大規模マルチタスク言語理解ベンチマーク
  * [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) - 青空文庫振り仮名註釋附音訊語料庫的數據集
+ * [jqara](https://github.com/hotchpotch/jqara) - JQaRA：具有檢索增強功能的日本問答系統 - 用於檢索增強(RAG)評估的日語問答資料集
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1402,6 +1415,7 @@ ChatGPT的提示示例。
 |[copa-japanese](https://github.com/nlp-titech/copa-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-titech/copa-japanese?style=social)|
 |[WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/WLSP-familiarity?style=social)|
 |[ProSub](https://github.com/matbahasa/ProSub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matbahasa/ProSub?style=social)|
+|[commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Language-Media-Lab/commonsense-moral-ja?style=social)|
 |[ramendb](https://github.com/nuko-yokohama/ramendb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nuko-yokohama/ramendb?style=social)|
 |[huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shunk031/huggingface-datasets_CAMERA?style=social)|
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
@@ -1420,6 +1434,7 @@ ChatGPT的提示示例。
 |[koniwa](https://github.com/koniwa/koniwa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koniwa/koniwa?style=social)|
 |[JMMLU](https://github.com/nlp-waseda/JMMLU)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/JMMLU?style=social)|
 |[hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/hurigana-speech-corpus-aozora?style=social)|
+|[jqara](https://github.com/hotchpotch/jqara)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/jqara?style=social)|
 
 
 ## Tutorial

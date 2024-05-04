@@ -2677,6 +2677,18 @@
                     "zh-hans": "wikipedia 日本语的文本转换为各种日本语嵌入和faiss索引的脚本等。",
                     "zh-hant": "將維基百科的日文句子轉換為各種日文嵌入和faiss索引的腳本等。"
                 }
+            },
+            "https://github.com/hpprc/simple-simcse-ja": {
+                "sub_category": null,
+                "repository_name": "simple-simcse-ja",
+                "user_name": "hpprc",
+                "description": "Exploring Japanese SimCSE",
+                "multilingual_descriptions": {
+                    "en": "Exploring Japanese SimCSE",
+                    "ja": "日本語のSimCSEを探索中",
+                    "zh-hans": "探索日本SimCSE",
+                    "zh-hant": "探索日本SimCSE"
+                }
             }
         },
         "C++": {
@@ -4237,18 +4249,6 @@
                     "zh-hans": "日本的LLaMa实验",
                     "zh-hant": "日本的LLaMa實驗"
                 }
-            },
-            "https://github.com/zuntan03/easylightchatassistant": {
-                "sub_category": "Transformer based models",
-                "repository_name": "easylightchatassistant",
-                "user_name": "zuntan03",
-                "description": "EasyLightChatAssistant は軽量で検閲や規制のないローカル日本語モデルのLightChatAssistant を、KoboldCpp で簡単にお試しする環境です。",
-                "multilingual_descriptions": {
-                    "en": "EasyLightChatAssistant は軽量で検閲や規制のないローカル日本語モデルのLightChatAssistant を、KoboldCpp で簡単にお試しする環境です。",
-                    "ja": "EasyLightChatAssistantは、KoboldCppで簡単に試すことができる、軽量で検閲や規制のないローカル日本語モデルのLightChatAssistantです。",
-                    "zh-hans": "EasyLightChatAssistant是一个轻量级的、没有审查或限制的本地日语模型LightChatAssistant，在KoboldCpp中可以轻松尝试的环境。",
-                    "zh-hant": "EasyLightChatAssistant 是一個輕量級的環境，用於輕鬆測試不受審查或規範的本地日語模型LightChatAssistant，使用KoboldCpp。"
-                }
             }
         },
         "ChatGPT": {
@@ -4514,6 +4514,18 @@
                     "ja": "日本の医師免許試験におけるGPT-4とChatGPTの評価",
                     "zh-hans": "评估GPT-4和ChatGPT在日本医学执照考试中的表现",
                     "zh-hant": "評估GPT-4和ChatGPT在日本醫學執照考試上的表現"
+                }
+            },
+            "https://github.com/retrieva/japagen": {
+                "sub_category": null,
+                "repository_name": "japagen",
+                "user_name": "retrieva",
+                "description": "日本語タスクにおけるLLMを用いた疑似学習データ生成の検討",
+                "multilingual_descriptions": {
+                    "en": "Investigation of pseudo-learning data generation using LLM in Japanese language tasks",
+                    "ja": "日本語タスクにおけるLLMを用いた疑似学習データ生成の検討",
+                    "zh-hans": "使用LLM在日语任务中生成伪学习数据的研究",
+                    "zh-hant": "使用LLM在日語任務中生成虛擬學習數據的研究"
                 }
             }
         },
@@ -5142,6 +5154,18 @@
                     "ja": "Google vs DeepL（日本語）",
                     "zh-hans": "谷歌 vs DeepL",
                     "zh-hant": "谷歌 vs DeepL JE"
+                }
+            },
+            "https://github.com/tntc-project/qedatasetjaen": {
+                "sub_category": "Parallel corpus",
+                "repository_name": "qedatasetjaen",
+                "user_name": "tntc-project",
+                "description": "This repository contains word-level translation quality estimation labels for both source language (Japanese) and target language (English) documents.",
+                "multilingual_descriptions": {
+                    "en": "This repository contains word-level translation quality estimation labels for both source language (Japanese) and target language (English) documents.",
+                    "ja": "このリポジトリには、ソース言語（日本語）とターゲット言語（英語）の文書の単語レベルの翻訳品質推定ラベルが含まれています。",
+                    "zh-hans": "该存储库包含源语言（日语）和目标语言（英语）文档的单词级翻译质量评估标签。",
+                    "zh-hant": "這個存儲庫包含了源語言（日語）和目標語言（英語）文檔的詞級翻譯質量估計標籤。"
                 }
             },
             "https://github.com/ku-nlp/JMRD": {
@@ -6332,16 +6356,64 @@
                     "zh-hant": "青空文庫振り仮名註釋附音訊語料庫的數據集"
                 }
             },
-            "https://github.com/hotchpotch/jqara": {
+            "https://github.com/aiishii/jemhopqa": {
                 "sub_category": null,
-                "repository_name": "jqara",
-                "user_name": "hotchpotch",
-                "description": "検索拡張(RAG)評価のための日本語Q&Aデータセット",
+                "repository_name": "jemhopqa",
+                "user_name": "aiishii",
+                "description": "JEMHopQA (Japanese Explainable Multi-hop Question Answering) is a Japanese multi-hop QA dataset that can evaluate internal reasoning.",
                 "multilingual_descriptions": {
-                    "en": "JQaRA: Japanese Question Answering with Retrieval Augmentation - 検索拡張(RAG)評価のための日本語Q&Aデータセット",
-                    "ja": "JQaRA: 検索拡張（RAG）を活用した日本語質問応答データセット",
-                    "zh-hans": "JQaRA：具有检索增强功能的日语问答系统 - 用于检索增强（RAG）评估的日语问答数据集",
-                    "zh-hant": "JQaRA：具有檢索增強功能的日本問答系統 - 用於檢索增強(RAG)評估的日語問答資料集"
+                    "en": "JEMHopQA (Japanese Explainable Multi-hop Question Answering) is a Japanese multi-hop QA dataset that can evaluate internal reasoning.",
+                    "ja": "JEMHopQA（Japanese Explainable Multi-hop Question Answering）は、内部推論を評価できる日本語のマルチホップQAデータセットです。",
+                    "zh-hans": "JEMHopQA（日本可解释的多跳问题回答）是一个日本多跳QA数据集，可以评估内部推理。",
+                    "zh-hant": "JEMHopQA（日本語説明可能なマルチホップ質問応答）は、内部推論を評価できる日本語マルチホップQAデータセットです。"
+                }
+            },
+            "https://github.com/youmima/jacred": {
+                "sub_category": null,
+                "repository_name": "jacred",
+                "user_name": "youmima",
+                "description": "Repository for Japanese Document-level Relation Extraction Dataset (plan to be released in March).",
+                "multilingual_descriptions": {
+                    "en": "Repository for Japanese Document-level Relation Extraction Dataset (plan to be released in March).",
+                    "ja": "日本語文書レベルの関係抽出データセットのリポジトリ（3月にリリース予定）",
+                    "zh-hans": "日文文档级关系抽取数据集存储库（计划于三月发布）。",
+                    "zh-hant": "用於日文文件級關係提取數據集的存儲庫（計劃在三月份發布）。\n用於日文文件級關係提取數據集的存儲庫（計劃在三月份發布）。"
+                }
+            },
+            "https://github.com/naist-nlp/jades": {
+                "sub_category": null,
+                "repository_name": "jades",
+                "user_name": "naist-nlp",
+                "description": "JADES is a dataset for text simplification in Japanese, described in \"JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers\" (the paper will be available soon).",
+                "multilingual_descriptions": {
+                    "en": "JADES is a dataset for text simplification in Japanese, described in 'JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers' (the paper will be available soon).",
+                    "ja": "JADESは、日本語のテキスト簡素化のためのデータセットであり、『JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers』で説明されています（論文は近日中に公開されます）。",
+                    "zh-hans": "JADES是一个用于日语文本简化的数据集，详细描述在《JADES: 面向非母语者的日语新文本简化数据集》（论文即将发布）。",
+                    "zh-hant": "JADES是一個針對非母語使用者的日文文本簡化數據集，詳細介紹在《JADES:針對非母語使用者的日文新文本簡化數據集》（論文即將發表）。"
+                }
+            },
+            "https://github.com/kunishou/do-not-answer-ja": {
+                "sub_category": null,
+                "repository_name": "do-not-answer-ja",
+                "user_name": "kunishou",
+                "description": "2023年8月にメルボルン大学から公開された安全性評価データセット『Do-Not-Answer』を日本語LLMの評価においても使用できるように日本語に自動翻訳し、さらに日本文化も考慮して修正したデータセット。",
+                "multilingual_descriptions": {
+                    "en": "A safety evaluation dataset \"Do-Not-Answer\" released by the University of Melbourne in August 2023 has been automatically translated into Japanese for use in the evaluation of Japanese LLM, and further modified to take into account Japanese culture.",
+                    "ja": "2023年8月にメルボルン大学から公開された安全性評価データセット『Do-Not-Answer』を日本語LLMの評価においても使用できるように日本語に自動翻訳し、さらに日本文化も考慮して修正したデータセット。",
+                    "zh-hans": "2023年8月，墨尔本大学发布了安全性评估数据集“Do-Not-Answer”，现在已经将其自动翻译成日语，以便用于评估日语LLM，并根据日本文化进行了修正的数据集。",
+                    "zh-hant": "2023年8月，墨爾本大學公開了安全性評估數據集『Do-Not-Answer』，該數據集已經被自動翻譯成日語，並且考慮了日本文化進行了修正，以便在日語LLM評估中使用。"
+                }
+            },
+            "https://github.com/kunishou/oasst1-89k-ja": {
+                "sub_category": null,
+                "repository_name": "oasst1-89k-ja",
+                "user_name": "kunishou",
+                "description": "OpenAssistant のオープンソースデータ OASST1 を日本語に翻訳したデータセットになります。",
+                "multilingual_descriptions": {
+                    "en": "This is a dataset that translates OpenAssistant's open source data OASST1 into Japanese.",
+                    "ja": "OpenAssistant のオープンソースデータ OASST1 を日本語に翻訳したデータセットになります。",
+                    "zh-hans": "OpenAssistant的开源数据OASST1已被翻译成日语的数据集。",
+                    "zh-hant": "OpenAssistant 的開源數據 OASST1 已經被翻譯成日文的數據集。"
                 }
             }
         },
