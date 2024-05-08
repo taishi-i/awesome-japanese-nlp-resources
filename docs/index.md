@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、558件の日本語NLPリポジトリが含まれています。
+[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、554件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 Huggingface に掲載されているモデルは、[こちら](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) をご覧ください。
 

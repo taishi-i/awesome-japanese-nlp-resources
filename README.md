@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 558 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 554 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 

@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 558 个日语 NLP 存储库。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 554 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
