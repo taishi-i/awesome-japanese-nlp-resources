@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 554 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 561 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 我們已經發布名為 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日語 NLP 分類數據集。
@@ -17,22 +17,20 @@
 
 ## The latest additions 🎉
 
-**Corpus**
- * [jemhopqa](https://github.com/aiishii/jemhopqa) - JEMHopQA（日本語説明可能なマルチホップ質問応答）は、内部推論を評価できる日本語マルチホップQAデータセットです。
- * [qedatasetjaen](https://github.com/tntc-project/qedatasetjaen) - 這個存儲庫包含了源語言（日語）和目標語言（英語）文檔的詞級翻譯質量估計標籤。
- * [jacred](https://github.com/youmima/jacred) - 用於日文文件級關係提取數據集的存儲庫（計劃在三月份發布）。
-用於日文文件級關係提取數據集的存儲庫（計劃在三月份發布）。
- * [jades](https://github.com/naist-nlp/jades) - JADES是一個針對非母語使用者的日文文本簡化數據集，詳細介紹在《JADES:針對非母語使用者的日文新文本簡化數據集》（論文即將發表）。
- * [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) - 2023年8月，墨爾本大學公開了安全性評估數據集『Do-Not-Answer』，該數據集已經被自動翻譯成日語，並且考慮了日本文化進行了修正，以便在日語LLM評估中使用。
- * [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) - OpenAssistant 的開源數據 OASST1 已經被翻譯成日文的數據集。
-
-**ChatGPT**
- * [japagen](https://github.com/retrieva/japagen) - 使用LLM在日語任務中生成虛擬學習數據的研究
-
 **Python**
- * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 探索日本SimCSE
+ * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - 根據Wikipedia的日文文章，回答用戶問題的Gradio基於RAG的示例。
+ * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - 使用GPT-4來自動評估語言模型的回應腳本
+ * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERT進行日語固有表現抽取的微調程式
+ * [t5-japanese](https://github.com/sonoisa/t5-japanese) - 日語T5模型
 
-_Updated on May 05, 2024_
+**Corpus**
+ * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: 日本語休閒網路資訊檢索（Web IR） 日本語情報檢索評估的小型休閒Web標題和摘要資料集
+ * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - 日本語學習者的科學技術業界常用片假名與原始單字對照表
+
+**Dictionary**
+ * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - 琉球語辭典（沖繩語辭典）
+
+_Updated on May 09, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -268,6 +266,7 @@ _Updated on May 05, 2024_
  * [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) - 用於BERT模型微調的代碼。這是用於創建和使用用於實體識別任務的模型的BERT模型微調示例。
  * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - 從基於詳細註釋標準的病例報告語料庫中進行固有表達和關係抽取精度推論的代碼。
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp，一個用於對日文文本進行地理標記的Python模塊。
+ * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERT進行日語固有表現抽取的微調程式
 
 
 |Name|downloads/week|total downloads|stars|
@@ -278,6 +277,7 @@ _Updated on May 05, 2024_
 |[bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ken11/bert-japanese-ner-finetuning?style=social)|
 |[joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aih-uth/joint-information-extraction-hs?style=social)|
 |[pygeonlp](https://github.com/geonlp-platform/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp/week)](https://pepy.tech/project/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp)](https://pepy.tech/project/pygeonlp)|![GitHub Repo stars](https://img.shields.io/github/stars/geonlp-platform/pygeonlp?style=social)|
+|[bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jurabiinc/bert-ner-japanese?style=social)|
 
 
 ### OCR
@@ -505,6 +505,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 使用在日本數據集上預訓練的模型，修改LAVIS的BLIP2 Q-former。
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - 將維基百科的日文句子轉換為各種日文嵌入和faiss索引的腳本等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 探索日本SimCSE
+ * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - 根據Wikipedia的日文文章，回答用戶問題的Gradio基於RAG的示例。
+ * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - 使用GPT-4來自動評估語言模型的回應腳本
+ * [t5-japanese](https://github.com/sonoisa/t5-japanese) - 日語T5模型
 
 
 |Name|downloads/week|total downloads|stars|
@@ -631,6 +634,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ZhaoPeiduo/BLIP2-Japanese?style=social)|
 |[wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/wikipedia-passages-jawiki-embeddings-utils?style=social)|
 |[simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/simple-simcse-ja?style=social)|
+|[wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lawofcycles/wikipedia-japanese-open-rag?style=social)|
+|[gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/northern-system-service/gpt4-autoeval?style=social)|
+|[t5-japanese](https://github.com/sonoisa/t5-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/t5-japanese?style=social)|
 
 
 ## C++
@@ -1129,6 +1135,7 @@ ChatGPT的提示示例。
  * [Jitendex](https://github.com/stephenmk/Jitendex) - 一個免費且開放授權的日英詞典，可與多個詞典客戶端兼容。
  * [jiten](https://github.com/obfusk/jiten) - 基於jmdict/kanjidic的日本Android/CLI/Web字典 - 日語辭典、和英辭典、漢英字典、和德辭典、和蘭辭典
  * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv 百科全書對於讀谷村的詞典
+ * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - 琉球語辭典（沖繩語辭典）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1167,6 +1174,7 @@ ChatGPT的提示示例。
 |[Jitendex](https://github.com/stephenmk/Jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/Jitendex?style=social)|
 |[jiten](https://github.com/obfusk/jiten)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/obfusk/jiten?style=social)|
 |[pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MarvNC/pixiv-yomitan?style=social)|
+|[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
 
 
 ## Corpus
@@ -1348,7 +1356,8 @@ ChatGPT的提示示例。
  * [jades](https://github.com/naist-nlp/jades) - JADES是一個針對非母語使用者的日文文本簡化數據集，詳細介紹在《JADES:針對非母語使用者的日文新文本簡化數據集》（論文即將發表）。
  * [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) - 2023年8月，墨爾本大學公開了安全性評估數據集『Do-Not-Answer』，該數據集已經被自動翻譯成日語，並且考慮了日本文化進行了修正，以便在日語LLM評估中使用。
  * [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) - OpenAssistant 的開源數據 OASST1 已經被翻譯成日文的數據集。
-
+ * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: 日本語休閒網路資訊檢索（Web IR） 日本語情報檢索評估的小型休閒Web標題和摘要資料集
+ * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - 日本語學習者的科學技術業界常用片假名與原始單字對照表
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1451,6 +1460,8 @@ ChatGPT的提示示例。
 |[jades](https://github.com/naist-nlp/jades)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/jades?style=social)|
 |[do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/do-not-answer-ja?style=social)|
 |[oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/oasst1-89k-ja?style=social)|
+|[jacwir](https://github.com/hotchpotch/jacwir)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/jacwir?style=social)|
+|[japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laoshubaby/japanese-technical-dict?style=social)|
 
 
 ## Tutorial

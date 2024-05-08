@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 554 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 561 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 For information on the models available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
@@ -18,21 +18,20 @@ We have released a Japanese NLP classification dataset called [awesome-japanese-
 
 ## The latest additions 🎉
 
-**Corpus**
- * [jemhopqa](https://github.com/aiishii/jemhopqa) - JEMHopQA (Japanese Explainable Multi-hop Question Answering) is a Japanese multi-hop QA dataset that can evaluate internal reasoning.
- * [qedatasetjaen](https://github.com/tntc-project/qedatasetjaen) - This repository contains word-level translation quality estimation labels for both source language (Japanese) and target language (English) documents.
- * [jacred](https://github.com/youmima/jacred) - Repository for Japanese Document-level Relation Extraction Dataset (plan to be released in March).
- * [jades](https://github.com/naist-nlp/jades) - JADES is a dataset for text simplification in Japanese, described in 'JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers' (the paper will be available soon).
- * [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) - A safety evaluation dataset "Do-Not-Answer" released by the University of Melbourne in August 2023 has been automatically translated into Japanese for use in the evaluation of Japanese LLM, and further modified to take into account Japanese culture.
- * [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) - This is a dataset that translates OpenAssistant's open source data OASST1 into Japanese.
-
-**ChatGPT**
- * [japagen](https://github.com/retrieva/japagen) - Investigation of pseudo-learning data generation using LLM in Japanese language tasks
-
 **Python**
- * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - Exploring Japanese SimCSE
+ * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - Sample RAG based on Gradio to answer user questions using Japanese Wikipedia articles
+ * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - Script for automatically evaluating language model responses using GPT-4.
+ * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - Program for fine-tuning Japanese named entity recognition using BERT
+ * [t5-japanese](https://github.com/sonoisa/t5-japanese) - Japanese T5 model
 
-_Updated on May 05, 2024_
+**Corpus**
+ * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: Japanese Casual Web IR Small-scale and casual web title and abstract dataset for Japanese information retrieval evaluation.
+ * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - Comparison table of commonly used katakana and original words in the science and technology industry for Japanese language learners.
+
+**Dictionary**
+ * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - Uchinaaguchi Dictionary (Okinawan Language Dictionary)
+
+_Updated on May 09, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -267,6 +266,7 @@ _Updated on May 05, 2024_
  * [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) - This is a sample code for creating and using a model for named entity recognition task through finetuning of the BERT model.
  * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - Code for inferring the accuracy of named entity and relation extraction from a case report corpus based on detailed annotation criteria.
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
+ * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - Program for fine-tuning Japanese named entity recognition using BERT
 
 
 |Name|downloads/week|total downloads|stars|
@@ -277,6 +277,7 @@ _Updated on May 05, 2024_
 |[bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ken11/bert-japanese-ner-finetuning?style=social)|
 |[joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aih-uth/joint-information-extraction-hs?style=social)|
 |[pygeonlp](https://github.com/geonlp-platform/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp/week)](https://pepy.tech/project/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp)](https://pepy.tech/project/pygeonlp)|![GitHub Repo stars](https://img.shields.io/github/stars/geonlp-platform/pygeonlp?style=social)|
+|[bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jurabiinc/bert-ner-japanese?style=social)|
 
 
 ### OCR
@@ -500,6 +501,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - Modifying LAVIS' BLIP2 Q-former with models pretrained on Japanese datasets.
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - Exploring Japanese SimCSE
+ * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - Sample RAG based on Gradio to answer user questions using Japanese Wikipedia articles
+ * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - Script for automatically evaluating language model responses using GPT-4.
+ * [t5-japanese](https://github.com/sonoisa/t5-japanese) - Japanese T5 model
 
 
 |Name|downloads/week|total downloads|stars|
@@ -626,6 +630,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ZhaoPeiduo/BLIP2-Japanese?style=social)|
 |[wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/wikipedia-passages-jawiki-embeddings-utils?style=social)|
 |[simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/simple-simcse-ja?style=social)|
+|[wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lawofcycles/wikipedia-japanese-open-rag?style=social)|
+|[gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/northern-system-service/gpt4-autoeval?style=social)|
+|[t5-japanese](https://github.com/sonoisa/t5-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/t5-japanese?style=social)|
 
 
 ## C++
@@ -1119,6 +1126,7 @@ Resources
  * [Jitendex](https://github.com/stephenmk/Jitendex) - A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients
  * [jiten](https://github.com/obfusk/jiten) - japanese android/cli/web dictionary based on jmdict/kanjidic — 日本語　辞典　和英辞典　漢英字典　和独辞典　和蘭辞典
  * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv Encyclopedia Dictionary for Yomitan
+ * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - Uchinaaguchi Dictionary (Okinawan Language Dictionary)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1157,6 +1165,7 @@ Resources
 |[Jitendex](https://github.com/stephenmk/Jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/Jitendex?style=social)|
 |[jiten](https://github.com/obfusk/jiten)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/obfusk/jiten?style=social)|
 |[pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MarvNC/pixiv-yomitan?style=social)|
+|[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
 
 
 ## Corpus
@@ -1335,7 +1344,8 @@ Resources
  * [jades](https://github.com/naist-nlp/jades) - JADES is a dataset for text simplification in Japanese, described in 'JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers' (the paper will be available soon).
  * [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) - A safety evaluation dataset "Do-Not-Answer" released by the University of Melbourne in August 2023 has been automatically translated into Japanese for use in the evaluation of Japanese LLM, and further modified to take into account Japanese culture.
  * [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) - This is a dataset that translates OpenAssistant's open source data OASST1 into Japanese.
-
+ * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: Japanese Casual Web IR Small-scale and casual web title and abstract dataset for Japanese information retrieval evaluation.
+ * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - Comparison table of commonly used katakana and original words in the science and technology industry for Japanese language learners.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1438,6 +1448,8 @@ Resources
 |[jades](https://github.com/naist-nlp/jades)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/jades?style=social)|
 |[do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/do-not-answer-ja?style=social)|
 |[oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/oasst1-89k-ja?style=social)|
+|[jacwir](https://github.com/hotchpotch/jacwir)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/jacwir?style=social)|
+|[japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laoshubaby/japanese-technical-dict?style=social)|
 
 
 ## Tutorial
