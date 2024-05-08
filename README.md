@@ -504,6 +504,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - Exploring Japanese SimCSE
  * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - Wikipediaの日本語記事を元に、ユーザの質問に回答するGradioベースのRAGのサンプル
  * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - GPT-4 を用いて、言語モデルの応答を自動評価するスクリプト
+ * [t5-japanese](https://github.com/sonoisa/t5-japanese) - 日本語T5モデル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -632,6 +633,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/simple-simcse-ja?style=social)|
 |[wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lawofcycles/wikipedia-japanese-open-rag?style=social)|
 |[gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/northern-system-service/gpt4-autoeval?style=social)|
+|[t5-japanese](https://github.com/sonoisa/t5-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/t5-japanese?style=social)|
 
 
 ## C++
