@@ -8,9 +8,7 @@
 
 [此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 561 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
-您可以在Huggingface上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
-
-我们发布了一个名为 [awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset) 的日语 NLP 分类数据集。
+您可以在Huggingface 🤗 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
 
@@ -18,6 +16,9 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 
 
 ## The latest additions 🎉
+
+**Huggingface 🤗 **
+ * [459 models and 89 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
  * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - 基于Wikipedia日语文章的Gradio基础RAG示例，用于回答用户问题。
@@ -32,7 +33,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 **Dictionary**
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - 乌恩辞典（冲绳语辞典）
 
-_Updated on May 09, 2024_
+_Updated on May 13, 2024_
 
 ## Contents
  * [Python library](#python-library)
