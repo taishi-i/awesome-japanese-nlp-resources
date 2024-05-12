@@ -9,7 +9,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 [This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 561 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
-For information on the models and datasets available on Huggingface 🤗, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
+For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
 
 
 
@@ -18,7 +18,7 @@ For information on the models and datasets available on Huggingface 🤗, please
 
 ## The latest additions 🎉
 
-**Huggingface 🤗 **
+**Huggingface 🤗**
  * [459 models and 89 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
