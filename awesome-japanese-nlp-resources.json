@@ -2737,6 +2737,18 @@
                     "zh-hans": "日语T5模型",
                     "zh-hant": "日語T5模型"
                 }
+            },
+            "https://github.com/lightblue-tech/japanese_llm_eval": {
+                "sub_category": null,
+                "repository_name": "japanese_llm_eval",
+                "user_name": "lightblue-tech",
+                "description": "A repo for evaluating Japanese LLMs　・　日本語LLMを評価するレポ",
+                "multilingual_descriptions": {
+                    "en": "A repo for evaluating Japanese LLMs　・　日本語LLMを評価するレポ",
+                    "ja": "日本語LLMを評価するためのリポジトリ",
+                    "zh-hans": "用于评估日本语LLM的存储库",
+                    "zh-hant": "用於評估日本語LLM的存儲庫 ・ 評估日本語LLM的存儲庫"
+                }
             }
         },
         "C++": {
@@ -6510,6 +6522,18 @@
                     "ja": "日本語学習者のための科学技術業界でよく使われる片仮名と元の単語対照表",
                     "zh-hans": "适用于日语学习者的常用片假名和原始单词对照表在科学技术行业中。",
                     "zh-hant": "日本語學習者的科學技術業界常用片假名與原始單字對照表"
+                }
+            },
+            "https://github.com/cl-tohoku/j-unimorph": {
+                "sub_category": null,
+                "repository_name": "j-unimorph",
+                "user_name": "cl-tohoku",
+                "description": "Dataset of UniMorph in Japanese",
+                "multilingual_descriptions": {
+                    "en": "Dataset of UniMorph in Japanese",
+                    "ja": "日本語のUniMorphデータセット",
+                    "zh-hans": "日语UniMorph数据集",
+                    "zh-hant": "UniMorph的日文數據集"
                 }
             }
         },

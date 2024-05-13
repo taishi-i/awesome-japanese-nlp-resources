@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 561 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 563 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -15,23 +15,16 @@
 
 ## The latest additions 🎉
 
-**Huggingface 🤗**
- * [459 models and 89 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+**Huggingface🤗**
+ * Update huggingface pages and multilingual support completed: [479 models and 89 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - 根據Wikipedia的日文文章，回答用戶問題的Gradio基於RAG的示例。
- * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - 使用GPT-4來自動評估語言模型的回應腳本
- * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERT進行日語固有表現抽取的微調程式
- * [t5-japanese](https://github.com/sonoisa/t5-japanese) - 日語T5模型
+ * [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) - 用於評估日本語LLM的存儲庫 ・ 評估日本語LLM的存儲庫
 
 **Corpus**
- * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: 日本語休閒網路資訊檢索（Web IR） 日本語情報檢索評估的小型休閒Web標題和摘要資料集
- * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - 日本語學習者的科學技術業界常用片假名與原始單字對照表
+ * [j-unimorph](https://github.com/cl-tohoku/j-unimorph) - UniMorph的日文數據集
 
-**Dictionary**
- * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - 琉球語辭典（沖繩語辭典）
-
-_Updated on May 13, 2024_
+_Updated on May 14, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -509,6 +502,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) - 根據Wikipedia的日文文章，回答用戶問題的Gradio基於RAG的示例。
  * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - 使用GPT-4來自動評估語言模型的回應腳本
  * [t5-japanese](https://github.com/sonoisa/t5-japanese) - 日語T5模型
+ * [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) - 用於評估日本語LLM的存儲庫 ・ 評估日本語LLM的存儲庫
 
 
 |Name|downloads/week|total downloads|stars|
@@ -638,6 +632,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lawofcycles/wikipedia-japanese-open-rag?style=social)|
 |[gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/northern-system-service/gpt4-autoeval?style=social)|
 |[t5-japanese](https://github.com/sonoisa/t5-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/t5-japanese?style=social)|
+|[japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lightblue-tech/japanese_llm_eval?style=social)|
 
 
 ## C++
@@ -1359,6 +1354,7 @@ ChatGPT的提示示例。
  * [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) - OpenAssistant 的開源數據 OASST1 已經被翻譯成日文的數據集。
  * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: 日本語休閒網路資訊檢索（Web IR） 日本語情報檢索評估的小型休閒Web標題和摘要資料集
  * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - 日本語學習者的科學技術業界常用片假名與原始單字對照表
+ * [j-unimorph](https://github.com/cl-tohoku/j-unimorph) - UniMorph的日文數據集
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1463,6 +1459,7 @@ ChatGPT的提示示例。
 |[oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/oasst1-89k-ja?style=social)|
 |[jacwir](https://github.com/hotchpotch/jacwir)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/jacwir?style=social)|
 |[japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laoshubaby/japanese-technical-dict?style=social)|
+|[j-unimorph](https://github.com/cl-tohoku/j-unimorph)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/j-unimorph?style=social)|
 
 
 ## Tutorial
