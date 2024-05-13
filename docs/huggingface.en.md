@@ -198,8 +198,7 @@ This list is sorted by downloads as of May 14, 2024.
   - This is the gguf format conversion version of llama-3-youko-8b published by rinna-llama-3-youko-8b.
   - Downloads: 4817
 - [elyza/ELYZA-japanese-Llama-2-13b](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b)
-  - ELYZA-japanese-Llama-2-13b Model Description
-ELYZA-japanese-Llama-2-13b is a model based on Llama 2 that has undergone additional pre-training to enhance its Japanese language capabilities.
+  - ELYZA-japanese-Llama-2-13b Model DescriptionELYZA-japanese-Llama-2-13b is a model based on Llama 2 that has undergone additional pre-training to enhance its Japanese language capabilities.
   - Downloads: 4801
 - [tokyotech-llm/Swallow-70b-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-hf)
   - SwallowOur Swallow model has undergone continual pre-training from the Llama 2 family, primarily with the addition of Japanese language data.
@@ -226,8 +225,7 @@ ELYZA-japanese-Llama-2-13b is a model based on Llama 2 that has undergone additi
   - By downloading, using, or distributing any portion or element of this model, you agree to be bound by the agreement described in the LICENSE file.
   - Downloads: 4535
 - [elyza/ELYZA-japanese-Llama-2-13b-fast](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-fast)
-  - ELYZA-japanese-Llama-2-13b-fastModel Description
-ELYZA-japanese-Llama-2-13b is a model that has undergone additional pretraining to enhance Japanese language capabilities, based on Llama 2.
+  - ELYZA-japanese-Llama-2-13b-fastModel DescriptionELYZA-japanese-Llama-2-13b is a model that has undergone additional pretraining to enhance Japanese language capabilities, based on Llama 2.
   - Downloads: 4488
 - [bclavie/JaColBERT](https://huggingface.co/bclavie/JaColBERT)
   - The Japanese version of this document is still in progress.
@@ -461,12 +459,7 @@ ELYZA-japanese-Llama-2-13b is a model that has undergone additional pretraining 
   - gpt2-large-japaneseThis repository provides a large sized Japanese GPT-2 model.
   - Downloads: 1020
 - [ken11/albert-base-japanese-v1](https://huggingface.co/ken11/albert-base-japanese-v1)
-  - This is a pre-trained ALBERT model in Japanese called albert-base-japanese-v1. 
-How to use:
-This model is a PreTrained model and is generally intended to be fine-tuned for various tasks. 
-Fill-Mask: 
-This model uses Sentencepiece in the Tokenizer. There is an issue where unnecessary tokens may be mixed in after the [MASK] token. To use it properly, you need to do the following:
-For PyTorch
+  - This is a pre-trained ALBERT model in Japanese called albert-base-japanese-v1. How to use:This model is a PreTrained model and is generally intended to be fine-tuned for various tasks. Fill-Mask: This model uses Sentencepiece in the Tokenizer. There is an issue where unnecessary tokens may be mixed in after the [MASK] token. To use it properly, you need to do the following:For PyTorch
   - Downloads: 1012
 - [mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf)
   - This is a converted version of the gguf format of ELYZA-japanese-Llama-2-7b-fast being published by ELYZA-san.
@@ -487,8 +480,7 @@ For PyTorch
   - Japanese-Starling-ChatV-7B is a Japanese chat model based on the 7B parameters from "chatntq-ja-7b-v1.0".
   - Downloads: 938
 - [elyza/ELYZA-japanese-CodeLlama-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b-instruct)
-  - ELYZA-japanese-CodeLlama-7b Model Description
-ELYZA-japanese-CodeLlama-7b is a model that has undergone additional pre-training to enhance its Japanese language capabilities based on Code Llama.
+  - ELYZA-japanese-CodeLlama-7b Model DescriptionELYZA-japanese-CodeLlama-7b is a model that has undergone additional pre-training to enhance its Japanese language capabilities based on Code Llama.
   - Downloads: 934
 - [line-corporation/japanese-large-lm-3.6b](https://huggingface.co/line-corporation/japanese-large-lm-3.6b)
   - japanese-large-lm-3.6bThis repository provides a 3.6B parameters Japanese language model, trained by LINE Corporation.
@@ -881,9 +873,7 @@ ELYZA-japanese-CodeLlama-7b is a model that has undergone additional pre-trainin
   - Yaki-Dofu-Mix Overview: Yaki-Dofu-Mix is a merging model specialized in an anime-style drawing.
   - Downloads: 153
 - [Deepreneur/blue-lizard](https://huggingface.co/Deepreneur/blue-lizard)
-  - Deepreneur-blue-lizard Model Description
-
-Deepreneur-blue-lizard is a model that has undergone additional pre-training using Japanese learning data from sources such as Wikipedia and books, and fine-tuning with proprietary data against Meta's Llama-2-7b.
+  - Deepreneur-blue-lizard Model DescriptionDeepreneur-blue-lizard is a model that has undergone additional pre-training using Japanese learning data from sources such as Wikipedia and books, and fine-tuning with proprietary data against Meta's Llama-2-7b.
   - Downloads: 145
 - [rinna/nekomata-7b-instruction-gguf](https://huggingface.co/rinna/nekomata-7b-instruction-gguf)
   - rinna/nekomata-7b-instruction-ggufOverviewThe model is the GGUF version of rinna/nekomata-7b-instruction.
@@ -985,13 +975,10 @@ Deepreneur-blue-lizard is a model that has undergone additional pre-training usi
   - モデル説明 (model explanation)MoeDiffusionPlusPlus 0.7 : DreamShaper 3.3 (full) 0.3。
   - Downloads: 84
 - [ThePioneer/MoeDiffusion](https://huggingface.co/ThePioneer/MoeDiffusion)
-  - Model Explanation:
-
-A combination of YaguruMagiku 0.6 with AbyssOrangeMix2_sfw 0.4. There are rumors that the original source of the merge contains NAI leaks, so it is not recommended for NAI leak critics. I mixed YaguruMagiku, which can create an ideal black-haired ponytail face, with AbyssOrangeMix2, which has a face that is somewhat similar and easy to control.
+  - Model Explanation:A combination of YaguruMagiku 0.6 with AbyssOrangeMix2_sfw 0.4. There are rumors that the original source of the merge contains NAI leaks, so it is not recommended for NAI leak critics. I mixed YaguruMagiku, which can create an ideal black-haired ponytail face, with AbyssOrangeMix2, which has a face that is somewhat similar and easy to control.
   - Downloads: 83
 - [watashiha/watashiha-gpt-6b](https://huggingface.co/watashiha/watashiha-gpt-6b)
-  - Model Overview
-This is a pun language model developed using the AWS trn1 instance.
+  - Model OverviewThis is a pun language model developed using the AWS trn1 instance.
   - Downloads: 83
 - [oshizo/donut-base-japanese-visual-novel](https://huggingface.co/oshizo/donut-base-japanese-visual-novel)
   - This is a model trained on naver-clova-ix/donut-base in a synthetic dataset with visual novel-style images.
@@ -1060,10 +1047,7 @@ This is a pun language model developed using the AWS trn1 instance.
   - jpn-itasource group: Japanesetarget group: ItalianOPUS readme: jpn-itamodel: transformer-alignsource language(s): jpn jpn_Hani jpn_Hira jpn_Kana jpn_Latn jpn_Yiiitarget language(s): itamodel: transformer-alignpre-processing: normalization + SentencePiece (spm32k,spm32k)
   - Downloads: 60
 - [mr4/bert-base-jp-sentiment-analysis](https://huggingface.co/mr4/bert-base-jp-sentiment-analysis)
-  - Sentiment Analysis in Japanese - Analyzing emotions in Japanese
-Bert analyzes emotions
-Model description
-The model is capable of determining the sentiment of a text.
+  - Sentiment Analysis in Japanese - Analyzing emotions in JapaneseBert analyzes emotionsModel descriptionThe model is capable of determining the sentiment of a text.
   - Downloads: 59
 - [wolf4032/bert-japanese-token-classification-search-local-cuisine](https://huggingface.co/wolf4032/bert-japanese-token-classification-search-local-cuisine)
   - Model Card for Model ID - Extracting Named Entities from Question Sentences for Recipe SearchModel DetailsModel DescriptionThis model extracts specific entities that are search keywords from sentences to search for recipes. For example, when inputting a sentence like "Please tell me a dish using chicken in Tokyo that can be eaten in spring," it will extract entities such as "Tokyo → AREA," "chicken dish → TYPE," "spring → SZN," and "chicken → INGR." The extraction targets are AREA, TYPE, SZN, INGR.Languages: (NLP)
@@ -1180,8 +1164,7 @@ The model is capable of determining the sentiment of a text.
   - 日本語T5 Prefix Language ModelThis is a T5 (Text-to-Text Transfer Transformer)
   - Downloads: 31
 - [elyza/ELYZA-japanese-CodeLlama-7b](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b)
-  - ELYZA-japanese-CodeLlama-7b Model Description
-ELYZA-japanese-CodeLlama-7b is a model that has undergone additional pre-training to enhance Japanese language capabilities, based on Code Llama.
+  - ELYZA-japanese-CodeLlama-7b Model DescriptionELYZA-japanese-CodeLlama-7b is a model that has undergone additional pre-training to enhance Japanese language capabilities, based on Code Llama.
   - Downloads: 31
 - [nlp-waseda/gpt2-xl-japanese](https://huggingface.co/nlp-waseda/gpt2-xl-japanese)
   - nlp-waseda/gpt2-xl-japaneseThis is Japanese GPT2 with approximately　1.5B parameters pretrained on Japanese Wikipedia and CC-100The model architecture of the model are based on Radford+ 2019.Intended uses &amp; limitationsYou can use the raw model for text generation or fine-tune it to a downstream task.
@@ -1301,16 +1284,7 @@ ELYZA-japanese-CodeLlama-7b is a model that has undergone additional pre-trainin
   - deberta-large-japanese-unidic-luw-uposModel
   - Downloads: 17
 - [ryota39/llm-jp-1b-sft-100k-LoRA-dpo-12k](https://huggingface.co/ryota39/llm-jp-1b-sft-100k-LoRA-dpo-12k)
-  - Model Base Model: ryota39/llm-jp-1b-sft-100k-LoRA
-Training Dataset: llm-jp/hh-rlhf-12k-ja
-Training Method: Full parameter tuning
-Sample import code:
-```
-import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
-
-tokenizer = 
-```
+  - Model Base Model: ryota39/llm-jp-1b-sft-100k-LoRATraining Dataset: llm-jp/hh-rlhf-12k-jaTraining Method: Full parameter tuningSample import code:```import torchfrom transformers import AutoTokenizer, AutoModelForCausalLMtokenizer = ```
   - Downloads: 17
 - [NilanE/tinyllama-en_ja-translation-v2](https://huggingface.co/NilanE/tinyllama-en_ja-translation-v2)
   - In-progess long-context Japanese-English translation model based on tinyllama.
@@ -1445,11 +1419,7 @@ tokenizer =
   - BERT large Japanese (character-level tokenization with whole word masking, jawiki-20200831)This is a BERT model pretrained on texts in the Japanese language.
   - Downloads: 11
 - [astremo/friendly_JA](https://huggingface.co/astremo/friendly_JA)
-  - friendly_JA-Model (T5 fine-tuned model) is a machine translation model trained using the friendly_JA Corpus. It aims to make Japanese more accessible to Westerners by using a Latin/English-derived katakana lexicon instead of the standard Sino-Japanese lexicon.
-
-Examples:
-Input: 最適化を応用した機械翻訳モデルは高精度だ
-Output: オプティマイゼーションを応用したマシントランスレーションモデル
+  - friendly_JA-Model (T5 fine-tuned model) is a machine translation model trained using the friendly_JA Corpus. It aims to make Japanese more accessible to Westerners by using a Latin/English-derived katakana lexicon instead of the standard Sino-Japanese lexicon.Examples:Input: 最適化を応用した機械翻訳モデルは高精度だOutput: オプティマイゼーションを応用したマシントランスレーションモデル
   - Downloads: 11
 - [kit-nlp/electra-small-japanese-discriminator-cyberbullying](https://huggingface.co/kit-nlp/electra-small-japanese-discriminator-cyberbullying)
   - electra-base-cyberbullyingThis is an ELECTRA Small model for the Japanese language finetuned for automatic cyberbullying detection.
@@ -1691,8 +1661,7 @@ This list is sorted by downloads as of May 14, 2024.
   - Amenokaku-Code-InstructUpdate: 2023/12/27 JaxTon has added 180 records of Java code data for professionals to the dataset.
   - Downloads: 32
 - [hotchpotch/JaCWIR](https://huggingface.co/datasets/hotchpotch/JaCWIR)
-  - JaCWIR: Japanese Casual Web IR - A Small-Scale Casual Web Title and Summary Dataset for Japanese Information Retrieval Evaluation
-In recent years, with the rise of large language models (LLMs), there has been an increase in use cases where users ask natural search queries using common Japanese.
+  - JaCWIR: Japanese Casual Web IR - A Small-Scale Casual Web Title and Summary Dataset for Japanese Information Retrieval EvaluationIn recent years, with the rise of large language models (LLMs), there has been an increase in use cases where users ask natural search queries using common Japanese.
   - Downloads: 32
 - [sudy-super/CoTangent](https://huggingface.co/datasets/sudy-super/CoTangent)
   - CoTangent is a high-quality, clean dataset of 100 sets of Japanese co-training data created manually.

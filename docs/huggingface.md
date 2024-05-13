@@ -2,6 +2,8 @@
 
 This page lists the models and datasets registered with [Haggingface](https://huggingface.co) that are specific to Japanese NLP. At present, 479 models and 89 datasets are listed.
 
+[English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md)
+
 # Contents
 
  * [Models](#models)
@@ -9,7 +11,7 @@ This page lists the models and datasets registered with [Haggingface](https://hu
 
 ## Models
 
-This list is sorted by downloads as of May 13, 2024.
+This list is sorted by downloads as of May 14, 2024.
 479 models are listed.
 
 - [tohoku-nlp/bert-base-japanese](https://huggingface.co/tohoku-nlp/bert-base-japanese)
@@ -1451,7 +1453,7 @@ This list is sorted by downloads as of May 13, 2024.
   - Downloads: 11
 ## Datasets
 
-This list is sorted by downloads as of May 13, 2024.
+This list is sorted by downloads as of May 14, 2024.
 89 datasets are listed.
 
 - [shunk031/JGLUE](https://huggingface.co/datasets/shunk031/JGLUE)
