@@ -466,12 +466,7 @@ How to use:
 This model is a PreTrained model and is generally intended to be fine-tuned for various tasks. 
 Fill-Mask: 
 This model uses Sentencepiece in the Tokenizer. There is an issue where unnecessary tokens may be mixed in after the [MASK] token. To use it properly, you need to do the following:
-For PyTorch:
-```python
-from transformers import (AlbertForMaskedLM, AlbertTokenizerFast)
-import torch
-
-tokenizer = AlbertTokenizerFast.from_pretrained("ken11/al
+For PyTorch
   - Downloads: 1012
 - [mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf)
   - This is a converted version of the gguf format of ELYZA-japanese-Llama-2-7b-fast being published by ELYZA-san.
