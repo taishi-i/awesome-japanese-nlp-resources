@@ -6717,6 +6717,18 @@
                     "zh-hans": "NLP2024 教程3 制作和学习日语大规模语言模型 - 环境搭建步骤和源代码",
                     "zh-hant": "NLP2024 教程三 創建並學習日語大規模語言模型 - 環境構建步驟與源代碼"
                 }
+            },
+            "https://github.com/mpkato/japanese-ir-tutorial": {
+                "sub_category": null,
+                "repository_name": "japanese-ir-tutorial",
+                "user_name": "mpkato",
+                "description": "日本語情報検索チュートリアル",
+                "multilingual_descriptions": {
+                    "en": "Japanese Information Retrieval Tutorial",
+                    "ja": "日本語情報検索チュートリアル",
+                    "zh-hans": "日本语信息检索教程",
+                    "zh-hant": "日本語資訊檢索教學"
+                }
             }
         },
         "Research summary": {
