@@ -2749,6 +2749,18 @@
                     "zh-hans": "用于评估日本语LLM的存储库",
                     "zh-hant": "用於評估日本語LLM的存儲庫 ・ 評估日本語LLM的存儲庫"
                 }
+            },
+            "https://github.com/sbintuitions/jmteb": {
+                "sub_category": null,
+                "repository_name": "jmteb",
+                "user_name": "sbintuitions",
+                "description": "The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)",
+                "multilingual_descriptions": {
+                    "en": "The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)",
+                    "ja": "JMTEB（日本語大規模テキスト埋め込みベンチマーク）の評価スクリプト",
+                    "zh-hans": "JMTEB（日本大规模文本嵌入基准测试）的评估脚本",
+                    "zh-hant": "JMTEB（日本大规模文本嵌入基准测试）的评估脚本"
+                }
             }
         },
         "C++": {

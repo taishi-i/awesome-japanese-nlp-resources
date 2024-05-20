@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 564 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 565 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -16,12 +16,12 @@
 ## The latest additions 🎉
 
 **Huggingface🤗**
- * Update huggingface pages [523 models and 89 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Update huggingface pages [523 models and 108 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
-* [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - 日本語資訊檢索教學
+**Python**
+ * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
 
-_Updated on May 17, 2024_
+_Updated on May 20, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -500,6 +500,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - 使用GPT-4來自動評估語言模型的回應腳本
  * [t5-japanese](https://github.com/sonoisa/t5-japanese) - 日語T5模型
  * [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) - 用於評估日本語LLM的存儲庫 ・ 評估日本語LLM的存儲庫
+ * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
 
 
 |Name|downloads/week|total downloads|stars|
@@ -630,6 +631,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/northern-system-service/gpt4-autoeval?style=social)|
 |[t5-japanese](https://github.com/sonoisa/t5-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/t5-japanese?style=social)|
 |[japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lightblue-tech/japanese_llm_eval?style=social)|
+|[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 
 
 ## C++

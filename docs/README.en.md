@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 564 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 565 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -19,12 +19,12 @@ For information on the models and datasets available on Huggingface, please see 
 ## The latest additions 🎉
 
 **Huggingface🤗**
- * Update huggingface pages [523 models and 89 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Update huggingface pages [523 models and 108 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
-* [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - Japanese Information Retrieval Tutorial
+**Python**
+ * [jmteb](https://github.com/sbintuitions/jmteb) - The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)
 
-_Updated on May 17, 2024_
+_Updated on May 20, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -498,6 +498,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) - Script for automatically evaluating language model responses using GPT-4.
  * [t5-japanese](https://github.com/sonoisa/t5-japanese) - Japanese T5 model
  * [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) - A repo for evaluating Japanese LLMs　・　日本語LLMを評価するレポ
+ * [jmteb](https://github.com/sbintuitions/jmteb) - The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -628,6 +629,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/northern-system-service/gpt4-autoeval?style=social)|
 |[t5-japanese](https://github.com/sonoisa/t5-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/t5-japanese?style=social)|
 |[japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lightblue-tech/japanese_llm_eval?style=social)|
+|[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 
 
 ## C++
