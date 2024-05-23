@@ -17,12 +17,12 @@ Huggingfaceに掲載されているモデルは、[こちら](https://github.com
 ## The latest additions 🎉
 
 **Huggingface🤗**
- * Update huggingface pages [523 models and 108 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Update huggingface pages [571 models and 117 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
  * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本語大規模テキスト埋め込みベンチマーク）の評価スクリプト
 
-_Updated on May 20, 2024_
+_Updated on May 24, 2024_
 
 ## Contents
  * [Python library](#python-library)
