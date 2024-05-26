@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 565 个日语 NLP 存储库。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 566 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
@@ -18,12 +18,12 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 ## The latest additions 🎉
 
 **Huggingface🤗**
- * Update huggingface pages [571 models and 117 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Update huggingface pages [595 models and 119 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
+**Rust**
+ * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 使用软件从法院网站(https://www.courts.go.jp/index.html) 爬取裁判例数据并生成数据列表。
 
-_Updated on May 24, 2024_
+_Updated on May 27, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -748,6 +748,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanki](https://github.com/tysonwu/japanki) - 通过在CLI上做测验来学习日语词汇🇯🇵！
  * [jpreprocess](https://github.com/jpreprocess/jpreprocess) - 用于文本转语音应用程序的日语文本预处理器（OpenJTalk在Rust语言中的重写）
 用于文本转语音应用程序的日语文本预处理器（用Rust语言重写的OpenJTalk）
+ * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 使用软件从法院网站(https://www.courts.go.jp/index.html) 爬取裁判例数据并生成数据列表。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -766,6 +767,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[cskk](https://github.com/naokiri/cskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naokiri/cskk?style=social)|
 |[japanki](https://github.com/tysonwu/japanki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tysonwu/japanki?style=social)|
 |[jpreprocess](https://github.com/jpreprocess/jpreprocess)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jpreprocess/jpreprocess?style=social)|
+|[listup_precedent](https://github.com/japanese-law-analysis/listup_precedent)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japanese-law-analysis/listup_precedent?style=social)|
 
 
 ## JavaScript

@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 565 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 566 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -19,12 +19,12 @@ For information on the models and datasets available on Huggingface, please see 
 ## The latest additions 🎉
 
 **Huggingface🤗**
- * Update huggingface pages [571 models and 117 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Update huggingface pages [595 models and 119 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [jmteb](https://github.com/sbintuitions/jmteb) - The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)
+**Rust**
+ * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - Software that scrapes and generates a list of case law data from the court's website (https://www.courts.go.jp/index.html)
 
-_Updated on May 24, 2024_
+_Updated on May 27, 2024_
 
 ## Contents
  * [Python library](#python-library)
@@ -744,6 +744,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [cskk](https://github.com/naokiri/cskk) - SKK (Simple Kana Kanji conversion) library
  * [japanki](https://github.com/tysonwu/japanki) - Learn Japanese vocabs 🇯🇵 by doing quizzes on CLI!
  * [jpreprocess](https://github.com/jpreprocess/jpreprocess) - Japanese text preprocessor for Text-to-Speech applications (OpenJTalk rewrite in rust language)
+ * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - Software that scrapes and generates a list of case law data from the court's website (https://www.courts.go.jp/index.html)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -762,6 +763,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[cskk](https://github.com/naokiri/cskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naokiri/cskk?style=social)|
 |[japanki](https://github.com/tysonwu/japanki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tysonwu/japanki?style=social)|
 |[jpreprocess](https://github.com/jpreprocess/jpreprocess)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jpreprocess/jpreprocess?style=social)|
+|[listup_precedent](https://github.com/japanese-law-analysis/listup_precedent)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japanese-law-analysis/listup_precedent?style=social)|
 
 
 ## JavaScript

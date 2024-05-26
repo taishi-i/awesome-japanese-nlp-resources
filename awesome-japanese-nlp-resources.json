@@ -3209,6 +3209,18 @@
                     "zh-hans": "用于文本转语音应用程序的日语文本预处理器（OpenJTalk在Rust语言中的重写）\n用于文本转语音应用程序的日语文本预处理器（用Rust语言重写的OpenJTalk）",
                     "zh-hant": "用於文本轉語音應用的日文文本預處理器（OpenJTalk在Rust語言中的重寫）"
                 }
+            },
+            "https://github.com/japanese-law-analysis/listup_precedent": {
+                "sub_category": null,
+                "repository_name": "listup_precedent",
+                "user_name": "japanese-law-analysis",
+                "description": "裁判例のデータ一覧を裁判所のホームページ(https://www.courts.go.jp/index.html) をスクレイピングして生成するソフトウェア",
+                "multilingual_descriptions": {
+                    "en": "Software that scrapes and generates a list of case law data from the court's website (https://www.courts.go.jp/index.html)",
+                    "ja": "裁判例のデータ一覧を裁判所のホームページ(https://www.courts.go.jp/index.html) をスクレイピングして生成するソフトウェア",
+                    "zh-hans": "使用软件从法院网站(https://www.courts.go.jp/index.html) 爬取裁判例数据并生成数据列表。",
+                    "zh-hant": "裁判例資料列表生成軟體，可透過網址(https://www.courts.go.jp/index.html) 對法院網站進行爬蟲。"
+                }
             }
         },
         "JavaScript": {
