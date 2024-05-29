@@ -2761,6 +2761,18 @@
                     "zh-hans": "JMTEB（日本大规模文本嵌入基准测试）的评估脚本",
                     "zh-hant": "JMTEB（日本大规模文本嵌入基准测试）的评估脚本"
                 }
+            },
+            "https://github.com/dwangomediavillage/pydomino": {
+                "sub_category": null,
+                "repository_name": "pydomino",
+                "user_name": "dwangomediavillage",
+                "description": "日本語音声に対して音素ラベルをアラインメントするためのツールです",
+                "multilingual_descriptions": {
+                    "en": "This is a tool for aligning phoneme labels with Japanese language audio.",
+                    "ja": "日本語音声に対して音素ラベルをアラインメントするためのツールです",
+                    "zh-hans": "这是一个用于对日语语音进行音素标签对齐的工具。",
+                    "zh-hant": "這是一個用於對日語語音進行音素標籤對齊的工具。"
+                }
             }
         },
         "C++": {
