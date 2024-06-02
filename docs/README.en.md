@@ -19,12 +19,12 @@ For information on the models and datasets available on Huggingface, please see 
 ## The latest additions 🎉
 
 **Huggingface🤗**
- * Update huggingface pages [616 models and 120 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Update huggingface pages [638 models and 120 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - This is a tool for aligning phoneme labels with Japanese language audio.
 
-_Updated on May 30, 2024_
+_Updated on Jun 03, 2024_
 
 ## Contents
  * [Python library](#python-library)
