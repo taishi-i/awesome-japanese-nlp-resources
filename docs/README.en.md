@@ -18,7 +18,7 @@ For information on the models and datasets available on Huggingface, please see 
 
 ## The latest additions 🎉
 
-**Huggingface🤗**
+**Hugging Face 🤗**
  * Update huggingface pages [638 models and 120 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
@@ -27,8 +27,9 @@ For information on the models and datasets available on Huggingface, please see 
 _Updated on Jun 05, 2024_
 
 ## Contents
- * [Huggingface models](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
- * [Huggingface datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md#datasets)
+ * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+   * [Models](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md#models)
+   * [Datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md#datasets)
  * [Python library](#python-library)
    * [Morphology analysis](#morphology-analysis)
    * [Parsing](#parsing)
