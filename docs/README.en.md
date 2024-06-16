@@ -19,12 +19,12 @@ For information on the models and datasets available on Huggingface, please see 
 ## The latest additions 🎉
 
 **Hugging Face Space**
- * Updated [search tool](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) to v2. You can search 1000+ Japanese NLP projects from GitHub and Hugging Face.
+ * Updated [a search tool 🔍](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) to v2. You can search 1000+ Japanese NLP projects from GitHub and Hugging Face.
 
 **Hugging Face 🤗**
- * Updated huggingface pages [679 models and 124 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages [695 models and 128 datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Jun 09, 2024_
+_Updated on Jun 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
