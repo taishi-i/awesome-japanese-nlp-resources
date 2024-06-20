@@ -434,6 +434,18 @@
                     "zh-hant": "使用MeCab獲取日文讀音（yomigana）和重音的簡單Python套件（CLI/Python API）。"
                 }
             },
+            "https://github.com/tkscode/pynormalizenumexp": {
+                "sub_category": "Converter",
+                "repository_name": "pynormalizenumexp",
+                "user_name": "tkscode",
+                "description": "数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装",
+                "multilingual_descriptions": {
+                    "en": "Python implementation of NormalizeNumexp for extracting and normalizing quantity expressions and time expressions.",
+                    "ja": "数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装\n\n数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装",
+                    "zh-hans": "使用Python实现NormalizeNumexp，用于提取和规范化数量和时间表达式。",
+                    "zh-hant": "執行NormalizeNumexp的Python實作，進行數量表達和時間表達的提取和規範化。"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -6764,6 +6776,18 @@
                     "ja": "日本語情報検索チュートリアル",
                     "zh-hans": "日本语信息检索教程",
                     "zh-hant": "日本語資訊檢索教學"
+                }
+            },
+            "https://github.com/mamorlis/nlpbook": {
+                "sub_category": null,
+                "repository_name": "nlpbook",
+                "user_name": "mamorlis",
+                "description": "「自然言語処理の教科書」サポートサイト",
+                "multilingual_descriptions": {
+                    "en": "\"Natural Language Processing Textbook\" Support Site",
+                    "ja": "「自然言語処理の教科書」サポートサイト",
+                    "zh-hans": "\"自然语言处理教科书\"支持网站",
+                    "zh-hant": "「自然語言處理教科書」支援網站"
                 }
             }
         },
