@@ -6583,6 +6583,30 @@
                     "zh-hans": "日语UniMorph数据集",
                     "zh-hant": "UniMorph的日文數據集"
                 }
+            },
+            "https://github.com/riken-grp/GazeVQA": {
+                "sub_category": null,
+                "repository_name": "GazeVQA",
+                "user_name": "riken-grp",
+                "description": "Dataset for the LREC-COLING 2024 paper \"A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions\"",
+                "multilingual_descriptions": {
+                    "en": "Dataset for the LREC-COLING 2024 paper A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions",
+                    "ja": "LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確にするための視線基準ビジュアル質問応答データセット\nLREC-COLING 2024論文用データセット、曖昧な日本語質問を明確にするための視線基準ビジュアル質問応答データセット",
+                    "zh-hans": "LREC-COLING 2024 论文《一个注视引导的视觉问答数据集，用于澄清模糊的日语问题》的数据集",
+                    "zh-hant": "LREC-COLING 2024論文的數據集《針對澄清日語問題的凝視導向視覺問答數據集》"
+                }
+            },
+            "https://github.com/riken-grp/J-CRe3": {
+                "sub_category": null,
+                "repository_name": "J-CRe3",
+                "user_name": "riken-grp",
+                "description": "Code for J-CRe3 experiments (Ueda et al., LREC-COLING, 2024)",
+                "multilingual_descriptions": {
+                    "en": "Code for J-CRe3 experiments (Ueda et al., LREC-COLING, 2024)",
+                    "ja": "J-CRe3実験のコード（上田ら、LREC-COLING、2024）",
+                    "zh-hans": "J-CRe3实验代码（上田等人，LREC-COLING，2024）",
+                    "zh-hant": "J-CRe3 實驗代碼（上田等人，LREC-COLING，2024）"
+                }
             }
         },
         "Tutorial": {

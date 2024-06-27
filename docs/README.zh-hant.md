@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 569 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 571 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -19,15 +19,13 @@
  * Updated [a search tool 🔍](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) to v2. You can search 1000+ Japanese NLP projects from GitHub and Hugging Face.
 
 **Hugging Face 🤗**
- * Updated huggingface pages: [19 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [24 models and 8 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
- * [nlpbook](https://github.com/mamorlis/nlpbook) - 「自然語言處理教科書」支援網站
+**Corpus**
+ * [GazeVQA](https://github.com/riken-grp/GazeVQA) - LREC-COLING 2024論文的數據集《針對澄清日語問題的凝視導向視覺問答數據集》
+ * [J-CRe3](https://github.com/riken-grp/J-CRe3) - J-CRe3 實驗代碼（上田等人，LREC-COLING，2024）
 
-**Python**
- * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - 執行NormalizeNumexp的Python實作，進行數量表達和時間表達的提取和規範化。
-
-_Updated on Jun 21, 2024_
+_Updated on Jun 27, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1369,6 +1367,8 @@ ChatGPT的提示示例。
  * [jacwir](https://github.com/hotchpotch/jacwir) - JaCWIR: 日本語休閒網路資訊檢索（Web IR） 日本語情報檢索評估的小型休閒Web標題和摘要資料集
  * [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) - 日本語學習者的科學技術業界常用片假名與原始單字對照表
  * [j-unimorph](https://github.com/cl-tohoku/j-unimorph) - UniMorph的日文數據集
+ * [GazeVQA](https://github.com/riken-grp/GazeVQA) - LREC-COLING 2024論文的數據集《針對澄清日語問題的凝視導向視覺問答數據集》
+ * [J-CRe3](https://github.com/riken-grp/J-CRe3) - J-CRe3 實驗代碼（上田等人，LREC-COLING，2024）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1474,6 +1474,8 @@ ChatGPT的提示示例。
 |[jacwir](https://github.com/hotchpotch/jacwir)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/jacwir?style=social)|
 |[japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laoshubaby/japanese-technical-dict?style=social)|
 |[j-unimorph](https://github.com/cl-tohoku/j-unimorph)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/j-unimorph?style=social)|
+|[GazeVQA](https://github.com/riken-grp/GazeVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/GazeVQA?style=social)|
+|[J-CRe3](https://github.com/riken-grp/J-CRe3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/J-CRe3?style=social)|
 
 
 ## Tutorial
