@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 571 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 573 Japanese NLP repositories.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -18,13 +18,16 @@ For information on the models and datasets available on Huggingface, please see 
 
 ## The latest additions 🎉
 
-**Hugging Face Space**
- * Updated [a search tool 🔍](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) to v2. You can search 1250+ Japanese NLP projects from GitHub and Hugging Face.
-
 **Hugging Face 🤗**
- * Updated huggingface pages: [14 models and 2 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [13 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Jul 01, 2024_
+**Python**
+ * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM "LightChatAssistant-TypeB". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.
+
+**Tutorial**
+ * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - Regular Expression Engine for Creating and Learning
+
+_Updated on Jul 05, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -505,6 +508,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) - A repo for evaluating Japanese LLMs　・　日本語LLMを評価するレポ
  * [jmteb](https://github.com/sbintuitions/jmteb) - The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - This is a tool for aligning phoneme labels with Japanese language audio.
+ * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM "LightChatAssistant-TypeB". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -637,6 +641,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lightblue-tech/japanese_llm_eval?style=social)|
 |[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 |[pydomino](https://github.com/dwangomediavillage/pydomino)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dwangomediavillage/pydomino?style=social)|
+|[easynovelassistant](https://github.com/zuntan03/easynovelassistant)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easynovelassistant?style=social)|
 
 
 ## C++
@@ -1484,6 +1489,7 @@ Resources
  * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 Tutorial 3 Creating and Learning a Large-Scale Japanese Language Model - Environment Setup Procedure and Source Code
  * [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - Japanese Information Retrieval Tutorial
  * [nlpbook](https://github.com/mamorlis/nlpbook) - "Natural Language Processing Textbook" Support Site
+ * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - Regular Expression Engine for Creating and Learning
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1506,6 +1512,7 @@ Resources
 |[nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-matsuda-rit/nlp2024-tutorial-3?style=social)|
 |[japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpkato/japanese-ir-tutorial?style=social)|
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
+|[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
 
 
 ## Research summary

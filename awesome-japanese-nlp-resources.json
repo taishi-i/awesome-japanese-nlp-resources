@@ -2785,6 +2785,18 @@
                     "zh-hans": "这是一个用于对日语语音进行音素标签对齐的工具。",
                     "zh-hant": "這是一個用於對日語語音進行音素標籤對齊的工具。"
                 }
+            },
+            "https://github.com/zuntan03/easynovelassistant": {
+                "sub_category": null,
+                "repository_name": "easynovelassistant",
+                "user_name": "zuntan03",
+                "description": "軽量で規制も検閲もない日本語ローカル LLM『LightChatAssistant-TypeB』による、簡単なノベル生成アシスタントです。ローカル特権の永続生成 Generate forever で、当たりガチャを積み上げます。読み上げにも対応。",
+                "multilingual_descriptions": {
+                    "en": "This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM \"LightChatAssistant-TypeB\". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.",
+                    "ja": "軽量で規制も検閲もない日本語ローカル LLM『LightChatAssistant-TypeB』による、簡単なノベル生成アシスタントです。ローカル特権の永続生成 Generate forever で、当たりガチャを積み上げます。読み上げにも対応。",
+                    "zh-hans": "轻量且无限制和审查的日语本地LLM“LightChatAssistant-TypeB”提供简易小说生成助手。通过本地特权的永久生成功能，堆积中奖抽奖。支持朗读功能。",
+                    "zh-hant": "輕量且無規制和審查的日語本地 LLM『LightChatAssistant-TypeB』所提供的簡單小說生成助手。利用本地特權永久生成，堆積中獎的 Gacha。支援朗讀功能。"
+                }
             }
         },
         "C++": {
@@ -6812,6 +6824,18 @@
                     "ja": "「自然言語処理の教科書」サポートサイト",
                     "zh-hans": "\"自然语言处理教科书\"支持网站",
                     "zh-hant": "「自然語言處理教科書」支援網站"
+                }
+            },
+            "https://github.com/makenowjust/kantan-regex-book": {
+                "sub_category": null,
+                "repository_name": "kantan-regex-book",
+                "user_name": "makenowjust",
+                "description": "作って学ぶ正規表現エンジン",
+                "multilingual_descriptions": {
+                    "en": "Regular Expression Engine for Creating and Learning",
+                    "ja": "作って学ぶ正規表現エンジン",
+                    "zh-hans": "制作并学习正则表达式引擎",
+                    "zh-hant": "製作並學習正規表達式引擎"
                 }
             }
         },

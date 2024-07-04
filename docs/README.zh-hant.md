@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 571 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 573 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -15,13 +15,16 @@
 
 ## The latest additions 🎉
 
-**Hugging Face Space**
- * Updated [a search tool 🔍](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) to v2. You can search 1250+ Japanese NLP projects from GitHub and Hugging Face.
-
 **Hugging Face 🤗**
- * Updated huggingface pages: [14 models and 2 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [13 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Jul 01, 2024_
+**Python**
+ * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 輕量且無規制和審查的日語本地 LLM『LightChatAssistant-TypeB』所提供的簡單小說生成助手。利用本地特權永久生成，堆積中獎的 Gacha。支援朗讀功能。
+
+**Tutorial**
+ * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 製作並學習正規表達式引擎
+
+_Updated on Jul 05, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -507,6 +510,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) - 用於評估日本語LLM的存儲庫 ・ 評估日本語LLM的存儲庫
  * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - 這是一個用於對日語語音進行音素標籤對齊的工具。
+ * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 輕量且無規制和審查的日語本地 LLM『LightChatAssistant-TypeB』所提供的簡單小說生成助手。利用本地特權永久生成，堆積中獎的 Gacha。支援朗讀功能。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -639,6 +643,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lightblue-tech/japanese_llm_eval?style=social)|
 |[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 |[pydomino](https://github.com/dwangomediavillage/pydomino)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dwangomediavillage/pydomino?style=social)|
+|[easynovelassistant](https://github.com/zuntan03/easynovelassistant)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easynovelassistant?style=social)|
 
 
 ## C++
@@ -1494,6 +1499,7 @@ ChatGPT的提示示例。
  * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 教程三 創建並學習日語大規模語言模型 - 環境構建步驟與源代碼
  * [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - 日本語資訊檢索教學
  * [nlpbook](https://github.com/mamorlis/nlpbook) - 「自然語言處理教科書」支援網站
+ * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 製作並學習正規表達式引擎
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1516,6 +1522,7 @@ ChatGPT的提示示例。
 |[nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-matsuda-rit/nlp2024-tutorial-3?style=social)|
 |[japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpkato/japanese-ir-tutorial?style=social)|
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
+|[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
 
 
 ## Research summary
