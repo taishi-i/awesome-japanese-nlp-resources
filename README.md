@@ -1486,6 +1486,7 @@ Resources
  * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 チュートリアル３ 作って学ぶ日本語大規模言語モデル - 環境構築手順とソースコード
  * [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - 日本語情報検索チュートリアル
  * [nlpbook](https://github.com/mamorlis/nlpbook) - 「自然言語処理の教科書」サポートサイト
+ * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 作って学ぶ正規表現エンジン
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1508,6 +1509,7 @@ Resources
 |[nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-matsuda-rit/nlp2024-tutorial-3?style=social)|
 |[japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpkato/japanese-ir-tutorial?style=social)|
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
+|[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
 
 
 ## Research summary
