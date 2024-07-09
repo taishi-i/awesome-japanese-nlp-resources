@@ -341,6 +341,7 @@ _Updated on Jul 05, 2024_
  * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - LLM勉強会（LLM-jp）で開発しているLLM用のトークナイザー関連をまとめたリポジトリです．
  * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - Japanese Language Model Financial Evaluation Harness
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - Japanese Vicuna QA Benchmark
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
 
 
 |Name|downloads/week|total downloads|stars|
@@ -375,6 +376,7 @@ _Updated on Jul 05, 2024_
 |[llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-tokenizer?style=social)|
 |[japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/japanese-lm-fin-harness?style=social)|
 |[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
+|[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 
 
 ### Others
