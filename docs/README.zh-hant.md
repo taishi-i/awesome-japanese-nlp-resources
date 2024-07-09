@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 573 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 1500 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -16,15 +16,12 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- * Updated huggingface pages: [13 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 輕量且無規制和審查的日語本地 LLM『LightChatAssistant-TypeB』所提供的簡單小說生成助手。利用本地特權永久生成，堆積中獎的 Gacha。支援朗讀功能。
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - 燕子項目 大規模語言模型 評估腳本
 
-**Tutorial**
- * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 製作並學習正規表達式引擎
-
-_Updated on Jul 05, 2024_
+_Updated on Jul 10, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -339,6 +336,7 @@ _Updated on Jul 05, 2024_
  * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - 這是一個整理了在LLM勉強會（LLM-jp）中開發的與LLM用戶端相關的分詞器的存儲庫。
  * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日語語言模型金融評估工具
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - 日本維卡尼亞QA基準
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - 燕子項目 大規模語言模型 評估腳本
 
 
 |Name|downloads/week|total downloads|stars|
@@ -373,6 +371,7 @@ _Updated on Jul 05, 2024_
 |[llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-tokenizer?style=social)|
 |[japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/japanese-lm-fin-harness?style=social)|
 |[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
+|[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 
 
 ### Others

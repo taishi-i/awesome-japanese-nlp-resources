@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、573件の日本語NLPリポジトリが含まれています。
+[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、1500件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 Huggingfaceに掲載されているモデルは、[こちら](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) をご覧ください。
 
@@ -17,15 +17,12 @@ Huggingfaceに掲載されているモデルは、[こちら](https://github.com
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- * Updated huggingface pages: [13 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 軽量で規制も検閲もない日本語ローカル LLM『LightChatAssistant-TypeB』による、簡単なノベル生成アシスタントです。ローカル特権の永続生成 Generate forever で、当たりガチャを積み上げます。読み上げにも対応。
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
 
-**Tutorial**
- * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 作って学ぶ正規表現エンジン
-
-_Updated on Jul 05, 2024_
+_Updated on Jul 10, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -342,6 +339,7 @@ llm-lora-分類
  * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - LLM勉強会（LLM-jp）で開発しているLLM用のトークナイザー関連をまとめたリポジトリです．
  * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日本語言語モデルの金融評価ハーネス
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - 日本のビクーニャQAベンチマーク
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
 
 
 |Name|downloads/week|total downloads|stars|
@@ -376,6 +374,7 @@ llm-lora-分類
 |[llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-tokenizer?style=social)|
 |[japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/japanese-lm-fin-harness?style=social)|
 |[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
+|[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 
 
 ### Others

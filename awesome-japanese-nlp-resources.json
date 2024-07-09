@@ -1274,6 +1274,18 @@
                     "zh-hant": "日本維卡尼亞QA基準"
                 }
             },
+            "https://github.com/swallow-llm/swallow-evaluation": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "swallow-evaluation",
+                "user_name": "swallow-llm",
+                "description": "Swallowプロジェクト 大規模言語モデル 評価スクリプト",
+                "multilingual_descriptions": {
+                    "en": "Swallow Project Large-Scale Language Model Evaluation Script",
+                    "ja": "Swallowプロジェクト 大規模言語モデル 評価スクリプト",
+                    "zh-hans": "燕子项目 大规模语言模型 评估脚本",
+                    "zh-hant": "燕子項目 大規模語言模型 評估腳本"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",

@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 573 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1500 Japanese NLP repositories from GitHub and Hugging Face.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -19,15 +19,12 @@ For information on the models and datasets available on Huggingface, please see 
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- * Updated huggingface pages: [13 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM "LightChatAssistant-TypeB". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallow Project Large-Scale Language Model Evaluation Script
 
-**Tutorial**
- * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - Regular Expression Engine for Creating and Learning
-
-_Updated on Jul 05, 2024_
+_Updated on Jul 10, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -341,6 +338,7 @@ _Updated on Jul 05, 2024_
  * [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) - This is a repository that summarizes the tokenizer related to LLM being developed at the LLM Study Group (LLM-jp).
  * [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) - 日本語言模型金融评估工具
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - Japanese Vicuna QA Benchmark
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallow Project Large-Scale Language Model Evaluation Script
 
 
 |Name|downloads/week|total downloads|stars|
@@ -375,6 +373,7 @@ _Updated on Jul 05, 2024_
 |[llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-tokenizer?style=social)|
 |[japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/japanese-lm-fin-harness?style=social)|
 |[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
+|[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 
 
 ### Others

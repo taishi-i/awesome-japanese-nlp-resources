@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 573 Japanese NLP repositories.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1500 Japanese NLP repositories from GitHub and Hugging Face.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -19,15 +19,12 @@ For information on the models and datasets available on Huggingface, please see 
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- * Updated huggingface pages: [13 models and 4 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 軽量で規制も検閲もない日本語ローカル LLM『LightChatAssistant-TypeB』による、簡単なノベル生成アシスタントです。ローカル特権の永続生成 Generate forever で、当たりガチャを積み上げます。読み上げにも対応。
+ * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
 
-**Tutorial**
- * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 作って学ぶ正規表現エンジン
-
-_Updated on Jul 05, 2024_
+_Updated on Jul 10, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
