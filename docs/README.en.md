@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1500 Japanese NLP repositories from GitHub and Hugging Face.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1524 Japanese NLP repositories from GitHub and Hugging Face.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -21,10 +21,28 @@ For information on the models and datasets available on Huggingface, please see 
 **Hugging Face 🤗**
  * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallow Project Large-Scale Language Model Evaluation Script
+**Corpus**
+ * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models
+ * [lawtext](https://github.com/yamachig/lawtext) - Plain text format for Japanese law
+ * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR learning dataset created in OCR processing program research and development project.
 
-_Updated on Jul 10, 2024_
+**Python**
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Sample code for qlora instruction tuning learning in a Japanese dataset.
+ * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Japanese rōmaji input schema for Rime IME
+ * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - Quiz automatic generation using deep learning (Japanese T5 model)
+ * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.
+ * [qlora_ja](https://github.com/sosuke115/qlora_ja) - Sample code for qlora instruction tuning learning in a Japanese dataset.
+ * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.
+
+**Rust**
+ * [kanaria](https://github.com/samunohito/kanaria) - This library provides functions such as mutual conversion and discrimination of hiragana, katakana, half-width, and full-width characters.
+ * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - This is a library that splits Japanese addresses into prefecture/city or town/village/neighborhood/other.
+
+**Dictionary**
+ * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - Japanese and Chinese dictionaries for Yomitan.
+ * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - Generic dictionary tool that automatically reads the word you mouse over.
+
+_Updated on Jul 15, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -508,6 +526,12 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jmteb](https://github.com/sbintuitions/jmteb) - The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - This is a tool for aligning phoneme labels with Japanese language audio.
  * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM "LightChatAssistant-TypeB". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Sample code for qlora instruction tuning learning in a Japanese dataset.
+ * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Japanese rōmaji input schema for Rime IME
+ * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - Quiz automatic generation using deep learning (Japanese T5 model)
+ * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.
+ * [qlora_ja](https://github.com/sosuke115/qlora_ja) - Sample code for qlora instruction tuning learning in a Japanese dataset.
+ * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -641,7 +665,12 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 |[pydomino](https://github.com/dwangomediavillage/pydomino)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dwangomediavillage/pydomino?style=social)|
 |[easynovelassistant](https://github.com/zuntan03/easynovelassistant)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easynovelassistant?style=social)|
-
+|[clip-japanese](https://github.com/sonoisa/clip-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/clip-japanese?style=social)|
+|[rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lazyfoxchan/rime-jaroomaji?style=social)|
+|[deep-question-generation](https://github.com/sonoisa/deep-question-generation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/deep-question-generation?style=social)|
+|[magpie-nemotron](https://github.com/aratako/magpie-nemotron)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aratako/magpie-nemotron?style=social)|
+|[qlora_ja](https://github.com/sosuke115/qlora_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sosuke115/qlora_ja?style=social)|
+|[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
 
 ## C++
 
@@ -718,6 +747,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - Utility library for checking and converting between Japanese characters - Hiragana, Katakana - and Romaji
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - A Rust library to convert Japanese Half-width-kana[半角ｶﾅ] and Wide-alphanumeric[全角英数] into normal ones
  * [kana](https://github.com/gbrlsnchs/kana) - [Mirror] CLI program for transliterating romaji text to either hiragana or katakana
+ * [kanaria](https://github.com/samunohito/kanaria) - This library provides functions such as mutual conversion and discrimination of hiragana, katakana, half-width, and full-width characters.
+ * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - This is a library that splits Japanese addresses into prefecture/city or town/village/neighborhood/other.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -725,6 +756,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|![Crates.io](https://img.shields.io/crates/d/wana_kana)|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
 |[unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs)|-|![Crates.io](https://img.shields.io/crates/d/unicode-jp)|![GitHub Repo stars](https://img.shields.io/github/stars/gemmarx/unicode-jp-rs?style=social)|
 |[kana](https://github.com/gbrlsnchs/kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gbrlsnchs/kana?style=social)|
+|[kanaria](https://github.com/samunohito/kanaria)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/samunohito/kanaria?style=social)|
+|[japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukitoriyama/japanese-address-parser?style=social)|
 
 
 ### Search engine library
@@ -1137,6 +1170,8 @@ Resources
  * [jiten](https://github.com/obfusk/jiten) - japanese android/cli/web dictionary based on jmdict/kanjidic — 日本語　辞典　和英辞典　漢英字典　和独辞典　和蘭辞典
  * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv Encyclopedia Dictionary for Yomitan
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - Uchinaaguchi Dictionary (Okinawan Language Dictionary)
+ * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - Japanese and Chinese dictionaries for Yomitan.
+ * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - Generic dictionary tool that automatically reads the word you mouse over.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1176,6 +1211,8 @@ Resources
 |[jiten](https://github.com/obfusk/jiten)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/obfusk/jiten?style=social)|
 |[pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MarvNC/pixiv-yomitan?style=social)|
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
+|[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
+|[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
 
 
 ## Corpus
@@ -1359,6 +1396,9 @@ Resources
  * [j-unimorph](https://github.com/cl-tohoku/j-unimorph) - Dataset of UniMorph in Japanese
  * [GazeVQA](https://github.com/riken-grp/GazeVQA) - Dataset for the LREC-COLING 2024 paper A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions
  * [J-CRe3](https://github.com/riken-grp/J-CRe3) - Code for J-CRe3 experiments (Ueda et al., LREC-COLING, 2024)
+ * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models
+ * [lawtext](https://github.com/yamachig/lawtext) - Plain text format for Japanese law
+ * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR learning dataset created in OCR processing program research and development project.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1466,6 +1506,9 @@ Resources
 |[j-unimorph](https://github.com/cl-tohoku/j-unimorph)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/j-unimorph?style=social)|
 |[GazeVQA](https://github.com/riken-grp/GazeVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/GazeVQA?style=social)|
 |[J-CRe3](https://github.com/riken-grp/J-CRe3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/J-CRe3?style=social)|
+|[jmed-llm](https://github.com/sociocom/jmed-llm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/jmed-llm?style=social)|
+|[lawtext](https://github.com/yamachig/lawtext)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamachig/lawtext?style=social)|
+|[pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part2?style=social)|
 
 
 ## Tutorial

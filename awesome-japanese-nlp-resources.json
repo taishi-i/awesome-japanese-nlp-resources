@@ -2809,6 +2809,78 @@
                     "zh-hans": "轻量且无限制和审查的日语本地LLM“LightChatAssistant-TypeB”提供简易小说生成助手。通过本地特权的永久生成功能，堆积中奖抽奖。支持朗读功能。",
                     "zh-hant": "輕量且無規制和審查的日語本地 LLM『LightChatAssistant-TypeB』所提供的簡單小說生成助手。利用本地特權永久生成，堆積中獎的 Gacha。支援朗讀功能。"
                 }
+            },
+            "https://github.com/sonoisa/clip-japanese": {
+                "sub_category": null,
+                "repository_name": "clip-japanese",
+                "user_name": "sonoisa",
+                "description": "日本語データセットでのqlora instruction tuning学習サンプルコード",
+                "multilingual_descriptions": {
+                    "en": "Sample code for qlora instruction tuning learning in a Japanese dataset.",
+                    "ja": "日本語データセットでのqlora instruction tuning学習サンプルコード",
+                    "zh-hans": "在日语数据集上进行qlora指令调整的学习示例代码",
+                    "zh-hant": "在日本語數據集上進行qlora指令調整學習的示例代碼"
+                }
+            },
+            "https://github.com/lazyfoxchan/rime-jaroomaji": {
+                "sub_category": null,
+                "repository_name": "rime-jaroomaji",
+                "user_name": "lazyfoxchan",
+                "description": "Japanese rōmaji input schema for Rime IME",
+                "multilingual_descriptions": {
+                    "en": "Japanese rōmaji input schema for Rime IME",
+                    "ja": "Rime IMEのための日本語ローマ字入力スキーマ",
+                    "zh-hans": "Rime输入法的日语罗马字输入方案",
+                    "zh-hant": "Rime IME 的日文羅馬拼音輸入方案"
+                }
+            },
+            "https://github.com/sonoisa/deep-question-generation": {
+                "sub_category": null,
+                "repository_name": "deep-question-generation",
+                "user_name": "sonoisa",
+                "description": "深層学習を用いたクイズ自動生成（日本語T5モデル）",
+                "multilingual_descriptions": {
+                    "en": "Quiz automatic generation using deep learning (Japanese T5 model)",
+                    "ja": "深層学習を用いたクイズ自動生成（日本語T5モデル）",
+                    "zh-hans": "使用深度学习生成的自动化测验（日语T5模型）",
+                    "zh-hant": "使用深度學習生成的測驗（日語T5模型）"
+                }
+            },
+            "https://github.com/aratako/magpie-nemotron": {
+                "sub_category": null,
+                "repository_name": "magpie-nemotron",
+                "user_name": "aratako",
+                "description": "Magpieという手法とNemotron-4-340B-Instructを用いて合成対話データセットを作るコード",
+                "multilingual_descriptions": {
+                    "en": "Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.",
+                    "ja": "Magpieという手法とNemotron-4-340B-Instructを用いて合成対話データセットを作るコード",
+                    "zh-hans": "使用Magpie技术和Nemotron-4-340B-Instruct创建合成对话数据集的代码",
+                    "zh-hant": "使用Magpie技術和Nemotron-4-340B-Instruct來創建合成對話數據集的代碼"
+                }
+            },
+            "https://github.com/sosuke115/qlora_ja": {
+                "sub_category": null,
+                "repository_name": "qlora_ja",
+                "user_name": "sosuke115",
+                "description": "日本語データセットでのqlora instruction tuning学習サンプルコード",
+                "multilingual_descriptions": {
+                    "en": "Sample code for qlora instruction tuning learning in a Japanese dataset.",
+                    "ja": "日本語データセットでのqlora instruction tuning学習サンプルコード",
+                    "zh-hans": "在日语数据集上进行qlora指令调整的学习示例代码",
+                    "zh-hant": "在日本語數據集中進行qlora指令調整學習的示例代碼"
+                }
+            },
+            "https://github.com/utuhiro78/mozcdic-ut-jawiki": {
+                "sub_category": null,
+                "repository_name": "mozcdic-ut-jawiki",
+                "user_name": "utuhiro78",
+                "description": "Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.",
+                "multilingual_descriptions": {
+                    "en": "Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.",
+                    "ja": "Mozc UT Jawiki辞書は、Mozc用に日本語のWikipediaから生成された辞書です。",
+                    "zh-hans": "Mozc UT Jawiki词典是从日文维基百科为Mozc生成的词典。",
+                    "zh-hant": "Mozc UT Jawiki 字典是從日文維基百科生成的字典，用於 Mozc。"
+                }
             }
         },
         "C++": {
@@ -3064,6 +3136,30 @@
                     "ja": "[ミラー] ローマ字テキストをひらがなまたはカタカナに変換するためのCLIプログラム",
                     "zh-hans": "【镜像】用于将罗马字文本转换为平假名或片假名的CLI程序。",
                     "zh-hant": "[鏡像] CLI 程序，可將羅馬字文本轉寫為平假名或片假名。"
+                }
+            },
+            "https://github.com/samunohito/kanaria": {
+                "sub_category": "Converter",
+                "repository_name": "kanaria",
+                "user_name": "samunohito",
+                "description": "このライブラリは、ひらがな・カタカナ、半角・全角の相互変換や判別を始めとした機能を提供します。",
+                "multilingual_descriptions": {
+                    "en": "This library provides functions such as mutual conversion and discrimination of hiragana, katakana, half-width, and full-width characters.",
+                    "ja": "このライブラリは、ひらがな・カタカナ、半角・全角の相互変換や判別を始めとした機能を提供します。",
+                    "zh-hans": "这个库提供了平假名、片假名、半角和全角之间的相互转换和识别功能。",
+                    "zh-hant": "這個程式庫提供了平假名、片假名、半形和全形之間的互相轉換和識別功能。"
+                }
+            },
+            "https://github.com/yuukitoriyama/japanese-address-parser": {
+                "sub_category": "Converter",
+                "repository_name": "japanese-address-parser",
+                "user_name": "yuukitoriyama",
+                "description": "日本の住所を都道府県/市区町村/町名/その他に分割するライブラリです",
+                "multilingual_descriptions": {
+                    "en": "This is a library that splits Japanese addresses into prefecture/city or town/village/neighborhood/other.",
+                    "ja": "日本の住所を都道府県/市区町村/町名/その他に分割するライブラリです",
+                    "zh-hans": "这是一个将日本地址分割为都道府县/市区町村/町名/其他部分的库。",
+                    "zh-hant": "日本的地址分割成都道府県/市區町村/町名/其他的程式庫"
                 }
             },
             "https://github.com/lindera-morphology/lindera-tantivy": {
@@ -5093,6 +5189,30 @@
                     "zh-hans": "乌恩辞典（冲绳语辞典）",
                     "zh-hant": "琉球語辭典（沖繩語辭典）"
                 }
+            },
+            "https://github.com/marvnc/yomitan-dictionaries": {
+                "sub_category": null,
+                "repository_name": "yomitan-dictionaries",
+                "user_name": "marvnc",
+                "description": "Japanese and Chinese dictionaries for Yomitan.",
+                "multilingual_descriptions": {
+                    "en": "Japanese and Chinese dictionaries for Yomitan.",
+                    "ja": "読谷村のための日本語と中国語の辞書。",
+                    "zh-hans": "与读谷村的日语和中文词典。",
+                    "zh-hant": "讀取：讀取日本和中文詞典對於讀取。"
+                }
+            },
+            "https://github.com/kengo700/mouse_over_dictionary": {
+                "sub_category": null,
+                "repository_name": "mouse_over_dictionary",
+                "user_name": "kengo700",
+                "description": "マウスオーバーした単語を自動で読み取る汎用辞書ツール",
+                "multilingual_descriptions": {
+                    "en": "Generic dictionary tool that automatically reads the word you mouse over.",
+                    "ja": "マウスオーバーした単語を自動で読み取る汎用辞書ツール",
+                    "zh-hans": "将鼠标悬停在单词上自动读取的通用词典工具",
+                    "zh-hant": "滑鼠懸停在單字上時，自動讀取的通用辭典工具"
+                }
             }
         },
         "Corpus": {
@@ -6630,6 +6750,42 @@
                     "ja": "J-CRe3実験のコード（上田ら、LREC-COLING、2024）",
                     "zh-hans": "J-CRe3实验代码（上田等人，LREC-COLING，2024）",
                     "zh-hant": "J-CRe3 實驗代碼（上田等人，LREC-COLING，2024）"
+                }
+            },
+            "https://github.com/sociocom/jmed-llm": {
+                "sub_category": null,
+                "repository_name": "jmed-llm",
+                "user_name": "sociocom",
+                "description": "JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models",
+                "multilingual_descriptions": {
+                    "en": "JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models",
+                    "ja": "JMED-LLM: 大規模言語モデル向けの日本医学評価データセット",
+                    "zh-hans": "JMED-LLM：用于大型语言模型的日本医学评估数据集",
+                    "zh-hant": "JMED-LLM：大型語言模型的日本醫學評估數據集"
+                }
+            },
+            "https://github.com/yamachig/lawtext": {
+                "sub_category": null,
+                "repository_name": "lawtext",
+                "user_name": "yamachig",
+                "description": "Plain text format for Japanese law",
+                "multilingual_descriptions": {
+                    "en": "Plain text format for Japanese law",
+                    "ja": "日本の法律のプレーンテキスト形式",
+                    "zh-hans": "日本法律的纯文本格式\n简体中文",
+                    "zh-hant": "日本法律的純文本格式\n日本法律的純文本格式"
+                }
+            },
+            "https://github.com/ndl-lab/pdmocrdataset-part2": {
+                "sub_category": null,
+                "repository_name": "pdmocrdataset-part2",
+                "user_name": "ndl-lab",
+                "description": "OCR処理プログラム研究開発事業において作成されたOCR学習用データセット",
+                "multilingual_descriptions": {
+                    "en": "OCR learning dataset created in OCR processing program research and development project.",
+                    "ja": "OCR処理プログラム研究開発事業において作成されたOCR学習用データセット",
+                    "zh-hans": "OCR处理程序研究开发项目中创建的OCR学习数据集",
+                    "zh-hant": "OCR處理程式研究開發項目中所建立的OCR學習用數據集。"
                 }
             }
         },

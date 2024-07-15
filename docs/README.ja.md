@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、1500件の日本語NLPリポジトリが含まれています。
+[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、1524件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 Huggingfaceに掲載されているモデルは、[こちら](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) をご覧ください。
 
@@ -19,10 +19,28 @@ Huggingfaceに掲載されているモデルは、[こちら](https://github.com
 **Hugging Face 🤗**
  * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
+**Corpus**
+ * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: 大規模言語モデル向けの日本医学評価データセット
+ * [lawtext](https://github.com/yamachig/lawtext) - 日本の法律のプレーンテキスト形式
+ * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
 
-_Updated on Jul 10, 2024_
+**Python**
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日本語データセットでのqlora instruction tuning学習サンプルコード
+ * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime IMEのための日本語ローマ字入力スキーマ
+ * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 深層学習を用いたクイズ自動生成（日本語T5モデル）
+ * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Magpieという手法とNemotron-4-340B-Instructを用いて合成対話データセットを作るコード
+ * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 日本語データセットでのqlora instruction tuning学習サンプルコード
+ * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki辞書は、Mozc用に日本語のWikipediaから生成された辞書です。
+
+**Rust**
+ * [kanaria](https://github.com/samunohito/kanaria) - このライブラリは、ひらがな・カタカナ、半角・全角の相互変換や判別を始めとした機能を提供します。
+ * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 日本の住所を都道府県/市区町村/町名/その他に分割するライブラリです
+
+**Dictionary**
+ * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 読谷村のための日本語と中国語の辞書。
+ * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - マウスオーバーした単語を自動で読み取る汎用辞書ツール
+
+_Updated on Jul 15, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -512,6 +530,12 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本語大規模テキスト埋め込みベンチマーク）の評価スクリプト
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - 日本語音声に対して音素ラベルをアラインメントするためのツールです
  * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 軽量で規制も検閲もない日本語ローカル LLM『LightChatAssistant-TypeB』による、簡単なノベル生成アシスタントです。ローカル特権の永続生成 Generate forever で、当たりガチャを積み上げます。読み上げにも対応。
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日本語データセットでのqlora instruction tuning学習サンプルコード
+ * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime IMEのための日本語ローマ字入力スキーマ
+ * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 深層学習を用いたクイズ自動生成（日本語T5モデル）
+ * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Magpieという手法とNemotron-4-340B-Instructを用いて合成対話データセットを作るコード
+ * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 日本語データセットでのqlora instruction tuning学習サンプルコード
+ * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki辞書は、Mozc用に日本語のWikipediaから生成された辞書です。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -645,7 +669,12 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 |[pydomino](https://github.com/dwangomediavillage/pydomino)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dwangomediavillage/pydomino?style=social)|
 |[easynovelassistant](https://github.com/zuntan03/easynovelassistant)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easynovelassistant?style=social)|
-
+|[clip-japanese](https://github.com/sonoisa/clip-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/clip-japanese?style=social)|
+|[rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lazyfoxchan/rime-jaroomaji?style=social)|
+|[deep-question-generation](https://github.com/sonoisa/deep-question-generation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/deep-question-generation?style=social)|
+|[magpie-nemotron](https://github.com/aratako/magpie-nemotron)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aratako/magpie-nemotron?style=social)|
+|[qlora_ja](https://github.com/sosuke115/qlora_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sosuke115/qlora_ja?style=social)|
+|[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
 
 ## C++
 
@@ -722,6 +751,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 日本語の文字（ひらがな、カタカナ）とローマ字の間の変換とチェックを行うためのユーティリティライブラリ。
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 日本語の半角カナと全角英数字を通常の文字に変換するためのRustライブラリ
  * [kana](https://github.com/gbrlsnchs/kana) - [ミラー] ローマ字テキストをひらがなまたはカタカナに変換するためのCLIプログラム
+ * [kanaria](https://github.com/samunohito/kanaria) - このライブラリは、ひらがな・カタカナ、半角・全角の相互変換や判別を始めとした機能を提供します。
+ * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 日本の住所を都道府県/市区町村/町名/その他に分割するライブラリです
 
 
 |Name|downloads/week|total downloads|stars|
@@ -729,6 +760,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|![Crates.io](https://img.shields.io/crates/d/wana_kana)|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
 |[unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs)|-|![Crates.io](https://img.shields.io/crates/d/unicode-jp)|![GitHub Repo stars](https://img.shields.io/github/stars/gemmarx/unicode-jp-rs?style=social)|
 |[kana](https://github.com/gbrlsnchs/kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gbrlsnchs/kana?style=social)|
+|[kanaria](https://github.com/samunohito/kanaria)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/samunohito/kanaria?style=social)|
+|[japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukitoriyama/japanese-address-parser?style=social)|
 
 
 ### Search engine library
@@ -1142,6 +1175,8 @@ Resources
  * [jiten](https://github.com/obfusk/jiten) - JMDict/Kanjidicに基づいた日本語のAndroid/CLI/Web辞書 — 日本語辞典、和英辞典、漢英字典、和独辞典、和蘭辞典
  * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - ピクシブ百科事典読谷のため
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - うちなーぐち辞典（沖縄語辞典）
+ * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 読谷村のための日本語と中国語の辞書。
+ * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - マウスオーバーした単語を自動で読み取る汎用辞書ツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1181,6 +1216,8 @@ Resources
 |[jiten](https://github.com/obfusk/jiten)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/obfusk/jiten?style=social)|
 |[pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MarvNC/pixiv-yomitan?style=social)|
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
+|[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
+|[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
 
 
 ## Corpus
@@ -1365,6 +1402,9 @@ Resources
  * [GazeVQA](https://github.com/riken-grp/GazeVQA) - LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確にするための視線基準ビジュアル質問応答データセット
 LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確にするための視線基準ビジュアル質問応答データセット
  * [J-CRe3](https://github.com/riken-grp/J-CRe3) - J-CRe3実験のコード（上田ら、LREC-COLING、2024）
+ * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: 大規模言語モデル向けの日本医学評価データセット
+ * [lawtext](https://github.com/yamachig/lawtext) - 日本の法律のプレーンテキスト形式
+ * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1472,6 +1512,9 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[j-unimorph](https://github.com/cl-tohoku/j-unimorph)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/j-unimorph?style=social)|
 |[GazeVQA](https://github.com/riken-grp/GazeVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/GazeVQA?style=social)|
 |[J-CRe3](https://github.com/riken-grp/J-CRe3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/J-CRe3?style=social)|
+|[jmed-llm](https://github.com/sociocom/jmed-llm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/jmed-llm?style=social)|
+|[lawtext](https://github.com/yamachig/lawtext)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamachig/lawtext?style=social)|
+|[pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part2?style=social)|
 
 
 ## Tutorial

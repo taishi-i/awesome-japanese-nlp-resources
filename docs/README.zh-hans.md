@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 1500 个日语 NLP 存储库。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 1524 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
@@ -20,10 +20,29 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 **Hugging Face 🤗**
  * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - 燕子项目 大规模语言模型 评估脚本
+**Corpus**
+ * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM：用于大型语言模型的日本医学评估数据集
+ * [lawtext](https://github.com/yamachig/lawtext) - 日本法律的纯文本格式
+简体中文
+ * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR处理程序研究开发项目中创建的OCR学习数据集
 
-_Updated on Jul 10, 2024_
+**Python**
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 在日语数据集上进行qlora指令调整的学习示例代码
+ * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime输入法的日语罗马字输入方案
+ * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度学习生成的自动化测验（日语T5模型）
+ * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技术和Nemotron-4-340B-Instruct创建合成对话数据集的代码
+ * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 在日语数据集上进行qlora指令调整的学习示例代码
+ * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki词典是从日文维基百科为Mozc生成的词典。
+
+**Rust**
+ * [kanaria](https://github.com/samunohito/kanaria) - 这个库提供了平假名、片假名、半角和全角之间的相互转换和识别功能。
+ * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 这是一个将日本地址分割为都道府县/市区町村/町名/其他部分的库。
+
+**Dictionary**
+ * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 与读谷村的日语和中文词典。
+ * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - 将鼠标悬停在单词上自动读取的通用词典工具
+
+_Updated on Jul 15, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -511,6 +530,12 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - 这是一个用于对日语语音进行音素标签对齐的工具。
  * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 轻量且无限制和审查的日语本地LLM“LightChatAssistant-TypeB”提供简易小说生成助手。通过本地特权的永久生成功能，堆积中奖抽奖。支持朗读功能。
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 在日语数据集上进行qlora指令调整的学习示例代码
+ * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime输入法的日语罗马字输入方案
+ * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度学习生成的自动化测验（日语T5模型）
+ * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技术和Nemotron-4-340B-Instruct创建合成对话数据集的代码
+ * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 在日语数据集上进行qlora指令调整的学习示例代码
+ * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki词典是从日文维基百科为Mozc生成的词典。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -644,7 +669,12 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[jmteb](https://github.com/sbintuitions/jmteb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/jmteb?style=social)|
 |[pydomino](https://github.com/dwangomediavillage/pydomino)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dwangomediavillage/pydomino?style=social)|
 |[easynovelassistant](https://github.com/zuntan03/easynovelassistant)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easynovelassistant?style=social)|
-
+|[clip-japanese](https://github.com/sonoisa/clip-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/clip-japanese?style=social)|
+|[rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lazyfoxchan/rime-jaroomaji?style=social)|
+|[deep-question-generation](https://github.com/sonoisa/deep-question-generation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonoisa/deep-question-generation?style=social)|
+|[magpie-nemotron](https://github.com/aratako/magpie-nemotron)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aratako/magpie-nemotron?style=social)|
+|[qlora_ja](https://github.com/sosuke115/qlora_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sosuke115/qlora_ja?style=social)|
+|[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
 
 ## C++
 
@@ -721,6 +751,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 用于检查和转换日语字符（平假名、片假名和罗马字）的实用程序库。
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 一个 Rust 库，用于将日语半角假名和全角英数字转换为普通字符。
  * [kana](https://github.com/gbrlsnchs/kana) - 【镜像】用于将罗马字文本转换为平假名或片假名的CLI程序。
+ * [kanaria](https://github.com/samunohito/kanaria) - 这个库提供了平假名、片假名、半角和全角之间的相互转换和识别功能。
+ * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 这是一个将日本地址分割为都道府县/市区町村/町名/其他部分的库。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -728,6 +760,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|![Crates.io](https://img.shields.io/crates/d/wana_kana)|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
 |[unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs)|-|![Crates.io](https://img.shields.io/crates/d/unicode-jp)|![GitHub Repo stars](https://img.shields.io/github/stars/gemmarx/unicode-jp-rs?style=social)|
 |[kana](https://github.com/gbrlsnchs/kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gbrlsnchs/kana?style=social)|
+|[kanaria](https://github.com/samunohito/kanaria)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/samunohito/kanaria?style=social)|
+|[japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukitoriyama/japanese-address-parser?style=social)|
 
 
 ### Search engine library
@@ -1141,6 +1175,8 @@ Resources
  * [jiten](https://github.com/obfusk/jiten) - 基于jmdict/kanjidic的日本安卓/命令行/网络词典 — 日英词典、汉英字典、德英词典、荷英词典
  * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - Pixiv百科全书关于与那城的词典
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - 乌恩辞典（冲绳语辞典）
+ * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 与读谷村的日语和中文词典。
+ * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - 将鼠标悬停在单词上自动读取的通用词典工具
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1180,6 +1216,8 @@ Resources
 |[jiten](https://github.com/obfusk/jiten)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/obfusk/jiten?style=social)|
 |[pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MarvNC/pixiv-yomitan?style=social)|
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
+|[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
+|[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
 
 
 ## Corpus
@@ -1364,6 +1402,10 @@ COMET-ATOMIC ja
  * [j-unimorph](https://github.com/cl-tohoku/j-unimorph) - 日语UniMorph数据集
  * [GazeVQA](https://github.com/riken-grp/GazeVQA) - LREC-COLING 2024 论文《一个注视引导的视觉问答数据集，用于澄清模糊的日语问题》的数据集
  * [J-CRe3](https://github.com/riken-grp/J-CRe3) - J-CRe3实验代码（上田等人，LREC-COLING，2024）
+ * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM：用于大型语言模型的日本医学评估数据集
+ * [lawtext](https://github.com/yamachig/lawtext) - 日本法律的纯文本格式
+简体中文
+ * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR处理程序研究开发项目中创建的OCR学习数据集
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1471,6 +1513,9 @@ COMET-ATOMIC ja
 |[j-unimorph](https://github.com/cl-tohoku/j-unimorph)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/j-unimorph?style=social)|
 |[GazeVQA](https://github.com/riken-grp/GazeVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/GazeVQA?style=social)|
 |[J-CRe3](https://github.com/riken-grp/J-CRe3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/J-CRe3?style=social)|
+|[jmed-llm](https://github.com/sociocom/jmed-llm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/jmed-llm?style=social)|
+|[lawtext](https://github.com/yamachig/lawtext)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamachig/lawtext?style=social)|
+|[pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part2?style=social)|
 
 
 ## Tutorial
