@@ -2816,10 +2816,10 @@
                 "user_name": "sonoisa",
                 "description": "日本語データセットでのqlora instruction tuning学習サンプルコード",
                 "multilingual_descriptions": {
-                    "en": "Sample code for qlora instruction tuning learning in a Japanese dataset.",
-                    "ja": "日本語データセットでのqlora instruction tuning学習サンプルコード",
-                    "zh-hans": "在日语数据集上进行qlora指令调整的学习示例代码",
-                    "zh-hant": "在日本語數據集上進行qlora指令調整學習的示例代碼"
+                    "en": "Japanese CLIP model",
+                    "ja": "日本語CLIPモデル",
+                    "zh-hans": "日语CLIP模型",
+                    "zh-hant": "日語CLIP模型"
                 }
             },
             "https://github.com/lazyfoxchan/rime-jaroomaji": {

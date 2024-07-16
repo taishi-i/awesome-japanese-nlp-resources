@@ -27,7 +27,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR处理程序研究开发项目中创建的OCR学习数据集
 
 **Python**
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 在日语数据集上进行qlora指令调整的学习示例代码
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日语CLIP模型
  * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime输入法的日语罗马字输入方案
  * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度学习生成的自动化测验（日语T5模型）
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技术和Nemotron-4-340B-Instruct创建合成对话数据集的代码
@@ -42,7 +42,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 与读谷村的日语和中文词典。
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - 将鼠标悬停在单词上自动读取的通用词典工具
 
-_Updated on Jul 15, 2024_
+_Updated on Jul 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -530,7 +530,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - 这是一个用于对日语语音进行音素标签对齐的工具。
  * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 轻量且无限制和审查的日语本地LLM“LightChatAssistant-TypeB”提供简易小说生成助手。通过本地特权的永久生成功能，堆积中奖抽奖。支持朗读功能。
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 在日语数据集上进行qlora指令调整的学习示例代码
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日语CLIP模型
  * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime输入法的日语罗马字输入方案
  * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度学习生成的自动化测验（日语T5模型）
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技术和Nemotron-4-340B-Instruct创建合成对话数据集的代码

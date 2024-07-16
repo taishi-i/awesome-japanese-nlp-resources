@@ -25,7 +25,7 @@
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR處理程式研究開發項目中所建立的OCR學習用數據集。
 
 **Python**
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 在日本語數據集上進行qlora指令調整學習的示例代碼
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日語CLIP模型
  * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime IME 的日文羅馬拼音輸入方案
  * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度學習生成的測驗（日語T5模型）
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技術和Nemotron-4-340B-Instruct來創建合成對話數據集的代碼
@@ -40,7 +40,7 @@
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 讀取：讀取日本和中文詞典對於讀取。
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - 滑鼠懸停在單字上時，自動讀取的通用辭典工具
 
-_Updated on Jul 15, 2024_
+_Updated on Jul 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -529,7 +529,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jmteb](https://github.com/sbintuitions/jmteb) - JMTEB（日本大规模文本嵌入基准测试）的评估脚本
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - 這是一個用於對日語語音進行音素標籤對齊的工具。
  * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - 輕量且無規制和審查的日語本地 LLM『LightChatAssistant-TypeB』所提供的簡單小說生成助手。利用本地特權永久生成，堆積中獎的 Gacha。支援朗讀功能。
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 在日本語數據集上進行qlora指令調整學習的示例代碼
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日語CLIP模型
  * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime IME 的日文羅馬拼音輸入方案
  * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度學習生成的測驗（日語T5模型）
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技術和Nemotron-4-340B-Instruct來創建合成對話數據集的代碼

@@ -27,7 +27,7 @@ For information on the models and datasets available on Huggingface, please see 
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR learning dataset created in OCR processing program research and development project.
 
 **Python**
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Sample code for qlora instruction tuning learning in a Japanese dataset.
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Japanese CLIP model
  * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Japanese rōmaji input schema for Rime IME
  * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - Quiz automatic generation using deep learning (Japanese T5 model)
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.
@@ -42,7 +42,7 @@ For information on the models and datasets available on Huggingface, please see 
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - Japanese and Chinese dictionaries for Yomitan.
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - Generic dictionary tool that automatically reads the word you mouse over.
 
-_Updated on Jul 15, 2024_
+_Updated on Jul 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -526,7 +526,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jmteb](https://github.com/sbintuitions/jmteb) - The evaluation scripts of JMTEB (Japanese Massive Text Embedding Benchmark)
  * [pydomino](https://github.com/dwangomediavillage/pydomino) - This is a tool for aligning phoneme labels with Japanese language audio.
  * [easynovelassistant](https://github.com/zuntan03/easynovelassistant) - This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM "LightChatAssistant-TypeB". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Sample code for qlora instruction tuning learning in a Japanese dataset.
+ * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Japanese CLIP model
  * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Japanese rōmaji input schema for Rime IME
  * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - Quiz automatic generation using deep learning (Japanese T5 model)
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.
