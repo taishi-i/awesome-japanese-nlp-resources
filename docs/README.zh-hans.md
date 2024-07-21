@@ -18,7 +18,7 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Tutorial**
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】基于BERT的文本分类
