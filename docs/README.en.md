@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1524 Japanese NLP repositories from GitHub and Hugging Face.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1566 Japanese NLP repositories from GitHub and Hugging Face.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -21,28 +21,13 @@ For information on the models and datasets available on Huggingface, please see 
 **Hugging Face 🤗**
  * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Corpus**
- * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models
- * [lawtext](https://github.com/yamachig/lawtext) - Plain text format for Japanese law
- * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR learning dataset created in OCR processing program research and development project.
-
-**Python**
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - Japanese CLIP model
- * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Japanese rōmaji input schema for Rime IME
- * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - Quiz automatic generation using deep learning (Japanese T5 model)
- * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.
- * [qlora_ja](https://github.com/sosuke115/qlora_ja) - Sample code for qlora instruction tuning learning in a Japanese dataset.
- * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.
+**Tutorial**
+ * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - Text classification using BERT in the 2024 version
 
 **Rust**
- * [kanaria](https://github.com/samunohito/kanaria) - This library provides functions such as mutual conversion and discrimination of hiragana, katakana, half-width, and full-width characters.
- * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - This is a library that splits Japanese addresses into prefecture/city or town/village/neighborhood/other.
+ * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
 
-**Dictionary**
- * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - Japanese and Chinese dictionaries for Yomitan.
- * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - Generic dictionary tool that automatically reads the word you mouse over.
-
-_Updated on Jul 17, 2024_
+_Updated on Jul 22, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -789,6 +774,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanki](https://github.com/tysonwu/japanki) - Learn Japanese vocabs 🇯🇵 by doing quizzes on CLI!
  * [jpreprocess](https://github.com/jpreprocess/jpreprocess) - Japanese text preprocessor for Text-to-Speech applications (OpenJTalk rewrite in rust language)
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - Software that scrapes and generates a list of case law data from the court's website (https://www.courts.go.jp/index.html)
+ * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -808,6 +794,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[japanki](https://github.com/tysonwu/japanki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tysonwu/japanki?style=social)|
 |[jpreprocess](https://github.com/jpreprocess/jpreprocess)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jpreprocess/jpreprocess?style=social)|
 |[listup_precedent](https://github.com/japanese-law-analysis/listup_precedent)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japanese-law-analysis/listup_precedent?style=social)|
+|[jisho](https://github.com/eagleflo/jisho)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/eagleflo/jisho?style=social)|
 
 
 ## JavaScript
@@ -1532,6 +1519,7 @@ Resources
  * [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - Japanese Information Retrieval Tutorial
  * [nlpbook](https://github.com/mamorlis/nlpbook) - "Natural Language Processing Textbook" Support Site
  * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - Regular Expression Engine for Creating and Learning
+ * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - Text classification using BERT in the 2024 version
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1555,6 +1543,7 @@ Resources
 |[japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpkato/japanese-ir-tutorial?style=social)|
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
 |[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
+|[bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/bert-classification-tutorial-2024?style=social)|
 
 
 ## Research summary

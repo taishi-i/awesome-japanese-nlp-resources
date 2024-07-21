@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 1524 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 1566 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -18,29 +18,13 @@
 **Hugging Face 🤗**
  * Updated huggingface pages: [12 models and 3 datasets have been added.](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Corpus**
- * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM：大型語言模型的日本醫學評估數據集
- * [lawtext](https://github.com/yamachig/lawtext) - 日本法律的純文本格式
-日本法律的純文本格式
- * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR處理程式研究開發項目中所建立的OCR學習用數據集。
-
-**Python**
- * [clip-japanese](https://github.com/sonoisa/clip-japanese) - 日語CLIP模型
- * [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) - Rime IME 的日文羅馬拼音輸入方案
- * [deep-question-generation](https://github.com/sonoisa/deep-question-generation) - 使用深度學習生成的測驗（日語T5模型）
- * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技術和Nemotron-4-340B-Instruct來創建合成對話數據集的代碼
- * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 在日本語數據集中進行qlora指令調整學習的示例代碼
- * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki 字典是從日文維基百科生成的字典，用於 Mozc。
+**Tutorial**
+ * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERT進行文本分類
 
 **Rust**
- * [kanaria](https://github.com/samunohito/kanaria) - 這個程式庫提供了平假名、片假名、半形和全形之間的互相轉換和識別功能。
- * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 日本的地址分割成都道府県/市區町村/町名/其他的程式庫
+ * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
 
-**Dictionary**
- * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 讀取：讀取日本和中文詞典對於讀取。
- * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - 滑鼠懸停在單字上時，自動讀取的通用辭典工具
-
-_Updated on Jul 17, 2024_
+_Updated on Jul 22, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -794,6 +778,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanki](https://github.com/tysonwu/japanki) - 通過在CLI上進行測驗來學習日語詞彙🇯🇵！
  * [jpreprocess](https://github.com/jpreprocess/jpreprocess) - 用於文本轉語音應用的日文文本預處理器（OpenJTalk在Rust語言中的重寫）
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 裁判例資料列表生成軟體，可透過網址(https://www.courts.go.jp/index.html) 對法院網站進行爬蟲。
+ * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -813,6 +798,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[japanki](https://github.com/tysonwu/japanki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tysonwu/japanki?style=social)|
 |[jpreprocess](https://github.com/jpreprocess/jpreprocess)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jpreprocess/jpreprocess?style=social)|
 |[listup_precedent](https://github.com/japanese-law-analysis/listup_precedent)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japanese-law-analysis/listup_precedent?style=social)|
+|[jisho](https://github.com/eagleflo/jisho)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/eagleflo/jisho?style=social)|
 
 
 ## JavaScript
@@ -1544,6 +1530,7 @@ ChatGPT的提示示例。
  * [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) - 日本語資訊檢索教學
  * [nlpbook](https://github.com/mamorlis/nlpbook) - 「自然語言處理教科書」支援網站
  * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 製作並學習正規表達式引擎
+ * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERT進行文本分類
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1567,6 +1554,7 @@ ChatGPT的提示示例。
 |[japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpkato/japanese-ir-tutorial?style=social)|
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
 |[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
+|[bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/bert-classification-tutorial-2024?style=social)|
 
 
 ## Research summary

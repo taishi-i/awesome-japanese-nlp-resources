@@ -3365,6 +3365,18 @@
                     "zh-hans": "使用软件从法院网站(https://www.courts.go.jp/index.html) 爬取裁判例数据并生成数据列表。",
                     "zh-hant": "裁判例資料列表生成軟體，可透過網址(https://www.courts.go.jp/index.html) 對法院網站進行爬蟲。"
                 }
+            },
+            "https://github.com/eagleflo/jisho": {
+                "sub_category": null,
+                "repository_name": "jisho",
+                "user_name": "eagleflo",
+                "description": "Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.",
+                "multilingual_descriptions": {
+                    "en": "Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.",
+                    "ja": "Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。\nJishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。",
+                    "zh-hans": "Jisho是一个提供日语-英语词典的CLI工具和Rust库。",
+                    "zh-hant": "Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。"
+                }
             }
         },
         "JavaScript": {
@@ -7004,6 +7016,18 @@
                     "ja": "作って学ぶ正規表現エンジン",
                     "zh-hans": "制作并学习正则表达式引擎",
                     "zh-hant": "製作並學習正規表達式引擎"
+                }
+            },
+            "https://github.com/hpprc/bert-classification-tutorial-2024": {
+                "sub_category": null,
+                "repository_name": "bert-classification-tutorial-2024",
+                "user_name": "hpprc",
+                "description": "【2024年版】BERTによるテキスト分類",
+                "multilingual_descriptions": {
+                    "en": "Text classification using BERT in the 2024 version",
+                    "ja": "【2024年版】BERTによるテキスト分類",
+                    "zh-hans": "【2024年版】基于BERT的文本分类",
+                    "zh-hant": "【2024年版】BERT進行文本分類"
                 }
             }
         },
