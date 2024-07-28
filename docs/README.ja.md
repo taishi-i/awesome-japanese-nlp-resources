@@ -26,7 +26,7 @@ Huggingfaceに掲載されているモデルは、[こちら](https://github.com
  * [jisho](https://github.com/eagleflo/jisho) - Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。
 Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
 
-_Updated on Jul 22, 2024_
+_Updated on Jul 28, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -67,7 +67,7 @@ _Updated on Jul 22, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary](#dictionary)
+ * [Dictionary/IME](#dictionary/ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -1127,7 +1127,7 @@ Resources
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary
+## Dictionary/IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 「mecab-ipadic」に基づくウェブ上の言語リソースに基づく新語辞典
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 日本語アクセント辞書ジェネレーター

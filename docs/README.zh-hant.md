@@ -24,7 +24,7 @@
 **Rust**
  * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
 
-_Updated on Jul 22, 2024_
+_Updated on Jul 28, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -65,7 +65,7 @@ _Updated on Jul 22, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary](#dictionary)
+ * [Dictionary/IME](#dictionary/ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -1127,7 +1127,7 @@ ChatGPT的提示示例。
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary
+## Dictionary/IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 基於網絡語言資源的新詞典，適用於mecab-ipadic。
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 一個日本口音字典生成器

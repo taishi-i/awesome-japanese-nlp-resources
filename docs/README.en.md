@@ -27,7 +27,7 @@ For information on the models and datasets available on Huggingface, please see 
 **Rust**
  * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
 
-_Updated on Jul 22, 2024_
+_Updated on Jul 28, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -68,7 +68,7 @@ _Updated on Jul 22, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary](#dictionary)
+ * [Dictionary/IME](#dictionary/ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -1120,7 +1120,7 @@ Resources
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary
+## Dictionary/IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - A Japanese accent dictionary generator
