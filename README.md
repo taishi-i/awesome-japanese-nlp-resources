@@ -1162,6 +1162,7 @@ Resources
  * [jisyo](https://github.com/skk-dict/jisyo) - かな漢字変換エンジン SKKのための新しい辞書形式
  * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 日本語の読みから Emoji に変換するための SKK 辞書 😂
  * [anthy](https://github.com/netsphere-labs/anthy) - Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWSサービス名のGoogle日本語入力向けの辞書
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1205,6 +1206,7 @@ Resources
 |[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
 |[jisyo](https://github.com/skk-dict/jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/skk-dict/jisyo?style=social)|
 |[skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ymrl/skk-jisyo.emoji-ja?style=social)|
+|[aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konyu/aws_dic_for_google_ime?style=social)|
 
 
 ## Corpus
