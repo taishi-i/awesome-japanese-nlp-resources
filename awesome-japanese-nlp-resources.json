@@ -2881,6 +2881,30 @@
                     "zh-hans": "Mozc UT Jawiki词典是从日文维基百科为Mozc生成的词典。",
                     "zh-hant": "Mozc UT Jawiki 字典是從日文維基百科生成的字典，用於 Mozc。"
                 }
+            },
+            "https://github.com/shisa-ai/shisa-v2": {
+                "sub_category": null,
+                "repository_name": "shisa-v2",
+                "user_name": "shisa-ai",
+                "description": "Japanese / English Bilingual LLM",
+                "multilingual_descriptions": {
+                    "en": "Japanese / English Bilingual LLM",
+                    "ja": "日本語/英語バイリンガルLLM",
+                    "zh-hans": "日英双语法学硕士",
+                    "zh-hant": "日英雙語法學碩士"
+                }
+            },
+            "https://github.com/hpprc/llm-translator": {
+                "sub_category": null,
+                "repository_name": "llm-translator",
+                "user_name": "hpprc",
+                "description": "Mixtral-based Ja-En (En-Ja) Translation model",
+                "multilingual_descriptions": {
+                    "en": "Mixtral-based Ja-En (En-Ja) Translation model",
+                    "ja": "ミクストラルベースの日英（英日）翻訳モデル",
+                    "zh-hans": "基于Mixtral的Ja-En（En-Ja）翻译模型",
+                    "zh-hant": "基於Mixtral的Ja-En（En-Ja）翻譯模型"
+                }
             }
         },
         "C++": {
@@ -4781,7 +4805,7 @@
                 }
             }
         },
-        "Dictionary": {
+        "Dictionary and IME": {
             "https://github.com/neologd/mecab-ipadic-neologd": {
                 "sub_category": null,
                 "repository_name": "mecab-ipadic-neologd",
@@ -5224,6 +5248,102 @@
                     "ja": "マウスオーバーした単語を自動で読み取る汎用辞書ツール",
                     "zh-hans": "将鼠标悬停在单词上自动读取的通用词典工具",
                     "zh-hant": "滑鼠懸停在單字上時，自動讀取的通用辭典工具"
+                }
+            },
+            "https://github.com/skk-dict/jisyo": {
+                "sub_category": null,
+                "repository_name": "jisyo",
+                "user_name": "skk-dict",
+                "description": "かな漢字変換エンジン SKKのための新しい辞書形式",
+                "multilingual_descriptions": {
+                    "en": "New dictionary format for the kana-kanji conversion engine SKK",
+                    "ja": "かな漢字変換エンジン SKKのための新しい辞書形式",
+                    "zh-hans": "为SKK输入法的新词典格式",
+                    "zh-hant": "為SKK的新辭典格式的假名漢字轉換引擎"
+                }
+            },
+            "https://github.com/ymrl/skk-jisyo.emoji-ja": {
+                "sub_category": null,
+                "repository_name": "skk-jisyo.emoji-ja",
+                "user_name": "ymrl",
+                "description": "日本語の読みから Emoji に変換するための SKK 辞書 😂",
+                "multilingual_descriptions": {
+                    "en": "SKK dictionary for converting Japanese readings to Emoji 😂",
+                    "ja": "日本語の読みから Emoji に変換するための SKK 辞書 😂",
+                    "zh-hans": "将日语读音转换为 Emoji 的 SKK 字典 😂",
+                    "zh-hant": "日本語的讀音轉換為 Emoji 的 SKK 字典 😂"
+                }
+            },
+            "https://github.com/netsphere-labs/anthy": {
+                "sub_category": null,
+                "repository_name": "anthy",
+                "user_name": "netsphere-labs",
+                "description": "Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.",
+                "multilingual_descriptions": {
+                    "en": "Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.",
+                    "ja": "アンシーは日本語のかな漢字変換エンジンです。ローマ字をかなに変換し、かなテキストをかなと漢字の混合テキストに変換します。",
+                    "zh-hans": "Anthy是一个用于日语的假名-汉字转换引擎。它可以将罗马字转换为假名，然后将假名文本转换为混合假名和汉字。",
+                    "zh-hant": "Anthy是一個日文的假名漢字轉換引擎。它將羅馬字轉換為假名，並將假名文本轉換為混合假名和漢字。"
+                }
+            },
+            "https://github.com/konyu/aws_dic_for_google_ime": {
+                "sub_category": null,
+                "repository_name": "aws_dic_for_google_ime",
+                "user_name": "konyu",
+                "description": "AWSサービス名のGoogle日本語入力向けの辞書",
+                "multilingual_descriptions": {
+                    "en": "Dictionary for Google Japanese input for AWS service names",
+                    "ja": "AWSサービス名のGoogle日本語入力向けの辞書",
+                    "zh-hans": "AWS服务名称的适用于Google日语输入的词典",
+                    "zh-hant": "AWS服務名稱的Google日文輸入詞典"
+                }
+            },
+            "https://github.com/tani/cl-skkserv": {
+                "sub_category": null,
+                "repository_name": "cl-skkserv",
+                "user_name": "tani",
+                "description": "Common LispによるSKK辞書サーバーとその拡張",
+                "multilingual_descriptions": {
+                    "en": "SKK dictionary server and its extensions using Common Lisp",
+                    "ja": "Common LispによるSKK辞書サーバーとその拡張",
+                    "zh-hans": "使用Common Lisp构建的SKK词典服务器及其扩展",
+                    "zh-hant": "使用Common Lisp構建的SKK詞典伺服器及其擴展"
+                }
+            },
+            "https://github.com/xorgy/anthy": {
+                "sub_category": null,
+                "repository_name": "anthy",
+                "user_name": "xorgy",
+                "description": "Anthy maintenance",
+                "multilingual_descriptions": {
+                    "en": "Anthy maintenance",
+                    "ja": "アンシーのメンテナンス",
+                    "zh-hans": "安蒂维护",
+                    "zh-hant": "安西維護"
+                }
+            },
+            "https://github.com/fujiwarat/anthy-unicode": {
+                "sub_category": null,
+                "repository_name": "anthy-unicode",
+                "user_name": "fujiwarat",
+                "description": "Another Anthy",
+                "multilingual_descriptions": {
+                    "en": "Anthy Unicode - Another Anthy",
+                    "ja": "アンシーユニコード - アナザーアンシー",
+                    "zh-hans": "安蒂Unicode - 另一个安蒂",
+                    "zh-hant": "安西Unicode - 另一個安西"
+                }
+            },
+            "https://github.com/ensan-hcl/azooKey": {
+                "sub_category": null,
+                "repository_name": "azooKey",
+                "user_name": "ensan-hcl",
+                "description": "azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift",
+                "multilingual_descriptions": {
+                    "en": "azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift",
+                    "ja": "Input: azooKey: Swiftで完全に開発された日本語キーボードiOSアプリケーション\nOutput: azooKey：Swiftで完全に開発された日本語キーボードiOSアプリ",
+                    "zh-hans": "azooKey：一款完全使用Swift开发的日本键盘iOS应用程序",
+                    "zh-hant": "azooKey：一個完全使用Swift開發的日本鍵盤iOS應用程式"
                 }
             }
         },

@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1566 Japanese NLP repositories from GitHub and Hugging Face.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1611 Japanese NLP repositories from GitHub and Hugging Face.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -21,11 +21,18 @@ For information on the models and datasets available on Huggingface, please see 
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
- * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERTによるテキスト分類
+**Dictionary and IME**
+ * [jisyo](https://github.com/skk-dict/jisyo) - かな漢字変換エンジン SKKのための新しい辞書形式
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 日本語の読みから Emoji に変換するための SKK 辞書 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWSサービス名のGoogle日本語入力向けの辞書
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - Common LispによるSKK辞書サーバーとその拡張
+ * [anthy](https://github.com/xorgy/anthy) - Anthy maintenance
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift
 
-**Rust**
- * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
+**Python**
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - Japanese / English Bilingual LLM
+ * [llm-translator](https://github.com/hpprc/llm-translator) - Mixtral-based Ja-En (En-Ja) Translation model
 
 _Updated on Jul 28, 2024_
 
@@ -68,7 +75,7 @@ _Updated on Jul 28, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary/IME](#dictionary/ime)
+ * [Dictionary and IME](#dictionary-and-ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -1125,7 +1132,7 @@ Resources
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary/IME
+## Dictionary and IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - A Japanese accent dictionary generator

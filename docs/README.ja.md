@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、1566件の日本語NLPリポジトリが含まれています。
+[このリスト](https://github.com/taishi-i/awesome-japanese-nlp-resources)には、1611件の日本語NLPリポジトリが含まれています。
 これらのリポジトリを検索するための[ツール](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)はHugging Face Spacesで利用可能です。
 Huggingfaceに掲載されているモデルは、[こちら](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) をご覧ください。
 
@@ -19,12 +19,19 @@ Huggingfaceに掲載されているモデルは、[こちら](https://github.com
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
- * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERTによるテキスト分類
+**Dictionary and IME**
+ * [jisyo](https://github.com/skk-dict/jisyo) - かな漢字変換エンジン SKKのための新しい辞書形式
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 日本語の読みから Emoji に変換するための SKK 辞書 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - アンシーは日本語のかな漢字変換エンジンです。ローマ字をかなに変換し、かなテキストをかなと漢字の混合テキストに変換します。
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWSサービス名のGoogle日本語入力向けの辞書
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - Common LispによるSKK辞書サーバーとその拡張
+ * [anthy](https://github.com/xorgy/anthy) - アンシーのメンテナンス
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - Input: azooKey: Swiftで完全に開発された日本語キーボードiOSアプリケーション
+Output: azooKey：Swiftで完全に開発された日本語キーボードiOSアプリ
 
-**Rust**
- * [jisho](https://github.com/eagleflo/jisho) - Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。
-Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
+**Python**
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - 日本語/英語バイリンガルLLM
+ * [llm-translator](https://github.com/hpprc/llm-translator) - ミクストラルベースの日英（英日）翻訳モデル
 
 _Updated on Jul 28, 2024_
 
@@ -67,7 +74,7 @@ _Updated on Jul 28, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary/IME](#dictionary/ime)
+ * [Dictionary and IME](#dictionary-and-ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -522,6 +529,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Magpieという手法とNemotron-4-340B-Instructを用いて合成対話データセットを作るコード
  * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 日本語データセットでのqlora instruction tuning学習サンプルコード
  * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki辞書は、Mozc用に日本語のWikipediaから生成された辞書です。
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - 日本語/英語バイリンガルLLM
+ * [llm-translator](https://github.com/hpprc/llm-translator) - ミクストラルベースの日英（英日）翻訳モデル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -661,6 +670,9 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[magpie-nemotron](https://github.com/aratako/magpie-nemotron)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aratako/magpie-nemotron?style=social)|
 |[qlora_ja](https://github.com/sosuke115/qlora_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sosuke115/qlora_ja?style=social)|
 |[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
+|[shisa-v2](https://github.com/shisa-ai/shisa-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/shisa-v2?style=social)|
+|[llm-translator](https://github.com/hpprc/llm-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/llm-translator?style=social)|
+
 
 ## C++
 
@@ -1127,7 +1139,7 @@ Resources
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary/IME
+## Dictionary and IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 「mecab-ipadic」に基づくウェブ上の言語リソースに基づく新語辞典
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 日本語アクセント辞書ジェネレーター
@@ -1166,6 +1178,15 @@ Resources
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - うちなーぐち辞典（沖縄語辞典）
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 読谷村のための日本語と中国語の辞書。
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - マウスオーバーした単語を自動で読み取る汎用辞書ツール
+ * [jisyo](https://github.com/skk-dict/jisyo) - かな漢字変換エンジン SKKのための新しい辞書形式
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 日本語の読みから Emoji に変換するための SKK 辞書 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - アンシーは日本語のかな漢字変換エンジンです。ローマ字をかなに変換し、かなテキストをかなと漢字の混合テキストに変換します。
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWSサービス名のGoogle日本語入力向けの辞書
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - Common LispによるSKK辞書サーバーとその拡張
+ * [anthy](https://github.com/xorgy/anthy) - アンシーのメンテナンス
+ * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - アンシーユニコード - アナザーアンシー
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - Input: azooKey: Swiftで完全に開発された日本語キーボードiOSアプリケーション
+Output: azooKey：Swiftで完全に開発された日本語キーボードiOSアプリ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1207,6 +1228,13 @@ Resources
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
 |[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
 |[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
+|[jisyo](https://github.com/skk-dict/jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/skk-dict/jisyo?style=social)|
+|[skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ymrl/skk-jisyo.emoji-ja?style=social)|
+|[aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konyu/aws_dic_for_google_ime?style=social)|
+|[cl-skkserv](https://github.com/tani/cl-skkserv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tani/cl-skkserv?style=social)|
+|[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
+|[anthy-unicode](https://github.com/fujiwarat/anthy-unicode)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fujiwarat/anthy-unicode?style=social)|
+|[azooKey](https://github.com/ensan-hcl/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azooKey?style=social)|
 
 
 ## Corpus
@@ -1231,6 +1259,7 @@ Resources
 |[UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/UD_Japanese-GSD?style=social)|
 |[KWDLC](https://github.com/ku-nlp/KWDLC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/KWDLC?style=social)|
 |[AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/AnnotatedFKCCorpus?style=social)|
+|[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 
 
 ### Parallel corpus

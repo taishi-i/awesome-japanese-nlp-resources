@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 1566 个日语 NLP 存储库。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包含 1611 个日语 NLP 存储库。
 Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
@@ -20,11 +20,18 @@ Hugging Face Spaces 上提供了用于搜索这些存储库的[工具](https://h
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
- * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】基于BERT的文本分类
+**Dictionary and IME**
+ * [jisyo](https://github.com/skk-dict/jisyo) - 为SKK输入法的新词典格式
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 将日语读音转换为 Emoji 的 SKK 字典 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - Anthy是一个用于日语的假名-汉字转换引擎。它可以将罗马字转换为假名，然后将假名文本转换为混合假名和汉字。
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWS服务名称的适用于Google日语输入的词典
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - 使用Common Lisp构建的SKK词典服务器及其扩展
+ * [anthy](https://github.com/xorgy/anthy) - 安蒂维护
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey：一款完全使用Swift开发的日本键盘iOS应用程序
 
-**Rust**
- * [jisho](https://github.com/eagleflo/jisho) - Jisho是一个提供日语-英语词典的CLI工具和Rust库。
+**Python**
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - 日英双语法学硕士
+ * [llm-translator](https://github.com/hpprc/llm-translator) - 基于Mixtral的Ja-En（En-Ja）翻译模型
 
 _Updated on Jul 28, 2024_
 
@@ -67,7 +74,7 @@ _Updated on Jul 28, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary/IME](#dictionary/ime)
+ * [Dictionary and IME](#dictionary-and-ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -520,6 +527,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - 使用Magpie技术和Nemotron-4-340B-Instruct创建合成对话数据集的代码
  * [qlora_ja](https://github.com/sosuke115/qlora_ja) - 在日语数据集上进行qlora指令调整的学习示例代码
  * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki词典是从日文维基百科为Mozc生成的词典。
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - 日英双语法学硕士
+ * [llm-translator](https://github.com/hpprc/llm-translator) - 基于Mixtral的Ja-En（En-Ja）翻译模型
 
 
 |Name|downloads/week|total downloads|stars|
@@ -659,6 +668,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[magpie-nemotron](https://github.com/aratako/magpie-nemotron)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aratako/magpie-nemotron?style=social)|
 |[qlora_ja](https://github.com/sosuke115/qlora_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sosuke115/qlora_ja?style=social)|
 |[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
+|[shisa-v2](https://github.com/shisa-ai/shisa-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/shisa-v2?style=social)|
+|[llm-translator](https://github.com/hpprc/llm-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/llm-translator?style=social)|
+
 
 ## C++
 
@@ -1124,7 +1136,7 @@ Resources
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary/IME
+## Dictionary and IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 基于网络语言资源的新词典，适用于mecab-ipadic。
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 一个日语口音词典生成器
@@ -1163,6 +1175,14 @@ Resources
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - 乌恩辞典（冲绳语辞典）
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - 与读谷村的日语和中文词典。
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - 将鼠标悬停在单词上自动读取的通用词典工具
+ * [jisyo](https://github.com/skk-dict/jisyo) - 为SKK输入法的新词典格式
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 将日语读音转换为 Emoji 的 SKK 字典 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - Anthy是一个用于日语的假名-汉字转换引擎。它可以将罗马字转换为假名，然后将假名文本转换为混合假名和汉字。
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWS服务名称的适用于Google日语输入的词典
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - 使用Common Lisp构建的SKK词典服务器及其扩展
+ * [anthy](https://github.com/xorgy/anthy) - 安蒂维护
+ * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - 安蒂Unicode - 另一个安蒂
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey：一款完全使用Swift开发的日本键盘iOS应用程序
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1204,6 +1224,13 @@ Resources
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
 |[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
 |[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
+|[jisyo](https://github.com/skk-dict/jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/skk-dict/jisyo?style=social)|
+|[skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ymrl/skk-jisyo.emoji-ja?style=social)|
+|[aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konyu/aws_dic_for_google_ime?style=social)|
+|[cl-skkserv](https://github.com/tani/cl-skkserv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tani/cl-skkserv?style=social)|
+|[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
+|[anthy-unicode](https://github.com/fujiwarat/anthy-unicode)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fujiwarat/anthy-unicode?style=social)|
+|[azooKey](https://github.com/ensan-hcl/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azooKey?style=social)|
 
 
 ## Corpus
@@ -1228,6 +1255,7 @@ Resources
 |[UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/UD_Japanese-GSD?style=social)|
 |[KWDLC](https://github.com/ku-nlp/KWDLC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/KWDLC?style=social)|
 |[AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/AnnotatedFKCCorpus?style=social)|
+|[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 
 
 ### Parallel corpus

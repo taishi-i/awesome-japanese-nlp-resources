@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1566 Japanese NLP repositories from GitHub and Hugging Face.
+[This list](https://github.com/taishi-i/awesome-japanese-nlp-resources) includes 1611 Japanese NLP repositories from GitHub and Hugging Face.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) on Hugging Face Spaces.
 
 For information on the models and datasets available on Huggingface, please see [here](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md).
@@ -21,11 +21,18 @@ For information on the models and datasets available on Huggingface, please see 
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Tutorial**
- * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - Text classification using BERT in the 2024 version
+**Dictionary and IME**
+ * [jisyo](https://github.com/skk-dict/jisyo) - New dictionary format for the kana-kanji conversion engine SKK
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - SKK dictionary for converting Japanese readings to Emoji 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - Dictionary for Google Japanese input for AWS service names
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - SKK dictionary server and its extensions using Common Lisp
+ * [anthy](https://github.com/xorgy/anthy) - Anthy maintenance
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift
 
-**Rust**
- * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
+**Python**
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - Japanese / English Bilingual LLM
+ * [llm-translator](https://github.com/hpprc/llm-translator) - Mixtral-based Ja-En (En-Ja) Translation model
 
 _Updated on Jul 28, 2024_
 
@@ -68,7 +75,7 @@ _Updated on Jul 28, 2024_
    * [Word2Vec](#word2Vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
- * [Dictionary/IME](#dictionary/ime)
+ * [Dictionary and IME](#dictionary-and-ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
    * [Text classification](#text-classification)
@@ -517,6 +524,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [magpie-nemotron](https://github.com/aratako/magpie-nemotron) - Code to create a synthetic dialogue dataset using the technique called Magpie and Nemotron-4-340B-Instruct.
  * [qlora_ja](https://github.com/sosuke115/qlora_ja) - Sample code for qlora instruction tuning learning in a Japanese dataset.
  * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.
+ * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - Japanese / English Bilingual LLM
+ * [llm-translator](https://github.com/hpprc/llm-translator) - Mixtral-based Ja-En (En-Ja) Translation model
 
 
 |Name|downloads/week|total downloads|stars|
@@ -656,6 +665,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[magpie-nemotron](https://github.com/aratako/magpie-nemotron)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aratako/magpie-nemotron?style=social)|
 |[qlora_ja](https://github.com/sosuke115/qlora_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sosuke115/qlora_ja?style=social)|
 |[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
+|[shisa-v2](https://github.com/shisa-ai/shisa-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/shisa-v2?style=social)|
+|[llm-translator](https://github.com/hpprc/llm-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/llm-translator?style=social)|
+
 
 ## C++
 
@@ -1120,7 +1132,7 @@ Resources
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
 
 
-## Dictionary/IME
+## Dictionary and IME
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - A Japanese accent dictionary generator
@@ -1159,6 +1171,14 @@ Resources
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - Uchinaaguchi Dictionary (Okinawan Language Dictionary)
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - Japanese and Chinese dictionaries for Yomitan.
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - Generic dictionary tool that automatically reads the word you mouse over.
+ * [jisyo](https://github.com/skk-dict/jisyo) - New dictionary format for the kana-kanji conversion engine SKK
+ * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - SKK dictionary for converting Japanese readings to Emoji 😂
+ * [anthy](https://github.com/netsphere-labs/anthy) - Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.
+ * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - Dictionary for Google Japanese input for AWS service names
+ * [cl-skkserv](https://github.com/tani/cl-skkserv) - SKK dictionary server and its extensions using Common Lisp
+ * [anthy](https://github.com/xorgy/anthy) - Anthy maintenance
+ * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - Anthy Unicode - Another Anthy
+ * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1200,6 +1220,13 @@ Resources
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
 |[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
 |[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
+|[jisyo](https://github.com/skk-dict/jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/skk-dict/jisyo?style=social)|
+|[skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ymrl/skk-jisyo.emoji-ja?style=social)|
+|[aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konyu/aws_dic_for_google_ime?style=social)|
+|[cl-skkserv](https://github.com/tani/cl-skkserv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tani/cl-skkserv?style=social)|
+|[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
+|[anthy-unicode](https://github.com/fujiwarat/anthy-unicode)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fujiwarat/anthy-unicode?style=social)|
+|[azooKey](https://github.com/ensan-hcl/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azooKey?style=social)|
 
 
 ## Corpus
@@ -1224,6 +1251,7 @@ Resources
 |[UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/UD_Japanese-GSD?style=social)|
 |[KWDLC](https://github.com/ku-nlp/KWDLC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/KWDLC?style=social)|
 |[AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/AnnotatedFKCCorpus?style=social)|
+|[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 
 
 ### Parallel corpus
