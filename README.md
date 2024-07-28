@@ -1164,6 +1164,7 @@ Resources
  * [anthy](https://github.com/netsphere-labs/anthy) - Anthy is a kana-kanji conversion engine for Japanese. It converts roma-ji to kana, and the kana text to a mixed kana and kanji.
  * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWSサービス名のGoogle日本語入力向けの辞書
  * [cl-skkserv](https://github.com/tani/cl-skkserv) - Common LispによるSKK辞書サーバーとその拡張
+ * [anthy](https://github.com/xorgy/anthy) - Anthy maintenance
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1209,6 +1210,7 @@ Resources
 |[skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ymrl/skk-jisyo.emoji-ja?style=social)|
 |[aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konyu/aws_dic_for_google_ime?style=social)|
 |[cl-skkserv](https://github.com/tani/cl-skkserv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tani/cl-skkserv?style=social)|
+|[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
 
 
 ## Corpus
