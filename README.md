@@ -1159,6 +1159,7 @@ Resources
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - うちなーぐち辞典（沖縄語辞典）
  * [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) - Japanese and Chinese dictionaries for Yomitan.
  * [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) - マウスオーバーした単語を自動で読み取る汎用辞書ツール
+ * [jisyo](https://github.com/skk-dict/jisyo) - かな漢字変換エンジン SKKのための新しい辞書形式
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1200,6 +1201,7 @@ Resources
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
 |[yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/yomitan-dictionaries?style=social)|
 |[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
+|[jisyo](https://github.com/skk-dict/jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/skk-dict/jisyo?style=social)|
 
 
 ## Corpus
