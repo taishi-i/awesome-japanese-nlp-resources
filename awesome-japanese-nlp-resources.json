@@ -446,6 +446,18 @@
                     "zh-hant": "執行NormalizeNumexp的Python實作，進行數量表達和時間表達的提取和規範化。"
                 }
             },
+            "https://github.com/nagataaaas/Jusho": {
+                "sub_category": "Converter",
+                "repository_name": "Jusho",
+                "user_name": "nagataaaas",
+                "description": "Easy wrapper for the postal code data of Japan",
+                "multilingual_descriptions": {
+                    "en": "Easy wrapper for the postal code data of Japan",
+                    "ja": "日本の郵便番号データの簡単なラッパー",
+                    "zh-hans": "日本邮政编码数据的简易封装器",
+                    "zh-hant": "日本郵政編碼數據的簡單封裝"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -5344,6 +5356,30 @@
                     "ja": "Input: azooKey: Swiftで完全に開発された日本語キーボードiOSアプリケーション\nOutput: azooKey：Swiftで完全に開発された日本語キーボードiOSアプリ",
                     "zh-hans": "azooKey：一款完全使用Swift开发的日本键盘iOS应用程序",
                     "zh-hant": "azooKey：一個完全使用Swift開發的日本鍵盤iOS應用程式"
+                }
+            },
+            "https://github.com/ensan-hcl/azookey-desktop": {
+                "sub_category": null,
+                "repository_name": "azookey-desktop",
+                "user_name": "ensan-hcl",
+                "description": "Japanese Input Method \"azooKey\" for Desktop, supporting macOS",
+                "multilingual_descriptions": {
+                    "en": "Japanese Input Method azooKey for Desktop, supporting macOS",
+                    "ja": "デスクトップ用の日本語入力メソッドazooKey、macOSをサポート",
+                    "zh-hans": "日语输入法azooKey适用于桌面电脑，支持macOS。",
+                    "zh-hant": "日文輸入法azooKey桌面版，支援macOS"
+                }
+            },
+            "https://github.com/7ka-hiira/fcitx5-hazkey": {
+                "sub_category": null,
+                "repository_name": "fcitx5-hazkey",
+                "user_name": "7ka-hiira",
+                "description": "Japanese input method for fcitx5, powered by azooKey engine",
+                "multilingual_descriptions": {
+                    "en": "Japanese input method for fcitx5, powered by azooKey engine",
+                    "ja": "fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。",
+                    "zh-hans": "由azooKey引擎驱动的fcitx5日语输入法\n由azooKey引擎驱动的fcitx5日语输入法",
+                    "zh-hant": "由azooKey引擎提供支援的fcitx5日文輸入法\n由azooKey引擎提供支援的fcitx5日文輸入法"
                 }
             }
         },

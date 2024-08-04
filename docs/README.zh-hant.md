@@ -6,7 +6,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 1611 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
+[此列表](https://github.com/taishi-i/awesome-japanese-nlp-resources)包括 1652 個日語 NLP 存儲庫。 Hugging Face Spaces 上提供了用於搜索這些存儲庫的[工具](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)。
 您可以在 Huggingface 上找到的模型，请查看[这里](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)。
 
 
@@ -19,19 +19,14 @@
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Dictionary and IME**
- * [jisyo](https://github.com/skk-dict/jisyo) - 為SKK的新辭典格式的假名漢字轉換引擎
- * [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) - 日本語的讀音轉換為 Emoji 的 SKK 字典 😂
- * [anthy](https://github.com/netsphere-labs/anthy) - Anthy是一個日文的假名漢字轉換引擎。它將羅馬字轉換為假名，並將假名文本轉換為混合假名和漢字。
- * [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) - AWS服務名稱的Google日文輸入詞典
- * [cl-skkserv](https://github.com/tani/cl-skkserv) - 使用Common Lisp構建的SKK詞典伺服器及其擴展
- * [anthy](https://github.com/xorgy/anthy) - 安西維護
- * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey：一個完全使用Swift開發的日本鍵盤iOS應用程式
+ * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - 日文輸入法azooKey桌面版，支援macOS
+ * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - 由azooKey引擎提供支援的fcitx5日文輸入法
+由azooKey引擎提供支援的fcitx5日文輸入法
 
 **Python**
- * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - 日英雙語法學碩士
- * [llm-translator](https://github.com/hpprc/llm-translator) - 基於Mixtral的Ja-En（En-Ja）翻譯模型
+ * [Jusho](https://github.com/nagataaaas/Jusho) - 日本郵政編碼數據的簡單封裝
 
-_Updated on Jul 28, 2024_
+_Updated on Aug 05, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -169,6 +164,7 @@ _Updated on Jul 28, 2024_
 將日文假名從ba-bi-bu-be-bo轉換為va-vi-vu-ve-vo
  * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - 使用MeCab獲取日文讀音（yomigana）和重音的簡單Python套件（CLI/Python API）。
  * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - 執行NormalizeNumexp的Python實作，進行數量表達和時間表達的提取和規範化。
+ * [Jusho](https://github.com/nagataaaas/Jusho) - 日本郵政編碼數據的簡單封裝
 
 
 |Name|downloads/week|total downloads|stars|
@@ -184,6 +180,7 @@ _Updated on Jul 28, 2024_
 |[wiredify](https://github.com/eggplants/wiredify)|[![Downloads](https://pepy.tech/badge/wiredify/week)](https://pepy.tech/project/wiredify)|[![Downloads](https://pepy.tech/badge/wiredify)](https://pepy.tech/project/wiredify)|![GitHub Repo stars](https://img.shields.io/github/stars/eggplants/wiredify?style=social)|
 |[mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner)|[![Downloads](https://pepy.tech/badge/mecab-text-cleaner/week)](https://pepy.tech/project/mecab-text-cleaner)|[![Downloads](https://pepy.tech/badge/mecab-text-cleaner)](https://pepy.tech/project/mecab-text-cleaner)|![GitHub Repo stars](https://img.shields.io/github/stars/34j/mecab-text-cleaner?style=social)|
 |[pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp)|[![Downloads](https://pepy.tech/badge/pynormalizenumexp/week)](https://pepy.tech/project/pynormalizenumexp)|[![Downloads](https://pepy.tech/badge/pynormalizenumexp)](https://pepy.tech/project/pynormalizenumexp)|![GitHub Repo stars](https://img.shields.io/github/stars/tkscode/pynormalizenumexp?style=social)|
+|[Jusho](https://github.com/nagataaaas/Jusho)|[![Downloads](https://pepy.tech/badge/Jusho/week)](https://pepy.tech/project/Jusho)|[![Downloads](https://pepy.tech/badge/Jusho)](https://pepy.tech/project/Jusho)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Jusho?style=social)|
 
 
 ### Preprocessor
@@ -1186,6 +1183,9 @@ ChatGPT的提示示例。
  * [anthy](https://github.com/xorgy/anthy) - 安西維護
  * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - 安西Unicode - 另一個安西
  * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey：一個完全使用Swift開發的日本鍵盤iOS應用程式
+ * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - 日文輸入法azooKey桌面版，支援macOS
+ * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - 由azooKey引擎提供支援的fcitx5日文輸入法
+由azooKey引擎提供支援的fcitx5日文輸入法
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1234,6 +1234,8 @@ ChatGPT的提示示例。
 |[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
 |[anthy-unicode](https://github.com/fujiwarat/anthy-unicode)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fujiwarat/anthy-unicode?style=social)|
 |[azooKey](https://github.com/ensan-hcl/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azooKey?style=social)|
+|[azookey-desktop](https://github.com/ensan-hcl/azookey-desktop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azookey-desktop?style=social)|
+|[fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/7ka-hiira/fcitx5-hazkey?style=social)|
 
 
 ## Corpus
