@@ -102,7 +102,7 @@ _Updated on Aug 06, 2024_
  * [jagger-python](https://github.com/lighttransport/jagger-python) - Jagger的Python綁定（基於模式的日語形態分析器的C++實現）
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Parsing
 
@@ -118,7 +118,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - J.DepP的Python綁定（日本依存句法分析器的C++實現）
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Converter
 
@@ -137,7 +137,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [Jusho](https://github.com/nagataaaas/Jusho) - 日本郵政編碼數據的簡單封裝
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Preprocessor
 
@@ -150,7 +150,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [python-habachen](https://github.com/Hizuru3/python-habachen) - 另一個快速的日本字符串轉換器
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Sentence spliter
 
@@ -164,7 +164,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - 日本語句子分割工具比較
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Sentiment analysis
 
@@ -174,7 +174,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [asari](https://github.com/Hironsan/asari) - 使用Python實現的日語情感分析器。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Machine translation
 
@@ -184,7 +184,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [VISA](https://github.com/ku-nlp/VISA) - 一個用於視覺場景感知機器翻譯的模糊字幕數據集
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Named entity recognition
 
@@ -197,7 +197,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERT進行日語固有表現抽取的微調程式
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### OCR
 
@@ -213,7 +213,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫畫圖像的光學字符識別。漫畫OCR桌面應用程式。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Tool for pretrained models
 
@@ -250,7 +250,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - 燕子項目 大規模語言模型 評估腳本
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -398,7 +398,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-translator](https://github.com/hpprc/llm-translator) - 基於Mixtral的Ja-En（En-Ja）翻譯模型
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## C++
 
@@ -409,14 +409,14 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [kytea](https://github.com/neubig/kytea) - 京都文本分析工具箱，可用於詞語分割和發音估計等。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 ### Parsing
 
  * [cabocha](https://github.com/taku910/cabocha) - 另一個日本依存結構分析器
  * [knp](https://github.com/ku-nlp/knp) - 一個日語解析器
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 ### Others
 
  * [jsc](https://github.com/yohokuno/jsc) - 日文假名漢字轉換、中文拼音輸入和CJE混合輸入的聯合源通道模型。
@@ -427,7 +427,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ Windows 的 SKK-like 日文輸入法編輯器
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Rust crate
 
@@ -442,7 +442,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [awabi](https://github.com/nakagami/awabi) - 一個使用mecab字典的形態分析器
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Converter
 
@@ -453,7 +453,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 日本的地址分割成都道府県/市區町村/町名/其他的程式庫
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Search engine library
 
@@ -463,7 +463,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 使用 Vibrato 的 Tantivy 分詞器。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -485,7 +485,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## JavaScript
 
@@ -499,7 +499,7 @@ Resources
  * [node-mecab-async](https://github.com/hecomi/node-mecab-async) - 使用MeCab的非同步日語形態分析器。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Converter
 
@@ -514,7 +514,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - 開源的地址規範化程式庫。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -535,7 +535,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 免費使用的中等品質文字朗讀軟體，VOICEVOX的編輯器
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Go
 
@@ -544,7 +544,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [kagome](https://github.com/ikawaha/kagome) - 純Go編寫的自包含日語形態分析器
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -558,7 +558,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [ojichat](https://github.com/greymd/ojichat) - 生成一些看起来像叔叔会通过LINE或邮件发送的文本
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Java
 
@@ -569,7 +569,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - Sudachi詞彙表
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -584,7 +584,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [elasticsearch-sudachi](https://github.com/worksapplications/elasticsearch-sudachi) - 日本的elasticsearch分析插件
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Pretrained model
 
@@ -600,7 +600,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - 從最新的日本語Wikipedia傾印數據中，使用MeCab在IPA詞典和最新的Neologd詞典中進行形態素分析，並基於該結果學習word2vec、fastText和GloVe的詞向量表示的腳本。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Transformer based models
 
@@ -643,7 +643,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) - EasyLightChatAssistant 是一個輕量級的環境，用於輕鬆測試不受審查或規範的本地日語模型LightChatAssistant，使用KoboldCpp。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## ChatGPT
 
@@ -674,7 +674,7 @@ ChatGPT的提示示例。
  * [japagen](https://github.com/retrieva/japagen) - 使用LLM在日語任務中生成虛擬學習數據的研究
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Dictionary and IME
 
@@ -728,7 +728,7 @@ To check the number of downloads for a library and the number of stars on GitHub
 由azooKey引擎提供支援的fcitx5日文輸入法
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Corpus
 
@@ -743,7 +743,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 註釋版的富滿開取中心語料庫
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Parallel corpus
 
@@ -760,7 +760,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - 谷歌 vs DeepL JE
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Dialog corpus
 
@@ -773,7 +773,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス是一個高品質的多輪對話數據集，包含五個主題的日常對話：生活、學校、旅行、健康和娛樂。
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用的日本語聊天資料集
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 ### Others
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - 日本現實文本蘊含語料庫（NLP 2020，LREC 2020）
@@ -888,7 +888,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR處理程式研究開發項目中所建立的OCR學習用數據集。
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Tutorial
 
@@ -914,7 +914,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERT進行文本分類
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Research summary
 
@@ -926,7 +926,7 @@ To check the number of downloads for a library and the number of stars on GitHub
  * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 開源的日本語LLM總結
 
 
-To check the number of downloads for a library and the number of stars on GitHub, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Reference
 
