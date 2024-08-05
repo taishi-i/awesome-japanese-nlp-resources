@@ -106,6 +106,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[SudachiPy](https://github.com/WorksApplications/SudachiPy)|[![Downloads](https://static.pepy.tech/badge/sudachipy/week)](https://pepy.tech/project/sudachipy)|[![Downloads](https://static.pepy.tech/badge/sudachipy)](https://pepy.tech/project/sudachipy)|![GitHub Repo stars](https://img.shields.io/github/stars/WorksApplications/SudachiPy?style=social)|
@@ -143,6 +144,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[ginza](https://github.com/megagonlabs/ginza)|[![Downloads](https://static.pepy.tech/badge/ginza/week)](https://pepy.tech/project/ginza)|[![Downloads](https://static.pepy.tech/badge/ginza)](https://pepy.tech/project/ginza)|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/ginza?style=social)|
@@ -176,6 +178,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[pykakasi](https://github.com/miurahr/pykakasi)|[![Downloads](https://static.pepy.tech/badge/pykakasi/week)](https://pepy.tech/project/pykakasi)|[![Downloads](https://static.pepy.tech/badge/pykakasi)](https://pepy.tech/project/pykakasi)|![GitHub Repo stars](https://img.shields.io/github/stars/miurahr/pykakasi?style=social)|
@@ -206,6 +209,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[neologdn](https://github.com/ikegami-yukino/neologdn)|[![Downloads](https://static.pepy.tech/badge/neologdn/week)](https://pepy.tech/project/neologdn)|[![Downloads](https://static.pepy.tech/badge/neologdn)](https://pepy.tech/project/neologdn)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/neologdn?style=social)|
@@ -232,6 +236,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[bunkai](https://github.com/megagonlabs/bunkai)|[![Downloads](https://static.pepy.tech/badge/bunkai/week)](https://pepy.tech/project/bunkai)|[![Downloads](https://static.pepy.tech/badge/bunkai)](https://pepy.tech/project/bunkai)|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/bunkai?style=social)|
@@ -255,6 +260,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[oseti](https://github.com/ikegami-yukino/oseti)|[![Downloads](https://static.pepy.tech/badge/oseti/week)](https://pepy.tech/project/oseti)|[![Downloads](https://static.pepy.tech/badge/oseti)](https://pepy.tech/project/oseti)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/oseti?style=social)|
@@ -274,6 +280,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MorinoseiMorizo/jparacrawl-finetune?style=social)|
@@ -296,6 +303,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[namaco](https://github.com/chakki-works/namaco)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chakki-works/namaco?style=social)|
@@ -324,6 +332,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[manga-ocr](https://github.com/kha-white/manga-ocr)|[![Downloads](https://static.pepy.tech/badge/manga-ocr/week)](https://pepy.tech/project/manga-ocr)|[![Downloads](https://static.pepy.tech/badge/manga-ocr)](https://pepy.tech/project/manga-ocr)|![GitHub Repo stars](https://img.shields.io/github/stars/kha-white/manga-ocr?style=social)|
@@ -376,6 +385,7 @@ _Updated on Aug 06, 2024_
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[JGLUE](https://github.com/yahoojapan/JGLUE)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/JGLUE?style=social)|
@@ -556,6 +566,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[namedivider-python](https://github.com/rskmoi/namedivider-python)|[![Downloads](https://static.pepy.tech/badge/namedivider-python/week)](https://pepy.tech/project/namedivider-python)|[![Downloads](https://static.pepy.tech/badge/namedivider-python)](https://pepy.tech/project/namedivider-python)|![GitHub Repo stars](https://img.shields.io/github/stars/rskmoi/namedivider-python?style=social)|
@@ -709,6 +720,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[mecab](https://github.com/taku910/mecab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/mecab?style=social)|
@@ -724,6 +736,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[cabocha](https://github.com/taku910/cabocha)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/cabocha?style=social)|
@@ -742,6 +755,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[jsc](https://github.com/yohokuno/jsc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yohokuno/jsc?style=social)|
@@ -768,6 +782,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[lindera](https://github.com/lindera-morphology/lindera)|-|![Crates.io](https://img.shields.io/crates/d/lindera)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera?style=social)|
@@ -791,6 +806,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[wana_kana_rust](https://github.com/PSeitz/wana_kana_rust)|-|![Crates.io](https://img.shields.io/crates/d/wana_kana)|![GitHub Repo stars](https://img.shields.io/github/stars/PSeitz/wana_kana_rust?style=social)|
@@ -809,6 +825,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy)|-|![Crates.io](https://img.shields.io/crates/d/lindera-tantivy)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera-tantivy?style=social)|
@@ -838,6 +855,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[daachorse](https://github.com/daac-tools/daachorse)|-|![Crates.io](https://img.shields.io/crates/d/daachorse)|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/daachorse?style=social)|
@@ -873,6 +891,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[kuromoji.js](https://github.com/takuyaa/kuromoji.js)|![npm](https://img.shields.io/npm/dw/kuromoji)|![npm](https://img.shields.io/npm/dt/kuromoji)|![GitHub Repo stars](https://img.shields.io/github/stars/takuyaa/kuromoji.js?style=social)|
@@ -898,6 +917,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[kuroshiro](https://github.com/hexenq/kuroshiro)|![npm](https://img.shields.io/npm/dw/kuroshiro)|![npm](https://img.shields.io/npm/dt/kuroshiro)|![GitHub Repo stars](https://img.shields.io/github/stars/hexenq/kuroshiro?style=social)|
@@ -933,6 +953,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[bangumi-data](https://github.com/bangumi-data/bangumi-data)|![npm](https://img.shields.io/npm/dw/bangumi-data)|![npm](https://img.shields.io/npm/dt/bangumi-data)|![GitHub Repo stars](https://img.shields.io/github/stars/bangumi-data/bangumi-data?style=social)|
@@ -962,6 +983,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[kagome](https://github.com/ikawaha/kagome)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome?style=social)|
@@ -981,6 +1003,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[ojosama](https://github.com/jiro4989/ojosama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jiro4989/ojosama?style=social)|
@@ -1004,6 +1027,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[kuromoji](https://github.com/atilika/kuromoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/atilika/kuromoji?style=social)|
@@ -1027,6 +1051,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sakarika/kanjitomo-ocr?style=social)|
@@ -1057,6 +1082,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/philipperemy/japanese-words-to-vectors?style=social)|
@@ -1113,6 +1139,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[bert-japanese](https://github.com/cl-tohoku/bert-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/bert-japanese?style=social)|
@@ -1184,6 +1211,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Yuchi-Games/VRChatGPT?style=social)|
@@ -1265,6 +1293,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neologd/mecab-ipadic-neologd?style=social)|
@@ -1331,6 +1360,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stockmarkteam/ner-wikipedia-dataset?style=social)|
@@ -1361,6 +1391,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[small_parallel_enja](https://github.com/odashi/small_parallel_enja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/odashi/small_parallel_enja?style=social)|
@@ -1390,6 +1421,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[JMRD](https://github.com/ku-nlp/JMRD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/JMRD?style=social)|
@@ -1514,6 +1546,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[jrte-corpus](https://github.com/megagonlabs/jrte-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/jrte-corpus?style=social)|
@@ -1651,6 +1684,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[spacy_tutorial](https://github.com/yuibi/spacy_tutorial)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuibi/spacy_tutorial?style=social)|
@@ -1688,6 +1722,7 @@ Resources
 
 <details>
 <summary>Click to display the statistics table</summary>
+
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/himkt/awesome-bert-japanese?style=social)|
