@@ -18,6 +18,9 @@ For information on the models and datasets available on Huggingface, please see 
 
 ## The latest additions 🎉
 
+**Improve slow page loading issues**
+Removed the statistics table from README.md. Please refer to [README.full.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md) for the previous pages.
+
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 

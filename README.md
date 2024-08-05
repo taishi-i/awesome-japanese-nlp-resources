@@ -18,6 +18,9 @@ For information on the models and datasets available on Huggingface, please see 
 
 ## The latest additions 🎉
 
+**Improve slow page loading issues**
+Removed the statistics table from README.md. Please refer to [README.full.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md) for the previous pages.
+
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
@@ -104,7 +107,7 @@ _Updated on Aug 06, 2024_
  * [jagger-python](https://github.com/lighttransport/jagger-python) - Python binding for Jagger(C++ implementation of Pattern-based Japanese Morphological Analyzer)
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Parsing
 
@@ -120,7 +123,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Converter
 
@@ -138,7 +141,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [Jusho](https://github.com/nagataaaas/Jusho) - Easy wrapper for the postal code data of Japan
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Preprocessor
 
@@ -151,7 +154,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [python-habachen](https://github.com/Hizuru3/python-habachen) - Yet Another Fast Japanese String Converter
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Sentence spliter
 
@@ -165,7 +168,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - Comparison of Japanese Sentence Segmentation Tools
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Sentiment analysis
 
@@ -175,7 +178,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [asari](https://github.com/Hironsan/asari) - Japanese sentiment analyzer implemented in Python.
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Machine translation
 
@@ -185,7 +188,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [VISA](https://github.com/ku-nlp/VISA) - An ambiguous subtitles dataset for visual scene-aware machine translation
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Named entity recognition
 
@@ -198,7 +201,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERTによる日本語固有表現抽出のファインチューニング用プログラム
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### OCR
 
@@ -214,7 +217,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [Poricom](https://github.com/blueaxis/Poricom) - Optical character recognition in manga images. Manga OCR desktop application
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Tool for pretrained models
 
@@ -251,7 +254,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -395,7 +398,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-translator](https://github.com/hpprc/llm-translator) - Mixtral-based Ja-En (En-Ja) Translation model
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## C++
 
@@ -406,14 +409,14 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [kytea](https://github.com/neubig/kytea) - The Kyoto Text Analysis Toolkit for word segmentation and pronunciation estimation, etc.
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 ### Parsing
 
  * [cabocha](https://github.com/taku910/cabocha) - Yet Another Japanese Dependency Structure Analyzer
  * [knp](https://github.com/ku-nlp/knp) - A Japanese Parser
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 ### Others
 
  * [jsc](https://github.com/yohokuno/jsc) - Joint source channel model for Japanese Kana Kanji conversion, Chinese pinyin input and CJE mixed input.
@@ -424,7 +427,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ SKK-like Japanese Input Method Editor for Windows
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Rust crate
 
@@ -439,7 +442,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Converter
 
@@ -450,7 +453,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) - 日本の住所を都道府県/市区町村/町名/その他に分割するライブラリです
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Search engine library
 
@@ -458,7 +461,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - A Tantivy tokenizer using Vibrato.
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -480,7 +483,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## JavaScript
 
@@ -494,7 +497,7 @@ Resources
  * [node-mecab-async](https://github.com/hecomi/node-mecab-async) - Asynchronous japanese morphological analyser using MeCab.
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Converter
 
@@ -509,7 +512,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - オープンソースの住所正規化ライブラリ。
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -530,7 +533,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Go
 
@@ -539,7 +542,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [kagome](https://github.com/ikawaha/kagome) - Self-contained Japanese Morphological Analyzer written in pure Go
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -552,7 +555,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [ojichat](https://github.com/greymd/ojichat) - おじさんがLINEやメールで送ってきそうな文を生成する
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Java
 
@@ -563,7 +566,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
 
@@ -578,7 +581,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [elasticsearch-sudachi](https://github.com/worksapplications/elasticsearch-sudachi) - The Japanese analysis plugin for elasticsearch
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Pretrained model
 
@@ -594,7 +597,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) - 最新の日本語Wikipediaのダンプデータから，MeCabを用いてIPA辞書と最新のNeologd辞書の両方で形態素解析を実施し，その結果に基づいた word2vec，fastText，GloVeの単語分散表現を学習するためのスクリプト
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Transformer based models
 
@@ -637,7 +640,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) - EasyLightChatAssistant は軽量で検閲や規制のないローカル日本語モデルのLightChatAssistant を、KoboldCpp で簡単にお試しする環境です。
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## ChatGPT
 
@@ -666,7 +669,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [japagen](https://github.com/retrieva/japagen) - 日本語タスクにおけるLLMを用いた疑似学習データ生成の検討
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Dictionary and IME
 
@@ -719,7 +722,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - Japanese input method for fcitx5, powered by azooKey engine
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Corpus
 
@@ -734,7 +737,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - Annotated Fuman Kaitori Center Corpus
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Parallel corpus
 
@@ -751,7 +754,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - google-vs-deepl-je
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Dialog corpus
 
@@ -764,7 +767,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - Japanese Daily Dialogue, or 日本語日常対話コーパス in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment.
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用の日本語チャットデータセット
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 ### Others
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - Japanese Realistic Textual Entailment Corpus (NLP 2020, LREC 2020)
@@ -875,7 +878,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Tutorial
 
@@ -901,7 +904,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERTによるテキスト分類
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Research summary
 
@@ -913,7 +916,7 @@ To check the the statistics table, please refer to [this page](https://github.co
  * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - オープンソースの日本語LLMまとめ
 
 
-To check the the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+To check the statistics table, please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ## Reference
 
