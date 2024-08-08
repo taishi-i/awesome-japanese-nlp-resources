@@ -6,7 +6,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [603件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [605件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [820 件のHugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -16,11 +16,8 @@
 ## The latest additions 🎉
 
 **Dictionary and IME**
- * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - デスクトップ用の日本語入力メソッドazooKey、macOSをサポート
- * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。
-
-**Python**
- * [Jusho](https://github.com/nagataaaas/Jusho) - 日本の郵便番号データの簡単なラッパー
+ * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT 場所名辞書は、Mozc用に日本郵便の郵便番号データから変換された辞書です。
+ * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - Swiftで書かれた仮名漢字変換モジュール
 
 _Updated on Aug 09, 2024_
 
@@ -720,6 +717,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 Output: azooKey：Swiftで完全に開発された日本語キーボードiOSアプリ
  * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - デスクトップ用の日本語入力メソッドazooKey、macOSをサポート
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。
+ * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT 場所名辞書は、Mozc用に日本郵便の郵便番号データから変換された辞書です。
+ * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - Swiftで書かれた仮名漢字変換モジュール
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

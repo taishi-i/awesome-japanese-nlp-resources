@@ -5381,6 +5381,30 @@
                     "zh-hans": "由azooKey引擎驱动的fcitx5日语输入法\n由azooKey引擎驱动的fcitx5日语输入法",
                     "zh-hant": "由azooKey引擎提供支援的fcitx5日文輸入法\n由azooKey引擎提供支援的fcitx5日文輸入法"
                 }
+            },
+            "https://github.com/utuhiro78/mozcdic-ut-place-names": {
+                "sub_category": null,
+                "repository_name": "mozcdic-ut-place-names",
+                "user_name": "utuhiro78",
+                "description": "Mozc UT Place Name Dictionary is a dictionary converted from the Japan Post's ZIP code data for Mozc.",
+                "multilingual_descriptions": {
+                    "en": "Mozc UT Place Name Dictionary is a dictionary converted from the Japan Post's ZIP code data for Mozc.",
+                    "ja": "Mozc UT 場所名辞書は、Mozc用に日本郵便の郵便番号データから変換された辞書です。",
+                    "zh-hans": "Mozc UT地名词典是从日本邮政的邮政编码数据转换而来的词典，用于Mozc。",
+                    "zh-hant": "Mozc UT 地名字典是從日本郵政的郵遞區號數據轉換而來的字典。"
+                }
+            },
+            "https://github.com/ensan-hcl/azookeykanakanjiconverter": {
+                "sub_category": null,
+                "repository_name": "azookeykanakanjiconverter",
+                "user_name": "ensan-hcl",
+                "description": "Kana-Kanji Conversion Module written in Swift",
+                "multilingual_descriptions": {
+                    "en": "Kana-Kanji Conversion Module written in Swift",
+                    "ja": "Swiftで書かれた仮名漢字変換モジュール",
+                    "zh-hans": "用Swift编写的假名汉字转换模块",
+                    "zh-hant": "使用Swift编写的假名-汉字转换模块"
+                }
             }
         },
         "Corpus": {

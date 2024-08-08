@@ -6,7 +6,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了603个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了605个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 - [列出了820个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -17,12 +17,8 @@
 ## The latest additions 🎉
 
 **Dictionary and IME**
- * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - 日语输入法azooKey适用于桌面电脑，支持macOS。
- * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - 由azooKey引擎驱动的fcitx5日语输入法
-由azooKey引擎驱动的fcitx5日语输入法
-
-**Python**
- * [Jusho](https://github.com/nagataaaas/Jusho) - 日本邮政编码数据的简易封装器
+ * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT地名词典是从日本邮政的邮政编码数据转换而来的词典，用于Mozc。
+ * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - 用Swift编写的假名汉字转换模块
 
 _Updated on Aug 09, 2024_
 
@@ -719,6 +715,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - 日语输入法azooKey适用于桌面电脑，支持macOS。
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - 由azooKey引擎驱动的fcitx5日语输入法
 由azooKey引擎驱动的fcitx5日语输入法
+ * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT地名词典是从日本邮政的邮政编码数据转换而来的词典，用于Mozc。
+ * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - 用Swift编写的假名汉字转换模块
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
