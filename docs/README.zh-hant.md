@@ -15,10 +15,6 @@
 
 ## The latest additions 🎉
 
-**Improve slow page loading issues**
-
-Removed the statistics table from README.md. Please refer to [README.full.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md) for the previous pages.
-
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
@@ -30,7 +26,7 @@ Removed the statistics table from README.md. Please refer to [README.full.md](ht
 **Python**
  * [Jusho](https://github.com/nagataaaas/Jusho) - 日本郵政編碼數據的簡單封裝
 
-_Updated on Aug 07, 2024_
+_Updated on Aug 09, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

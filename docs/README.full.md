@@ -7,17 +7,13 @@
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
 - Listed information on [603 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [820 Hugging Face repositories (models and datasets) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
-- Released [a tool for searching through a large number of repository information 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
+- Listed information on [820 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)(models and datasets)
+- Released [a tool](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information 🔎
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## The latest additions 🎉
-
-**Improve slow page loading issues**
-
-Removed the statistics table from README.md. Please refer to [README.full.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md) for the previous pages.
 
 **Hugging Face 🤗**
  * [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -29,7 +25,7 @@ Removed the statistics table from README.md. Please refer to [README.full.md](ht
 **Python**
  * [Jusho](https://github.com/nagataaaas/Jusho) - Easy wrapper for the postal code data of Japan
 
-_Updated on Aug 07, 2024_
+_Updated on Aug 09, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
