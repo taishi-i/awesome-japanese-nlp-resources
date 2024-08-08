@@ -1171,6 +1171,7 @@ Resources
  * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift
  * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - Japanese Input Method "azooKey" for Desktop, supporting macOS
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - Japanese input method for fcitx5, powered by azooKey engine
+ * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT Place Name Dictionary is a dictionary converted from the Japan Post's ZIP code data for Mozc.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1221,6 +1222,7 @@ Resources
 |[azooKey](https://github.com/ensan-hcl/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azooKey?style=social)|
 |[azookey-desktop](https://github.com/ensan-hcl/azookey-desktop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azookey-desktop?style=social)|
 |[fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/7ka-hiira/fcitx5-hazkey?style=social)|
+|[mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-place-names?style=social)|
 
 
 ## Corpus
