@@ -7209,6 +7209,18 @@
                     "zh-hans": "【2024年版】基于BERT的文本分类",
                     "zh-hant": "【2024年版】BERT進行文本分類"
                 }
+            },
+            "https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb": {
+                "sub_category": null,
+                "repository_name": "Gemma2_2b_Japanese_finetuning_colab.ipynb",
+                "user_name": "main",
+                "description": "Fine-Tuning Google Gemma for Japanese Instructions",
+                "multilingual_descriptions": {
+                    "en": "Fine-Tuning Google Gemma for Japanese Instructions",
+                    "ja": "Google Gemmaの日本語の説明のためのファインチューニング",
+                    "zh-hans": "对Google Gemma进行日语指令的微调",
+                    "zh-hant": "將Google Gemma微調為日文指令"
+                }
             }
         },
         "Research summary": {
