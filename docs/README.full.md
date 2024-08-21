@@ -715,6 +715,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
  * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
+ * [kanpyo](https://github.com/togatoga/kanpyo) - Japanese Morphological Analyzer written in Rust
 
 
 |Name|downloads/week|total downloads|stars|
@@ -726,6 +727,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[yoin](https://github.com/agatan/yoin)|-|![Crates.io](https://img.shields.io/crates/d/yoin)|![GitHub Repo stars](https://img.shields.io/github/stars/agatan/yoin?style=social)|
 |[mecab-rs](https://github.com/tsurai/mecab-rs)|-|![Crates.io](https://img.shields.io/crates/d/mecab)|![GitHub Repo stars](https://img.shields.io/github/stars/tsurai/mecab-rs?style=social)|
 |[awabi](https://github.com/nakagami/awabi)|-|![Crates.io](https://img.shields.io/crates/d/awabi)|![GitHub Repo stars](https://img.shields.io/github/stars/nakagami/awabi?style=social)|
+|[kanpyo](https://github.com/togatoga/kanpyo)|-|![Crates.io](https://img.shields.io/crates/d/kanpyo)|![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/kanpyo?style=social)|
 
 
 ### Converter
