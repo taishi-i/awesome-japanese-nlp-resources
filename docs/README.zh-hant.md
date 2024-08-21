@@ -18,10 +18,15 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - Released [a dashboard 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard) to analyze repository trends
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Aug 18, 2024_
+**Rust**
+ * [kanpyo](https://github.com/togatoga/kanpyo) - 用Rust编写的日语形态分析器
+
+**Tutorial**
+ * [nlp100v2020](https://github.com/upura/nlp100v2020) - 用Python解决“自然语言处理100道题目2020”
+
+_Updated on Aug 22, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -435,6 +440,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [yoin](https://github.com/agatan/yoin) - 一個用純 Rust 編寫的日語形態分析器
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - 安全的 Rust 綁定，用於 mecab 詞性和形態分析庫。
  * [awabi](https://github.com/nakagami/awabi) - 一個使用mecab字典的形態分析器
+ * [kanpyo](https://github.com/togatoga/kanpyo) - 用Rust编写的日语形态分析器
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -910,6 +916,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 製作並學習正規表達式引擎
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERT進行文本分類
  * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - 將Google Gemma微調為日文指令
+ * [nlp100v2020](https://github.com/upura/nlp100v2020) - 用Python解决“自然语言处理100道题目2020”
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

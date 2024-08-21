@@ -18,10 +18,15 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - Released [a dashboard 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard) to analyze repository trends
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Aug 18, 2024_
+**Rust**
+ * [kanpyo](https://github.com/togatoga/kanpyo) - Rustで書かれた日本語形態素解析器
+
+**Tutorial**
+ * [nlp100v2020](https://github.com/upura/nlp100v2020) - 「言語処理100本ノック 2020」をPythonで解く
+
+_Updated on Aug 22, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -721,6 +726,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [yoin](https://github.com/agatan/yoin) - 純粋なRustで書かれた日本語形態素解析器
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - 「mecab」の安全なRustバインディング。品詞と形態素解析ライブラリ。
  * [awabi](https://github.com/nakagami/awabi) - MeCab辞書を使用する形態素解析器
+ * [kanpyo](https://github.com/togatoga/kanpyo) - Rustで書かれた日本語形態素解析器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -732,6 +738,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[yoin](https://github.com/agatan/yoin)|-|![Crates.io](https://img.shields.io/crates/d/yoin)|![GitHub Repo stars](https://img.shields.io/github/stars/agatan/yoin?style=social)|
 |[mecab-rs](https://github.com/tsurai/mecab-rs)|-|![Crates.io](https://img.shields.io/crates/d/mecab)|![GitHub Repo stars](https://img.shields.io/github/stars/tsurai/mecab-rs?style=social)|
 |[awabi](https://github.com/nakagami/awabi)|-|![Crates.io](https://img.shields.io/crates/d/awabi)|![GitHub Repo stars](https://img.shields.io/github/stars/nakagami/awabi?style=social)|
+|[kanpyo](https://github.com/togatoga/kanpyo)|-|![Crates.io](https://img.shields.io/crates/d/kanpyo)|![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/kanpyo?style=social)|
 
 
 ### Converter
@@ -1556,6 +1563,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 作って学ぶ正規表現エンジン
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERTによるテキスト分類
  * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - Google Gemmaの日本語の説明のためのファインチューニング
+ * [nlp100v2020](https://github.com/upura/nlp100v2020) - 「言語処理100本ノック 2020」をPythonで解く
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1581,6 +1589,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
 |[bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/bert-classification-tutorial-2024?style=social)|
 |[Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/main/Gemma2_2b_Japanese_finetuning_colab.ipynb?style=social)|
+|[nlp100v2020](https://github.com/upura/nlp100v2020)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2020?style=social)|
 
 
 ## Research summary

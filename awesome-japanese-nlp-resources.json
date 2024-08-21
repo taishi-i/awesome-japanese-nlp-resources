@@ -3138,6 +3138,18 @@
                     "zh-hant": "一個使用mecab字典的形態分析器"
                 }
             },
+            "https://github.com/togatoga/kanpyo": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "kanpyo",
+                "user_name": "togatoga",
+                "description": "Japanese Morphological Analyzer written in Rust",
+                "multilingual_descriptions": {
+                    "en": "Japanese Morphological Analyzer written in Rust",
+                    "ja": "Rustで書かれた日本語形態素解析器",
+                    "zh-hans": "用Rust编写的日语形态分析器",
+                    "zh-hant": "用Rust编写的日语形态分析器"
+                }
+            },
             "https://github.com/PSeitz/wana_kana_rust": {
                 "sub_category": "Converter",
                 "repository_name": "wana_kana_rust",
@@ -7220,6 +7232,18 @@
                     "ja": "Google Gemmaの日本語の説明のためのファインチューニング",
                     "zh-hans": "对Google Gemma进行日语指令的微调",
                     "zh-hant": "將Google Gemma微調為日文指令"
+                }
+            },
+            "https://github.com/upura/nlp100v2020": {
+                "sub_category": null,
+                "repository_name": "nlp100v2020",
+                "user_name": "upura",
+                "description": "「言語処理100本ノック 2020」をPythonで解く",
+                "multilingual_descriptions": {
+                    "en": "Solving \"Language Processing 100 Knock 2020\" with Python",
+                    "ja": "「言語処理100本ノック 2020」をPythonで解く",
+                    "zh-hans": "用Python解决“自然语言处理100道题目2020”",
+                    "zh-hant": "用Python解决“自然语言处理100道题目2020”"
                 }
             }
         },

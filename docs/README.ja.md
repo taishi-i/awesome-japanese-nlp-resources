@@ -18,10 +18,15 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - Released [a dashboard 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard) to analyze repository trends
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Aug 18, 2024_
+**Rust**
+ * [kanpyo](https://github.com/togatoga/kanpyo) - Rustで書かれた日本語形態素解析器
+
+**Tutorial**
+ * [nlp100v2020](https://github.com/upura/nlp100v2020) - 「言語処理100本ノック 2020」をPythonで解く
+
+_Updated on Aug 22, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -436,6 +441,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [yoin](https://github.com/agatan/yoin) - 純粋なRustで書かれた日本語形態素解析器
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - 「mecab」の安全なRustバインディング。品詞と形態素解析ライブラリ。
  * [awabi](https://github.com/nakagami/awabi) - MeCab辞書を使用する形態素解析器
+ * [kanpyo](https://github.com/togatoga/kanpyo) - Rustで書かれた日本語形態素解析器
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -905,6 +911,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 作って学ぶ正規表現エンジン
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERTによるテキスト分類
  * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - Google Gemmaの日本語の説明のためのファインチューニング
+ * [nlp100v2020](https://github.com/upura/nlp100v2020) - 「言語処理100本ノック 2020」をPythonで解く
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
