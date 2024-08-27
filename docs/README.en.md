@@ -8,7 +8,7 @@
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
 - Listed information on [608 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [917 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [939 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 - Released [a dashboard 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard) to analyze repository trends
 
@@ -20,13 +20,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 **Hugging Face 🤗**
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Rust**
- * [kanpyo](https://github.com/togatoga/kanpyo) - Japanese Morphological Analyzer written in Rust
-
-**Tutorial**
- * [nlp100v2020](https://github.com/upura/nlp100v2020) - Solving "Language Processing 100 Knock 2020" with Python
-
-_Updated on Aug 22, 2024_
+_Updated on Aug 28, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

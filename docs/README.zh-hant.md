@@ -8,7 +8,7 @@
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
 - [列出了608個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了917個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了939個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [發布了一個分析倉庫趨勢的儀表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -20,13 +20,7 @@
 **Hugging Face 🤗**
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Rust**
- * [kanpyo](https://github.com/togatoga/kanpyo) - 用Rust编写的日语形态分析器
-
-**Tutorial**
- * [nlp100v2020](https://github.com/upura/nlp100v2020) - 用Python解决“自然语言处理100道题目2020”
-
-_Updated on Aug 22, 2024_
+_Updated on Aug 28, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
