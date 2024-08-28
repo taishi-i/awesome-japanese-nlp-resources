@@ -1,6 +1,6 @@
 # awesome-japanese-nlp-resources
 
-This page lists the models and datasets registered with [Haggingface](https://huggingface.co) that are specific to Japanese NLP. At present, 802 models and 137 datasets are listed.
+This page lists the models and datasets registered with [Haggingface](https://huggingface.co) that are specific to Japanese NLP. At present, 803 models and 140 datasets are listed.
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
@@ -13,7 +13,7 @@ This page lists the models and datasets registered with [Haggingface](https://hu
 ## The latest additions 🎉
 
 **Models**
-18 models have been added.
+19 models have been added.
 
 - [Aratako/calm3-22b-RP-GGUF](https://huggingface.co/Aratako/calm3-22b-RP-GGUF)
 - [mmnga/HODACHI-Borea-Phi-3.5-mini-Instruct-Jp-gguf](https://huggingface.co/mmnga/HODACHI-Borea-Phi-3.5-mini-Instruct-Jp-gguf)
@@ -33,12 +33,16 @@ This page lists the models and datasets registered with [Haggingface](https://hu
 - [Lasorco/spekulatius](https://huggingface.co/Lasorco/spekulatius)
 - [KoichiYasuoka/deberta-base-japanese-wikipedia-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia-ud-goeswith)
 - [spacy/ja_core_news_md](https://huggingface.co/spacy/ja_core_news_md)
+- [DataPilot/ArrowSmartPlus_3.6B_instruction](https://huggingface.co/DataPilot/ArrowSmartPlus_3.6B_instruction)
 
 
 **Datasets**
-4 datasets have been added.
+7 datasets have been added.
 
+- [mkshing/xlsum_ja](https://huggingface.co/datasets/mkshing/xlsum_ja)
+- [shunk031/wrime](https://huggingface.co/datasets/shunk031/wrime)
 - [y2lan/japan-law](https://huggingface.co/datasets/y2lan/japan-law)
+- [Helsinki-NLP/tatoeba](https://huggingface.co/datasets/Helsinki-NLP/tatoeba)
 - [mpasila/ParallelFiction-Ja_En-100k-json](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-json)
 - [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k)
 - [zan/lima-ja](https://huggingface.co/datasets/zan/lima-ja)
@@ -46,8 +50,8 @@ This page lists the models and datasets registered with [Haggingface](https://hu
 
 ## Models
 
-This list is sorted by downloads as of August 28, 2024.
-802 models are listed.
+This list is sorted by downloads as of August 29, 2024.
+803 models are listed.
 
 - [jonatasgrosman/wav2vec2-large-xlsr-53-japanese](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese)
   - Fine-tuned XLSR-53 large model for speech recognition in Japanese Fine-tuned facebook/wav2vec2-large-xlsr-53 on Japanese using the train and validation splits of Common Voice 6.1, CSS10 and JSUT.
@@ -726,7 +730,7 @@ This list is sorted by downloads as of August 28, 2024.
   - Downloads: 767
   - Model Size: 7.96B
 - [ken11/albert-base-japanese-v1](https://huggingface.co/ken11/albert-base-japanese-v1)
-  - albert-base-japanese-v1 日本語事前学習済みALBERTモデルです
+  - albert-base-japanese-v1 日本語事前学習済みALBERTモデルです How to use ファインチューニング このモデルはPreTrainedモデルです基本的には各種タスク用にファインチューニングして使用されることを想定しています Fill-Mask このモデルではTokenizerにSentencepieceを利用していますそのままでは[MASK]トークンのあとに余計なトークンが混入する問題があるので、利用する際には以下のようにする必要があります for PyTorch from transformers import ( AlbertForMaskedLM, AlbertTokenizerFast ) import torch tokenizer = AlbertTokenizerFast.from_pretrained("ken11/albert-base-japanese-v1")
   - Downloads: 767
 - [rinna/bilingual-gpt-neox-4b-8k](https://huggingface.co/rinna/bilingual-gpt-neox-4b-8k)
   - bilingual-gpt-neox-4b-8k Overview Notice: This model requires transformers&gt;=4.31.0 to work properly.
@@ -966,6 +970,10 @@ This list is sorted by downloads as of August 28, 2024.
   - gemma-2-2b-it-gguf googleさんが公開しているgemma-2-2b-itのggufフォーマット変換版です。
   - Downloads: 465
   - Model Size: 2.61B
+- [QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF](https://huggingface.co/QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF)
+  - QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF This is quantized version of DataPilot/Llama3-ArrowSE-8B-v0.3 created using llama.cpp Original Model Card 概要 elyza/Llama-3-ELYZA-JP-8Bを元にchat vectorを用いて改良しAItuberに特化させました。
+  - Downloads: 460
+  - Model Size: 8.03B
 - [studio-ousia/luke-japanese-base](https://huggingface.co/studio-ousia/luke-japanese-base)
   - luke-japanese luke-japanese is the Japanese version of LUKE (Language Understanding with Knowledge-based Embeddings), a pre-trained knowledge-enhanced contextualized representation of words and entities.
   - Downloads: 460
@@ -1351,6 +1359,10 @@ This list is sorted by downloads as of August 28, 2024.
   - Japanese-Starling-ChatV-7B このモデルは"chatntq-ja-7b-v1.0"をベースにした7Bパラメータの日本語チャットモデルです。
   - Downloads: 179
   - Model Size: 7.24B
+- [mmnga/Deepreneur-blue-lizard-gguf](https://huggingface.co/mmnga/Deepreneur-blue-lizard-gguf)
+  - Deepreneur-blue-lizard-gguf Deepreneurさんが公開しているblue-lizardのggufフォーマット変換版です。
+  - Downloads: 178
+  - Model Size: 6.74B
 - [Local-Novel-LLM-project/Vecteus-V2-7B](https://huggingface.co/Local-Novel-LLM-project/Vecteus-V2-7B)
   - Vecteus-V2-7B このモデルは、ベクトルマージなどを用い作成された高性能ベースモデルです。
   - Downloads: 177
@@ -1599,6 +1611,10 @@ This list is sorted by downloads as of August 28, 2024.
   - zenz-v1 zenz-v1はGPT-2アーキテクチャに基づくかな漢字変換タスクに特化した言語モデルです。
   - Downloads: 74
   - Model Size: 95.1M
+- [DataPilot/Llama3-ArrowSE-8B-v0.3](https://huggingface.co/DataPilot/Llama3-ArrowSE-8B-v0.3)
+  - 概要 elyza/Llama-3-ELYZA-JP-8Bを元にchat vectorを用いて改良しAItuberに特化させました。
+  - Downloads: 74
+  - Model Size: 8.03B
 - [rinna/llama-3-youko-70b](https://huggingface.co/rinna/llama-3-youko-70b)
   - Llama 3 Youko 70B (rinna/llama-3-youko-70b)
   - Downloads: 73
@@ -1741,10 +1757,6 @@ This list is sorted by downloads as of August 28, 2024.
   - Original Model Optical character recognition for Japanese text, with the main focus being Japanese manga.
   - Downloads: 50
   - Model Size: 111M
-- [Aratako/Ninja-v1-RP-expressive-v2](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-v2)
-  - Ninja-v1-RP-expressive-v2 GGUF版はこちら/Click here for the GGUF version 概要 This is a merge of pre-trained language models created using mergekit.
-  - Downloads: 50
-  - Model Size: 7.24B
 - [line-corporation/japanese-large-lm-3.6b-instruction-sft-4bit-32g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft-4bit-32g-actorder_False)
   - japanese-large-lm-3.6b-instruction-sft-4bit-32g-actorder_False
   - Downloads: 49
@@ -1793,6 +1805,9 @@ This list is sorted by downloads as of August 28, 2024.
   - Downloads: 45
 - [nptdat/bert-japanese-12M](https://huggingface.co/nptdat/bert-japanese-12M)
   - Overview of bert-japanese-12M The bert-japanese-12M model is a transformer-based model with BERT architecture, which is designed to be used on Japanese text.
+  - Downloads: 45
+- [natsusakiyomi/AsagaoMix](https://huggingface.co/natsusakiyomi/AsagaoMix)
+  - 📄 ライセンス / License 修正 CreativeML OpenRAIL-M ライセンス / Modified CreativeML OpenRAIL-M license このモデルのクレジットを入れずに使用する Use the model without crediting the creator このモデルで生成した画像を商用利用する Sell images they generate このモデルを商用の画像生成サービスで利用する Run on services that generate images for money このモデルを使用したマージモデルを共有する Share merges using this model このモデル、またはこのモデルをマージしたモデルを販売する Sell this model or merges using this model このモデルをマージしたモデルに異なる権限を設定する Have different permissions when sharing merges
   - Downloads: 45
 - [nlp-waseda/comet-gpt2-small-japanese](https://huggingface.co/nlp-waseda/comet-gpt2-small-japanese)
   - COMET-GPT2 ja Finetuned GPT-2 on ATOMIC ja using a causal language modeling (CLM) objective.
@@ -2216,10 +2231,6 @@ This list is sorted by downloads as of August 28, 2024.
 - [Miwa-Keita/zenz-v1-checkpoints](https://huggingface.co/Miwa-Keita/zenz-v1-checkpoints)
   - zenz-v1 Checkpoints zenz-v1 is a language model specialized for kana-kanji conversion tasks based on the GPT-2 architecture.
   - Downloads: 17
-- [keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF](https://huggingface.co/keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF)
-  - Llama-3.1-70B-EZO-1.1-it-gguf HODACHIさんが公開しているHODACHI/Llama-3.1-70B-EZO-1.1-itのgguf版です。
-  - Downloads: 17
-  - Model Size: 70.6B
 - [KoichiYasuoka/gpt2-small-japanese-upos](https://huggingface.co/KoichiYasuoka/gpt2-small-japanese-upos)
   - gpt2-small-japanese-upos Model Description
   - Downloads: 17
@@ -2445,6 +2456,9 @@ This list is sorted by downloads as of August 28, 2024.
   - このモデルはluke-japanese-baseをファインチューニングして、JNLI(文章の関係性判別)に用いれるようにしたものです。
   - Downloads: 13
   - Model Size: 279M
+- [Jumtra/mpt-7b-inst](https://huggingface.co/Jumtra/mpt-7b-inst)
+  - MPT-7B-inst このモデルは、MosaicMLのllm-foundryリポジトリを使用してmosaicml/mpt-7b-instructをファインチューニングしたモデルです。
+  - Downloads: 13
 - [Mizuiro-sakura/open-calm-large-finetuned-databricks-dolly](https://huggingface.co/Mizuiro-sakura/open-calm-large-finetuned-databricks-dolly)
   - OpenCALM-LARGE Model Description OpenCALM is a suite of decoder-only language models pre-trained on Japanese datasets, developed by CyberAgent, Inc.
   - Downloads: 13
@@ -2603,6 +2617,10 @@ This list is sorted by downloads as of August 28, 2024.
   - Japanese Stable LM Instruct Gamma 7B +
   - Downloads: 11
   - Model Size: 7.24B
+- [DataPilot/ArrowSmartPlus_3.6B_instruction](https://huggingface.co/DataPilot/ArrowSmartPlus_3.6B_instruction)
+  - 概要 「LOCAL AI HACKATHON」における、チームDataPilot,4つめの成果品です。
+  - Downloads: 11
+  - Model Size: 3.56B
 - [atsuki-yamaguchi/tigerbot-7b-base-random-ja](https://huggingface.co/atsuki-yamaguchi/tigerbot-7b-base-random-ja)
   - TigerBot-7B Japanese
   - Downloads: 11
@@ -2646,10 +2664,6 @@ This list is sorted by downloads as of August 28, 2024.
   - [Llama-3.1-70B-EZO-1.1-it] Model Card モデル情報 / Model Information このモデルは、Meta AI の Llama 3.1 をベースに、日本語タスクでの性能を向上させるためにファインチューニングを行ったものです。
   - Downloads: 479
   - Model Size: 70.6B
-- [QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF](https://huggingface.co/QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF)
-  - QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF This is quantized version of DataPilot/Llama3-ArrowSE-8B-v0.3 created using llama.cpp Original Model Card 概要 elyza/Llama-3-ELYZA-JP-8Bを元にchat vectorを用いて改良しAItuberに特化させました。
-  - Downloads: 457
-  - Model Size: 8.03B
 - [HODACHI/Llama-3-EZO-VLM-1](https://huggingface.co/HODACHI/Llama-3-EZO-VLM-1)
   - Llama-3-EZO-VLM-1 Based on SakanaAI/Llama-3-EvoVLM-JP-v2, it has been enhanced for Japanese usage through additional pre-training and instruction tuning.
   - Downloads: 289
@@ -2658,10 +2672,6 @@ This list is sorted by downloads as of August 28, 2024.
   - [Llama-3-EZO model card]
   - Downloads: 250
   - Model Size: 8.03B
-- [mmnga/Deepreneur-blue-lizard-gguf](https://huggingface.co/mmnga/Deepreneur-blue-lizard-gguf)
-  - Deepreneur-blue-lizard-gguf Deepreneurさんが公開しているblue-lizardのggufフォーマット変換版です。
-  - Downloads: 212
-  - Model Size: 6.74B
 - [kit-nlp/transformers-ud-japanese-electra-base-discriminator-cyberbullying](https://huggingface.co/kit-nlp/transformers-ud-japanese-electra-base-discriminator-cyberbullying)
   - electra-base-cyberbullying This is an ELECTRA Base model for the Japanese language finetuned for automatic cyberbullying detection.
   - Downloads: 99
@@ -2671,6 +2681,10 @@ This list is sorted by downloads as of August 28, 2024.
 - [Formzu/roberta-base-japanese-jsnli](https://huggingface.co/Formzu/roberta-base-japanese-jsnli)
   - roberta-base-japanese-jsnli This model is a fine-tuned version of nlp-waseda/roberta-base-japanese on the JSNLI dataset.
   - Downloads: 41
+- [Aratako/Ninja-v1-RP-expressive-v2](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-v2)
+  - Ninja-v1-RP-expressive-v2 GGUF版はこちら/Click here for the GGUF version 概要 This is a merge of pre-trained language models created using mergekit.
+  - Downloads: 35
+  - Model Size: 7.24B
 - [HODACHI/EZO-InternVL2-26B](https://huggingface.co/HODACHI/EZO-InternVL2-26B)
   - [EZO model card]
   - Downloads: 32
@@ -2822,9 +2836,6 @@ This list is sorted by downloads as of August 28, 2024.
 - [ku-nlp/deberta-v2-base-japanese-with-auto-jumanpp](https://huggingface.co/ku-nlp/deberta-v2-base-japanese-with-auto-jumanpp)
   - Model Card for Japanese DeBERTa V2 base Model description This is a Japanese DeBERTa V2 base model pre-trained on Japanese Wikipedia, the Japanese portion of CC-100, and the Japanese portion of OSCAR.
   - Downloads: 31
-- [Jumtra/mpt-7b-inst](https://huggingface.co/Jumtra/mpt-7b-inst)
-  - MPT-7B-inst このモデルは、MosaicMLのllm-foundryリポジトリを使用してmosaicml/mpt-7b-instructをファインチューニングしたモデルです。
-  - Downloads: 24
 - [aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2](https://huggingface.co/aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2)
   - Swallow-MX-8x7b-NVE-v0.1に対し、 Mixtral-8x7B-Instruct-v0.1とMixtral-8x7B-v0.1の差分をマージしたモデルです。
   - Downloads: 16
@@ -2843,9 +2854,6 @@ This list is sorted by downloads as of August 28, 2024.
 - [HODACHI/glm-4-9b-chat-FT-ja-v0.3](https://huggingface.co/HODACHI/glm-4-9b-chat-FT-ja-v0.3)
   - 概要 GLM-4-9B-Chatを、日本語のWikiデータを選定し、追加学習した日本語に非常に強いスコアを出したモデルです。
   - Downloads: 11
-- [DataPilot/Llama3-ArrowSE-8B-v0.3](https://huggingface.co/DataPilot/Llama3-ArrowSE-8B-v0.3)
-  - 概要 elyza/Llama-3-ELYZA-JP-8Bを元にchat vectorを用いて改良しAItuberに特化させました。
-  - Downloads: 169
 - [ttop324/wav2vec2-live-japanese](https://huggingface.co/ttop324/wav2vec2-live-japanese)
   - wav2vec2-live-japanese https://github.com/ttop32/wav2vec2-live-japanese-translatorFine-tuned facebook/wav2vec2-large-xlsr-53 on Japanese hiragana using the common_voice JSUT CSS10
   - Downloads: 73
@@ -2879,15 +2887,15 @@ This list is sorted by downloads as of August 28, 2024.
 - [classla/xlm-roberta-base-multilingual-text-genre-classifier](https://huggingface.co/classla/xlm-roberta-base-multilingual-text-genre-classifier)
   - X-GENRE classifier - multilingual text genre classifier Text classification model based on xlm-roberta-base and fine-tuned on a combination of three genre datasets: Slovene GINCO dataset (Kuzman et al.
   - Downloads: 2,946
-- [natsusakiyomi/AsagaoMix](https://huggingface.co/natsusakiyomi/AsagaoMix)
-  - 📄 ライセンス / License 修正 CreativeML OpenRAIL-M ライセンス / Modified CreativeML OpenRAIL-M license このモデルのクレジットを入れずに使用する Use the model without crediting the creator このモデルで生成した画像を商用利用する Sell images they generate このモデルを商用の画像生成サービスで利用する Run on services that generate images for money このモデルを使用したマージモデルを共有する Share merges using this model このモデル、またはこのモデルをマージしたモデルを販売する Sell this model or merges using this model このモデルをマージしたモデルに異なる権限を設定する Have different permissions when sharing merges
-  - Downloads: 68
 - [taishi-i/awesome-japanese-nlp-classification-model](https://huggingface.co/taishi-i/awesome-japanese-nlp-classification-model)
   - Model overview This model is the baseline model for awesome-japanese-nlp-classification-dataset.
   - Downloads: 18
 - [ku-accms/bert-base-japanese-ssuw](https://huggingface.co/ku-accms/bert-base-japanese-ssuw)
   - ku-accms/bert-base-japanese-ssuw Model description This is a pre-trained Japanese BERT base model for super short unit words (SSUW).
   - Downloads: 13
+- [keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF](https://huggingface.co/keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF)
+  - Llama-3.1-70B-EZO-1.1-it-gguf HODACHIさんが公開しているHODACHI/Llama-3.1-70B-EZO-1.1-itのgguf版です。
+  - Downloads: 12
 - [KoichiYasuoka/deberta-large-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-aozora-ud-head)
   - deberta-large-japanese-aozora-ud-head Model Description
   - Downloads: 11
@@ -2896,8 +2904,8 @@ This list is sorted by downloads as of August 28, 2024.
   - Downloads: 11
 ## Datasets
 
-This list is sorted by downloads as of August 28, 2024.
-137 datasets are listed.
+This list is sorted by downloads as of August 29, 2024.
+140 datasets are listed.
 
 - [sbintuitions/JMTEB](https://huggingface.co/datasets/sbintuitions/JMTEB)
   - JMTEB:
@@ -2932,9 +2940,15 @@ This list is sorted by downloads as of August 28, 2024.
 - [neulab/odex](https://huggingface.co/datasets/neulab/odex)
   - ODEX is an Open-Domain EXecution-based NL-to-Code generation data benchmark.
   - Downloads: 976
+- [mkshing/xlsum_ja](https://huggingface.co/datasets/mkshing/xlsum_ja)
+  - This is the filtered Japanese subset of XL-Sum followed by PaLM 2 filters 15-gram overlap * code: https://gist.github.com/mkshing/d6371cbfdd50d4f352cee247fd4dd86a number of examples train: 4215 (before: 7113) validation: 758 (before: 889) test: 766 (before: 889)
+  - Downloads: 754
 - [kumapo/JAQKET](https://huggingface.co/datasets/kumapo/JAQKET)
   - Please feel free to open an issue or pull request.
   - Downloads: 724
+- [shunk031/wrime](https://huggingface.co/datasets/shunk031/wrime)
+  - In this study, we introduce a new dataset, WRIME, for emotional intensity estimation.
+  - Downloads: 717
 - [kogi-jwu/jhumaneval](https://huggingface.co/datasets/kogi-jwu/jhumaneval)
   - This is a Japanese translated version of HumanEval, an evaluation harness for the HumanEval problem solving dataset described in the paper "Evaluating Large Language Models Trained on Code".
   - Downloads: 671
@@ -3016,6 +3030,9 @@ This list is sorted by downloads as of August 28, 2024.
 - [fujiki/japanese_alpaca_data](https://huggingface.co/datasets/fujiki/japanese_alpaca_data)
   - [github].
   - Downloads: 120
+- [Helsinki-NLP/tatoeba](https://huggingface.co/datasets/Helsinki-NLP/tatoeba)
+  - To load a language pair which isn't part of the config, all you need to do is specify the language code as pairs.
+  - Downloads: 112
 - [AhmedSSabir/Japanese-wiki-dump-sentence-dataset](https://huggingface.co/datasets/AhmedSSabir/Japanese-wiki-dump-sentence-dataset)
   - Dataset 5M (5121625) clean Japanese full sentence with the context.
   - Downloads: 110
