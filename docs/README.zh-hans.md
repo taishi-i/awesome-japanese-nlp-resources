@@ -20,7 +20,7 @@
 **Hugging Face 🤗**
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-_Updated on Aug 29, 2024_
+_Updated on Sep 04, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -923,7 +923,6 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 ## Reference
 
  * [自然言語処理の餅屋](https://www.jnlp.org/nlp/top)
- * [フリーで使える日本語の主な大規模言語モデルまとめ](https://zenn.dev/hellorusk/articles/ddee520a5e4318)
  * [yasuokaの日記： 日本語係り受け解析器「2020年の総ざらえ」](https://srad.jp/~yasuoka/journal/643631/)
  * [yasuokaの日記： 日本語係り受け解析器「2021年の総ざらえ」](https://srad.jp/~yasuoka/journal/651542/)
  * https://github.com/topics/japanese?l=python
@@ -936,6 +935,6 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 ## Contributors
 
- * [kaisugi](https://github.com/kaisugi) - [website](https://hellorusk.net)
+ * [kaisugi](https://github.com/kaisugi) - [website](https://kaisugi.me)
  * [bomin0624](https://github.com/bomin0624) - [twitter](https://twitter.com/bomin0624_c)
  * [passaglia](https://github.com/passaglia) - [twitter](https://twitter.com/SamPassaglia)
