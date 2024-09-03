@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [608 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [943 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [612 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [986 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 - Released [a dashboard 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard) to analyze repository trends
 
@@ -19,6 +19,14 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 **Hugging Face 🤗**
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+
+**Dictionary and IME**
+ * [libkkc](https://github.com/ueno/libkkc) - Japanese Kana Kanji conversion input method library
+ * [libskk](https://github.com/ueno/libskk) - Japanese SKK input method library
+
+**JavaScript**
+ * [jaconv](https://github.com/kazuhikoarase/jaconv) - Japanese text conversion library (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - Convert romaji into hiragana
 
 _Updated on Sep 04, 2024_
 
@@ -500,6 +508,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - Normalize and fix common issues with Romaji-based Japanese names.
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
  * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - Open source address normalization library.
+ * [jaconv](https://github.com/kazuhikoarase/jaconv) - Japanese text conversion library (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - Convert romaji into hiragana
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -712,6 +722,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - Japanese input method for fcitx5, powered by azooKey engine
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT Place Name Dictionary is a dictionary converted from the Japan Post's ZIP code data for Mozc.
  * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - Kana-Kanji Conversion Module written in Swift
+ * [libkkc](https://github.com/ueno/libkkc) - Japanese Kana Kanji conversion input method library
+ * [libskk](https://github.com/ueno/libskk) - Japanese SKK input method library
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

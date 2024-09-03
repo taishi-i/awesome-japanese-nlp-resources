@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [608件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [943 件のHugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [612件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [986 件のHugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [リポジトリトレンドを分析するダッシュボードをリリース 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -19,6 +19,14 @@
 
 **Hugging Face 🤗**
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+
+**Dictionary and IME**
+ * [libkkc](https://github.com/ueno/libkkc) - 日本語仮名漢字変換入力方式ライブラリ
+ * [libskk](https://github.com/ueno/libskk) - 日本語のSKK入力方式ライブラリ
+
+**JavaScript**
+ * [jaconv](https://github.com/kazuhikoarase/jaconv) - 日本語文字変換ライブラリ (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - ローマ字をひらがなに変換する
 
 _Updated on Sep 04, 2024_
 
@@ -507,6 +515,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - ローマ字表記の日本人名における一般的な問題を正規化し修正する。
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 日本語のテキストを古風にするためのユーティリティコレクション
  * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - オープンソースの住所正規化ライブラリ。
+ * [jaconv](https://github.com/kazuhikoarase/jaconv) - 日本語文字変換ライブラリ (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - ローマ字をひらがなに変換する
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -721,6 +731,8 @@ Output: azooKey：Swiftで完全に開発された日本語キーボードiOSア
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT 場所名辞書は、Mozc用に日本郵便の郵便番号データから変換された辞書です。
  * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - Swiftで書かれた仮名漢字変換モジュール
+ * [libkkc](https://github.com/ueno/libkkc) - 日本語仮名漢字変換入力方式ライブラリ
+ * [libskk](https://github.com/ueno/libskk) - 日本語のSKK入力方式ライブラリ
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

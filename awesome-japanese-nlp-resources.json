@@ -3596,6 +3596,30 @@
                     "zh-hant": "開源的地址規範化程式庫。"
                 }
             },
+            "https://github.com/kazuhikoarase/jaconv": {
+                "sub_category": "Converter",
+                "repository_name": "jaconv",
+                "user_name": "kazuhikoarase",
+                "description": "日本語文字変換ライブラリ (javascript)",
+                "multilingual_descriptions": {
+                    "en": "Japanese text conversion library (javascript)",
+                    "ja": "日本語文字変換ライブラリ (javascript)",
+                    "zh-hans": "日本语文字转换库（javascript）",
+                    "zh-hant": "日本語文字轉換程式庫 (javascript)"
+                }
+            },
+            "https://github.com/koozaki/romaji-conv": {
+                "sub_category": "Converter",
+                "repository_name": "romaji-conv",
+                "user_name": "koozaki",
+                "description": "Convert romaji into hiragana",
+                "multilingual_descriptions": {
+                    "en": "Convert romaji into hiragana",
+                    "ja": "ローマ字をひらがなに変換する",
+                    "zh-hans": "将罗马字转换为平假名",
+                    "zh-hant": "將羅馬字轉換為平假名"
+                }
+            },
             "https://github.com/bangumi-data/bangumi-data": {
                 "sub_category": null,
                 "repository_name": "bangumi-data",
@@ -5416,6 +5440,30 @@
                     "ja": "Swiftで書かれた仮名漢字変換モジュール",
                     "zh-hans": "用Swift编写的假名汉字转换模块",
                     "zh-hant": "使用Swift编写的假名-汉字转换模块"
+                }
+            },
+            "https://github.com/ueno/libkkc": {
+                "sub_category": null,
+                "repository_name": "libkkc",
+                "user_name": "ueno",
+                "description": "Japanese Kana Kanji conversion input method library",
+                "multilingual_descriptions": {
+                    "en": "Japanese Kana Kanji conversion input method library",
+                    "ja": "日本語仮名漢字変換入力方式ライブラリ",
+                    "zh-hans": "日文假名汉字转换输入法库",
+                    "zh-hant": "日文假名漢字轉換輸入法庫"
+                }
+            },
+            "https://github.com/ueno/libskk": {
+                "sub_category": null,
+                "repository_name": "libskk",
+                "user_name": "ueno",
+                "description": "Japanese SKK input method library",
+                "multilingual_descriptions": {
+                    "en": "Japanese SKK input method library",
+                    "ja": "日本語のSKK入力方式ライブラリ",
+                    "zh-hans": "日本SKK输入法库",
+                    "zh-hant": "日本 SKK 輸入法庫"
                 }
             }
         },

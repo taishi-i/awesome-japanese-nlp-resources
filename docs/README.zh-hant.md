@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了608個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了943個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了612個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了986個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [發布了一個分析倉庫趨勢的儀表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -19,6 +19,14 @@
 
 **Hugging Face 🤗**
  - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+
+**Dictionary and IME**
+ * [libkkc](https://github.com/ueno/libkkc) - 日文假名漢字轉換輸入法庫
+ * [libskk](https://github.com/ueno/libskk) - 日本 SKK 輸入法庫
+
+**JavaScript**
+ * [jaconv](https://github.com/kazuhikoarase/jaconv) - 日本語文字轉換程式庫 (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - 將羅馬字轉換為平假名
 
 _Updated on Sep 04, 2024_
 
@@ -507,6 +515,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [node-romaji-name](https://github.com/jeresig/node-romaji-name) - 將基於羅馬字的日本名字進行標準化和修復常見問題。
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - 製作日本古風文本的實用集合
  * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - 開源的地址規範化程式庫。
+ * [jaconv](https://github.com/kazuhikoarase/jaconv) - 日本語文字轉換程式庫 (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - 將羅馬字轉換為平假名
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -723,6 +733,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 由azooKey引擎提供支援的fcitx5日文輸入法
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT 地名字典是從日本郵政的郵遞區號數據轉換而來的字典。
  * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - 使用Swift编写的假名-汉字转换模块
+ * [libkkc](https://github.com/ueno/libkkc) - 日文假名漢字轉換輸入法庫
+ * [libskk](https://github.com/ueno/libskk) - 日本 SKK 輸入法庫
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
