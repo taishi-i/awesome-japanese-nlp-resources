@@ -1173,6 +1173,7 @@ Resources
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - Japanese input method for fcitx5, powered by azooKey engine
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT Place Name Dictionary is a dictionary converted from the Japan Post's ZIP code data for Mozc.
  * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - Kana-Kanji Conversion Module written in Swift
+ * [libkkc](https://github.com/ueno/libkkc) - Japanese Kana Kanji conversion input method library
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1225,6 +1226,7 @@ Resources
 |[fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/7ka-hiira/fcitx5-hazkey?style=social)|
 |[mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-place-names?style=social)|
 |[azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azookeykanakanjiconverter?style=social)|
+|[libkkc](https://github.com/ueno/libkkc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ueno/libkkc?style=social)|
 
 
 ## Corpus
