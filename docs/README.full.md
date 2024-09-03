@@ -832,6 +832,7 @@ Resources
  * [kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
  * [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - オープンソースの住所正規化ライブラリ。
  * [jaconv](https://github.com/kazuhikoarase/jaconv) - 日本語文字変換ライブラリ (javascript)
+ * [romaji-conv](https://github.com/koozaki/romaji-conv) - Convert romaji into hiragana
 
 
 |Name|downloads/week|total downloads|stars|
@@ -846,6 +847,7 @@ Resources
 |[kyujitai.js](https://github.com/hakatashi/kyujitai.js)|![npm](https://img.shields.io/npm/dw/kyujitai)|![npm](https://img.shields.io/npm/dt/kyujitai)|![GitHub Repo stars](https://img.shields.io/github/stars/hakatashi/kyujitai.js?style=social)|
 |[normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/normalize-japanese-addresses?style=social)|
 |[jaconv](https://github.com/kazuhikoarase/jaconv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazuhikoarase/jaconv?style=social)|
+|[romaji-conv](https://github.com/koozaki/romaji-conv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koozaki/romaji-conv?style=social)|
 
 
 ### Others
