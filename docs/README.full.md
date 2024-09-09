@@ -523,6 +523,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - Japanese / English Bilingual LLM
  * [llm-translator](https://github.com/hpprc/llm-translator) - Mixtral-based Ja-En (En-Ja) Translation model
  * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - Whisperのデコーダをllm-jp-1.3b-v1.0に置き換えた音声認識モデルを学習させるためのコード
+ * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - Open source RAG with Llama Index for Japanese LLM in low resource settting
 
 
 |Name|downloads/week|total downloads|stars|
@@ -665,6 +666,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[shisa-v2](https://github.com/shisa-ai/shisa-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/shisa-v2?style=social)|
 |[llm-translator](https://github.com/hpprc/llm-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/llm-translator?style=social)|
 |[llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tosiyuki/llm-jp-asr?style=social)|
+|[rag-japanese](https://github.com/akimfromparis/rag-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akimfromparis/rag-japanese?style=social)|
 
 
 ## C++
