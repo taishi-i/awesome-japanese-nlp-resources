@@ -271,6 +271,7 @@ _Updated on Sep 04, 2024_
  * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - 詳細なアノテーション基準に基づく症例報告コーパスからの固有表現及び関係の抽出精度の推論を行うコード
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
  * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERTによる日本語固有表現抽出のファインチューニング用プログラム
+ * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - Examples to finetune encoder-only and encoder-decoder transformers for Japanese language (Hugging Face) Resources
 
 
 |Name|downloads/week|total downloads|stars|
@@ -282,6 +283,7 @@ _Updated on Sep 04, 2024_
 |[joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aih-uth/joint-information-extraction-hs?style=social)|
 |[pygeonlp](https://github.com/geonlp-platform/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp/week)](https://pepy.tech/project/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp)](https://pepy.tech/project/pygeonlp)|![GitHub Repo stars](https://img.shields.io/github/stars/geonlp-platform/pygeonlp?style=social)|
 |[bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jurabiinc/bert-ner-japanese?style=social)|
+|[huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tsmatz/huggingface-finetune-japanese?style=social)|
 
 
 ### OCR
