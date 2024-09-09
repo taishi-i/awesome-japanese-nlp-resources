@@ -522,6 +522,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki Dictionary is a dictionary generated from the Japanese Wikipedia for Mozc.
  * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - Japanese / English Bilingual LLM
  * [llm-translator](https://github.com/hpprc/llm-translator) - Mixtral-based Ja-En (En-Ja) Translation model
+ * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - Whisperのデコーダをllm-jp-1.3b-v1.0に置き換えた音声認識モデルを学習させるためのコード
 
 
 |Name|downloads/week|total downloads|stars|
@@ -663,6 +664,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-jawiki?style=social)|
 |[shisa-v2](https://github.com/shisa-ai/shisa-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/shisa-v2?style=social)|
 |[llm-translator](https://github.com/hpprc/llm-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/llm-translator?style=social)|
+|[llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tosiyuki/llm-jp-asr?style=social)|
 
 
 ## C++
