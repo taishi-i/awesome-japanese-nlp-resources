@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了612個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了986個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了616個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1032個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [發布了一個分析倉庫趨勢的儀表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,17 +18,16 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Updated huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 35 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Dictionary and IME**
- * [libkkc](https://github.com/ueno/libkkc) - 日文假名漢字轉換輸入法庫
- * [libskk](https://github.com/ueno/libskk) - 日本 SKK 輸入法庫
+ * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - 將Whisper的解碼器替換為llm-jp-1.3b-v1.0版本的語音識別模型的學習代碼。
+ * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - 在資源有限的環境中，使用羊駝指數為日本LLM開源的RAG
+ * [monaka](https://github.com/komiya-lab/monaka) - 一個日本語解析器（包括歷史日本語）
+ * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - 用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例
+用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例
 
-**JavaScript**
- * [jaconv](https://github.com/kazuhikoarase/jaconv) - 日本語文字轉換程式庫 (javascript)
- * [romaji-conv](https://github.com/koozaki/romaji-conv) - 將羅馬字轉換為平假名
-
-_Updated on Sep 04, 2024_
+_Updated on Sep 10, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -197,6 +196,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) - 從基於詳細註釋標準的病例報告語料庫中進行固有表達和關係抽取精度推論的代碼。
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp，一個用於對日文文本進行地理標記的Python模塊。
  * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERT進行日語固有表現抽取的微調程式
+ * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - 用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例
+用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -398,6 +399,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) - Mozc UT Jawiki 字典是從日文維基百科生成的字典，用於 Mozc。
  * [shisa-v2](https://github.com/shisa-ai/shisa-v2) - 日英雙語法學碩士
  * [llm-translator](https://github.com/hpprc/llm-translator) - 基於Mixtral的Ja-En（En-Ja）翻譯模型
+ * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - 將Whisper的解碼器替換為llm-jp-1.3b-v1.0版本的語音識別模型的學習代碼。
+ * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - 在資源有限的環境中，使用羊駝指數為日本LLM開源的RAG
+ * [monaka](https://github.com/komiya-lab/monaka) - 一個日本語解析器（包括歷史日本語）
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

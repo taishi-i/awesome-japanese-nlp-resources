@@ -818,6 +818,18 @@
                     "zh-hant": "BERT進行日語固有表現抽取的微調程式"
                 }
             },
+            "https://github.com/tsmatz/huggingface-finetune-japanese": {
+                "sub_category": "Named entity recognition",
+                "repository_name": "huggingface-finetune-japanese",
+                "user_name": "tsmatz",
+                "description": "Examples to finetune encoder-only and encoder-decoder transformers for Japanese language (Hugging Face) Resources",
+                "multilingual_descriptions": {
+                    "en": "Examples to finetune encoder-only and encoder-decoder transformers for Japanese language (Hugging Face) Resources",
+                    "ja": "日本語の言語（Hugging Face）リソースのためにエンコーダーのみとエンコーダーデコーダーのトランスフォーマーを微調整するための例",
+                    "zh-hans": "用于调整仅编码器和编码器-解码器变压器以适应日语的示例（Hugging Face）资源",
+                    "zh-hant": "用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例\n用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例"
+                }
+            },
             "https://github.com/kha-white/manga-ocr": {
                 "sub_category": "OCR",
                 "repository_name": "manga-ocr",
@@ -2916,6 +2928,42 @@
                     "ja": "ミクストラルベースの日英（英日）翻訳モデル",
                     "zh-hans": "基于Mixtral的Ja-En（En-Ja）翻译模型",
                     "zh-hant": "基於Mixtral的Ja-En（En-Ja）翻譯模型"
+                }
+            },
+            "https://github.com/tosiyuki/llm-jp-asr": {
+                "sub_category": null,
+                "repository_name": "llm-jp-asr",
+                "user_name": "tosiyuki",
+                "description": "Whisperのデコーダをllm-jp-1.3b-v1.0に置き換えた音声認識モデルを学習させるためのコード",
+                "multilingual_descriptions": {
+                    "en": "Code for training a speech recognition model using a Whisper decoder replaced with llm-jp-1.3b-v1.0.",
+                    "ja": "Whisperのデコーダをllm-jp-1.3b-v1.0に置き換えた音声認識モデルを学習させるためのコード",
+                    "zh-hans": "将Whisper的解码器替换为llm-jp-1.3b-v1.0版本的语音识别模型的学习代码",
+                    "zh-hant": "將Whisper的解碼器替換為llm-jp-1.3b-v1.0版本的語音識別模型的學習代碼。"
+                }
+            },
+            "https://github.com/akimfromparis/rag-japanese": {
+                "sub_category": null,
+                "repository_name": "rag-japanese",
+                "user_name": "akimfromparis",
+                "description": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
+                "multilingual_descriptions": {
+                    "en": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
+                    "ja": "日本の低リソース環境でのLLM向けのラマ指数付きのオープンソースRAG",
+                    "zh-hans": "在资源匮乏的环境中，使用Llama指数为日本LLM开源的RAG",
+                    "zh-hant": "在資源有限的環境中，使用羊駝指數為日本LLM開源的RAG"
+                }
+            },
+            "https://github.com/komiya-lab/monaka": {
+                "sub_category": null,
+                "repository_name": "monaka",
+                "user_name": "komiya-lab",
+                "description": "A Japanese Parser (including historical Japanese)",
+                "multilingual_descriptions": {
+                    "en": "A Japanese Parser (including historical Japanese)",
+                    "ja": "日本語パーサー（歴史的な日本語を含む）",
+                    "zh-hans": "一个日语解析器（包括历史日语）",
+                    "zh-hant": "一個日本語解析器（包括歷史日本語）"
                 }
             }
         },
