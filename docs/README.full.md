@@ -526,6 +526,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - Open source RAG with Llama Index for Japanese LLM in low resource settting
  * [monaka](https://github.com/komiya-lab/monaka) - A Japanese Parser (including historical Japanese)
  * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - A state-of-the-art open-source Japanese <--> English machine translation system based on the latest NMT research.
+ * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連続部分文字列の単語判定を行います
 
 
 |Name|downloads/week|total downloads|stars|
@@ -671,6 +672,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[rag-japanese](https://github.com/akimfromparis/rag-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akimfromparis/rag-japanese?style=social)|
 |[monaka](https://github.com/komiya-lab/monaka)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/komiya-lab/monaka?style=social)|
 |[jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matthewbieda/jp-translate.cloud?style=social)|
+|[substring-word-finder](https://github.com/toufu-24/substring-word-finder)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/toufu-24/substring-word-finder?style=social)|
 
 
 ## C++
