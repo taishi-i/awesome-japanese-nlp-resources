@@ -2965,6 +2965,30 @@
                     "zh-hans": "一个日语解析器（包括历史日语）",
                     "zh-hant": "一個日本語解析器（包括歷史日本語）"
                 }
+            },
+            "https://github.com/matthewbieda/jp-translate.cloud": {
+                "sub_category": null,
+                "repository_name": "jp-translate.cloud",
+                "user_name": "matthewbieda",
+                "description": "A state-of-the-art open-source Japanese <--> English machine translation system based on the latest NMT research.",
+                "multilingual_descriptions": {
+                    "en": "A state-of-the-art open-source Japanese <--> English machine translation system based on the latest NMT research.",
+                    "ja": "最新のNMT研究に基づいた最先端のオープンソース日本語<-->英語機械翻訳システム。",
+                    "zh-hans": "基于最新的NMT研究，采用最先进的开源日语<-->英语机器翻译系统。",
+                    "zh-hant": "一個基於最新的NMT研究的最先進的開源日語<-->英語機器翻譯系統。"
+                }
+            },
+            "https://github.com/toufu-24/substring-word-finder": {
+                "sub_category": null,
+                "repository_name": "substring-word-finder",
+                "user_name": "toufu-24",
+                "description": "連続部分文字列の単語判定を行います",
+                "multilingual_descriptions": {
+                    "en": "Perform word judgment on consecutive substring.",
+                    "ja": "連続部分文字列の単語判定を行います",
+                    "zh-hans": "进行连续子字符串的单词判断",
+                    "zh-hant": "連續部分字串的單詞判定。"
+                }
             }
         },
         "C++": {
@@ -7086,6 +7110,18 @@
                     "ja": "OCR処理プログラム研究開発事業において作成されたOCR学習用データセット",
                     "zh-hans": "OCR处理程序研究开发项目中创建的OCR学习数据集",
                     "zh-hant": "OCR處理程式研究開發項目中所建立的OCR學習用數據集。"
+                }
+            },
+            "https://github.com/nut-jnlp/japanesetopicwsd": {
+                "sub_category": null,
+                "repository_name": "japanesetopicwsd",
+                "user_name": "nut-jnlp",
+                "description": "話題に基づく語義曖昧性解消評価セット",
+                "multilingual_descriptions": {
+                    "en": "Evaluation set for resolving semantic ambiguity based on topics",
+                    "ja": "話題に基づく語義曖昧性解消評価セット",
+                    "zh-hans": "基于话题的语义模糊消除评估集合",
+                    "zh-hant": "話題基礎的語義模糊解決評估集"
                 }
             }
         },

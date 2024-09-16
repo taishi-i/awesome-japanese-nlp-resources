@@ -1,14 +1,14 @@
 # awesome-japanese-nlp-resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/taishi-i/awesome-japanese-nlp-resources)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了616個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1032個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了619個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1065個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [發布了一個分析倉庫趨勢的儀表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,16 +18,16 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 35 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 28 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Dictionary and IME**
- * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - 將Whisper的解碼器替換為llm-jp-1.3b-v1.0版本的語音識別模型的學習代碼。
- * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - 在資源有限的環境中，使用羊駝指數為日本LLM開源的RAG
- * [monaka](https://github.com/komiya-lab/monaka) - 一個日本語解析器（包括歷史日本語）
- * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - 用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例
-用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例
+**Corpus**
+ * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題基礎的語義模糊解決評估集
 
-_Updated on Sep 10, 2024_
+**Python**
+ * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 一個基於最新的NMT研究的最先進的開源日語<-->英語機器翻譯系統。
+ * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連續部分字串的單詞判定。
+
+_Updated on Sep 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -402,6 +402,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - 將Whisper的解碼器替換為llm-jp-1.3b-v1.0版本的語音識別模型的學習代碼。
  * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - 在資源有限的環境中，使用羊駝指數為日本LLM開源的RAG
  * [monaka](https://github.com/komiya-lab/monaka) - 一個日本語解析器（包括歷史日本語）
+ * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 一個基於最新的NMT研究的最先進的開源日語<-->英語機器翻譯系統。
+ * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連續部分字串的單詞判定。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -899,6 +901,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [lawtext](https://github.com/yamachig/lawtext) - 日本法律的純文本格式
 日本法律的純文本格式
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR處理程式研究開發項目中所建立的OCR學習用數據集。
+ * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題基礎的語義模糊解決評估集
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

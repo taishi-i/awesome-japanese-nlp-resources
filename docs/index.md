@@ -1,14 +1,14 @@
 # awesome-japanese-nlp-resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/taishi-i/awesome-japanese-nlp-resources)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [616件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1032 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [619件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1065 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [リポジトリトレンドを分析するダッシュボードをリリース 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,15 +18,16 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 35 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 28 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Dictionary and IME**
- * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - Whisperのデコーダをllm-jp-1.3b-v1.0に置き換えた音声認識モデルを学習させるためのコード
- * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - 日本の低リソース環境でのLLM向けのラマ指数付きのオープンソースRAG
- * [monaka](https://github.com/komiya-lab/monaka) - 日本語パーサー（歴史的な日本語を含む）
- * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - 日本語の言語（Hugging Face）リソースのためにエンコーダーのみとエンコーダーデコーダーのトランスフォーマーを微調整するための例
+**Corpus**
+ * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
 
-_Updated on Sep 10, 2024_
+**Python**
+ * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 最新のNMT研究に基づいた最先端のオープンソース日本語<-->英語機械翻訳システム。
+ * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連続部分文字列の単語判定を行います
+
+_Updated on Sep 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -531,6 +532,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) - Whisperのデコーダをllm-jp-1.3b-v1.0に置き換えた音声認識モデルを学習させるためのコード
  * [rag-japanese](https://github.com/akimfromparis/rag-japanese) - 日本の低リソース環境でのLLM向けのラマ指数付きのオープンソースRAG
  * [monaka](https://github.com/komiya-lab/monaka) - 日本語パーサー（歴史的な日本語を含む）
+ * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 最新のNMT研究に基づいた最先端のオープンソース日本語<-->英語機械翻訳システム。
+ * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連続部分文字列の単語判定を行います
 
 
 |Name|downloads/week|total downloads|stars|
@@ -675,6 +678,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tosiyuki/llm-jp-asr?style=social)|
 |[rag-japanese](https://github.com/akimfromparis/rag-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akimfromparis/rag-japanese?style=social)|
 |[monaka](https://github.com/komiya-lab/monaka)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/komiya-lab/monaka?style=social)|
+|[jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matthewbieda/jp-translate.cloud?style=social)|
+|[substring-word-finder](https://github.com/toufu-24/substring-word-finder)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/toufu-24/substring-word-finder?style=social)|
 
 
 ## C++
@@ -1444,6 +1449,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: 大規模言語モデル向けの日本医学評価データセット
  * [lawtext](https://github.com/yamachig/lawtext) - 日本の法律のプレーンテキスト形式
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
+ * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1554,6 +1560,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[jmed-llm](https://github.com/sociocom/jmed-llm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/jmed-llm?style=social)|
 |[lawtext](https://github.com/yamachig/lawtext)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamachig/lawtext?style=social)|
 |[pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part2?style=social)|
+|[japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nut-jnlp/japanesetopicwsd?style=social)|
 
 
 ## Tutorial
