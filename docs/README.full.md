@@ -1434,6 +1434,7 @@ Resources
  * [jmed-llm](https://github.com/sociocom/jmed-llm) - JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models
  * [lawtext](https://github.com/yamachig/lawtext) - Plain text format for Japanese law
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
+ * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1544,6 +1545,7 @@ Resources
 |[jmed-llm](https://github.com/sociocom/jmed-llm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/jmed-llm?style=social)|
 |[lawtext](https://github.com/yamachig/lawtext)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamachig/lawtext?style=social)|
 |[pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part2?style=social)|
+|[japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nut-jnlp/japanesetopicwsd?style=social)|
 
 
 ## Tutorial
