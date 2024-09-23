@@ -1441,6 +1441,7 @@ Resources
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
  * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
  * [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) - Jamp: Controlled Japanese Temporal Inference Dataset for Evaluating Generalization Capacity of Language Models
+ * [JSeM](https://github.com/DaisukeBekki/JSeM) - Japanese semantic test suite (FraCaS counterpart and extensions)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1553,6 +1554,7 @@ Resources
 |[pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part2?style=social)|
 |[japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nut-jnlp/japanesetopicwsd?style=social)|
 |[temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomo-vv/temporalNLI_dataset?style=social)|
+|[JSeM](https://github.com/DaisukeBekki/JSeM)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/DaisukeBekki/JSeM?style=social)|
 
 
 ## Tutorial
