@@ -7123,6 +7123,66 @@
                     "zh-hans": "基于话题的语义模糊消除评估集合",
                     "zh-hant": "話題基礎的語義模糊解決評估集"
                 }
+            },
+            "https://github.com/tomo-vv/temporalNLI_dataset": {
+                "sub_category": null,
+                "repository_name": "temporalNLI_dataset",
+                "user_name": "tomo-vv",
+                "description": "Jamp: Controlled Japanese Temporal Inference Dataset for Evaluating Generalization Capacity of Language Models",
+                "multilingual_descriptions": {
+                    "en": "Jamp: Controlled Japanese Temporal Inference Dataset for Evaluating Generalization Capacity of Language Models",
+                    "ja": "Jamp: 制御された日本語時間推論データセット、言語モデルの汎化能力を評価するため",
+                    "zh-hans": "Jamp: 用于评估语言模型泛化能力的受控日语时间推理数据集",
+                    "zh-hant": "Jamp：用於評估語言模型泛化能力的受控日語時間推理數據集"
+                }
+            },
+            "https://github.com/DaisukeBekki/JSeM": {
+                "sub_category": null,
+                "repository_name": "JSeM",
+                "user_name": "DaisukeBekki",
+                "description": "Japanese semantic test suite (FraCaS counterpart and extensions)",
+                "multilingual_descriptions": {
+                    "en": "日本語意味テストスイート（FraCaSの対応および拡張）",
+                    "ja": "日本語意味テストスイート（FraCaSの対応および拡張）",
+                    "zh-hans": "日语语义测试套件（FraCaS对应和扩展）",
+                    "zh-hant": "日本語意義測試套件（FraCaS對應及擴展）"
+                }
+            },
+            "https://github.com/mynlp/niilc-qa": {
+                "sub_category": null,
+                "repository_name": "niilc-qa",
+                "user_name": "mynlp",
+                "description": "NIILC QA data",
+                "multilingual_descriptions": {
+                    "en": "NIILC QA data",
+                    "ja": "NIILC QAデータ",
+                    "zh-hans": "NIILC QA 数据",
+                    "zh-hant": "NIILC QA 數據"
+                }
+            },
+            "https://github.com/nlp-waseda/chain-of-thought-ja-dataset": {
+                "sub_category": null,
+                "repository_name": "chain-of-thought-ja-dataset",
+                "user_name": "nlp-waseda",
+                "description": "Dataset of paper \"Verification of Chain-of-Thought Prompting in Japanese\"",
+                "multilingual_descriptions": {
+                    "en": "Dataset of paper Verification of Chain-of-Thought Prompting in Japanese",
+                    "ja": "日本語での「Chain-of-Thought Prompting」の論文検証データセット",
+                    "zh-hans": "日本论文链式思维提示验证数据集",
+                    "zh-hant": "請將以下內容翻譯為繁體中文。\n日本論文《鏈條思維提示的驗證》的數據集"
+                }
+            },
+            "https://github.com/ku-nlp/WikipediaAnnotatedCorpus": {
+                "sub_category": null,
+                "repository_name": "WikipediaAnnotatedCorpus",
+                "user_name": "ku-nlp",
+                "description": "This is a Japanese text corpus that consists of Wikipedia articles with various linguistic annotations.",
+                "multilingual_descriptions": {
+                    "en": "This is a Japanese text corpus that consists of Wikipedia articles with various linguistic annotations.",
+                    "ja": "これは、さまざまな言語注釈が付けられたWikipediaの記事からなる日本語テキストコーパスです。",
+                    "zh-hans": "这是一个包含维基百科文章和各种语言注释的日语文本语料库。",
+                    "zh-hant": "這是一個包含維基百科文章和各種語言標註的日文文本語料庫。"
+                }
             }
         },
         "Tutorial": {

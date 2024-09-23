@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [619件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1065 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [624件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1094 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [リポジトリトレンドを分析するダッシュボードをリリース 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,16 +18,16 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 28 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 22 new models and 7 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Corpus**
- * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
+ * [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) - Jamp: 制御された日本語時間推論データセット、言語モデルの汎化能力を評価するため
+ * [JSeM](https://github.com/DaisukeBekki/JSeM) - 日本語意味テストスイート（FraCaSの対応および拡張）
+ * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QAデータ
+ * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - 日本語での「Chain-of-Thought Prompting」の論文検証データセット
+ * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - これは、さまざまな言語注釈が付けられたWikipediaの記事からなる日本語テキストコーパスです。
 
-**Python**
- * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 最新のNMT研究に基づいた最先端のオープンソース日本語<-->英語機械翻訳システム。
- * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連続部分文字列の単語判定を行います
-
-_Updated on Sep 17, 2024_
+_Updated on Sep 23, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -896,6 +896,11 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [lawtext](https://github.com/yamachig/lawtext) - 日本の法律のプレーンテキスト形式
  * [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) - OCR処理プログラム研究開発事業において作成されたOCR学習用データセット
  * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
+ * [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) - Jamp: 制御された日本語時間推論データセット、言語モデルの汎化能力を評価するため
+ * [JSeM](https://github.com/DaisukeBekki/JSeM) - 日本語意味テストスイート（FraCaSの対応および拡張）
+ * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QAデータ
+ * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - 日本語での「Chain-of-Thought Prompting」の論文検証データセット
+ * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - これは、さまざまな言語注釈が付けられたWikipediaの記事からなる日本語テキストコーパスです。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
