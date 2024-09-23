@@ -1443,6 +1443,7 @@ Resources
  * [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) - Jamp: Controlled Japanese Temporal Inference Dataset for Evaluating Generalization Capacity of Language Models
  * [JSeM](https://github.com/DaisukeBekki/JSeM) - Japanese semantic test suite (FraCaS counterpart and extensions)
  * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QA data
+ * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - Dataset of paper "Verification of Chain-of-Thought Prompting in Japanese"
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1557,6 +1558,7 @@ Resources
 |[temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomo-vv/temporalNLI_dataset?style=social)|
 |[JSeM](https://github.com/DaisukeBekki/JSeM)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/DaisukeBekki/JSeM?style=social)|
 |[niilc-qa](https://github.com/mynlp/niilc-qa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mynlp/niilc-qa?style=social)|
+|[chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/chain-of-thought-ja-dataset?style=social)|
 
 
 ## Tutorial
