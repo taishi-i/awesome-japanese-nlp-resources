@@ -1442,6 +1442,7 @@ Resources
  * [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) - 話題に基づく語義曖昧性解消評価セット
  * [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) - Jamp: Controlled Japanese Temporal Inference Dataset for Evaluating Generalization Capacity of Language Models
  * [JSeM](https://github.com/DaisukeBekki/JSeM) - Japanese semantic test suite (FraCaS counterpart and extensions)
+ * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QA data
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1555,6 +1556,7 @@ Resources
 |[japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nut-jnlp/japanesetopicwsd?style=social)|
 |[temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomo-vv/temporalNLI_dataset?style=social)|
 |[JSeM](https://github.com/DaisukeBekki/JSeM)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/DaisukeBekki/JSeM?style=social)|
+|[niilc-qa](https://github.com/mynlp/niilc-qa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mynlp/niilc-qa?style=social)|
 
 
 ## Tutorial
