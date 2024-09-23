@@ -1646,6 +1646,7 @@ Resources
  * https://paperswithcode.com/datasets?lang=japanese
  * https://github.com/himkt/awesome-bert-japanese
  * [Awesome-Rust-MachineLearning-日本語向けのrustクレートや記事等をまとめたもの](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
+ * [大規模言語モデル入門Ⅱ 〜生成型LLMの実装と評価](https://gihyo.jp/book/2024/978-4-297-14393-0)
 
 
 ## Contributors
