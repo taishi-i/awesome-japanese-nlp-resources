@@ -1444,6 +1444,7 @@ Resources
  * [JSeM](https://github.com/DaisukeBekki/JSeM) - Japanese semantic test suite (FraCaS counterpart and extensions)
  * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QA data
  * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - Dataset of paper "Verification of Chain-of-Thought Prompting in Japanese"
+ * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - This is a Japanese text corpus that consists of Wikipedia articles with various linguistic annotations.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1559,6 +1560,7 @@ Resources
 |[JSeM](https://github.com/DaisukeBekki/JSeM)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/DaisukeBekki/JSeM?style=social)|
 |[niilc-qa](https://github.com/mynlp/niilc-qa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mynlp/niilc-qa?style=social)|
 |[chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/chain-of-thought-ja-dataset?style=social)|
+|[WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/WikipediaAnnotatedCorpus?style=social)|
 
 
 ## Tutorial
