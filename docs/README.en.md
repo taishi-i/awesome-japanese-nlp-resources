@@ -104,6 +104,7 @@ _Updated on Sep 23, 2024_
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Parsing
 
@@ -120,6 +121,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Converter
 
@@ -138,6 +140,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Preprocessor
 
@@ -151,6 +154,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Sentence spliter
 
@@ -165,6 +169,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Sentiment analysis
 
@@ -175,6 +180,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Machine translation
 
@@ -185,6 +191,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Named entity recognition
 
@@ -199,6 +206,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### OCR
 
@@ -215,6 +223,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Tool for pretrained models
 
@@ -252,6 +261,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Others
 
@@ -401,6 +411,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## C++
 
@@ -412,6 +423,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 ### Parsing
 
  * [cabocha](https://github.com/taku910/cabocha) - Yet Another Japanese Dependency Structure Analyzer
@@ -419,6 +431,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 ### Others
 
  * [jsc](https://github.com/yohokuno/jsc) - Joint source channel model for Japanese Kana Kanji conversion, Chinese pinyin input and CJE mixed input.
@@ -430,6 +443,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Rust crate
 
@@ -446,6 +460,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Converter
 
@@ -457,6 +472,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Search engine library
 
@@ -465,6 +481,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Others
 
@@ -487,6 +504,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## JavaScript
 
@@ -501,6 +519,7 @@ Resources
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Converter
 
@@ -518,6 +537,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Others
 
@@ -539,6 +559,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Go
 
@@ -548,6 +569,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Others
 
@@ -561,6 +583,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Java
 
@@ -572,6 +595,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Others
 
@@ -587,6 +611,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Pretrained model
 
@@ -603,6 +628,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Transformer based models
 
@@ -646,6 +672,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## ChatGPT
 
@@ -675,6 +702,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Dictionary and IME
 
@@ -732,6 +760,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Corpus
 
@@ -747,6 +776,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Parallel corpus
 
@@ -764,6 +794,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ### Dialog corpus
 
@@ -777,6 +808,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - Japanese chat dataset for building LLM.
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 ### Others
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - Japanese Realistic Textual Entailment Corpus (NLP 2020, LREC 2020)
@@ -894,6 +926,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Tutorial
 
@@ -922,6 +955,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Research summary
 
@@ -934,6 +968,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+[⬆ Back to Top](##Contents)
 
 ## Reference
 
