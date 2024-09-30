@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [624件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1094 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [626件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1125 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [リポジトリトレンドを分析するダッシュボードをリリース 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,16 +18,15 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 22 new models and 7 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 26 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Corpus**
- * [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) - Jamp: 制御された日本語時間推論データセット、言語モデルの汎化能力を評価するため
- * [JSeM](https://github.com/DaisukeBekki/JSeM) - 日本語意味テストスイート（FraCaSの対応および拡張）
- * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QAデータ
- * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - 日本語での「Chain-of-Thought Prompting」の論文検証データセット
- * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - これは、さまざまな言語注釈が付けられたWikipediaの記事からなる日本語テキストコーパスです。
+ * [elaws-history](https://github.com/kissge/elaws-history) - e-Gov 法令検索で配布されている「全ての法令データ」を定期的にダウンロードし、アーカイブしています
 
-_Updated on Sep 23, 2024_
+**Java**
+ * [meval](https://github.com/teru-oka-1933/meval) - 形態素解析器性能評価システム MevAL
+
+_Updated on Oct 01, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -599,6 +598,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromojiは、検索用に設計された自己完結型で非常に使いやすい日本語形態素解析器です。
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
  * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - すだちの語彙集
+ * [meval](https://github.com/teru-oka-1933/meval) - 形態素解析器性能評価システム MevAL
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -933,6 +933,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [niilc-qa](https://github.com/mynlp/niilc-qa) - NIILC QAデータ
  * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - 日本語での「Chain-of-Thought Prompting」の論文検証データセット
  * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - これは、さまざまな言語注釈が付けられたWikipediaの記事からなる日本語テキストコーパスです。
+ * [elaws-history](https://github.com/kissge/elaws-history) - e-Gov 法令検索で配布されている「全ての法令データ」を定期的にダウンロードし、アーカイブしています
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

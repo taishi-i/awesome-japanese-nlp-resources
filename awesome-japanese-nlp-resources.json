@@ -3996,6 +3996,18 @@
                     "zh-hant": "Sudachi詞彙表"
                 }
             },
+            "https://github.com/teru-oka-1933/meval": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "meval",
+                "user_name": "teru-oka-1933",
+                "description": "形態素解析器性能評価システム MevAL",
+                "multilingual_descriptions": {
+                    "en": "Morphological analyzer performance evaluation system MevAL",
+                    "ja": "形態素解析器性能評価システム MevAL",
+                    "zh-hans": "形态素解析器性能评估系统 MevAL",
+                    "zh-hant": "形態素解析器性能評估系統 MevAL"
+                }
+            },
             "https://github.com/sakarika/kanjitomo-ocr": {
                 "sub_category": null,
                 "repository_name": "kanjitomo-ocr",
@@ -7182,6 +7194,18 @@
                     "ja": "これは、さまざまな言語注釈が付けられたWikipediaの記事からなる日本語テキストコーパスです。",
                     "zh-hans": "这是一个包含维基百科文章和各种语言注释的日语文本语料库。",
                     "zh-hant": "這是一個包含維基百科文章和各種語言標註的日文文本語料庫。"
+                }
+            },
+            "https://github.com/kissge/elaws-history": {
+                "sub_category": null,
+                "repository_name": "elaws-history",
+                "user_name": "kissge",
+                "description": "e-Gov 法令検索で配布されている「全ての法令データ」を定期的にダウンロードし、アーカイブしています",
+                "multilingual_descriptions": {
+                    "en": "We regularly download and archive all legal data distributed through the e-Gov legal search.",
+                    "ja": "e-Gov 法令検索で配布されている「全ての法令データ」を定期的にダウンロードし、アーカイブしています",
+                    "zh-hans": "通过e-Gov法令搜索定期下载分发的“所有法令数据”，并进行归档。",
+                    "zh-hant": "透過 e-Gov 法令檢索平台定期下載並存檔所有法令資料。"
                 }
             }
         },
