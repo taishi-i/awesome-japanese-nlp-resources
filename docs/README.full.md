@@ -948,6 +948,7 @@ Resources
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
  * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
+ * [meval](https://github.com/teru-oka-1933/meval) - 形態素解析器性能評価システム MevAL
 
 
 |Name|downloads/week|total downloads|stars|
@@ -955,6 +956,7 @@ Resources
 |[kuromoji](https://github.com/atilika/kuromoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/atilika/kuromoji?style=social)|
 |[Sudachi](https://github.com/WorksApplications/Sudachi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WorksApplications/Sudachi?style=social)|
 |[SudachiDict](https://github.com/WorksApplications/SudachiDict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WorksApplications/SudachiDict?style=social)|
+|[meval](https://github.com/teru-oka-1933/meval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/teru-oka-1933/meval?style=social)|
 
 
 ### Others
