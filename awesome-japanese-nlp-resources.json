@@ -7207,6 +7207,18 @@
                     "zh-hans": "通过e-Gov法令搜索定期下载分发的“所有法令数据”，并进行归档。",
                     "zh-hant": "透過 e-Gov 法令檢索平台定期下載並存檔所有法令資料。"
                 }
+            },
+            "https://github.com/Aratako/Japanese-RP-Bench": {
+                "sub_category": null,
+                "repository_name": "Japanese-RP-Bench",
+                "user_name": "Aratako",
+                "description": "Japanese-RP-BenchはLLMの日本語ロールプレイ能力を測定するためのベンチマークです。",
+                "multilingual_descriptions": {
+                    "en": "Japanese-RP-Bench is a benchmark for measuring LLM's Japanese role-playing ability.",
+                    "ja": "Japanese-RP-BenchはLLMの日本語ロールプレイ能力を測定するためのベンチマークです。",
+                    "zh-hans": "Japanese-RP-Bench是用于衡量LLM的日语角色扮演能力的基准。",
+                    "zh-hant": "Japanese-RP-Bench是用來測量LLM的日語角色扮演能力的基準。"
+                }
             }
         },
         "Tutorial": {

@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了626個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1125個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了627個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1163個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [發布了一個分析倉庫趨勢的儀表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,15 +18,12 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 26 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 33 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Corpus**
- * [elaws-history](https://github.com/kissge/elaws-history) - 透過 e-Gov 法令檢索平台定期下載並存檔所有法令資料。
+ * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-Bench是用來測量LLM的日語角色扮演能力的基準。
 
-**Java**
- * [meval](https://github.com/teru-oka-1933/meval) - 形態素解析器性能評估系統 MevAL
-
-_Updated on Oct 01, 2024_
+_Updated on Oct 08, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -941,6 +938,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 日本論文《鏈條思維提示的驗證》的數據集
  * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - 這是一個包含維基百科文章和各種語言標註的日文文本語料庫。
  * [elaws-history](https://github.com/kissge/elaws-history) - 透過 e-Gov 法令檢索平台定期下載並存檔所有法令資料。
+ * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-Bench是用來測量LLM的日語角色扮演能力的基準。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
