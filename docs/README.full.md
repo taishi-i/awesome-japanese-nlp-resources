@@ -1447,6 +1447,7 @@ Resources
  * [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) - Dataset of paper "Verification of Chain-of-Thought Prompting in Japanese"
  * [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) - This is a Japanese text corpus that consists of Wikipedia articles with various linguistic annotations.
  * [elaws-history](https://github.com/kissge/elaws-history) - e-Gov 法令検索で配布されている「全ての法令データ」を定期的にダウンロードし、アーカイブしています
+ * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-BenchはLLMの日本語ロールプレイ能力を測定するためのベンチマークです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1564,6 +1565,7 @@ Resources
 |[chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/chain-of-thought-ja-dataset?style=social)|
 |[WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/WikipediaAnnotatedCorpus?style=social)|
 |[elaws-history](https://github.com/kissge/elaws-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kissge/elaws-history?style=social)|
+|[Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aratako/Japanese-RP-Bench?style=social)|
 
 
 ## Tutorial
