@@ -2989,6 +2989,18 @@
                     "zh-hans": "进行连续子字符串的单词判断",
                     "zh-hant": "連續部分字串的單詞判定。"
                 }
+            },
+            "https://github.com/wandb/heron-vlm-leaderboard": {
+                "sub_category": null,
+                "repository_name": "heron-vlm-leaderboard",
+                "user_name": "wandb",
+                "description": "This project is a benchmarking tool for evaluating and comparing the performance of various Vision Language Models (VLMs). It uses two datasets: LLaVA-Bench-In-the-Wild and Japanese HERON Bench to measure model performance.",
+                "multilingual_descriptions": {
+                    "en": "This project is a benchmarking tool for evaluating and comparing the performance of various Vision Language Models (VLMs). It uses two datasets: LLaVA-Bench-In-the-Wild and Japanese HERON Bench to measure model performance.",
+                    "ja": "このプロジェクトは、さまざまなビジョン言語モデル（VLMs）のパフォーマンスを評価および比較するためのベンチマークツールです。モデルのパフォーマンスを測定するために、LLaVA-Bench-In-the-WildとJapanese HERON Benchの2つのデータセットを使用しています。",
+                    "zh-hans": "这个项目是一个基准工具，用于评估和比较各种视觉语言模型（VLMs）的性能。它使用两个数据集：LLaVA-Bench-In-the-Wild和日本HERON Bench来衡量模型的性能。",
+                    "zh-hant": "這個項目是一個基準工具，用於評估和比較各種視覺語言模型（VLMs）的性能。它使用兩個數據集：LLaVA-Bench-In-the-Wild 和日本 HERON Bench 來衡量模型的性能。"
+                }
             }
         },
         "C++": {
