@@ -5561,6 +5561,30 @@
                     "zh-hans": "日本SKK输入法库",
                     "zh-hant": "日本 SKK 輸入法庫"
                 }
+            },
+            "https://github.com/warihima/kanayomi-dict": {
+                "sub_category": null,
+                "repository_name": "kanayomi-dict",
+                "user_name": "warihima",
+                "description": "openjtalk形式のユーザー辞書",
+                "multilingual_descriptions": {
+                    "en": "User dictionary in openjtalk format",
+                    "ja": "openjtalk形式のユーザー辞書",
+                    "zh-hans": "openjtalk形式的用户词典",
+                    "zh-hant": "openjtalk形式的用戶詞典"
+                }
+            },
+            "https://github.com/cjkvi/cjkvi-dict": {
+                "sub_category": null,
+                "repository_name": "cjkvi-dict",
+                "user_name": "cjkvi",
+                "description": "漢字データベースの辞書関連データ",
+                "multilingual_descriptions": {
+                    "en": "Dictionary related data of the kanji database",
+                    "ja": "漢字データベースの辞書関連データ",
+                    "zh-hans": "汉字数据库的词典相关数据",
+                    "zh-hant": "漢字資料庫的字典相關資料"
+                }
             }
         },
         "Corpus": {

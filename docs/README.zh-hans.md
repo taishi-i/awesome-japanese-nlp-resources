@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了628个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1184个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了630个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1204个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [发布了一个分析仓库趋势的仪表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,12 +18,13 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 19 new models and 2 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 13 new models and 7 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) - 这个项目是一个基准工具，用于评估和比较各种视觉语言模型（VLMs）的性能。它使用两个数据集：LLaVA-Bench-In-the-Wild和日本HERON Bench来衡量模型的性能。
+**Dictionary and IME**
+ * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式的用户词典
+ * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 汉字数据库的词典相关数据
 
-_Updated on Oct 13, 2024_
+_Updated on Oct 22, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -761,6 +762,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - 用Swift编写的假名汉字转换模块
  * [libkkc](https://github.com/ueno/libkkc) - 日文假名汉字转换输入法库
  * [libskk](https://github.com/ueno/libskk) - 日本SKK输入法库
+ * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式的用户词典
+ * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 汉字数据库的词典相关数据
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
