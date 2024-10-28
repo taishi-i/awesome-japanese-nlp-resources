@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了630个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1204个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了634个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1346个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [发布了一个分析仓库趋势的仪表板 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,13 +18,17 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 13 new models and 7 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 142 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+
+**Python**
+ * [text2dataset](https://github.com/llm-jp/text2dataset) - 使用开放的LLMs轻松将大型英文文本数据集转换为日文文本数据集。
+ * [owocr](https://github.com/aurorawright/owocr) - 日文文本的光学字符识别
 
 **Dictionary and IME**
- * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式的用户词典
- * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 汉字数据库的词典相关数据
+ * [kanji-dict](https://github.com/marmooo/kanji-dict) - 这是一个用于查找汉字的笔顺、发音、画数、部首、用例和成立的汉字词典。收录了Unicode 15.1版本中的所有98,682个汉字。
+ * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - 古典日本语的分类词汇表数据
 
-_Updated on Oct 22, 2024_
+_Updated on Oct 29, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -217,6 +221,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - 用于识别现代日本杂志的OCR系统
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR文本识别模块
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫画图像的光学字符识别。漫画OCR桌面应用程序。
+ * [owocr](https://github.com/aurorawright/owocr) - 日文文本的光学字符识别
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -410,6 +415,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 基于最新的NMT研究，采用最先进的开源日语<-->英语机器翻译系统。
  * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 进行连续子字符串的单词判断
  * [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) - 这个项目是一个基准工具，用于评估和比较各种视觉语言模型（VLMs）的性能。它使用两个数据集：LLaVA-Bench-In-the-Wild和日本HERON Bench来衡量模型的性能。
+ * [text2dataset](https://github.com/llm-jp/text2dataset) - 使用开放的LLMs轻松将大型英文文本数据集转换为日文文本数据集。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -764,6 +770,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [libskk](https://github.com/ueno/libskk) - 日本SKK输入法库
  * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式的用户词典
  * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 汉字数据库的词典相关数据
+ * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - 古典日本语的分类词汇表数据
+ * [kanji-dict](https://github.com/marmooo/kanji-dict) - 这是一个用于查找汉字的笔顺、发音、画数、部首、用例和成立的汉字词典。收录了Unicode 15.1版本中的所有98,682个汉字。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

@@ -950,6 +950,18 @@
                     "zh-hant": "漫畫圖像的光學字符識別。漫畫OCR桌面應用程式。"
                 }
             },
+            "https://github.com/aurorawright/owocr": {
+                "sub_category": "OCR",
+                "repository_name": "owocr",
+                "user_name": "aurorawright",
+                "description": "Optical character recognition for Japanese text",
+                "multilingual_descriptions": {
+                    "en": "Optical character recognition for Japanese text",
+                    "ja": "日本語テキストの光学文字認識",
+                    "zh-hans": "日文文本的光学字符识别",
+                    "zh-hant": "日文文本的光學字符識別"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -3000,6 +3012,18 @@
                     "ja": "このプロジェクトは、さまざまなビジョン言語モデル（VLMs）のパフォーマンスを評価および比較するためのベンチマークツールです。モデルのパフォーマンスを測定するために、LLaVA-Bench-In-the-WildとJapanese HERON Benchの2つのデータセットを使用しています。",
                     "zh-hans": "这个项目是一个基准工具，用于评估和比较各种视觉语言模型（VLMs）的性能。它使用两个数据集：LLaVA-Bench-In-the-Wild和日本HERON Bench来衡量模型的性能。",
                     "zh-hant": "這個項目是一個基準工具，用於評估和比較各種視覺語言模型（VLMs）的性能。它使用兩個數據集：LLaVA-Bench-In-the-Wild 和日本 HERON Bench 來衡量模型的性能。"
+                }
+            },
+            "https://github.com/llm-jp/text2dataset": {
+                "sub_category": null,
+                "repository_name": "text2dataset",
+                "user_name": "llm-jp",
+                "description": "Easily turn large English text datasets into Japanese text datasets using open LLMs.",
+                "multilingual_descriptions": {
+                    "en": "Easily turn large English text datasets into Japanese text datasets using open LLMs.",
+                    "ja": "簡単に大きな英語テキストデータセットを日本語テキストデータセットに変換できます。オープンLLMsを使用してください。",
+                    "zh-hans": "使用开放的LLMs轻松将大型英文文本数据集转换为日文文本数据集。",
+                    "zh-hant": "使用開放式LLM輕鬆將大型英文文本數據集轉換為日文文本數據集。"
                 }
             }
         },
@@ -5584,6 +5608,30 @@
                     "ja": "漢字データベースの辞書関連データ",
                     "zh-hans": "汉字数据库的词典相关数据",
                     "zh-hant": "漢字資料庫的字典相關資料"
+                }
+            },
+            "https://github.com/yocjyet/wlsp-classical": {
+                "sub_category": null,
+                "repository_name": "wlsp-classical",
+                "user_name": "yocjyet",
+                "description": "古典日本語の分類語彙表データ",
+                "multilingual_descriptions": {
+                    "en": "Classified vocabulary list data of classical Japanese",
+                    "ja": "古典日本語の分類語彙表データ",
+                    "zh-hans": "古典日本语的分类词汇表数据",
+                    "zh-hant": "古典日本語的分類詞彙表數據"
+                }
+            },
+            "https://github.com/marmooo/kanji-dict": {
+                "sub_category": null,
+                "repository_name": "kanji-dict",
+                "user_name": "marmooo",
+                "description": "漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。",
+                "multilingual_descriptions": {
+                    "en": "This is a kanji dictionary for looking up the stroke order, reading, number of strokes, radical, usage examples, and origin of kanji characters. It includes all 98,682 kanji characters in Unicode 15.1.",
+                    "ja": "漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。",
+                    "zh-hans": "这是一个用于查找汉字的笔顺、发音、画数、部首、用例和成立的汉字词典。收录了Unicode 15.1版本中的所有98,682个汉字。",
+                    "zh-hant": "漢字的書寫順序(筆順)、讀音、畫數、部首、用例、起源等資訊的漢字詞典。收錄了Unicode 15.1版本中的所有漢字，共98682個字。"
                 }
             }
         },

@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [630件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1204 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [634件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1346 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 - [リポジトリトレンドを分析するダッシュボードをリリース 📊](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-dashboard)
 
@@ -18,13 +18,17 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 13 new models and 7 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 142 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+
+**Python**
+ * [text2dataset](https://github.com/llm-jp/text2dataset) - 簡単に大きな英語テキストデータセットを日本語テキストデータセットに変換できます。オープンLLMsを使用してください。
+ * [owocr](https://github.com/aurorawright/owocr) - 日本語テキストの光学文字認識
 
 **Dictionary and IME**
- * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式のユーザー辞書
- * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 漢字データベースの辞書関連データ
+ * [kanji-dict](https://github.com/marmooo/kanji-dict) - 漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。
+ * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - 古典日本語の分類語彙表データ
 
-_Updated on Oct 22, 2024_
+_Updated on Oct 29, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -296,6 +300,7 @@ _Updated on Oct 22, 2024_
  * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - 現代日本の雑誌を認識するOCRシステム
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR用テキスト認識モジュール
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫画画像の光学文字認識。漫画OCRデスクトップアプリケーション。
+ * [owocr](https://github.com/aurorawright/owocr) - 日本語テキストの光学文字認識
 
 
 |Name|downloads/week|total downloads|stars|
@@ -310,6 +315,7 @@ _Updated on Oct 22, 2024_
 |[Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ducanh841988/Kindai-OCR?style=social)|
 |[text_recognition](https://github.com/ndl-lab/text_recognition)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/text_recognition?style=social)|
 |[Poricom](https://github.com/blueaxis/Poricom)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/blueaxis/Poricom?style=social)|
+|[owocr](https://github.com/aurorawright/owocr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aurorawright/owocr?style=social)|
 
 
 ### Tool for pretrained models
@@ -532,6 +538,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) - 最新のNMT研究に基づいた最先端のオープンソース日本語<-->英語機械翻訳システム。
  * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - 連続部分文字列の単語判定を行います
  * [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) - このプロジェクトは、さまざまなビジョン言語モデル（VLMs）のパフォーマンスを評価および比較するためのベンチマークツールです。モデルのパフォーマンスを測定するために、LLaVA-Bench-In-the-WildとJapanese HERON Benchの2つのデータセットを使用しています。
+ * [text2dataset](https://github.com/llm-jp/text2dataset) - 簡単に大きな英語テキストデータセットを日本語テキストデータセットに変換できます。オープンLLMsを使用してください。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -679,6 +686,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matthewbieda/jp-translate.cloud?style=social)|
 |[substring-word-finder](https://github.com/toufu-24/substring-word-finder)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/toufu-24/substring-word-finder?style=social)|
 |[heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/wandb/heron-vlm-leaderboard?style=social)|
+|[text2dataset](https://github.com/llm-jp/text2dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/text2dataset?style=social)|
 
 
 ## C++
@@ -1210,6 +1218,8 @@ Output: azooKey：Swiftで完全に開発された日本語キーボードiOSア
  * [libskk](https://github.com/ueno/libskk) - 日本語のSKK入力方式ライブラリ
  * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式のユーザー辞書
  * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 漢字データベースの辞書関連データ
+ * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - 古典日本語の分類語彙表データ
+ * [kanji-dict](https://github.com/marmooo/kanji-dict) - 漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1266,6 +1276,8 @@ Output: azooKey：Swiftで完全に開発された日本語キーボードiOSア
 |[libskk](https://github.com/ueno/libskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ueno/libskk?style=social)|
 |[kanayomi-dict](https://github.com/warihima/kanayomi-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/warihima/kanayomi-dict?style=social)|
 |[cjkvi-dict](https://github.com/cjkvi/cjkvi-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cjkvi/cjkvi-dict?style=social)|
+|[wlsp-classical](https://github.com/yocjyet/wlsp-classical)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yocjyet/wlsp-classical?style=social)|
+|[kanji-dict](https://github.com/marmooo/kanji-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/kanji-dict?style=social)|
 
 
 ## Corpus
