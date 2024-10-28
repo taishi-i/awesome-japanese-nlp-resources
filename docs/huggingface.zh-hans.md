@@ -1,6 +1,6 @@
 # awesome-japanese-nlp-resources
 
-此页面列出了注册在 [Haggingface](https://huggingface.co) 的专用于日本NLP的模型和数据集。目前，列出了1007个模型和197个数据集。
+此页面列出了注册在 [Haggingface](https://huggingface.co) 的专用于日本NLP的模型和数据集。目前，列出了1007个模型和339个数据集。
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
@@ -12,39 +12,156 @@
 
 ## The latest additions 🎉
 
-**Models**
-13 models have been added.
-
-- [tokyotech-llm/Llama-3.1-Swallow-8B-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-v0.1)
-- [tokyotech-llm/Llama-3.1-Swallow-70B-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-v0.1)
-- [ascktgcc/Mistral-nemo-ja-rp-v0.1](https://huggingface.co/ascktgcc/Mistral-nemo-ja-rp-v0.1)
-- [AkitoP/whisper-large-v3-japense-phone_accent](https://huggingface.co/AkitoP/whisper-large-v3-japense-phone_accent)
-- [RikkaBotan/style_bert_vits2_jp_extra_asmr_original](https://huggingface.co/RikkaBotan/style_bert_vits2_jp_extra_asmr_original)
-- [AELLM/Llama-3.2-Chibi-3B](https://huggingface.co/AELLM/Llama-3.2-Chibi-3B)
-- [qqpann/wav2vec2-large-xlsr-japanese-0325-1200](https://huggingface.co/qqpann/wav2vec2-large-xlsr-japanese-0325-1200)
-- [hs-hf/m2v-LaBSE-distilled](https://huggingface.co/hs-hf/m2v-LaBSE-distilled)
-- [RikkaBotan/style_bert_vits2_jp_extra_sweet_original](https://huggingface.co/RikkaBotan/style_bert_vits2_jp_extra_sweet_original)
-- [k-ush/xlm-roberta-base-ance-en-jp-warmup](https://huggingface.co/k-ush/xlm-roberta-base-ance-en-jp-warmup)
-- [kit-nlp/yacis-electra-small-japanese-irony](https://huggingface.co/kit-nlp/yacis-electra-small-japanese-irony)
-- [nakamura196/roberta-small-hi-char](https://huggingface.co/nakamura196/roberta-small-hi-char)
-- [aken12/splade-japanese](https://huggingface.co/aken12/splade-japanese)
-
-
 **Datasets**
-7 datasets have been added.
+142 datasets have been added.
 
-- [SakanaAI/ChouBun](https://huggingface.co/datasets/SakanaAI/ChouBun)
-- [sudy-super/dialogsum-ja](https://huggingface.co/datasets/sudy-super/dialogsum-ja)
-- [if001/aozorabunko-clean-sin](https://huggingface.co/datasets/if001/aozorabunko-clean-sin)
-- [hpprc/llmjp-warp-html](https://huggingface.co/datasets/hpprc/llmjp-warp-html)
-- [Fhrozen/CABankSakuraCHJP](https://huggingface.co/datasets/Fhrozen/CABankSakuraCHJP)
-- [sudy-super/CoTangent](https://huggingface.co/datasets/sudy-super/CoTangent)
-- [llm-book/aio-passages-bpr-bert-base-japanese-v3](https://huggingface.co/datasets/llm-book/aio-passages-bpr-bert-base-japanese-v3)
+- [KakologArchives/KakologArchives](https://huggingface.co/datasets/KakologArchives/KakologArchives)
+- [jpft/danbooru2023](https://huggingface.co/datasets/jpft/danbooru2023)
+- [hotchpotch/wikipedia-passages-jawiki-embeddings](https://huggingface.co/datasets/hotchpotch/wikipedia-passages-jawiki-embeddings)
+- [ayousanz/voicevox-voice-corpus](https://huggingface.co/datasets/ayousanz/voicevox-voice-corpus)
+- [jaCappella/jaCappella](https://huggingface.co/datasets/jaCappella/jaCappella)
+- [lmg-anon/vntl-leaderboard](https://huggingface.co/datasets/lmg-anon/vntl-leaderboard)
+- [ThePioneer/japanese-photos](https://huggingface.co/datasets/ThePioneer/japanese-photos)
+- [alfredplpl/simple-zundamon](https://huggingface.co/datasets/alfredplpl/simple-zundamon)
+- [kanhatakeyama/SyntheticText](https://huggingface.co/datasets/kanhatakeyama/SyntheticText)
+- [Elite35P-Server/EliteVoiceProject](https://huggingface.co/datasets/Elite35P-Server/EliteVoiceProject)
+- [bandad/sayoko-tts-corpus](https://huggingface.co/datasets/bandad/sayoko-tts-corpus)
+- [DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k)
+- [hotchpotch/cc100-ja-documents](https://huggingface.co/datasets/hotchpotch/cc100-ja-documents)
+- [MomoyamaSawa/Voice-KusanagiNene](https://huggingface.co/datasets/MomoyamaSawa/Voice-KusanagiNene)
+- [systemk/washi](https://huggingface.co/datasets/systemk/washi)
+- [ltvmoon/opusbook_ja_en](https://huggingface.co/datasets/ltvmoon/opusbook_ja_en)
+- [sappho192/Tatoeba-Challenge-jpn-kor](https://huggingface.co/datasets/sappho192/Tatoeba-Challenge-jpn-kor)
+- [Fhrozen/CABankSakura](https://huggingface.co/datasets/Fhrozen/CABankSakura)
+- [kanhatakeyama/japanese-corpus-categorized](https://huggingface.co/datasets/kanhatakeyama/japanese-corpus-categorized)
+- [hpprc/en-ja-align](https://huggingface.co/datasets/hpprc/en-ja-align)
+- [team-hatakeyama-phase2/LLMChat](https://huggingface.co/datasets/team-hatakeyama-phase2/LLMChat)
+- [tet550/jawiki_sentences](https://huggingface.co/datasets/tet550/jawiki_sentences)
+- [inu-ai/ggml-japanese-gpt2](https://huggingface.co/datasets/inu-ai/ggml-japanese-gpt2)
+- [mohamed-khalil/AnimeSongsLyrics](https://huggingface.co/datasets/mohamed-khalil/AnimeSongsLyrics)
+- [if001/elementray_l](https://huggingface.co/datasets/if001/elementray_l)
+- [hotchpotch/ms_marco_japanese](https://huggingface.co/datasets/hotchpotch/ms_marco_japanese)
+- [sergicalsix/Japanese_NER_Data_Hub](https://huggingface.co/datasets/sergicalsix/Japanese_NER_Data_Hub)
+- [ryota39/open_preference_v0.2](https://huggingface.co/datasets/ryota39/open_preference_v0.2)
+- [kanhatakeyama/SyntheticTextWikiTranslate](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextWikiTranslate)
+- [TLME/Umamusume-voice-transcription](https://huggingface.co/datasets/TLME/Umamusume-voice-transcription)
+- [NilanE/SmallParallelDocs-Ja_En-6k](https://huggingface.co/datasets/NilanE/SmallParallelDocs-Ja_En-6k)
+- [YukiTomita-CC/AKU-d_ms-0.5B-v0.1_dataset](https://huggingface.co/datasets/YukiTomita-CC/AKU-d_ms-0.5B-v0.1_dataset)
+- [OmniAICreator/Japanese-Roleplay-Dialogues](https://huggingface.co/datasets/OmniAICreator/Japanese-Roleplay-Dialogues)
+- [waddledee/three_line_summarization_for_japanese_news_articles](https://huggingface.co/datasets/waddledee/three_line_summarization_for_japanese_news_articles)
+- [tarudesu/gendec-dataset](https://huggingface.co/datasets/tarudesu/gendec-dataset)
+- [mohamed-khalil/AnimeQuotes](https://huggingface.co/datasets/mohamed-khalil/AnimeQuotes)
+- [Aruno/guanaco_jp](https://huggingface.co/datasets/Aruno/guanaco_jp)
+- [p1atdev/danbooru-ja-tag-pair-20241015](https://huggingface.co/datasets/p1atdev/danbooru-ja-tag-pair-20241015)
+- [R1b3y/NE4Mitsua](https://huggingface.co/datasets/R1b3y/NE4Mitsua)
+- [NekoFi/whisper_toku](https://huggingface.co/datasets/NekoFi/whisper_toku)
+- [ebisuke/liz-nojaloli-ja-ds](https://huggingface.co/datasets/ebisuke/liz-nojaloli-ja-ds)
+- [Nan-Do/OpenSubtitlesJapanese](https://huggingface.co/datasets/Nan-Do/OpenSubtitlesJapanese)
+- [takosama/databricks-dolly-15k-ja-google-trans](https://huggingface.co/datasets/takosama/databricks-dolly-15k-ja-google-trans)
+- [Emu-Academic/pjsk-emu-dataset](https://huggingface.co/datasets/Emu-Academic/pjsk-emu-dataset)
+- [tanganke/kmnist](https://huggingface.co/datasets/tanganke/kmnist)
+- [Calvin-Xu/Furigana-NDLBIB](https://huggingface.co/datasets/Calvin-Xu/Furigana-NDLBIB)
+- [Calvin-Xu/Furigana-Aozora-Speech](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora-Speech)
+- [hpprc/quiz-works](https://huggingface.co/datasets/hpprc/quiz-works)
+- [kunishou/ApolloCorpus-ja](https://huggingface.co/datasets/kunishou/ApolloCorpus-ja)
+- [RJZ/ConceptNetSyntheticPhi3Text_ja](https://huggingface.co/datasets/RJZ/ConceptNetSyntheticPhi3Text_ja)
+- [Sakalti/Multilingal-sakalt-data](https://huggingface.co/datasets/Sakalti/Multilingal-sakalt-data)
+- [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k)
+- [RyokoExtra/JapaneseGoblin](https://huggingface.co/datasets/RyokoExtra/JapaneseGoblin)
+- [FrancophonIA/XFUND](https://huggingface.co/datasets/FrancophonIA/XFUND)
+- [tellarin-ai/llm-japanese-dataset-vanilla-aya-format](https://huggingface.co/datasets/tellarin-ai/llm-japanese-dataset-vanilla-aya-format)
+- [if001/elementray_small](https://huggingface.co/datasets/if001/elementray_small)
+- [oshizo/LawClustering-ja](https://huggingface.co/datasets/oshizo/LawClustering-ja)
+- [kunishou/oasst1-chat-44k-ja](https://huggingface.co/datasets/kunishou/oasst1-chat-44k-ja)
+- [WarriorMama777/databricks-dolly-15k-ja_cool](https://huggingface.co/datasets/WarriorMama777/databricks-dolly-15k-ja_cool)
+- [oshizo/HSClustering-ja](https://huggingface.co/datasets/oshizo/HSClustering-ja)
+- [p1atdev/japanese-stackexchange](https://huggingface.co/datasets/p1atdev/japanese-stackexchange)
+- [yubo0306/fed_ja](https://huggingface.co/datasets/yubo0306/fed_ja)
+- [hotchpotch/jaqket_cc](https://huggingface.co/datasets/hotchpotch/jaqket_cc)
+- [toshi456/ViQuAE-JA](https://huggingface.co/datasets/toshi456/ViQuAE-JA)
+- [longisland3/NMLE](https://huggingface.co/datasets/longisland3/NMLE)
+- [Nexdata/Chinese-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Chinese-Japanese_Parallel_Corpus_Data)
+- [nakayama/hh-rlhf-helpful-base-ja](https://huggingface.co/datasets/nakayama/hh-rlhf-helpful-base-ja)
+- [ThePioneer/Artificial-super-girlfriend-for-fine-tuning](https://huggingface.co/datasets/ThePioneer/Artificial-super-girlfriend-for-fine-tuning)
+- [yutakobayashi/diet-members-voice-embeddings](https://huggingface.co/datasets/yutakobayashi/diet-members-voice-embeddings)
+- [oshizo/JMDNClustering-ja](https://huggingface.co/datasets/oshizo/JMDNClustering-ja)
+- [watashihakobashi/ogiri](https://huggingface.co/datasets/watashihakobashi/ogiri)
+- [shi3z/ja_conv_wikipedia_llama2pro8b_20k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_20k)
+- [toshi456/Rakuten-Alpaca-Data-32K](https://huggingface.co/datasets/toshi456/Rakuten-Alpaca-Data-32K)
+- [den2nova/den2niji](https://huggingface.co/datasets/den2nova/den2niji)
+- [fufufukakaka/pokemon_battle_team_dataset_regulation_f](https://huggingface.co/datasets/fufufukakaka/pokemon_battle_team_dataset_regulation_f)
+- [oshizo/japanese-wikipedia-paragraphs-embeddings](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs-embeddings)
+- [Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone](https://huggingface.co/datasets/Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone)
+- [Atom007/mc4-japanese-data](https://huggingface.co/datasets/Atom007/mc4-japanese-data)
+- [svjack/pokemon-blip-captions-en-ja](https://huggingface.co/datasets/svjack/pokemon-blip-captions-en-ja)
+- [p1atdev/fake-news-jp](https://huggingface.co/datasets/p1atdev/fake-news-jp)
+- [U23-lab/wiki40b_qa_ja](https://huggingface.co/datasets/U23-lab/wiki40b_qa_ja)
+- [ayousanz/common-voice-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/common-voice-speechMOS-analyze)
+- [ayousanz/reazon-speech-v2-all-WAND-SNR-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-WAND-SNR-analyze)
+- [Sakalti/hachiwari](https://huggingface.co/datasets/Sakalti/hachiwari)
+- [tzmtwtr/tw-posts-japanese](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese)
+- [seungwon929/Ja-miracl](https://huggingface.co/datasets/seungwon929/Ja-miracl)
+- [shi3z/ja_conv_wikipedia_llama2pro8b_10k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_10k)
+- [Gustav114514/work](https://huggingface.co/datasets/Gustav114514/work)
+- [kanhatakeyama/multiturn-conv-from-aozora-bunko](https://huggingface.co/datasets/kanhatakeyama/multiturn-conv-from-aozora-bunko)
+- [MilosNaniwa/WarChestDojo](https://huggingface.co/datasets/MilosNaniwa/WarChestDojo)
+- [toshi456/LLaVA-JP-Instruct-108K](https://huggingface.co/datasets/toshi456/LLaVA-JP-Instruct-108K)
+- [kenkensz9/kenkensz9_1242tw2](https://huggingface.co/datasets/kenkensz9/kenkensz9_1242tw2)
+- [kunishou/jp-effective-instructions](https://huggingface.co/datasets/kunishou/jp-effective-instructions)
+- [ayousanz/reazon-speech-v2-all-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-speechMOS-analyze)
+- [YANS-official/senryu-test-with-references](https://huggingface.co/datasets/YANS-official/senryu-test-with-references)
+- [karakuri-ai/corrected-mt-bench-ja](https://huggingface.co/datasets/karakuri-ai/corrected-mt-bench-ja)
+- [GENIAC-Team-Ozaki/WikiHowNFQA-ja](https://huggingface.co/datasets/GENIAC-Team-Ozaki/WikiHowNFQA-ja)
+- [hatakeyama-llm-team/CommonCrawlPDFJa](https://huggingface.co/datasets/hatakeyama-llm-team/CommonCrawlPDFJa)
+- [Nexdata/Japanese_Pronunciation_Dictionary](https://huggingface.co/datasets/Nexdata/Japanese_Pronunciation_Dictionary)
+- [shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K](https://huggingface.co/datasets/shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K)
+- [Calvin-Xu/Furigana-Aozora](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora)
+- [YANS-official/ogiri-test-with-references](https://huggingface.co/datasets/YANS-official/ogiri-test-with-references)
+- [Calvin-Xu/FLFL-Aozora-Speech-Train](https://huggingface.co/datasets/Calvin-Xu/FLFL-Aozora-Speech-Train)
+- [AlienKevin/ndlbib-furigana](https://huggingface.co/datasets/AlienKevin/ndlbib-furigana)
+- [shi3z/ja_conv_wikipedia_llama2pro8b_3k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_3k)
+- [tzmtwtr/tw-posts-japanese-v2](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese-v2)
+- [shi3z/rachel](https://huggingface.co/datasets/shi3z/rachel)
+- [CausalLM/GPT-4-Self-Instruct-Japanese](https://huggingface.co/datasets/CausalLM/GPT-4-Self-Instruct-Japanese)
+- [Kendamarron/jimba-instruction-simplify-200](https://huggingface.co/datasets/Kendamarron/jimba-instruction-simplify-200)
+- [wolf4032/token-classification-japanese-search-local-cuisine](https://huggingface.co/datasets/wolf4032/token-classification-japanese-search-local-cuisine)
+- [masajek/openassistant-guanaco-ja](https://huggingface.co/datasets/masajek/openassistant-guanaco-ja)
+- [izumi-lab/piqa-ja-mbartm2m](https://huggingface.co/datasets/izumi-lab/piqa-ja-mbartm2m)
+- [shi3z/ja_conv_wikipedia_orion14B_10K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_10K)
+- [saillab/alpaca_japanese_taco](https://huggingface.co/datasets/saillab/alpaca_japanese_taco)
+- [aipracticecafe/wataoshi-dialogues-rp](https://huggingface.co/datasets/aipracticecafe/wataoshi-dialogues-rp)
+- [p1atdev/novecomi-novel-metadata](https://huggingface.co/datasets/p1atdev/novecomi-novel-metadata)
+- [Coaso/test-dolly-15ja-for-stftrainer](https://huggingface.co/datasets/Coaso/test-dolly-15ja-for-stftrainer)
+- [alfredplpl/genai-terminology-en-ja](https://huggingface.co/datasets/alfredplpl/genai-terminology-en-ja)
+- [iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B)
+- [tellarin-ai/ntx_llm_inst_japanese](https://huggingface.co/datasets/tellarin-ai/ntx_llm_inst_japanese)
+- [p1atdev/oiocha](https://huggingface.co/datasets/p1atdev/oiocha)
+- [GENIAC-Team-Ozaki/WikiHowNFQA-ja_cleaned](https://huggingface.co/datasets/GENIAC-Team-Ozaki/WikiHowNFQA-ja_cleaned)
+- [kenkensz9/nareba1691](https://huggingface.co/datasets/kenkensz9/nareba1691)
+- [joujiboi/bluemoon-fandom-1-1-rp-jp-translated](https://huggingface.co/datasets/joujiboi/bluemoon-fandom-1-1-rp-jp-translated)
+- [mpasila/ParallelFiction-Ja_En-100k-alpaca-4k-context](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-alpaca-4k-context)
+- [Nexdata/Japanese-English_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Japanese-English_Parallel_Corpus_Data)
+- [tombailey/oasst1-ja](https://huggingface.co/datasets/tombailey/oasst1-ja)
+- [lissette/Nanami-Chiaki-audio](https://huggingface.co/datasets/lissette/Nanami-Chiaki-audio)
+- [BigleBomb/japanese-vet-terms](https://huggingface.co/datasets/BigleBomb/japanese-vet-terms)
+- [DataPilot/in-foxhound-ja](https://huggingface.co/datasets/DataPilot/in-foxhound-ja)
+- [saillab/alpaca-japanese-cleaned](https://huggingface.co/datasets/saillab/alpaca-japanese-cleaned)
+- [Ego/jpflan](https://huggingface.co/datasets/Ego/jpflan)
+- [kai271/TinyStories-Japanese](https://huggingface.co/datasets/kai271/TinyStories-Japanese)
+- [Ego/jpflan-raw](https://huggingface.co/datasets/Ego/jpflan-raw)
+- [DeL-TaiseiOzaki/reasoning-finetuning-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/reasoning-finetuning-ja)
+- [ganchengguang/Text-Classification-and-Relation-Event-Extraction-Mix-datasets](https://huggingface.co/datasets/ganchengguang/Text-Classification-and-Relation-Event-Extraction-Mix-datasets)
+- [DeL-TaiseiOzaki/magpie-qwen2.5-32B-10K-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-qwen2.5-32B-10K-ja)
+- [ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM](https://huggingface.co/datasets/ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM)
+- [sbintuitions/JCommonsenseQA](https://huggingface.co/datasets/sbintuitions/JCommonsenseQA)
+- [sbintuitions/JSQuAD](https://huggingface.co/datasets/sbintuitions/JSQuAD)
+- [ibm/AttaQ-JA](https://huggingface.co/datasets/ibm/AttaQ-JA)
+- [speed/english_quotes_ja](https://huggingface.co/datasets/speed/english_quotes_ja)
 
 
 ## Models
 
-This list is sorted by downloads as of October 22, 2024.
+This list is sorted by downloads as of October 29, 2024.
 1007 models are listed.
 
 - [tohoku-nlp/bert-base-japanese](https://huggingface.co/tohoku-nlp/bert-base-japanese)
@@ -3070,597 +3187,1023 @@ This list is sorted by downloads as of October 22, 2024.
   - Downloads: 11
 ## Datasets
 
-This list is sorted by downloads as of October 22, 2024.
-197 datasets are listed.
+This list is sorted by downloads as of October 29, 2024.
+339 datasets are listed.
 
+- [KakologArchives/KakologArchives](https://huggingface.co/datasets/KakologArchives/KakologArchives)
+  - 哔哩哔哩实况 历史记录存档是从哔哩哔哩实况服务开始至今收集的全部历史记录评论数据集。
+  - Downloads: 2,787,590
 - [nlp-waseda/JMMLU](https://huggingface.co/datasets/nlp-waseda/JMMLU)
   - JMMLU是一个包含四个选择题的问题集，其中包括MMLU的部分问题的日语翻译（已翻译的问题）和基于独特日本文化背景的问题（日语问题）。
-  - Downloads: 615,441
-- [Coldog2333/JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench)
-  - 这是JMedBench的数据集合，用于评估日本生物医药大型语言模型（LLMs）的基准。
-  - Downloads: 80,045
-- [sbintuitions/JMTEB](https://huggingface.co/datasets/sbintuitions/JMTEB)
-  - JMTEB: 谢谢!
-  - Downloads: 22,945
-- [JMMMU/JMMMU](https://huggingface.co/datasets/JMMMU/JMMMU)
-  - JMMMU：
-  - Downloads: 14,045
-- [shunk031/JGLUE](https://huggingface.co/datasets/shunk031/JGLUE)
-  - 请随时提交问题或发起拉取请求。
-  - Downloads: 12,339
-- [reazon-research/reazonspeech](https://huggingface.co/datasets/reazon-research/reazonspeech)
-  - 这个数据集包含了从地面电视信号中收集到的多样化的自然日语语音。
-  - Downloads: 2,801
-- [kunishou/databricks-dolly-15k-ja](https://huggingface.co/datasets/kunishou/databricks-dolly-15k-ja)
-  - 这个数据集是自动将"databricks-dolly-15k"翻译成日语创建的。
-  - Downloads: 2,784
-- [neulab/odex](https://huggingface.co/datasets/neulab/odex)
-  - ODEX是一个基于开放域执行的自然语言转代码生成数据基准测试。
-  - Downloads: 2,401
-- [y2lan/japan-law](https://huggingface.co/datasets/y2lan/japan-law)
-  - 日本法律这个数据集包含从日本政府官方网站e-Gov检索的8.75K条法律记录。
-  - Downloads: 1,593
-- [kunishou/J-ResearchCorpus](https://huggingface.co/datasets/kunishou/J-ResearchCorpus)
-  - J-ResearchCorpusUpdate：2024年3月16日，新增了1,343篇论文数据，其中包括了第30届自然语言处理学会年会（NLP2024）的数据。同时2024年2月25日，新增了360篇以CC-BY-4.0方式公开的《自然语言处理》学会杂志上的论文数据。这是一个从以CC-BY-*许可证方式公开的日文论文和学会杂志中提取的
-  - Downloads: 1,578
-- [elyza/ELYZA-tasks-100](https://huggingface.co/datasets/elyza/ELYZA-tasks-100)
-  - ELYZA-tasks-100: 该数据集为经过instruction-tuning的模型评估数据集。
-  - Downloads: 1,501
-- [llm-jp/hh-rlhf-12k-ja](https://huggingface.co/datasets/llm-jp/hh-rlhf-12k-ja)
-  - 这个仓库提供了由日本LLM-jp发起的合作项目开发的人类偏好数据集。
-  - Downloads: 1,175
-- [llm-book/wrime-sentiment](https://huggingface.co/datasets/llm-book/wrime-sentiment)
-  - 我正在使用在GitHub存储库ids-cv/wrime中公开的数据集。
-  - Downloads: 1,068
-- [mkshing/xlsum_ja](https://huggingface.co/datasets/mkshing/xlsum_ja)
-  - 这是XL-Sum后跟随PaLM 2filters15-gram overlap*代码的筛选日语子集：https://gist.github.com/mkshing/d6371cbfdd50d4f352cee247fd4dd86anumber of examplestrain: 4215（之前：7113）validation: 758（之前：889）test: 766（之前：889）
-  - Downloads: 815
-- [alfredplpl/anime-with-caption-cc0](https://huggingface.co/datasets/alfredplpl/anime-with-caption-cc0)
-  - 这个数据集是为了更容易地对动漫中的插图进行伦理学学习而设计的，提供了日语标题。
-  - Downloads: 719
-- [cl-nagoya/auto-wiki-qa](https://huggingface.co/datasets/cl-nagoya/auto-wiki-qa)
-  - 使用由东京工业大学开发的Swallow-MX，利用维基百科中的文本作为输入，生成“问题（query）”和“答案（answer）”，并对生成的问题和答案进行了筛选的数据集。
-  - Downloads: 650
-- [llm-book/llm-jp-eval](https://huggingface.co/datasets/llm-book/llm-jp-eval)
-  - 我正在使用与原始网站相同的内容。
-  - Downloads: 610
-- [kogi-jwu/jhumaneval](https://huggingface.co/datasets/kogi-jwu/jhumaneval)
-  - LLM 代码生成能力的标准基准测试 HumanEval 的日文翻译版本。
-  - Downloads: 608
-- [oshizo/ASRClustering-ja](https://huggingface.co/datasets/oshizo/ASRClustering-ja)
-  - 用于嵌入模型训练和评估的聚类数据集。
-  - Downloads: 573
-- [SakanaAI/ChouBun](https://huggingface.co/datasets/SakanaAI/ChouBun)
-  - ChouBun数据集描述ChouBun是用于评估LLM在长文本任务中表现的基准，专门针对日语语言。
-  - Downloads: 549
-- [kumapo/JAQKET](https://huggingface.co/datasets/kumapo/JAQKET)
-  - 创建的数据集参照了现有研究[7]，是基于Wikipedia2的文章标题作为答案的日语开放领域问答（QA）任务数据集。
-  - Downloads: 473
-- [Aratako/Magpie-Tanuki-8B-97k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-8B-97k)
-  - 喜鹊-狸-8B-97k是将喜鹊的技术应用于weblab-GENIAC/Tanuki-8B-dpo-v1.0创建的，包含97269条日语对话数据的数据集。
-  - Downloads: 379
-- [joujiboi/japanese-anime-speech-v2](https://huggingface.co/datasets/joujiboi/japanese-anime-speech-v2)
-  - 日本动漫演讲数据集V2是专为训练自动语音识别模型而设计的音频文本数据集。
-  - Downloads: 377
-- [yuzuai/rakuda-questions](https://huggingface.co/datasets/yuzuai/rakuda-questions)
-  - Rakuda - 针对日本模特的问题Repository:
-  - Downloads: 362
-- [llm-book/ner-wikipedia-dataset](https://huggingface.co/datasets/llm-book/ner-wikipedia-dataset)
-  - 我正在使用 Github 仓库 stockmarkteam/ner-wikipedia-dataset 中公开的数据集。
-  - Downloads: 357
-- [globis-university/aozorabunko-clean](https://huggingface.co/datasets/globis-university/aozorabunko-clean)
-  - 概述：这个数据集提供了一个方便易用的数据格式，来自青空文庫（Aozora Bunko）网站，该网站汇编了日本的公共领域图书，非常适合机器学习应用。
-  - Downloads: 274
+  - Downloads: 210,947
 - [nyanko7/danbooru2023](https://huggingface.co/datasets/nyanko7/danbooru2023)
   - Danbooru2023：
-  - Downloads: 239
-- [sbintuitions/aio-extended-answers](https://huggingface.co/datasets/sbintuitions/aio-extended-answers)
-  - AIO（AI王）是一个日本问答数据集。
-  - Downloads: 238
-- [hotchpotch/JQaRA](https://huggingface.co/datasets/hotchpotch/JQaRA)
-  - JQaRA：具有检索增强功能的日语问答 - 随着高性能LLM的出现，基于LLM进行问答的应用案例正在增加，这为评估检索增强（RAG）提供了日语问答数据集。
-  - Downloads: 236
-- [shunk031/wrime](https://huggingface.co/datasets/shunk031/wrime)
-  - 在这项研究中，我们介绍了一个用于情绪强度估计的新数据集 WRIME。
-  - Downloads: 235
-- [hpprc/jawiki](https://huggingface.co/datasets/hpprc/jawiki)
-  - JaWikiWikipedia 的 HTML 格式转储文件中提取的文本数据集。
-  - Downloads: 211
-- [izumi-lab/llm-japanese-dataset](https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset)
-  - LLM構建用的日语指令（聊天）数据集主要用于英语构建的LLM模型等，可用于通过LoRA等进行调整以进行聊天（指令）回应任务。
-  - Downloads: 210
-- [hotchpotch/JaCWIR](https://huggingface.co/datasets/hotchpotch/JaCWIR)
-  - JaCWIR: 日本休閒網路IR - 日本語情報検索的小规模休闲网络标题和摘要数据集。近年，大型语言模型（LLM）的出现使得使用通用日语进行自然搜索查询的用例增加。
-  - Downloads: 206
-- [llm-book/jawiki-sentences](https://huggingface.co/datasets/llm-book/jawiki-sentences)
-  - 我正在使用 GitHub 仓库 singletongue/wikipedia-utils 上公开的数据集。
-  - Downloads: 173
-- [llm-book/aio-retriever](https://huggingface.co/datasets/llm-book/aio-retriever)
-  - 我正在使用 GitHub 仓库 cl-tohoku/quiz-datasets 上发布的数据集。
-  - Downloads: 172
-- [Silviase/Japanese-Heron-Bench](https://huggingface.co/datasets/Silviase/Japanese-Heron-Bench)
-  - 这个数据集是日本鹭台构建日本评估基准套件所包含的图像、上下文和问题集的澄清版本。
-  - Downloads: 166
-- [SakanaAI/JA-VG-VQA-500](https://huggingface.co/datasets/SakanaAI/JA-VG-VQA-500)
-  - JA-VG-VQA-500 数据集描述JA-VG-VQA-500 是日本视觉基因问答数据集的一个包含500个样本的子集。
-  - Downloads: 166
-- [nu-dialogue/jmultiwoz](https://huggingface.co/datasets/nu-dialogue/jmultiwoz)
-  - 数据集概要 JMultiWOZ 是一个大规模的日本多领域任务导向对话数据集。
-  - Downloads: 166
-- [taishi-i/awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)
-  - 数据集概述该数据集用于确定 GitHub 代码库描述是否涉及日语自然语言处理（NLP）。
-  - Downloads: 160
-- [sudy-super/dialogsum-ja](https://huggingface.co/datasets/sudy-super/dialogsum-ja)
-  - 这个数据集是日语对话摘要数据集，翻译了dialogsum、CSDS等内容。
-  - Downloads: 142
-- [SkelterLabsInc/JaQuAD](https://huggingface.co/datasets/SkelterLabsInc/JaQuAD)
-  - JaQuAD是为了提供类似于SQuAD风格的日语问答数据集而开发的。
-  - Downloads: 139
-- [llm-jp/oasst2-33k-ja](https://huggingface.co/datasets/llm-jp/oasst2-33k-ja)
-  - 该存储库提供了由LLM-jp开发的指令调优数据集，这是日本发起的一个协作项目。
-  - Downloads: 138
-- [llm-jp/databricks-dolly-15k-ja](https://huggingface.co/datasets/llm-jp/databricks-dolly-15k-ja)
-  - 这个仓库提供了一个由LLM-jp开发的指导调整数据集，这是一个在日本启动的协作项目。
-  - Downloads: 131
-- [llm-jp/mbpp-ja](https://huggingface.co/datasets/llm-jp/mbpp-ja)
-  - 该存储库提供了一个由日本合作项目LLM-jp翻译的mbpp数据集，该数据集是从英语翻译成日语的。
-  - Downloads: 129
-- [llm-book/livedoor-news-corpus](https://huggingface.co/datasets/llm-book/livedoor-news-corpus)
-  - 我正在使用与原始网站相同的内容。
-  - Downloads: 119
-- [kunishou/HelpSteer-35k-ja](https://huggingface.co/datasets/kunishou/HelpSteer-35k-ja)
-  - NVIDIA发布的面向SteerLM的试用数据集HelpSteer已被翻译成日语的自动翻译数据集。
-  - Downloads: 105
-- [nu-dialogue/real-persona-chat](https://huggingface.co/datasets/nu-dialogue/real-persona-chat)
-  - 请查看 GitHub 获取更多详细信息。
-  - Downloads: 101
-- [kunishou/oasst1-89k-ja](https://huggingface.co/datasets/kunishou/oasst1-89k-ja)
-  - 这个数据集是通过将"OpenAssistant/oasst1"自动翻译成日语而创建的。
-  - Downloads: 85
+  - Downloads: 8,450
+- [Coldog2333/JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench)
+  - 这是JMedBench的数据集合，用于评估日本生物医药大型语言模型（LLMs）的基准。
+  - Downloads: 5,245
+- [joujiboi/japanese-anime-speech-v2](https://huggingface.co/datasets/joujiboi/japanese-anime-speech-v2)
+  - 日本动漫演讲数据集V2是专为训练自动语音识别模型而设计的音频文本数据集。
+  - Downloads: 3,994
+- [neulab/odex](https://huggingface.co/datasets/neulab/odex)
+  - ODEX是一个基于开放域执行的自然语言转代码生成数据基准测试。
+  - Downloads: 2,677
+- [shunk031/JGLUE](https://huggingface.co/datasets/shunk031/JGLUE)
+  - 请随时提交问题或发起拉取请求。
+  - Downloads: 2,368
+- [elyza/ELYZA-tasks-100](https://huggingface.co/datasets/elyza/ELYZA-tasks-100)
+  - ELYZA-tasks-100: 该数据集为经过instruction-tuning的模型评估数据集。
+  - Downloads: 2,037
+- [jpft/danbooru2023](https://huggingface.co/datasets/jpft/danbooru2023)
+  - 淘宝2023:
+  - Downloads: 2,022
 - [joujiboi/japanese-anime-speech](https://huggingface.co/datasets/joujiboi/japanese-anime-speech)
   - 日本动漫演讲数据集是一个音频文本数据集，旨在用于训练自动语音识别模型。
-  - Downloads: 83
-- [matsuxr/JaGovFaqs-22k](https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k)
-  - 这个数据集包含了从日本政府部门官方网站上手动提取的“常见问题”信息，用作指导数据集。
-  - Downloads: 82
-- [kunishou/OpenMathInstruct-1-1.8m-ja](https://huggingface.co/datasets/kunishou/OpenMathInstruct-1-1.8m-ja)
-  - OpenMathInstruct-1 被自動翻譯為日文，是一個包含180萬條指示的調整數據集，可供商業使用。
-  - Downloads: 79
-- [Aratako/Japanese-RP-Bench-testdata-SFW](https://huggingface.co/datasets/Aratako/Japanese-RP-Bench-testdata-SFW)
-  - 这个数据集是用于评估LLM（Large Language Model）的日语角色扮演能力的基准测试数据集Japanese-RP-Bench。
-  - Downloads: 64
-- [llm-book/jsnli](https://huggingface.co/datasets/llm-book/jsnli)
-  - JSNLI版本1.1中经过筛选的训练集（train_w_filtering）。
-  - Downloads: 60
-- [llm-book/jawiki-paragraphs](https://huggingface.co/datasets/llm-book/jawiki-paragraphs)
-  - 我正在使用 GitHub 仓库 singletongue/wikipedia-utils 中公开的数据集。
-  - Downloads: 58
-- [toshi456/llava-bench-in-the-wild-ja](https://huggingface.co/datasets/toshi456/llava-bench-in-the-wild-ja)
-  - 这个数据集是对MBZUAI/multilingual-llava-bench-in-the-wild中日语数据的翻译错误和未翻译数据进行更正后的数据。
-  - Downloads: 56
-- [recruit-jp/japanese-image-classification-evaluation-dataset](https://huggingface.co/datasets/recruit-jp/japanese-image-classification-evaluation-dataset)
-  - 日本图像分类评估数据集概述开发者：Recruit Co.
-  - Downloads: 54
-- [range3/cc100-ja](https://huggingface.co/datasets/range3/cc100-ja)
-  - 该数据集由cc100数据集中仅提取和分片的日语语言的Parquet文件组成。
-  - Downloads: 52
-- [taishi-i/nagisa_stopwords](https://huggingface.co/datasets/taishi-i/nagisa_stopwords)
-  - 这是一个常用词列表，根据日文文本分析库nagisa的分词规则创建。
-  - Downloads: 49
-- [bclavie/mmarco-japanese-hard-negatives](https://huggingface.co/datasets/bclavie/mmarco-japanese-hard-negatives)
-  - [施工中] 这是一个存储库，包含了MMarco数据集的日语部分所有查询，这是MSMarco数据集的多语言版本。
-  - Downloads: 49
-- [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted)
-  - 合成-日语-角色扮演-gpt-4o-mini-39.6k格式化20240907 数据增量（约19800条→约39600条） 概要 使用gpt-4o-mini创建的日语角色扮演数据集，Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k，已添加系统消息并进行格式化处理的数据集。
-  - Downloads: 49
-- [defunct-datasets/amazon_reviews_multi](https://huggingface.co/datasets/defunct-datasets/amazon_reviews_multi)
-  - 我们提供一个用于多语言文本分类的亚马逊产品评论数据集。
-  - Downloads: 45
-- [hpprc/mqa-ja](https://huggingface.co/datasets/hpprc/mqa-ja)
-  - 这是一个已删除mqa数据集中query-passage重复项的数据集。
-  - Downloads: 38
-- [p1atdev/LLM-jp-Toxicity-Dataset](https://huggingface.co/datasets/p1atdev/LLM-jp-Toxicity-Dataset)
-  - LLM-jp 有害性数据集-日文有害文档数据集“LLM-jp 有害性数据集” 请参阅https://gitlab.llm-jp.nii.ac.jp/datasets/llm-jp-toxicity-dataset
-  - Downloads: 38
-- [ikeno-ada/Japanese-English_translation_of_contents_HScodes](https://huggingface.co/datasets/ikeno-ada/Japanese-English_translation_of_contents_HScodes)
-  - 根据由日本邮政提供的《国际邮政　包裹内容的日英・中英翻译、HS编码等》（2024/05/09）数据。
-  - Downloads: 37
-- [kubota/defamation-japanese-twitter](https://huggingface.co/datasets/kubota/defamation-japanese-twitter)
-  - 在 Twitter 上的誹謗中傷检测的日语数据集概述：这是用于检测社交网络中的中伤言论的数据集。
-  - Downloads: 36
-- [if001/aozorabunko-clean-sin](https://huggingface.co/datasets/if001/aozorabunko-clean-sin)
-  - 这是forkhttps://huggingface.co/datasets/globis-university/aozorabunko-cleanfilteredrow["meta"]["文字遣い種別"] == "新字新仮名"
-  - Downloads: 33
-- [kunishou/HelpSteer2-20k-ja](https://huggingface.co/datasets/kunishou/HelpSteer2-20k-ja)
-  - NVIDIA发布的针对SteerLM的试用数据集HelpSteer2是自动生成的日文翻译数据集。
-  - Downloads: 33
-- [turing-motors/LLaVA-Instruct-150K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Instruct-150K-JA)
-  - 数据集详情 数据集类型：日文LLaVA Instruct 150K 是原始 LLaVA Visual Instruct 150K 数据集的本地化版本。
-  - Downloads: 33
-- [yulanfmy/databricks-qa-ja](https://huggingface.co/datasets/yulanfmy/databricks-qa-ja)
-  - 这是一个关于手动创建的Databricks问题和答案对的日文数据集概要。
-  - Downloads: 33
-- [p1atdev/ichikara-instruction](https://huggingface.co/datasets/p1atdev/ichikara-instruction)
-  - 力指令（非商业）为LLM准备的日文指令数据。 我们将在公开页面上从中发布此数据，关于这份数据，我们将在语言处理学会第30届年会上进行发表。
-  - Downloads: 31
-- [turing-motors/Japanese-Heron-Bench](https://huggingface.co/datasets/turing-motors/Japanese-Heron-Bench)
-  - 日本鹭山庄数据集描述日本鹭山庄是用于评估日本VLMs（视觉语言模型）的基准。
-  - Downloads: 30
-- [fujiki/japanese_alpaca_data](https://huggingface.co/datasets/fujiki/japanese_alpaca_data)
-  - [github]。
-  - Downloads: 29
-- [kanhatakeyama/AutoMultiTurnByCalm3-22B](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByCalm3-22B)
-  - 这是使用Calm3-22b从开放式数据源自动生成的Q&A多轮数据集。部分计算使用了东京工业大学的超级计算机TSUBAME4.0。数据源中的起始问题(q1)是从各种数据源收集而来的。随后的对话全部由Calm生成。关于问题文本，遵守原始数据的许可。oasst2-33k-jaapache 2.0databricks-dolly-15k-jacc
-  - Downloads: 28
-- [shunk031/jsnli](https://huggingface.co/datasets/shunk031/jsnli)
-  - 数据集预处理支持的任务和排行榜语言注释都以日语为主要语言。
-  - Downloads: 26
-- [deepghs/fgo_voices_jp](https://huggingface.co/datasets/deepghs/fgo_voices_jp)
-  - JP Voice-Text Dataset for日语语音文本数据集
-  - Downloads: 26
-- [llm-book/ja-vicuna-qa-benchmark](https://huggingface.co/datasets/llm-book/ja-vicuna-qa-benchmark)
-  - 我正在使用原始的網站。
-  - Downloads: 25
-- [range3/wikipedia-ja-20230101](https://huggingface.co/datasets/range3/wikipedia-ja-20230101)
-  - 这个数据集包括了从维基百科数据集中提取出的仅包含日语数据的Parquet文件。
-  - Downloads: 24
-- [DataPilot/Generated-dataset-by-deepseek-v2.5](https://huggingface.co/datasets/DataPilot/Generated-dataset-by-deepseek-v2.5)
-  - 这个数据集是使用null-instruct-ja和DeepSeek-v2.5的q4合成而成的。
-  - Downloads: 23
-- [aixsatoshi/Longcontext-aozora-summary](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-summary)
-  - 这是一个来自长篇文本的摘要数据集。
-  - Downloads: 22
-- [stockmark/ner-wikipedia-dataset](https://huggingface.co/datasets/stockmark/ner-wikipedia-dataset)
-  - 使用维基百科提取日本语特定实体的数据集GitHub链接：https://github.com/stockmarkteam/ner-wikipedia-dataset/许可协议：CC-BY-SA 3.0 由 Stockmark 公司开发。
-  - Downloads: 22
-- [izumi-lab/llm-japanese-dataset-vanilla](https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset-vanilla)
-  - 用于构建vanillaLLM的日语聊天数据集izumi-lab/llm-japanese-dataset中提取了没有日英翻译数据集等的部分数据。
-  - Downloads: 22
-- [hpprc/llmjp-warp-html](https://huggingface.co/datasets/hpprc/llmjp-warp-html)
-  - 将经过level2筛选的llm-jp-corpus-v3中的warp_html转换为HF格式，获取并附加了从每个数据的URL中获取原始文章标题的数据集。
-  - Downloads: 21
-- [if001/elementray_m](https://huggingface.co/datasets/if001/elementray_m)
-  - 使用calm3-22b创建了一个包含简单日语例句的数据集。
-  - Downloads: 20
-- [Fhrozen/CABankSakuraCHJP](https://huggingface.co/datasets/Fhrozen/CABankSakuraCHJP)
-  - CABank日语CallHome语料库 参与者：120 研究类型：电话呼叫 地点：美国 媒体类型：音频 DOI：doi:10.21415/T5H59V 网址：https://ca.talkbank.org/access/CallHome/jpn.html 引用信息此处有引用。
-  - Downloads: 20
-- [llm-book/ner-wikinews-dataset](https://huggingface.co/datasets/llm-book/ner-wikinews-dataset)
-  - 固有表现标签采用了与llm-book/ner-wikipedia-dataset相同的标签体系，共有8种类型（人名、法人名、地名、产品名、政治组织名、机构名、其他组织名、事件名）。
-  - Downloads: 20
-- [Kendamarron/jimba-instuction-1k-beta](https://huggingface.co/datasets/Kendamarron/jimba-instuction-1k-beta)
-  - 通过人工检查和修正cyberagent/calm2-7b-chat的输出，创建了这个日文Instruction数据集。
-  - Downloads: 20
-- [Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k)
-  - 利用Synthetic-JP-Roleplay-Instruction-Nemotron-4 Magpie的方法应用于nvidia/Nemotron-4-340B-Instruct，创建了约1000条用于日语角色扮演的instruction数据集。
-  - Downloads: 16
-- [Helsinki-NLP/tatoeba](https://huggingface.co/datasets/Helsinki-NLP/tatoeba)
-  - 加载一个不在配置中的语言对，你只需指定语言代码作为对。
-  - Downloads: 16
-- [allganize/RAG-Evaluation-Dataset-JA](https://huggingface.co/datasets/allganize/RAG-Evaluation-Dataset-JA)
-  - Allganize RAG Leaderboard是什么？Allganize RAG Leaderboard对五个行业领域（金融、信息通信、制造、公共和流通零售）进行了日语RAG性能评估。
-  - Downloads: 15
-- [llm-book/aio-passages](https://huggingface.co/datasets/llm-book/aio-passages)
-  - 我正在使用 GitHub 存储库 cl-tohoku/quiz-datasets 中发布的数据集。
-  - Downloads: 14
-- [Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k)
-  - 使用Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1knvidia/Nemotron-4-340B-Instruct生成的，包含约1000个对话，每个对话有10轮的日语角色扮演对话的合成对话数据集。
-  - Downloads: 14
-- [oshizo/japanese-wikipedia-paragraphs](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs)
-  - 对单语/维基百科工具的解析和分块方法进行了轻微修改版本。
-  - Downloads: 13
-- [Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k)
-  - 将Magpie的方法应用于nvidia的Nemotron-4-340B-Instruct，并创建了约10000条日语编码对话数据集。
-  - Downloads: 13
-- [shi3z/OpenOrcaJapanese](https://huggingface.co/datasets/shi3z/OpenOrcaJapanese)
-  - OpenOrca数据集的日语翻译版本位于https://huggingface.co/datasets/Open-Orca/OpenOrca。目前正在进行翻译工作，OpenOrca整体的1/5翻译已完成，现在暂时公开。
-  - Downloads: 13
+  - Downloads: 1,994
+- [kunishou/databricks-dolly-15k-ja](https://huggingface.co/datasets/kunishou/databricks-dolly-15k-ja)
+  - 这个数据集是自动将"databricks-dolly-15k"翻译成日语创建的。
+  - Downloads: 1,474
 - [turing-motors/Cauldron-JA](https://huggingface.co/datasets/turing-motors/Cauldron-JA)
   - 大锅是一个庞大的集合，包含了50个视觉-语言数据集（仅用于训练），这些数据集被用于微调视觉-语言模型Idefics2。
-  - Downloads: 13
-- [Aratako/Synthetic-JP-EN-Coding-Dataset-801k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-801k)
-  - 由Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k中的数据集衍生而来，使用了Evol-Instruct等方法生成了多个指令和响应，扩展并创建了日英混合共801262个条目的代码SFT合成数据集。
-  - Downloads: 12
-- [turing-motors/LLaVA-Pretrain-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Pretrain-JA)
-  - 数据集详细信息 数据集类型:Japanese LLaVA Pretrain是原始LLaVA Pretrain数据集的本地化版本。
-  - Downloads: 12
-- [hpprc/janli](https://huggingface.co/datasets/hpprc/janli)
-  - 受英语HANS数据集启发，JaNLI（Japanese Adversarial NLI）数据集旨在促使对日语语言现象的理解，并揭示模型的弱点。
-  - Downloads: 11
-- [ryo0634/bsd_ja_en](https://huggingface.co/datasets/ryo0634/bsd_ja_en)
-  - 该数据集是通过以下3个步骤构建的：选择商业场景，根据所选场景编写单语对话情景，然后将这些情景翻译成另一种语言。
-  - Downloads: 11
-- [sudy-super/CoTangent](https://huggingface.co/datasets/sudy-super/CoTangent)
-  - CoTangent是人工制作的高质量、清洁的100套日语CoT数据集。
-  - Downloads: 11
-- [llm-book/aio-passages-bpr-bert-base-japanese-v3](https://huggingface.co/datasets/llm-book/aio-passages-bpr-bert-base-japanese-v3)
-  - 对于 llm-book/aio-passages 数据集，使用 llm-book/bert-base-japanese-v3-bpr-passage-encoder 生成的文章的二进制向量已经添加到 embeddings 字段中。
-  - Downloads: 11
-- [polm-stability/jblimp](https://huggingface.co/datasets/polm-stability/jblimp)
-  - JBLiMP是来自于《JBLiMP：日语语言最小对照基准》的数据（Someya和Oseki，2023）。
-  - Downloads: 19
-- [DataPilot/databricks-dolly-15k-Nyan-ja](https://huggingface.co/datasets/DataPilot/databricks-dolly-15k-Nyan-ja)
-  - 这个数据集是由kunishou先生发布的“databricks-dolly-15k”经过日本翻译后得到的kunishou/databricks-dolly-15k-ja数据集，使用ArrowPro-7B-KUJIRA来添加结尾“にゃん！”
-  - Downloads: 18
-- [mohamed-khalil/KaidanNihonbunka](https://huggingface.co/datasets/mohamed-khalil/KaidanNihonbunka)
-  - 怪谭日本文化：百物语鬼故事之旅 欢迎来到怪谭日本文化数据集 关于名称怪谭日本文化在日语中翻译为：怪谭（Kwaidan）：鬼故事或超自然故事。
-  - Downloads: 18
-- [Nexdata/English-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/English-Japanese_Parallel_Corpus_Data)
-  - 它涵盖了多个领域，如旅游、医疗、日常生活、新闻等。
-  - Downloads: 17
-- [hpprc/quiz-no-mori](https://huggingface.co/datasets/hpprc/quiz-no-mori)
-  - 这是一份包含Quiz no Mori网站上的可获取的、截至2024年8月5日为止以“自由使用许可级别”提供的题目的数据集。
-  - Downloads: 15
-- [HachiML/alpaca_jp_python](https://huggingface.co/datasets/HachiML/alpaca_jp_python)
-  - alpaca_jp_python是通过Stanford Alpaca的mistralai/Mixtral-8x22B-Instruct-v0.1方法创建的合成数据。
-  - Downloads: 12
-- [hatakeyama-llm-team/japanese2010](https://huggingface.co/datasets/hatakeyama-llm-team/japanese2010)
-  - 2010年的日语网页语料库是上传到Hugging Face的数据。根据2009年版权法的修正（根据平成21年度国家常年会议版权法的修改等|文化厅），仅限用于信息分析研究。使用形态分析自动添加句点。包括转换代码转换脚本和形态分析等。
-  - Downloads: 12
-- [zetavg/ShareGPT-Processed](https://huggingface.co/datasets/zetavg/ShareGPT-Processed)
-  - ShareGPT处理的RyokoAI/ShareGPT52K数据集，已转换为Markdown，并标有所使用的语言。
-  - Downloads: 11
-- [JapanDegitalMaterial/Places_in_Japan](https://huggingface.co/datasets/JapanDegitalMaterial/Places_in_Japan)
-  - 日本的地方。
-  - Downloads: 515
-- [YANS-official/ogiri-keitai](https://huggingface.co/datasets/YANS-official/ogiri-keitai)
-  - NHK 定期播出的《收到来电要回复！
-  - Downloads: 58
-- [AhmedSSabir/Japanese-wiki-dump-sentence-dataset](https://huggingface.co/datasets/AhmedSSabir/Japanese-wiki-dump-sentence-dataset)
-  - 数据集5M（5121625）清洗日语全句及其上下文。
-  - Downloads: 32
-- [tohoku-nlp/abc-multiple-choice](https://huggingface.co/datasets/tohoku-nlp/abc-multiple-choice)
-  - abc-multiple-choice数据集是基于竞技问答比赛“abc”使用的四选一问题而创建的多项选择问答数据集。
-  - Downloads: 30
-- [range3/wiki40b-ja](https://huggingface.co/datasets/range3/wiki40b-ja)
-  - 这个数据集包含三个parquet文件，来自wiki40b数据集，其中只提取了日语数据。
-  - Downloads: 29
-- [hpprc/jsick](https://huggingface.co/datasets/hpprc/jsick)
-  - 数据集。
-  - Downloads: 21
-- [hpprc/alt-parallel-en-ja](https://huggingface.co/datasets/hpprc/alt-parallel-en-ja)
-  - 亚洲语言树库（ALT）项目ALT
-  - Downloads: 20
-- [community-datasets/covid_tweets_japanese](https://huggingface.co/datasets/community-datasets/covid_tweets_japanese)
-  - 注释是通过5-10名众包工作者的多数决定。
-  - Downloads: 18
-- [Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k)
-  - Synthetic-JP-EN-Coding-Dataset-Magpie-69kMagpie的方法被应用于各种模型并创建了约69000条日语和英语编码对话数据集。
-  - Downloads: 11
-- [sakusakumura/databricks-dolly-15k-ja-scored](https://huggingface.co/datasets/sakusakumura/databricks-dolly-15k-ja-scored)
-  - 请点击这里查看英文版本。
-  - Downloads: 11
-- [YANS-official/ogiri-debug](https://huggingface.co/datasets/YANS-official/ogiri-debug)
-  - 从数据集中导入数据集的加载方式：from datasets import load_dataset dataset = load_dataset("YANS-official/ogiri-debug", split="test")。概要：这是用于大喜利生成的操作确认的数据集。
-  - Downloads: 1,040
-- [YANS-official/senryu-debug](https://huggingface.co/datasets/YANS-official/senryu-debug)
-  - 从datasets导入load_dataset，数据集=加载数据集（"YANS-official/senryu-debug"，拆分="测试"） 概述 这是用于确认大喜剧生成的数据集。
-  - Downloads: 1,019
-- [YANS-official/senryu-shashin](https://huggingface.co/datasets/YANS-official/senryu-shashin)
-  - 从数据集导入加载数据集的方式：from datasets import load_dataset，加载数据集：dataset = load_dataset("YANS-official/senryu-shashin", split="train")。概述：这是东建公司旗下的Home Mate Research举办的“Home Mate Senryu大奖”之一，涉及提供图像形式题目的“摄影川柳”的爬取数据。
-  - Downloads: 509
-- [YANS-official/senryu-test](https://huggingface.co/datasets/YANS-official/senryu-test)
-  - 从数据集导入加载数据集的方法为： from datasets import load_dataset dataset = load_dataset("YANS-official/senryu-test", split="test") 概述：该数据集包含了从川柳投稿网站“写真川柳”和“川柳投稿まるせん”爬取的数据，以及由YANS委员会创建的数据。
-  - Downloads: 442
-- [YANS-official/senryu-marusen](https://huggingface.co/datasets/YANS-official/senryu-marusen)
-  - 从数据集导入加载数据集的方式。数据集 = load_dataset("YANS-official/senryu-marusen", split="train")。这是国内最大规模的川绘投稿网站『川竹投稿まる洗』的爬取数据，每月有1万句以上的投稿。
-  - Downloads: 398
-- [YANS-official/ogiri-test](https://huggingface.co/datasets/YANS-official/ogiri-test)
-  - 从数据集导入加载数据的方式 导入数据集数据集=加载数据集(“YANS-official/ogiri-test", 分割="测试”) 概述 这是大喜利投稿网站Bokete的爬虫数据。
-  - Downloads: 252
-- [YANS-official/ogiri-bokete](https://huggingface.co/datasets/YANS-official/ogiri-bokete)
-  - 从数据集导入读取数据的方法：from datasets import load_dataset dataset = load_dataset("YANS-official/ogiri-bokete", split="train") 概要：这是大喜剧投稿网站Bokete的抓取数据。
-  - Downloads: 170
-- [kanhatakeyama/CreativeCommons-RAG-QA-Mixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/CreativeCommons-RAG-QA-Mixtral8x22b)
-  - 这是根据从以下数据源随机提取的日语文本生成的RAG格式的Q&A，旨在用于预训练而不是作为Wikibooks、Wikipedia、案例数据指导进行使用（用于训练问题和回答）。在某些计算中使用了东京工业大学的超级计算机TSUBAME4.0。
-  - Downloads: 40
-- [SNOW-NLP/snow_simplified_japanese_corpus](https://huggingface.co/datasets/SNOW-NLP/snow_simplified_japanese_corpus)
-  - 这个语料库有5万个手动简化过且对齐的句子。
-  - Downloads: 27
-- [izumi-lab/sciq-ja-mbartm2m](https://huggingface.co/datasets/izumi-lab/sciq-ja-mbartm2m)
-  - 数据集描述这是sciq的日语翻译版本。
-  - Downloads: 24
-- [saldra/sakura_japanese_dataset](https://huggingface.co/datasets/saldra/sakura_japanese_dataset)
-  - Sakura_dataset 是一个可以用于商业用途的超小规模高质量的日语数据集。
-  - Downloads: 24
-- [Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k)
-  - 通过应用Synthetic-JP-Conversations-Magpie-Nemotron-4-10kMagpie的方法，我们创建了一个约10000条用于日语指令调整的数据集，用于对nvidia/Nemotron-4-340B-Instruct进行调整。
-  - Downloads: 20
-- [werty1248/OpenOrca-EnKoZhJa-18k](https://huggingface.co/datasets/werty1248/OpenOrca-EnKoZhJa-18k)
-  - 这个数据集是韩文、中文和日文的OpenOrca翻译数据集。
-  - Downloads: 19
-- [turing-motors/LLaVA-v1.5-Instruct-620K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-v1.5-Instruct-620K-JA)
-  - 数据集详情数据集类型：日语 LLaVA v1.5
-  - Downloads: 17
-- [baobab-trees/wikipedia-human-retrieval-ja](https://huggingface.co/datasets/baobab-trees/wikipedia-human-retrieval-ja)
-  - 日本维基百科人工检索数据集。这是一个由训练有素的人类工作者在维基百科文章中进行检索的日本问答数据集。
-  - Downloads: 16
+  - Downloads: 1,448
+- [sbintuitions/JMTEB](https://huggingface.co/datasets/sbintuitions/JMTEB)
+  - JMTEB: 谢谢!
+  - Downloads: 1,142
+- [hotchpotch/wikipedia-passages-jawiki-embeddings](https://huggingface.co/datasets/hotchpotch/wikipedia-passages-jawiki-embeddings)
+  - 维基百科上的日语文本被转换为各种日语嵌入和faiss索引。
+  - Downloads: 1,140
+- [JMMMU/JMMMU](https://huggingface.co/datasets/JMMMU/JMMMU)
+  - JMMMU：
+  - Downloads: 976
+- [defunct-datasets/amazon_reviews_multi](https://huggingface.co/datasets/defunct-datasets/amazon_reviews_multi)
+  - 我们提供一个用于多语言文本分类的亚马逊产品评论数据集。
+  - Downloads: 953
+- [Helsinki-NLP/tatoeba](https://huggingface.co/datasets/Helsinki-NLP/tatoeba)
+  - 加载一个不在配置中的语言对，你只需指定语言代码作为对。
+  - Downloads: 889
+- [ayousanz/voicevox-voice-corpus](https://huggingface.co/datasets/ayousanz/voicevox-voice-corpus)
+  - 使用VOICEVOX制作人工语音数据集 使用了文本语料库：ITA、つくよみちゃん、ROHAN 数据集容量信息请查看文件夹内。
+  - Downloads: 880
+- [range3/cc100-ja](https://huggingface.co/datasets/range3/cc100-ja)
+  - 该数据集由cc100数据集中仅提取和分片的日语语言的Parquet文件组成。
+  - Downloads: 653
+- [llm-book/wrime-sentiment](https://huggingface.co/datasets/llm-book/wrime-sentiment)
+  - 我正在使用在GitHub存储库ids-cv/wrime中公开的数据集。
+  - Downloads: 648
+- [mkshing/xlsum_ja](https://huggingface.co/datasets/mkshing/xlsum_ja)
+  - 这是XL-Sum后跟随PaLM 2filters15-gram overlap*代码的筛选日语子集：https://gist.github.com/mkshing/d6371cbfdd50d4f352cee247fd4dd86anumber of examplestrain: 4215（之前：7113）validation: 758（之前：889）test: 766（之前：889）
+  - Downloads: 575
+- [kumapo/JAQKET](https://huggingface.co/datasets/kumapo/JAQKET)
+  - 创建的数据集参照了现有研究[7]，是基于Wikipedia2的文章标题作为答案的日语开放领域问答（QA）任务数据集。
+  - Downloads: 568
+- [jaCappella/jaCappella](https://huggingface.co/datasets/jaCappella/jaCappella)
+  - jaCappella语料库：日本无伴奏声乐合唱团语料库。jaCappella语料库是一个由日本无伴奏声乐合唱团组成的语料库。
+  - Downloads: 539
+- [kunishou/oasst1-89k-ja](https://huggingface.co/datasets/kunishou/oasst1-89k-ja)
+  - 这个数据集是通过将"OpenAssistant/oasst1"自动翻译成日语而创建的。
+  - Downloads: 528
+- [lmg-anon/vntl-leaderboard](https://huggingface.co/datasets/lmg-anon/vntl-leaderboard)
+  - VNTL 排行榜
+  - Downloads: 526
+- [cl-nagoya/auto-wiki-qa](https://huggingface.co/datasets/cl-nagoya/auto-wiki-qa)
+  - 使用由东京工业大学开发的Swallow-MX，利用维基百科中的文本作为输入，生成“问题（query）”和“答案（answer）”，并对生成的问题和答案进行了筛选的数据集。
+  - Downloads: 502
+- [kunishou/HelpSteer-35k-ja](https://huggingface.co/datasets/kunishou/HelpSteer-35k-ja)
+  - NVIDIA发布的面向SteerLM的试用数据集HelpSteer已被翻译成日语的自动翻译数据集。
+  - Downloads: 451
+- [reazon-research/reazonspeech](https://huggingface.co/datasets/reazon-research/reazonspeech)
+  - 这个数据集包含了从地面电视信号中收集到的多样化的自然日语语音。
+  - Downloads: 429
+- [globis-university/aozorabunko-clean](https://huggingface.co/datasets/globis-university/aozorabunko-clean)
+  - 概述：这个数据集提供了一个方便易用的数据格式，来自青空文庫（Aozora Bunko）网站，该网站汇编了日本的公共领域图书，非常适合机器学习应用。
+  - Downloads: 416
+- [izumi-lab/llm-japanese-dataset](https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset)
+  - LLM構建用的日语指令（聊天）数据集主要用于英语构建的LLM模型等，可用于通过LoRA等进行调整以进行聊天（指令）回应任务。
+  - Downloads: 395
+- [kunishou/J-ResearchCorpus](https://huggingface.co/datasets/kunishou/J-ResearchCorpus)
+  - J-ResearchCorpusUpdate：2024年3月16日，新增了1,343篇论文数据，其中包括了第30届自然语言处理学会年会（NLP2024）的数据。同时2024年2月25日，新增了360篇以CC-BY-4.0方式公开的《自然语言处理》学会杂志上的论文数据。这是一个从以CC-BY-*许可证方式公开的日文论文和学会杂志中提取的
+  - Downloads: 379
+- [llm-book/ner-wikipedia-dataset](https://huggingface.co/datasets/llm-book/ner-wikipedia-dataset)
+  - 我正在使用 Github 仓库 stockmarkteam/ner-wikipedia-dataset 中公开的数据集。
+  - Downloads: 373
+- [llm-book/livedoor-news-corpus](https://huggingface.co/datasets/llm-book/livedoor-news-corpus)
+  - 我正在使用与原始网站相同的内容。
+  - Downloads: 356
+- [llm-jp/hh-rlhf-12k-ja](https://huggingface.co/datasets/llm-jp/hh-rlhf-12k-ja)
+  - 这个仓库提供了由日本LLM-jp发起的合作项目开发的人类偏好数据集。
+  - Downloads: 356
+- [Aratako/Magpie-Tanuki-8B-97k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-8B-97k)
+  - 喜鹊-狸-8B-97k是将喜鹊的技术应用于weblab-GENIAC/Tanuki-8B-dpo-v1.0创建的，包含97269条日语对话数据的数据集。
+  - Downloads: 351
 - [nyanko7/yandere2023](https://huggingface.co/datasets/nyanko7/yandere2023)
   - Yandere2023：
-  - Downloads: 12
-- [dichmau/ja_vi_translation](https://huggingface.co/datasets/dichmau/ja_vi_translation)
-  - 日语-越南语翻译句子对。
-  - Downloads: 11
-- [Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus](https://huggingface.co/datasets/Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus)
-  - 介绍这是由ntt的JParaCrawl v3大型英日平行语料库中的前100万行经过LLM筛选的数据集。
-  - Downloads: 11
-- [sbintuitions/JEMHopQA](https://huggingface.co/datasets/sbintuitions/JEMHopQA)
-  - JEMHopQA（Japanese Explainable Multi-hop Question Answering）是一个日文多跳问答数据集，可用于评估内部推理。
-  - Downloads: 25
-- [creative-graphic-design/CAMERA](https://huggingface.co/datasets/creative-graphic-design/CAMERA)
-  - 希望我们的数据集能够在研究中发挥作用，实现更先进的广告文本生成模型。
-  - Downloads: 24
-- [Hoshikuzu/JParaCrawl](https://huggingface.co/datasets/Hoshikuzu/JParaCrawl)
-  - 请查看下方网站获取更多信息！
-  - Downloads: 22
-- [Hoshikuzu/Japanese-Law-Translation](https://huggingface.co/datasets/Hoshikuzu/Japanese-Law-Translation)
-  - 日语法律翻译数据集总结
-  - Downloads: 21
-- [Hoshikuzu/Tanaka-corpus](https://huggingface.co/datasets/Hoshikuzu/Tanaka-corpus)
-  - 了解更多信息，请访问以下网站！
-  - Downloads: 21
-- [Mitsua/wikidata-parallel-descriptions-en-ja](https://huggingface.co/datasets/Mitsua/wikidata-parallel-descriptions-en-ja)
-  - 从Wikidata转储生成的用于机器翻译的英日平行语料库（2024-05-06）。
-  - Downloads: 19
-- [Kendamarron/pret-a-porter-instruction-v0.1](https://huggingface.co/datasets/Kendamarron/pret-a-porter-instruction-v0.1)
-  - 这是在人工检查和修正了OpenAI的LLM模型输出的数据集上使用Swallow-MX生成的输出。
-  - Downloads: 19
+  - Downloads: 344
+- [matsuxr/JaGovFaqs-22k](https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k)
+  - 这个数据集包含了从日本政府部门官方网站上手动提取的“常见问题”信息，用作指导数据集。
+  - Downloads: 340
+- [alfredplpl/anime-with-caption-cc0](https://huggingface.co/datasets/alfredplpl/anime-with-caption-cc0)
+  - 这个数据集是为了更容易地对动漫中的插图进行伦理学学习而设计的，提供了日语标题。
+  - Downloads: 340
+- [ThePioneer/japanese-photos](https://huggingface.co/datasets/ThePioneer/japanese-photos)
+  - 日本多元形象数据集概述 该数据集是一个全面的高质量图像收藏，捕捉了日本各个方面的多元化，包括城市景观、自然风光、历史遗迹、当代艺术、日常生活和烹饪体验。
+  - Downloads: 334
+- [bclavie/mmarco-japanese-hard-negatives](https://huggingface.co/datasets/bclavie/mmarco-japanese-hard-negatives)
+  - [施工中] 这是一个存储库，包含了MMarco数据集的日语部分所有查询，这是MSMarco数据集的多语言版本。
+  - Downloads: 331
+- [hatakeyama-llm-team/japanese2010](https://huggingface.co/datasets/hatakeyama-llm-team/japanese2010)
+  - 2010年的日语网页语料库是上传到Hugging Face的数据。根据2009年版权法的修正（根据平成21年度国家常年会议版权法的修改等|文化厅），仅限用于信息分析研究。使用形态分析自动添加句点。包括转换代码转换脚本和形态分析等。
+  - Downloads: 331
+- [hotchpotch/JQaRA](https://huggingface.co/datasets/hotchpotch/JQaRA)
+  - JQaRA：具有检索增强功能的日语问答 - 随着高性能LLM的出现，基于LLM进行问答的应用案例正在增加，这为评估检索增强（RAG）提供了日语问答数据集。
+  - Downloads: 294
+- [alfredplpl/simple-zundamon](https://huggingface.co/datasets/alfredplpl/simple-zundamon)
+  - 简单的豆沙蒲饼数据集是一个包含豆沙蒲饼设置的简单数据集。
+  - Downloads: 290
+- [Fhrozen/CABankSakuraCHJP](https://huggingface.co/datasets/Fhrozen/CABankSakuraCHJP)
+  - CABank日语CallHome语料库 参与者：120 研究类型：电话呼叫 地点：美国 媒体类型：音频 DOI：doi:10.21415/T5H59V 网址：https://ca.talkbank.org/access/CallHome/jpn.html 引用信息此处有引用。
+  - Downloads: 289
+- [hpprc/jawiki](https://huggingface.co/datasets/hpprc/jawiki)
+  - JaWikiWikipedia 的 HTML 格式转储文件中提取的文本数据集。
+  - Downloads: 278
+- [kogi-jwu/jhumaneval](https://huggingface.co/datasets/kogi-jwu/jhumaneval)
+  - LLM 代码生成能力的标准基准测试 HumanEval 的日文翻译版本。
+  - Downloads: 277
+- [kanhatakeyama/SyntheticText](https://huggingface.co/datasets/kanhatakeyama/SyntheticText)
+  - 根据从以下数据源随机抽取的文本，通过phi3重新生成的文章是：WikibooksWikipediaCosmopedia判例数据代码请看这里。一部分计算使用东京工业大学的超级计算机TSUBAME4.0进行了。
+  - Downloads: 258
+- [llm-book/llm-jp-eval](https://huggingface.co/datasets/llm-book/llm-jp-eval)
+  - 我正在使用与原始网站相同的内容。
+  - Downloads: 228
+- [yuzuai/rakuda-questions](https://huggingface.co/datasets/yuzuai/rakuda-questions)
+  - Rakuda - 针对日本模特的问题Repository:
+  - Downloads: 205
+- [kunishou/OpenMathInstruct-1-1.8m-ja](https://huggingface.co/datasets/kunishou/OpenMathInstruct-1-1.8m-ja)
+  - OpenMathInstruct-1 被自動翻譯為日文，是一個包含180萬條指示的調整數據集，可供商業使用。
+  - Downloads: 204
+- [llm-jp/databricks-dolly-15k-ja](https://huggingface.co/datasets/llm-jp/databricks-dolly-15k-ja)
+  - 这个仓库提供了一个由LLM-jp开发的指导调整数据集，这是一个在日本启动的协作项目。
+  - Downloads: 201
+- [Silviase/Japanese-Heron-Bench](https://huggingface.co/datasets/Silviase/Japanese-Heron-Bench)
+  - 这个数据集是日本鹭台构建日本评估基准套件所包含的图像、上下文和问题集的澄清版本。
+  - Downloads: 198
+- [Elite35P-Server/EliteVoiceProject](https://huggingface.co/datasets/Elite35P-Server/EliteVoiceProject)
+  - Elite Voice Project 是一个非官方项目，旨在将Hololive所属Vtuberさくらみこ氏的声音数据集化，以便用于语音识别等用途。
+  - Downloads: 189
+- [bandad/sayoko-tts-corpus](https://huggingface.co/datasets/bandad/sayoko-tts-corpus)
+  - 赛子音频语料库下载方式：数据集已被压缩为zip文件并已上传至gdrive。
+  - Downloads: 185
+- [DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k)
+  - 这个数据集是通过大规模语言模型（LLM）自动生成的日语指示及其对应响应的集合。
+  - Downloads: 178
+- [hotchpotch/cc100-ja-documents](https://huggingface.co/datasets/hotchpotch/cc100-ja-documents)
+  - HuggingFace 在其平台上公开的 cc100 / cc100-ja 数据集是将以行为单位划分的数据合并为文档级别的版本。
+  - Downloads: 178
+- [sudy-super/dialogsum-ja](https://huggingface.co/datasets/sudy-super/dialogsum-ja)
+  - 这个数据集是日语对话摘要数据集，翻译了dialogsum、CSDS等内容。
+  - Downloads: 173
+- [shunk031/wrime](https://huggingface.co/datasets/shunk031/wrime)
+  - 在这项研究中，我们介绍了一个用于情绪强度估计的新数据集 WRIME。
+  - Downloads: 172
+- [llm-book/jawiki-sentences](https://huggingface.co/datasets/llm-book/jawiki-sentences)
+  - 我正在使用 GitHub 仓库 singletongue/wikipedia-utils 上公开的数据集。
+  - Downloads: 171
+- [MomoyamaSawa/Voice-KusanagiNene](https://huggingface.co/datasets/MomoyamaSawa/Voice-KusanagiNene)
+  - 如果Tutu的仓库对你有帮助，请点个⭐️喵~ 任何问题❓
+  - Downloads: 170
+- [systemk/washi](https://huggingface.co/datasets/systemk/washi)
+  - 这个数据集是从uonlp/CulturaX采样的一部分ja（日语）子集中取样的。利用DSIR（语言模型的数据选择通过重要重采样），选择了与csebuetnlp/xlsum和systemk/aozorabunko_chunked（包含现代日本文学的青空文库集合中 经过清理的数据）最接近的文档，占据了大约语料库的5%。
+  - Downloads: 169
+- [hpprc/jsick](https://huggingface.co/datasets/hpprc/jsick)
+  - 数据集。
+  - Downloads: 168
+- [llm-book/aio-passages-bpr-bert-base-japanese-v3](https://huggingface.co/datasets/llm-book/aio-passages-bpr-bert-base-japanese-v3)
+  - 对于 llm-book/aio-passages 数据集，使用 llm-book/bert-base-japanese-v3-bpr-passage-encoder 生成的文章的二进制向量已经添加到 embeddings 字段中。
+  - Downloads: 167
+- [SakanaAI/JA-VG-VQA-500](https://huggingface.co/datasets/SakanaAI/JA-VG-VQA-500)
+  - JA-VG-VQA-500 数据集描述JA-VG-VQA-500 是日本视觉基因问答数据集的一个包含500个样本的子集。
+  - Downloads: 165
+- [JapanDegitalMaterial/Places_in_Japan](https://huggingface.co/datasets/JapanDegitalMaterial/Places_in_Japan)
+  - 日本的地方。
+  - Downloads: 159
+- [SkelterLabsInc/JaQuAD](https://huggingface.co/datasets/SkelterLabsInc/JaQuAD)
+  - JaQuAD是为了提供类似于SQuAD风格的日语问答数据集而开发的。
+  - Downloads: 157
+- [ltvmoon/opusbook_ja_en](https://huggingface.co/datasets/ltvmoon/opusbook_ja_en)
+  - 语言：jp en 标签：翻译 许可证：cc-by-4.0
+  - Downloads: 156
+- [sappho192/Tatoeba-Challenge-jpn-kor](https://huggingface.co/datasets/sappho192/Tatoeba-Challenge-jpn-kor)
+  - 数据集细节 数据集来源仓库：Helsinki-NLP/Tatoeba-Challenge 详情：日语 - 韩语 jpn-kor 用途 该数据集可以用于训练将日语句子翻译为韩语的翻译模型。
+  - Downloads: 155
+- [Fhrozen/CABankSakura](https://huggingface.co/datasets/Fhrozen/CABankSakura)
+  - CABank日本樱花语料库 三谷修子 名古屋疗养科学教研大学 三谷修子 邮箱：smiyata@asu.aasa.ac.jp 网站：https://ca.talkbank.org/access/Sakura.html 重要
+  - Downloads: 154
+- [nu-dialogue/real-persona-chat](https://huggingface.co/datasets/nu-dialogue/real-persona-chat)
+  - 请查看 GitHub 获取更多详细信息。
+  - Downloads: 152
+- [kanhatakeyama/japanese-corpus-categorized](https://huggingface.co/datasets/kanhatakeyama/japanese-corpus-categorized)
+  - 清理过的日本语语料库，如日本语语料库mc4-ja等 web 语料库，使用无监督学习模型对文本进行了聚类处理，约包含1万条文本。可用于获得著作权法所允许的信息分析目的。请注意，并非所有文件都已经进行 Parquet 格式转换。文件清单位于 out 文件夹中，请使用 git lfs 等方式进行下载。
+  - Downloads: 149
+- [izumi-lab/llm-japanese-dataset-vanilla](https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset-vanilla)
+  - 用于构建vanillaLLM的日语聊天数据集izumi-lab/llm-japanese-dataset中提取了没有日英翻译数据集等的部分数据。
+  - Downloads: 147
+- [hpprc/en-ja-align](https://huggingface.co/datasets/hpprc/en-ja-align)
+  - "en-ja-align"是指日英对照文对应数据，是由内山等人在2003年公开的日英对照文数据集。
+  - Downloads: 137
+- [llm-book/aio-retriever](https://huggingface.co/datasets/llm-book/aio-retriever)
+  - 我正在使用 GitHub 仓库 cl-tohoku/quiz-datasets 上发布的数据集。
+  - Downloads: 136
+- [hotchpotch/JaCWIR](https://huggingface.co/datasets/hotchpotch/JaCWIR)
+  - JaCWIR: 日本休閒網路IR - 日本語情報検索的小规模休闲网络标题和摘要数据集。近年，大型语言模型（LLM）的出现使得使用通用日语进行自然搜索查询的用例增加。
+  - Downloads: 136
+- [Aratako/Synthetic-JP-EN-Coding-Dataset-801k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-801k)
+  - 由Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k中的数据集衍生而来，使用了Evol-Instruct等方法生成了多个指令和响应，扩展并创建了日英混合共801262个条目的代码SFT合成数据集。
+  - Downloads: 134
+- [Aratako/Japanese-RP-Bench-testdata-SFW](https://huggingface.co/datasets/Aratako/Japanese-RP-Bench-testdata-SFW)
+  - 这个数据集是用于评估LLM（Large Language Model）的日语角色扮演能力的基准测试数据集Japanese-RP-Bench。
+  - Downloads: 131
+- [llm-book/ner-wikinews-dataset](https://huggingface.co/datasets/llm-book/ner-wikinews-dataset)
+  - 固有表现标签采用了与llm-book/ner-wikipedia-dataset相同的标签体系，共有8种类型（人名、法人名、地名、产品名、政治组织名、机构名、其他组织名、事件名）。
+  - Downloads: 129
+- [NilanE/ParallelFiction-Ja_En-100k](https://huggingface.co/datasets/NilanE/ParallelFiction-Ja_En-100k)
+  - 数据集详情：数据集中的每个条目都是一个句子对齐的日本网络小说章节和英文粉丝翻译。
+  - Downloads: 128
+- [HachiML/alpaca_jp_python](https://huggingface.co/datasets/HachiML/alpaca_jp_python)
+  - alpaca_jp_python是通过Stanford Alpaca的mistralai/Mixtral-8x22B-Instruct-v0.1方法创建的合成数据。
+  - Downloads: 125
+- [Atsushi/fungi_indexed_mycological_papers_japanese](https://huggingface.co/datasets/Atsushi/fungi_indexed_mycological_papers_japanese)
+  - 真菌索引真菌學論文日本語摘要數據集最後更新日期：2024年2月23日（至R3-11457）====語言：日語。該數據集僅提供日語版本。
+  - Downloads: 124
+- [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted)
+  - 合成-日语-角色扮演-gpt-4o-mini-39.6k格式化20240907 数据增量（约19800条→约39600条） 概要 使用gpt-4o-mini创建的日语角色扮演数据集，Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k，已添加系统消息并进行格式化处理的数据集。
+  - Downloads: 119
+- [team-hatakeyama-phase2/LLMChat](https://huggingface.co/datasets/team-hatakeyama-phase2/LLMChat)
+  - LLMChat 概述 GENIAC 松尾研 LLM开发项目中开发的模型，用于人工评估的LLMChat系统，其中包括收集的问题与LLM的回答，以及人工评估的数据。
+  - Downloads: 118
+- [turing-motors/Japanese-Heron-Bench](https://huggingface.co/datasets/turing-motors/Japanese-Heron-Bench)
+  - 日本鹭山庄数据集描述日本鹭山庄是用于评估日本VLMs（视觉语言模型）的基准。
+  - Downloads: 116
+- [oshizo/japanese-wikipedia-paragraphs](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs)
+  - 对单语/维基百科工具的解析和分块方法进行了轻微修改版本。
+  - Downloads: 115
+- [tet550/jawiki_sentences](https://huggingface.co/datasets/tet550/jawiki_sentences)
+  - 这个数据集是基于日文维基百科文章创建的。
+  - Downloads: 114
+- [range3/wiki40b-ja](https://huggingface.co/datasets/range3/wiki40b-ja)
+  - 这个数据集包含三个parquet文件，来自wiki40b数据集，其中只提取了日语数据。
+  - Downloads: 114
+- [deepghs/fgo_voices_jp](https://huggingface.co/datasets/deepghs/fgo_voices_jp)
+  - JP Voice-Text Dataset for日语语音文本数据集
+  - Downloads: 110
 - [kunishou/amenokaku-code-instruct](https://huggingface.co/datasets/kunishou/amenokaku-code-instruct)
   - 亲爱的，这段文本翻译成简体中文是：“Amenokaku-Code-InstructUpdate:2023/12/27数据集中添加了JaxTon和专业Java代码数据180条记录。”
-  - Downloads: 16
+  - Downloads: 107
+- [kanhatakeyama/AutoMultiTurnByCalm3-22B](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByCalm3-22B)
+  - 这是使用Calm3-22b从开放式数据源自动生成的Q&A多轮数据集。部分计算使用了东京工业大学的超级计算机TSUBAME4.0。数据源中的起始问题(q1)是从各种数据源收集而来的。随后的对话全部由Calm生成。关于问题文本，遵守原始数据的许可。oasst2-33k-jaapache 2.0databricks-dolly-15k-jacc
+  - Downloads: 104
+- [inu-ai/ggml-japanese-gpt2](https://huggingface.co/datasets/inu-ai/ggml-japanese-gpt2)
+  - Windows系统用户应该可以在 ggml-japanese-gpt2 的执行文件上运行。
+  - Downloads: 104
+- [YANS-official/ogiri-bokete](https://huggingface.co/datasets/YANS-official/ogiri-bokete)
+  - 从数据集导入读取数据的方法：from datasets import load_dataset dataset = load_dataset("YANS-official/ogiri-bokete", split="train") 概要：这是大喜剧投稿网站Bokete的抓取数据。
+  - Downloads: 102
+- [ryota39/open_preference-v0.3](https://huggingface.co/datasets/ryota39/open_preference-v0.3)
+  - 在日本的RLHF数据集中，奖励模型的构建被重新格式化为一个分类任务。
+  - Downloads: 102
+- [mohamed-khalil/AnimeSongsLyrics](https://huggingface.co/datasets/mohamed-khalil/AnimeSongsLyrics)
+  - 动漫歌曲歌词数据集 ― 动漫歌曲歌词数据集欢迎来到动漫歌曲歌词数据集概述本数据集汇编了来自各种动漫歌曲的歌词，为爱好者和研究人员提供了丰富的资源。
+  - Downloads: 101
+- [if001/elementray_l](https://huggingface.co/datasets/if001/elementray_l)
+  - 这是使用 calm3-22b 创建的一个包含简单日语例句的数据集。
+  - Downloads: 97
+- [hpprc/mqa-ja](https://huggingface.co/datasets/hpprc/mqa-ja)
+  - 这是一个已删除mqa数据集中query-passage重复项的数据集。
+  - Downloads: 97
+- [hotchpotch/ms_marco_japanese](https://huggingface.co/datasets/hotchpotch/ms_marco_japanese)
+  - ms_marco_japanesems_marco 的日语翻译数据。
+  - Downloads: 94
+- [sergicalsix/Japanese_NER_Data_Hub](https://huggingface.co/datasets/sergicalsix/Japanese_NER_Data_Hub)
+  - 这是一个为大规模语言模型（LLM）设计的专有实体识别数据集（J-NER）的仓库。
+  - Downloads: 94
+- [saldra/sakura_japanese_dataset](https://huggingface.co/datasets/saldra/sakura_japanese_dataset)
+  - Sakura_dataset 是一个可以用于商业用途的超小规模高质量的日语数据集。
+  - Downloads: 93
+- [llm-book/jawiki-paragraphs](https://huggingface.co/datasets/llm-book/jawiki-paragraphs)
+  - 我正在使用 GitHub 仓库 singletongue/wikipedia-utils 中公开的数据集。
+  - Downloads: 91
+- [ryota39/open_preference_v0.2](https://huggingface.co/datasets/ryota39/open_preference_v0.2)
+  - 公共RLHF数据集在日本的，奖励模型的构建已被重新格式化为一个分类任务。日本文本的质量有些低，这是由合成生成的文本和机器翻译API的结合引起的。重新格式化的数据集为open_preference_v0.1，标签1代表已选句子，标签0代表被拒绝的句子。
+  - Downloads: 90
+- [recruit-jp/japanese-image-classification-evaluation-dataset](https://huggingface.co/datasets/recruit-jp/japanese-image-classification-evaluation-dataset)
+  - 日本图像分类评估数据集概述开发者：Recruit Co.
+  - Downloads: 90
+- [if001/elementray_m](https://huggingface.co/datasets/if001/elementray_m)
+  - 使用calm3-22b创建了一个包含简单日语例句的数据集。
+  - Downloads: 90
+- [nu-dialogue/jmultiwoz](https://huggingface.co/datasets/nu-dialogue/jmultiwoz)
+  - 数据集概要 JMultiWOZ 是一个大规模的日本多领域任务导向对话数据集。
+  - Downloads: 89
+- [kanhatakeyama/SyntheticTextWikiTranslate](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextWikiTranslate)
+  - 从以下数据来源随机抽取的日文文本重新生成，然后自动生成英文翻译的语料库。WikibooksWikipedia代码在这里。一些计算使用东京工业大学的超级计算机TSUBAME4.0进行。
+  - Downloads: 88
+- [TLME/Umamusume-voice-transcription](https://huggingface.co/datasets/TLME/Umamusume-voice-transcription)
+  - 赛马娘的语音转写 总字符数：77 包括转写。
+  - Downloads: 88
+- [stockmark/ner-wikipedia-dataset](https://huggingface.co/datasets/stockmark/ner-wikipedia-dataset)
+  - 使用维基百科提取日本语特定实体的数据集GitHub链接：https://github.com/stockmarkteam/ner-wikipedia-dataset/许可协议：CC-BY-SA 3.0 由 Stockmark 公司开发。
+  - Downloads: 87
+- [allganize/RAG-Evaluation-Dataset-JA](https://huggingface.co/datasets/allganize/RAG-Evaluation-Dataset-JA)
+  - Allganize RAG Leaderboard是什么？Allganize RAG Leaderboard对五个行业领域（金融、信息通信、制造、公共和流通零售）进行了日语RAG性能评估。
+  - Downloads: 87
+- [ryo0634/bsd_ja_en](https://huggingface.co/datasets/ryo0634/bsd_ja_en)
+  - 该数据集是通过以下3个步骤构建的：选择商业场景，根据所选场景编写单语对话情景，然后将这些情景翻译成另一种语言。
+  - Downloads: 86
+- [NilanE/SmallParallelDocs-Ja_En-6k](https://huggingface.co/datasets/NilanE/SmallParallelDocs-Ja_En-6k)
+  - 该数据集包含来自各种来源的文件长度的日语-英语平行文本。
+  - Downloads: 86
+- [YukiTomita-CC/AKU-d_ms-0.5B-v0.1_dataset](https://huggingface.co/datasets/YukiTomita-CC/AKU-d_ms-0.5B-v0.1_dataset)
+  - AKU-d_ms-0.5B-v0.1_dataset 概览 这个存储库包含我开发的AKU系列之一，用于AKU-d_ms-0.5B-chat-v0.1的预训练所使用的文本数据。
+  - Downloads: 85
+- [SNOW-NLP/snow_simplified_japanese_corpus](https://huggingface.co/datasets/SNOW-NLP/snow_simplified_japanese_corpus)
+  - 这个语料库有5万个手动简化过且对齐的句子。
+  - Downloads: 85
+- [turing-motors/LLaVA-Instruct-150K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Instruct-150K-JA)
+  - 数据集详情 数据集类型：日文LLaVA Instruct 150K 是原始 LLaVA Visual Instruct 150K 数据集的本地化版本。
+  - Downloads: 85
+- [taishi-i/nagisa_stopwords](https://huggingface.co/datasets/taishi-i/nagisa_stopwords)
+  - 这是一个常用词列表，根据日文文本分析库nagisa的分词规则创建。
+  - Downloads: 85
+- [OmniAICreator/Japanese-Roleplay-Dialogues](https://huggingface.co/datasets/OmniAICreator/Japanese-Roleplay-Dialogues)
+  - 这是从日本角色扮演论坛（通常称为"なりきりチャット(narikiri chat)"）收集的对话语料库。
+  - Downloads: 85
+- [llm-book/jsnli](https://huggingface.co/datasets/llm-book/jsnli)
+  - JSNLI版本1.1中经过筛选的训练集（train_w_filtering）。
+  - Downloads: 83
+- [aixsatoshi/Swallow-MX-chatbot-DPO](https://huggingface.co/datasets/aixsatoshi/Swallow-MX-chatbot-DPO)
+  - 我使用aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2生成了回答文。我基于Chatbot Arena Conversations JA（calm2）模型的Prompt部分进行提问。
+  - Downloads: 83
+- [zetavg/ShareGPT-Processed](https://huggingface.co/datasets/zetavg/ShareGPT-Processed)
+  - ShareGPT处理的RyokoAI/ShareGPT52K数据集，已转换为Markdown，并标有所使用的语言。
+  - Downloads: 82
+- [waddledee/three_line_summarization_for_japanese_news_articles](https://huggingface.co/datasets/waddledee/three_line_summarization_for_japanese_news_articles)
+  - 这是日本LiveDoor新闻语料库的3行摘要数据集。
+  - Downloads: 82
+- [tarudesu/gendec-dataset](https://huggingface.co/datasets/tarudesu/gendec-dataset)
+  - 从日本名字中检测性别的机器学习称为Gendec。
+  - Downloads: 82
+- [Kendamarron/jimba-instuction-1k-beta](https://huggingface.co/datasets/Kendamarron/jimba-instuction-1k-beta)
+  - 通过人工检查和修正cyberagent/calm2-7b-chat的输出，创建了这个日文Instruction数据集。
+  - Downloads: 81
+- [mohamed-khalil/AnimeQuotes](https://huggingface.co/datasets/mohamed-khalil/AnimeQuotes)
+  - 动漫名言数据集 ― 欢迎来到动漫名言数据集概述。这个数据集包含了从多部动漫系列中搜集而来的鼓舞人心且令人难忘的名言，数据来源于动漫动力网站。
+  - Downloads: 80
+- [toshi456/llava-bench-in-the-wild-ja](https://huggingface.co/datasets/toshi456/llava-bench-in-the-wild-ja)
+  - 这个数据集是对MBZUAI/multilingual-llava-bench-in-the-wild中日语数据的翻译错误和未翻译数据进行更正后的数据。
+  - Downloads: 80
+- [Aruno/guanaco_jp](https://huggingface.co/datasets/Aruno/guanaco_jp)
+  - 通过langdetect提取出来的GuanacoDataset的日语提示。
+  - Downloads: 80
+- [p1atdev/danbooru-ja-tag-pair-20241015](https://huggingface.co/datasets/p1atdev/danbooru-ja-tag-pair-20241015)
+  - 2024年10月15日创建的Danbooru标签和日语标签配对数据集（约15万条）与p1atdev/danbooru-ja-tag-pair-20240715的区别在于，基础的wiki数据增加了，因此相应的标签也增加了。添加了使用fasttext进行过滤处理。混有“明显是其他语言的标签”的频率似乎有所减少，但并非完全没有。只要calm3处理时没有
+  - Downloads: 79
+- [R1b3y/NE4Mitsua](https://huggingface.co/datasets/R1b3y/NE4Mitsua)
+  - 负嵌入/文本反转NE4Mitsua是Mitsua扩散一的负嵌入。
+  - Downloads: 79
+- [llm-jp/oasst2-33k-ja](https://huggingface.co/datasets/llm-jp/oasst2-33k-ja)
+  - 该存储库提供了由LLM-jp开发的指令调优数据集，这是日本发起的一个协作项目。
+  - Downloads: 78
+- [izumi-lab/sciq-ja-mbartm2m](https://huggingface.co/datasets/izumi-lab/sciq-ja-mbartm2m)
+  - 数据集描述这是sciq的日语翻译版本。
+  - Downloads: 78
+- [NekoFi/whisper_toku](https://huggingface.co/datasets/NekoFi/whisper_toku)
+  - 数据集描述
+  - Downloads: 77
+- [ebisuke/liz-nojaloli-ja-ds](https://huggingface.co/datasets/ebisuke/liz-nojaloli-ja-ds)
+  - ebisuke/liz-nojaloli-ja-ds 许可证 MIT 许可证描述 ebisuke/liz-nojaloli-ja 的学习来源数据集。
+  - Downloads: 77
+- [Nan-Do/OpenSubtitlesJapanese](https://huggingface.co/datasets/Nan-Do/OpenSubtitlesJapanese)
+  - 该数据集包含（几乎）日语OpenSubtittles数据库的全部内容：超过7000个电视节目和/或电影。
+  - Downloads: 77
+- [shunk031/jsnli](https://huggingface.co/datasets/shunk031/jsnli)
+  - 数据集预处理支持的任务和排行榜语言注释都以日语为主要语言。
+  - Downloads: 76
+- [aixsatoshi/Chat-with-cosmopedia](https://huggingface.co/datasets/aixsatoshi/Chat-with-cosmopedia)
+  - 这是一组信息密度很高的多轮对话数据，涵盖了推理、知识和对话交流等内容。
+  - Downloads: 76
+- [Kendamarron/jimba-wiki-instruction-calm3](https://huggingface.co/datasets/Kendamarron/jimba-wiki-instruction-calm3)
+  - 使用了Kendamarron/jimba-wiki-instruction-calm3grapevine-AI/CALM3-22B-Chat-GGUF模型中的Q4_K_M来合成instruction数据集。 (Note: Please make sure to adjust the translation based on the context of the text, as necessary.)
+  - Downloads: 75
+- [takosama/databricks-dolly-15k-ja-google-trans](https://huggingface.co/datasets/takosama/databricks-dolly-15k-ja-google-trans)
+  - 多莉（Dolly）的日文翻译版。这个存储库是由Databricks开发的Dolly项目的日文翻译版。
+  - Downloads: 75
+- [Emu-Academic/pjsk-emu-dataset](https://huggingface.co/datasets/Emu-Academic/pjsk-emu-dataset)
+  - 从Project Sekai角色音乐大师Emu Otori收集而来的声音数据集 简介 大小：2735，全部为WAV格式。
+  - Downloads: 75
+- [oshizo/ASRClustering-ja](https://huggingface.co/datasets/oshizo/ASRClustering-ja)
+  - 用于嵌入模型训练和评估的聚类数据集。
+  - Downloads: 75
+- [p1atdev/ja-stackoverflow](https://huggingface.co/datasets/p1atdev/ja-stackoverflow)
+  - 使用日本Stack Overflow版的数据转储，加工数据，生成问题和答案配对的QA数据集。
+  - Downloads: 75
+- [tanganke/kmnist](https://huggingface.co/datasets/tanganke/kmnist)
+  - KMNIST数据集将图像分类到10个类别中，这些类别代表不同的日语字符。
+  - Downloads: 74
+- [kunishou/databricks-dolly-69k-ja-en-translation](https://huggingface.co/datasets/kunishou/databricks-dolly-69k-ja-en-translation)
+  - 这个数据集是通过自动将“databricks-dolly-15k”翻译成日语而创建的。
+  - Downloads: 74
+- [fujiki/guanaco_ja](https://huggingface.co/datasets/fujiki/guanaco_ja)
+  - 这是Guanaco数据集中的一个日文部分。
+  - Downloads: 73
+- [Atsushi/fungi_diagnostic_chars_comparison_japanese](https://huggingface.co/datasets/Atsushi/fungi_diagnostic_chars_comparison_japanese)
+  - 真菌鑒別特徵比較日文大環「識別形質總結」數據集最後更新日期：2024/2/23（到R3-11457）==== 語言：日文 此數據集僅提供日文版本。
+  - Downloads: 73
+- [p1atdev/ichikara-instruction](https://huggingface.co/datasets/p1atdev/ichikara-instruction)
+  - 力指令（非商业）为LLM准备的日文指令数据。 我们将在公开页面上从中发布此数据，关于这份数据，我们将在语言处理学会第30届年会上进行发表。
+  - Downloads: 73
+- [aixsatoshi/cosmopedia-japanese-100k](https://huggingface.co/datasets/aixsatoshi/cosmopedia-japanese-100k)
+  - cosmopedia-japanese-20k的数据，我们从kunishou先生那里获得了20k-100k的数据，因此已经扩展到100k。
+  - Downloads: 72
+- [shi3z/OpenOrcaJapanese](https://huggingface.co/datasets/shi3z/OpenOrcaJapanese)
+  - OpenOrca数据集的日语翻译版本位于https://huggingface.co/datasets/Open-Orca/OpenOrca。目前正在进行翻译工作，OpenOrca整体的1/5翻译已完成，现在暂时公开。
+  - Downloads: 72
+- [kunishou/cosmopedia-100k-ja-preview](https://huggingface.co/datasets/kunishou/cosmopedia-100k-ja-preview)
+  - Cosmopedia-100k 中的索引在 20k 到 100k 范围内的数据已自动翻译为日语（由于文本过长导致翻译错误的记录已被排除）。
+  - Downloads: 72
+- [sakusakumura/databricks-dolly-15k-ja-scored](https://huggingface.co/datasets/sakusakumura/databricks-dolly-15k-ja-scored)
+  - 请点击这里查看英文版本。
+  - Downloads: 72
+- [baobab-trees/wikipedia-human-retrieval-ja](https://huggingface.co/datasets/baobab-trees/wikipedia-human-retrieval-ja)
+  - 日本维基百科人工检索数据集。这是一个由训练有素的人类工作者在维基百科文章中进行检索的日本问答数据集。
+  - Downloads: 70
+- [community-datasets/covid_tweets_japanese](https://huggingface.co/datasets/community-datasets/covid_tweets_japanese)
+  - 注释是通过5-10名众包工作者的多数决定。
+  - Downloads: 70
+- [Calvin-Xu/Furigana-NDLBIB](https://huggingface.co/datasets/Calvin-Xu/Furigana-NDLBIB)
+  - 从全国书志数据中创建的假名振り数据集（GitHub）
+  - Downloads: 70
+- [hpprc/janli](https://huggingface.co/datasets/hpprc/janli)
+  - 受英语HANS数据集启发，JaNLI（Japanese Adversarial NLI）数据集旨在促使对日语语言现象的理解，并揭示模型的弱点。
+  - Downloads: 70
+- [kanhatakeyama/CreativeCommons-RAG-QA-Mixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/CreativeCommons-RAG-QA-Mixtral8x22b)
+  - 这是根据从以下数据源随机提取的日语文本生成的RAG格式的Q&A，旨在用于预训练而不是作为Wikibooks、Wikipedia、案例数据指导进行使用（用于训练问题和回答）。在某些计算中使用了东京工业大学的超级计算机TSUBAME4.0。
+  - Downloads: 68
+- [Nexdata/English-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/English-Japanese_Parallel_Corpus_Data)
+  - 它涵盖了多个领域，如旅游、医疗、日常生活、新闻等。
+  - Downloads: 68
+- [AhmedSSabir/Japanese-wiki-dump-sentence-dataset](https://huggingface.co/datasets/AhmedSSabir/Japanese-wiki-dump-sentence-dataset)
+  - 数据集5M（5121625）清洗日语全句及其上下文。
+  - Downloads: 67
+- [Calvin-Xu/Furigana-Aozora-Speech](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora-Speech)
+  - 根据青空文库和Sapie的语音数据生成带假名标注的音频语料库数据集。https://github.com/ndl-lab/hurigana-speech-corpus-aozora 原始数据中所有文本文件已处理为3361443条记录；在清理后去除了重复项和无汉字的记录。
+  - Downloads: 67
+- [dichmau/ja_vi_translation](https://huggingface.co/datasets/dichmau/ja_vi_translation)
+  - 日语-越南语翻译句子对。
+  - Downloads: 67
+- [fujiki/japanese_alpaca_data](https://huggingface.co/datasets/fujiki/japanese_alpaca_data)
+  - [github]。
+  - Downloads: 67
+- [aixsatoshi/Longcontext-aozora-summary](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-summary)
+  - 这是一个来自长篇文本的摘要数据集。
+  - Downloads: 67
+- [p1atdev/LLM-jp-Toxicity-Dataset](https://huggingface.co/datasets/p1atdev/LLM-jp-Toxicity-Dataset)
+  - LLM-jp 有害性数据集-日文有害文档数据集“LLM-jp 有害性数据集” 请参阅https://gitlab.llm-jp.nii.ac.jp/datasets/llm-jp-toxicity-dataset
+  - Downloads: 66
+- [yulanfmy/databricks-qa-ja](https://huggingface.co/datasets/yulanfmy/databricks-qa-ja)
+  - 这是一个关于手动创建的Databricks问题和答案对的日文数据集概要。
+  - Downloads: 66
+- [fujiki/japanese_hh-rlhf-49k](https://huggingface.co/datasets/fujiki/japanese_hh-rlhf-49k)
+  - 这是一个略有不同的版本 kunishou/hh-rlhf-49k-ja，没有 ng_translation == 1 的示例。
+  - Downloads: 65
+- [Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k)
+  - 使用Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1knvidia/Nemotron-4-340B-Instruct生成的，包含约1000个对话，每个对话有10轮的日语角色扮演对话的合成对话数据集。
+  - Downloads: 65
+- [kanhatakeyama/AutoMultiTurnByMixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByMixtral8x22b)
+  - 这是使用来自开放数据源的MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF生成的Q&A数据集。对于一些相关代码的计算部分，我们利用了东京工业大学的超级计算机TSUBAME4.0。数据源以及第一个问题（q1）是从各种数据源中收集而来的。接下来的问答交互都是由Mixtral生成的。关于问题内容，遵
+  - Downloads: 64
+- [llm-book/aio-passages](https://huggingface.co/datasets/llm-book/aio-passages)
+  - 我正在使用 GitHub 存储库 cl-tohoku/quiz-datasets 中发布的数据集。
+  - Downloads: 63
+- [polm-stability/jblimp](https://huggingface.co/datasets/polm-stability/jblimp)
+  - JBLiMP是来自于《JBLiMP：日语语言最小对照基准》的数据（Someya和Oseki，2023）。
+  - Downloads: 63
+- [if001/aozorabunko-clean-sin](https://huggingface.co/datasets/if001/aozorabunko-clean-sin)
+  - 这是forkhttps://huggingface.co/datasets/globis-university/aozorabunko-cleanfilteredrow["meta"]["文字遣い種別"] == "新字新仮名"
+  - Downloads: 63
+- [hpprc/quiz-works](https://huggingface.co/datasets/hpprc/quiz-works)
+  - 这是一个包含了从Quiz Works网站上收集到的截止至2024年8月4日至8月5日可获取的测验题目的数据集。
+  - Downloads: 62
+- [turing-motors/LLaVA-Pretrain-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Pretrain-JA)
+  - 数据集详细信息 数据集类型:Japanese LLaVA Pretrain是原始LLaVA Pretrain数据集的本地化版本。
+  - Downloads: 61
+- [kanhatakeyama/AutoWikiQA](https://huggingface.co/datasets/kanhatakeyama/AutoWikiQA)
+  - 从Wikipedia日语版的Q&A自动生成Mixtral 8x22b的GGUF(5bit)为基础，使用Wikipedia日语版的文章，通过自动生成代码1和自动生成代码2生成了Q&A。 我们使用了东京工业大学的超级计算机TSUBAME4.0进行计算。请注意，答案中可能包含幻觉等内容，可能需要进行过滤处理。
+  - Downloads: 61
+- [Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k)
+  - 利用Synthetic-JP-Roleplay-Instruction-Nemotron-4 Magpie的方法应用于nvidia/Nemotron-4-340B-Instruct，创建了约1000条用于日语角色扮演的instruction数据集。
+  - Downloads: 61
+- [zan/lima-ja](https://huggingface.co/datasets/zan/lima-ja)
+  - 2023年）。
+  - Downloads: 61
+- [kunishou/ApolloCorpus-ja](https://huggingface.co/datasets/kunishou/ApolloCorpus-ja)
+  - ApolloCorpus-ja是由多语言医疗数据集ApolloCorpus自动翻译成日语而生成的525k指示调优数据集。
+  - Downloads: 60
+- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-other](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-other)
+  - 这是使用MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF从自动生成的Q&A数据源生成的。这些数据是由团队创建的，并基于“Common Crawl”生成。
+  - Downloads: 60
+- [RJZ/ConceptNetSyntheticPhi3Text_ja](https://huggingface.co/datasets/RJZ/ConceptNetSyntheticPhi3Text_ja)
+  - 务必要覆盖所有信息，并以日语输出。
+  - Downloads: 60
+- [llm-book/ja-vicuna-qa-benchmark](https://huggingface.co/datasets/llm-book/ja-vicuna-qa-benchmark)
+  - 我正在使用原始的網站。
+  - Downloads: 60
+- [kubota/defamation-japanese-twitter](https://huggingface.co/datasets/kubota/defamation-japanese-twitter)
+  - 在 Twitter 上的誹謗中傷检测的日语数据集概述：这是用于检测社交网络中的中伤言论的数据集。
+  - Downloads: 60
+- [shi3z/Japanese_Wikipedia_Conversation](https://huggingface.co/datasets/shi3z/Japanese_Wikipedia_Conversation)
+  - 维基百科日语版数据集（izumi-lab/wikipedia-ja-20230720）
+  - Downloads: 59
+- [Sakalti/Multilingal-sakalt-data](https://huggingface.co/datasets/Sakalti/Multilingal-sakalt-data)
+  - 多语种数据集。
+  - Downloads: 58
+- [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k)
+  - 合成-日本-角色扮演-gpt-4o-mini-39.6k 20240907 数据增加（约19800项→约39600项）概述 这是一个使用gpt-4o-mini创建的合成数据集，收录了约39600个日语角色扮演对话。
+  - Downloads: 57
+- [turing-motors/LLaVA-v1.5-Instruct-620K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-v1.5-Instruct-620K-JA)
+  - 数据集详情数据集类型：日语 LLaVA v1.5
+  - Downloads: 57
+- [y2lan/japan-law](https://huggingface.co/datasets/y2lan/japan-law)
+  - 日本法律这个数据集包含从日本政府官方网站e-Gov检索的8.75K条法律记录。
+  - Downloads: 56
+- [Verah/tatoeba_dedupe_en-jp_2024-March-01](https://huggingface.co/datasets/Verah/tatoeba_dedupe_en-jp_2024-March-01)
+  - 从 https://tatoeba.org/en/downloads 获取的英语 - 日语配对，然后去除了重复项。
+  - Downloads: 56
+- [sbintuitions/JEMHopQA](https://huggingface.co/datasets/sbintuitions/JEMHopQA)
+  - JEMHopQA（Japanese Explainable Multi-hop Question Answering）是一个日文多跳问答数据集，可用于评估内部推理。
+  - Downloads: 56
+- [RyokoExtra/JapaneseGoblin](https://huggingface.co/datasets/RyokoExtra/JapaneseGoblin)
+  - 数据集概要：JapaneseGoblin 是 en.touhouwiki.net 维基的转储。
+  - Downloads: 56
+- [hpprc/llmjp-warp-html](https://huggingface.co/datasets/hpprc/llmjp-warp-html)
+  - 将经过level2筛选的llm-jp-corpus-v3中的warp_html转换为HF格式，获取并附加了从每个数据的URL中获取原始文章标题的数据集。
+  - Downloads: 56
+- [FreedomIntelligence/MMLU_Japanese](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Japanese)
+  - 由gpt-3.5-turbo翻译的MMLU数据集的日语版本。
+  - Downloads: 55
+- [taishi-i/awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)
+  - 数据集概述该数据集用于确定 GitHub 代码库描述是否涉及日语自然语言处理（NLP）。
+  - Downloads: 55
+- [FrancophonIA/XFUND](https://huggingface.co/datasets/FrancophonIA/XFUND)
+  - 数据集来源: https://github.com/doc-analysis/XFUND XFUND:
+  - Downloads: 55
+- [hpprc/quiz-no-mori](https://huggingface.co/datasets/hpprc/quiz-no-mori)
+  - 这是一份包含Quiz no Mori网站上的可获取的、截至2024年8月5日为止以“自由使用许可级别”提供的题目的数据集。
+  - Downloads: 55
+- [tellarin-ai/llm-japanese-dataset-vanilla-aya-format](https://huggingface.co/datasets/tellarin-ai/llm-japanese-dataset-vanilla-aya-format)
+  - 它包含了用于LLM构建/调整的日语指导数据。
+  - Downloads: 55
+- [kunishou/HelpSteer2-20k-ja](https://huggingface.co/datasets/kunishou/HelpSteer2-20k-ja)
+  - NVIDIA发布的针对SteerLM的试用数据集HelpSteer2是自动生成的日文翻译数据集。
+  - Downloads: 54
+- [if001/elementray_small](https://huggingface.co/datasets/if001/elementray_small)
+  - 这里有更多创建的数据集：https://huggingface.co/datasets/if001/elementray_m calm3-22b，使用这个数据集可以创建简单的日语例句。
+  - Downloads: 54
+- [oshizo/LawClustering-ja](https://huggingface.co/datasets/oshizo/LawClustering-ja)
+  - 这是用于嵌入模型训练和评估的聚类数据集。
+  - Downloads: 54
+- [tohoku-nlp/abc-multiple-choice](https://huggingface.co/datasets/tohoku-nlp/abc-multiple-choice)
+  - abc-multiple-choice数据集是基于竞技问答比赛“abc”使用的四选一问题而创建的多项选择问答数据集。
+  - Downloads: 54
+- [sudy-super/CoTangent](https://huggingface.co/datasets/sudy-super/CoTangent)
+  - CoTangent是人工制作的高质量、清洁的100套日语CoT数据集。
+  - Downloads: 54
+- [kunishou/oasst1-chat-44k-ja](https://huggingface.co/datasets/kunishou/oasst1-chat-44k-ja)
+  - 这是一个转换为聊天格式的数据集，其文件名为oasst1-89k-ja。
+  - Downloads: 53
+- [mohamed-khalil/KaidanNihonbunka](https://huggingface.co/datasets/mohamed-khalil/KaidanNihonbunka)
+  - 怪谭日本文化：百物语鬼故事之旅 欢迎来到怪谭日本文化数据集 关于名称怪谭日本文化在日语中翻译为：怪谭（Kwaidan）：鬼故事或超自然故事。
+  - Downloads: 53
+- [YANS-official/senryu-shashin](https://huggingface.co/datasets/YANS-official/senryu-shashin)
+  - 从数据集导入加载数据集的方式：from datasets import load_dataset，加载数据集：dataset = load_dataset("YANS-official/senryu-shashin", split="train")。概述：这是东建公司旗下的Home Mate Research举办的“Home Mate Senryu大奖”之一，涉及提供图像形式题目的“摄影川柳”的爬取数据。
+  - Downloads: 53
+- [Atsushi/fungi_trait_circus_database](https://huggingface.co/datasets/Atsushi/fungi_trait_circus_database)
+  - 大菌圈「Trait Circus」数据库（受控特征）最终更新日期：2023年12月29日====语言日语和英语请暂时不要将此数据集用于学术目的。
+  - Downloads: 53
+- [range3/wikipedia-ja-20230101](https://huggingface.co/datasets/range3/wikipedia-ja-20230101)
+  - 这个数据集包括了从维基百科数据集中提取出的仅包含日语数据的Parquet文件。
+  - Downloads: 52
+- [Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k)
+  - 通过应用Synthetic-JP-Conversations-Magpie-Nemotron-4-10kMagpie的方法，我们创建了一个约10000条用于日语指令调整的数据集，用于对nvidia/Nemotron-4-340B-Instruct进行调整。
+  - Downloads: 52
+- [WarriorMama777/databricks-dolly-15k-ja_cool](https://huggingface.co/datasets/WarriorMama777/databricks-dolly-15k-ja_cool)
+  - 概述：此数据集是从kunishou/databricks-dolly-15k-en编辑而来。
+  - Downloads: 52
+- [larryvrh/WikiMatrix-v1-Ja_Zh-filtered](https://huggingface.co/datasets/larryvrh/WikiMatrix-v1-Ja_Zh-filtered)
+  - 经过筛选和修改的来自WikiMatrix v1的日语/中文语言对数据。处理步骤：1.
+  - Downloads: 52
+- [creative-graphic-design/CAMERA](https://huggingface.co/datasets/creative-graphic-design/CAMERA)
+  - 希望我们的数据集能够在研究中发挥作用，实现更先进的广告文本生成模型。
+  - Downloads: 51
+- [kunishou/oasst2-chat-68k-ja](https://huggingface.co/datasets/kunishou/oasst2-chat-68k-ja)
+  - oasst2-135k-ja 是一个被转换成聊天形式的数据集。
+  - Downloads: 51
+- [hatakeyama-llm-team/AutoGeneratedJapaneseQA](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA)
+  - 从各种数据源自动生成Q&A，使用MaziyarPanahi / Mixtral-8x22B-Instruct-v0.1-GGUF生成的。存在两种自动生成的答案，由CommonCrawl或CC-BY系列的数据源生成。
+  - Downloads: 51
+- [Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k)
+  - 将Magpie的方法应用于nvidia的Nemotron-4-340B-Instruct，并创建了约10000条日语编码对话数据集。
+  - Downloads: 51
+- [YANS-official/senryu-debug](https://huggingface.co/datasets/YANS-official/senryu-debug)
+  - 从datasets导入load_dataset，数据集=加载数据集（"YANS-official/senryu-debug"，拆分="测试"） 概述 这是用于确认大喜剧生成的数据集。
+  - Downloads: 51
+- [oshizo/HSClustering-ja](https://huggingface.co/datasets/oshizo/HSClustering-ja)
+  - 用于嵌入模型的学习和评估的聚类数据集。
+  - Downloads: 51
+- [MakiAi/Tokama_Club_QA](https://huggingface.co/datasets/MakiAi/Tokama_Club_QA)
+  - 东方托卡马克俱乐部数据集概要。这个数据集收集了关于东方Project中托卡马克俱乐部的信息。
+  - Downloads: 51
+- [Mitsua/wikidata-parallel-descriptions-en-ja](https://huggingface.co/datasets/Mitsua/wikidata-parallel-descriptions-en-ja)
+  - 从Wikidata转储生成的用于机器翻译的英日平行语料库（2024-05-06）。
+  - Downloads: 50
+- [llm-jp/mbpp-ja](https://huggingface.co/datasets/llm-jp/mbpp-ja)
+  - 该存储库提供了一个由日本合作项目LLM-jp翻译的mbpp数据集，该数据集是从英语翻译成日语的。
+  - Downloads: 50
+- [p1atdev/japanese-stackexchange](https://huggingface.co/datasets/p1atdev/japanese-stackexchange)
+  - 日本语堆栈交换是一个根据日文堆栈交换的数据导出，经过加工处理转换为问题和答案配对的QA数据集。
+  - Downloads: 50
+- [yubo0306/fed_ja](https://huggingface.co/datasets/yubo0306/fed_ja)
+  - 使用Google Cloud Translate API v2将FED数据集翻译成日语的数据集。
+  - Downloads: 49
+- [hotchpotch/jaqket_cc](https://huggingface.co/datasets/hotchpotch/jaqket_cc)
+  - JAQKET 这个数据集是 AI 王官方发布的数据集，仅包含 CC-BY-SA 许可的数据。其中包括的是根据 CC-BY-SA-4.0 许可发布的测验数据集。
+  - Downloads: 49
+- [toshi456/ViQuAE-JA](https://huggingface.co/datasets/toshi456/ViQuAE-JA)
+  - 这个数据集是通过将“ViQuAE”机器翻译成日语而创建的。
+  - Downloads: 49
+- [Aratako/Bluemoon_Top50MB_Sorted_Fixed_ja](https://huggingface.co/datasets/Aratako/Bluemoon_Top50MB_Sorted_Fixed_ja)
+  - 蓝月亮_Top50MB_已排序_修复_jaSicariusSicariiStuff/蓝月亮_Top50MB_已排序_修复是一个用GENIAC-Team-Ozaki/karakuri-lm-8x7b-chat-v0.1-awq转换成日文的角色扮演学习数据集。
+  - Downloads: 49
+- [Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k)
+  - Synthetic-JP-EN-Coding-Dataset-Magpie-69kMagpie的方法被应用于各种模型并创建了约69000条日语和英语编码对话数据集。
+  - Downloads: 49
+- [longisland3/NMLE](https://huggingface.co/datasets/longisland3/NMLE)
+  - 医生国家考试数据集（NMLE数据集）首先，由于搜索未果（可能存在研究不足的情况），我将公开医生国家考试数据集。作为医生和AI工程师，我一直认为医生国家考试数据集应该存在且应该是理所当然的，但目前（截至2024年6月13日）我无法确认其存在，因此我决定自己创建。当前
+  - Downloads: 49
+- [Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus](https://huggingface.co/datasets/Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus)
+  - 介绍这是由ntt的JParaCrawl v3大型英日平行语料库中的前100万行经过LLM筛选的数据集。
+  - Downloads: 49
+- [aixsatoshi/Longcontext-aozora-instruction](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-instruction)
+  - 用于长篇说明文的数据集。
+  - Downloads: 49
+- [YANS-official/ogiri-debug](https://huggingface.co/datasets/YANS-official/ogiri-debug)
+  - 从数据集中导入数据集的加载方式：from datasets import load_dataset dataset = load_dataset("YANS-official/ogiri-debug", split="test")。概要：这是用于大喜利生成的操作确认的数据集。
+  - Downloads: 48
+- [kanhatakeyama/SyntheticTextOpenMathInstruct](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextOpenMathInstruct)
+  - 根据从以下数据源随机抽取的日语文本所创建的Phi-3语料库。OpenMathInstruct-1-1.8m-ja代码在某些计算中使用了东京工业大学的超级计算机TSUBAME4.0。
+  - Downloads: 48
+- [Nexdata/Chinese-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Chinese-Japanese_Parallel_Corpus_Data)
+  - 它涵盖了多个领域，包括一般领域、IT、新闻、专利和国际发动机。
+  - Downloads: 48
+- [nakayama/hh-rlhf-helpful-base-ja](https://huggingface.co/datasets/nakayama/hh-rlhf-helpful-base-ja)
+  - 我在 fuguMT的上翻译了 https://github.com/anthropics/hh-rlhf 中 helpful-base 文件夹内的 chosen ，将没有正确翻译的内容排除并进行了修正。
+  - Downloads: 48
+- [ThePioneer/Artificial-super-girlfriend-for-fine-tuning](https://huggingface.co/datasets/ThePioneer/Artificial-super-girlfriend-for-fine-tuning)
+  - 为了能够创建一个相对清晰的模型来解决现实人物模型中特有的肖像权问题，我从自身创作的人工超女友（ver 2.1版，ver 2.6版）数据集（约2800张）开始制作。
+  - Downloads: 47
+- [yutakobayashi/diet-members-voice-embeddings](https://huggingface.co/datasets/yutakobayashi/diet-members-voice-embeddings)
+  - 这是使用speechbrain/spkrec-ecapa-voxceleb工具对日本国会议员的声音进行embedding并创建的数据集。
+  - Downloads: 47
+- [Hoshikuzu/JParaCrawl](https://huggingface.co/datasets/Hoshikuzu/JParaCrawl)
+  - 请查看下方网站获取更多信息！
+  - Downloads: 47
+- [oshizo/JMDNClustering-ja](https://huggingface.co/datasets/oshizo/JMDNClustering-ja)
+  - 用于嵌入模型训练和评估的聚类数据集。
+  - Downloads: 47
+- [ryota39/Aya_ja](https://huggingface.co/datasets/ryota39/Aya_ja)
+  - 这个数据集是从CohereForAI/aya_dataset中提取出的日语指令数据集。
+  - Downloads: 47
+- [watashihakobashi/ogiri](https://huggingface.co/datasets/watashihakobashi/ogiri)
+  - 东京大学松尾·岩泽研究室主办的LLM课程2024年第5期“SFT”练习使用的数据集。
+  - Downloads: 46
+- [shi3z/ja_conv_wikipedia_llama2pro8b_20k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_20k)
+  - 这个数据集是基于日文维基百科数据集，并使用 llama2Pro8B 转换成了多轮对话格式。
+  - Downloads: 46
+- [mpasila/ParallelFiction-Ja_En-100k-json](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-json)
+  - 这是我将 NilanE/ParallelFiction-Ja_En-100k 转换为 json 格式的文件，可以用于在训练模型时被 text-generation-webui 读取。
+  - Downloads: 46
+- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC)
+  - 这是使用自动生成的Q&amp;A数据源，基于MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF生成的Q&amp;A。数据是基于Common Crawl生成的。
+  - Downloads: 46
+- [toshi456/Rakuten-Alpaca-Data-32K](https://huggingface.co/datasets/toshi456/Rakuten-Alpaca-Data-32K)
+  - 在进行数据生成时，我们使用了由热心人士创建的seed_tasks_japanese.jsonl作为SEED数据。
+  - Downloads: 46
+- [den2nova/den2niji](https://huggingface.co/datasets/den2nova/den2niji)
+  - LoRA 数据集披露用数据。
+  - Downloads: 46
+- [fufufukakaka/pokemon_battle_team_dataset_regulation_f](https://huggingface.co/datasets/fufufukakaka/pokemon_battle_team_dataset_regulation_f)
+  - 这是记录了宝可梦（VGC）在F规则下的出场数据的数据集。
+  - Downloads: 45
+- [oshizo/japanese-wikipedia-paragraphs-embeddings](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs-embeddings)
+  - 该数据集已被intfloat/multilingual-e5-base模型向量化，并利用faiss创建了索引文件。
+  - Downloads: 45
+- [Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone](https://huggingface.co/datasets/Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone)
+  - 他们就一系列给定的话题进行了自由讨论，涉及多个领域；发言自然流畅，符合实际对话场景。
+  - Downloads: 44
+- [Atom007/mc4-japanese-data](https://huggingface.co/datasets/Atom007/mc4-japanese-data)
+  - 请参考 https://huggingface.co/datasets/mc4
+  - Downloads: 44
+- [shi3z/ja_conv_wikipedia_orion14B_100K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_100K)
+  - 这是使用Orion14B-Chat从日语维基百科数据集生成的多轮对话数据集。
+  - Downloads: 44
+- [DataPilot/databricks-dolly-15k-Nyan-ja](https://huggingface.co/datasets/DataPilot/databricks-dolly-15k-Nyan-ja)
+  - 这个数据集是由kunishou先生发布的“databricks-dolly-15k”经过日本翻译后得到的kunishou/databricks-dolly-15k-ja数据集，使用ArrowPro-7B-KUJIRA来添加结尾“にゃん！”
+  - Downloads: 44
+- [YukiTomita-CC/ELYZA-tasks-100_Human_solved](https://huggingface.co/datasets/YukiTomita-CC/ELYZA-tasks-100_Human_solved)
+  - 这个数据集是有关日语LLM评估的elyza/ELYZA-tasks-100经常使用的数据集，其中包含人类回答的结果。
+  - Downloads: 44
+- [GENIAC-Team-Ozaki/chatbot-arena-ja-calm2-7b-chat-experimental_deduped](https://huggingface.co/datasets/GENIAC-Team-Ozaki/chatbot-arena-ja-calm2-7b-chat-experimental_deduped)
+  - 这是从chatbot-arena-ja-calm2-7b-chat数据集中删除与prompt匹配的数据所得到的数据集。
+  - Downloads: 44
+- [globis-university/aozorabunko-chats](https://huggingface.co/datasets/globis-university/aozorabunko-chats)
+  - 总览 这个数据集是从青空文库中提取出来的对话数据，该文库收集了日本的公有领域图书，使用了简单的启发式方法。
+  - Downloads: 43
+- [svjack/pokemon-blip-captions-en-ja](https://huggingface.co/datasets/svjack/pokemon-blip-captions-en-ja)
+  - 用于训练宝可梦文本到图像模型的数据集，添加一个宝可梦BLIP标题的日语列BLIP为从Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis (FastGAN)引入的Few Shot Pokémon数据集中的宝可梦图像生成的标题。
+  - Downloads: 43
+- [p1atdev/fake-news-jp](https://huggingface.co/datasets/p1atdev/fake-news-jp)
+  - 将日本语的假新闻数据集转换为适用于HuggingFace datasets的格式。
+  - Downloads: 43
+- [U23-lab/wiki40b_qa_ja](https://huggingface.co/datasets/U23-lab/wiki40b_qa_ja)
+  - 从wiki40b-ja生成的问答数据集
+  - Downloads: 43
+- [sbintuitions/aio-extended-answers](https://huggingface.co/datasets/sbintuitions/aio-extended-answers)
+  - AIO（AI王）是一个日本问答数据集。
+  - Downloads: 43
+- [werty1248/OpenOrca-EnKoZhJa-18k](https://huggingface.co/datasets/werty1248/OpenOrca-EnKoZhJa-18k)
+  - 这个数据集是韩文、中文和日文的OpenOrca翻译数据集。
+  - Downloads: 43
+- [YANS-official/senryu-marusen](https://huggingface.co/datasets/YANS-official/senryu-marusen)
+  - 从数据集导入加载数据集的方式。数据集 = load_dataset("YANS-official/senryu-marusen", split="train")。这是国内最大规模的川绘投稿网站『川竹投稿まる洗』的爬取数据，每月有1万句以上的投稿。
+  - Downloads: 43
+- [ayousanz/common-voice-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/common-voice-speechMOS-analyze)
+  - 在speechMOS进行的音质分析结果是针对Common Voice Corpus 17.0。
+  - Downloads: 43
+- [ayousanz/reazon-speech-v2-all-WAND-SNR-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-WAND-SNR-analyze)
+  - reazon-research/reazonspeech-v2[all]在WADA SNR上进行的音频质量分析结果。
+  - Downloads: 43
+- [hpprc/tanaka-corpus](https://huggingface.co/datasets/hpprc/tanaka-corpus)
+  - HF Datasets 版本的田中语料库。
+  - Downloads: 43
+- [Sakalti/hachiwari](https://huggingface.co/datasets/Sakalti/hachiwari)
+  - 这个名称起源于"hachiwari/はちわれ" (chiikawa/ちいかわ)。
+  - Downloads: 42
+- [tzmtwtr/tw-posts-japanese](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese)
+  - 数据制作者（t_w）
+  - Downloads: 42
+- [shi3z/ja_conv_wikipedia_llama2pro8b_30k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_30k)
+  - 这个数据集是基于日语版维基百科数据集，并使用llama2Pro8B转换为多轮对话格式。由于它是llama2许可证，可以商业化用于服务。
+  - Downloads: 42
+- [HachiML/Evol-Alpaca-gen3-500](https://huggingface.co/datasets/HachiML/Evol-Alpaca-gen3-500)
+  - Evol-Alpaca-gen3-500是使用Stanford Alpaca的seed tasks经日本化处理，通过Evol-Instruction的mistralai/Mixtral-8x22B-Instruct-v0.1方法生成的合成数据。
+  - Downloads: 42
+- [seungwon929/Ja-miracl](https://huggingface.co/datasets/seungwon929/Ja-miracl)
+  - 这个数据集代表了将 miracl 数据集中的日语（Ja）部分转换成 BeIR 格式，使其能够与 mteb 兼容。
+  - Downloads: 42
+- [shi3z/ja_conv_wikipedia_llama2pro8b_10k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_10k)
+  - 这个数据集基于日语版的维基百科数据集，并使用llama2Pro8B将其转换为多回合对话格式。
+  - Downloads: 42
+- [Gustav114514/work](https://huggingface.co/datasets/Gustav114514/work)
+  - 在日语中对 facebook/wav2vec2-large-xlsr-53 模型进行了微调以用于语音识别，在 Common Voice 6.1、CSS10 和 JSUT 的训练和验证数据集上完成微调。在使用此模型时，请确保您的语音输入以16kHz采样。
+  - Downloads: 42
+- [kanhatakeyama/multiturn-conv-from-aozora-bunko](https://huggingface.co/datasets/kanhatakeyama/multiturn-conv-from-aozora-bunko)
+  - 根据从青空文库随机摘录的文本，使用Calm3-22B-chat生成了自动生成的多轮对话数据。生成代码是“我是猫”的限定版本，进行了轻微的清理。
+  - Downloads: 42
+- [llm-book/jawiki-20220404-c400](https://huggingface.co/datasets/llm-book/jawiki-20220404-c400)
+  - 该数据集包含的段落是从2022年4月4日的日本维基百科中提取的，每个段落由连续不超过400个字符的句子组成。
+  - Downloads: 41
+- [MilosNaniwa/WarChestDojo](https://huggingface.co/datasets/MilosNaniwa/WarChestDojo)
+  - 数据集中每个键及其描述：state_id：用于唯一标识游戏状态的ID。
+  - Downloads: 41
+- [toshi456/LLaVA-JP-Instruct-108K](https://huggingface.co/datasets/toshi456/LLaVA-JP-Instruct-108K)
+  - 数据集详情 数据集类型:
+  - Downloads: 41
+- [kenkensz9/kenkensz9_1242tw2](https://huggingface.co/datasets/kenkensz9/kenkensz9_1242tw2)
+  - 这个数据集是由作者自己发布的推文中特别优秀的内容(后文提及)所收集而成的。
+  - Downloads: 41
+- [Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k)
+  - 使用Magpie的方法对nvidia/Nemotron-4-340B-Instruct进行应用，生成了包含20000条日语⇔英语翻译数据的数据集。
+  - Downloads: 41
+- [DataPilot/Generated-dataset-by-deepseek-v2.5](https://huggingface.co/datasets/DataPilot/Generated-dataset-by-deepseek-v2.5)
+  - 这个数据集是使用null-instruct-ja和DeepSeek-v2.5的q4合成而成的。
+  - Downloads: 41
+- [hpprc/alt-parallel-en-ja](https://huggingface.co/datasets/hpprc/alt-parallel-en-ja)
+  - 亚洲语言树库（ALT）项目ALT
+  - Downloads: 41
+- [JapanDegitalMaterial/Scenery_of_japan](https://huggingface.co/datasets/JapanDegitalMaterial/Scenery_of_japan)
+  - 日本的风景。
+  - Downloads: 41
+- [kunishou/jp-effective-instructions](https://huggingface.co/datasets/kunishou/jp-effective-instructions)
+  - 这个数据集是从 oasst1-89k-ja、databricks-dolly-15k-ja、hh-rlhf-49k-ja 中根据 JGLUE（JcommonsenseQA、MARC-ja、JSQuAD）的角度筛选出高质量的数据集。
+  - Downloads: 40
+- [augmxnt/shisa-pretrain-en-ja-v1](https://huggingface.co/datasets/augmxnt/shisa-pretrain-en-ja-v1)
+  - 这个预训练数据集是为 shisa-base-7b-v1 创建的。它主要由 MADLAD-400 日语/英语标记的 DSIR 采样组成，比例为 90%/10%。
+  - Downloads: 40
+- [ayousanz/reazon-speech-v2-all-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-speechMOS-analyze)
+  - 概述：这是对reazon-research/reazonspeech-v2[all]在speechMOS上进行音质分析的结果。
+  - Downloads: 40
+- [toshi456/NLVR-JA](https://huggingface.co/datasets/toshi456/NLVR-JA)
+  - 这个数据集是通过将“nlvr”机器翻译成日语创建的。nlvr链接：https://github.com/lil-lab/nlvr/tree/master/nlvr
+  - Downloads: 40
+- [ikeno-ada/Japanese-English_translation_of_contents_HScodes](https://huggingface.co/datasets/ikeno-ada/Japanese-English_translation_of_contents_HScodes)
+  - 根据由日本邮政提供的《国际邮政　包裹内容的日英・中英翻译、HS编码等》（2024/05/09）数据。
+  - Downloads: 40
+- [YANS-official/ogiri-keitai](https://huggingface.co/datasets/YANS-official/ogiri-keitai)
+  - NHK 定期播出的《收到来电要回复！
+  - Downloads: 40
+- [YANS-official/senryu-test-with-references](https://huggingface.co/datasets/YANS-official/senryu-test-with-references)
+  - 从数据集中导入load_dataset数据集= load_dataset（"YANS-official/senryu-test"，split="test"）概述这是关于“摄影短歌”和“川柳投稿まるせん”网站的爬虫数据。
+  - Downloads: 40
+- [Hoshikuzu/Tanaka-corpus](https://huggingface.co/datasets/Hoshikuzu/Tanaka-corpus)
+  - 了解更多信息，请访问以下网站！
+  - Downloads: 40
+- [Hoshikuzu/Japanese-Law-Translation](https://huggingface.co/datasets/Hoshikuzu/Japanese-Law-Translation)
+  - 日语法律翻译数据集总结
+  - Downloads: 40
+- [karakuri-ai/corrected-mt-bench-ja](https://huggingface.co/datasets/karakuri-ai/corrected-mt-bench-ja)
+  - 通过Corrected MT-Bench-ja Inflection AI进行的Corrected MT-Bench的日语翻译。
+  - Downloads: 40
+- [GENIAC-Team-Ozaki/WikiHowNFQA-ja](https://huggingface.co/datasets/GENIAC-Team-Ozaki/WikiHowNFQA-ja)
+  - 这是翻译成日语的Lurunchik/WikiHowNFQA数据集。
+  - Downloads: 40
+- [hatakeyama-llm-team/CommonCrawlPDFJa](https://huggingface.co/datasets/hatakeyama-llm-team/CommonCrawlPDFJa)
+  - 从CommonCrawlPDFJapanese域提取的数据代码在这里。
+  - Downloads: 40
+- [Nexdata/Japanese_Pronunciation_Dictionary](https://huggingface.co/datasets/Nexdata/Japanese_Pronunciation_Dictionary)
+  - 所有的词语和发音都是由日本语言学家所提供。
+  - Downloads: 40
+- [shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K](https://huggingface.co/datasets/shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K)
+  - 利用维基百科数据，基于Qarasu14B生成了日语多轮对话数据。
+  - Downloads: 39
+- [Kendamarron/pret-a-porter-instruction-v0.1](https://huggingface.co/datasets/Kendamarron/pret-a-porter-instruction-v0.1)
+  - 这是在人工检查和修正了OpenAI的LLM模型输出的数据集上使用Swallow-MX生成的输出。
+  - Downloads: 39
+- [Calvin-Xu/Furigana-Aozora](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora)
+  - 从由青空文库和Sapie的点字数据创建的假名数据集中生成（GitHub）https://github.com/ndl-lab/huriganacorpus-aozora 在验证过程中消除了原始语料库中的某些不匹配（307个实例）错误：烈烈的气氛。
+  - Downloads: 39
+- [YANS-official/ogiri-test-with-references](https://huggingface.co/datasets/YANS-official/ogiri-test-with-references)
+  - 从数据集导入加载数据集的方式 import load_dataset dataset = load_dataset("YANS-official/bokete-ogiri-test", split="test") 摘要 这是大喜利投稿网站Bokete的爬虫数据。
+  - Downloads: 39
+- [Calvin-Xu/FLFL-Aozora-Speech-Train](https://huggingface.co/datasets/Calvin-Xu/FLFL-Aozora-Speech-Train)
+  - 一个更加激进地清理过的版本，它包含了从原始数据“青空文庫及びサピエの音声デイジーデータ”生成的 3,361,443 个条目中的 2,536,041 个条目。数据集链接：https://github.com/ndl-lab/hurigana-speech-corpus-aozora。
+  - Downloads: 39
+- [AlienKevin/ndlbib-furigana](https://huggingface.co/datasets/AlienKevin/ndlbib-furigana)
+  - 国立国会图书馆的书目数据生成的振り仮名字符数据集。
+  - Downloads: 39
+- [shi3z/ja_conv_wikipedia_llama2pro8b_3k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_3k)
+  - 这个数据集是基于日语维基百科数据集，并使用llama2Pro8B转换成了多轮对话格式。
+  - Downloads: 39
+- [tzmtwtr/tw-posts-japanese-v2](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese-v2)
+  - 数据制作者（t_w）
+  - Downloads: 39
+- [shi3z/rachel](https://huggingface.co/datasets/shi3z/rachel)
+  - 这是一个用于制作日本聊天机器人的手工数据集。
+  - Downloads: 39
+- [CausalLM/GPT-4-Self-Instruct-Japanese](https://huggingface.co/datasets/CausalLM/GPT-4-Self-Instruct-Japanese)
+  - 抱歉，这个资源在Hugging Face上不再可用。
+  - Downloads: 38
+- [Kendamarron/jimba-instruction-simplify-200](https://huggingface.co/datasets/Kendamarron/jimba-instruction-simplify-200)
+  - 这个数据集是从Kendamarron/jimba-instuction-1k-beta数据集中的说明中挑选了200个，然后将它们重写成更简单的任务。
+  - Downloads: 38
+- [wolf4032/token-classification-japanese-search-local-cuisine](https://huggingface.co/datasets/wolf4032/token-classification-japanese-search-local-cuisine)
+  - 寻找烹饪信息的问题内容以及包含用于搜索的关键词信息的数据集。固有表达有以下四种类型。
+  - Downloads: 38
+- [masajek/openassistant-guanaco-ja](https://huggingface.co/datasets/masajek/openassistant-guanaco-ja)
+  - 这个数据集是Open Assistant数据集的一个子集，仅包含日语对话。
+  - Downloads: 38
+- [izumi-lab/piqa-ja-mbartm2m](https://huggingface.co/datasets/izumi-lab/piqa-ja-mbartm2m)
+  - 数据集描述：这是piqa的日语翻译版本。
+  - Downloads: 38
+- [shi3z/ja_conv_wikipedia_orion14B_10K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_10K)
+  - 这是一个从日文维基百科数据集使用Orion14B-Chat生成的多轮对话数据集。
+  - Downloads: 37
+- [saillab/alpaca_japanese_taco](https://huggingface.co/datasets/saillab/alpaca_japanese_taco)
+  - 这个代码库包含了 TaCo 论文使用的数据集。
+  - Downloads: 37
+- [YANS-official/ogiri-test](https://huggingface.co/datasets/YANS-official/ogiri-test)
+  - 从数据集导入加载数据的方式 导入数据集数据集=加载数据集(“YANS-official/ogiri-test", 分割="测试”) 概述 这是大喜利投稿网站Bokete的爬虫数据。
+  - Downloads: 37
+- [aipracticecafe/wataoshi-dialogues-rp](https://huggingface.co/datasets/aipracticecafe/wataoshi-dialogues-rp)
+  - 这个数据集是关于“我的推理是恶役千金”。
+  - Downloads: 37
+- [p1atdev/novecomi-novel-metadata](https://huggingface.co/datasets/p1atdev/novecomi-novel-metadata)
+  - 从https://dengekibunko.jp/novecomi/novel/网页上进行小说元数据的抓取。
+  - Downloads: 37
+- [Coaso/test-dolly-15ja-for-stftrainer](https://huggingface.co/datasets/Coaso/test-dolly-15ja-for-stftrainer)
+  - 这只是一个dolly-15k-jp的数据集。
+  - Downloads: 36
+- [alfredplpl/genai-terminology-en-ja](https://huggingface.co/datasets/alfredplpl/genai-terminology-en-ja)
+  - 这是一个日语到英语的专业术语集合。
+  - Downloads: 36
+- [iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B)
+  - 使用Qwen/Qwen1.5-14B模型生成的日本数据集。
+  - Downloads: 36
+- [tellarin-ai/ntx_llm_inst_japanese](https://huggingface.co/datasets/tellarin-ai/ntx_llm_inst_japanese)
+  - 有关原始 NTX 数据集的详细信息，转换为 Aya 指令格式，或更多详细信息，请参阅指令形式的完整数据集（https://huggingface.co/datasets/tellarin-ai/ntx_llm_instructions）
+  - Downloads: 36
+- [p1atdev/oiocha](https://huggingface.co/datasets/p1atdev/oiocha)
+  - 哦~ 我茶新俳句大赛获奖作品数据集包含221个俳句，其中大约有200首附有作者和评委的评论。
+  - Downloads: 35
+- [GENIAC-Team-Ozaki/WikiHowNFQA-ja_cleaned](https://huggingface.co/datasets/GENIAC-Team-Ozaki/WikiHowNFQA-ja_cleaned)
+  - Lurunchik/WikiHowNFQA 是经人手清理的数据集，并已被翻译成日文。
+  - Downloads: 35
+- [kenkensz9/nareba1691](https://huggingface.co/datasets/kenkensz9/nareba1691)
+  - 这个数据集是使用OpenAI公司的GPT-3.5进行微调后，再使用自行收集的具有个性的330条推特数据集（来源为 https://huggingface.co/datasets/kenkensz9/kenkensz9_1242tw2 ）进行微调的模型生成的推文，并对其进行打分的模型。
+  - Downloads: 35
+- [joujiboi/bluemoon-fandom-1-1-rp-jp-translated](https://huggingface.co/datasets/joujiboi/bluemoon-fandom-1-1-rp-jp-translated)
+  - 蓝月粉丝群 1-1 角色扮演 清理过的子集 Squish42/bluemoon-fandom-1-1-rp-jp-translated 已使用 command-r-08-2024 翻译成日语。
+  - Downloads: 35
 - [iam-ajaymeena/Self-Instruct-Japanese-Elzya-13B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Elzya-13B)
   - 一个由开源elyza/ELYZA-japanese-Llama-2-13b-instruct模型生成的日本数据集。
+  - Downloads: 35
+- [mpasila/ParallelFiction-Ja_En-100k-alpaca-4k-context](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-alpaca-4k-context)
+  - 这是经过修改的NilanE/ParallelFiction-Ja_En-100k版本，已转换为Alpaca格式。
+  - Downloads: 35
+- [Nexdata/Japanese-English_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Japanese-English_Parallel_Corpus_Data)
+  - 更多详细信息，请参考链接：https://www.nexdata.ai/datasets/153？
+  - Downloads: 35
+- [tombailey/oasst1-ja](https://huggingface.co/datasets/tombailey/oasst1-ja)
+  - 基于OpenAssistant对话数据集（OASST1）的描述
+  - Downloads: 34
+- [lissette/Nanami-Chiaki-audio](https://huggingface.co/datasets/lissette/Nanami-Chiaki-audio)
+  - 弹丸论破的七海千秋语音数据 -> The voice data of Chiaki Nanami from Danganronpa
+  - Downloads: 34
+- [BigleBomb/japanese-vet-terms](https://huggingface.co/datasets/BigleBomb/japanese-vet-terms)
+  - 兽医学日语数据集 这个数据集包含了日语兽医学术语的音频文件，按药物、疾病和症状进行分类。
+  - Downloads: 34
+- [DataPilot/in-foxhound-ja](https://huggingface.co/datasets/DataPilot/in-foxhound-ja)
+  - 概要：该数据集是由glaive-ai发布的，通过KUJIRA翻译成日语的in-foxhound数据集。
+  - Downloads: 34
+- [saillab/alpaca-japanese-cleaned](https://huggingface.co/datasets/saillab/alpaca-japanese-cleaned)
+  - 这个仓库包含了 TaCo 论文使用的数据集。
+  - Downloads: 34
+- [Ego/jpflan](https://huggingface.co/datasets/Ego/jpflan)
+  - 这是从约40个日语开源下游任务数据集中模板化的数据版本。
+  - Downloads: 32
+- [YANS-official/senryu-test](https://huggingface.co/datasets/YANS-official/senryu-test)
+  - 从数据集导入加载数据集的方法为： from datasets import load_dataset dataset = load_dataset("YANS-official/senryu-test", split="test") 概述：该数据集包含了从川柳投稿网站“写真川柳”和“川柳投稿まるせん”爬取的数据，以及由YANS委员会创建的数据。
+  - Downloads: 32
+- [kai271/TinyStories-Japanese](https://huggingface.co/datasets/kai271/TinyStories-Japanese)
+  - 包含大约7000个由GPT-4o-mini合成的孩子故事的数据集，这些故事只使用简单词汇。
+  - Downloads: 30
+- [Ego/jpflan-raw](https://huggingface.co/datasets/Ego/jpflan-raw)
+  - 这是一个包含大约40个日本开源下游任务数据集的原始数据集合。
+  - Downloads: 29
+- [DeL-TaiseiOzaki/reasoning-finetuning-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/reasoning-finetuning-ja)
+  - 日语指示、推理和回答数据集概述 该存储库是基于SkunkworksAI/reasoning-0.01中包含的指示数据，使用Qwen/Qwen2.5-32B-Instruct模型创建的日语版本的指示、推理和回答数据集。
+  - Downloads: 24
+- [ganchengguang/Text-Classification-and-Relation-Event-Extraction-Mix-datasets](https://huggingface.co/datasets/ganchengguang/Text-Classification-and-Relation-Event-Extraction-Mix-datasets)
+  - GIELLM数据集的论文。
+  - Downloads: 19
+- [DeL-TaiseiOzaki/magpie-qwen2.5-32B-10K-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-qwen2.5-32B-10K-ja)
+  - 合成日本语指示数据集概要。该数据集使用大规模语言模型（Qwen2.5-32B-instruct）。
+  - Downloads: 19
+- [SakanaAI/ChouBun](https://huggingface.co/datasets/SakanaAI/ChouBun)
+  - ChouBun数据集描述ChouBun是用于评估LLM在长文本任务中表现的基准，专门针对日语语言。
+  - Downloads: 18
+- [ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM](https://huggingface.co/datasets/ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM)
+  - SLG框架的数据集。
+  - Downloads: 18
+- [sbintuitions/JCommonsenseQA](https://huggingface.co/datasets/sbintuitions/JCommonsenseQA)
+  - 评分的再现性保证和 SB直觉修订版本的发布克隆源：Github 上的 yahoojapan/JGLUE JCommonsenseQA 是 CommonsenseQA（Talmor+，2019）的日文版本，这是一个需要常识推理能力的多项选择问题回答数据集。
+  - Downloads: 14
+- [sbintuitions/JSQuAD](https://huggingface.co/datasets/sbintuitions/JSQuAD)
+  - 评分的再现性确保和公开用的 SB Intuitions 修正版克隆源：来自 GitHub 上的 yahoojapan/JGLUE JSQuAD JSQuAD 是 SQuAD（Rajpurkar+，2016）的数据集之一，它是阅读理解的日文版本。
+  - Downloads: 14
+- [ibm/AttaQ-JA](https://huggingface.co/datasets/ibm/AttaQ-JA)
+  - AttaQ-JA数据集卡 AttaQ红队数据集旨在通过评估大型语言模型（LLMs）来评估它们生成有害或不良回答的倾向，其中包含了1402个精心设计的对抗性问题。
   - Downloads: 13
+- [speed/english_quotes_ja](https://huggingface.co/datasets/speed/english_quotes_ja)
+  - 这个数据集是使用llm-jp/llm-jp-3-3.7b-instruct模型将https://huggingface.co/datasets/Abirate/english_quotes翻译成日语的。
+  - Downloads: 11
 - [hotchpotch/jaqket_v1_qa_wikija_context](https://huggingface.co/datasets/hotchpotch/jaqket_v1_qa_wikija_context)
   - AI王 是一个公式数据集(JAQKET)，在其中添加了Wikipedia 的相关内容。
   - Downloads: 13
-- [Kendamarron/jimba-wiki-instruction-calm3](https://huggingface.co/datasets/Kendamarron/jimba-wiki-instruction-calm3)
-  - 使用了Kendamarron/jimba-wiki-instruction-calm3grapevine-AI/CALM3-22B-Chat-GGUF模型中的Q4_K_M来合成instruction数据集。 (Note: Please make sure to adjust the translation based on the context of the text, as necessary.)
-  - Downloads: 12
-- [globis-university/aozorabunko-chats](https://huggingface.co/datasets/globis-university/aozorabunko-chats)
-  - 总览 这个数据集是从青空文库中提取出来的对话数据，该文库收集了日本的公有领域图书，使用了简单的启发式方法。
-  - Downloads: 11
-- [shi3z/Japanese_Wikipedia_Conversation](https://huggingface.co/datasets/shi3z/Japanese_Wikipedia_Conversation)
-  - 维基百科日语版数据集（izumi-lab/wikipedia-ja-20230720）
-  - Downloads: 45
-- [mpasila/ParallelFiction-Ja_En-100k-json](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-json)
-  - 这是我将 NilanE/ParallelFiction-Ja_En-100k 转换为 json 格式的文件，可以用于在训练模型时被 text-generation-webui 读取。
-  - Downloads: 37
-- [zan/lima-ja](https://huggingface.co/datasets/zan/lima-ja)
-  - 2023年）。
-  - Downloads: 21
-- [Atsushi/fungi_diagnostic_chars_comparison_japanese](https://huggingface.co/datasets/Atsushi/fungi_diagnostic_chars_comparison_japanese)
-  - 真菌鑒別特徵比較日文大環「識別形質總結」數據集最後更新日期：2024/2/23（到R3-11457）==== 語言：日文 此數據集僅提供日文版本。
-  - Downloads: 12
-- [kanhatakeyama/AutoWikiQA](https://huggingface.co/datasets/kanhatakeyama/AutoWikiQA)
-  - 从Wikipedia日语版的Q&A自动生成Mixtral 8x22b的GGUF(5bit)为基础，使用Wikipedia日语版的文章，通过自动生成代码1和自动生成代码2生成了Q&A。 我们使用了东京工业大学的超级计算机TSUBAME4.0进行计算。请注意，答案中可能包含幻觉等内容，可能需要进行过滤处理。
-  - Downloads: 11
-- [aixsatoshi/Swallow-MX-chatbot-DPO](https://huggingface.co/datasets/aixsatoshi/Swallow-MX-chatbot-DPO)
-  - 我使用aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2生成了回答文。我基于Chatbot Arena Conversations JA（calm2）模型的Prompt部分进行提问。
-  - Downloads: 192
 - [kunishou/oasst2-135k-ja](https://huggingface.co/datasets/kunishou/oasst2-135k-ja)
   - 更新：2023年12月25日，我们已将oasst2-135k-ja转换为聊天形式，并发布了oasst2-chat-68k-ja。
   - Downloads: 116
 - [litagin/ehehe-corpus](https://huggingface.co/datasets/litagin/ehehe-corpus)
   - 在使用这个数据集时，您同意遵守许可协议的条款。
   - Downloads: 32
-- [Verah/tatoeba_dedupe_en-jp_2024-March-01](https://huggingface.co/datasets/Verah/tatoeba_dedupe_en-jp_2024-March-01)
-  - 从 https://tatoeba.org/en/downloads 获取的英语 - 日语配对，然后去除了重复项。
-  - Downloads: 12
 - [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k)
   - 合成-日本-角色扮演-gpt-4o-mini-19.8k 概览 这个数据集包含使用gpt-4o-mini生成的约19800条日语角色扮演对话。
   - Downloads: 63
-- [kunishou/cosmopedia-100k-ja-preview](https://huggingface.co/datasets/kunishou/cosmopedia-100k-ja-preview)
-  - Cosmopedia-100k 中的索引在 20k 到 100k 范围内的数据已自动翻译为日语（由于文本过长导致翻译错误的记录已被排除）。
-  - Downloads: 42
-- [fujiki/japanese_hh-rlhf-49k](https://huggingface.co/datasets/fujiki/japanese_hh-rlhf-49k)
-  - 这是一个略有不同的版本 kunishou/hh-rlhf-49k-ja，没有 ng_translation == 1 的示例。
-  - Downloads: 32
-- [hatakeyama-llm-team/AutoGeneratedJapaneseQA](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA)
-  - 从各种数据源自动生成Q&A，使用MaziyarPanahi / Mixtral-8x22B-Instruct-v0.1-GGUF生成的。存在两种自动生成的答案，由CommonCrawl或CC-BY系列的数据源生成。
-  - Downloads: 15
 - [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k-formatted](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k-formatted)
   - 使用gpt-4o-mini生成的日语角色扮演数据集Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k，已添加系统信息以整理数据集。
   - Downloads: 12
-- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC)
-  - 这是使用自动生成的Q&amp;A数据源，基于MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF生成的Q&amp;A。数据是基于Common Crawl生成的。
-  - Downloads: 51
-- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-other](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-other)
-  - 这是使用MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF从自动生成的Q&A数据源生成的。这些数据是由团队创建的，并基于“Common Crawl”生成。
-  - Downloads: 45
-- [Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k)
-  - 使用Magpie的方法对nvidia/Nemotron-4-340B-Instruct进行应用，生成了包含20000条日语⇔英语翻译数据的数据集。
-  - Downloads: 32
-- [aixsatoshi/cosmopedia-japanese-100k](https://huggingface.co/datasets/aixsatoshi/cosmopedia-japanese-100k)
-  - cosmopedia-japanese-20k的数据，我们从kunishou先生那里获得了20k-100k的数据，因此已经扩展到100k。
-  - Downloads: 14
-- [hpprc/tanaka-corpus](https://huggingface.co/datasets/hpprc/tanaka-corpus)
-  - HF Datasets 版本的田中语料库。
-  - Downloads: 11
 - [sin2piusc/jgca_v2_50k_2](https://huggingface.co/datasets/sin2piusc/jgca_v2_50k_2)
   - 常见声音，Google花卉，JSUTv1.1，JAS_v2（joujiboi/japanese-anime-speech-v2）
   - Downloads: 11
-- [Aratako/Bluemoon_Top50MB_Sorted_Fixed_ja](https://huggingface.co/datasets/Aratako/Bluemoon_Top50MB_Sorted_Fixed_ja)
-  - 蓝月亮_Top50MB_已排序_修复_jaSicariusSicariiStuff/蓝月亮_Top50MB_已排序_修复是一个用GENIAC-Team-Ozaki/karakuri-lm-8x7b-chat-v0.1-awq转换成日文的角色扮演学习数据集。
-  - Downloads: 148
-- [aixsatoshi/Longcontext-aozora-instruction](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-instruction)
-  - 用于长篇说明文的数据集。
-  - Downloads: 142
-- [HachiML/Evol-Alpaca-gen3-500](https://huggingface.co/datasets/HachiML/Evol-Alpaca-gen3-500)
-  - Evol-Alpaca-gen3-500是使用Stanford Alpaca的seed tasks经日本化处理，通过Evol-Instruction的mistralai/Mixtral-8x22B-Instruct-v0.1方法生成的合成数据。
-  - Downloads: 142
-- [p1atdev/ja-stackoverflow](https://huggingface.co/datasets/p1atdev/ja-stackoverflow)
-  - 使用日本Stack Overflow版的数据转储，加工数据，生成问题和答案配对的QA数据集。
-  - Downloads: 63
-- [ryota39/open_preference-v0.3](https://huggingface.co/datasets/ryota39/open_preference-v0.3)
-  - 在日本的RLHF数据集中，奖励模型的构建被重新格式化为一个分类任务。
-  - Downloads: 26
-- [NilanE/ParallelFiction-Ja_En-100k](https://huggingface.co/datasets/NilanE/ParallelFiction-Ja_En-100k)
-  - 数据集详情：数据集中的每个条目都是一个句子对齐的日本网络小说章节和英文粉丝翻译。
-  - Downloads: 25
-- [ryota39/Aya_ja](https://huggingface.co/datasets/ryota39/Aya_ja)
-  - 这个数据集是从CohereForAI/aya_dataset中提取出的日语指令数据集。
-  - Downloads: 23
-- [MakiAi/Tokama_Club_QA](https://huggingface.co/datasets/MakiAi/Tokama_Club_QA)
-  - 东方托卡马克俱乐部数据集概要。这个数据集收集了关于东方Project中托卡马克俱乐部的信息。
-  - Downloads: 13
 - [Aratako/Synthetic-JP-EN-Coding-Dataset-567k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-567k)
   - 利用Magpie创建的名为Synthetic-JP-EN-Coding-Dataset-567k的代码SFT数据集，基于Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k创建，在使用Evol-Instruct等方法生成和扩展了多个instruction和response的基础上，形成了包括日语和英语在内的567,077条代码SFT综合数据集。
   - Downloads: 153
-- [larryvrh/WikiMatrix-v1-Ja_Zh-filtered](https://huggingface.co/datasets/larryvrh/WikiMatrix-v1-Ja_Zh-filtered)
-  - 经过筛选和修改的来自WikiMatrix v1的日语/中文语言对数据。处理步骤：1.
-  - Downloads: 20
-- [augmxnt/shisa-pretrain-en-ja-v1](https://huggingface.co/datasets/augmxnt/shisa-pretrain-en-ja-v1)
-  - 这个预训练数据集是为 shisa-base-7b-v1 创建的。它主要由 MADLAD-400 日语/英语标记的 DSIR 采样组成，比例为 90%/10%。
-  - Downloads: 19
-- [JapanDegitalMaterial/Scenery_of_japan](https://huggingface.co/datasets/JapanDegitalMaterial/Scenery_of_japan)
-  - 日本的风景。
-  - Downloads: 15
-- [fujiki/guanaco_ja](https://huggingface.co/datasets/fujiki/guanaco_ja)
-  - 这是Guanaco数据集中的一个日文部分。
-  - Downloads: 11
-- [kanhatakeyama/AutoMultiTurnByMixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByMixtral8x22b)
-  - 这是使用来自开放数据源的MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF生成的Q&A数据集。对于一些相关代码的计算部分，我们利用了东京工业大学的超级计算机TSUBAME4.0。数据源以及第一个问题（q1）是从各种数据源中收集而来的。接下来的问答交互都是由Mixtral生成的。关于问题内容，遵
-  - Downloads: 63
-- [shi3z/ja_conv_wikipedia_orion14B_100K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_100K)
-  - 这是使用Orion14B-Chat从日语维基百科数据集生成的多轮对话数据集。
-  - Downloads: 43
-- [llm-book/jawiki-20220404-c400](https://huggingface.co/datasets/llm-book/jawiki-20220404-c400)
-  - 该数据集包含的段落是从2022年4月4日的日本维基百科中提取的，每个段落由连续不超过400个字符的句子组成。
-  - Downloads: 25
-- [YukiTomita-CC/ELYZA-tasks-100_Human_solved](https://huggingface.co/datasets/YukiTomita-CC/ELYZA-tasks-100_Human_solved)
-  - 这个数据集是有关日语LLM评估的elyza/ELYZA-tasks-100经常使用的数据集，其中包含人类回答的结果。
-  - Downloads: 24
-- [shi3z/ja_conv_wikipedia_llama2pro8b_30k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_30k)
-  - 这个数据集是基于日语版维基百科数据集，并使用llama2Pro8B转换为多轮对话格式。由于它是llama2许可证，可以商业化用于服务。
-  - Downloads: 20
-- [kunishou/oasst2-chat-68k-ja](https://huggingface.co/datasets/kunishou/oasst2-chat-68k-ja)
-  - oasst2-135k-ja 是一个被转换成聊天形式的数据集。
-  - Downloads: 15
-- [toshi456/NLVR-JA](https://huggingface.co/datasets/toshi456/NLVR-JA)
-  - 这个数据集是通过将“nlvr”机器翻译成日语创建的。nlvr链接：https://github.com/lil-lab/nlvr/tree/master/nlvr
-  - Downloads: 12
 - [misdelivery/OpenMathInstruct-ja-phi-3-medium-test](https://huggingface.co/datasets/misdelivery/OpenMathInstruct-ja-phi-3-medium-test)
   - 根据kunishou/OpenMathInstruct-1-1.8m-ja的question_ja创建的数据集，使用phi-3-medium生成，无需编程语言格式。
   - Downloads: 12
-- [FreedomIntelligence/MMLU_Japanese](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Japanese)
-  - 由gpt-3.5-turbo翻译的MMLU数据集的日语版本。
-  - Downloads: 12
-- [kunishou/databricks-dolly-69k-ja-en-translation](https://huggingface.co/datasets/kunishou/databricks-dolly-69k-ja-en-translation)
-  - 这个数据集是通过自动将“databricks-dolly-15k”翻译成日语而创建的。
-  - Downloads: 11
-- [aixsatoshi/Chat-with-cosmopedia](https://huggingface.co/datasets/aixsatoshi/Chat-with-cosmopedia)
-  - 这是一组信息密度很高的多轮对话数据，涵盖了推理、知识和对话交流等内容。
-  - Downloads: 11
-- [Atsushi/fungi_trait_circus_database](https://huggingface.co/datasets/Atsushi/fungi_trait_circus_database)
-  - 大菌圈「Trait Circus」数据库（受控特征）最终更新日期：2023年12月29日====语言日语和英语请暂时不要将此数据集用于学术目的。
-  - Downloads: 15
-- [Atsushi/fungi_indexed_mycological_papers_japanese](https://huggingface.co/datasets/Atsushi/fungi_indexed_mycological_papers_japanese)
-  - 真菌索引真菌學論文日本語摘要數據集最後更新日期：2024年2月23日（至R3-11457）====語言：日語。該數據集僅提供日語版本。
-  - Downloads: 15
-- [GENIAC-Team-Ozaki/chatbot-arena-ja-calm2-7b-chat-experimental_deduped](https://huggingface.co/datasets/GENIAC-Team-Ozaki/chatbot-arena-ja-calm2-7b-chat-experimental_deduped)
-  - 这是从chatbot-arena-ja-calm2-7b-chat数据集中删除与prompt匹配的数据所得到的数据集。
-  - Downloads: 13
-- [kanhatakeyama/SyntheticTextOpenMathInstruct](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextOpenMathInstruct)
-  - 根据从以下数据源随机抽取的日语文本所创建的Phi-3语料库。OpenMathInstruct-1-1.8m-ja代码在某些计算中使用了东京工业大学的超级计算机TSUBAME4.0。
-  - Downloads: 11
