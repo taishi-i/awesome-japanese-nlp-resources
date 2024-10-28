@@ -1206,6 +1206,7 @@ Resources
  * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式のユーザー辞書
  * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 漢字データベースの辞書関連データ
  * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - 古典日本語の分類語彙表データ
+ * [kanji-dict](https://github.com/marmooo/kanji-dict) - 漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1263,6 +1264,7 @@ Resources
 |[kanayomi-dict](https://github.com/warihima/kanayomi-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/warihima/kanayomi-dict?style=social)|
 |[cjkvi-dict](https://github.com/cjkvi/cjkvi-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cjkvi/cjkvi-dict?style=social)|
 |[wlsp-classical](https://github.com/yocjyet/wlsp-classical)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yocjyet/wlsp-classical?style=social)|
+|[kanji-dict](https://github.com/marmooo/kanji-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/kanji-dict?style=social)|
 
 
 ## Corpus
