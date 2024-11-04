@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [634 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1346 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [640 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1376 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,17 +18,17 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 142 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 26 new models and 4 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [text2dataset](https://github.com/llm-jp/text2dataset) - Easily turn large English text datasets into Japanese text datasets using open LLMs.
- * [owocr](https://github.com/aurorawright/owocr) - Optical character recognition for Japanese text
+ * [lightblue](https://github.com/daisukebekki/lightblue) - A CCG parser for Japanese with DTS-representations
+ * [mecab-web-api](https://github.com/bungoume/mecab-web-api) - Japanese Morphological Analysis Web API using MeCab
+ * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - Mecab wrapper to generate furigana readings.
 
 **Dictionary and IME**
- * [kanji-dict](https://github.com/marmooo/kanji-dict) - This is a kanji dictionary for looking up the stroke order, reading, number of strokes, radical, usage examples, and origin of kanji characters. It includes all 98,682 kanji characters in Unicode 15.1.
- * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - Classified vocabulary list data of classical Japanese
+ * [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) - (๑ ᴖ ᴑ ᴖ ๑) Myon Kaomoji (formerly Kaomoji_proj) is a project to create a dictionary of emoticons for Microsoft's input software, Microsoft IME.
 
-_Updated on Oct 29, 2024_
+_Updated on Nov 05, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -119,6 +119,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [esupar](https://github.com/KoichiYasuoka/esupar) - Tokenizer POS-Tagger and Dependency-parser with BERT/RoBERTa/DeBERTa models for Japanese and other languages
  * [yomikata](https://github.com/passaglia/yomikata) - Heteronym disambiguation library using a fine-tuned BERT model.
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)
+ * [lightblue](https://github.com/daisukebekki/lightblue) - A CCG parser for Japanese with DTS-representations
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -412,6 +413,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [substring-word-finder](https://github.com/toufu-24/substring-word-finder) - Perform word judgment on consecutive substring.
  * [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) - This project is a benchmarking tool for evaluating and comparing the performance of various Vision Language Models (VLMs). It uses two datasets: LLaVA-Bench-In-the-Wild and Japanese HERON Bench to measure model performance.
  * [text2dataset](https://github.com/llm-jp/text2dataset) - Easily turn large English text datasets into Japanese text datasets using open LLMs.
+ * [mecab-web-api](https://github.com/bungoume/mecab-web-api) - Japanese Morphological Analysis Web API using MeCab
+ * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - Mecab wrapper to generate furigana readings.
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -766,6 +769,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - Dictionary related data of the kanji database
  * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - Classified vocabulary list data of classical Japanese
  * [kanji-dict](https://github.com/marmooo/kanji-dict) - This is a kanji dictionary for looking up the stroke order, reading, number of strokes, radical, usage examples, and origin of kanji characters. It includes all 98,682 kanji characters in Unicode 15.1.
+ * [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) - (๑ ᴖ ᴑ ᴖ ๑) Myon Kaomoji (formerly Kaomoji_proj) is a project to create a dictionary of emoticons for Microsoft's input software, Microsoft IME.
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

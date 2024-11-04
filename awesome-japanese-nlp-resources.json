@@ -314,6 +314,18 @@
                     "zh-hant": "J.DepP的Python綁定（日本依存句法分析器的C++實現）"
                 }
             },
+            "https://github.com/daisukebekki/lightblue": {
+                "sub_category": "Parsing",
+                "repository_name": "lightblue",
+                "user_name": "daisukebekki",
+                "description": "A CCG parser for Japanese with DTS-representations",
+                "multilingual_descriptions": {
+                    "en": "A CCG parser for Japanese with DTS-representations",
+                    "ja": "DTS表現を使用した日本語のCCGパーサー",
+                    "zh-hans": "一个用于日语的带有DTS表示的CCG解析器",
+                    "zh-hant": "一個具有DTS表示的日語CCG解析器"
+                }
+            },
             "https://github.com/miurahr/pykakasi": {
                 "sub_category": "Converter",
                 "repository_name": "pykakasi",
@@ -3025,6 +3037,30 @@
                     "zh-hans": "使用开放的LLMs轻松将大型英文文本数据集转换为日文文本数据集。",
                     "zh-hant": "使用開放式LLM輕鬆將大型英文文本數據集轉換為日文文本數據集。"
                 }
+            },
+            "https://github.com/bungoume/mecab-web-api": {
+                "sub_category": null,
+                "repository_name": "mecab-web-api",
+                "user_name": "bungoume",
+                "description": "MeCabを利用した日本語形態素解析WebAPI",
+                "multilingual_descriptions": {
+                    "en": "Japanese Morphological Analysis Web API using MeCab",
+                    "ja": "MeCabを利用した日本語形態素解析WebAPI",
+                    "zh-hans": "使用MeCab的日语形态素解析WebAPI",
+                    "zh-hant": "使用MeCab的日語形態素解析WebAPI"
+                }
+            },
+            "https://github.com/ajatt-tools/mecab_controller": {
+                "sub_category": null,
+                "repository_name": "mecab_controller",
+                "user_name": "ajatt-tools",
+                "description": "Mecab wrapper to generate furigana readings.",
+                "multilingual_descriptions": {
+                    "en": "Mecab wrapper to generate furigana readings.",
+                    "ja": "ふりがな読みを生成するためのMecabラッパー",
+                    "zh-hans": "用于生成振り仮名读音的Mecab包装器。",
+                    "zh-hant": "Mecab包裝器生成振り仮名讀音。"
+                }
             }
         },
         "C++": {
@@ -5632,6 +5668,18 @@
                     "ja": "漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。",
                     "zh-hans": "这是一个用于查找汉字的笔顺、发音、画数、部首、用例和成立的汉字词典。收录了Unicode 15.1版本中的所有98,682个汉字。",
                     "zh-hant": "漢字的書寫順序(筆順)、讀音、畫數、部首、用例、起源等資訊的漢字詞典。收錄了Unicode 15.1版本中的所有漢字，共98682個字。"
+                }
+            },
+            "https://github.com/mtripg6666tdr/Kaomoji_proj": {
+                "sub_category": null,
+                "repository_name": "Kaomoji_proj",
+                "user_name": "mtripg6666tdr",
+                "description": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）はMicrosoft社の入力ソフト、Microsoft IME向けの顔文字の辞書を作成するプロジェクトです。",
+                "multilingual_descriptions": {
+                    "en": "(๑ ᴖ ᴑ ᴖ ๑) Myon Kaomoji (formerly Kaomoji_proj) is a project to create a dictionary of emoticons for Microsoft's input software, Microsoft IME.",
+                    "ja": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）はMicrosoft社の入力ソフト、Microsoft IME向けの顔文字の辞書を作成するプロジェクトです。",
+                    "zh-hans": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）是一个为Microsoft公司的输入软件Microsoft IME创建表情符号字典的项目。",
+                    "zh-hant": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（舊Kaomoji_proj）是一個為Microsoft公司的輸入軟件Microsoft IME製作表情符號詞典的項目。"
                 }
             }
         },
