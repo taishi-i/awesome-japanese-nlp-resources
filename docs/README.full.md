@@ -536,6 +536,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) - This project is a benchmarking tool for evaluating and comparing the performance of various Vision Language Models (VLMs). It uses two datasets: LLaVA-Bench-In-the-Wild and Japanese HERON Bench to measure model performance.
  * [text2dataset](https://github.com/llm-jp/text2dataset) - Easily turn large English text datasets into Japanese text datasets using open LLMs.
  * [mecab-web-api](https://github.com/bungoume/mecab-web-api) - MeCabを利用した日本語形態素解析WebAPI
+ * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - Mecab wrapper to generate furigana readings.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -685,6 +686,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/wandb/heron-vlm-leaderboard?style=social)|
 |[text2dataset](https://github.com/llm-jp/text2dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/text2dataset?style=social)|
 |[mecab-web-api](https://github.com/bungoume/mecab-web-api)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/bungoume/mecab-web-api?style=social)|
+|[mecab_controller](https://github.com/ajatt-tools/mecab_controller)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ajatt-tools/mecab_controller?style=social)|
 
 
 ## C++
