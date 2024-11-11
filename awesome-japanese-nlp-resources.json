@@ -3764,6 +3764,18 @@
                     "zh-hant": "將羅馬字轉換為平假名"
                 }
             },
+            "https://github.com/geolonia/japanese-addresses-v2": {
+                "sub_category": "Converter",
+                "repository_name": "japanese-addresses-v2",
+                "user_name": "geolonia",
+                "description": "全国の住所データAPI",
+                "multilingual_descriptions": {
+                    "en": "National address data API",
+                    "ja": "全国の住所データAPI",
+                    "zh-hans": "全国住址数据API",
+                    "zh-hant": "全國的地址數據API"
+                }
+            },
             "https://github.com/bangumi-data/bangumi-data": {
                 "sub_category": null,
                 "repository_name": "bangumi-data",
