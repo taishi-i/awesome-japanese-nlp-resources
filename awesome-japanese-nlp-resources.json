@@ -470,6 +470,18 @@
                     "zh-hant": "日本郵政編碼數據的簡單封裝"
                 }
             },
+            "https://github.com/sea-turt1e/yurenizer": {
+                "sub_category": "Converter",
+                "repository_name": "yurenizer",
+                "user_name": "sea-turt1e",
+                "description": "Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール）",
+                "multilingual_descriptions": {
+                    "en": "Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール",
+                    "ja": "日本語テキストの表記の一貫性を解消する日本語テキスト正規化ツール",
+                    "zh-hans": "日语文本规范化工具，解决拼写不一致问题。",
+                    "zh-hant": "日文文本正規化工具，解決拼寫不一致。"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -3060,6 +3072,30 @@
                     "ja": "ふりがな読みを生成するためのMecabラッパー",
                     "zh-hans": "用于生成振り仮名读音的Mecab包装器。",
                     "zh-hant": "Mecab包裝器生成振り仮名讀音。"
+                }
+            },
+            "https://github.com/zassou65535/vits": {
+                "sub_category": null,
+                "repository_name": "vits",
+                "user_name": "zassou65535",
+                "description": "VITSによるテキスト読み上げ器&ボイスチェンジャー",
+                "multilingual_descriptions": {
+                    "en": "Text-to-speech engine and voice changer by VITS",
+                    "ja": "VITSによるテキスト読み上げ器&ボイスチェンジャー",
+                    "zh-hans": "VITS文本朗读器和声音变换器",
+                    "zh-hant": "VITS提供的文字朗讀器和聲音變換器"
+                }
+            },
+            "https://github.com/akarigroup/akari_chatgpt_bot": {
+                "sub_category": null,
+                "repository_name": "akari_chatgpt_bot",
+                "user_name": "akarigroup",
+                "description": "音声認識、文章生成、音声合成を使って対話するチャットボットアプリ",
+                "multilingual_descriptions": {
+                    "en": "Chatbot application that uses speech recognition, text generation, and speech synthesis for dialogue.",
+                    "ja": "音声認識、文章生成、音声合成を使って対話するチャットボットアプリ",
+                    "zh-hans": "使用语音识别、文章生成和语音合成进行对话的聊天机器人应用程序",
+                    "zh-hant": "使用語音識別、文章生成和語音合成進行對話的聊天機器人應用程式"
                 }
             }
         },

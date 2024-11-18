@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [641件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1383 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [644件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1406 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,12 +17,14 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 5 new models and 2 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 12 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**JavaScript**
- * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国の住所データAPI
+**Python**
+ * [yurenizer](https://github.com/sea-turt1e/yurenizer) - 日本語テキストの表記の一貫性を解消する日本語テキスト正規化ツール
+  * [vits](https://github.com/zassou65535/vits) - VITSによるテキスト読み上げ器&ボイスチェンジャー
+ * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 音声認識、文章生成、音声合成を使って対話するチャットボットアプリ
 
-_Updated on Nov 12, 2024_
+_Updated on Nov 19, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -135,6 +137,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
 
 数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装
  * [Jusho](https://github.com/nagataaaas/Jusho) - 日本の郵便番号データの簡単なラッパー
+ * [yurenizer](https://github.com/sea-turt1e/yurenizer) - 日本語テキストの表記の一貫性を解消する日本語テキスト正規化ツール
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -415,6 +418,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [text2dataset](https://github.com/llm-jp/text2dataset) - 簡単に大きな英語テキストデータセットを日本語テキストデータセットに変換できます。オープンLLMsを使用してください。
  * [mecab-web-api](https://github.com/bungoume/mecab-web-api) - MeCabを利用した日本語形態素解析WebAPI
  * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - ふりがな読みを生成するためのMecabラッパー
+ * [vits](https://github.com/zassou65535/vits) - VITSによるテキスト読み上げ器&ボイスチェンジャー
+ * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 音声認識、文章生成、音声合成を使って対話するチャットボットアプリ
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

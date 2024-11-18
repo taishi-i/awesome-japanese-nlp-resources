@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [641 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1383 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [644 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1406 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,12 +18,14 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 5 new models and 2 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 12 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**JavaScript**
- * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - National address data API
+**Python**
+ * [yurenizer](https://github.com/sea-turt1e/yurenizer) - Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール
+  * [vits](https://github.com/zassou65535/vits) - Text-to-speech engine and voice changer by VITS
+ * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - Chatbot application that uses speech recognition, text generation, and speech synthesis for dialogue.
 
-_Updated on Nov 12, 2024_
+_Updated on Nov 19, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -134,6 +136,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - Simple Python package (CLI/Python API) for getting japanese readings (yomigana) and accents using MeCab.
  * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - Python implementation of NormalizeNumexp for extracting and normalizing quantity expressions and time expressions.
  * [Jusho](https://github.com/nagataaaas/Jusho) - Easy wrapper for the postal code data of Japan
+ * [yurenizer](https://github.com/sea-turt1e/yurenizer) - Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -410,6 +413,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [text2dataset](https://github.com/llm-jp/text2dataset) - Easily turn large English text datasets into Japanese text datasets using open LLMs.
  * [mecab-web-api](https://github.com/bungoume/mecab-web-api) - Japanese Morphological Analysis Web API using MeCab
  * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - Mecab wrapper to generate furigana readings.
+ * [vits](https://github.com/zassou65535/vits) - Text-to-speech engine and voice changer by VITS
+ * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - Chatbot application that uses speech recognition, text generation, and speech synthesis for dialogue.
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

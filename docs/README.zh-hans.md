@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了641个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1383个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了644个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1406个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,12 +18,14 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 5 new models and 2 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 12 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**JavaScript**
- * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国住址数据API
+**Python**
+ * [yurenizer](https://github.com/sea-turt1e/yurenizer) - 日语文本规范化工具，解决拼写不一致问题。
+  * [vits](https://github.com/zassou65535/vits) - VITS文本朗读器和声音变换器
+ * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 使用语音识别、文章生成和语音合成进行对话的聊天机器人应用程序
 
-_Updated on Nov 12, 2024_
+_Updated on Nov 19, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -134,6 +136,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - 使用MeCab获取日语读音（yomigana）和重音的简单Python包（CLI/Python API）。
  * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - 使用Python实现NormalizeNumexp，用于提取和规范化数量和时间表达式。
  * [Jusho](https://github.com/nagataaaas/Jusho) - 日本邮政编码数据的简易封装器
+ * [yurenizer](https://github.com/sea-turt1e/yurenizer) - 日语文本规范化工具，解决拼写不一致问题。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -414,6 +417,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [text2dataset](https://github.com/llm-jp/text2dataset) - 使用开放的LLMs轻松将大型英文文本数据集转换为日文文本数据集。
  * [mecab-web-api](https://github.com/bungoume/mecab-web-api) - 使用MeCab的日语形态素解析WebAPI
  * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - 用于生成振り仮名读音的Mecab包装器。
+ * [vits](https://github.com/zassou65535/vits) - VITS文本朗读器和声音变换器
+ * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 使用语音识别、文章生成和语音合成进行对话的聊天机器人应用程序
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
