@@ -326,6 +326,18 @@
                     "zh-hant": "一個具有DTS表示的日語CCG解析器"
                 }
             },
+            "https://github.com/borh-lab/natsume-simple": {
+                "sub_category": "Parsing",
+                "repository_name": "natsume-simple",
+                "user_name": "borh-lab",
+                "description": "natsume-simpleは日本語の係り受け関係検索システム",
+                "multilingual_descriptions": {
+                    "en": "natsume-simple is a Japanese dependency relation search system.",
+                    "ja": "natsume-simpleは日本語の係り受け関係検索システム",
+                    "zh-hans": "natsume-simple是一个日语依存关系搜索系统",
+                    "zh-hant": "natsume-simple是一個日語的依存關係搜索系統。"
+                }
+            },
             "https://github.com/miurahr/pykakasi": {
                 "sub_category": "Converter",
                 "repository_name": "pykakasi",
