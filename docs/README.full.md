@@ -1226,6 +1226,7 @@ Resources
  * [kanji-dict](https://github.com/marmooo/kanji-dict) - 漢字の書き順(筆順)・読み方・画数・部首・用例・成り立ちを調べるための漢字辞書です。Unicode 15.1 のすべての漢字 98,682字を収録しています。
  * [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) - (๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）はMicrosoft社の入力ソフト、Microsoft IME向けの顔文字の辞書を作成するプロジェクトです。
  * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin かな漢字変換プログラム
+ * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1286,6 +1287,7 @@ Resources
 |[kanji-dict](https://github.com/marmooo/kanji-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/kanji-dict?style=social)|
 |[Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mtripg6666tdr/Kaomoji_proj?style=social)|
 |[kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/KazumaProject/kotlin-kana-kanji-converter?style=social)|
+|[alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chrisgrieser/alfred-japanese-dictionary?style=social)|
 
 
 ## Corpus
