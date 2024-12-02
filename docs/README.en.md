@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [645 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1423 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [648 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1437 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -20,10 +20,14 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 **Hugging Face 🤗**
  - [Added 8 new models and 9 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Python**
- * [natsume-simple](https://github.com/borh-lab/natsume-simple) - natsume-simple is a Japanese dependency relation search system.
+**Dictionary and IME**
+ * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin Kana Kanji Conversion Program
+ * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.
 
-_Updated on Nov 26, 2024_
+**JavaScript**
+ * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - Convert text words to emojis
+
+_Updated on Dec 03, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -541,6 +545,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [jaconv](https://github.com/kazuhikoarase/jaconv) - Japanese text conversion library (javascript)
  * [romaji-conv](https://github.com/koozaki/romaji-conv) - Convert romaji into hiragana
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - National address data API
+ * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - Convert text words to emojis
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -770,6 +775,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [wlsp-classical](https://github.com/yocjyet/wlsp-classical) - Classified vocabulary list data of classical Japanese
  * [kanji-dict](https://github.com/marmooo/kanji-dict) - This is a kanji dictionary for looking up the stroke order, reading, number of strokes, radical, usage examples, and origin of kanji characters. It includes all 98,682 kanji characters in Unicode 15.1.
  * [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) - (๑ ᴖ ᴑ ᴖ ๑) Myon Kaomoji (formerly Kaomoji_proj) is a project to create a dictionary of emoticons for Microsoft's input software, Microsoft IME.
+ * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin Kana Kanji Conversion Program
+ * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

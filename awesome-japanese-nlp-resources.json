@@ -3824,6 +3824,18 @@
                     "zh-hant": "全國的地址數據API"
                 }
             },
+            "https://github.com/elzup/jptext-to-emoji": {
+                "sub_category": "Converter",
+                "repository_name": "jptext-to-emoji",
+                "user_name": "elzup",
+                "description": "テキストの単語を絵文字に変換する",
+                "multilingual_descriptions": {
+                    "en": "Convert text words to emojis",
+                    "ja": "テキストの単語を絵文字に変換する",
+                    "zh-hans": "将文本单词转换为表情符号",
+                    "zh-hant": "將文字單詞轉換為表情符號"
+                }
+            },
             "https://github.com/bangumi-data/bangumi-data": {
                 "sub_category": null,
                 "repository_name": "bangumi-data",
@@ -5740,6 +5752,30 @@
                     "ja": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）はMicrosoft社の入力ソフト、Microsoft IME向けの顔文字の辞書を作成するプロジェクトです。",
                     "zh-hans": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）是一个为Microsoft公司的输入软件Microsoft IME创建表情符号字典的项目。",
                     "zh-hant": "(๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（舊Kaomoji_proj）是一個為Microsoft公司的輸入軟件Microsoft IME製作表情符號詞典的項目。"
+                }
+            },
+            "https://github.com/KazumaProject/kotlin-kana-kanji-converter": {
+                "sub_category": null,
+                "repository_name": "kotlin-kana-kanji-converter",
+                "user_name": "KazumaProject",
+                "description": "Kotlin かな漢字変換プログラム",
+                "multilingual_descriptions": {
+                    "en": "Kotlin Kana Kanji Conversion Program",
+                    "ja": "Kotlin かな漢字変換プログラム",
+                    "zh-hans": "Kotlin 平假名汉字转换程序",
+                    "zh-hant": "Kotlin 假名漢字轉換程式"
+                }
+            },
+            "https://github.com/chrisgrieser/alfred-japanese-dictionary": {
+                "sub_category": null,
+                "repository_name": "alfred-japanese-dictionary",
+                "user_name": "chrisgrieser",
+                "description": "Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.",
+                "multilingual_descriptions": {
+                    "en": "Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.",
+                    "ja": "jisho.orgを使用した日本語-英語辞書、エントリーの音声付きCSVエクスポート、および辞書サイトのプレビュー。\njisho.orgを使用した日本語-英語辞書、エントリーの音声付きCSVエクスポート、および辞書サイトのプレビュー。",
+                    "zh-hans": "使用jisho.org的日英词典，具有音频功能，可以导出条目的csv文件，并预览词典网站。",
+                    "zh-hant": "使用jisho.org的日英詞典，具有音頻功能，可以導出CSV條目，並預覽詞典網站。"
                 }
             }
         },
