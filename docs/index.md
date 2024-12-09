@@ -23,8 +23,7 @@
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitokuは、日本語に特化したAIパワードのドキュメント画像解析パッケージです。
 
 **Dictionary and IME**
- * [jisho](https://github.com/eagleflo/jisho) - Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。
-Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
+* [ichiran](https://github.com/tshatrov/ichiran) - 日本語のテキスト用言語ツール
 
 _Updated on Dec 10, 2024_
 

@@ -24,7 +24,7 @@
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一款由人工智能驱动的文件图像分析软件包，专门为日语设计。
 
 **Dictionary and IME**
- * [jisho](https://github.com/eagleflo/jisho) - Jisho是一个提供日语-英语词典的CLI工具和Rust库。
+* [ichiran](https://github.com/tshatrov/ichiran) - 日语文本的语言工具
 
 _Updated on Dec 10, 2024_
 

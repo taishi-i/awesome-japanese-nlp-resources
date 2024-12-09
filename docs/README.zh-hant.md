@@ -23,7 +23,7 @@
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。
 
 **Dictionary and IME**
- * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
+* [ichiran](https://github.com/tshatrov/ichiran) - 日語文本的語言工具
 
 _Updated on Dec 10, 2024_
 

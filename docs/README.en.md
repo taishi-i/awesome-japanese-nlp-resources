@@ -24,7 +24,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
 
 **Dictionary and IME**
- * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
+* [ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language
 
 _Updated on Dec 10, 2024_
 
