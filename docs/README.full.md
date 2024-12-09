@@ -1233,6 +1233,7 @@ Resources
  * [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) - (๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（旧Kaomoji_proj）はMicrosoft社の入力ソフト、Microsoft IME向けの顔文字の辞書を作成するプロジェクトです。
  * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin かな漢字変換プログラム
  * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.
+ * [ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1294,6 +1295,7 @@ Resources
 |[Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mtripg6666tdr/Kaomoji_proj?style=social)|
 |[kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/KazumaProject/kotlin-kana-kanji-converter?style=social)|
 |[alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chrisgrieser/alfred-japanese-dictionary?style=social)|
+|[ichiran](https://github.com/tshatrov/ichiran)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tshatrov/ichiran?style=social)|
 
 
 ## Corpus
