@@ -304,6 +304,7 @@ _Updated on Dec 03, 2024_
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR用テキスト認識モジュール
  * [Poricom](https://github.com/blueaxis/Poricom) - Optical character recognition in manga images. Manga OCR desktop application
  * [owocr](https://github.com/aurorawright/owocr) - Optical character recognition for Japanese text
+ * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -319,6 +320,7 @@ _Updated on Dec 03, 2024_
 |[text_recognition](https://github.com/ndl-lab/text_recognition)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/text_recognition?style=social)|
 |[Poricom](https://github.com/blueaxis/Poricom)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/blueaxis/Poricom?style=social)|
 |[owocr](https://github.com/aurorawright/owocr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aurorawright/owocr?style=social)|
+|[yomitoku](https://github.com/kotaro-kinoshita/yomitoku)|[![Downloads](https://pepy.tech/badge/yomitoku/week)](https://pepy.tech/project/yomitoku)|[![Downloads](https://pepy.tech/badge/yomitoku)](https://pepy.tech/project/yomitoku)|![GitHub Repo stars](https://img.shields.io/github/stars/kotaro-kinoshita/yomitoku?style=social)|
 
 
 ### Tool for pretrained models
