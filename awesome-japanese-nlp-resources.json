@@ -998,6 +998,18 @@
                     "zh-hant": "日文文本的光學字符識別"
                 }
             },
+            "https://github.com/kotaro-kinoshita/yomitoku": {
+                "sub_category": "OCR",
+                "repository_name": "yomitoku",
+                "user_name": "kotaro-kinoshita",
+                "description": "Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.",
+                "multilingual_descriptions": {
+                    "en": "Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.",
+                    "ja": "Yomitokuは、日本語に特化したAIパワードのドキュメント画像解析パッケージです。",
+                    "zh-hans": "Yomitoku是一款由人工智能驱动的文件图像分析软件包，专门为日语设计。",
+                    "zh-hant": "Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -5776,6 +5788,18 @@
                     "ja": "jisho.orgを使用した日本語-英語辞書、エントリーの音声付きCSVエクスポート、および辞書サイトのプレビュー。\njisho.orgを使用した日本語-英語辞書、エントリーの音声付きCSVエクスポート、および辞書サイトのプレビュー。",
                     "zh-hans": "使用jisho.org的日英词典，具有音频功能，可以导出条目的csv文件，并预览词典网站。",
                     "zh-hant": "使用jisho.org的日英詞典，具有音頻功能，可以導出CSV條目，並預覽詞典網站。"
+                }
+            },
+            "https://github.com/tshatrov/ichiran": {
+                "sub_category": null,
+                "repository_name": "ichiran",
+                "user_name": "tshatrov",
+                "description": "Linguistic tools for texts in Japanese language",
+                "multilingual_descriptions": {
+                    "en": "Linguistic tools for texts in Japanese language",
+                    "ja": "日本語のテキスト用言語ツール",
+                    "zh-hans": "日语文本的语言工具",
+                    "zh-hant": "日語文本的語言工具"
                 }
             }
         },

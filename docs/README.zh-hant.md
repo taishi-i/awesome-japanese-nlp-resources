@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了648個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1437個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了650個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1470個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,16 +17,15 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 8 new models and 9 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 23 new models and 10 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+
+**Python**
+ * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。
 
 **Dictionary and IME**
- * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin 假名漢字轉換程式
- * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - 使用jisho.org的日英詞典，具有音頻功能，可以導出CSV條目，並預覽詞典網站。
+ * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
 
-**JavaScript**
- * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - 將文字單詞轉換為表情符號
-
-_Updated on Dec 03, 2024_
+_Updated on Dec 10, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -225,6 +224,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR使用文字識別模組
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫畫圖像的光學字符識別。漫畫OCR桌面應用程式。
  * [owocr](https://github.com/aurorawright/owocr) - 日文文本的光學字符識別
+ * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -788,6 +788,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) - (๑ ᴖ ᴑ ᴖ ๑)みょんかおもじ（舊Kaomoji_proj）是一個為Microsoft公司的輸入軟件Microsoft IME製作表情符號詞典的項目。
  * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin 假名漢字轉換程式
  * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - 使用jisho.org的日英詞典，具有音頻功能，可以導出CSV條目，並預覽詞典網站。
+ * [ichiran](https://github.com/tshatrov/ichiran) - 日語文本的語言工具
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
