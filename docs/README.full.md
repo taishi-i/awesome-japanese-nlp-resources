@@ -1234,6 +1234,7 @@ Resources
  * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.
  * [ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language
  * [mikan](https://github.com/mojyack/mikan) - A Japanese input method.
+ * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - A quick reference for the material taught in Colloquial Kansai Japanese.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1297,6 +1298,7 @@ Resources
 |[alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chrisgrieser/alfred-japanese-dictionary?style=social)|
 |[ichiran](https://github.com/tshatrov/ichiran)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tshatrov/ichiran?style=social)|
 |[mikan](https://github.com/mojyack/mikan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mojyack/mikan?style=social)|
+|[colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sethclydesdale/colloquial-kansai-dictionary?style=social)|
 
 
 ## Corpus
