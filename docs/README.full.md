@@ -1233,6 +1233,7 @@ Resources
  * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin かな漢字変換プログラム
  * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - Japanese-English Dictionary using jisho.org with audio, csv export of entries, and preview of dictionary sites.
  * [ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language
+ * [mikan](https://github.com/mojyack/mikan) - A Japanese input method.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1295,6 +1296,7 @@ Resources
 |[kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/KazumaProject/kotlin-kana-kanji-converter?style=social)|
 |[alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chrisgrieser/alfred-japanese-dictionary?style=social)|
 |[ichiran](https://github.com/tshatrov/ichiran)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tshatrov/ichiran?style=social)|
+|[mikan](https://github.com/mojyack/mikan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mojyack/mikan?style=social)|
 
 
 ## Corpus
