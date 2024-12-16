@@ -5801,6 +5801,30 @@
                     "zh-hans": "日语文本的语言工具",
                     "zh-hant": "日語文本的語言工具"
                 }
+            },
+            "https://github.com/mojyack/mikan": {
+                "sub_category": null,
+                "repository_name": "mikan",
+                "user_name": "mojyack",
+                "description": "A Japanese input method.",
+                "multilingual_descriptions": {
+                    "en": "A Japanese input method.",
+                    "ja": "日本語の入力方法。",
+                    "zh-hans": "一个日本输入法。",
+                    "zh-hant": "一種日本輸入法。"
+                }
+            },
+            "https://github.com/sethclydesdale/colloquial-kansai-dictionary": {
+                "sub_category": null,
+                "repository_name": "colloquial-kansai-dictionary",
+                "user_name": "sethclydesdale",
+                "description": "A quick reference for the material taught in Colloquial Kansai Japanese.",
+                "multilingual_descriptions": {
+                    "en": "A quick reference for the material taught in Colloquial Kansai Japanese.",
+                    "ja": "関西弁日本語の授業で教えられた教材の簡単な参考資料。",
+                    "zh-hans": "关于关西方言日语教学材料的快速参考。",
+                    "zh-hant": "關西方言日語教材的快速參考。"
+                }
             }
         },
         "Corpus": {

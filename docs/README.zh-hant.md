@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了650個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1470個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了652個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1487個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,15 +17,13 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 23 new models and 10 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
-
-**Python**
- * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。
+ - [Added 9 new models and 8 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Dictionary and IME**
-* [ichiran](https://github.com/tshatrov/ichiran) - 日語文本的語言工具
+ * [mikan](https://github.com/mojyack/mikan) - 一種日本輸入法。
+ * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - 關西方言日語教材的快速參考。
 
-_Updated on Dec 10, 2024_
+_Updated on Dec 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -789,6 +787,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin 假名漢字轉換程式
  * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - 使用jisho.org的日英詞典，具有音頻功能，可以導出CSV條目，並預覽詞典網站。
  * [ichiran](https://github.com/tshatrov/ichiran) - 日語文本的語言工具
+ * [mikan](https://github.com/mojyack/mikan) - 一種日本輸入法。
+ * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - 關西方言日語教材的快速參考。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

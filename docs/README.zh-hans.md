@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了650个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1470个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了652个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1487个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,15 +18,13 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 23 new models and 10 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
-
-**Python**
- * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一款由人工智能驱动的文件图像分析软件包，专门为日语设计。
+ - [Added 9 new models and 8 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Dictionary and IME**
-* [ichiran](https://github.com/tshatrov/ichiran) - 日语文本的语言工具
+ * [mikan](https://github.com/mojyack/mikan) - 一个日本输入法。
+ * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - 关于关西方言日语教学材料的快速参考。
 
-_Updated on Dec 10, 2024_
+_Updated on Dec 17, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -784,6 +782,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) - Kotlin 平假名汉字转换程序
  * [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) - 使用jisho.org的日英词典，具有音频功能，可以导出条目的csv文件，并预览词典网站。
  * [ichiran](https://github.com/tshatrov/ichiran) - 日语文本的语言工具
+ * [mikan](https://github.com/mojyack/mikan) - 一个日本输入法。
+ * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - 关于关西方言日语教学材料的快速参考。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
