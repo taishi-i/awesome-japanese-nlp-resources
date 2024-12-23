@@ -951,6 +951,7 @@ Resources
  * [go-kakasi](https://github.com/sarumaj/go-kakasi) - Kanji transliteration to hiragana/katakana/romaji, in Go
  * [go-moji](https://github.com/ktnyt/go-moji) - A Go library for Zenkaku/Hankaku conversion
  * [ojichat](https://github.com/greymd/ojichat) - おじさんがLINEやメールで送ってきそうな文を生成する
+ * [name](https://github.com/kuniwak/name) - Name Searcher in Japanese
 
 
 |Name|downloads/week|total downloads|stars|
@@ -962,6 +963,7 @@ Resources
 |[go-kakasi](https://github.com/sarumaj/go-kakasi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarumaj/go-kakasi?style=social)|
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
 |[ojichat](https://github.com/greymd/ojichat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/greymd/ojichat?style=social)|
+|[name](https://github.com/kuniwak/name)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuniwak/name?style=social)|
 
 
 ## Java
