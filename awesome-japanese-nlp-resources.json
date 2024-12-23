@@ -4125,6 +4125,18 @@
                     "zh-hans": "生成一个似乎是叔叔通过LINE或邮件发送的句子。",
                     "zh-hant": "生成一些看起来像叔叔会通过LINE或邮件发送的文本"
                 }
+            },
+            "https://github.com/kuniwak/name": {
+                "sub_category": null,
+                "repository_name": "name",
+                "user_name": "kuniwak",
+                "description": "Name Searcher in Japanese",
+                "multilingual_descriptions": {
+                    "en": "名前検索者",
+                    "ja": "日本語の名前検索者",
+                    "zh-hans": "日语姓名搜索器",
+                    "zh-hant": "日本名稱搜索器"
+                }
             }
         },
         "Java": {
