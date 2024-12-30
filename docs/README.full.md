@@ -540,6 +540,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - Mecab wrapper to generate furigana readings.
  * [vits](https://github.com/zassou65535/vits) - VITSによるテキスト読み上げ器&ボイスチェンジャー
  * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 音声認識、文章生成、音声合成を使って対話するチャットボットアプリ
+ * [kudasai](https://github.com/bikatr7/kudasai) - Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies
 
 
 |Name|downloads/week|total downloads|stars|
@@ -692,6 +693,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[mecab_controller](https://github.com/ajatt-tools/mecab_controller)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ajatt-tools/mecab_controller?style=social)|
 |[vits](https://github.com/zassou65535/vits)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zassou65535/vits?style=social)|
 |[akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akarigroup/akari_chatgpt_bot?style=social)|
+|[kudasai](https://github.com/bikatr7/kudasai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/bikatr7/kudasai?style=social)|
 
 
 ## C++
