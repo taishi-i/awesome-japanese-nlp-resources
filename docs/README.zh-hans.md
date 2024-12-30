@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了653个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1503个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了655个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1517个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,12 +18,16 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 5 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 8 new models and 6 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Go**
- * [name](https://github.com/kuniwak/name) - 日语姓名搜索器
+**Python**
+ * [kudasai](https://github.com/bikatr7/kudasai) - 利用先进的预处理和集成翻译技术简化日英翻译
 
-_Updated on Dec 24, 2024_
+**Dictionary and IME**
+ * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日语-英语词典项目的Web前端，支持学习列表！
+JMdict日语-英语词典项目的Web前端，支持学习列表！
+
+_Updated on Dec 31, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -419,6 +423,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - 用于生成振り仮名读音的Mecab包装器。
  * [vits](https://github.com/zassou65535/vits) - VITS文本朗读器和声音变换器
  * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 使用语音识别、文章生成和语音合成进行对话的聊天机器人应用程序
+ * [kudasai](https://github.com/bikatr7/kudasai) - 利用先进的预处理和集成翻译技术简化日英翻译
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -784,6 +789,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [ichiran](https://github.com/tshatrov/ichiran) - 日语文本的语言工具
  * [mikan](https://github.com/mojyack/mikan) - 一个日本输入法。
  * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - 关于关西方言日语教学材料的快速参考。
+ * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日语-英语词典项目的Web前端，支持学习列表！
+JMdict日语-英语词典项目的Web前端，支持学习列表！
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

@@ -3121,6 +3121,18 @@
                     "zh-hans": "使用语音识别、文章生成和语音合成进行对话的聊天机器人应用程序",
                     "zh-hant": "使用語音識別、文章生成和語音合成進行對話的聊天機器人應用程式"
                 }
+            },
+            "https://github.com/bikatr7/kudasai": {
+                "sub_category": null,
+                "repository_name": "kudasai",
+                "user_name": "bikatr7",
+                "description": "Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies",
+                "multilingual_descriptions": {
+                    "en": "Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies",
+                    "ja": "高度な前処理と統合された翻訳技術を活用して、日本語-英語翻訳を効率化する",
+                    "zh-hans": "利用先进的预处理和集成翻译技术简化日英翻译",
+                    "zh-hant": "利用先進的預處理和集成翻譯技術來優化日英翻譯流程"
+                }
             }
         },
         "C++": {
@@ -5836,6 +5848,18 @@
                     "ja": "関西弁日本語の授業で教えられた教材の簡単な参考資料。",
                     "zh-hans": "关于关西方言日语教学材料的快速参考。",
                     "zh-hant": "關西方言日語教材的快速參考。"
+                }
+            },
+            "https://github.com/hlorenzi/jisho-open": {
+                "sub_category": null,
+                "repository_name": "jisho-open",
+                "user_name": "hlorenzi",
+                "description": "Web frontend for the JMdict Japanese-English dictionary project, with study list support!",
+                "multilingual_descriptions": {
+                    "en": "Web frontend for the JMdict Japanese-English dictionary project, with study list support!",
+                    "ja": "JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！\nJMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！",
+                    "zh-hans": "JMdict日语-英语词典项目的Web前端，支持学习列表！\nJMdict日语-英语词典项目的Web前端，支持学习列表！",
+                    "zh-hant": "JMdict日英詞典項目的Web前端，支持學習列表！"
                 }
             }
         },

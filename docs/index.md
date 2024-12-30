@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [653件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1503 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [655件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1517 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,12 +17,16 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 5 new models and 11 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 8 new models and 6 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**Go**
- * [name](https://github.com/kuniwak/name) - 日本語の名前検索者
+**Python**
+ * [kudasai](https://github.com/bikatr7/kudasai) - 高度な前処理と統合された翻訳技術を活用して、日本語-英語翻訳を効率化する
 
-_Updated on Dec 24, 2024_
+**Dictionary and IME**
+ * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
+JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
+
+_Updated on Dec 31, 2024_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -545,6 +549,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [mecab_controller](https://github.com/ajatt-tools/mecab_controller) - ふりがな読みを生成するためのMecabラッパー
  * [vits](https://github.com/zassou65535/vits) - VITSによるテキスト読み上げ器&ボイスチェンジャー
  * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 音声認識、文章生成、音声合成を使って対話するチャットボットアプリ
+ * [kudasai](https://github.com/bikatr7/kudasai) - 高度な前処理と統合された翻訳技術を活用して、日本語-英語翻訳を効率化する
 
 
 |Name|downloads/week|total downloads|stars|
@@ -697,6 +702,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[mecab_controller](https://github.com/ajatt-tools/mecab_controller)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ajatt-tools/mecab_controller?style=social)|
 |[vits](https://github.com/zassou65535/vits)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zassou65535/vits?style=social)|
 |[akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akarigroup/akari_chatgpt_bot?style=social)|
+|[kudasai](https://github.com/bikatr7/kudasai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/bikatr7/kudasai?style=social)|
 
 
 ## C++
@@ -1243,6 +1249,8 @@ jisho.orgを使用した日本語-英語辞書、エントリーの音声付きC
  * [ichiran](https://github.com/tshatrov/ichiran) - 日本語のテキスト用言語ツール
  * [mikan](https://github.com/mojyack/mikan) - 日本語の入力方法。
  * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - 関西弁日本語の授業で教えられた教材の簡単な参考資料。
+ * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
+JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1307,6 +1315,7 @@ jisho.orgを使用した日本語-英語辞書、エントリーの音声付きC
 |[ichiran](https://github.com/tshatrov/ichiran)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tshatrov/ichiran?style=social)|
 |[mikan](https://github.com/mojyack/mikan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mojyack/mikan?style=social)|
 |[colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sethclydesdale/colloquial-kansai-dictionary?style=social)|
+|[jisho-open](https://github.com/hlorenzi/jisho-open)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hlorenzi/jisho-open?style=social)|
 
 
 ## Corpus
