@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [655件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1517 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [656件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1530 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,16 +17,12 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 8 new models and 6 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 8 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [kudasai](https://github.com/bikatr7/kudasai) - 高度な前処理と統合された翻訳技術を活用して、日本語-英語翻訳を効率化する
+ * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - センターネットを使用した日本語OCR
 
-**Dictionary and IME**
- * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
-JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
-
-_Updated on Dec 31, 2024_
+_Updated on Jan 07, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -226,6 +222,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫画画像の光学文字認識。漫画OCRデスクトップアプリケーション。
  * [owocr](https://github.com/aurorawright/owocr) - 日本語テキストの光学文字認識
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitokuは、日本語に特化したAIパワードのドキュメント画像解析パッケージです。
+ * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - センターネットを使用した日本語OCR
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

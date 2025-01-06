@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了655个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1517个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了656个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1530个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,16 +18,12 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 8 new models and 6 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 8 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [kudasai](https://github.com/bikatr7/kudasai) - 利用先进的预处理和集成翻译技术简化日英翻译
+ * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - 使用CenterNet的日语OCR
 
-**Dictionary and IME**
- * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日语-英语词典项目的Web前端，支持学习列表！
-JMdict日语-英语词典项目的Web前端，支持学习列表！
-
-_Updated on Dec 31, 2024_
+_Updated on Jan 07, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -225,6 +221,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫画图像的光学字符识别。漫画OCR桌面应用程序。
  * [owocr](https://github.com/aurorawright/owocr) - 日文文本的光学字符识别
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一款由人工智能驱动的文件图像分析软件包，专门为日语设计。
+ * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - 使用CenterNet的日语OCR
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

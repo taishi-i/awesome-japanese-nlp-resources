@@ -1010,6 +1010,18 @@
                     "zh-hant": "Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。"
                 }
             },
+            "https://github.com/lithium0003/findtextcenternet": {
+                "sub_category": "OCR",
+                "repository_name": "findtextcenternet",
+                "user_name": "lithium0003",
+                "description": "Japanese OCR with CenterNet",
+                "multilingual_descriptions": {
+                    "en": "Japanese OCR with CenterNet",
+                    "ja": "センターネットを使用した日本語OCR",
+                    "zh-hans": "使用CenterNet的日语OCR",
+                    "zh-hant": "使用CenterNet的日文OCR"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
