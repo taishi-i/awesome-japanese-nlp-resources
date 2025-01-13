@@ -543,6 +543,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [vits](https://github.com/zassou65535/vits) - VITSによるテキスト読み上げ器&ボイスチェンジャー
  * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - 音声認識、文章生成、音声合成を使って対話するチャットボットアプリ
  * [kudasai](https://github.com/bikatr7/kudasai) - Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies
+ * [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) - MeCabの形態素解析結果を可視化するツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -696,6 +697,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[vits](https://github.com/zassou65535/vits)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zassou65535/vits?style=social)|
 |[akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akarigroup/akari_chatgpt_bot?style=social)|
 |[kudasai](https://github.com/bikatr7/kudasai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/bikatr7/kudasai?style=social)|
+|[mecab-visualizer](https://github.com/sophiefy/mecab-visualizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sophiefy/mecab-visualizer?style=social)|
 
 
 ## C++
