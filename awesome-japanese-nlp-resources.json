@@ -3145,6 +3145,30 @@
                     "zh-hans": "利用先进的预处理和集成翻译技术简化日英翻译",
                     "zh-hant": "利用先進的預處理和集成翻譯技術來優化日英翻譯流程"
                 }
+            },
+            "https://github.com/sophiefy/mecab-visualizer": {
+                "sub_category": null,
+                "repository_name": "mecab-visualizer",
+                "user_name": "sophiefy",
+                "description": "MeCabの形態素解析結果を可視化するツール",
+                "multilingual_descriptions": {
+                    "en": "Tool to visualize the morphological analysis results of MeCab",
+                    "ja": "MeCabの形態素解析結果を可視化するツール",
+                    "zh-hans": "使用MeCab进行词素分析结果可视化的工具",
+                    "zh-hant": "使用MeCab進行詞彙分析結果的可視化工具"
+                }
+            },
+            "https://github.com/massao000/add-dictionary": {
+                "sub_category": null,
+                "repository_name": "add-dictionary",
+                "user_name": "massao000",
+                "description": "OpenJTalkのユーザ辞書をGUIで追加するアプリ",
+                "multilingual_descriptions": {
+                    "en": "An app to add user dictionaries for OpenJTalk using a GUI.",
+                    "ja": "OpenJTalkのユーザ辞書をGUIで追加するアプリ",
+                    "zh-hans": "使用GUI添加OpenJTalk用户词典的应用程序",
+                    "zh-hant": "使用GUI添加OpenJTalk用户词典的应用程序"
+                }
             }
         },
         "C++": {

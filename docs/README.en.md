@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [656 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1530 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [658 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1543 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,12 +18,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 8 new models and 5 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 3 new models and 10 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - Japanese OCR with CenterNet
+ * [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) - Tool to visualize the morphological analysis results of MeCab
+ * [add-dictionary](https://github.com/massao000/add-dictionary) - An app to add user dictionaries for OpenJTalk using a GUI.
 
-_Updated on Jan 07, 2025_
+_Updated on Jan 14, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -417,6 +418,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [vits](https://github.com/zassou65535/vits) - Text-to-speech engine and voice changer by VITS
  * [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) - Chatbot application that uses speech recognition, text generation, and speech synthesis for dialogue.
  * [kudasai](https://github.com/bikatr7/kudasai) - Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies
+ * [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) - Tool to visualize the morphological analysis results of MeCab
+ * [add-dictionary](https://github.com/massao000/add-dictionary) - An app to add user dictionaries for OpenJTalk using a GUI.
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
