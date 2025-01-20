@@ -578,6 +578,18 @@
                     "zh-hant": "另一個快速的日本字符串轉換器"
                 }
             },
+            "https://github.com/bikatr7/kairyou": {
+                "sub_category": "Preprocessor",
+                "repository_name": "kairyou",
+                "user_name": "bikatr7",
+                "description": "Quickly preprocesses Japanese text using NLP/NER from SpaCy for Japanese translation or other NLP tasks.",
+                "multilingual_descriptions": {
+                    "en": "Quickly preprocesses Japanese text using NLP/NER from SpaCy for Japanese translation or other NLP tasks.",
+                    "ja": "SpaCyを使用して、日本語テキストをNLP/NERで迅速に前処理し、日本語翻訳やその他のNLPタスクに使用します。",
+                    "zh-hans": "使用SpaCy快速预处理日文文本，以便进行日文翻译或其他自然语言处理任务。",
+                    "zh-hant": "使用SpaCy快速預處理日文文本，以進行日文翻譯或其他NLP任務。"
+                }
+            },
             "https://github.com/megagonlabs/bunkai": {
                 "sub_category": "Sentence spliter",
                 "repository_name": "bunkai",
@@ -4074,6 +4086,18 @@
                     "ja": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
                     "zh-hans": "免费使用的中等质量的文本朗读软件，VOICEVOX的编辑器",
                     "zh-hant": "免費使用的中等品質文字朗讀軟體，VOICEVOX的編輯器"
+                }
+            },
+            "https://github.com/fasiha/kamiya-codec": {
+                "sub_category": null,
+                "repository_name": "kamiya-codec",
+                "user_name": "fasiha",
+                "description": "Towards a Japanese verb conjugator and deconjugator based on Taeko Kamiya's *The Handbook of Japanese Verbs* and *The Handbook of Japanese Adjectives and Adverbs* opuses.",
+                "multilingual_descriptions": {
+                    "en": "Towards a Japanese verb conjugator and deconjugator based on Taeko Kamiya's *The Handbook of Japanese Verbs* and *The Handbook of Japanese Adjectives and Adverbs* opuses.",
+                    "ja": "日本語動詞の活用と非活用を基にした神谷妙子の「日本語動詞の手引き」と「日本語形容詞・副詞の手引き」に向けて。",
+                    "zh-hans": "基于神谷多恵子的《日本动词手册》和《日本形容词和副词手册》，开发一个日语动词变位器和去变位器。",
+                    "zh-hant": "根據神谷多恵子的《日本動詞手冊》和《日本形容詞和副詞手冊》，開發一個日語動詞變化器和去變化器。"
                 }
             }
         },
