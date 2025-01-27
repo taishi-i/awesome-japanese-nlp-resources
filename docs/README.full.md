@@ -550,6 +550,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [kudasai](https://github.com/bikatr7/kudasai) - Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies
  * [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) - MeCabの形態素解析結果を可視化するツール
  * [add-dictionary](https://github.com/massao000/add-dictionary) - OpenJTalkのユーザ辞書をGUIで追加するアプリ
+ * [j-moshi](https://github.com/nu-dialogue/j-moshi) - J-Moshi: A Japanese Full-duplex Spoken Dialogue System
 
 
 |Name|downloads/week|total downloads|stars|
@@ -705,6 +706,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[kudasai](https://github.com/bikatr7/kudasai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/bikatr7/kudasai?style=social)|
 |[mecab-visualizer](https://github.com/sophiefy/mecab-visualizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sophiefy/mecab-visualizer?style=social)|
 |[add-dictionary](https://github.com/massao000/add-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/massao000/add-dictionary?style=social)|
+|[j-moshi](https://github.com/nu-dialogue/j-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/j-moshi?style=social)|
 
 
 ## C++
