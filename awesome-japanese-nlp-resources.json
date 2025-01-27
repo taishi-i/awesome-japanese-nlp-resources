@@ -3181,6 +3181,30 @@
                     "zh-hans": "使用GUI添加OpenJTalk用户词典的应用程序",
                     "zh-hant": "使用GUI添加OpenJTalk用户词典的应用程序"
                 }
+            },
+            "https://github.com/nu-dialogue/j-moshi": {
+                "sub_category": null,
+                "repository_name": "j-moshi",
+                "user_name": "nu-dialogue",
+                "description": "J-Moshi: A Japanese Full-duplex Spoken Dialogue System",
+                "multilingual_descriptions": {
+                    "en": "J-Moshi: A Japanese Full-duplex Spoken Dialogue System",
+                    "ja": "J-Moshi: 日本語のフルデュプレックス音声対話システム",
+                    "zh-hans": "J-Moshi：一个日本全双工口语对话系统",
+                    "zh-hant": "J-Moshi：一個日本全雙工口語對話系統"
+                }
+            },
+            "https://github.com/unilight/jatts": {
+                "sub_category": null,
+                "repository_name": "jatts",
+                "user_name": "unilight",
+                "description": "JATTS: Japanese TTS (for research)",
+                "multilingual_descriptions": {
+                    "en": "JATTS: Japanese TTS (for research)",
+                    "ja": "JATTS: 日本語TTS（研究用）",
+                    "zh-hans": "JATTS: 日语TTS（用于研究）",
+                    "zh-hant": "JATTS: 日文TTS（用於研究）"
+                }
             }
         },
         "C++": {

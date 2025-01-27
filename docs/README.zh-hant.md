@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了660個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1554個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了662個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1580個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,15 +17,13 @@
 ## The latest additions 🎉
 
 **Hugging Face 🤗**
- - [Added 7 new models and 4 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
+ - [Added 17 new models and 9 new datasets to huggingface pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
 **Python**
- * [kairyou](https://github.com/bikatr7/kairyou) - 使用SpaCy快速預處理日文文本，以進行日文翻譯或其他NLP任務。
+ * [j-moshi](https://github.com/nu-dialogue/j-moshi) - J-Moshi：一個日本全雙工口語對話系統
+ * [jatts](https://github.com/unilight/jatts) - JATTS: 日文TTS（用於研究）
 
-**JavaScript**
- * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - 根據神谷多恵子的《日本動詞手冊》和《日本形容詞和副詞手冊》，開發一個日語動詞變化器和去變化器。
-
-_Updated on Jan 21, 2025_
+_Updated on Jan 28, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -428,6 +426,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [kudasai](https://github.com/bikatr7/kudasai) - 利用先進的預處理和集成翻譯技術來優化日英翻譯流程
  * [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) - 使用MeCab進行詞彙分析結果的可視化工具
  * [add-dictionary](https://github.com/massao000/add-dictionary) - 使用GUI添加OpenJTalk用户词典的应用程序
+ * [j-moshi](https://github.com/nu-dialogue/j-moshi) - J-Moshi：一個日本全雙工口語對話系統
+ * [jatts](https://github.com/unilight/jatts) - JATTS: 日文TTS（用於研究）
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
