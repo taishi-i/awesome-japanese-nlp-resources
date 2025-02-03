@@ -7615,6 +7615,18 @@
                     "zh-hans": "Japanese-RP-Bench是用于衡量LLM的日语角色扮演能力的基准。",
                     "zh-hant": "Japanese-RP-Bench是用來測量LLM的日語角色扮演能力的基準。"
                 }
+            },
+            "https://github.com/shikeda/hdic": {
+                "sub_category": null,
+                "repository_name": "hdic",
+                "user_name": "shikeda",
+                "description": "HDIC : Integrated Database of Hanzi Dictionaries in Early Japan",
+                "multilingual_descriptions": {
+                    "en": "HDIC : Integrated Database of Hanzi Dictionaries in Early Japan",
+                    "ja": "HDIC：日本初期の漢字辞書の統合データベース",
+                    "zh-hans": "HDIC：日本早期汉字词典集成数据库",
+                    "zh-hant": "HDIC：日本早期漢字詞典集成數據庫"
+                }
             }
         },
         "Tutorial": {
