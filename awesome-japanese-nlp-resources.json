@@ -7881,6 +7881,18 @@
                     "zh-hans": "用Python解决“自然语言处理100道题目2020”",
                     "zh-hant": "用Python解决“自然语言处理100道题目2020”"
                 }
+            },
+            "https://github.com/paithiov909/textmining-ja": {
+                "sub_category": null,
+                "repository_name": "textmining-ja",
+                "user_name": "paithiov909",
+                "description": "Rによる自然言語処理・テキスト分析の練習",
+                "multilingual_descriptions": {
+                    "en": "Practice of natural language processing and text analysis using R",
+                    "ja": "Rによる自然言語処理・テキスト分析の練習",
+                    "zh-hans": "使用R进行自然语言处理和文本分析的练习",
+                    "zh-hant": "R進行自然語言處理和文本分析的練習"
+                }
             }
         },
         "Research summary": {
