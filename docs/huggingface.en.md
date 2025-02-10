@@ -1,12 +1,16 @@
 # awesome-japanese-nlp-resources
 
-This page lists the models and datasets registered with [Haggingface](https://huggingface.co) that are specific to Japanese NLP. At present, 1173 models and 433 datasets are listed.
+This page lists the models and datasets registered with [Haggingface](https://huggingface.co) that are specific to Japanese NLP.
+
+At present, 1173 models and 433 datasets are listed.
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
-## Contents
+## Contents 📖
 
-The following categories were constructed with reference to the research from [Exploring-NLP-Research](https://github.com/sebischair/Exploring-NLP-Research). Thank you for your efforts in categorizing the field of natural language processing.
+The following categories were constructed with reference to the research from [Exploring-NLP-Research](https://github.com/sebischair/Exploring-NLP-Research).
+
+Thank you for your efforts in categorizing the field of natural language processing.
 
  * [Models](#models)
 	 * [Semantic Text Processing](#Semantic-Text-Processing)
