@@ -3205,6 +3205,18 @@
                     "zh-hans": "JATTS: 日语TTS（用于研究）",
                     "zh-hant": "JATTS: 日文TTS（用於研究）"
                 }
+            },
+            "https://github.com/respaired/tsukasa-speech": {
+                "sub_category": null,
+                "repository_name": "tsukasa-speech",
+                "user_name": "respaired",
+                "description": "a Frontier Japanese Speech Generation net",
+                "multilingual_descriptions": {
+                    "en": "a Frontier Japanese Speech Generation net",
+                    "ja": "フロンティア日本語音声生成ネットワーク",
+                    "zh-hans": "一个前沿的日语语音生成网络",
+                    "zh-hant": "一個前沿的日語語音生成網絡"
+                }
             }
         },
         "C++": {
@@ -5199,6 +5211,18 @@
                     "zh-hans": "使用LLM在日语任务中生成伪学习数据的研究",
                     "zh-hant": "使用LLM在日語任務中生成虛擬學習數據的研究"
                 }
+            },
+            "https://github.com/dahatake/generativeai-prompt-sample-japanese": {
+                "sub_category": null,
+                "repository_name": "generativeai-prompt-sample-japanese",
+                "user_name": "dahatake",
+                "description": "ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル",
+                "multilingual_descriptions": {
+                    "en": "Sample prompts for various generative AIs such as ChatGPT and Copilot in Japanese.",
+                    "ja": "ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル",
+                    "zh-hans": "ChatGPT和Copilot等各种生成AI用的“日本语”提示的示例\nChatGPT和Copilot等各种生成AI用的“日本语”提示的示例",
+                    "zh-hant": "ChatGPT和Copilot等各種生成AI用的“日本語”的Prompt的樣本\nChatGPT和Copilot等各種生成AI用的「日本語」的Prompt的樣本"
+                }
             }
         },
         "Dictionary and IME": {
@@ -5944,6 +5968,18 @@
                     "ja": "JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！\nJMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！",
                     "zh-hans": "JMdict日语-英语词典项目的Web前端，支持学习列表！\nJMdict日语-英语词典项目的Web前端，支持学习列表！",
                     "zh-hant": "JMdict日英詞典項目的Web前端，支持學習列表！"
+                }
+            },
+            "https://github.com/mtgto/macskk": {
+                "sub_category": null,
+                "repository_name": "macskk",
+                "user_name": "mtgto",
+                "description": "Yet Another macOS SKK Input Method",
+                "multilingual_descriptions": {
+                    "en": "Yet Another macOS SKK Input Method",
+                    "ja": "もうひとつのmacOS SKK入力方式",
+                    "zh-hans": "另一个 macOS SKK 输入法",
+                    "zh-hant": "另一個 macOS SKK 輸入法"
                 }
             }
         },
