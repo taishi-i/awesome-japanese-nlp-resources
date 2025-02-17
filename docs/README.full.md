@@ -551,6 +551,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [add-dictionary](https://github.com/massao000/add-dictionary) - OpenJTalkのユーザ辞書をGUIで追加するアプリ
  * [j-moshi](https://github.com/nu-dialogue/j-moshi) - J-Moshi: A Japanese Full-duplex Spoken Dialogue System
  * [jatts](https://github.com/unilight/jatts) - JATTS: Japanese TTS (for research)
+ * [tsukasa-speech](https://github.com/respaired/tsukasa-speech) - a Frontier Japanese Speech Generation net
 
 
 |Name|downloads/week|total downloads|stars|
@@ -708,6 +709,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[add-dictionary](https://github.com/massao000/add-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/massao000/add-dictionary?style=social)|
 |[j-moshi](https://github.com/nu-dialogue/j-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/j-moshi?style=social)|
 |[jatts](https://github.com/unilight/jatts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/unilight/jatts?style=social)|
+|[tsukasa-speech](https://github.com/respaired/tsukasa-speech)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/respaired/tsukasa-speech?style=social)|
 
 
 ## C++
