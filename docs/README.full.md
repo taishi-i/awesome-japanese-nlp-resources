@@ -1528,6 +1528,7 @@ Resources
  * [elaws-history](https://github.com/kissge/elaws-history) - e-Gov 法令検索で配布されている「全ての法令データ」を定期的にダウンロードし、アーカイブしています
  * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-BenchはLLMの日本語ロールプレイ能力を測定するためのベンチマークです。
  * [hdic](https://github.com/shikeda/hdic) - HDIC : Integrated Database of Hanzi Dictionaries in Early Japan
+ * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1647,6 +1648,7 @@ Resources
 |[elaws-history](https://github.com/kissge/elaws-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kissge/elaws-history?style=social)|
 |[Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aratako/Japanese-RP-Bench?style=social)|
 |[hdic](https://github.com/shikeda/hdic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shikeda/hdic?style=social)|
+|[awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japan-opendata/awesome-japan-opendata?style=social)|
 
 
 ## Tutorial
