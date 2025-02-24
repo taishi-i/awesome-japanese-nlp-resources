@@ -1264,6 +1264,7 @@ Resources
  * [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) - A quick reference for the material taught in Colloquial Kansai Japanese.
  * [jisho-open](https://github.com/hlorenzi/jisho-open) - Web frontend for the JMdict Japanese-English dictionary project, with study list support!
  * [macskk](https://github.com/mtgto/macskk) - Yet Another macOS SKK Input Method
+ * [nandoku](https://github.com/marmooo/nandoku) - 難読漢字を学年別にまとめた辞書です。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1330,6 +1331,7 @@ Resources
 |[colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sethclydesdale/colloquial-kansai-dictionary?style=social)|
 |[jisho-open](https://github.com/hlorenzi/jisho-open)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hlorenzi/jisho-open?style=social)|
 |[macskk](https://github.com/mtgto/macskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mtgto/macskk?style=social)|
+|[nandoku](https://github.com/marmooo/nandoku)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/nandoku?style=social)|
 
 
 ## Corpus
