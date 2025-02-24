@@ -5981,6 +5981,18 @@
                     "zh-hans": "另一个 macOS SKK 输入法",
                     "zh-hant": "另一個 macOS SKK 輸入法"
                 }
+            },
+            "https://github.com/marmooo/nandoku": {
+                "sub_category": null,
+                "repository_name": "nandoku",
+                "user_name": "marmooo",
+                "description": "難読漢字を学年別にまとめた辞書です。",
+                "multilingual_descriptions": {
+                    "en": "This is a dictionary that compiles difficult kanji characters by grade level.",
+                    "ja": "難読漢字を学年別にまとめた辞書です。",
+                    "zh-hans": "这是一个按年级整理的难读汉字词典。",
+                    "zh-hant": "難讀漢字按年級整理的辭典。"
+                }
             }
         },
         "Corpus": {
@@ -7662,6 +7674,18 @@
                     "ja": "HDIC：日本初期の漢字辞書の統合データベース",
                     "zh-hans": "HDIC：日本早期汉字词典集成数据库",
                     "zh-hant": "HDIC：日本早期漢字詞典集成數據庫"
+                }
+            },
+            "https://github.com/japan-opendata/awesome-japan-opendata": {
+                "sub_category": null,
+                "repository_name": "awesome-japan-opendata",
+                "user_name": "japan-opendata",
+                "description": "日本のオープンデータ情報一覧・まとめ",
+                "multilingual_descriptions": {
+                    "en": "Awesome Japan Open Data - List and Summary of Open Data Information in Japan",
+                    "ja": "Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ",
+                    "zh-hans": "日本开放数据精选 - 日本开放数据信息汇总",
+                    "zh-hant": "精彩的日本開放數據-日本的開放數據信息列表和摘要"
                 }
             }
         },

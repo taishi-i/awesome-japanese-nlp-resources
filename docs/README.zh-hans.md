@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了667个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1661个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了669个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1680个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -22,17 +22,13 @@
 
  - Improvement of the repository description and addition of a research category on [Hugging Face pages](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
 
-**ChatGPT**
-  * [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各种生成AI用的“日本语”提示的示例
-ChatGPT和Copilot等各种生成AI用的“日本语”提示的示例
-
-**Python**
- * [tsukasa-speech](https://github.com/respaired/tsukasa-speech) - 一个前沿的日语语音生成网络
-
 **Dictionary and IME**
- * [macskk](https://github.com/mtgto/macskk) - 另一个 macOS SKK 输入法
+ * [nandoku](https://github.com/marmooo/nandoku) - 这是一个按年级整理的难读汉字词典。
 
-_Updated on Feb 18, 2025_
+**Corpus**
+ * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - 日本开放数据精选 - 日本开放数据信息汇总
+
+_Updated on Feb 25, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -807,6 +803,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [jisho-open](https://github.com/hlorenzi/jisho-open) - JMdict日语-英语词典项目的Web前端，支持学习列表！
 JMdict日语-英语词典项目的Web前端，支持学习列表！
  * [macskk](https://github.com/mtgto/macskk) - 另一个 macOS SKK 输入法
+ * [nandoku](https://github.com/marmooo/nandoku) - 这是一个按年级整理的难读汉字词典。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -978,6 +975,7 @@ COMET-ATOMIC ja
  * [elaws-history](https://github.com/kissge/elaws-history) - 通过e-Gov法令搜索定期下载分发的“所有法令数据”，并进行归档。
  * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-Bench是用于衡量LLM的日语角色扮演能力的基准。
  * [hdic](https://github.com/shikeda/hdic) - HDIC：日本早期汉字词典集成数据库
+ * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - 日本开放数据精选 - 日本开放数据信息汇总
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
