@@ -555,6 +555,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [j-moshi](https://github.com/nu-dialogue/j-moshi) - J-Moshi: A Japanese Full-duplex Spoken Dialogue System
  * [jatts](https://github.com/unilight/jatts) - JATTS: Japanese TTS (for research)
  * [tsukasa-speech](https://github.com/respaired/tsukasa-speech) - a Frontier Japanese Speech Generation net
+ * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - ElasticsearchやGiNZA、患者表現辞書を使った患者表現揺れ吸収する意味構造検索を試した
 
 
 |Name|downloads/week|total downloads|stars|
@@ -713,6 +714,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[j-moshi](https://github.com/nu-dialogue/j-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/j-moshi?style=social)|
 |[jatts](https://github.com/unilight/jatts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/unilight/jatts?style=social)|
 |[tsukasa-speech](https://github.com/respaired/tsukasa-speech)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/respaired/tsukasa-speech?style=social)|
+|[symptom-expression-search](https://github.com/po3rin/symptom-expression-search)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/po3rin/symptom-expression-search?style=social)|
 
 
 ## C++
