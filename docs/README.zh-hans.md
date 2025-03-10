@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了670个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1702个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了673个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1723个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -22,10 +22,16 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Python**
- * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - 尝试使用Elasticsearch、GiNZA和患者表现词典来吸收患者表现的波动，进行意义结构搜索。
+**Tutorial**
+ * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
 
-_Updated on Mar 04, 2025_
+**Python**
+ * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 一个简单的漫画OCR（日本传统和日本竖排）
+
+**Corpus**
+ * [kanji-data](https://github.com/mimneko/kanji-data) - 常用汉字表，有关汉字的数据
+
+_Updated on Mar 11, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -225,6 +231,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [owocr](https://github.com/aurorawright/owocr) - 日文文本的光学字符识别
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一款由人工智能驱动的文件图像分析软件包，专门为日语设计。
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - 使用CenterNet的日语OCR
+ * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 一个简单的漫画OCR（日本传统和日本竖排）
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -974,6 +981,7 @@ COMET-ATOMIC ja
  * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-Bench是用于衡量LLM的日语角色扮演能力的基准。
  * [hdic](https://github.com/shikeda/hdic) - HDIC：日本早期汉字词典集成数据库
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - 日本开放数据精选 - 日本开放数据信息汇总
+ * [kanji-data](https://github.com/mimneko/kanji-data) - 常用汉字表，有关汉字的数据
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1004,6 +1012,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - 对Google Gemma进行日语指令的微调
  * [nlp100v2020](https://github.com/upura/nlp100v2020) - 用Python解决“自然语言处理100道题目2020”
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - 使用R进行自然语言处理和文本分析的练习
+ * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

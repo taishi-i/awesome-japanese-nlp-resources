@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了670個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1702個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了673個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1723個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -21,10 +21,16 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Python**
- * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - 嘗試使用Elasticsearch、GiNZA和患者表現詞典來吸收患者表現的變化，進行意義結構搜索。
+**Tutorial**
+ * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
 
-_Updated on Mar 04, 2025_
+**Python**
+ * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 一個簡單的漫畫OCR（日本傳統和日本垂直）
+
+**Corpus**
+ * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表，與漢字相關的數據
+
+_Updated on Mar 11, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -226,6 +232,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [owocr](https://github.com/aurorawright/owocr) - 日文文本的光學字符識別
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - 使用CenterNet的日文OCR
+ * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 一個簡單的漫畫OCR（日本傳統和日本垂直）
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -981,6 +988,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-Bench是用來測量LLM的日語角色扮演能力的基準。
  * [hdic](https://github.com/shikeda/hdic) - HDIC：日本早期漢字詞典集成數據庫
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - 精彩的日本開放數據-日本的開放數據信息列表和摘要
+ * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表，與漢字相關的數據
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1011,6 +1019,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - 將Google Gemma微調為日文指令
  * [nlp100v2020](https://github.com/upura/nlp100v2020) - 用Python解决“自然语言处理100道题目2020”
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - R進行自然語言處理和文本分析的練習
+ * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

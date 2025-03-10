@@ -1034,6 +1034,18 @@
                     "zh-hant": "使用CenterNet的日文OCR"
                 }
             },
+            "https://github.com/yisusdev2005/simple-ocr-for-manga": {
+                "sub_category": "OCR",
+                "repository_name": "simple-ocr-for-manga",
+                "user_name": "yisusdev2005",
+                "description": "A simple OCR for manga (Japanese traditional and Japanese vertical)",
+                "multilingual_descriptions": {
+                    "en": "A simple OCR for manga (Japanese traditional and Japanese vertical)",
+                    "ja": "漫画用のシンプルなOCR（日本の伝統的なものと日本の縦書き）",
+                    "zh-hans": "一个简单的漫画OCR（日本传统和日本竖排）",
+                    "zh-hant": "一個簡單的漫畫OCR（日本傳統和日本垂直）"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -7699,6 +7711,18 @@
                     "zh-hans": "日本开放数据精选 - 日本开放数据信息汇总",
                     "zh-hant": "精彩的日本開放數據-日本的開放數據信息列表和摘要"
                 }
+            },
+            "https://github.com/mimneko/kanji-data": {
+                "sub_category": null,
+                "repository_name": "kanji-data",
+                "user_name": "mimneko",
+                "description": "常用漢字表他、漢字に関するデータ",
+                "multilingual_descriptions": {
+                    "en": "Commonly used kanji table, data related to kanji",
+                    "ja": "常用漢字表他、漢字に関するデータ",
+                    "zh-hans": "常用汉字表，有关汉字的数据",
+                    "zh-hant": "常用漢字表，與漢字相關的數據"
+                }
             }
         },
         "Tutorial": {
@@ -7964,6 +7988,18 @@
                     "ja": "Rによる自然言語処理・テキスト分析の練習",
                     "zh-hans": "使用R进行自然语言处理和文本分析的练习",
                     "zh-hant": "R進行自然語言處理和文本分析的練習"
+                }
+            },
+            "https://github.com/yuiseki/nlp2025-tutorial-2": {
+                "sub_category": null,
+                "repository_name": "nlp2025-tutorial-2",
+                "user_name": "yuiseki",
+                "description": "NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード",
+                "multilingual_descriptions": {
+                    "en": "Tutorial materials and source code for \"Introduction to Geographic Information and Language Processing in Practice\" in NLP2025.",
+                    "ja": "NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード",
+                    "zh-hans": "NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码",
+                    "zh-hant": "NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码"
                 }
             }
         },

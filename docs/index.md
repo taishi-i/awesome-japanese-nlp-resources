@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [670件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1702 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [673件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1723 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -21,12 +21,16 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
+**Tutorial**
+ * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
+
 **Python**
- * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - ElasticsearchやGiNZA、患者表現辞書を使った患者表現揺れ吸収する意味構造検索を試した
+ * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 漫画用のシンプルなOCR（日本の伝統的なものと日本の縦書き）
 
-エラスティックサーチやGiNZA、患者表現辞書を使用して患者表現の揺れを吸収する意味構造検索を試してみました。
+**Corpus**
+ * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表他、漢字に関するデータ
 
-_Updated on Mar 04, 2025_
+_Updated on Mar 11, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -309,6 +313,7 @@ _Updated on Mar 04, 2025_
  * [owocr](https://github.com/aurorawright/owocr) - 日本語テキストの光学文字認識
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitokuは、日本語に特化したAIパワードのドキュメント画像解析パッケージです。
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - センターネットを使用した日本語OCR
+ * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 漫画用のシンプルなOCR（日本の伝統的なものと日本の縦書き）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -326,6 +331,7 @@ _Updated on Mar 04, 2025_
 |[owocr](https://github.com/aurorawright/owocr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aurorawright/owocr?style=social)|
 |[yomitoku](https://github.com/kotaro-kinoshita/yomitoku)|[![Downloads](https://pepy.tech/badge/yomitoku/week)](https://pepy.tech/project/yomitoku)|[![Downloads](https://pepy.tech/badge/yomitoku)](https://pepy.tech/project/yomitoku)|![GitHub Repo stars](https://img.shields.io/github/stars/kotaro-kinoshita/yomitoku?style=social)|
 |[findtextcenternet](https://github.com/lithium0003/findtextcenternet)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/findtextcenternet?style=social)|
+|[simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yisusdev2005/simple-ocr-for-manga?style=social)|
 
 
 ### Tool for pretrained models
@@ -1540,6 +1546,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) - Japanese-RP-BenchはLLMの日本語ロールプレイ能力を測定するためのベンチマークです。
  * [hdic](https://github.com/shikeda/hdic) - HDIC：日本初期の漢字辞書の統合データベース
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
+ * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表他、漢字に関するデータ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1660,6 +1667,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aratako/Japanese-RP-Bench?style=social)|
 |[hdic](https://github.com/shikeda/hdic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shikeda/hdic?style=social)|
 |[awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japan-opendata/awesome-japan-opendata?style=social)|
+|[kanji-data](https://github.com/mimneko/kanji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mimneko/kanji-data?style=social)|
 
 
 ## Tutorial
@@ -1687,6 +1695,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - Google Gemmaの日本語の説明のためのファインチューニング
  * [nlp100v2020](https://github.com/upura/nlp100v2020) - 「言語処理100本ノック 2020」をPythonで解く
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Rによる自然言語処理・テキスト分析の練習
+ * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1714,6 +1723,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/main/Gemma2_2b_Japanese_finetuning_colab.ipynb?style=social)|
 |[nlp100v2020](https://github.com/upura/nlp100v2020)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2020?style=social)|
 |[textmining-ja](https://github.com/paithiov909/textmining-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/paithiov909/textmining-ja?style=social)|
+|[nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuiseki/nlp2025-tutorial-2?style=social)|
 
 
 ## Research summary
