@@ -1273,6 +1273,7 @@ Resources
  * [jisho-open](https://github.com/hlorenzi/jisho-open) - Web frontend for the JMdict Japanese-English dictionary project, with study list support!
  * [macskk](https://github.com/mtgto/macskk) - Yet Another macOS SKK Input Method
  * [nandoku](https://github.com/marmooo/nandoku) - 難読漢字を学年別にまとめた辞書です。
+ * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - A FOSS Japanese IME for Android
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1340,6 +1341,7 @@ Resources
 |[jisho-open](https://github.com/hlorenzi/jisho-open)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hlorenzi/jisho-open?style=social)|
 |[macskk](https://github.com/mtgto/macskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mtgto/macskk?style=social)|
 |[nandoku](https://github.com/marmooo/nandoku)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/nandoku?style=social)|
+|[japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nelsonapenn/japanese_android_ime?style=social)|
 
 
 ## Corpus
