@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [673件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1723 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [678件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1741 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -21,16 +21,18 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Tutorial**
- * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
-
 **Python**
- * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 漫画用のシンプルなOCR（日本の伝統的なものと日本の縦書き）
+ * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
+ * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル
 
 **Corpus**
- * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表他、漢字に関するデータ
+ * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報データ
 
-_Updated on Mar 11, 2025_
+**Dictionary and IME**
+ * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - Android用のFOSS日本語IME
+ * [anthywl](https://github.com/tadeokondrak/anthywl) - Swayのためのlibanthyを使用した日本語入力方法
+
+_Updated on Mar 18, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -568,6 +570,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - ElasticsearchやGiNZA、患者表現辞書を使った患者表現揺れ吸収する意味構造検索を試した
 
 エラスティックサーチやGiNZA、患者表現辞書を使用して患者表現の揺れを吸収する意味構造検索を試してみました。
+ * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
+ * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -727,6 +731,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[jatts](https://github.com/unilight/jatts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/unilight/jatts?style=social)|
 |[tsukasa-speech](https://github.com/respaired/tsukasa-speech)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/respaired/tsukasa-speech?style=social)|
 |[symptom-expression-search](https://github.com/po3rin/symptom-expression-search)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/po3rin/symptom-expression-search?style=social)|
+|[llm-jp-judge](https://github.com/llm-jp/llm-jp-judge)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-judge?style=social)|
+|[asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazuhito00/asagi-vlm-colaboratory-sample?style=social)|
 
 
 ## C++
@@ -1281,6 +1287,8 @@ jisho.orgを使用した日本語-英語辞書、エントリーの音声付きC
 JMdict日本語英語辞書プロジェクトのWebフロントエンド、学習リストのサポート付き！
  * [macskk](https://github.com/mtgto/macskk) - もうひとつのmacOS SKK入力方式
  * [nandoku](https://github.com/marmooo/nandoku) - 難読漢字を学年別にまとめた辞書です。
+ * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - Android用のFOSS日本語IME
+ * [anthywl](https://github.com/tadeokondrak/anthywl) - Swayのためのlibanthyを使用した日本語入力方法
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1348,6 +1356,8 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
 |[jisho-open](https://github.com/hlorenzi/jisho-open)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hlorenzi/jisho-open?style=social)|
 |[macskk](https://github.com/mtgto/macskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mtgto/macskk?style=social)|
 |[nandoku](https://github.com/marmooo/nandoku)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/nandoku?style=social)|
+|[japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nelsonapenn/japanese_android_ime?style=social)|
+|[anthywl](https://github.com/tadeokondrak/anthywl)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tadeokondrak/anthywl?style=social)|
 
 
 ## Corpus
@@ -1547,6 +1557,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [hdic](https://github.com/shikeda/hdic) - HDIC：日本初期の漢字辞書の統合データベース
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
  * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表他、漢字に関するデータ
+ * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報データ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1668,6 +1679,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[hdic](https://github.com/shikeda/hdic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shikeda/hdic?style=social)|
 |[awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japan-opendata/awesome-japan-opendata?style=social)|
 |[kanji-data](https://github.com/mimneko/kanji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mimneko/kanji-data?style=social)|
+|[openchj-genji](https://github.com/togiso/openchj-genji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togiso/openchj-genji?style=social)|
 
 
 ## Tutorial

@@ -3241,6 +3241,30 @@
                     "zh-hans": "尝试使用Elasticsearch、GiNZA和患者表现词典来吸收患者表现的波动，进行意义结构搜索。",
                     "zh-hant": "嘗試使用Elasticsearch、GiNZA和患者表現詞典來吸收患者表現的變化，進行意義結構搜索。"
                 }
+            },
+            "https://github.com/llm-jp/llm-jp-judge": {
+                "sub_category": null,
+                "repository_name": "llm-jp-judge",
+                "user_name": "llm-jp",
+                "description": "生成自動評価を行うためのPythonツール",
+                "multilingual_descriptions": {
+                    "en": "Python tool for generating automatic evaluations",
+                    "ja": "生成自動評価を行うためのPythonツール",
+                    "zh-hans": "用于执行自动生成评估的Python工具",
+                    "zh-hant": "生成自動評估的Python工具"
+                }
+            },
+            "https://github.com/kazuhito00/asagi-vlm-colaboratory-sample": {
+                "sub_category": null,
+                "repository_name": "asagi-vlm-colaboratory-sample",
+                "user_name": "kazuhito00",
+                "description": "Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル",
+                "multilingual_descriptions": {
+                    "en": "Sample trying out Asagi (large-scale Japanese VLM utilizing synthetic datasets) on Colaboratory.",
+                    "ja": "Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル",
+                    "zh-hans": "在Colaboratory上尝试Asagi（使用合成数据集的大规模日语VLM）的示例。",
+                    "zh-hant": "在Colaboratory上嘗試Asagi（使用合成數據集的大規模日語VLM）的示例"
+                }
             }
         },
         "C++": {
@@ -6017,6 +6041,30 @@
                     "zh-hans": "这是一个按年级整理的难读汉字词典。",
                     "zh-hant": "難讀漢字按年級整理的辭典。"
                 }
+            },
+            "https://github.com/nelsonapenn/japanese_android_ime": {
+                "sub_category": null,
+                "repository_name": "japanese_android_ime",
+                "user_name": "nelsonapenn",
+                "description": "A FOSS Japanese IME for Android",
+                "multilingual_descriptions": {
+                    "en": "A FOSS Japanese IME for Android",
+                    "ja": "Android用のFOSS日本語IME",
+                    "zh-hans": "一个用于安卓系统的开源日文输入法。",
+                    "zh-hant": "一個用於安卓系統的自由開源軟體日文輸入法。"
+                }
+            },
+            "https://github.com/tadeokondrak/anthywl": {
+                "sub_category": null,
+                "repository_name": "anthywl",
+                "user_name": "tadeokondrak",
+                "description": "Japanese input method for Sway using libanthy",
+                "multilingual_descriptions": {
+                    "en": "Japanese input method for Sway using libanthy",
+                    "ja": "Swayのためのlibanthyを使用した日本語入力方法",
+                    "zh-hans": "使用libanthy为Sway提供的日语输入法",
+                    "zh-hant": "使用libanthy為Sway提供的日文輸入法"
+                }
             }
         },
         "Corpus": {
@@ -7722,6 +7770,18 @@
                     "ja": "常用漢字表他、漢字に関するデータ",
                     "zh-hans": "常用汉字表，有关汉字的数据",
                     "zh-hant": "常用漢字表，與漢字相關的數據"
+                }
+            },
+            "https://github.com/togiso/openchj-genji": {
+                "sub_category": null,
+                "repository_name": "openchj-genji",
+                "user_name": "togiso",
+                "description": "「源氏物語」形態論情報データ",
+                "multilingual_descriptions": {
+                    "en": "\"The Tale of Genji\" morphological information data",
+                    "ja": "「源氏物語」形態論情報データ",
+                    "zh-hans": "《源氏物语》形态论情报数据",
+                    "zh-hant": "「源氏物語」形態論情報數據"
                 }
             }
         },

@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [673 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1723 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [678 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1741 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -22,16 +22,18 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Tutorial**
- * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - Tutorial materials and source code for "Introduction to Geographic Information and Language Processing in Practice" in NLP2025.
-
 **Python**
- * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - A simple OCR for manga (Japanese traditional and Japanese vertical)
+ * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - Python tool for generating automatic evaluations
+ * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Sample trying out Asagi (large-scale Japanese VLM utilizing synthetic datasets) on Colaboratory.
 
 **Corpus**
- * [kanji-data](https://github.com/mimneko/kanji-data) - Commonly used kanji table, data related to kanji
+ * [openchj-genji](https://github.com/togiso/openchj-genji) - "The Tale of Genji" morphological information data
 
-_Updated on Mar 11, 2025_
+**Dictionary and IME**
+ * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - A FOSS Japanese IME for Android
+ * [anthywl](https://github.com/tadeokondrak/anthywl) - Japanese input method for Sway using libanthy
+
+_Updated on Mar 18, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -433,6 +435,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jatts](https://github.com/unilight/jatts) - JATTS: Japanese TTS (for research)
  * [tsukasa-speech](https://github.com/respaired/tsukasa-speech) - a Frontier Japanese Speech Generation net
  * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - I tried a semantic structure search that absorbs patient expression variations using Elasticsearch, GiNZA, and a patient expression dictionary.
+ * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - Python tool for generating automatic evaluations
+ * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Sample trying out Asagi (large-scale Japanese VLM utilizing synthetic datasets) on Colaboratory.
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -801,6 +805,8 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [jisho-open](https://github.com/hlorenzi/jisho-open) - Web frontend for the JMdict Japanese-English dictionary project, with study list support!
  * [macskk](https://github.com/mtgto/macskk) - Yet Another macOS SKK Input Method
  * [nandoku](https://github.com/marmooo/nandoku) - This is a dictionary that compiles difficult kanji characters by grade level.
+ * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - A FOSS Japanese IME for Android
+ * [anthywl](https://github.com/tadeokondrak/anthywl) - Japanese input method for Sway using libanthy
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -972,6 +978,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [hdic](https://github.com/shikeda/hdic) - HDIC : Integrated Database of Hanzi Dictionaries in Early Japan
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - List and Summary of Open Data Information in Japan
  * [kanji-data](https://github.com/mimneko/kanji-data) - Commonly used kanji table, data related to kanji
+ * [openchj-genji](https://github.com/togiso/openchj-genji) - "The Tale of Genji" morphological information data
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
