@@ -3265,6 +3265,18 @@
                     "zh-hans": "在Colaboratory上尝试Asagi（使用合成数据集的大规模日语VLM）的示例。",
                     "zh-hant": "在Colaboratory上嘗試Asagi（使用合成數據集的大規模日語VLM）的示例"
                 }
+            },
+            "https://github.com/llm-jp/llm-jp-eval-mm": {
+                "sub_category": null,
+                "repository_name": "llm-jp-eval-mm",
+                "user_name": "llm-jp",
+                "description": "This tool automatically evaluates Japanese multi-modal large language models across multiple datasets.",
+                "multilingual_descriptions": {
+                    "en": "This tool automatically evaluates Japanese multi-modal large language models across multiple datasets.",
+                    "ja": "このツールは、複数のデータセットにわたって日本語のマルチモーダル大規模言語モデルを自動的に評価します。",
+                    "zh-hans": "这个工具会自动评估日本多模态大型语言模型在多个数据集上的表现。",
+                    "zh-hant": "這個工具會自動評估日本多模式大型語言模型在多個數據集上的表現。"
+                }
             }
         },
         "C++": {
@@ -7782,6 +7794,18 @@
                     "ja": "「源氏物語」形態論情報データ",
                     "zh-hans": "《源氏物语》形态论情报数据",
                     "zh-hant": "「源氏物語」形態論情報數據"
+                }
+            },
+            "https://github.com/CyberAgentAILab/AdParaphrase": {
+                "sub_category": null,
+                "repository_name": "AdParaphrase",
+                "user_name": "CyberAgentAILab",
+                "description": "This repository contains data for our paper \"AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts\".",
+                "multilingual_descriptions": {
+                    "en": "This repository contains data for our paper AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts.",
+                    "ja": "このリポジトリには、魅力的な広告テキストを生成するための言語的特徴を分析するためのParaphraseデータセットに関する私たちの論文のデータが含まれています。",
+                    "zh-hans": "这个存储库包含了我们论文《AdParaphrase: 用于分析语言特征以生成吸引人广告文本的改写数据集》的数据。",
+                    "zh-hant": "這個存儲庫包含我們論文《AdParaphrase: 用於分析語言特徵以生成吸引人廣告文本的改寫數據集》的數據。"
                 }
             }
         },

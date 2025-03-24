@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [678件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1741 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [681件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1751 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -22,17 +22,13 @@
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
 **Python**
+ * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - このツールは、複数のデータセットにわたって日本語のマルチモーダル大規模言語モデルを自動的に評価します。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
- * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル
 
 **Corpus**
- * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報データ
+ * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - このリポジトリには、魅力的な広告テキストを生成するための言語的特徴を分析するためのParaphraseデータセットに関する私たちの論文のデータが含まれています。
 
-**Dictionary and IME**
- * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - Android用のFOSS日本語IME
- * [anthywl](https://github.com/tadeokondrak/anthywl) - Swayのためのlibanthyを使用した日本語入力方法
-
-_Updated on Mar 18, 2025_
+_Updated on Mar 25, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -572,6 +568,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 エラスティックサーチやGiNZA、患者表現辞書を使用して患者表現の揺れを吸収する意味構造検索を試してみました。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
  * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル
+ * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - このツールは、複数のデータセットにわたって日本語のマルチモーダル大規模言語モデルを自動的に評価します。
+ * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -733,6 +731,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[symptom-expression-search](https://github.com/po3rin/symptom-expression-search)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/po3rin/symptom-expression-search?style=social)|
 |[llm-jp-judge](https://github.com/llm-jp/llm-jp-judge)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-judge?style=social)|
 |[asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazuhito00/asagi-vlm-colaboratory-sample?style=social)|
+|[llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-eval-mm?style=social)|
+|[llm-jp-judge](https://github.com/llm-jp/llm-jp-judge)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-judge?style=social)|
 
 
 ## C++
@@ -1558,6 +1558,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
  * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表他、漢字に関するデータ
  * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報データ
+ * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - このリポジトリには、魅力的な広告テキストを生成するための言語的特徴を分析するためのParaphraseデータセットに関する私たちの論文のデータが含まれています。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1680,6 +1681,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japan-opendata/awesome-japan-opendata?style=social)|
 |[kanji-data](https://github.com/mimneko/kanji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mimneko/kanji-data?style=social)|
 |[openchj-genji](https://github.com/togiso/openchj-genji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togiso/openchj-genji?style=social)|
+|[AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/AdParaphrase?style=social)|
 
 
 ## Tutorial

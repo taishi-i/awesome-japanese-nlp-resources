@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了678個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1741個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了681個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1751個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -22,17 +22,13 @@
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
 **Python**
+ * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 這個工具會自動評估日本多模式大型語言模型在多個數據集上的表現。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評估的Python工具
- * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - 在Colaboratory上嘗試Asagi（使用合成數據集的大規模日語VLM）的示例
 
 **Corpus**
- * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報數據
+ * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - 這個存儲庫包含我們論文《AdParaphrase: 用於分析語言特徵以生成吸引人廣告文本的改寫數據集》的數據。
 
-**Dictionary and IME**
- * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - 一個用於安卓系統的自由開源軟體日文輸入法。
- * [anthywl](https://github.com/tadeokondrak/anthywl) - 使用libanthy為Sway提供的日文輸入法
-
-_Updated on Mar 18, 2025_
+_Updated on Mar 25, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -442,6 +438,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) - 嘗試使用Elasticsearch、GiNZA和患者表現詞典來吸收患者表現的變化，進行意義結構搜索。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評估的Python工具
  * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - 在Colaboratory上嘗試Asagi（使用合成數據集的大規模日語VLM）的示例
+ * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 這個工具會自動評估日本多模式大型語言模型在多個數據集上的表現。
+ * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評估的Python工具
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -996,6 +994,7 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - 精彩的日本開放數據-日本的開放數據信息列表和摘要
  * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表，與漢字相關的數據
  * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報數據
+ * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - 這個存儲庫包含我們論文《AdParaphrase: 用於分析語言特徵以生成吸引人廣告文本的改寫數據集》的數據。
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
