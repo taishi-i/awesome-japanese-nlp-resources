@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了681个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1751个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了688个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1770个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -22,14 +22,16 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Python**
- * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 这个工具会自动评估日本多模态大型语言模型在多个数据集上的表现。
- * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 用于执行自动生成评估的Python工具
-
 **Corpus**
- * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - 这个存储库包含了我们论文《AdParaphrase: 用于分析语言特征以生成吸引人广告文本的改写数据集》的数据。
+ * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - 考虑了方面的日语时间推理数据集的构建（Jamp_sp：考虑方面的受控日语时间推理数据集）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 这是用于评估否定理解能力的日语语言推理数据集JNLI-Neg的公开存储库。
+ * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - 该存储库提供了用于构建燕子语料库第1版的Python实现，这是一个大型的日语网络语料库（冈崎等人，2024年），来自Common Crawl档案。
+ * [jalecon](https://github.com/naist-nlp/jalecon) - 一个供非母语读者使用的日语词汇复杂性数据集
+ * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日语词汇复杂度预测和日语词汇简化数据集：注释者简介，未聚合注释和注释指南。
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL网络日语语料库
+ * [jcms](https://github.com/shigashiyama/jcms) - 一个日语多个专业领域语料库（JCMS）
 
-_Updated on Mar 25, 2025_
+_Updated on Apr 01, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -988,6 +990,12 @@ COMET-ATOMIC ja
  * [kanji-data](https://github.com/mimneko/kanji-data) - 常用汉字表，有关汉字的数据
  * [openchj-genji](https://github.com/togiso/openchj-genji) - 《源氏物语》形态论情报数据
  * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - 这个存储库包含了我们论文《AdParaphrase: 用于分析语言特征以生成吸引人广告文本的改写数据集》的数据。
+ * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - 考虑了方面的日语时间推理数据集的构建（Jamp_sp：考虑方面的受控日语时间推理数据集）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 这是用于评估否定理解能力的日语语言推理数据集JNLI-Neg的公开存储库。
+ * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - 该存储库提供了用于构建燕子语料库第1版的Python实现，这是一个大型的日语网络语料库（冈崎等人，2024年），来自Common Crawl档案。
+ * [jalecon](https://github.com/naist-nlp/jalecon) - 一个供非母语读者使用的日语词汇复杂性数据集
+ * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日语词汇复杂度预测和日语词汇简化数据集：注释者简介，未聚合注释和注释指南。
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL网络日语语料库
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

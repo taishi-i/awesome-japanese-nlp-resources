@@ -7807,6 +7807,78 @@
                     "zh-hans": "这个存储库包含了我们论文《AdParaphrase: 用于分析语言特征以生成吸引人广告文本的改写数据集》的数据。",
                     "zh-hant": "這個存儲庫包含我們論文《AdParaphrase: 用於分析語言特徵以生成吸引人廣告文本的改寫數據集》的數據。"
                 }
+            },
+            "https://github.com/ynklab/Jamp_sp": {
+                "sub_category": null,
+                "repository_name": "Jamp_sp",
+                "user_name": "ynklab",
+                "description": "アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: Controlled Japanese Temporal Inference Dataset Considering Aspect）",
+                "multilingual_descriptions": {
+                    "en": "アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: Controlled Japanese Temporal Inference Dataset Considering Aspect）",
+                    "ja": "アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: 制御された日本語時間推論データセットを考慮）",
+                    "zh-hans": "考虑了方面的日语时间推理数据集的构建（Jamp_sp：考虑方面的受控日语时间推理数据集）",
+                    "zh-hant": "考慮到方面的控制日本時間推論數據集的構建（Jamp_sp：考慮到方面的控制日本時間推論數據集）"
+                }
+            },
+            "https://github.com/asahi-y/jnli-neg": {
+                "sub_category": null,
+                "repository_name": "jnli-neg",
+                "user_name": "asahi-y",
+                "description": "否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。",
+                "multilingual_descriptions": {
+                    "en": "This is the public repository for the Japanese Natural Language Inference Dataset for Evaluating Negative Understanding Ability (JNLI-Neg).",
+                    "ja": "否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。",
+                    "zh-hans": "这是用于评估否定理解能力的日语语言推理数据集JNLI-Neg的公开存储库。",
+                    "zh-hant": "這是用於評估否定理解能力的日語語言推論數據集 JNLI-Neg 的公開存儲庫。"
+                }
+            },
+            "https://github.com/swallow-llm/swallow-corpus": {
+                "sub_category": null,
+                "repository_name": "swallow-corpus",
+                "user_name": "swallow-llm",
+                "description": "This repository provides Python implementation for building Swallow Corpus Version 1, a large Japanese web corpus (Okazaki et al., 2024), from Common Crawl archives.",
+                "multilingual_descriptions": {
+                    "en": "This repository provides Python implementation for building Swallow Corpus Version 1, a large Japanese web corpus (Okazaki et al., 2024), from Common Crawl archives.",
+                    "ja": "このリポジトリは、Common Crawlアーカイブから大規模な日本語ウェブコーパス（岡崎ら、2024年）であるSwallow Corpus Version 1を構築するためのPython実装を提供しています。",
+                    "zh-hans": "该存储库提供了用于构建燕子语料库第1版的Python实现，这是一个大型的日语网络语料库（冈崎等人，2024年），来自Common Crawl档案。",
+                    "zh-hant": "該存儲庫提供了用於構建Swallow Corpus Version 1的Python實現，這是一個大型的日本網絡語料庫（Okazaki等人，2024年），來自Common Crawl檔案。"
+                }
+            },
+            "https://github.com/naist-nlp/jalecon": {
+                "sub_category": null,
+                "repository_name": "jalecon",
+                "user_name": "naist-nlp",
+                "description": "A Dataset of Japanese Lexical Complexity for Non-Native Readers",
+                "multilingual_descriptions": {
+                    "en": "A Dataset of Japanese Lexical Complexity for Non-Native Readers",
+                    "ja": "非母語話者向けの日本語語彙複雑性のデータセット",
+                    "zh-hans": "一个供非母语读者使用的日语词汇复杂性数据集",
+                    "zh-hant": "一個針對非母語讀者的日語詞彙複雜度數據集"
+                }
+            },
+            "https://github.com/naist-nlp/multils-japanese": {
+                "sub_category": null,
+                "repository_name": "multils-japanese",
+                "user_name": "naist-nlp",
+                "description": "MultiLS-Japanese Lexical Complexity Prediction and Lexical Simplification Dataset for Japanese: annotator profiles, unaggregated annotation, and annotatation guidelines.",
+                "multilingual_descriptions": {
+                    "en": "MultiLS-Japanese Lexical Complexity Prediction and Lexical Simplification Dataset for Japanese: annotator profiles, unaggregated annotation, and annotatation guidelines.",
+                    "ja": "MultiLS-日本語の語彙複雑性予測と語彙の簡素化データセット：アノテータープロファイル、非集計注釈、および注釈ガイドライン。",
+                    "zh-hans": "MultiLS-日语词汇复杂度预测和日语词汇简化数据集：注释者简介，未聚合注释和注释指南。",
+                    "zh-hant": "MultiLS-日語詞彙複雜度預測和詞彙簡化數據集：標註者檔案、未聚合標註和標註指南。"
+                }
+            },
+            "https://github.com/masayu-a/nwjc": {
+                "sub_category": null,
+                "repository_name": "nwjc",
+                "user_name": "masayu-a",
+                "description": "NINJAL Web Japanese Corpus",
+                "multilingual_descriptions": {
+                    "en": "NINJAL Web Japanese Corpus",
+                    "ja": "NINJALウェブ日本語コーパス",
+                    "zh-hans": "NINJAL网络日语语料库",
+                    "zh-hant": "NINJAL 網絡日本語語料庫"
+                }
             }
         },
         "Tutorial": {

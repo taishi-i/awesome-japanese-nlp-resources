@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [681件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1751 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [688件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1770 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -21,14 +21,16 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Python**
- * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - このツールは、複数のデータセットにわたって日本語のマルチモーダル大規模言語モデルを自動的に評価します。
- * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
-
 **Corpus**
- * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - このリポジトリには、魅力的な広告テキストを生成するための言語的特徴を分析するためのParaphraseデータセットに関する私たちの論文のデータが含まれています。
+ * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: 制御された日本語時間推論データセットを考慮）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。
+ * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - このリポジトリは、Common Crawlアーカイブから大規模な日本語ウェブコーパス（岡崎ら、2024年）であるSwallow Corpus Version 1を構築するためのPython実装を提供しています。
+ * [jalecon](https://github.com/naist-nlp/jalecon) - 非母語話者向けの日本語語彙複雑性のデータセット
+ * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日本語の語彙複雑性予測と語彙の簡素化データセット：アノテータープロファイル、非集計注釈、および注釈ガイドライン。
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJALウェブ日本語コーパス
+ * [jcms](https://github.com/shigashiyama/jcms) - 多数の専門分野をカバーした日本語コーパス（JCMS）
 
-_Updated on Mar 25, 2025_
+_Updated on Apr 01, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1559,6 +1561,12 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表他、漢字に関するデータ
  * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報データ
  * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - このリポジトリには、魅力的な広告テキストを生成するための言語的特徴を分析するためのParaphraseデータセットに関する私たちの論文のデータが含まれています。
+ * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: 制御された日本語時間推論データセットを考慮）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。
+ * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - このリポジトリは、Common Crawlアーカイブから大規模な日本語ウェブコーパス（岡崎ら、2024年）であるSwallow Corpus Version 1を構築するためのPython実装を提供しています。
+ * [jalecon](https://github.com/naist-nlp/jalecon) - 非母語話者向けの日本語語彙複雑性のデータセット
+ * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日本語の語彙複雑性予測と語彙の簡素化データセット：アノテータープロファイル、非集計注釈、および注釈ガイドライン。
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJALウェブ日本語コーパス
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1682,6 +1690,12 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
 |[kanji-data](https://github.com/mimneko/kanji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mimneko/kanji-data?style=social)|
 |[openchj-genji](https://github.com/togiso/openchj-genji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togiso/openchj-genji?style=social)|
 |[AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/AdParaphrase?style=social)|
+|[Jamp_sp](https://github.com/ynklab/Jamp_sp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ynklab/Jamp_sp?style=social)|
+|[jnli-neg](https://github.com/asahi-y/jnli-neg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asahi-y/jnli-neg?style=social)|
+|[swallow-corpus](https://github.com/swallow-llm/swallow-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-corpus?style=social)|
+|[jalecon](https://github.com/naist-nlp/jalecon)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/jalecon?style=social)|
+|[multils-japanese](https://github.com/naist-nlp/multils-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/multils-japanese?style=social)|
+|[nwjc](https://github.com/masayu-a/nwjc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/nwjc?style=social)|
 
 
 ## Tutorial

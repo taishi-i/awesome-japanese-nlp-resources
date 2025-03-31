@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了681個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1751個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了688個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1770個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -21,14 +21,16 @@
 
 - We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
 
-**Python**
- * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 這個工具會自動評估日本多模式大型語言模型在多個數據集上的表現。
- * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評估的Python工具
-
 **Corpus**
- * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - 這個存儲庫包含我們論文《AdParaphrase: 用於分析語言特徵以生成吸引人廣告文本的改寫數據集》的數據。
+ * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - 考慮到方面的控制日本時間推論數據集的構建（Jamp_sp：考慮到方面的控制日本時間推論數據集）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 這是用於評估否定理解能力的日語語言推論數據集 JNLI-Neg 的公開存儲庫。
+ * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - 該存儲庫提供了用於構建Swallow Corpus Version 1的Python實現，這是一個大型的日本網絡語料庫（Okazaki等人，2024年），來自Common Crawl檔案。
+ * [jalecon](https://github.com/naist-nlp/jalecon) - 一個針對非母語讀者的日語詞彙複雜度數據集
+ * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日語詞彙複雜度預測和詞彙簡化數據集：標註者檔案、未聚合標註和標註指南。
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL 網絡日本語語料庫
+ * [jcms](https://github.com/shigashiyama/jcms) - 一個日本多個專業領域的語料庫 (JCMS)
 
-_Updated on Mar 25, 2025_
+_Updated on Apr 01, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -995,6 +997,12 @@ To check the statistics table (GitHub stars/Downloads), please refer to [this pa
  * [kanji-data](https://github.com/mimneko/kanji-data) - 常用漢字表，與漢字相關的數據
  * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報數據
  * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - 這個存儲庫包含我們論文《AdParaphrase: 用於分析語言特徵以生成吸引人廣告文本的改寫數據集》的數據。
+ * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - 考慮到方面的控制日本時間推論數據集的構建（Jamp_sp：考慮到方面的控制日本時間推論數據集）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 這是用於評估否定理解能力的日語語言推論數據集 JNLI-Neg 的公開存儲庫。
+ * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - 該存儲庫提供了用於構建Swallow Corpus Version 1的Python實現，這是一個大型的日本網絡語料庫（Okazaki等人，2024年），來自Common Crawl檔案。
+ * [jalecon](https://github.com/naist-nlp/jalecon) - 一個針對非母語讀者的日語詞彙複雜度數據集
+ * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日語詞彙複雜度預測和詞彙簡化數據集：標註者檔案、未聚合標註和標註指南。
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL 網絡日本語語料庫
 
 
 To check the statistics table (GitHub stars/Downloads), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
