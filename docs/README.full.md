@@ -1551,6 +1551,7 @@ Resources
  * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - This repository provides Python implementation for building Swallow Corpus Version 1, a large Japanese web corpus (Okazaki et al., 2024), from Common Crawl archives.
  * [jalecon](https://github.com/naist-nlp/jalecon) - A Dataset of Japanese Lexical Complexity for Non-Native Readers
  * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-Japanese Lexical Complexity Prediction and Lexical Simplification Dataset for Japanese: annotator profiles, unaggregated annotation, and annotatation guidelines.
+ * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL Web Japanese Corpus
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1679,6 +1680,7 @@ Resources
 |[swallow-corpus](https://github.com/swallow-llm/swallow-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-corpus?style=social)|
 |[jalecon](https://github.com/naist-nlp/jalecon)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/jalecon?style=social)|
 |[multils-japanese](https://github.com/naist-nlp/multils-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/multils-japanese?style=social)|
+|[nwjc](https://github.com/masayu-a/nwjc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/nwjc?style=social)|
 
 
 ## Tutorial
