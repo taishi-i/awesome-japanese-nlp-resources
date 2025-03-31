@@ -2,7 +2,7 @@
 
 This page lists the models and datasets registered with [Haggingface](https://huggingface.co) that are specific to Japanese NLP.
 
-At present, 1274 models and 477 datasets are listed.
+At present, 1286 models and 484 datasets are listed.
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
@@ -48,1287 +48,1257 @@ Thank you for your efforts in categorizing the field of natural language process
 ## The latest additions 🎉
 
 **Models**
-5 models have been added.
+12 models have been added.
 
-- [sbintuitions/sarashina2-vision-8b](https://huggingface.co/sbintuitions/sarashina2-vision-8b)
-- [mmnga/qwq-bakeneko-32b-gguf](https://huggingface.co/mmnga/qwq-bakeneko-32b-gguf)
-- [mmnga/qwen2.5-bakeneko-32b-instruct-v2-gguf](https://huggingface.co/mmnga/qwen2.5-bakeneko-32b-instruct-v2-gguf)
-- [rinna/qwen2.5-bakeneko-32b-instruct-v2-gguf](https://huggingface.co/rinna/qwen2.5-bakeneko-32b-instruct-v2-gguf)
-- [sbintuitions/sarashina2-vision-14b](https://huggingface.co/sbintuitions/sarashina2-vision-14b)
+- [dartags/DanbotNL-2408-260M](https://huggingface.co/dartags/DanbotNL-2408-260M)
+- [llm-jp/llm-jp-clip-vit-large-patch14](https://huggingface.co/llm-jp/llm-jp-clip-vit-large-patch14)
+- [Hemlok/QuinceMix](https://huggingface.co/Hemlok/QuinceMix)
+- [mmnga/llm-jp-3-8x13b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-8x13b-instruct3-gguf)
+- [mmnga/llm-jp-3-8x1.8b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-8x1.8b-instruct3-gguf)
+- [retrieva-jp/amber-base](https://huggingface.co/retrieva-jp/amber-base)
+- [llm-jp/llm-jp-3-8x13b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-8x13b-instruct3)
+- [kajuma/DiffLlama-1B](https://huggingface.co/kajuma/DiffLlama-1B)
+- [takuyadayo/ozisan](https://huggingface.co/takuyadayo/ozisan)
+- [flypg/DeepSeek-R1-Distill-Qwen-14B-Japanese-chat](https://huggingface.co/flypg/DeepSeek-R1-Distill-Qwen-14B-Japanese-chat)
+- [llm-jp/llm-jp-3-8x1.8b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-8x1.8b-instruct3)
+- [SousiOmine/sarashina2.2-3b-instruct-v0.1-Pythonic-FunctionCall](https://huggingface.co/SousiOmine/sarashina2.2-3b-instruct-v0.1-Pythonic-FunctionCall)
 
 
 **Datasets**
-5 datasets have been added.
+7 datasets have been added.
 
-- [Kendamarron/magpie-easy-math-instruction-88k-qwen2.5-bakeneko-32b-instruct](https://huggingface.co/datasets/Kendamarron/magpie-easy-math-instruction-88k-qwen2.5-bakeneko-32b-instruct)
-- [Kendamarron/magpie-japanese-math-instruction-17k-qwen2.5-bakeneko-32b-instruct](https://huggingface.co/datasets/Kendamarron/magpie-japanese-math-instruction-17k-qwen2.5-bakeneko-32b-instruct)
-- [Atotti/VTuber-overview](https://huggingface.co/datasets/Atotti/VTuber-overview)
-- [nlp-waseda/JCQ](https://huggingface.co/datasets/nlp-waseda/JCQ)
-- [kurogane/metamath_ja_950_reka3flash](https://huggingface.co/datasets/kurogane/metamath_ja_950_reka3flash)
+- [matsuo-lab/JP-LLM-Corpus-PII-Filtered-10B](https://huggingface.co/datasets/matsuo-lab/JP-LLM-Corpus-PII-Filtered-10B)
+- [hotchpotch/japanese-qa-reasoning-100k](https://huggingface.co/datasets/hotchpotch/japanese-qa-reasoning-100k)
+- [umiyuki/Ani-Bench-JP](https://huggingface.co/datasets/umiyuki/Ani-Bench-JP)
+- [umiyuki/JDocQA_SingleImage](https://huggingface.co/datasets/umiyuki/JDocQA_SingleImage)
+- [umiyuki/JDocQA_SingleImage_200](https://huggingface.co/datasets/umiyuki/JDocQA_SingleImage_200)
+- [swdq/ethics](https://huggingface.co/datasets/swdq/ethics)
+- [SousiOmine/TagInstruct-JP](https://huggingface.co/datasets/SousiOmine/TagInstruct-JP)
 
 
 ## Models 🧠
 
-This list is sorted by downloads as of March 25, 2025.
-1274 models are listed.
+This list is sorted by downloads as of April 01, 2025.
+1286 models are listed.
 
 ### Semantic Text Processing
 - [jonatasgrosman/wav2vec2-large-xlsr-53-japanese](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese)
-  - A fine-tuned XLSR-53 model for Japanese speech recognition using Common Voice, CSS10, and JSUT data, sampled at 16kHz.
-  - Downloads: 6,045,219
+  - A fine-tuned XLSR-53 model for Japanese speech recognition using Common Voice, CSS10, and JSUT datasets, sampled at 16kHz.
+  - Downloads: 8,525,400
 - [tohoku-nlp/bert-base-japanese](https://huggingface.co/tohoku-nlp/bert-base-japanese)
-  - A BERT base model for Japanese, pretrained with IPA dictionary-based word-level tokenization and WordPiece subword tokenization, using the architecture from cl-tohoku/bert-japanese.
-  - Downloads: 3,443,591
+  - A BERT base model pretrained on Japanese text using IPA dictionary-based word-level tokenization followed by WordPiece subword tokenization.
+  - Downloads: 2,285,959
 - [tsmatz/xlm-roberta-ner-japanese](https://huggingface.co/tsmatz/xlm-roberta-ner-japanese)
-  - A fine-tuned xlm-roberta-base model for Japanese named entity recognition, trained on Stockmark-inc提供的Wikipedia数据集，用于人名和组织名识别。
-  - Downloads: 637,459
-- [tohoku-nlp/bert-base-japanese-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3)
-  - A BERT base Japanese model pretrained with whole word masking on CC-100 and jawiki-20230102 datasets, using Unidic-lite tokenization.
-  - Downloads: 265,643
+  - A fine-tuned xlm-roberta-base model for Japanese named entity recognition, trained on Stockmark Inc's Wikipedia-derived dataset.
+  - Downloads: 635,703
 - [cl-nagoya/ruri-base](https://huggingface.co/cl-nagoya/ruri-base)
-  - This repository provides Japanese text embeddings using Sentence Transformers, requiring installation of specific libraries and noting the need to prepend certain prefixes to input text.
-  - Downloads: 231,313
+  - This repository provides Japanese text embeddings using the Ruri model (Sentence Transformers), requiring installation of specific libraries and proper text formatting for inference.
+  - Downloads: 394,165
 - [rinna/japanese-cloob-vit-b-16](https://huggingface.co/rinna/japanese-cloob-vit-b-16)
-  - This repository contains a Japanese CLOOB model for image embedding, trained by rinna Co., Ltd., with installation and usage instructions provided.
-  - Downloads: 224,369
+  - This repository hosts a Japanese CLOOB model trained by rinna Co., Ltd., for use with the Japanese CLIP framework.
+  - Downloads: 243,412
+- [tohoku-nlp/bert-base-japanese-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3)
+  - A BERT base Japanese model pretrained using Unidic-lite for word-level tokenization and whole-word masking on CC-100 and Wikipedia data.
+  - Downloads: 240,009
 - [tohoku-nlp/bert-base-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2)
-  - A BERT base Japanese model pretrained with whole word masking using texts from jawiki-20200831 and character-level tokenization based on Unidic 2.1.2.
-  - Downloads: 143,045
+  - A BERT base Japanese model pre-trained with character-level tokenization and whole word masking on Wikipedia data from 2020.
+  - Downloads: 147,511
 - [line-corporation/line-distilbert-base-japanese](https://huggingface.co/line-corporation/line-distilbert-base-japanese)
   - A DistilBERT model pre-trained on Japanese web text by LINE Corporation, based on their in-house BERT-base model.
-  - Downloads: 139,042
-- [globis-university/deberta-v3-japanese-large](https://huggingface.co/globis-university/deberta-v3-japanese-large)
-  - A DeBERTa V3 model specialized for Japanese that omits morphological analysis during inference and respects word boundaries.
-  - Downloads: 133,475
-- [tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)
-  - A BERT base Japanese model pretrained with IPA dictionary-based tokenization and whole word masking.
-  - Downloads: 111,547
+  - Downloads: 131,230
 - [tohoku-nlp/bert-base-japanese-char](https://huggingface.co/tohoku-nlp/bert-base-japanese-char)
-  - A BERT base Japanese model pretrained with word-level IPA dictionary tokenization followed by character-level tokenization, based on the cl-tohoku/bert-japanese repository.
-  - Downloads: 110,868
+  - The GitHub repository contains a BERT base Japanese model pretrained with word-level IPA tokenization followed by character-level tokenization, using the architecture from cl-tohoku/bert-japanese.
+  - Downloads: 112,999
 - [tohoku-nlp/bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3)
-  - A BERT base Japanese model pretrained using character-level tokenization and whole word masking on CC-100 and jawiki-20230102 datasets.
-  - Downloads: 110,755
+  - A BERT base Japanese model pretrained with whole word masking using Unidic 2.1.2 dictionary and CC-100, jawiki-20230102 corpora.
+  - Downloads: 111,968
+- [tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)
+  - A BERT-based Japanese model pretrained using IPA dictionary tokenization and whole word masking.
+  - Downloads: 111,368
+- [globis-university/deberta-v3-japanese-large](https://huggingface.co/globis-university/deberta-v3-japanese-large)
+  - A specialized DeBERTa V3 model for Japanese, omitting morphological analysis during inference and respecting word boundaries.
+  - Downloads: 93,613
 - [sonoisa/sentence-bert-base-ja-mean-tokens](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens)
-  - A Japanese Sentence-BERT model (version 1), with a version 2 that has improved accuracy, along with usage instructions and code details.
-  - Downloads: 102,500
+  - A Japanese Sentence-BERT model with version 2 offering improved accuracy, along with usage instructions and class definition for sentence embedding.
+  - Downloads: 92,264
 - [sonoisa/sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2)
-  - A refined Japanese Sentence-BERT model (v2) using MultipleNegativesRankingLoss for improved accuracy over its predecessor.
-  - Downloads: 81,868
-- [mmnga/qwen2.5-bakeneko-32b-instruct-gguf](https://huggingface.co/mmnga/qwen2.5-bakeneko-32b-instruct-gguf)
-  - A gguf-format conversion of qwen2.5-bakeneko-32b-instruct for use with ggerganov's llama.cpp, created from imatrix-dataset-for-japanese-llm.
-  - Downloads: 57,889
+  - A refined Japanese sentence-BERT model (v2) using MultipleNegativesRankingLoss for improved accuracy.
+  - Downloads: 80,546
 - [pkshatech/GLuCoSE-base-ja](https://huggingface.co/pkshatech/GLuCoSE-base-ja)
-  - GLuCoSE is a Japanese text embedding model based on LUKE, trained on diverse datasets for general-purpose sentence vector tasks.
-  - Downloads: 51,061
+  - GLuCoSE is a general-purpose Japanese text embedding model based on LUKE, trained on mixed web and NLI/data-driven datasets for sentence similarity and semantic tasks.
+  - Downloads: 62,225
 - [ku-nlp/deberta-v2-base-japanese](https://huggingface.co/ku-nlp/deberta-v2-base-japanese)
   - A Japanese DeBERTa V2 base model pre-trained on specific datasets, usable for masked language modeling.
-  - Downloads: 47,025
-- [rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)
-  - A 36-layer, 2816-hidden-size GPT-NeoX model with 3.6 billion parameters trained on Japanese data for language modeling.
-  - Downloads: 34,742
-- [Rakuten/RakutenAI-7B-instruct](https://huggingface.co/Rakuten/RakutenAI-7B-instruct)
-  - RakutenAI-7B-instruct is a Japanese language model using the Mistral architecture that excels in Japanese benchmarks and performs competitively on English tests compared to models like OpenCalm, Elyza, Youri, Nekomata, and Swallow.
-  - Downloads: 33,619
+  - Downloads: 47,670
 - [tohoku-nlp/bert-base-japanese-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-v2)
-  - A BERT base Japanese model pretrained with whole word masking using Unidic-lite and Wikipedia data.
-  - Downloads: 27,920
-- [christian-phu/bert-finetuned-japanese-sentiment](https://huggingface.co/christian-phu/bert-finetuned-japanese-sentiment)
-  - A fine-tuned BERT model for Japanese sentiment analysis on Amazon product reviews.
-  - Downloads: 22,922
+  - A BERT base Japanese model pretrained using Unidic-lite and whole word masking on jawiki-20200831.
+  - Downloads: 44,829
+- [rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)
+  - A 36-layer, 2816-hidden-size GPT-NeoX model trained on 312.5B tokens for Japanese language processing with a validation perplexity of 8.68.
+  - Downloads: 34,749
+- [Rakuten/RakutenAI-7B-instruct](https://huggingface.co/Rakuten/RakutenAI-7B-instruct)
+  - RakutenAI-7B-instruct is a Japanese language model based on Mistral-7B-v0.1 that excels in Japanese language understanding benchmarks and maintains competitive performance on English tests compared to models like OpenCalm, Elyza, Youri, Nekomata, and Swallow.
+  - Downloads: 31,343
 - [ku-nlp/deberta-v2-tiny-japanese](https://huggingface.co/ku-nlp/deberta-v2-tiny-japanese)
-  - A Japanese DeBERTa V2 tiny model pre-trained on specific datasets, available for masked language modeling.
-  - Downloads: 22,856
-- [pfnet/plamo-13b](https://huggingface.co/pfnet/plamo-13b)
-  - PLaMo-13B is an LLaMA-based 13 billion parameter model pre-trained on English and Japanese data, released under Apache v2.0 license for text generation tasks using transformers pipeline.
-  - Downloads: 22,175
+  - A Japanese DeBERTa V2 tiny model pre-trained on specific Japanese corpora, usable for masked language modeling.
+  - Downloads: 23,562
+- [kotoba-tech/kotoba-whisper-v2.2](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.2)
+  - Kotoba-Whisper-v2.2 is an enhanced Japanese ASR model with integrated speaker diarization and punctuation features, built on kotoba-tech/kotoba-whisper-v2.0 and supported by Hugging Face Transformers from version 4.39.
+  - Downloads: 22,377
+- [christian-phu/bert-finetuned-japanese-sentiment](https://huggingface.co/christian-phu/bert-finetuned-japanese-sentiment)
+  - A fine-tuned BERT model for sentiment analysis of Japanese Amazon product reviews.
+  - Downloads: 22,234
 - [ku-nlp/deberta-v2-large-japanese-char-wwm](https://huggingface.co/ku-nlp/deberta-v2-large-japanese-char-wwm)
-  - A Japanese DeBERTa V2 large model pre-trained on specific Japanese text corpora and trained with character-level tokenization and whole word masking.
-  - Downloads: 21,051
-- [pfnet/plamo-13b-instruct](https://huggingface.co/pfnet/plamo-13b-instruct)
-  - PLaMo-13B-Instruct is a Japanese-language fine-tuned model for instruction-following tasks based on PLaMo-13B, released under Apache License 2.0.
-  - Downloads: 18,735
+  - A Japanese DeBERTa V2 large model pre-trained on specific datasets with character-level tokenization, suitable for masked language modeling.
+  - Downloads: 21,334
+- [sbintuitions/sarashina2.2-3b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-3b-instruct-v0.1)
+  - This GitHub repository contains autoregressive Japanese language models trained by SB Intuitions, including evaluations in Japanese and English tasks.
+  - Downloads: 20,481
+- [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3)
+  - Llama 3.1 Swallow is a series of large language models enhanced for Japanese while maintaining English capabilities through continual pre-training on Meta Llama 3.1 and additional Japanese corpora.
+  - Downloads: 18,145
 - [kotoba-tech/kotoba-whisper-v2.0](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0)
-  - Kotoba-Whisper v2.0 includes distilled Whisper models for Japanese ASR using faster-whisper weights and stable-ts punctuation, developed by Asahi Ushio and Kotoba Technologies.
-  - Downloads: 17,061
+  - Kotoba-Whisper v2.0 contains distilled Whisper models for Japanese ASR using OpenAI's Whisper large-v3 as the teacher model.
+  - Downloads: 17,839
 - [tokyotech-llm/Llama-3.1-Swallow-8B-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-v0.1)
   - Llama 3.1 Swallow - Built with Llama Llama 3.1 Swallow is a series of large language models (8B, 70B) that were built by continual pre-training on the Meta Llama 3.1 models.
   - Downloads: 16,575
-- [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3)
-  - Llama 3.1 Swallow is an enhanced series of large language models (8B, 70B) built via continual pre-training on Meta Llama 3.1, with improved Japanese capabilities while maintaining English proficiency.
-  - Downloads: 15,988
-- [sbintuitions/sarashina2.2-3b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-3b-instruct-v0.1)
-  - This repository contains Japanese autoregressive language models trained by SB Intuitions, including sarashina2.2-0.5B-instruct-v0.1, evaluated on multiple tasks and benchmarks.
-  - Downloads: 15,814
 - [elyza/Llama-3-ELYZA-JP-8B](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B)
-  - Llama-3-ELYZA-JP-8B is an enhanced 8-billion-parameter Japanese-language model based on Meta-Llama-3, trained for proficient Japanese conversation and instruction following.
-  - Downloads: 15,320
+  - Llama-3-ELYZA-JP-8B is an enhanced 8-billion-parameter Japanese-focused language model based on Meta-Llama-3, trained by ELYZA, Inc. for use in Japanese contexts.
+  - Downloads: 14,974
 - [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.2](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.2)
   - Llama 3.1 Swallow - Built with Llama Llama 3.1 Swallow is a series of large language models (8B, 70B) that were built by continual pre-training on the Meta Llama 3.1 models.
   - Downloads: 14,967
+- [ku-nlp/deberta-v2-large-japanese](https://huggingface.co/ku-nlp/deberta-v2-large-japanese)
+  - A Japanese DeBERTa V2 large model pre-trained on specific datasets, available for masked language modeling.
+  - Downloads: 14,500
 - [team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-GPTQ-4bit](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-GPTQ-4bit)
   - Tanuki-8x8B-dpo-v1.0-GPTQ-4bit 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8x8B-dpo-v1.0のGPTQ 4bit量子化モデルです。
   - Downloads: 14,385
-- [setu4993/LaBSE](https://huggingface.co/setu4993/LaBSE)
-  - LaBSE is a BERT-based multilingual sentence encoder trained for 109 languages, useful for sentence embeddings and bi-text retrieval.
-  - Downloads: 13,600
-- [hotchpotch/japanese-reranker-cross-encoder-xsmall-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-xsmall-v1)
-  - This repository contains various Japanese Reranking models (CrossEncoders) with different model sizes and configurations.
-  - Downloads: 13,442
-- [cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese)
-  - A Japanese finetuned model based on DeepSeek-R1-Distill-Qwen-14B for causal language modeling.
-  - Downloads: 12,724
-- [mmnga/Moonlight-16B-A3B-Instruct-gguf](https://huggingface.co/mmnga/Moonlight-16B-A3B-Instruct-gguf)
-  - A gguf-formatted version of the Moonlight-16B-A3B-Instruct model for use with ggerganov's llama.cpp.
-  - Downloads: 11,260
-- [kotoba-tech/kotoba-whisper-v2.2](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.2)
-  - Kotoba-Whisper-v2.2 is an enhanced Japanese ASR model with added speaker diarization and punctuation functionalities, supported by Hugging Face Transformers from v4.39.
-  - Downloads: 10,825
-- [rinna/japanese-gpt2-xsmall](https://huggingface.co/rinna/japanese-gpt2-xsmall)
-  - This repository offers an extra-small Japanese GPT-2 model for text generation, accessible via Transformers.
-  - Downloads: 10,313
 - [rinna/japanese-roberta-base](https://huggingface.co/rinna/japanese-roberta-base)
-  - This repository offers a base-sized Japanese RoBERTa model, complete with instructions on how to load it using transformers.
-  - Downloads: 10,098
-- [mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf)
-  - A gguf-format model derived from cyberagent's DeepSeek-R1 Distill Qwen-14B Japanese model for use with llama.cpp.
-  - Downloads: 10,034
-- [megagonlabs/transformers-ud-japanese-electra-base-ginza-510](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza-510)
-  - A pre-trained ELECTRA model on Japanese mC4 data, fine-tuned for UD_Japanese_BCCWJ using spaCy v3, distributed as the ja_ginza_electra Python package.
-  - Downloads: 9,660
-- [ku-nlp/deberta-v2-large-japanese](https://huggingface.co/ku-nlp/deberta-v2-large-japanese)
-  - A Japanese DeBERTa V2 large model pre-trained on specific datasets, usable for masked language modeling.
-  - Downloads: 8,967
-- [studio-ousia/luke-japanese-large](https://huggingface.co/studio-ousia/luke-japanese-large)
-  - The Japanese version of LUKE, a pre-trained knowledge-enhanced contextual representation model, includes Wikipedia entity embeddings not typically used in general NLP tasks.
-  - Downloads: 8,503
+  - This repository offers a base-sized Japanese RoBERTa model, providing resources for loading and using it with the Hugging Face Transformers library.
+  - Downloads: 13,356
+- [hotchpotch/japanese-reranker-cross-encoder-xsmall-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-xsmall-v1)
+  - The repository contains Japanese RerANKer (CrossEncoder) models with varying layers and hidden sizes, including small, base, large, and BGE variants for reranking tasks in Japanese.
+  - Downloads: 12,640
+- [cl-nagoya/ruri-small](https://huggingface.co/cl-nagoya/ruri-small)
+  - The repository provides Japanese text embeddings using Sentence Transformers, requiring installation of specific libraries and a model download.
+  - Downloads: 12,280
+- [pfnet/plamo-13b](https://huggingface.co/pfnet/plamo-13b)
+  - PLaMo-13B is a 13B-parameter LLaMA-derived pretrained model on English and Japanese data, licensed under Apache v2.0, offering text generation via Transformers pipelining.
+  - Downloads: 11,439
+- [rinna/japanese-gpt2-xsmall](https://huggingface.co/rinna/japanese-gpt2-xsmall)
+  - This repository offers an extra-small Japanese GPT-2 model for natural language processing tasks.
+  - Downloads: 9,874
 - [tohoku-nlp/bert-large-japanese-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-v2)
-  - A BERT large Japanese model pretrained using Unidic-lite and WordPiece tokenization with whole word masking on CC-100 and Wikipedia data.
-  - Downloads: 8,014
-- [nlp-waseda/roberta-base-japanese-with-auto-jumanpp](https://huggingface.co/nlp-waseda/roberta-base-japanese-with-auto-jumanpp)
-  - A Japanese RoBERTa base model pretrained on Wikipedia and CC-100, usable for masked language modeling.
-  - Downloads: 7,971
-- [tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1)
-  - Llama3 Swallow, built from Meta Llama 3 with Japanese data, includes pre-trained models like Llama-3-Swallow-8B-v0.1 and Llama-3-Swallow-70B-v0.1, with scheduled releases starting July 1, 2024.
-  - Downloads: 7,832
+  - A BERT large Japanese model pretrained using Unidic-lite for word-level tokenization and whole-word masking on CC-100 and Wikipedia data.
+  - Downloads: 8,883
 - [rinna/japanese-gpt2-medium](https://huggingface.co/rinna/japanese-gpt2-medium)
-  - This repository offers a medium-sized Japanese GPT-2 model for text generation, including instructions on how to load and use it via transformers.
-  - Downloads: 7,664
+  - This repository offers a medium-sized Japanese GPT-2 model for natural language processing tasks, accessible via the transformers library.
+  - Downloads: 8,353
+- [sbintuitions/modernbert-ja-30m](https://huggingface.co/sbintuitions/modernbert-ja-30m)
+  - This repository offers a 30M-parameter Japanese ModernBERT model trained by SB Intuitions on a large corpus of Japanese and English text.
+  - Downloads: 8,300
+- [megagonlabs/transformers-ud-japanese-electra-base-ginza-510](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza-510)
+  - A pre-trained Japanese ELECTRA model fine-tuned on UD_Japanese_BCCWJ and mC4 data, distributed as a spaCy v3 Python package named ja_ginza_electra.
+  - Downloads: 8,146
+- [studio-ousia/luke-japanese-large](https://huggingface.co/studio-ousia/luke-japanese-large)
+  - Luke-japanese-large is a pre-trained language model for Japanese that provides knowledge-enhanced contextualized word and entity representations, incorporating Wikipedia entity embeddings.
+  - Downloads: 8,021
 - [cl-nagoya/ruri-large](https://huggingface.co/cl-nagoya/ruri-large)
-  - Ruri: Japanese general text embeddings require installing Sentence Transformers, fugashi, and unidic-lite to load and run queries and passages with specific prefixes.
-  - Downloads: 7,236
+  - This repository provides Japanese general text embeddings using the Ruri model from Sentence Transformers, requiring installation of specific libraries and proper text formatting for inference.
+  - Downloads: 7,965
+- [tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1)
+  - Llama3 Swallow is a continually pre-trained model from the Llama 3 family, augmented with Japanese data, offering both base and instruct versions.
+  - Downloads: 7,912
+- [setu4993/LaBSE](https://huggingface.co/setu4993/LaBSE)
+  - LaBSE is a BERT-based multilingual sentence encoder trained for 109 languages, useful for multilingual embedding and bi-text retrieval.
+  - Downloads: 7,441
+- [cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese)
+  - A Japanese finetuned model based on DeepSeek-R1-Distill-Qwen-14B for causal language tasks.
+  - Downloads: 7,155
+- [mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf)
+  - A GitHub repository containing a 14B Japanese Qwen model in gguf format derived from DeepSeek-R1-Distill, along with instructions for using it with llama.cpp.
+  - Downloads: 7,021
 - [cheonboy/sentence_embedding_japanese](https://huggingface.co/cheonboy/sentence_embedding_japanese)
-  - This repository contains a Japanese sentence-LUKE model trained on the same dataset and configuration as Japanese Sentence-BERT, with higher quantitative accuracy and better qualitative results on private datasets.
-  - Downloads: 6,830
-- [mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf)
-  - A gguf-format conversion of the cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese model for Japanese language processing.
-  - Downloads: 6,812
-- [elyza/ELYZA-japanese-Llama-2-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-instruct)
-  - The ELYZA-japanese-Llama-2-7b model is a Japanese-language extension of Llama-2 through additional pretraining, designed for instructional tasks with a default system prompt in Japanese.
-  - Downloads: 6,807
-- [mmnga/deepseek-r1-distill-qwen2.5-bakeneko-32b-gguf](https://huggingface.co/mmnga/deepseek-r1-distill-qwen2.5-bakeneko-32b-gguf)
-  - A gguf-format conversion of the deepseek-r1-distill-qwen2.5-bakeneko-32b model for use with ggerganov's llama.cpp, including instructions for cloning and running.
-  - Downloads: 6,642
-- [oshizo/sbert-jsnli-luke-japanese-base-lite](https://huggingface.co/oshizo/sbert-jsnli-luke-japanese-base-lite)
-  - A Sentence-BERT model based on Luke Japanese Base Lite for mapping sentences and paragraphs into a 768-dimensional space, suitable for clustering and semantic search tasks.
-  - Downloads: 6,473
+  - This repository contains a Japanese Sentence-LUKE model trained on the same dataset and setup as Japanese Sentence-BERT, showing higher accuracy on proprietary data.
+  - Downloads: 6,822
+- [mmnga/Moonlight-16B-A3B-Instruct-gguf](https://huggingface.co/mmnga/Moonlight-16B-A3B-Instruct-gguf)
+  - A gguf format conversion of the Moonlight-16B-A3B-Instruct model by moonshotai, suitable for use with ggerganov's llama.cpp.
+  - Downloads: 6,672
+- [hotchpotch/japanese-reranker-cross-encoder-large-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-large-v1)
+  - This repository contains a series of Japanese-specific Rerankers (CrossEncoders) with varying model sizes and layers, designed for re-ranking text documents.
+  - Downloads: 6,645
 - [rinna/japanese-wav2vec2-base](https://huggingface.co/rinna/japanese-wav2vec2-base)
-  - A Japanese wav2vec 2.0 Base model trained by rinna Co., Ltd., using 19,000 hours of Japanese speech, with 12 transformer layers and 12 attention heads.
+  - A Japanese wav2vec 2.0 Base model trained by rinna Co., Ltd., containing 12 transformer layers, with detailed training information available.
   - Downloads: 6,223
+- [oshizo/sbert-jsnli-luke-japanese-base-lite](https://huggingface.co/oshizo/sbert-jsnli-luke-japanese-base-lite)
+  - This repository hosts a Japanese sentence embedding model for tasks such as clustering and semantic search, derived from sberbank/rupe-models and trained on jsnli data.
+  - Downloads: 6,095
 - [mmnga/Vecteus-v1-gguf](https://huggingface.co/mmnga/Vecteus-v1-gguf)
   - Vecteus-v1-gguf Local-Novel-LLM-projectさんが公開しているVecteus-v1のggufフォーマット変換版です。
   - Downloads: 5,901
-- [sbintuitions/modernbert-ja-130m](https://huggingface.co/sbintuitions/modernbert-ja-130m)
-  - This repository offers a Japanese ModernBERT model (ModernBERT-Ja-130M) with 130 million parameters, trained on a large corpus for efficient handling of long sequences.
-  - Downloads: 5,896
-- [mmnga/lightblue-DeepSeek-R1-Distill-Qwen-7B-Japanese-gguf](https://huggingface.co/mmnga/lightblue-DeepSeek-R1-Distill-Qwen-7B-Japanese-gguf)
-  - A gguf-formatted version of the lightblue DeepSeek-R1-Distill-Qwen-7B-Japanese model for use with ggerganov's llama.cpp, created from imatrix-dataset-for-japanese-llm.
-  - Downloads: 5,731
+- [elyza/ELYZA-japanese-Llama-2-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-instruct)
+  - ELYZA-japanese-Llama-2-7b is a fine-tuned Llama2 model for Japanese instruction-style text generation, with additional pre-training and usage examples provided.
+  - Downloads: 5,798
+- [mmnga/qwen2.5-bakeneko-32b-instruct-gguf](https://huggingface.co/mmnga/qwen2.5-bakeneko-32b-instruct-gguf)
+  - A gguf-format conversion of rinna's qwen2.5-bakeneko-32b-instruct model for use with ggerganov's llama.cpp toolbox.
+  - Downloads: 5,250
 - [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.1)
-  - Llama 3.1 Swallow is a series of enhanced large language models that incorporate Japanese language capabilities through continual pre-training on Meta Llama 3.1 with a focus on diverse Japanese content sources.
-  - Downloads: 5,298
-- [ku-nlp/deberta-v2-base-japanese-char-wwm](https://huggingface.co/ku-nlp/deberta-v2-base-japanese-char-wwm)
-  - A Japanese DeBERTa V2 base model pre-trained on specific datasets, trained with character-level tokenization, for masked language modeling.
-  - Downloads: 5,089
+  - Llama 3.1 Swallow is a series of large language models enhanced for Japanese while retaining English capabilities through continual pre-training on Meta Llama 3.1 with over 200 billion tokens from various sources.
+  - Downloads: 5,080
 - [tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.1)
   - Llama 3.1 Swallow - Built with Llama Llama 3.1 Swallow is a series of large language models (8B, 70B) that were built by continual pre-training on the Meta Llama 3.1 models.
   - Downloads: 5,052
+- [mmnga/lightblue-DeepSeek-R1-Distill-Qwen-7B-Japanese-gguf](https://huggingface.co/mmnga/lightblue-DeepSeek-R1-Distill-Qwen-7B-Japanese-gguf)
+  - A gguf-formatted conversion of lightblue's DeepSeek-R1-Distill-Qwen-7B-Japanese model for use with ggerganov's llama.cpp, featuring culinary prompting capabilities.
+  - Downloads: 5,017
+- [mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf)
+  - A gguf-formatted conversion of the cyberagent DeepSeek-R1-Distilled Qwen-32B Japanese model, created using imatrix dataset.
+  - Downloads: 4,935
+- [nlp-waseda/roberta-base-japanese-with-auto-jumanpp](https://huggingface.co/nlp-waseda/roberta-base-japanese-with-auto-jumanpp)
+  - A Japanese RoBERTa base model pretrained on Wikipedia and CC-100, usable for masked language modeling.
+  - Downloads: 4,924
 - [hotchpotch/japanese-reranker-cross-encoder-small-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-small-v1)
-  - This repository contains series of Japanese Rerankers (CrossEncoders) including details like model layers and hidden size, ranging from small to large models.
+  - This repository contains series of Japanese Reranker (CrossEncoder) models with varying layers and hidden sizes for ranking and re-ranking tasks.
   - Downloads: 4,856
+- [ku-nlp/deberta-v2-base-japanese-char-wwm](https://huggingface.co/ku-nlp/deberta-v2-base-japanese-char-wwm)
+  - A Japanese DeBERTa V2 base model pre-trained on specific datasets, using character-level tokenization and whole word masking for masked language modeling.
+  - Downloads: 4,566
+- [sbintuitions/modernbert-ja-130m](https://huggingface.co/sbintuitions/modernbert-ja-130m)
+  - This repository offers ModernBERT-Ja-130M, a high-efficiency BERT model for Japanese text processing with modern architectural improvements.
+  - Downloads: 4,496
 - [rinna/youri-7b](https://huggingface.co/rinna/youri-7b)
-  - The repository contains continual pre-training code for a 32-layer, 4096-hidden-size Transformer model (llama2-7B) on Japanese and English datasets, improving performance on Japanese tasks.
-  - Downloads: 4,662
+  - The GitHub repository rinna/youri-7b contains continual pre-training code for a 32-layer, 4096-hidden-size transformer model based on GPT-NEOX, trained on 40B tokens of Japanese and English data to improve performance on Japanese tasks.
+  - Downloads: 4,485
 - [rinna/japanese-hubert-large](https://huggingface.co/rinna/japanese-hubert-large)
-  - A Japanese HuBERT Large model with 24 transformer layers trained on about 19,000 hours of Japanese speech corpus.
+  - A large Japanese HuBERT model with 24 transformer layers, trained on about 19,000 hours of Japanese speech.
   - Downloads: 4,388
 - [rinna/japanese-gpt2-small](https://huggingface.co/rinna/japanese-gpt2-small)
-  - This repository offers a small Japanese GPT-2 model for text generation, obtainable via Hugging Face Transformers.
-  - Downloads: 4,240
-- [cl-nagoya/ruri-small](https://huggingface.co/cl-nagoya/ruri-small)
-  - The repository provides Japanese text embeddings using Sentence Transformers, requiring installation of specific libraries and including model usage examples.
-  - Downloads: 4,126
-- [cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese)
-  - A Japanese fine-tuned model based on DeepSeek-R1-Distill-Qwen-32B for causal language tasks.
-  - Downloads: 4,119
-- [rinna/japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)
-  - A Japanese HuBERT Base model with 12 transformer layers, trained on about 19,000 hours of Japanese speech from the Reazon corpus.
-  - Downloads: 4,119
+  - This repository offers a small Japanese GPT-2 model for text generation, accessible via the transformers library.
+  - Downloads: 4,351
 - [mmnga/AXCXEPT-phi-4-deepseek-R1K-RL-EZO-gguf](https://huggingface.co/mmnga/AXCXEPT-phi-4-deepseek-R1K-RL-EZO-gguf)
-  - AXCXEPT-phi-4-deepseek-R1K-RL-EZO的gguf格式模型，可通过llama.cpp克隆和运行以日语烹饪主题进行交互。
+  - AXCXEPT-phi-4-deepseek-R1K-RL-EZO的gguf模型库，由imatrix数据集支持，可通过llama-cli工具调用。
   - Downloads: 4,108
-- [mmnga/r1-1776-distill-llama-70b-gguf](https://huggingface.co/mmnga/r1-1776-distill-llama-70b-gguf)
-  - A gguf-formatted distillation of the r1-1776 Distill LLaMA-70B model, compatible with ggerganov's llama.cpp for Japanese language processing.
-  - Downloads: 4,054
-- [mmnga/RakutenAI-2.0-mini-instruct-gguf](https://huggingface.co/mmnga/RakutenAI-2.0-mini-instruct-gguf)
-  - A gguf-formatted mini version of RakutenAI-2.0 instruct model, derived from mmnga/RakutenAI-2.0-mini-instruct and usable with ggerganov's llama.cpp.
-  - Downloads: 3,916
-- [sbintuitions/sarashina2.2-1b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-1b-instruct-v0.1)
-  - This repository includes autoregressive Japanese language models trained by SB Intuitions, evaluated on multiple tasks.
-  - Downloads: 3,846
-- [hotchpotch/japanese-reranker-cross-encoder-large-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-large-v1)
-  - This repository contains Japanese Reranking models (CrossEncoders) with varying layers and hidden sizes, including versions up to large and BGE variant.
-  - Downloads: 3,756
-- [mmnga/RakutenAI-2.0-8x7B-instruct-gguf](https://huggingface.co/mmnga/RakutenAI-2.0-8x7B-instruct-gguf)
-  - A gguf-formatted version of RakutenAI-2.0-8x7B-instruct, built from mmnga/RakutenAI-2.0-8x7B-instruct-gguf, for use with llama.cpp.
-  - Downloads: 3,626
-- [elyza/ELYZA-japanese-Llama-2-7b](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b)
-  - ELYZA-japanese-Llama-2-7b is a Japanese-fine-tuned Llama-2 7B model for causal language tasks, documented in a blog post.
-  - Downloads: 3,576
-- [mmnga/Fugaku-LLM-13B-instruct-gguf](https://huggingface.co/mmnga/Fugaku-LLM-13B-instruct-gguf)
-  - A gguf-format conversion of the Fugaku-LLM-13B-instruct model with instructions for usage and a clone link provided.
-  - Downloads: 3,456
-- [llm-jp/llm-jp-3-1.8b](https://huggingface.co/llm-jp/llm-jp-3-1.8b)
-  - This repository offers various large language models, including llm-jp-3-1.8b, llm-jp-3-3.7b, llm-jp-3-13b, and llm-jp-3-172b-beta1, with instruction variants, in Hugging Face Transformers format.
-  - Downloads: 3,238
 - [sbintuitions/modernbert-ja-310m](https://huggingface.co/sbintuitions/modernbert-ja-310m)
-  - This repository offers ModernBERT-Ja-310M, ahighly efficient BERT variant for Japanese text processing with 310 million parameters, trained on a large corpus of text.
-  - Downloads: 3,217
-- [stabilityai/japanese-stablelm-base-gamma-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-gamma-7b)
-  - A 7B-parameter Japanese language model designed for Japanese language and downstream task performance, derived from continued pretraining on an English Mistral-7B model.
-  - Downloads: 3,212
-- [llm-jp/llm-jp-3-172b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-172b-instruct3)
-  - This repository includes various large language model variants developed by the National Institute of Informatics, including llm-jp-3-172b-instruct3.
-  - Downloads: 3,208
-- [elyza/ELYZA-japanese-Llama-2-7b-fast-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast-instruct)
-  - The ELYZA-japanese-Llama-2-7b model is an enhanced Japanese-language Llama-2 7B model with additional pre-training, using a default system prompt for instruct-style text generation.
-  - Downloads: 3,160
-- [llm-book/bert-base-japanese-v3-jsts](https://huggingface.co/llm-book/bert-base-japanese-v3-jsts)
-  - A fine-tuned BERT model for Japanese semantic similarity computation using the cl-tohoku/bert-base-japanese-v3 and JGLUE's JSTS dataset.
-  - Downloads: 3,121
-- [mmnga/ELYZA-japanese-Llama-2-7b-fast-instruct-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-fast-instruct-gguf)
-  - ELYZA's Japanese Llama-2 7B Fast Instruct model in gguf format, with enhanced vocabulary for faster processing.
-  - Downloads: 3,034
-- [rinna/qwen2.5-bakeneko-32b-instruct-gguf](https://huggingface.co/rinna/qwen2.5-bakeneko-32b-instruct-gguf)
-  - A quantized 32B instruction-tuned model for Qwen2.5 Bakeneko, compatible with llama.cpp and available in AWQ, GGUF, GPTQ int8, and GPTQ int4 formats.
-  - Downloads: 3,003
-- [elyza/ELYZA-japanese-Llama-2-13b-fast-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-fast-instruct)
-  - ELYZA-japanese-Llama-2-13b-fast-instruct is a fine-tuned Japanese-language model based on Llama 2, designed for instruction-following tasks with specific system and instruction templates.
-  - Downloads: 2,929
+  - This repository offers a 310M-parameter ModernBERT model trained for Japanese language tasks using a large dataset of 4.09 trillion tokens.
+  - Downloads: 4,095
+- [sbintuitions/sarashina2.2-1b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-1b-instruct-v0.1)
+  - This repository contains autoregressive Japanese language models trained by SB Intuitions, including sarashina2.2-0.5B-instruct-v0.1, evaluated on Japanese and English tasks compared to several other models.
+  - Downloads: 3,949
+- [mmnga/deepseek-r1-distill-qwen2.5-bakeneko-32b-gguf](https://huggingface.co/mmnga/deepseek-r1-distill-qwen2.5-bakeneko-32b-gguf)
+  - A gguf format conversion of the deepseek-r1-distill-qwen2.5-bakeneko-32b model for use with ggerganov/llama.cpp.
+  - Downloads: 3,795
+- [cl-nagoya/ruri-small-v2](https://huggingface.co/cl-nagoya/ruri-small-v2)
+  - Ruri is a Japanese text embedding model that requires installing Sentence Transformers, fugashi, sentencepiece, and unidic-lite, and uses specific prefixes for input texts.
+  - Downloads: 3,784
+- [elyza/ELYZA-japanese-Llama-2-7b](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b)
+  - ELYZA-japanese-Llama-2-7b is a Japanese-specific pre-trained model based on Llama-2, with additional fine-tuning for instruct-enabled language tasks.
+  - Downloads: 3,683
+- [llm-jp/llm-jp-3-13b-instruct](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct)
+  - This repository hosts various large language model variants, including llm-jp-3-1.8b, llm-jp-3-3.7b, llm-jp-3-13b, and llm-jp-3-172b-beta1, along with their instruct versions, developed by the National Institute of Informatics and formatted for Hugging Face Transformers.
+  - Downloads: 3,567
+- [mmnga/Fugaku-LLM-13B-instruct-gguf](https://huggingface.co/mmnga/Fugaku-LLM-13B-instruct-gguf)
+  - A gguf-formatted conversion of Fugaku-LLM-13B-instruct with a script for usage and instructions.
+  - Downloads: 3,543
 - [tohoku-nlp/bert-base-japanese-char-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-whole-word-masking)
-  - A BERT base Japanese model pretrained with character tokenization and whole word masking.
-  - Downloads: 2,893
-- [sonoisa/sentence-luke-japanese-base-lite](https://huggingface.co/sonoisa/sentence-luke-japanese-base-lite)
-  - This GitHub repository contains a Japanese Sentence-LUKE model trained on the same dataset and settings as the Japanese Sentence-BERT model, showing higher accuracy in certain aspects with pre-trained studio-ousia/luke-japanese-base-lite.
-  - Downloads: 2,866
-- [pkshatech/RoSEtta-base-ja](https://huggingface.co/pkshatech/RoSEtta-base-ja)
-  - RoSEtta is a Japanese text embedding model based on RoFormer and Distillation, excelling in semantic similarity measurement and retrieval tasks with a maximum sequence length of 1024 tokens.
-  - Downloads: 2,831
-- [sbintuitions/sarashina-embedding-v1-1b](https://huggingface.co/sbintuitions/sarashina-embedding-v1-1b)
-  - Sarashina-Embedding-v1-1B is a Japanese text embedding model trained with multi-stage contrastive learning, mapping texts to 1792-dimensional vectors for use in semantic tasks.
-  - Downloads: 2,825
-- [ku-nlp/deberta-v3-base-japanese](https://huggingface.co/ku-nlp/deberta-v3-base-japanese)
-  - A Japanese DeBERTa V3 base model pre-trained on LLM-jp corpus v1.0 for masked language modeling.
-  - Downloads: 2,808
-- [elyza/ELYZA-japanese-Llama-2-13b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-instruct)
-  - ELYZA-japanese-Llama-2-13b is a Japanese-enhanced Llama 2 model for causal language tasks, with additional pretraining and a default system prompt.
-  - Downloads: 2,786
-- [tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3)
-  - Llama 3.1 Swallow is a series of large language models enhanced for Japanese while maintaining English capabilities, trained on diverse datasets including a Japanese web corpus, Wikipedia, and mathematical/coding content.
-  - Downloads: 2,782
-- [elyza/ELYZA-japanese-Llama-2-7b-fast](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast)
-  - The ELYZA-japanese-Llama-2-7b model is an extended Japanese-language version of Llama-2 through additional pre-training, with usage demonstrated via Python code for text generation.
-  - Downloads: 2,779
-- [rinna/japanese-gpt-1b](https://huggingface.co/rinna/japanese-gpt-1b)
-  - This repository offers a 1.3 billion-parameter Japanese GPT model from rinna Co., Ltd., with instructions for model installation and usage.
-  - Downloads: 2,763
-- [mmnga/line-corp-japanese-large-lm-1.7b-instruction-sft-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-1.7b-instruction-sft-gguf)
-  - A gguf converted version of the 1.7B Japanese large language model for instruction fine-tuning from Line Corporation.
-  - Downloads: 2,747
-- [stabilityai/japanese-stablelm-base-beta-70b](https://huggingface.co/stabilityai/japanese-stablelm-base-beta-70b)
-  - Japanese-StableLM-Base-Beta-70B is a 70B-parameter decoder-only language model fine-tuned on diverse Japanese data for high performance in Japanese language tasks.
-  - Downloads: 2,704
-- [stabilityai/japanese-stablelm-instruct-beta-70b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-beta-70b)
-  - A 70B-parameter Japanese language model fine-tuned on various datasets, available in smaller configurations for different use cases.
-  - Downloads: 2,694
-- [stabilityai/japanese-stablelm-instruct-gamma-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-gamma-7b)
-  - A 7B-parameter Japanese instruction-following language model fine-tuned on StabilityAI's Japanese Stable LM Base Gamma 7B.
-  - Downloads: 2,620
-- [mmnga/line-corp-japanese-large-lm-1.7b-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-1.7b-gguf)
-  - This repository contains a gguf conversion of the 1.7B Japanese language model by line-corporation, along with conversion scripts and usage instructions.
-  - Downloads: 2,616
-- [cyberagent/calm2-7b](https://huggingface.co/cyberagent/calm2-7b)
-  - CyberAgentLM2-Chat is a decoder-only language model pre-trained on 1.3T tokens, requiring transformers >= 4.34.1 for usage.
-  - Downloads: 2,534
-- [mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf)
-  - ELYZA Japanese Llama 2 7B Fast GGUF format model, a fast version of the ELYZA Japanese language model with reduced token cost and enhanced speed.
-  - Downloads: 2,468
-- [llm-jp/llm-jp-3-13b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct3)
-  - The GitHub repository provides the llm-jp-3-13b-instruct3 model, part of a series developed by the National Institute of Informatics for large language models.
-  - Downloads: 2,468
+  - A BERT base Japanese model pretrained with character tokenization and whole word masking, using IPA dictionary-based word-level tokenization.
+  - Downloads: 3,458
+- [cl-nagoya/ruri-base-v2](https://huggingface.co/cl-nagoya/ruri-base-v2)
+  - This repository provides Japanese text embeddings using the Ruri model, requiring installation of Sentence Transformers and specific preprocessing for queries and passages.
+  - Downloads: 3,354
 - [elyza/ELYZA-japanese-Llama-2-13b](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b)
-  - ELYZA-japanese-Llama-2-13b is a Japanese-enhanced Llama 2 model using additional pre-training, with detailed usage and import instructions provided.
-  - Downloads: 2,417
+  - ELYZA-japanese-Llama-2-13b is a Japanese-enhanced version of Llama 2 through additional fine-tuning, accessible via Hugging Face for causal language modeling.
+  - Downloads: 3,322
+- [llm-jp/llm-jp-3-172b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-172b-instruct3)
+  - This repository includes various large language model variants, including beta and final versions, developed by the National Institute of Informatics for Japanese instruction-tuned applications.
+  - Downloads: 3,138
+- [rinna/japanese-hubert-base](https://huggingface.co/rinna/japanese-hubert-base)
+  - Rinna Co., Ltd.'s Japanese HuBERT Base model, trained on about 19,000 hours of Japanese speech from the Reazon corpus, features 12 transformer layers and is available with training details in the repository.
+  - Downloads: 3,136
+- [llm-jp/llm-jp-3-13b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct3)
+  - The repository offers the llm-jp-3-13b-instruct3 model from the LLM-jp-3 series, with checkpoints in Hugging Face format requiring torch >= 2.3.0 and transformers >= 4.40.1.
+  - Downloads: 3,128
+- [elyza/ELYZA-japanese-Llama-2-7b-fast-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast-instruct)
+  - The ELYZA-japanese-Llama-2-7b model is a Japanese-enhanced version of Llama-2 through additional pre-training, available for causal language modeling with specific prompt markers.
+  - Downloads: 3,094
+- [mmnga/ELYZA-japanese-Llama-2-7b-fast-instruct-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-fast-instruct-gguf)
+  - ELYZA's Japanese-trained LLaMA 2 7B Fast Instruct model in the gguf format.
+  - Downloads: 3,062
+- [rinna/japanese-gpt-1b](https://huggingface.co/rinna/japanese-gpt-1b)
+  - This repository offers a 1.3B-parameter Japanese GPT model from rinna Co., Ltd., along with code to import and use the model for text generation.
+  - Downloads: 3,052
+- [mmnga/line-corp-japanese-large-lm-1.7b-instruction-sft-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-1.7b-instruction-sft-gguf)
+  - A gguf conversion of the Japanese large language model 1.7B instruction-SFT by Line Corporation, along with related models and conversion scripts.
+  - Downloads: 3,029
+- [llm-book/bert-base-japanese-v3-jsts](https://huggingface.co/llm-book/bert-base-japanese-v3-jsts)
+  - A fine-tuned BERT model for Japanese semantic text similarity, derived from cl-tohoku/bert-base-japanese-v3 on the JGLUE JSTS dataset, as introduced in Chapter 5 of "Large Language Models Primer."
+  - Downloads: 3,020
+- [pkshatech/RoSEtta-base-ja](https://huggingface.co/pkshatech/RoSEtta-base-ja)
+  - RoSEtta is a Japanese text embedding model using RoFormer distillation, capable of semantic similarity measurement and sentence retrieval with up to 1024-token sequences.
+  - Downloads: 3,008
+- [rinna/qwen2.5-bakeneko-32b-instruct-gguf](https://huggingface.co/rinna/qwen2.5-bakeneko-32b-instruct-gguf)
+  - A quantized 32B instruction-tuned model for Qwen2.5 Bakeneko, compatible with llama.cpp apps and available in AWQ and GPTQ formats.
+  - Downloads: 3,003
+- [tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3)
+  - Llama 3.1 Swallow is an enhanced series of large language models that continues pre-training on Meta Llama 3.1 to improve Japanese while maintaining English capabilities, using over 200 billion tokens from various sources.
+  - Downloads: 2,948
+- [elyza/ELYZA-japanese-Llama-2-13b-fast-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-fast-instruct)
+  - The ELYZA-japanese-Llama-2-13b-fast-instruct model is a Japanese-enhanced Llama 2 variant for instructional text generation, using additional pre-training.
+  - Downloads: 2,893
+- [stabilityai/japanese-stablelm-base-gamma-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-gamma-7b)
+  - A 7-billion-parameter Japanese language model designed to enhance Japanese language modeling and downstream task performance through continued pretraining on an English-based Mistral-7B-v0.1 model.
+  - Downloads: 2,876
+- [mmnga/line-corp-japanese-large-lm-1.7b-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-1.7b-gguf)
+  - A gguf conversion of the Japanese-large-lm-1.7b model by line-corporation, including instructions for usage and conversion.
+  - Downloads: 2,867
+- [sbintuitions/sarashina-embedding-v1-1b](https://huggingface.co/sbintuitions/sarashina-embedding-v1-1b)
+  - Sarashina-Embedding-v1-1B is a Japanese text embedding model with multi-stage contrastive learning that achieves state-of-the-art results in semantic tasks and maps text to 1792-dimensional vectors.
+  - Downloads: 2,862
+- [elyza/ELYZA-japanese-Llama-2-7b-fast](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast)
+  - Eliza-Japanese-Llama-2-7b is an enhanced Japanese language model derived from Llama2 through additional pre-training, allowing for fine-tuned instruction-following capabilities; detailed usage examples are provided.
+  - Downloads: 2,721
+- [stabilityai/japanese-stablelm-instruct-gamma-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-gamma-7b)
+  - A 7B-parameter Japanese instruction-following language model fine-tuned on Stable LM Base Gamma 7B, requiring Transformers 4.34.0 or newer for usage.
+  - Downloads: 2,673
+- [mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-fast-gguf)
+  - ELYZA's Japanese LLaMA 2 7B Fast gguf model, a vocabulary-enhanced version for reduced token cost and improved speed.
+  - Downloads: 2,664
 - [mmnga/aibuncho-japanese-novel-gpt-j-6b-gguf](https://huggingface.co/mmnga/aibuncho-japanese-novel-gpt-j-6b-gguf)
-  - AIBunCho's gguf conversion of the Japanese novel GPT-J-6B model for use with llama.cpp, intended for testing purposes.
-  - Downloads: 2,404
-- [cyberagent/llava-calm2-siglip](https://huggingface.co/cyberagent/llava-calm2-siglip)
-  - An experimental Vision-Language model in Japanese capable of generatinganswers to image-related questions using Llava-CALM2-SigLip.
-  - Downloads: 2,402
+  - AIBunCho's gguf-formatted Japanese novel GPT-J-6B model for AI text generation, compatible with llama.cpp, including usage instructions.
+  - Downloads: 2,639
+- [stabilityai/japanese-stablelm-base-beta-70b](https://huggingface.co/stabilityai/japanese-stablelm-base-beta-70b)
+  - Japanese-StableLM-Base-Beta-70B is a 70B-parameter decoder-only language model fine-tuned for Japanese tasks based on Llama-2-70b.
+  - Downloads: 2,634
+- [llm-jp/llm-jp-3-1.8b](https://huggingface.co/llm-jp/llm-jp-3-1.8b)
+  - This repository offers a range of large language models developed by the National Institute of Informatics, including variants up to 172B parameters, in Hugging Face Transformers format.
+  - Downloads: 2,624
+- [cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese)
+  - A Japanese finetuned model based on DeepSeek-R1-Distill-Qwen-32B for causal language tasks using transformers.
+  - Downloads: 2,611
+- [stabilityai/japanese-stablelm-instruct-beta-70b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-beta-70b)
+  - A 70B-parameter Japanese language model fine-tuned on Databricks Dolly-15k and Anthropic HH, available in 70B and smaller variants.
+  - Downloads: 2,604
+- [cyberagent/calm2-7b](https://huggingface.co/cyberagent/calm2-7b)
+  - CyberAgentLM2-Chat is a decoder-only language model pre-trained on 1.3T tokens of Japanese and English data, requiring transformers version ≥ 4.34.1 for usage.
+  - Downloads: 2,563
+- [sonoisa/sentence-luke-japanese-base-lite](https://huggingface.co/sonoisa/sentence-luke-japanese-base-lite)
+  - A Japanese Sentence-LUKE model trained with the same dataset and settings as Japanese Sentence-BERT, showing improved qualitative accuracy over Japanese Sentence-BERT on private datasets.
+  - Downloads: 2,520
+- [elyza/ELYZA-japanese-Llama-2-13b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-instruct)
+  - ELYA-japanese-Llama-2-13b is a pre-trained language model extended for Japanese, using Llama 2 as the base, with additional fine-tuning. It includes instructions for usage and can be loaded via Hugging Face's transformers library.
+  - Downloads: 2,473
+- [mmnga/RakutenAI-2.0-8x7B-instruct-gguf](https://huggingface.co/mmnga/RakutenAI-2.0-8x7B-instruct-gguf)
+  - A gguf-format version of RakutenAI-2.0-8x7B-instruct, created from imatrix data using the TFMC/imatrix-dataset-for-japanese-llm, for use with llama.cpp.
+  - Downloads: 2,429
 - [tokyotech-llm/Llama-3.1-Swallow-8B-v0.2](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-v0.2)
-  - Llama 3.1 Swallow is a series of large language models enhanced for Japanese while retaining English capabilities, built through continual pre-training on Meta Llama 3.1 with a corpus of 200 billion tokens.
+  - Llama 3.1 Swallow is a series of large language models enhanced for Japanese while retaining English capabilities through continual pre-training on the Meta Llama 3.1 models and additional Japanese data.
   - Downloads: 2,340
 - [dahara1/DeepSeek-R1-Distill-Qwen-14B-unsloth-gguf-japanese-imatrix](https://huggingface.co/dahara1/DeepSeek-R1-Distill-Qwen-14B-unsloth-gguf-japanese-imatrix)
-  - This repository contains a fine-tuned Japanese version of DeepSeek-R1-Distill-Qwen-14B that outputs thought processes in Japanese.
+  - This model is a Japanese-fine-tuned version of DeepSeek-R1-Distill-Qwen-14B, outputting thoughts in Japanese.
   - Downloads: 2,277
-- [stockmark/stockmark-13b](https://huggingface.co/stockmark/stockmark-13b)
-  - Stockmark-13b, a 13B-parameter LLM pretrained on a Japanese corpus, is accompanied by an instruction-tuned variant and supported by AWS; provide usage instructions via PyTorch.
-  - Downloads: 2,246
-- [llm-jp/llm-jp-3-13b-instruct](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct)
-  - This repository offers various large language models in Japanese, including different variants from 1.8B to 172B parameters, with instruction-tuned versions available.
-  - Downloads: 2,212
 - [mradermacher/Mistral-Nemo-Japanese-Instruct-2408-i1-GGUF](https://huggingface.co/mradermacher/Mistral-Nemo-Japanese-Instruct-2408-i1-GGUF)
-  - Weighted and IQ quantized versions of the Mistral-Nemo-Japanese-Instruct-2408 model are available as GGUF files, with usage details provided in another README.
-  - Downloads: 2,197
-- [elyza/Llama-3-ELYZA-JP-8B-GGUF](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B-GGUF)
-  - Llama-3-ELYZA-JP-8B-GGUF is an enhanced Japanese-language large language model based on Meta-Llama-3, quantized for efficiency and available in GGUF format.
-  - Downloads: 2,164
-- [elyza/ELYZA-japanese-Llama-2-13b-fast](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-fast)
-  - ELYZA-japanese-Llama-2-13b-fast is a Japanese-enhanced Llama 2 model for causal language modeling, detailed in a blog post.
-  - Downloads: 2,157
-- [mmnga/japanese-stablelm-2-instruct-1_6b-gguf](https://huggingface.co/mmnga/japanese-stablelm-2-instruct-1_6b-gguf)
-  - A gguf-formatted conversion of the Japanese-stablelm-2-instruct-1_6b model by stabilityai, using imatrix-dataset-for-japanese-llm, with associated licensing and commercial use requirements.
-  - Downloads: 2,017
-- [dahara1/ELYZA-japanese-Llama-2-7b-fast-instruct-GPTQ](https://huggingface.co/dahara1/ELYZA-japanese-Llama-2-7b-fast-instruct-GPTQ)
-  - A quantized Japanese Llama 2-7b instruction-tuned model with reduced size and improved speed, but slightly diminished performance.
-  - Downloads: 2,016
-- [cyberagent/open-calm-1b](https://huggingface.co/cyberagent/open-calm-1b)
-  - OpenCALM-1B is a pre-trained Japanese decoder-only language model from CyberAgent, Inc., enabling AI text generation with specific import and usage instructions provided.
-  - Downloads: 2,014
-- [cyberagent/Mistral-Nemo-Japanese-Instruct-2408](https://huggingface.co/cyberagent/Mistral-Nemo-Japanese-Instruct-2408)
-  - A Japanese continually pre-trained model based on Mistral-Nemo, requiring an updated transformers installation and using AutoModelForCausalLM and AutoTokenizer for inference.
-  - Downloads: 1,994
-- [dahara1/weblab-10b-instruction-sft-GPTQ](https://huggingface.co/dahara1/weblab-10b-instruction-sft-GPTQ)
-  - Matsuo-lab's Japanese-centric multilingual weblab-10b Instruction Fine-Tuned (INinstruction-sft) GPT-NeoX model quantized to 6.3 GB for improved speed at slightly reduced inference performance.
-  - Downloads: 1,978
-- [sbintuitions/modernbert-ja-30m](https://huggingface.co/sbintuitions/modernbert-ja-30m)
-  - The repository offers ModernBERT-Ja-30M, a highly efficient BERT variant trained on large datasets for handling long sequences in Japanese text.
-  - Downloads: 1,953
-- [maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-base-gguf](https://huggingface.co/maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-base-gguf)
-  - This repository contains enhanced descriptions for the Japanese StableLM-3b-4e1t-base GGUF model by Stability AI, noting current limitations in layer support for GPU offloading.
-  - Downloads: 1,915
-- [line-corporation/japanese-large-lm-3.6b](https://huggingface.co/line-corporation/japanese-large-lm-3.6b)
-  - This repository offers a 3.6B parameter Japanese language model from LINE Corporation, along with instructions for usage and setup.
-  - Downloads: 1,852
-- [Rakuten/RakutenAI-7B-chat](https://huggingface.co/Rakuten/RakutenAI-7B-chat)
-  - RakutenAI-7B is a Japanese language large language model that excels in Japanese benchmarks and performs competitively in English tests, built on the Mistral-7B-v0.1 architecture.
-  - Downloads: 1,770
-- [KoichiYasuoka/roberta-small-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-luw-upos)
-  - A RoBERTa model pre-trained on Japanese Aozora texts for UPOS tagging, derived from roberta-small-japanese-aozora.
-  - Downloads: 1,765
-- [llm-jp/llm-jp-3-13b-instruct2](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct2)
-  - The repository contains the llm-jp-3-13b-instruct2 model, part of a series of large language models developed by the National Institute of Informatics.
-  - Downloads: 1,715
-- [bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf)
-  - A GitHub repository containing the DeepSeek-R1 distillation model for Qwen-14B Japanese-language fine-tuning, licensed under MIT.
-  - Downloads: 1,696
-- [elyza/Llama-3-ELYZA-JP-8B-AWQ](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B-AWQ)
-  - ELYZA's Llama-3-ELYZA-JP-8B-AWQ is an 8-billion-parameter language model fine-tuned for Japanese, built on Meta-Llama-3, with AutoAWQ quantized versions available.
-  - Downloads: 1,637
-- [stabilityai/japanese-stablelm-3b-4e1t-base](https://huggingface.co/stabilityai/japanese-stablelm-3b-4e1t-base)
-  - A 3-billion-parameter decoder-only language model optimized for Japanese, derived from StableLM-3B-4E1T through continued pretraining on Japanese data.
-  - Downloads: 1,575
-- [rinna/qwq-bakeneko-32b](https://huggingface.co/rinna/qwq-bakeneko-32b)
-  - A fine-tuned Japanese instruction-tuned reasoning model based on Qwen2.5 Bakeneko 32B, optimized with ORPO for superior performance in Japanese language tasks.
-  - Downloads: 1,566
-- [abeja/gpt-neox-japanese-2.7b](https://huggingface.co/abeja/gpt-neox-japanese-2.7b)
-  - The repository offers a 2.7B-parameter Japanese GPT-NeoX model for text generation, compatible with transformers v4.23+, trained by ABEJA.
-  - Downloads: 1,551
+  - Weighted and IQ quantized models of the Mistral-Nemo-Japanese-Instruct-2408 model are provided in GGUF format, sorted by size for efficient usage.
+  - Downloads: 2,267
+- [mmnga/RakutenAI-2.0-mini-instruct-gguf](https://huggingface.co/mmnga/RakutenAI-2.0-mini-instruct-gguf)
+  - A gguf-formatted mini-version of RakutenAI-2.0 instructional model, derived from mmnga/RakutenAI-2.0-mini-instruct, for use with ggerganov/llama.cpp.
+  - Downloads: 2,191
+- [stockmark/stockmark-13b](https://huggingface.co/stockmark/stockmark-13b)
+  - Stockmark-13b is a 13 billion parameter LLM pretrained on a Japanese corpus, with an instruction-tuned variant available. Supported by AWS, it can be loaded via transformers for GPU use.
+  - Downloads: 2,181
+- [mmnga/r1-1776-distill-llama-70b-gguf](https://huggingface.co/mmnga/r1-1776-distill-llama-70b-gguf)
+  - A gguf-formatted distillation of the r1-1776 Distill Llama-70B model, including instructions for using llama.cpp to run it.
+  - Downloads: 2,169
 - [cl-nagoya/ruri-reranker-large](https://huggingface.co/cl-nagoya/ruri-reranker-large)
-  - Ruri-Reranker is a Japanese text reranking model using Sentence Transformers that can be loaded and used for inference after installing the necessary library.
-  - Downloads: 1,520
-- [oshizo/japanese-e5-mistral-7b_slerp](https://huggingface.co/oshizo/japanese-e5-mistral-7b_slerp)
-  - The repository contains a model resulting from merging intfloat/e5-mistral-7b-instruct and stabilityai/japanese-stablelm-base-gamma-7b, requiring specific loading and saving steps.
-  - Downloads: 1,516
-- [sarulab-speech/hubert-base-jtube](https://huggingface.co/sarulab-speech/hubert-base-jtube)
-  - This repo offers model weights for the hubert-base, an audio embedding model trained on JTubeSpeech, suitable for speech recognition tasks and not for audio generation.
-  - Downloads: 1,487
-- [mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.3-gguf](https://huggingface.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.3-gguf)
-  - A gguf-formatted version of the Llama-3.1-Swallow-8B-Instruct-v0.3 model by tokyotech-llm, created from imatrix-dataset-for-japanese-llm, ready for use with llama.cpp.
-  - Downloads: 1,475
-- [rinna/japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)
-  - A 36-layer, 2816-hidden-size Japanese GPT-NeoX model fine-tuned for instruction-following conversational tasks using translated Anthropic, HH, RLHF, and FLAN datasets.
-  - Downloads: 1,472
-- [llm-jp/llm-jp-3-1.8b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-1.8b-instruct3)
-  - The GitHub repository offers the llm-jp-3-1.8b-instruct3 model, part of a series developed by the National Institute of Informatics for large language processing.
-  - Downloads: 1,469
+  - Ruri-Reranker is a Japanese text reranking model that can be used with Sentence Transformers, requiring the installation of the library via `pip install -U sentence-transformers`, and then loading the model from the 🤗 Hub to run inference.
+  - Downloads: 2,118
+- [elyza/Llama-3-ELYZA-JP-8B-GGUF](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B-GGUF)
+  - Llama-3-ELYZA-JP-8B-GGUF is an enhanced Japanese-language model based on Meta-Llama-3-8B-Instruct, quantized to Q4_K_M precision for GGUF format.
+  - Downloads: 2,112
+- [elyza/ELYZA-japanese-Llama-2-13b-fast](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-fast)
+  - The ELYZA-japanese-Llama-2-13b-fast model is an additional pretrained linguistic model based on Llama 2 for enhanced Japanese language capabilities, with usage instructions provided.
+  - Downloads: 2,087
+- [mmnga/japanese-stablelm-2-instruct-1_6b-gguf](https://huggingface.co/mmnga/japanese-stablelm-2-instruct-1_6b-gguf)
+  - A gguf-formatted version of the Japanese-stablelm-2-instruct-1_6b model created from IMatrix dataset; commercial use requires membership registration.
+  - Downloads: 2,072
+- [ku-nlp/deberta-v3-base-japanese](https://huggingface.co/ku-nlp/deberta-v3-base-japanese)
+  - A Japanese DeBERTa V3 base model pre-trained on LLM-jp corpus v1.0 for masked language modeling.
+  - Downloads: 2,044
+- [cyberagent/llava-calm2-siglip](https://huggingface.co/cyberagent/llava-calm2-siglip)
+  - An experimental Japanese-speaking vision-language model that generates descriptions of images.
+  - Downloads: 2,033
+- [dahara1/ELYZA-japanese-Llama-2-7b-fast-instruct-GPTQ](https://huggingface.co/dahara1/ELYZA-japanese-Llama-2-7b-fast-instruct-GPTQ)
+  - A quantized (4.11GB) version of an additional pre-trained Japanese model based on Meta's Llama 2, which has reduced memory requirements and faster execution but possibly lower performance.
+  - Downloads: 1,973
+- [dahara1/weblab-10b-instruction-sft-GPTQ](https://huggingface.co/dahara1/weblab-10b-instruction-sft-GPTQ)
+  - A quantized (miniaturized) version of the Japanese-centric multilingual weblab-10b-instruction-sft GPT-NeoX model, weighing 6.3 GB and offering faster execution at slightly reduced inference performance.
+  - Downloads: 1,932
+- [cl-nagoya/ruri-large-v2](https://huggingface.co/cl-nagoya/ruri-large-v2)
+  - This repository provides Japanese text embeddings using the Ruri large model, requiring installation of Sentence Transformers and other libraries before inference can be run.
+  - Downloads: 1,824
+- [elyza/Llama-3-ELYZA-JP-8B-AWQ](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B-AWQ)
+  - ELYZA's Llama-3-ELYZA-JP-8B-AWQ is an 8B Japanese-specific large language model with enhanced training and quantized GGUF/AWQ options.
+  - Downloads: 1,798
+- [KoichiYasuoka/roberta-small-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-luw-upos)
+  - A RoBERTa model pre-trained on Japanese texts from 青空文庫, tagged with UPOS for POS-tagging and dependency-parsing.
+  - Downloads: 1,791
+- [Rakuten/RakutenAI-7B-chat](https://huggingface.co/Rakuten/RakutenAI-7B-chat)
+  - RakutenAI-7B/chat is a Japanese language large language model based on Mistral-7B-v0.1 that excels in Japanese benchmarks and performs competitively in English tests compared to models like OpenCalm, Elyza, Youri, Nekomata, and Swallow.
+  - Downloads: 1,748
+- [cyberagent/open-calm-1b](https://huggingface.co/cyberagent/open-calm-1b)
+  - The repository provides the OpenCALM-1B decoder-only language model, including instructions for loading and using it with PyTorch.
+  - Downloads: 1,719
+- [cyberagent/Mistral-Nemo-Japanese-Instruct-2408](https://huggingface.co/cyberagent/Mistral-Nemo-Japanese-Instruct-2408)
+  - A Japanese continually pre-trained model based on Mistral-Nemo-Instruct-2407, requiring an updated transformers installation for use.
+  - Downloads: 1,646
+- [maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-base-gguf](https://huggingface.co/maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-base-gguf)
+  - The repository contains enhanced descriptions for the Japanese-stablelm-3b-4e1t-base GGUF model from Stability AI, noting current limitations with GPU support.
+  - Downloads: 1,638
+- [TheBloke/japanese-stablelm-instruct-beta-7B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-7B-GGUF)
+  - This repository contains quantized GGUF format model files for Stability AI's Japanese StableLM Instruct Beta 7B, supported by an a16z grant and processed with hardware from Massed Compute.
+  - Downloads: 1,616
+- [rinna/qwq-bakeneko-32b](https://huggingface.co/rinna/qwq-bakeneko-32b)
+  - A Japanese instruction-tuned reasoning model, fine-tuned with ORPO, based on Qwen2.5 Bakeneko 32B for superior performance in Japanese language tasks.
+  - Downloads: 1,613
+- [abeja/gpt-neox-japanese-2.7b](https://huggingface.co/abeja/gpt-neox-japanese-2.7b)
+  - AbeJA's 2.7B-parameter Japanese GPT-NeoX model is provided for text generation using transformers v4.23+.
+  - Downloads: 1,605
+- [cl-nagoya/ruri-reranker-base](https://huggingface.co/cl-nagoya/ruri-reranker-base)
+  - Ruri-Reranker is a Japanese general re-ranker model using Sentence Transformers for inference.
+  - Downloads: 1,554
+- [line-corporation/japanese-large-lm-3.6b](https://huggingface.co/line-corporation/japanese-large-lm-3.6b)
+  - A 3.6B parameters Japanese language model from LINE Corporation, including setup instructions and code examples for text generation.
+  - Downloads: 1,541
 - [mmnga/ELYZA-japanese-CodeLlama-7b-instruct-gguf](https://huggingface.co/mmnga/ELYZA-japanese-CodeLlama-7b-instruct-gguf)
-  - ELYZA's Japanese CodeLlama-7b instruct model in GGUF format.
-  - Downloads: 1,448
+  - This repository contains a GGUF-formatted version of the ELYZA-japanese-CodeLlama-7b-instruct model, which is an instruction-tuned Japanese-language model derived from CodeLlama.
+  - Downloads: 1,530
+- [rinna/japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)
+  - A 36-layer, 2.8K-hidden-size GPT-NeoX model fine-tuned for instruction-following conversational tasks in Japanese.
+  - Downloads: 1,519
+- [oshizo/japanese-e5-mistral-7b_slerp](https://huggingface.co/oshizo/japanese-e5-mistral-7b_slerp)
+  - This repository contains a merged model combining intfloat/e5-mistral-7b-instruct and stabilityai/japanese-stablelm-base-gamma-7b, requiring custom loading and saving steps.
+  - Downloads: 1,514
+- [tokyotech-llm/Llama-3-Swallow-8B-v0.1](https://huggingface.co/tokyotech-llm/Llama-3-Swallow-8B-v0.1)
+  - The GitHub repository features the Llama3 Swallow model, an extension of Meta's Llama 3 with Japanese language training, including instruct versions and regular updates starting July 1, 2024.
+  - Downloads: 1,509
 - [mmnga/ELYZA-japanese-Llama-2-7b-instruct-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-instruct-gguf)
-  - ELYZA's Japanese-trained Llama-2-7b instruct model in GGUF format, including fast and Codellama versions.
-  - Downloads: 1,440
+  - ELYZA's Japanese Llama-2-7b instruct model in gguf format, with versions including a faster and optimized Fast variant and Codellama adaptations.
+  - Downloads: 1,502
+- [sarulab-speech/hubert-base-jtube](https://huggingface.co/sarulab-speech/hubert-base-jtube)
+  - This repository provides model weights for the hubert-base speech recognition model trained on JTubeSpeech corpus, suitable for tasks like transcription.
+  - Downloads: 1,487
+- [abeja/ABEJA-Qwen2.5-32b-Japanese-v0.1](https://huggingface.co/abeja/ABEJA-Qwen2.5-32b-Japanese-v0.1)
+  - This repository contains a Japanese-focused fine-tuned model based on Qwen/Qwen2.5-32B-Instruct, using ChatVector to enhance instruction-following performance without post-training.
+  - Downloads: 1,475
 - [Rakuten/RakutenAI-7B](https://huggingface.co/Rakuten/RakutenAI-7B)
-  - RakutenAI-7B is a high-performing Japanese language model based on Mistral architecture that excels in Japanese benchmarks and maintains competitive performance in English tests.
+  - RakutenAI-7B is a Japanese LLM based on Mistral-7B-v0.1 that excels in Japanese language understanding benchmarks and maintains competitive performance on English tests compared to models like OpenCalm, Elyza, Youri, Nekomata, and Swallow.
   - Downloads: 1,432
 - [koshin2001/Japanese-to-emotions](https://huggingface.co/koshin2001/Japanese-to-emotions)
   - Japanese to emotions I fine-tuned LINE DistillBERT as the base model using WRIME Ver2 as the teacher data.
   - Downloads: 1,430
-- [cl-nagoya/ruri-reranker-base](https://huggingface.co/cl-nagoya/ruri-reranker-base)
-  - Ruri-Reranker is a Japanese general reranking model using Sentence Transformers that can be loaded and used for inference after installing the necessary library.
-  - Downloads: 1,417
-- [tokyotech-llm/Llama-3-Swallow-8B-v0.1](https://huggingface.co/tokyotech-llm/Llama-3-Swallow-8B-v0.1)
-  - Llama3 Swallow is aContinuously pre-trained model from the Llama 3 family, including Japanese data, with Instruct versions released in July 2024.
-  - Downloads: 1,411
-- [recruit-jp/japanese-typo-detector-roberta-base](https://huggingface.co/recruit-jp/japanese-typo-detector-roberta-base)
-  - The repository contains a Japanese typo detection model using RoBERTa that outputs the probability of each character being misspelled, categorizing errors into 8 types plus "OK".
-  - Downloads: 1,406
-- [llm-book/bert-base-japanese-v3-marc_ja](https://huggingface.co/llm-book/bert-base-japanese-v3-marc_ja)
-  - A fine-tuned BERT model for sentiment analysis in Japanese, based on cl-tohoku/bert-base-japanese-v3 and the JGLUE MARC-ja dataset.
-  - Downloads: 1,402
-- [stabilityai/japanese-stablelm-base-alpha-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-alpha-7b)
-  - Japanese-StableLM-Base-Alpha-7B is a 7-billion-parameter language model pre-trained for Japanese language and task performance, with instructions available under different terms in Japanese-StableLM-Instruct-Alpha-7B.
-  - Downloads: 1,394
-- [cl-nagoya/ruri-large-v2](https://huggingface.co/cl-nagoya/ruri-large-v2)
-  - This repository provides Japanese text embeddings using the Ruri large model, requiring installation of Sentence Transformers and related libraries before inference can be performed.
-  - Downloads: 1,361
-- [abeja/ABEJA-Qwen2.5-32b-Japanese-v0.1](https://huggingface.co/abeja/ABEJA-Qwen2.5-32b-Japanese-v0.1)
-  - Abeja/Qwen2.5-32b-Japanese-v0.1 is a Japanese-focused post-training continual learning model based on Qwen2.5-32B-Instruct, with enhanced instruction-following performance through ChatVector tuning.
-  - Downloads: 1,361
+- [llm-jp/llm-jp-3-1.8b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-1.8b-instruct3)
+  - This repository offers the llm-jp-3-1.8b-instruct3 model, part of a series developed by the National Institute of Informatics for large language processing.
+  - Downloads: 1,424
 - [mmnga/ELYZA-japanese-Llama-2-13b-fast-instruct-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-13b-fast-instruct-gguf)
-  - ELYZA's Japanese Llama-2 13B Fast Instruct model in GGUF format.
-  - Downloads: 1,346
-- [mmnga/llm-jp-3-13b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-13b-instruct3-gguf)
-  - A gguf-formatted version of llm-jp-3-13b-instruct3, created by llm-jp, using imatrix-dataset-for-japanese-llm, with limitations noted for custom chat templates.
-  - Downloads: 1,314
+  - ELYZA's Japanese Llama-2-13b fast instruct model in gguf format.
+  - Downloads: 1,387
+- [tokyotech-llm/Llama-3.3-Swallow-70B-Instruct-v0.4](https://huggingface.co/tokyotech-llm/Llama-3.3-Swallow-70B-Instruct-v0.4)
+  - Llama 3.3 Swallow is a 70B parameter language model built on Meta Llama 3.3, enhancing Japanese capabilities while maintaining English proficiency through training on diverse Japanese text sources.
+  - Downloads: 1,376
+- [stabilityai/japanese-stablelm-base-alpha-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-alpha-7b)
+  - Japanese-StableLM-Base-Alpha-7B is a 7 billion-parameter language model pre-trained for Japanese language and downstream tasks.
+  - Downloads: 1,372
+- [recruit-jp/japanese-typo-detector-roberta-base](https://huggingface.co/recruit-jp/japanese-typo-detector-roberta-base)
+  - This repository contains a Japanese typo detection model using RoBERTa that outputs the probability of each character being erroneous, categorizing errors into 8 types.
+  - Downloads: 1,341
+- [stabilityai/japanese-stablelm-3b-4e1t-base](https://huggingface.co/stabilityai/japanese-stablelm-3b-4e1t-base)
+  - A 3-billion-parameter Japanese language model derived from StableLM-3B-4E1T for enhanced Japanese language and task performance.
+  - Downloads: 1,325
+- [mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.3-gguf](https://huggingface.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.3-gguf)
+  - A gguf-format conversion of the Llama-3.1-Swallow-8B-Instruct-v0.3 model by tokyotech-llm, with usage instructions included.
+  - Downloads: 1,320
 - [KoichiYasuoka/modernbert-base-japanese-wikipedia](https://huggingface.co/KoichiYasuoka/modernbert-base-japanese-wikipedia)
   - modernbert-base-japanese-wikipedia Model Description
   - Downloads: 1,303
-- [QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
-  - A quantized version of a Japanese-trained Mistral model created using llama.cpp for inference.
-  - Downloads: 1,276
-- [mmnga/AXCXEPT-phi-4-open-R1-Distill-EZOv1-gguf](https://huggingface.co/mmnga/AXCXEPT-phi-4-open-R1-Distill-EZOv1-gguf)
-  - AX CXEPT's phi-4-open-R1-Distill-EZOv1 model in gguf format for use with imatrix dataset and llama.cpp.
-  - Downloads: 1,248
-- [Rakuten/RakutenAI-2.0-mini](https://huggingface.co/Rakuten/RakutenAI-2.0-mini)
-  - RakutenAI-2.0-mini is a lightweight transformer-based Japanese language model for efficient performance in resource-constrained environments, serving as the backbone for instruct models.
-  - Downloads: 1,239
-- [weblab-GENIAC/Tanuki-8B-dpo-v1.0](https://huggingface.co/weblab-GENIAC/Tanuki-8B-dpo-v1.0)
-  - Tanuki-8B-dpo-v1.0 is an 8 billion parameter large-language model fine-tuned for dialogue using SFT and DPO, with options for 4-bit and 8-bit quantization.
-  - Downloads: 1,171
-- [llm-jp/llm-jp-3-7.2b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-7.2b-instruct3)
-  - The repository offers the llm-jp-3-7.2b-instruct3 model, part of a series of large language models developed by the National Institute of Informatics for Japanese instruction-tuned applications.
-  - Downloads: 1,170
-- [mmnga/ELYZA-japanese-CodeLlama-7b-gguf](https://huggingface.co/mmnga/ELYZA-japanese-CodeLlama-7b-gguf)
-  - The repository contains a GGUF-format version of the ELYZA-japanese-CodeLlama-7b-instruct model, alongside other variations and versions.
-  - Downloads: 1,087
-- [rinna/llama-3-youko-8b](https://huggingface.co/rinna/llama-3-youko-8b)
-  - The GitHub repository contains the continually pretrained 8B Llama 3 model (Youko) fine-tuned on 22B tokens from Japanese and English datasets, enhancing performance on Japanese tasks.
-  - Downloads: 1,072
 - [pfnet/plamo-2-1b](https://huggingface.co/pfnet/plamo-2-1b)
-  - PLaMo 2 1B is a 1B English-Japanese pre-trained model using the hybrid Samba architecture with added normalization layers.
+  - PLaMo 2 1B is a 1 billion-parameter model pre-trained on English and Japanese data, featuring a hybrid architecture similar to Samba with added normalization for improved efficiency and performance.
+  - Downloads: 1,302
+- [llm-jp/llm-jp-3-7.2b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-7.2b-instruct3)
+  - The repository offers the llm-jp-3-7.2b-instruct3 model from the National Institute of Informatics, part of a series of large language models.
+  - Downloads: 1,255
+- [QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
+  - A quantized version of the Japanese pre-trained Mistral-Nemo-Instruct-2408 model created using llama.cpp for efficient inference.
+  - Downloads: 1,198
+- [mmnga/ELYZA-japanese-CodeLlama-7b-gguf](https://huggingface.co/mmnga/ELYZA-japanese-CodeLlama-7b-gguf)
+  - ELYZA's Japanese CodeLlama-7b instruct model in gguf format.
+  - Downloads: 1,184
+- [bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf)
+  - A GitHub repository containing a distillation model of Qwen-14B for Japanese, licensed under MIT.
+  - Downloads: 1,181
+- [rinna/japanese-gpt-neox-3.6b-instruction-ppo](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-ppo)
+  - A 36-layer Japanese GPT-NeoX model, fine-tuned using RLHF for instruction-following conversations.
+  - Downloads: 1,155
+- [weblab-GENIAC/Tanuki-8B-dpo-v1.0](https://huggingface.co/weblab-GENIAC/Tanuki-8B-dpo-v1.0)
+  - Tanuki-8B-dpo-v1.0 is an 8 billion parameter large language model fine-tuned for dialogue using SFT and DPO, with quantized versions available.
+  - Downloads: 1,134
+- [llm-jp/llm-jp-3-3.7b](https://huggingface.co/llm-jp/llm-jp-3-3.7b)
+  - The repository offers various large language models developed by the National Institute of Informatics, including llm-jp-3-3.7b and its instruct variant, with required library versions specified.
+  - Downloads: 1,133
+- [llm-book/bert-base-japanese-v3-marc_ja](https://huggingface.co/llm-book/bert-base-japanese-v3-marc_ja)
+  - A fine-tuned BERT model for Japanese sentiment analysis using the cl-tohoku/bert-base-japanese-v3 and MARC-ja dataset from chapter 5 of "大规模语言模型入门".
+  - Downloads: 1,102
+- [rinna/llama-3-youko-8b](https://huggingface.co/rinna/llama-3-youko-8b)
+  - The repository contains continually pretrained Llama 3 8B model on Japanese and English datasets, enhancing performance on Japanese tasks, named after the Japanese mythical creature youko.
+  - Downloads: 1,072
+- [mmnga/stockmark-gpt-neox-japanese-1.4b-gguf](https://huggingface.co/mmnga/stockmark-gpt-neox-japanese-1.4b-gguf)
+  - A gguf-formatted version of the GPT-NeoX-Japanese-1.4B model for use with llama.cpp, intended for trial purposes on the mmnga-dev branch.
   - Downloads: 1,051
-- [llm-book/bert-base-japanese-v3-unsup-simcse-jawiki](https://huggingface.co/llm-book/bert-base-japanese-v3-unsup-simcse-jawiki)
-  - A teacher-free SimCSE model for Japanese text, finetuned on jawiki-sentences using bert-base-japanese-v3 from cl-tohoku.
+- [line-corporation/japanese-large-lm-1.7b](https://huggingface.co/line-corporation/japanese-large-lm-1.7b)
+  - This repository offers a 1.7 billion parameter Japanese language model trained by LINE Corporation, along with instructions for importing and using the model via Hugging Face Transformers.
   - Downloads: 1,045
-- [rinna/japanese-gpt-neox-3.6b-instruction-sft-v2](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft-v2)
-  - A fine-tuned Japanese GPT-NeoX 3.6B parameter model designed for instruction-following conversations, distinct from the previous version through a different data split.
-  - Downloads: 1,043
 - [mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.1-gguf](https://huggingface.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.1-gguf)
   - tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.1-gguf tokyotech-llmさんが公開しているLlama-3.1-Swallow-8B-Instruct-v0.1のggufフォーマット変換版です。
   - Downloads: 1,040
-- [rinna/japanese-gpt-neox-3.6b-instruction-ppo](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-ppo)
-  - A 36-layer, 2816-hidden-size Japanese GPT-NeoX model fine-tuned for instruction-following through RLHF.
-  - Downloads: 1,035
+- [TheBloke/japanese-stablelm-instruct-beta-70B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-70B-GGUF)
+  - This repository includes quantized GGUF format model files for Stability AI's Japanese StableLM Instruct Beta 70B, supported by a16z and Massed Compute.
+  - Downloads: 1,034
+- [TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF)
+  - This repository contains quantized GGUF format model files for Stability AI's Japanese StableLM Instruct Gamma 7B, supported by an a16z grant and Massed Compute hardware.
+  - Downloads: 1,032
+- [rinna/japanese-gpt-neox-3.6b-instruction-sft-v2](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft-v2)
+  - This repository offers a finetuned Japanese GPT-NeoX 3.6B model for instruction-following conversational agents, distinct from the previous version through a different training data split.
+  - Downloads: 1,026
 - [mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.2-gguf](https://huggingface.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.2-gguf)
   - tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.2-gguf tokyotech-llmさんが公開しているLlama-3.1-Swallow-8B-Instruct-v0.2のggufフォーマット変換版です。
   - Downloads: 1,020
-- [maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-instruct-gguf](https://huggingface.co/maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-instruct-gguf)
-  - This repository includes enhanced descriptions for the Japanese-stablelm-3b-4e1t-instruct GGUF model from Stability AI, noting limitations in current Llama.cpp GPU support.
-  - Downloads: 1,007
-- [studio-ousia/luke-japanese-large-lite](https://huggingface.co/studio-ousia/luke-japanese-large-lite)
-  - The luke-japanese-large-lite repository contains a lightweight Japanese version of LUKE, a pre-trained language model, without Wikipedia entity embeddings.
-  - Downloads: 996
 - [stockmark/Stockmark-2-100B-Instruct-beta](https://huggingface.co/stockmark/Stockmark-2-100B-Instruct-beta)
-  - The Stockmark-2-100B-Instruct-beta is a 100-billion-parameter LLM pre-trained on diverse text and code, with post-training in Japanese, focusing on instruction-following capabilities.
-  - Downloads: 996
-- [mmnga/stockmark-gpt-neox-japanese-1.4b-gguf](https://huggingface.co/mmnga/stockmark-gpt-neox-japanese-1.4b-gguf)
-  - A gguf-formatted version of the gpt-neox-japanese-1.4b model for use with llama.cpp, to be used on the mmnga-dev branch until GPT-NeoX support is implemented in the main repository.
-  - Downloads: 990
+  - Stockmark-2-100B-Instruct-beta is a 100B-parameter LLM pre-trained on 1.5T tokens, with enhanced Japanese instruction-following through post-training synthetic data.
+  - Downloads: 1,014
 - [mmnga/tokyotech-llm-Llama-3.1-Swallow-70B-Instruct-v0.3-gguf](https://huggingface.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-70B-Instruct-v0.3-gguf)
   - tokyotech-llm-Llama-3.1-Swallow-70B-Instruct-v0.3-gguf tokyotech-llmさんが公開しているLlama-3.1-Swallow-70B-Instruct-v0.3のggufフォーマット変換版です。
   - Downloads: 982
-- [tokyotech-llm/Llama-3.3-Swallow-70B-Instruct-v0.4](https://huggingface.co/tokyotech-llm/Llama-3.3-Swallow-70B-Instruct-v0.4)
-  - Llama 3.3 Swallow is a 70B parameter LLM enhanced for Japanese while maintaining English capabilities through continual pre-training on diverse datasets.
-  - Downloads: 976
-- [pkshatech/simcse-ja-bert-base-clcmlp](https://huggingface.co/pkshatech/simcse-ja-bert-base-clcmlp)
-  - A Japanese SimCSE model based on BERT-base and trained on JSNLI, usable withsentence-transformers for extracting sentence embeddings, requiring fugashi and unidic-lite for tokenization.
-  - Downloads: 974
-- [Rakuten/RakutenAI-2.0-8x7B-instruct](https://huggingface.co/Rakuten/RakutenAI-2.0-8x7B-instruct)
-  - RakutenAI-2.0-8x7B-instruct is a fine-tuned Japanese LLM designed for advanced instruction-following tasks with enhanced fluency and coherence.
-  - Downloads: 957
-- [rinna/qwen2.5-bakeneko-32b](https://huggingface.co/rinna/qwen2.5-bakeneko-32b)
-  - The GitHub repository contains the continually pre-trained Qwen2.5 Bakeneko 32B model, enhanced for Japanese tasks using 18B tokens from mixed Japanese and English datasets.
-  - Downloads: 920
+- [maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-instruct-gguf](https://huggingface.co/maddes8cht/stabilityai-japanese-stablelm-3b-4e1t-instruct-gguf)
+  - This repository contains enhanced model descriptions for the Japanese-stablelm-3b-4e1t-instruct GGUF model by Stability AI, noting current limitations in GPU layer support.
+  - Downloads: 968
 - [mmnga/aixsatoshi-Llama-3-8b-Cosmopedia-japanese-gguf](https://huggingface.co/mmnga/aixsatoshi-Llama-3-8b-Cosmopedia-japanese-gguf)
   - aixsatoshi-Llama-3-8b-Cosmopedia-japanese-gguf aixsatoshiさんが公開しているLlama-3-8b-Cosmopedia-japaneseのggufフォーマット変換版です。
   - Downloads: 919
 - [owner203/japanese-llama-3-8b](https://huggingface.co/owner203/japanese-llama-3-8b)
   - Japanese-LLaMA-3-8B Japanese-LLaMA-3-8Bは基盤モデル、フルモデルです。
   - Downloads: 919
-- [dahara1/gemma-2-2b-it-gguf-japanese-imatrix](https://huggingface.co/dahara1/gemma-2-2b-it-gguf-japanese-imatrix)
-  - A Japanese-supportive, quantized gguf version of gemma-2-2b-it with speculative decoding for faster execution.
-  - Downloads: 895
-- [llm-jp/llm-jp-3-3.7b](https://huggingface.co/llm-jp/llm-jp-3-3.7b)
-  - This repository includes various large language models developed by the National Institute of Informatics, including variants ranging from 1.8B to 172B parameters, along with their necessary Hugging Face library versions.
-  - Downloads: 881
-- [retrieva-jp/t5-base-long](https://huggingface.co/retrieva-jp/t5-base-long)
-  - A T5 v1.1 model card for a Japanese-pretrained Transformer Encoder-Decoder model with GEGLU activation and no embedding-classifier parameter sharing, now available in xl and xxl sizes.
-  - Downloads: 861
+- [mmnga/qwq-bakeneko-32b-gguf](https://huggingface.co/mmnga/qwq-bakeneko-32b-gguf)
+  - Rinna公开的qwq-bakeneko-32b的gguf格式模型，用于在llama.cpp上运行并示例调用。
+  - Downloads: 916
+- [mmnga/ELYZA-japanese-Llama-2-7b-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-gguf)
+  - ELYZA's Japanese Llama-2-7b model in GGUF format with variants for instruct settings, fast version, and Codellama adaptations.
+  - Downloads: 908
+- [llm-jp/llm-jp-3-3.7b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-3.7b-instruct3)
+  - The repository offers the llm-jp-3-3.7b-instruct3 model, part of a series developed by the National Institute of Informatics for large language processing in Japanese.
+  - Downloads: 907
+- [Rakuten/RakutenAI-2.0-8x7B-instruct](https://huggingface.co/Rakuten/RakutenAI-2.0-8x7B-instruct)
+  - RakutenAI-2.0-8x7B-instruct is a fine-tuned Japanese LLM excelling in instruction-following tasks with robust fluency and coherence.
+  - Downloads: 892
+- [hotchpotch/japanese-splade-v2](https://huggingface.co/hotchpotch/japanese-splade-v2)
+  - A high-performance Japanese SPLADE v2 model for transforming text into sparse vectors, accessible via WebUI and embedded using YASEM.
+  - Downloads: 869
+- [rinna/qwen2.5-bakeneko-32b](https://huggingface.co/rinna/qwen2.5-bakeneko-32b)
+  - The GitHub repository contains the continuously pre-trained Qwen2.5 Bakeneko 32B model, enhanced for Japanese tasks using 18B tokens from mixed Japanese and English datasets.
+  - Downloads: 862
 - [mmnga/haqishen-Llama-3-8B-Japanese-Instruct-gguf](https://huggingface.co/mmnga/haqishen-Llama-3-8B-Japanese-Instruct-gguf)
   - haqishen-Llama-3-8B-Japanese-Instruct-gguf haqishenさんが公開しているLlama-3-8B-Japanese-Instructのggufフォーマット変換版です。
   - Downloads: 861
-- [mmnga/DeepSeek-R1-Distill-Qwen-32B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-32B-gguf)
-  - A gguf-formatted Distilled DeepSeek-R1 model based on Qwen-32B for use with ggerganov's llama.cpp, including instructions for loading and prompting the model.
-  - Downloads: 851
-- [TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF)
-  - This repository includes quantized GGUF format model files for Stability AI's Japanese StableLM Instruct Gamma 7B, supported by an a16z grant and mass-produced with hardware from Massed Compute.
-  - Downloads: 843
-- [line-corporation/japanese-large-lm-1.7b](https://huggingface.co/line-corporation/japanese-large-lm-1.7b)
-  - This repository offers a 1.7B parameter Japanese language model trained by LINE Corporation, along with instructions for importing and using it via PyTorch.
-  - Downloads: 839
 - [rinna/japanese-gpt-neox-small](https://huggingface.co/rinna/japanese-gpt-neox-small)
-  - This repository offers a small Japanese GPT-NeoX model, updated for loading via Hugging Face's implementation.
-  - Downloads: 838
-- [mmnga/ELYZA-japanese-Llama-2-7b-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-gguf)
-  - ELYZA's Japanese Llama-2-7b model in gguf format, available as the usual and fast versions, and corresponding Codellama versions with GPTQ calibration.
-  - Downloads: 832
+  - This repository hosts a small Japanese GPT-NeoX model, updated for compatibility with Hugging Face's GPT-NeoX implementation.
+  - Downloads: 859
+- [Rakuten/RakutenAI-2.0-mini](https://huggingface.co/Rakuten/RakutenAI-2.0-mini)
+  - RakutenAI-2.0-mini is a lightweight transformer-based Japanese language model designed for efficient performance in resource-constrained environments and serves as the backbone for instruct models.
+  - Downloads: 850
+- [retrieva-jp/t5-base-long](https://huggingface.co/retrieva-jp/t5-base-long)
+  - A T5 v1.1 Japanese-pretrained model with GEGLU activation, no dropout in pre-training, and "xl"/"xxl" size variations.
+  - Downloads: 849
+- [mmnga/ELYZA-japanese-Llama-2-13b-fast-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-13b-fast-gguf)
+  - ELYZA's Japanese Llama-2 fast 13B model in gguf format, with enhanced vocabulary for faster processing.
+  - Downloads: 843
 - [mmnga/alfredplpl-Llama-3-8B-Instruct-Ja-gguf](https://huggingface.co/mmnga/alfredplpl-Llama-3-8B-Instruct-Ja-gguf)
   - alfredplpl-Llama-3-8B-Instruct-Ja-gguf alfredplplさんが公開しているLlama-3-8B-Instruct-Jaのggufフォーマット変換版です。
   - Downloads: 823
-- [mmnga/qwq-bakeneko-32b-gguf](https://huggingface.co/mmnga/qwq-bakeneko-32b-gguf)
-  - A gguf-format conversion of rinna's qwq-bakeneko-32b model for use with ggerganov's llama.cpp.
-  - Downloads: 809
-- [TheBloke/japanese-stablelm-instruct-beta-7B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-7B-GGUF)
-  - This repository includes quantized GGUF format model files for Stability AI's Japanese StableLM Instruct Beta 7B, supported by an a16z grant and Massed Compute hardware.
-  - Downloads: 801
 - [abeja/gpt2-large-japanese](https://huggingface.co/abeja/gpt2-large-japanese)
-  - This repository offers a large Japanese GPT-2 model trained by ABEJA, Inc., requiring installation of sentencepiece for text generation via the Hugging Face transformers library.
-  - Downloads: 795
-- [mmnga/ELYZA-japanese-Llama-2-13b-fast-gguf](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-13b-fast-gguf)
-  - ELYZA's Japanese Llama-2 13B Fast gguf model, with enhanced Japanese vocabulary for faster processing.
-  - Downloads: 776
-- [TheBloke/japanese-stablelm-instruct-beta-70B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-70B-GGUF)
-  - This repository includes quantized GGUF format model files for the Japanese StableLM Instruct Beta 70B created by Stability AI, supported by a16z and Massed Compute.
-  - Downloads: 774
+  - This repository offers a large Japanese GPT-2 model trained by ABEJA, Inc., and provides instructions for using it with the transformers library.
+  - Downloads: 815
+- [llm-book/bert-base-japanese-v3-unsup-simcse-jawiki](https://huggingface.co/llm-book/bert-base-japanese-v3-unsup-simcse-jawiki)
+  - A teacher-free SimCSE model for Japanese text, based on bert-base-japanese-v3 fine-tuned on jawiki-sentences, following Chapter 8 of "Large Language Models Made Simple."
+  - Downloads: 811
+- [mmnga/AXCXEPT-phi-4-open-R1-Distill-EZOv1-gguf](https://huggingface.co/mmnga/AXCXEPT-phi-4-open-R1-Distill-EZOv1-gguf)
+  - AXCXEPT-phi-4-open-R1-Distill-EZOv1的gguf格式模型，适用于llama.cpp环境。
+  - Downloads: 783
 - [line-corporation/japanese-large-lm-3.6b-instruction-sft](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft)
-  - A 3.6B parameter Japanese language model fine-tuned by LINE Corporation for instruction tuning, including details and usage instructions.
-  - Downloads: 771
-- [mmnga/DeepSeek-R1-Distill-Qwen-14B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-14B-gguf)
-  - A gguf format distillation of the DeepSeek-R1 Qwen-14B model for use with ggerganov's llama.cpp, built from imatrix dataset.
-  - Downloads: 768
-- [rinna/nekomata-14b](https://huggingface.co/rinna/nekomata-14b)
-  - The GitHub repository rinna/nekomata-14b contains continual pre-trained qwen-14b on 66B tokens, enhancing performance on Japanese tasks with an inclusive vocabulary larger than 150k.
-  - Downloads: 737
+  - A 3.6B parameter Japanese language model fine-tuned by LINE Corporation for instruction tuning, including instructions on how to load and use the model via Hugging Face Transformers.
+  - Downloads: 763
+- [mmnga/llm-jp-3-13b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-13b-instruct3-gguf)
+  - A gguf-formatted conversion of llm-jp-3-13b-instruct3 by llm-jp, using imatrix dataset and incompatible with custom chat templates in llama.cpp.
+  - Downloads: 763
+- [rinna/qwen2.5-bakeneko-32b-instruct-v2-gguf](https://huggingface.co/rinna/qwen2.5-bakeneko-32b-instruct-v2-gguf)
+  - A quantized version of the Qwen2.5 Bakeneko 32B instruction-tuning model compatible with llama.cpp apps, using AWQ and GGUF formats.
+  - Downloads: 732
 - [Aratako/calm3-22b-RP-GGUF](https://huggingface.co/Aratako/calm3-22b-RP-GGUF)
   - calm3-22b-RP-GGUF 概要 Aratako/calm3-22b-RPの量子化済みGGUF版です。
   - Downloads: 731
-- [hotchpotch/japanese-splade-v2](https://huggingface.co/hotchpotch/japanese-splade-v2)
-  - A high-performance Japanese SPLADE v2 model for sparse vector transformation from text, accessible via a Web UI and implemented with YASEM for inference and token inspection.
-  - Downloads: 725
-- [llm-jp/llm-jp-3-3.7b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-3.7b-instruct3)
-  - This repository provides the 3.7B parameter llm-jp-3 instruct3 model for large language processing, with guidance on model overviews and required library versions.
-  - Downloads: 718
-- [mmnga/DeepSeek-R1-Distill-Qwen-7B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-7B-gguf)
-  - A gguf-formatted distillation of DeepSeek-R1 Qwen-7B model for use with ggerganov's llama.cpp framework.
-  - Downloads: 694
-- [mmnga/karakuri-lm-32b-thinking-2501-exp-gguf](https://huggingface.co/mmnga/karakuri-lm-32b-thinking-2501-exp-gguf)
-  - A gguf-formatted conversion of karakuri-lm-32b-thinking-2501-exp for use with llama.cpp.
-  - Downloads: 686
-- [stabilityai/japanese-stablelm-instruct-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-beta-7b)
-  - japanese-stablelm-instruct-beta-7b is a fine-tuned 7B-parameter language model based on Japanese-StableLM-base-beta-7b, offering calligraphy-style writing capabilities and available in larger or faster versions.
-  - Downloads: 673
-- [cl-nagoya/ruri-base-v2](https://huggingface.co/cl-nagoya/ruri-base-v2)
-  - This GitHub repository provides Japanese text embeddings using the Ruri model, which requires installing Sentence Transformers and specific libraries, and includes instructions for loading and running inference.
-  - Downloads: 666
 - [studio-ousia/luke-japanese-base-lite](https://huggingface.co/studio-ousia/luke-japanese-base-lite)
-  - Luke-japanese is a lightweight Japanese-language version of LUKE, a pre-trained language model that provides knowledge-enhanced contextual representations of words and entities.
+  - The Japanese version of LUKE, a pre-trained knowledge-enhanced model treating words and entities as independent tokens, without Wikipedia entity embeddings.
+  - Downloads: 699
+- [tohoku-nlp/bert-large-japanese](https://huggingface.co/tohoku-nlp/bert-large-japanese)
+  - A BERT large Japanese model pretrained using Unidic-lite tokenization and whole word masking on jawiki-20200831 data.
+  - Downloads: 696
+- [rinna/nekomata-14b](https://huggingface.co/rinna/nekomata-14b)
+  - The repository contains continual pre-training of qwen-14b on mixed Japanese and English data, enhancing performance on Japanese tasks with an inclusive vocabulary.
+  - Downloads: 669
+- [sbintuitions/modernbert-ja-70m](https://huggingface.co/sbintuitions/modernbert-ja-70m)
+  - The repository offers ModernBERT-Ja-70M, a高效日文变换器模型，结合局部和全局注意力机制，训练于大规模语料库。
   - Downloads: 662
 - [sbintuitions/sarashina1-7b](https://huggingface.co/sbintuitions/sarashina1-7b)
   - Sarashina1-7B This repository provides Japanese language models trained by SB Intuitions.
   - Downloads: 661
-- [stabilityai/japanese-stablelm-instruct-ja_vocab-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-ja_vocab-beta-7b)
-  - A fine-tuned 7B-parameter Japanese language model specifically enhanced for Japanese vocabulary through additional training data.
-  - Downloads: 659
-- [tohoku-nlp/bert-large-japanese](https://huggingface.co/tohoku-nlp/bert-large-japanese)
-  - A BERT large Japanese model pretrained using Unidic-lite and whole word masking on Wikipedia data.
-  - Downloads: 637
-- [karakuri-ai/karakuri-lm-70b-chat-v0.1](https://huggingface.co/karakuri-ai/karakuri-lm-70b-chat-v0.1)
-  - KARAKURI LM is a Japanese-enhanced pretrained language model based on Llama 2, further fine-tuned using SteerLM and continual learning techniques.
-  - Downloads: 637
-- [izumi-lab/bert-small-japanese](https://huggingface.co/izumi-lab/bert-small-japanese)
-  - A BERT small model pretrained on Japanese Wikipedia texts.
-  - Downloads: 630
-- [line-corporation/japanese-large-lm-1.7b-instruction-sft](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft)
-  - This repository offers a 1.7B parameter Japanese language model fine-tuned by LINE Corporation for instruction tuning, along with instructions and usage examples.
-  - Downloads: 628
-- [stockmark/stockmark-13b-instruct](https://huggingface.co/stockmark/stockmark-13b-instruct)
-  - Stockmark-13b-instruct is an instruction-tuned 13 billion parameter Japanese LLM developed by Stockmark Inc., using 2023/11/03 Project of Development of Japanese Instruction data for training.
-  - Downloads: 628
-- [rinna/bilingual-gpt-neox-4b-instruction-ppo](https://huggingface.co/rinna/bilingual-gpt-neox-4b-instruction-ppo)
-  - A 3.8B-parameter GPT-NeoX bilingual English-Japanese model fine-tuned via RLHF for instruction-following conversational tasks.
-  - Downloads: 614
-- [retrieva-jp/bert-1.3b](https://huggingface.co/retrieva-jp/bert-1.3b)
-  - RetrievaBERT is a pre-trained Japanese Transformer Encoder based on Megatron-LM with PreNorm and recent bug fixes.
-  - Downloads: 613
-- [alfredplpl/gemma-2-2b-jpn-it-gguf](https://huggingface.co/alfredplpl/gemma-2-2b-jpn-it-gguf)
-  - Quantized versions of Google's gemma-2-2b-jpn-it model in gguf format with instructions for use and conversion.
-  - Downloads: 604
-- [karakuri-ai/karakuri-lm-70b-v0.1](https://huggingface.co/karakuri-ai/karakuri-lm-70b-v0.1)
-  - KARAKURI LM is a Japanese-enhanced pretrained language model based on Llama 2, further fine-tuned with SteerLM for continuous learning.
-  - Downloads: 595
-- [stabilityai/japanese-stablelm-base-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-beta-7b)
-  - A 7B-parameter Japanese language model fine-tuned for下游任务，基于Llama-2-7b。
-  - Downloads: 578
+- [TheBloke/japanese-stablelm-base-beta-70B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-base-beta-70B-GGUF)
+  - This repository includes quantized GGUF format model files for Stability AI's Japanese StableLM Base Beta 70B, supported by a16z and massed compute.
+  - Downloads: 652
+- [pkshatech/simcse-ja-bert-base-clcmlp](https://huggingface.co/pkshatech/simcse-ja-bert-base-clcmlp)
+  - A Japanese SimCSE model based on BERT-base, trained on JSNLI for extracting sentence embeddings, using sentence-transformers framework with dependencies on fugashi and unidic-lite.
+  - Downloads: 650
 - [KoichiYasuoka/deberta-base-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-aozora-ud-head)
-  - A DeBERTa(V2) model pretrained on Aozora Bunko for dependency parsing and question-answering, using [MASK] to handle ambiguous words.
-  - Downloads: 578
+  - A DeBERTa(V2) model pretrained on Aozora Bunko for dependency parsing and question-answering, using [MASK] to handle ambiguities in multiple-used words.
+  - Downloads: 646
+- [karakuri-ai/karakuri-lm-70b-chat-v0.1](https://huggingface.co/karakuri-ai/karakuri-lm-70b-chat-v0.1)
+  - KARAKURI LM is a pretrained language model based on Llama 2, enhanced with additional Japanese vocabulary and mixed corpora, with a fine-tuned version (KARAKURI LM Chat) trained using SteerLM and continual learning techniques.
+  - Downloads: 637
+- [ken11/albert-base-japanese-v1](https://huggingface.co/ken11/albert-base-japanese-v1)
+  - A pre-trained Japanese ALBERT model for fine-tuning various tasks, using Sentencepiece Tokenizer with specific handling required for the [MASK] token.
+  - Downloads: 629
+- [line-corporation/japanese-large-lm-1.7b-instruction-sft](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft)
+  - This repository offers a 1.7B parameter fine-tuned Japanese language model by LINE Corporation for instruction tuning, along with instructions and usage examples.
+  - Downloads: 627
+- [stabilityai/japanese-stablelm-instruct-alpha-7b-v2](https://huggingface.co/stabilityai/japanese-stablelm-instruct-alpha-7b-v2)
+  - A 7-billion parameter Japanese language model fine-tuned for instruction following, built on Japanese-StableLM-Base-Alpha-7B and further trained on instruction datasets.
+  - Downloads: 615
+- [mmnga/karakuri-lm-32b-thinking-2501-exp-gguf](https://huggingface.co/mmnga/karakuri-lm-32b-thinking-2501-exp-gguf)
+  - A gguf-formatted conversion of karakuri-lm-32b-thinking-2501-exp by karakuri-ai, compatible with ggerganov's llama.cpp for Japanese language model usage.
+  - Downloads: 615
+- [stabilityai/japanese-stablelm-instruct-ja_vocab-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-ja_vocab-beta-7b)
+  - A 7B-parameter fine-tuned Japanese language model based on stableLM, enhanced with an expanded vocabulary for better natural language processing.
+  - Downloads: 610
+- [rinna/bilingual-gpt-neox-4b-instruction-ppo](https://huggingface.co/rinna/bilingual-gpt-neox-4b-instruction-ppo)
+  - A 3.8B parameter GPT-NeoX bilingual English-Japanese model fine-tuned via RLHF for instruction-following conversational tasks.
+  - Downloads: 607
+- [rinna/nekomata-7b](https://huggingface.co/rinna/nekomata-7b)
+  - The GitHub repository rinna/nekomata-7b contains continual pre-trained Qwen-7b on 30B tokens from mixed Japanese and English datasets, enhancing performance on Japanese tasks with an inclusive vocabulary exceeding 150k.
+  - Downloads: 598
+- [stockmark/stockmark-13b-instruct](https://huggingface.co/stockmark/stockmark-13b-instruct)
+  - Stockmark-13b-instruct is an instruction-tuned 13B-parameter Japanese LLM developed by Stockmark Inc., using 2023 data from a Japanese LLM instruction dataset.
+  - Downloads: 596
+- [pfnet/plamo-13b-instruct](https://huggingface.co/pfnet/plamo-13b-instruct)
+  - PLaMo-13B-Instruct is a fine-tuned Japanese language model released under Apache License 2.0 for text generation.
+  - Downloads: 595
+- [karakuri-ai/karakuri-lm-70b-v0.1](https://huggingface.co/karakuri-ai/karakuri-lm-70b-v0.1)
+  - KARAKURI LM is a Japanese-enhanced pretrained language model based on Llama 2, further fine-tuned with a continual learning approach for improved multilingual capabilities.
+  - Downloads: 595
+- [stabilityai/japanese-stablelm-instruct-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-beta-7b)
+  - A Japanese language model, Japanese-StableLM-Instruct-Beta-7B, fine-tuned on Databricks Dolly-15k and Anthropic HH, offers customizable versions for different needs.
+  - Downloads: 586
+- [izumi-lab/bert-small-japanese](https://huggingface.co/izumi-lab/bert-small-japanese)
+  - A BERT small model pretrained on Japanese Wikipedia texts, with architecture details matching those in the original ELECTRA paper.
+  - Downloads: 580
+- [mmnga/Stockmark-2-100B-Instruct-beta-gguf](https://huggingface.co/mmnga/Stockmark-2-100B-Instruct-beta-gguf)
+  - A gguf-formatted version of the Stockmark-2-100B-Instruct-beta model for use with llama.cpp, created from TFMC/imatrix-dataset-for-japanese-llm.
+  - Downloads: 579
 - [llm-jp/llm-jp-13b-instruct-full-dolly_en-dolly_ja-ichikara_003_001-oasst_en-oasst_ja-v1.1](https://huggingface.co/llm-jp/llm-jp-13b-instruct-full-dolly_en-dolly_ja-ichikara_003_001-oasst_en-oasst_ja-v1.1)
-  - The repository offers instruction models for large language models developed by LLM-jp, including variants like dpo-lora, instruct-full, and jaster versions in both Japanese and English.
+  - The repository contains various instruction models for a 13B-parameter language model developed by LLM-jp, including versions in both English and Japanese.
   - Downloads: 577
 - [hotchpotch/japanese-reranker-cross-encoder-base-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-base-v1)
-  - A series of Japanese rerankers (CrossEncoders) with varying model sizes, including base and large models.
+  - A series of Japanese reranking models (CrossEncoders) with varying layers and hidden sizes for text re-ranking tasks.
   - Downloads: 574
-- [MIL-UT/Asagi-14B](https://huggingface.co/MIL-UT/Asagi-14B)
-  - The repository offers Asagi-14B, a large Japanese VLM trained on diverse datasets including synthesized data from CALM3 and Phi3.5, without restrictions on output usage.
-  - Downloads: 567
-- [nlp-waseda/roberta-base-japanese](https://huggingface.co/nlp-waseda/roberta-base-japanese)
-  - A Japanese RoBERTa base model pretrained on Wikipedia and CC-100, suitable for masked language modeling tasks.
-  - Downloads: 565
+- [stockmark/gpt-neox-japanese-1.4b](https://huggingface.co/stockmark/gpt-neox-japanese-1.4b)
+  - A 1.4B parameter GPT-NeoX model pre-trained on Japanese text, developed by Stockmark Inc., optimized for A100 GPUs using bfloat16 precision.
+  - Downloads: 570
 - [tokyotech-llm/Llama-3.1-Swallow-70B-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-v0.1)
   - Llama 3.1 Swallow - Built with Llama Llama 3.1 Swallow is a series of large language models (8B, 70B) that were built by continual pre-training on the Meta Llama 3.1 models.
   - Downloads: 563
-- [bluepen5805/DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf)
-  - A GitHub repository containing the DeepSeek-R1 Distillation model for Qwen-32B in Japanese, licensed under MIT.
-  - Downloads: 561
-- [stabilityai/japanese-stablelm-3b-4e1t-instruct](https://huggingface.co/stabilityai/japanese-stablelm-3b-4e1t-instruct)
-  - A 3-billion parameter Japanese instruction-following model fine-tuned on decoder-only architecture, based on Japanese StableLM-3B-4E1T Base.
-  - Downloads: 555
-- [stockmark/gpt-neox-japanese-1.4b](https://huggingface.co/stockmark/gpt-neox-japanese-1.4b)
-  - This repository offers a 1.4B parameter GPT-NeoX model pre-trained on Japanese text for use with PyTorch.
-  - Downloads: 554
-- [stabilityai/japanese-stablelm-instruct-alpha-7b-v2](https://huggingface.co/stabilityai/japanese-stablelm-instruct-alpha-7b-v2)
-  - japanese-stablelm-instruct-alpha-7b-v2 is a 7B-parameter language model fine-tuned for Japanese instruction following, built on top of the Japanese-StableLM-Base-Alpha-7B.
-  - Downloads: 553
-- [rinna/nekomata-7b](https://huggingface.co/rinna/nekomata-7b)
-  - The GitHub repository rinna/nekomata-7b features continual pre-training of qwen-7b on 30B tokens from mixed Japanese and English datasets, enhancing performance on Japanese tasks with an inclusive vocabulary.
-  - Downloads: 549
+- [hotchpotch/japanese-bge-reranker-v2-m3-v1](https://huggingface.co/hotchpotch/japanese-bge-reranker-v2-m3-v1)
+  - This repository contains Japanese Rerankers (CrossEncoders) with varying layers and hidden sizes, including the highest-performance Japanese Reranker.
+  - Downloads: 559
+- [izumi-lab/deberta-v2-base-japanese](https://huggingface.co/izumi-lab/deberta-v2-base-japanese)
+  - A DeBERTa V2 pretrained on Japanese text, available for masked language modeling using provided code and tokenization.
+  - Downloads: 552
+- [stabilityai/japanese-stablelm-base-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-beta-7b)
+  - Japanese-StableLM-Base-Beta-7B is a 7-billion-parameter language model fine-tuned for Japanese tasks, derived from Llama-2-7b.
+  - Downloads: 547
 - [mmnga/karakuri-lm-70b-chat-v0.1-gguf](https://huggingface.co/mmnga/karakuri-lm-70b-chat-v0.1-gguf)
   - karakuri-lm-70b-chat-v0.1-gguf karakuri-aiさんが公開しているkarakuri-lm-70b-chat-v0.1のggufフォーマット変換版です。
   - Downloads: 545
-- [mmnga/Stockmark-2-100B-Instruct-beta-gguf](https://huggingface.co/mmnga/Stockmark-2-100B-Instruct-beta-gguf)
-  - A gguf-formatted version of the Stockmark-2-100B-Instruct-beta model for use with the llama.cpp framework.
-  - Downloads: 539
-- [ku-nlp/deberta-v2-tiny-japanese-char-wwm](https://huggingface.co/ku-nlp/deberta-v2-tiny-japanese-char-wwm)
-  - A Japanese DeBERTa V2 tiny model pre-trained on specific datasets, using character-level tokenization and whole word masking.
-  - Downloads: 533
-- [ken11/albert-base-japanese-v1](https://huggingface.co/ken11/albert-base-japanese-v1)
-  - A pre-trained Japanese ALBERT base model for fine-tuning on various tasks, using Sentencepiece Tokenizer.
-  - Downloads: 527
 - [stabilityai/japanese-stablelm-base-ja_vocab-beta-7b](https://huggingface.co/stabilityai/japanese-stablelm-base-ja_vocab-beta-7b)
-  - A 7B-parameter Japanese-language model fine-tuned for downstream tasks, using an expanded Japanese vocabulary.
-  - Downloads: 522
-- [sbintuitions/modernbert-ja-70m](https://huggingface.co/sbintuitions/modernbert-ja-70m)
-  - This repository offers a 70M-parameter ModernBERT model for Japanese, trained by SB Intuitions on a large corpus using RoPE and other modern architectures.
-  - Downloads: 520
+  - A 7B-parameter Japanese-language model fine-tuned for downstream Japanese tasks, using an expanded vocabulary derived from Japanese text.
+  - Downloads: 538
+- [alfredplpl/gemma-2-2b-jpn-it-gguf](https://huggingface.co/alfredplpl/gemma-2-2b-jpn-it-gguf)
+  - Quantized versions of Google's gemma-2-2b-jpn-it model in GGUF format with instructions for use and conversion.
+  - Downloads: 535
+- [stabilityai/japanese-stablelm-3b-4e1t-instruct](https://huggingface.co/stabilityai/japanese-stablelm-3b-4e1t-instruct)
+  - A 3 billion-parameter Japanese instruction-following language model fine-tuned on instruct datasets, using the base model Japanese StableLM-3B-4E1T.
+  - Downloads: 523
 - [mmnga/HODACHI-EZO-Common-T2-2B-gemma-2-it-gguf](https://huggingface.co/mmnga/HODACHI-EZO-Common-T2-2B-gemma-2-it-gguf)
   - HODACHI-EZO-Common-T2-2B-gemma-2-it-gguf HODACHIさんが公開しているEZO-Common-T2-2B-gemma-2-itのggufフォーマット変換版です。
   - Downloads: 516
-- [mmnga/DeepSeek-R1-Distill-Qwen-1.5B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-1.5B-gguf)
-  - A gguf-formatted distillation model of DeepSeek-R1-Distill-Qwen-1.5B for use with ggerganov's llama.cpp, trained on imatrix-dataset-for-japanese-llm.
-  - Downloads: 510
 - [mmnga/pfnet-Llama3-Preferred-MedSwallow-70B-gguf](https://huggingface.co/mmnga/pfnet-Llama3-Preferred-MedSwallow-70B-gguf)
   - pfnet-Llama3-Preferred-MedSwallow-70B-gguf pfnetさんが公開しているLlama3-Preferred-MedSwallow-70Bのggufフォーマット変換版です。
   - Downloads: 503
+- [mmnga/DeepSeek-R1-Distill-Qwen-14B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-14B-gguf)
+  - A gguf-formatted distilled version of the DeepSeek-R1 Qwen-14B model, along with instructions for using it with ggerganov's llama.cpp.
+  - Downloads: 493
+- [mmnga/DeepSeek-R1-Distill-Qwen-7B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-7B-gguf)
+  - A gguf-format distillation of DeepSeek-R1-Distill-Qwen-7B for use with ggerganov's llama.cpp, based on imatrix-dataset-for-japanese-llm.
+  - Downloads: 493
+- [llm-jp/llm-jp-3-13b-instruct2](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct2)
+  - This repository offers the llm-jp-3-13b-instruct2 model, part of a series of large language models developed by the National Institute of Informatics.
+  - Downloads: 486
 - [llm-book/bert-base-japanese-v3-jnli](https://huggingface.co/llm-book/bert-base-japanese-v3-jnli)
-  - A fine-tuned BERT model for Japanese natural language inference based on cl-tohoku/bert-base-japanese-v3 and Colab notebooks for training and inference.
-  - Downloads: 499
-- [weblab-GENIAC/Tanuki-8x8B-dpo-v1.0](https://huggingface.co/weblab-GENIAC/Tanuki-8x8B-dpo-v1.0)
-  - Tanuki-8x8B-dpo-v1.0 is an 47B parameter, 8x8B active model fine-tuned for dialogue using SFT and DPO, with quantumized versions available.
-  - Downloads: 482
+  - A fine-tuned Japanese BERT model for natural language inference tasks using the cl-tohoku/bert-base-japanese-v3 and JGLUE MARC-ja dataset.
+  - Downloads: 476
+- [MIL-UT/Asagi-14B](https://huggingface.co/MIL-UT/Asagi-14B)
+  - This repository offers Asagi-14B, a large Japanese VLM trained on diverse data including synthesized content from CALM3-22B-Chat and Phi3.5-vision-instruct.
+  - Downloads: 471
+- [dahara1/gemma-2-2b-it-gguf-japanese-imatrix](https://huggingface.co/dahara1/gemma-2-2b-it-gguf-japanese-imatrix)
+  - A quantized gguf version of gemma-2-2b-it with Japanese support and speculative decoding for faster execution on Windows.
+  - Downloads: 464
 - [pfnet/plamo-13b-instruct-nc](https://huggingface.co/pfnet/plamo-13b-instruct-nc)
-  - PLaMo-13B-Instruct-NC is a noncommercial, instruct-fine-tuned model for Japanese text generation based on PLaMo-13B, licensed under CC-BY-NC-4.0.
-  - Downloads: 482
-- [retrieva-jp/t5-small-short](https://huggingface.co/retrieva-jp/t5-small-short)
-  - A T5 v1.1 model card featuring a Japanese-pretrained Transformer Encoder-Decoder with GEGLU activation, no pre-training dropout, and new size labels "xl" and "xxl".
-  - Downloads: 481
-- [llm-jp/llm-jp-3-vila-14b](https://huggingface.co/llm-jp/llm-jp-3-vila-14b)
-  - This repository offers a Japanese large vision language model (VILA 14B) developed by the National Institute of Informatics, including setup instructions for Python 3.10.12 and necessary library installation.
-  - Downloads: 480
-- [rinna/qwen2.5-bakeneko-32b-instruct-v2-gguf](https://huggingface.co/rinna/qwen2.5-bakeneko-32b-instruct-v2-gguf)
-  - A quantized Japanese instruction-tuning model based on Qwen2.5 Bakeneko 32B, compatible with llama.cpp apps and using GPTQ integer compression techniques.
-  - Downloads: 461
-- [Aratako/calm3-22b-RP-v2-GGUF](https://huggingface.co/Aratako/calm3-22b-RP-v2-GGUF)
-  - A quantized GGUF version of Aratako/calm3-22b-RP-v2, licensed under CC-BY-NC-SA 4.0 due to the inclusion of OpenAI's GPT-4o-mini and Anthropic's Claude 3.5 Sonnet outputs.
-  - Downloads: 454
+  - PLaMo-13B-Instruct-NC is a noncommercial Japanese instruction-tuned model with 8192 context length, fine-tuned on multiple publicly available datasets and released under CC-BY-NC-4.0.
+  - Downloads: 453
 - [mmnga/tokyotech-llm-Llama-3.1-Swallow-70B-Instruct-v0.1-gguf](https://huggingface.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-70B-Instruct-v0.1-gguf)
   - tokyotech-llm-Llama-3.1-Swallow-70B-Instruct-v0.1-gguf tokyotech-llmさんが公開しているLlama-3.1-Swallow-70B-Instruct-v0.1のggufフォーマット変換版です。
   - Downloads: 431
-- [alabnii/jmedroberta-base-sentencepiece](https://huggingface.co/alabnii/jmedroberta-base-sentencepiece)
-  - A Japanese RoBERTa base model pre-trained on medical science articles, released under CC BY-NC-SA 4.0.
-  - Downloads: 427
+- [globis-university/deberta-v3-japanese-base](https://huggingface.co/globis-university/deberta-v3-japanese-base)
+  - A DeBERTa V3 model specialized for Japanese that omits morphological analysis during inference and respects word boundaries.
+  - Downloads: 428
 - [hotchpotch/japanese-splade-base-v1](https://huggingface.co/hotchpotch/japanese-splade-base-v1)
   - 高性能な日本語 SPLADE (Sparse Lexical and Expansion Model) モデルです。
   - Downloads: 426
 - [TFMC/Japanese-Starling-ChatV-7B-GGUF](https://huggingface.co/TFMC/Japanese-Starling-ChatV-7B-GGUF)
-  - A GGUF conversion of a 7B-parameter Japanese chat model derived from "Starling-LM-7B-beta" and chatntq-ja-7b-v1.0, using weights obtained by subtracting Mistral-7B-v0.1.
-  - Downloads: 425
+  - A GGUF conversion of a 7B-parameter Japanese chat model derived from Starling-LM-7B-beta and chatntq-ja-7b-v1.0, using a chat vector obtained by subtracting Mistral-7B-v0.1 weights.
+  - Downloads: 418
 - [QuantFactory/shisa-7b-v1-GGUF](https://huggingface.co/QuantFactory/shisa-7b-v1-GGUF)
   - QuantFactory/shisa-7b-v1-GGUF This is quantized version of augmxnt/shisa-base-7b-v1 created using llama.cpp Model Description shisa-base-7b-v1 takes Mistral 7B and adds an additional 8B tokens of primarily Japanese pre-training.
   - Downloads: 417
+- [mmnga/DeepSeek-R1-Distill-Qwen-1.5B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-1.5B-gguf)
+  - A gguf-formatted distillation of DeepSeek-R1 for Qwen-1.5B, using imatrix-dataset-for-japanese-llm, for inference with llama.cpp.
+  - Downloads: 410
 - [colorfulscoop/sbert-base-ja](https://huggingface.co/colorfulscoop/sbert-base-ja)
-  - This repository contains a pre-trained Sentence BERT base model for Japanese using the colorfulscoop/bert-base-ja and Japanese SNLI dataset.
-  - Downloads: 416
-- [megagonlabs/t5-base-japanese-web](https://huggingface.co/megagonlabs/t5-base-japanese-web)
-  - The megagonlabs/t5-base-japanese-web is a T5 model pre-trained on 32K vocab sized Japanese web texts and Wikipedia, offering byte-fallback support.
-  - Downloads: 404
-- [llm-book/t5-base-long-livedoor-news-corpus](https://huggingface.co/llm-book/t5-base-long-livedoor-news-corpus)
-  - A T5-base model fine-tuned on the large-scale LiveJournal news corpus for text summarization as described in Chapter 7 of "Large Language Model Primer."
-  - Downloads: 381
-- [nlp-waseda/roberta_jtruthfulqa](https://huggingface.co/nlp-waseda/roberta_jtruthfulqa)
-  - Finetuned Waseda RoBERTa for evaluating generated answers on JTruthfulQA.
+  - This repository hosts a pretrained Sentence BERT base model for Japanese using the colorfulscoop/bert-base-ja and Japanese SNLI dataset.
+  - Downloads: 399
+- [mmnga/DeepSeek-R1-Distill-Qwen-32B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Qwen-32B-gguf)
+  - A gguf-formatted distillation of DeepSeek-R1 Qwen-32B model for use with ggerganov's llama.cpp, created from imatrix-dataset-for-japanese-llm.
+  - Downloads: 391
+- [llm-jp/llm-jp-3-vila-14b](https://huggingface.co/llm-jp/llm-jp-3-vila-14b)
+  - This repository offers a large vision-language model (VLM) VILA 14B for natural language and image processing tasks, requiring Python 3.10.12 and specific library installations.
+  - Downloads: 390
+- [Local-Novel-LLM-project/Vecteus-v1](https://huggingface.co/Local-Novel-LLM-project/Vecteus-v1)
+  - VecTeus Ninja-v1 is a novel Mistral-7B-based LLM fine-tuned for 128k context, capable of high-quality Japanese and English generation, NSFW content creation, and memory retention.
   - Downloads: 379
-- [mmnga/AXCXEPT-EZO-phi-4-v2_900-gguf](https://huggingface.co/mmnga/AXCXEPT-EZO-phi-4-v2_900-gguf)
-  - AXXCXEPT-EZO-phi-4-v2_900 gguf model for Japanese LLM, converted by AXCXEPT and using imatrix dataset.
-  - Downloads: 375
 - [mmnga/cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf)
-  - This repository contains a gguf-formatted version of the open-calm-7b model by cyberagent, along with build instructions and usage examples.
+  - A gguf-formatted version of the open-calm-7b model by cyberagent, for use with llama.cpp, available in a usable branch.
   - Downloads: 372
-- [hotchpotch/japanese-bge-reranker-v2-m3-v1](https://huggingface.co/hotchpotch/japanese-bge-reranker-v2-m3-v1)
-  - The repository contains series of Japanese Reranker (CrossEncoder) models with varying layers and hidden sizes, including the highest performing Japanese Reranker.
+- [retrieva-jp/amber-large](https://huggingface.co/retrieva-jp/amber-large)
+  - AMBER is a 315M-parameter bilingual text embedding model trained by Retrieva, Inc., designed for Japanese and English text.
   - Downloads: 369
 - [nappa0326/llama-3-elyza-jp-8b-ft-functioncalling-gguf](https://huggingface.co/nappa0326/llama-3-elyza-jp-8b-ft-functioncalling-gguf)
-  - A model fine-tuned from Llama-3-ELYZA-JP-8B using UnSloth and TRL, licensed under Apache-2.0.
+  - A model finetuned from Llama-3-ELYZA-JP-8B using Unsloth and TRL, licensed under Apache-2.0.
   - Downloads: 364
-- [Local-Novel-LLM-project/Vecteus-v1](https://huggingface.co/Local-Novel-LLM-project/Vecteus-v1)
-  - VecTeus-v1.0 is a novel Mistral-7B-based LLM fine-tuned for 128k context window, supporting high-quality Japanese and English generation, NSFW content, and memory retention.
-  - Downloads: 361
-- [izumi-lab/deberta-v2-base-japanese](https://huggingface.co/izumi-lab/deberta-v2-base-japanese)
-  - A DeBERTa V2 base model pretrained on Japanese text, available for masked language modeling with provided code and instructions.
-  - Downloads: 354
-- [mmnga/DeepSeek-R1-Distill-Llama-8B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Llama-8B-gguf)
-  - A gguf format distillation of the DeepSeek-R1 Llama-8B model by deepseek-ai, utilizing imatrix-dataset-for-japanese-llm, for use with ggerganov's llama.cpp.
-  - Downloads: 352
+- [llm-jp/llm-jp-3-150m-instruct3](https://huggingface.co/llm-jp/llm-jp-3-150m-instruct3)
+  - The repository offers the llm-jp-3-150m-instruct3 model, part of a series developed by the Research and Development Center for Large Language Models at the National Institute of Informatics.
+  - Downloads: 362
+- [studio-ousia/luke-japanese-large-lite](https://huggingface.co/studio-ousia/luke-japanese-large-lite)
+  - The luke-japanese-large-lite is a lightweight Japanese version of LUKE, a pre-trained language model that provides knowledge-enhanced contextualized representations without Wikipedia entity embeddings.
+  - Downloads: 357
+- [bluepen5805/DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf)
+  - A GitHub repository hosting the DeepSeek-R1 Distilled Qwen-32B Japanese gguf model, licensed under MIT.
+  - Downloads: 357
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-GPTQ-4bit](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-GPTQ-4bit)
   - Tanuki-8B-dpo-v1.0-GPTQ-4bit 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0のGPTQ 4bit量子化モデルです。
   - Downloads: 350
+- [alabnii/jmedroberta-base-sentencepiece](https://huggingface.co/alabnii/jmedroberta-base-sentencepiece)
+  - A Japanese RoBERTa base model pre-trained on medical science articles, licensed under CC BY-NC-SA 4.0.
+  - Downloads: 349
 - [QuantFactory/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF](https://huggingface.co/QuantFactory/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF)
   - ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF
   - Downloads: 348
-- [MIL-UT/Asagi-8B](https://huggingface.co/MIL-UT/Asagi-8B)
-  - This repository offers Asagi-8B, a large Japanese vision-and-language model trained on diverse datasets including synthesized content from other models.
-  - Downloads: 346
-- [izumi-lab/bert-base-japanese-fin-additional](https://huggingface.co/izumi-lab/bert-base-japanese-fin-additional)
-  - A BERT base Japanese finance model pretrained on general Japanese texts and additional financial data from Tohoku University.
-  - Downloads: 339
+- [llm-book/t5-base-long-livedoor-news-corpus](https://huggingface.co/llm-book/t5-base-long-livedoor-news-corpus)
+  - It is a T5-base-long model fine-tuned on the liveoor-news-corpus for summarization, as introduced in Chapter 7 of "Large Language Models Made Simple."
+  - Downloads: 343
 - [akiFQC/bert-base-japanese-v3_nli-jsnli](https://huggingface.co/akiFQC/bert-base-japanese-v3_nli-jsnli)
-  - A cross-encoder for Japanese natural language inference trained on JSNLI data and based on BERT.
+  - A cross-encoder for Japanese natural language inference based on BERT, trained on JSNLI, providing entailment, contradiction, and neutral scores.
   - Downloads: 339
 - [alter-wang/bert-base-japanese-emotion-lily](https://huggingface.co/alter-wang/bert-base-japanese-emotion-lily)
   - This is a BERT Base model for emotion analysis in Japanese additionally fine-tuned for emotion detection and classification.
   - Downloads: 338
-- [globis-university/deberta-v3-japanese-base](https://huggingface.co/globis-university/deberta-v3-japanese-base)
-  - A Japanese-specialized DeBERTa V3 model that omits morphological analysis during inference and respects word boundaries.
-  - Downloads: 337
-- [cyberagent/Llama-3.1-70B-Japanese-Instruct-2407](https://huggingface.co/cyberagent/Llama-3.1-70B-Japanese-Instruct-2407)
-  - A Japanese continually pre-trained 70B-parameter LLM based on Meta-Llama-3.1, with instructions in Japanese, using the transformers library for deployment.
-  - Downloads: 337
-- [TheBloke/japanese-stablelm-base-beta-70B-GGUF](https://huggingface.co/TheBloke/japanese-stablelm-base-beta-70B-GGUF)
-  - This repository contains quantized GGUF format model files for Stability AI's Japanese StableLM Base Beta 70B, supported by a16z and Massed Compute.
-  - Downloads: 336
-- [studio-ousia/luke-japanese-base](https://huggingface.co/studio-ousia/luke-japanese-base)
-  - LUKE Japanese is a pre-trained language model that enhances contextual representation with Wikipedia entity embeddings for natural language processing tasks.
-  - Downloads: 327
-- [cl-nagoya/ruri-small-v2](https://huggingface.co/cl-nagoya/ruri-small-v2)
-  - Ruri is a Japanese text embedding model that requires installing Sentence Transformers and can be used after loading the model with specific prefixes for queries and passages.
-  - Downloads: 322
-- [nlp-waseda/roberta-large-japanese-seq512-with-auto-jumanpp](https://huggingface.co/nlp-waseda/roberta-large-japanese-seq512-with-auto-jumanpp)
-  - A Japanese RoBERTa large model pretrained on Wikipedia and CC-100 with a 512 sequence length, usable for masked language modeling.
-  - Downloads: 316
+- [KoichiYasuoka/bert-base-japanese-wikipedia-ud-head](https://huggingface.co/KoichiYasuoka/bert-base-japanese-wikipedia-ud-head)
+  - A BERT model pretrained on Japanese Wikipedia for dependency-parsing and question-answering, using masked language modeling to handle ambiguous words.
+  - Downloads: 331
+- [Aratako/calm3-22b-RP-v2-GGUF](https://huggingface.co/Aratako/calm3-22b-RP-v2-GGUF)
+  - A quantized GGUF version of Aratako/calm3-22b-RP-v2, licensed under CC-BY-NC-SA 4.0 due to the inclusion of data from OpenAI's GPT-4o-mini and Anthropic's Claude 3.5 Sonnet.
+  - Downloads: 317
 - [hajime9652/xlnet-japanese](https://huggingface.co/hajime9652/xlnet-japanese)
-  - This GitHub repository contains an XLNet-japanese model that requires Mecab and sentencepiece with XLNetTokenizer, using NFKD normalization and omits Japanese muddles and semi-muddles, accessible via a custom XLNet class.
-  - Downloads: 310
-- [mmnga/rinna-japanese-gpt-neox-3.6b-gguf](https://huggingface.co/mmnga/rinna-japanese-gpt-neox-3.6b-gguf)
-  - rinna/japanese-gpt-neox-3.6b provides a gguf conversion of the Japanese GPT-NeoX model, with related models available, and instructions for usage.
-  - Downloads: 307
-- [retrieva-jp/amber-large](https://huggingface.co/retrieva-jp/amber-large)
-  - AMBER is a 315M-parameter text embedding model trained by Retrieva, Inc., primarily for Japanese with English support, based on the modernbert-ja-310m architecture.
-  - Downloads: 306
-- [ku-nlp/bart-large-japanese](https://huggingface.co/ku-nlp/bart-large-japanese)
-  - A pre-trained Japanese BART large model for natural language processing tasks, available for use via the transformers library.
-  - Downloads: 286
-- [ku-nlp/bart-base-japanese](https://huggingface.co/ku-nlp/bart-base-japanese)
-  - A pre-trained Japanese BART base model for natural language processing tasks, accessible via Transformer libraries.
-  - Downloads: 273
-- [retrieva-jp/t5-large-medium](https://huggingface.co/retrieva-jp/t5-large-medium)
-  - A T5 v1.1 model card for a Japanese corpus-based Transformer encoder-decoder model with GEGLU activation, no pre-training dropout, and size variants "xl" and "xxl".
-  - Downloads: 271
-- [mmnga/cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf)
-  - A gguf-formatted version of the open-calm-3b model for use with llama.cpp, available for testing.
-  - Downloads: 269
-- [second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF](https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF)
-  - The repository contains the ELYZA Japanese Llama 2 13B fast instruct model configured to run with LlamaEdge v0.2.8+, using a specific prompt template and context size of 5120.
-  - Downloads: 256
-- [elyza/ELYZA-japanese-CodeLlama-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b-instruct)
-  - ELYZA-japanese-CodeLlama-7b is a Japanese-pretrained model derived from CodeLlama, supporting causal language modeling tasks with an additional instruction-tuning stage.
-  - Downloads: 256
-- [alfredplpl/gemma-2-baku-2b-it-gguf](https://huggingface.co/alfredplpl/gemma-2-baku-2b-it-gguf)
-  - Quantized versions of rinna's gemma-2-baku-2b-it model forgemma-2-2b-jpn-it-gguf, usable with tools like llama.cpp and LM Studio. Conversion instructions provided.
-  - Downloads: 252
-- [retrieva-jp/t5-large-long](https://huggingface.co/retrieva-jp/t5-large-long)
-  - A T5 v1.1 model card for a Japanese corpus-trained Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and new size variants "xl" and "xxl".
-  - Downloads: 251
-- [if001/llama2_ja_small](https://huggingface.co/if001/llama2_ja_small)
-  - A Japanese-trained LLaMA2 model (417.12M parameters) using a specific script and tokenizer from the given GitHub link.
-  - Downloads: 242
-- [if001/llama2_ja_ss](https://huggingface.co/if001/llama2_ja_ss)
-  - A Japanese-trained Llama2 model of size 130.78M, using scripts from Lightning-AI/lit-gpt for tokenization and inference.
-  - Downloads: 238
-- [tensorblock/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/tensorblock/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
-  - This repository provides quantized GGUF format model files for cyberagent/Mistral-Nemo-Japanese-Instruct-2408, compatible with llama.cpp, and includes instructions for running on TensorBlock.
-  - Downloads: 233
-- [colorfulscoop/gpt2-small-ja](https://huggingface.co/colorfulscoop/gpt2-small-ja)
-  - A GPT-2 small model trained on a subset of Japanese Wikipedia as of Aug20, 2021.
-  - Downloads: 227
-- [turing-motors/heron-chat-git-ja-stablelm-base-7b-v1](https://huggingface.co/turing-motors/heron-chat-git-ja-stablelm-base-7b-v1)
-  - Heron GIT Japanese StableLM Base 7B is a vision-language model for conversing about images, trained with the heron library and available via provided code and installation guide.
-  - Downloads: 226
-- [mmnga/line-corp-japanese-large-lm-3.6b-instruction-sft-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-3.6b-instruction-sft-gguf)
-  - This repository contains the gguf conversion of the Japanese-large-LM-3.6b-instruction-sft model by Line Corporation, along with related models and usage instructions.
-  - Downloads: 225
-- [oshizo/qa-refine-japanese-gpt-1b](https://huggingface.co/oshizo/qa-refine-japanese-gpt-1b)
-  - This model is trained to perform Extractive QA from context and refine answers in new contexts using gpt-index v0.2.5, focused on two prompt templates and intended for use with the provided examples.
-  - Downloads: 217
-- [aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF](https://huggingface.co/aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF)
-  - This repository offers quantized GGUF versions of the CyberAgent/DeepSeek-R1-Distill-Qwen-14B-Japanese model for different VRAM capacities.
-  - Downloads: 214
+  - This GitHub repository contains an XLNet-japanese model that requires Mecab and sentencepiece with XLNetTokenizer, using NFKD normalization and does not preserve muddles or semi-muddles in Japanese text.
+  - Downloads: 314
 - [umiyuki/Umievo-itr012-Gleipnir-7B](https://huggingface.co/umiyuki/Umievo-itr012-Gleipnir-7B)
-  - This repository contains an evolutionary merge of four strong Japanese language models: Japanese-Starling-ChatV-7B, Ninja-v1-RP-expressive-v2, Vecteus-v1, and Japanese-Chat-Umievo-itr004-7b.
-  - Downloads: 212
+  - This GitHub repository contains an evolutionary merged model combining four powerful Japanese language models using an evolutionary algorithm.
+  - Downloads: 314
+- [mmnga/rinna-japanese-gpt-neox-3.6b-gguf](https://huggingface.co/mmnga/rinna-japanese-gpt-neox-3.6b-gguf)
+  - A gguf conversion of rinna/japanese-gpt-neox-3.6b model, with usage instructions provided for testing.
+  - Downloads: 313
+- [retrieva-jp/t5-large-long](https://huggingface.co/retrieva-jp/t5-large-long)
+  - A T5 v1.1 model card for a Japanese corpus-based Transformer Encoder-Decoder model with GEGLU activation and no embedding-classifier parameter sharing, now available in xl and xxl sizes post-3B versions.
+  - Downloads: 304
+- [nlp-waseda/roberta-base-japanese](https://huggingface.co/nlp-waseda/roberta-base-japanese)
+  - A Japanese RoBERTa base model pretrained on Wikipedia and CC-100, available for masked language modeling.
+  - Downloads: 304
+- [elyza/ELYZA-japanese-CodeLlama-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b-instruct)
+  - ELYZA-japanese-CodeLlama-7b is a Japanese-trained model derived from CodeLlama, suitable for causal language tasks; it includes additional pre-training for Japanese and comes with instructions for usage via Python.
+  - Downloads: 301
+- [weblab-GENIAC/Tanuki-8x8B-dpo-v1.0](https://huggingface.co/weblab-GENIAC/Tanuki-8x8B-dpo-v1.0)
+  - Tanuki-8x8B-dpo-v1.0 is an 47B-parameter large language model fine-tuned for dialogue using SFT and DPO, with 4-bit and GGUF quantized versions available.
+  - Downloads: 301
+- [ku-nlp/bart-large-japanese](https://huggingface.co/ku-nlp/bart-large-japanese)
+  - A pre-trained Japanese BART large model for natural language processing tasks, available for use with the transformers library.
+  - Downloads: 295
+- [mmnga/DeepSeek-R1-Distill-Llama-8B-gguf](https://huggingface.co/mmnga/DeepSeek-R1-Distill-Llama-8B-gguf)
+  - A gguf-format conversion of DeepSeek-R1-Distill-Llama-8B, using imatrix-dataset-for-japanese-llm data, for running with llama.cpp.
+  - Downloads: 293
+- [globis-university/deberta-v3-japanese-xsmall](https://huggingface.co/globis-university/deberta-v3-japanese-xsmall)
+  - A DeBERTa V3 model specialized for Japanese with morphological analysis omitted during inference and moderate respect for word boundaries.
+  - Downloads: 292
+- [nlp-waseda/roberta_jtruthfulqa](https://huggingface.co/nlp-waseda/roberta_jtruthfulqa)
+  - Fintuned Waseda RoBERTa for evaluating generated answers on JTruthfulQA.
+  - Downloads: 287
+- [MIL-UT/Asagi-8B](https://huggingface.co/MIL-UT/Asagi-8B)
+  - This repository offers Asagi-8B, a large Japanese VLM trained on diverse and synthesized data sources, excluding LLMs with output-use restrictions.
+  - Downloads: 283
+- [izumi-lab/bert-base-japanese-fin-additional](https://huggingface.co/izumi-lab/bert-base-japanese-fin-additional)
+  - A BERT base model pretrained on Japanese texts, including a finance corpus from Tohoku University.
+  - Downloads: 279
+- [megagonlabs/t5-base-japanese-web](https://huggingface.co/megagonlabs/t5-base-japanese-web)
+  - The megagonlabs/t5-base-japanese-web repository contains T5 model pre-trained on Japanese web texts and Wikipedia with a vocabulary size of 32K.
+  - Downloads: 271
+- [studio-ousia/luke-japanese-base](https://huggingface.co/studio-ousia/luke-japanese-base)
+  - Luke-japanese is a Japanese-language pre-trained model that provides knowledge-enhanced contextual representations, treating words and entities as independent tokens and incorporating Wikipedia entity embeddings.
+  - Downloads: 271
+- [retrieva-jp/bert-1.3b](https://huggingface.co/retrieva-jp/bert-1.3b)
+  - RetrievaBERT is a pre-trained JapaneseTransformer Encoder based on Megatron-LM with PreNorm and other advanced features, released in v1.0.1 with bug fixes.
+  - Downloads: 271
+- [mmnga/AXCXEPT-EZO-phi-4-v2_900-gguf](https://huggingface.co/mmnga/AXCXEPT-EZO-phi-4-v2_900-gguf)
+  - A GitHub repository containing a gguf-formatted conversion of AXCXEPT-EZO-phi-4-v2_900 for use with llama.cpp, including setup instructions and usage example.
+  - Downloads: 269
+- [mmnga/cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf)
+  - A gguf-formatted version of the open-calm-3b model for use with llama.cpp, available for testing purposes.
+  - Downloads: 269
+- [cyberagent/Llama-3.1-70B-Japanese-Instruct-2407](https://huggingface.co/cyberagent/Llama-3.1-70B-Japanese-Instruct-2407)
+  - A Japanese instruction-tuned version of Meta-Llama-3.1-70B, optimized for causal language modeling with detailed setup instructions included.
+  - Downloads: 268
+- [mmnga/line-corp-japanese-large-lm-3.6b-instruction-sft-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-3.6b-instruction-sft-gguf)
+  - This repository contains a gguf conversion of the Japanese large language model 3.6B instruction fine-tuning version by line-corporation, along with related models and usage instructions.
+  - Downloads: 242
+- [alfredplpl/gemma-2-baku-2b-it-gguf](https://huggingface.co/alfredplpl/gemma-2-baku-2b-it-gguf)
+  - Quantized versions of rinna's gemma-2-baku-2b-it model for use with llama.cpp, LM Studio, and LLMFarm, available under a licensed terms. Conversion from npaka's LLM-jp-3 to gguf format included.
+  - Downloads: 239
+- [tokyotech-llm/Llama-3.3-Swallow-70B-v0.4](https://huggingface.co/tokyotech-llm/Llama-3.3-Swallow-70B-v0.4)
+  - Llama 3.3 Swallow is a 70B-parameter language model trained to enhance Japanese capabilities while maintaining English proficiency, using over 315 billion tokens from various sources.
+  - Downloads: 237
+- [second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF](https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF)
+  - The repository provides the ELYZA Japanese Llama-2 13B fast instruct model configured for use with LlamaEdge v0.2.8+, including a specific prompt template and service run command.
+  - Downloads: 236
+- [oshizo/qa-refine-japanese-gpt-1b](https://huggingface.co/oshizo/qa-refine-japanese-gpt-1b)
+  - A model trained on gpt-index v0.2.5 for context-based Q&A and answer refinement, using two prompt templates.
+  - Downloads: 233
+- [turing-motors/heron-chat-git-ja-stablelm-base-7b-v1](https://huggingface.co/turing-motors/heron-chat-git-ja-stablelm-base-7b-v1)
+  - Heron GIT Japanese StableLM Base 7B is a vision-language model for image conversation using the Heron library.
+  - Downloads: 226
+- [mmnga/line-corp-japanese-large-lm-3.6b-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-3.6b-gguf)
+  - A gguf conversion of the Japanese-large-lm-3.6b model by line-corporation, along with other models and usage instructions for testing.
+  - Downloads: 223
 - [nitky/Llama-3.3-SuperSwallow-70B-Instruct-v0.1](https://huggingface.co/nitky/Llama-3.3-SuperSwallow-70B-Instruct-v0.1)
-  - This repository merges pre-trained language models to create a Japanese-language instruct model named Llama-3.3-SuperSwallow-70B-Instruct-v0.1, incorporating Gemini 2.0 for enhanced functionality.
-  - Downloads: 211
+  - Llama-3.3-SuperSwallow-70B-Instruct-v0.1 is a merged pre-trained language model showcasing Japanese-RP benchmarks and Gemini-FLS dialogues.
+  - Downloads: 222
+- [izumi-lab/deberta-v2-small-japanese](https://huggingface.co/izumi-lab/deberta-v2-small-japanese)
+  - A pre-trained DeBERTaV2 small Japanese model for masked language modeling, available under the "izumi-lab/deberta-v2-small-japanese" repository.
+  - Downloads: 222
+- [retrieva-jp/t5-small-short](https://huggingface.co/retrieva-jp/t5-small-short)
+  - A T5 v1.1 model card for a Japanese-pretrained Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and new size labels "xl" and "xxl".
+  - Downloads: 216
 - [LoneWolfgang/bert-for-japanese-twitter-sentiment](https://huggingface.co/LoneWolfgang/bert-for-japanese-twitter-sentiment)
   - BERT for Sentiment Analysis of Japanese Twitter
   - Downloads: 210
-- [ybelkada/japanese-roberta-question-answering](https://huggingface.co/ybelkada/japanese-roberta-question-answering)
-  - A RoBERTa base Japanese model fine-tuned on JaQuAD for Japanese question answering tasks.
-  - Downloads: 209
+- [ku-nlp/bart-base-japanese](https://huggingface.co/ku-nlp/bart-base-japanese)
+  - A pre-trained Japanese BART base model using Wikipedia data, with instructions for usage via Hugging Face's transformers library.
+  - Downloads: 206
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-GPTQ-8bit](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-GPTQ-8bit)
   - Tanuki-8B-dpo-v1.0-GPTQ-8bit 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0のGPTQ 8bit量子化モデルです。
   - Downloads: 202
-- [llm-jp/llm-jp-3-150m-instruct3](https://huggingface.co/llm-jp/llm-jp-3-150m-instruct3)
-  - The repository contains the llm-jp-3-150m-instruct3 model from the National Institute of Informatics' R&D Center for Large Language Models, with requirements for specific versions of PyTorch and Transformers.
-  - Downloads: 200
-- [ysakuramoto/mobilebert-ja](https://huggingface.co/ysakuramoto/mobilebert-ja)
-  - Sakuramoto has created a pre-trained Japanese MobileBERT model for fast BERT inference, adaptable with existing transformers libraries.
-  - Downloads: 199
-- [mmnga/line-corp-japanese-large-lm-3.6b-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-3.6b-gguf)
-  - A gguf conversion of the Japanese large language model line-corporation/japanese-large-lm-3.6b for use with llama.cpp.
-  - Downloads: 198
-- [turing-motors/heron-chat-git-ja-stablelm-base-7b-v0](https://huggingface.co/turing-motors/heron-chat-git-ja-stablelm-base-7b-v0)
-  - A vision-language model named Heron GIT Japanese StableLM Base 7B that can converse about input images, using the heron library for training and inference.
-  - Downloads: 197
+- [ybelkada/japanese-roberta-question-answering](https://huggingface.co/ybelkada/japanese-roberta-question-answering)
+  - A RoBERTa base Japanese model fine-tuned on JaQuAD for question answering.
+  - Downloads: 193
+- [Ivydata/whisper-base-japanese](https://huggingface.co/Ivydata/whisper-base-japanese)
+  - A fine-tuned Japanese Whisper model for speech recognition using openai/whisper-base on Common Voice, JVS, and JSUT, requiring 16kHz sampling.
+  - Downloads: 190
 - [alfredplpl/llm-jp-3-1.8b-instruct-gguf](https://huggingface.co/alfredplpl/llm-jp-3-1.8b-instruct-gguf)
-  - Quantized versions of LLM-jp-3-1.8b-instruct models for use with llama.cpp LM Studio (Windows/Mac) and LLMFarm (iOS), including conversion instructions from npaka's LLM-jp-3 to gguf format.
+  - Quantized versions of LLM-jp-3-1.8b-instruct models for use with llama.cpp LM Studio (Windows, Mac) and LLMFarm (iOS), along with conversion instructions from npaka's LLM-jp-3 to gguf format.
   - Downloads: 187
-- [KoichiYasuoka/bert-base-japanese-wikipedia-ud-head](https://huggingface.co/KoichiYasuoka/bert-base-japanese-wikipedia-ud-head)
-  - A BERT model pretrained on Japanese Wikipedia for dependency-parsing and question-answering, using [MASK] to handle ambiguity in multiple-used words.
+- [tohoku-nlp/bert-large-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-char-v2)
+  - A BERT large Japanese model pretrained using character-level tokenization and whole word masking on CC-100 and jawiki-20230102 datasets.
   - Downloads: 186
-- [MIL-UT/Asagi-2B](https://huggingface.co/MIL-UT/Asagi-2B)
-  - The repository offers Asagi-2B, a large Japanese VLM trained on diverse datasets including synthesized data from CALM3 and Phi models.
+- [retrieva-jp/t5-large-medium](https://huggingface.co/retrieva-jp/t5-large-medium)
+  - A T5 v1.1 model, pre-trained on Japanese data with GEGLU activation and no dropout, using "xl" and "xxl" sizes instead of "3B".
+  - Downloads: 186
+- [turing-motors/heron-chat-git-ja-stablelm-base-7b-v0](https://huggingface.co/turing-motors/heron-chat-git-ja-stablelm-base-7b-v0)
+  - A Japanese StableLM Base 7B vision-language model for conversing about input images, utilizing the Heron GIT library.
+  - Downloads: 185
+- [mmnga/llm-jp-3-8x13b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-8x13b-instruct3-gguf)
+  - A gguf-formatted version of llm-jp-3-8x13b-instruct3, created by llm-jp, using imatrix-dataset-for-japanese-llm, for use with llama.cpp.
   - Downloads: 185
 - [daisaku-s/medtxt_ner_roberta](https://huggingface.co/daisaku-s/medtxt_ner_roberta)
-  - A fine-tuned RoBERTa model for named entity extraction in Japanese medical text using MedTxt-CR, tagging entities like symptoms, organs, tests, drugs, and more.
+  - A fine-tuned RoBERTa model for extracting medical entity tags from Japanese text using MedTxt-CR, including disease/symptoms, organs/departments, features/measures, changes, time expressions, tests, test items/values, drugs/drug values, procedures, clinical context, andothers.
   - Downloads: 182
-- [Ivydata/whisper-base-japanese](https://huggingface.co/Ivydata/whisper-base-japanese)
-  - A fine-tuned Japanese Whisper model for speech recognition from openai/whisper-base using Common Voice, JVS, and JSUT datasets.
+- [ysakuramoto/mobilebert-ja](https://huggingface.co/ysakuramoto/mobilebert-ja)
+  - Sakuramoto has developed a Japanese-pretrained MobileBERT model for fast BERT inference, compatible with the transformers library.
   - Downloads: 179
 - [hitachi-nlp/bert-base-japanese_jumanpp-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_jumanpp-bpe)
-  - Key tokenizer instructions for loading Japanese BERT-base (Juman++ + BPE) from a dictionary file.
+  - The repository provides a Japanese BERT-base tokenizer using Juman++ + BPE, requiring users to download the dictionary file and specify its path for loading.
   - Downloads: 178
-- [izumi-lab/bert-small-japanese-fin](https://huggingface.co/izumi-lab/bert-small-japanese-fin)
-  - A BERT small model pretrained on Japanese Wikipedia and a financial corpus, with details on its architecture and training data.
+- [nlp-waseda/roberta-large-japanese-seq512-with-auto-jumanpp](https://huggingface.co/nlp-waseda/roberta-large-japanese-seq512-with-auto-jumanpp)
+  - A Japanese RoBERTa large pretrained model with a 512-max sequence length, suitable for masked language modeling.
   - Downloads: 177
-- [ku-nlp/roberta-base-japanese-char-wwm](https://huggingface.co/ku-nlp/roberta-base-japanese-char-wwm)
-  - A Japanese RoBERTa base model pre-trained on Wikipedia and CC-100 with character-level tokenization and whole word masking.
-  - Downloads: 172
-- [AXCXEPT/phi-4-open-R1-Distill-EZOv1](https://huggingface.co/AXCXEPT/phi-4-open-R1-Distill-EZOv1)
-  - This model, based on the phi-4 framework and using open-r1, mimics Deepseek-R1's Distill methodology to provide Japanese responses with English flexibility.
-  - Downloads: 171
-- [tsmatz/roberta_qa_japanese](https://huggingface.co/tsmatz/roberta_qa_japanese)
-  - A fine-tuned RoBERTa model for extractive question answering on Japanese, trained on the JaQuAD dataset.
-  - Downloads: 171
-- [sakuraumi/Sakura-13B-Galgame](https://huggingface.co/sakuraumi/Sakura-13B-Galgame)
-  - SakuraLLM is an open-source SFT and RLHF model for Japanese to Chinese translation in ACGN domain, built on开源大模型并在通用日文及轻小说/Galgame语料上微调，采用CC BY-NC-SA 4.0协议，仅限学习交流使用。
-  - Downloads: 171
-- [watashiha/watashiha-gpt-6b](https://huggingface.co/watashiha/watashiha-gpt-6b)
-  - A GPT2-based 6B parameter language model fine-tuned on 693 million punchline datasets for humor, using pre-trained on extensive corpora including C4, CC-100, OSCAR, and Wikipedia. Licensed under Apache 2. 0.
-  - Downloads: 168
 - [Formzu/bert-base-japanese-jsnli](https://huggingface.co/Formzu/bert-base-japanese-jsnli)
-  - A fine-tuned BERT model for Japanese zero-shot classification on JSNLI, achieving 92.88% accuracy, available via a simple pipeline from the transformers library.
-  - Downloads: 163
-- [Tanrei/GPTSAN-japanese](https://huggingface.co/Tanrei/GPTSAN-japanese)
-  - The GitHub repository contains a Model Card for Tanrei/GPTSAN-japanese, a general-purpose transformer model for Japanese that uses a Prefix-LM structure and includes a Spout vector for flexible fine-tuning.
-  - Downloads: 163
-- [llm-jp/llm-jp-3-980m-instruct3](https://huggingface.co/llm-jp/llm-jp-3-980m-instruct3)
-  - The repository provides the llm-jp-3-980m-instruct3 model for large language processing, part of a series developed by the National Institute of Informatics' R&D Center for Large Language Models.
-  - Downloads: 162
-- [alfredplpl/llm-jp-3-3.7b-instruct-gguf](https://huggingface.co/alfredplpl/llm-jp-3-3.7b-instruct-gguf)
-  - Quantized versions of LLM-jp-3-3.7b-instruct models for use with llama.cpp LM Studio (Windows, Mac) and LLMFarm (iOS), along with conversion instructions from npaka’s LLM-jp-3 to gguf format.
-  - Downloads: 160
-- [stockmark/bart-base-japanese-news](https://huggingface.co/stockmark/bart-base-japanese-news)
-  - A Stockmark Inc.-trained Japanese BART model, providing a base-sized transformer seq2seq model pre-trained through text corruption and auto-regressive learning.
-  - Downloads: 158
-- [KoichiYasuoka/deberta-base-japanese-wikipedia](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia)
-  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 texts, trained on an NVIDIA A100-SXM4-40GB for 109 hours, suitable for fine-tuning tasks like POS-tagging.
-  - Downloads: 155
+  - A fine-tuned BERT model for Japanese zero-shot classification on JSNLI dataset, achieving high accuracy; usage involves importing a transformers pipeline.
+  - Downloads: 174
+- [watashiha/watashiha-gpt-6b](https://huggingface.co/watashiha/watashiha-gpt-6b)
+  - A GPT2-based 6B parameter language model fine-tuned on 693万条大喜利 data using AWS trn1 instances, pre-trained with 477 billion tokens from various corpora. Licensed under Apache License 2.0.
+  - Downloads: 173
 - [qqpann/w2v_hf_jsut_xlsr53](https://huggingface.co/qqpann/w2v_hf_jsut_xlsr53)
   - A fine-tuned Wav2Vec2-Large-XLSR-53 model for Japanese, usable at 16kHz sampling rate.
-  - Downloads: 151
-- [megagonlabs/transformers-ud-japanese-electra-base-discriminator](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-discriminator)
-  - A pre-trained Japanese ELECTRA model using SudachiTra tokenization and WordPiece subword handling for approximately 200 million sentences.
+  - Downloads: 168
+- [llm-jp/llm-jp-3-150m](https://huggingface.co/llm-jp/llm-jp-3-150m)
+  - The GitHub repository provides the llm-jp-3-150m model from the National Institute of Informatics' R&D Center for Large Language Models, with dependencies including torch version ≥2.3.0, transformers version ≥4.40.1, and tokenizers version ≥0.
+  - Downloads: 163
+- [ku-nlp/roberta-base-japanese-char-wwm](https://huggingface.co/ku-nlp/roberta-base-japanese-char-wwm)
+  - A Japanese RoBERTa base model pre-trained on Wikipedia and CC-100 with character-level tokenization and whole word masking, suitable for masked language modeling.
+  - Downloads: 160
+- [AIBunCho/japanese-novel-gpt-j-6b](https://huggingface.co/AIBunCho/japanese-novel-gpt-j-6b)
+  - A Japanese novel generation model based on GPT-J-6B fine-tuned for two weeks on novels after pre-training on Japanese data.
+  - Downloads: 160
+- [alfredplpl/llm-jp-3-3.7b-instruct-gguf](https://huggingface.co/alfredplpl/llm-jp-3-3.7b-instruct-gguf)
+  - Quantized version of LLM-jp-3-3.7b-instruct model for use with llama.cpp LM Studio (Windows, macOS) and LLMFarm (iOS), converted by following npaka's instructions into the GGUF format.
+  - Downloads: 160
+- [Tanrei/GPTSAN-japanese](https://huggingface.co/Tanrei/GPTSAN-japanese)
+  - GPTSAN is a general-purpose switch transformer model for Japanese that uses Prefix-LM and includes a unique Spout input for fine-tuning.
+  - Downloads: 152
+- [yasu-oh/Llama-3.3-Swallow-70B-Instruct-v0.4-GGUF](https://huggingface.co/yasu-oh/Llama-3.3-Swallow-70B-Instruct-v0.4-GGUF)
+  - A GitHub repository using the Llama-3.3-Swallow-70B-Instruct-v0.4 base model and the imatrix dataset for Japanese language processing.
+  - Downloads: 150
+- [tensorblock/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/tensorblock/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
+  - This repo includes GGUF format model files for cyberagent/Mistral-Nemo-Japanese-Instruct-2408, quantized by TensorBlock and compatible with llama.cpp.
   - Downloads: 150
 - [Kendamarron/Tokara-0.5B-Chat-v0.1](https://huggingface.co/Kendamarron/Tokara-0.5B-Chat-v0.1)
   - モデルについて Qwen/Qwen1.5-0.5Bを日英データ5Bトークンで継続事前学習したTokara-0.5B-v0.1にchat vectorで対話能力を加えたモデルになります。
   - Downloads: 150
-- [megagonlabs/transformers-ud-japanese-electra-base-ginza](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza)
-  - An ELECTRA model pretrained on 200M mC4 Japanese sentences and fine-tuned on UD_Japanese_BCCWJ r2.8 using spaCy v3, requiring SudachiTra for tokenization.
+- [mmnga/llm-jp-3-8x1.8b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-8x1.8b-instruct3-gguf)
+  - A gguf-formatted conversion of llm-jp-3-8x1.8b-instruct3 by llm-jp, using imatrix data from TFMC/imatrix-dataset-for-japanese-llm, for use with llama.cpp.
+  - Downloads: 146
+- [KoichiYasuoka/deberta-large-japanese-unidic](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-unidic)
+  - A DeBERTa(V2) model pre-trained on Japanese texts for tasks like POS-tagging and dependency-parsing, using BertJapaneseTokenizer.
   - Downloads: 145
-- [AIBunCho/japanese-novel-gpt-j-6b](https://huggingface.co/AIBunCho/japanese-novel-gpt-j-6b)
-  - A Japanese novel-specific language model based on GPT-J-6B trained for 4 weeks using TPU and fine-tuned on novel data.
-  - Downloads: 145
-- [microsoft/unihanlm-base](https://huggingface.co/microsoft/unihanlm-base)
-  - UnihanLM is a self-supervised pretraining model for Chinese and Japanese that merges morphological similarities using a two-stage coarse-to-fine approach from the Unihan database.
-  - Downloads: 144
+- [KoichiYasuoka/deberta-base-japanese-unidic](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-unidic)
+  - A DeBERTa(V2) model pre-trained on Japanese texts from 青空文庫, compatible with BertJapaneseTokenizer, for tasks like POS-tagging and dependency-parsing.
+  - Downloads: 143
 - [HPLT/hplt_bert_base_ja](https://huggingface.co/HPLT/hplt_bert_base_ja)
   - HPLT Bert for Japanese This is one of the encoder-only monolingual language models trained as a first release by the HPLT project.
   - Downloads: 142
 - [eliashasnat/phi-3](https://huggingface.co/eliashasnat/phi-3)
   - モデル ベースモデル：microsoft/Phi-3-mini-4k-instruct 学習データセット：llm-jp/hh-rlhf-12k-ja 学習方式：フルパラメータチューニング サンプル import torch from transformers import AutoTokenizer, AutoModelForCausalLM tokenizer = AutoTokenizer.from_pretrained( "ryota39/Phi-3-mini-4k-instruct-dpo", trust_remote_code=True, ) model = AutoModelForCausalLM.from_pretrained( "ryota39/Phi-3-mini-4k-instruct-dpo", device_map="auto", torch_dtype='auto', trust_remote_code=True, ) text = "&lt;|user|&gt;\n与えられた質問に対して英語で思考し、日本語で答えてください。
   - Downloads: 141
-- [aken12/splade-japanese-efficient](https://huggingface.co/aken12/splade-japanese-efficient)
-  - This repository focuses on research and analysis at the National Institute of Science and Technology in Tsukuba, Japan, with an emphasis on advanced experiments and student projects in the Kanto region.
+- [nlp-waseda/roberta-large-japanese-seq512](https://huggingface.co/nlp-waseda/roberta-large-japanese-seq512)
+  - A large Japanese RoBERTa model pretrained on Wikipedia and CC-100 with a 512-sequence length, suitable for masked language modeling.
+  - Downloads: 140
+- [nlp-waseda/roberta-large-japanese-with-auto-jumanpp](https://huggingface.co/nlp-waseda/roberta-large-japanese-with-auto-jumanpp)
+  - A Japanese RoBERTa large model pretrained on Wikipedia and CC-100, usable for masked language modeling.
   - Downloads: 139
-- [KoichiYasuoka/deberta-large-japanese-unidic](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-unidic)
-  - A DeBERTa(V2) model fine-tuned on Japanese texts from 青空文庫, suitable for tasks like POS-tagging and dependency-parsing.
-  - Downloads: 137
-- [SkelterLabsInc/bert-base-japanese-jaquad](https://huggingface.co/SkelterLabsInc/bert-base-japanese-jaquad)
-  - A BERT-based Japanese model fine-tuned on JaQuAD with evaluation F1 scores of 78.92 and 77.35 on test and development sets, respectively, achieving exact match rates of 63.38 and 61.01.
-  - Downloads: 136
-- [inu-ai/dolly-japanese-gpt-1b](https://huggingface.co/inu-ai/dolly-japanese-gpt-1b)
-  - The repository includes updates to a dialogue system model trained with Japanese datasets, improving the conversation history length but reducing response accuracy on certain questions.
-  - Downloads: 136
-- [llm-jp/llm-jp-3-150m](https://huggingface.co/llm-jp/llm-jp-3-150m)
-  - The repository offers the llm-jp-3-150m model from the LLM-jp-3 series developed by the National Institute of Informatics, with requirements for checkpoints and dependencies specified.
-  - Downloads: 136
-- [tohoku-nlp/bert-large-japanese-char](https://huggingface.co/tohoku-nlp/bert-large-japanese-char)
-  - A BERT large Japanese model pretrained using character-level tokenization and whole word masking on Wikipedia data from 2020.
-  - Downloads: 134
-- [ttop324/wav2vec2-live-japanese](https://huggingface.co/ttop324/wav2vec2-live-japanese)
-  - A fine-tuned wav2vec2-large-xlsr-53 model for Japanese hiragana inference using JSUT, CSS10, TEDxJP-10K, and JVS datasets.
-  - Downloads: 134
-- [colorfulscoop/bert-base-ja](https://huggingface.co/colorfulscoop/bert-base-ja)
-  - A BERT base model trained on a Japanese Wikipedia dataset from June 20, 2021.
-  - Downloads: 133
-- [isek-ai/isekai-bert-v1](https://huggingface.co/isek-ai/isekai-bert-v1)
-  - A fine-tuned BERT model for an unknown dataset achieving a loss of 1.9164, trained with specific hyperparameters.
-  - Downloads: 132
-- [tokyotech-llm/Llama-3.3-Swallow-70B-v0.4](https://huggingface.co/tokyotech-llm/Llama-3.3-Swallow-70B-v0.4)
-  - Llama 3.3 Swallow is a 70B parameter language model built through continual pre-training on Meta Llama 3.3, enhanced for Japanese while preserving English capabilities using a large Japanese corpus and additional content.
-  - Downloads: 131
-- [retrieva-jp/t5-xl](https://huggingface.co/retrieva-jp/t5-xl)
-  - A T5 v1.1 model card for a Japanese corpus-based Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and sizes "xl" and "xxl" replacing "3B".
-  - Downloads: 131
+- [tsmatz/roberta_qa_japanese](https://huggingface.co/tsmatz/roberta_qa_japanese)
+  - A fine-tuned RoBERTa model for extractive question answering on Japanese, trained on the JaQuAD dataset and available via Hugging Face.
+  - Downloads: 139
+- [aken12/splade-japanese-efficient](https://huggingface.co/aken12/splade-japanese-efficient)
+  - The repository focuses on research and analysis at the National Tsukuba University campus, including projects, discussions, and regional investigations in Japan's Kanto region.
+  - Downloads: 139
 - [cinmodel/electra-small-japanese-generator](https://huggingface.co/cinmodel/electra-small-japanese-generator)
-  - A Japanese ELECTRA-Small model pre-trained using Byte-Pair Encoding subwords from Wikipedia, built on mecab-ipadic-NEologd tokenization.
-  - Downloads: 131
+  - A Japanese ELECTRA-Small model based on subword units from Japanese Wikipedia using Byte-Pair Encoding and MeCab tokenization for text encoder pretraining.
+  - Downloads: 138
+- [tohoku-nlp/tohokunlp-bert-500m-sq8192-alpha](https://huggingface.co/tohoku-nlp/tohokunlp-bert-500m-sq8192-alpha)
+  - TohokuNLP BERT-alpha 500M supports input sequences up to 8,192 tokens and has been validated with transformers version 4.46.2.
+  - Downloads: 136
+- [MIL-UT/Asagi-2B](https://huggingface.co/MIL-UT/Asagi-2B)
+  - The repository offers Asagi-2B, a large Japanese VLM trained on extensive datasets including synthesized data from CALM3-22B-Chat and Phi3.5-vision-instruct.
+  - Downloads: 135
+- [llm-jp/llm-jp-3-980m-instruct3](https://huggingface.co/llm-jp/llm-jp-3-980m-instruct3)
+  - The repository offers the llm-jp-3-980m-instruct3 model, part of a series of large language models developed by the National Institute of Informatics for Japanese instruction-tuned applications.
+  - Downloads: 135
+- [llm-jp/llm-jp-3-980m](https://huggingface.co/llm-jp/llm-jp-3-980m)
+  - The GitHub repository provides the llm-jp-3-980m model from the National Institute of Informatics' R&D Center for Large Language Models, with Hugging Face Transformers-compatible checkpoints and required library versions specified.
+  - Downloads: 134
 - [llm-jp/llm-jp-3-440m-instruct3](https://huggingface.co/llm-jp/llm-jp-3-440m-instruct3)
-  - The repository offers the llm-jp-3-440m-instruct3 model from the National Institute of Informatics, part of a series of large language models for Japanese instruction tasks.
+  - The repository offers the llm-jp-3-440m-instruct3 model, part of a series developed by the National Institute of Informatics for large language processing in Japanese.
+  - Downloads: 134
+- [retrieva-jp/t5-xl](https://huggingface.co/retrieva-jp/t5-xl)
+  - A T5 v1.1 model card for a Japanese corpus-based Transformer encoder-decoder model with GEGLU activation, no pre-training dropout, and new size variants "xl" and "xxl".
   - Downloads: 130
 - [nitky/AtheneX-V2-72B-instruct](https://huggingface.co/nitky/AtheneX-V2-72B-instruct)
   - AtheneX-V2-72B-instruct This is a merge of pre-trained language models created using mergekit.
   - Downloads: 130
-- [A-Funakoshi/bert-finetuned-multilingual-sentiments-adamw](https://huggingface.co/A-Funakoshi/bert-finetuned-multilingual-sentiments-adamw)
-  - A BERT-based Japanese model using Optuna for hyperparameter tuning with a cosine learning rate schedule, gradient accumulation steps of 1, and weight decay of 0.00017.
-  - Downloads: 129
 - [cameltech/japanese-gpt-1b-PII-masking](https://huggingface.co/cameltech/japanese-gpt-1b-PII-masking)
-  - A pretrained Japanese GPT-1B model trained to mask PII in texts, replacing specific types of personal information with placeholders.
+  - A pre-trained 1B Japanese GPT model fine-tuned to mask personal information in text, including names, birthdays, phone numbers, email addresses, customer IDs, addresses, postal codes, and company names.
   - Downloads: 129
-- [KoichiYasuoka/deberta-base-japanese-unidic](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-unidic)
-  - A DeBERTa(V2) model pre-trained on Japanese texts from 青空文庫, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+- [retrieva-jp/t5-base-medium](https://huggingface.co/retrieva-jp/t5-base-medium)
+  - A T5 v1.1 model card for a Japanese corpus-pretrained model featuring GEGLU activation, no pre-training dropout, and size variations "xl" and "xxl" replacing "3B".
   - Downloads: 128
-- [ku-nlp/gpt2-medium-japanese-char](https://huggingface.co/ku-nlp/gpt2-medium-japanese-char)
-  - A Japanese character-level GPT-2 Medium (310M parameters) model pre-trained on specific Japanese corpora, available for direct text generation.
+- [alabnii/jmedroberta-base-sentencepiece-vocab50000](https://huggingface.co/alabnii/jmedroberta-base-sentencepiece-vocab50000)
+  - A Japanese RoBERTa base model pre-trained on medical science articles, released under CC BY-NC-SA 4.0.
+  - Downloads: 127
+- [ttop324/wav2vec2-live-japanese](https://huggingface.co/ttop324/wav2vec2-live-japanese)
+  - A fine-tuned wav2vec2-large-xlsr-53 model for Japanese hiragana transcription using multiple datasets, with inference code provided.
   - Downloads: 127
 - [mmnga/matsuolab-weblab-10b-gguf](https://huggingface.co/mmnga/matsuolab-weblab-10b-gguf)
-  - A gguf-formatted version of matsuo-lab's weblab-10b for use with llama.cpp examples and development via Git cloning.
-  - Downloads: 127
-- [retrieva-jp/t5-base-medium](https://huggingface.co/retrieva-jp/t5-base-medium)
-  - A T5 v1.1 model card for a Japanese corpus-based Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and size variations from "xl" to "xxl."
-  - Downloads: 127
-- [ken11/albert-base-japanese-v1-with-japanese-tokenizer](https://huggingface.co/ken11/albert-base-japanese-v1-with-japanese-tokenizer)
-  - A pre-trained Japanese ALBERT model using BertJapaneseTokenizer for easier tokenization, intended for fine-tuning on various tasks.
+  - A gguf-formatted version of matsuo-lab's weblab-10b model for use with llama.cpp examples and the mmnga-dev branch.
   - Downloads: 127
 - [kkuramitsu/mt5-mini9L](https://huggingface.co/kkuramitsu/mt5-mini9L)
-  - A template Model Card for a Japanese and English pretrained T5 model, intended as a base for new models.
+  - A template Model Card for a small T5 model pre-trained on Japanese and English, intended as a base template for new models.
   - Downloads: 126
-- [KoichiYasuoka/bert-base-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-upos)
-  - A BERT model pre-trained on Japanese Wikipedia for universal part-of-speech tagging, derived from bert-base-japanese-char-extended.
+- [ku-nlp/gpt2-medium-japanese-char](https://huggingface.co/ku-nlp/gpt2-medium-japanese-char)
+  - A Japanese character-level GPT-2 Medium model pre-trained on specific datasets, available for direct use in text generation tasks.
   - Downloads: 125
-- [yasu-oh/Llama-3.3-Swallow-70B-Instruct-v0.4-GGUF](https://huggingface.co/yasu-oh/Llama-3.3-Swallow-70B-Instruct-v0.4-GGUF)
-  - A GitHub repository hosting the Llama-3.3 Swallow 70B Instruct v0.4 GGUF base model and the imatrix dataset for Japanese language training.
+- [colorfulscoop/gpt2-small-ja](https://huggingface.co/colorfulscoop/gpt2-small-ja)
+  - A GPT-2 small model trained on a portion of Japanese Wikipedia data released under CC BY-SA 3.0, split into training, validation, and test sets.
   - Downloads: 124
 - [ssanjay22/japanese_partner](https://huggingface.co/ssanjay22/japanese_partner)
   - Developed by: SANJAY S License: MIT Finetuned from model: Meta's LLAMA 3.2 (3B)
   - Downloads: 124
+- [Aratako/calm3-22b-RP-v2](https://huggingface.co/Aratako/calm3-22b-RP-v2)
+  - A QLoRA fine-tuned model based on cyberagent/calm3-22b-chat for role-playing, using ChatML format with system, user, and assistant prompts.
+  - Downloads: 123
+- [liwii/line-distilbert-base-japanese-fork](https://huggingface.co/liwii/line-distilbert-base-japanese-fork)
+  - A forked version of DistilBERT pre-trained on Japanese web text, updated for compatibility with transformers>=4.34.
+  - Downloads: 123
 - [akiFQC/bert-base-japanese-v3_nli-jsnli-jnli-jsick](https://huggingface.co/akiFQC/bert-base-japanese-v3_nli-jsnli-jnli-jsick)
   - Cross-Encoder for Natural Language Inference(NLI) for Japanese This model was trained using SentenceTransformers Cross-Encoder class.
   - Downloads: 123
-- [hiroshi-matsuda-rit/bert-base-japanese-basic-char-v2](https://huggingface.co/hiroshi-matsuda-rit/bert-base-japanese-basic-char-v2)
-  - A BERT base Japanese model with character-level tokenization and whole word masking, using basic tokenization instead of MeCab, based on jawiki-20200831.
-  - Downloads: 120
-- [llm-jp/llm-jp-3-980m-instruct2](https://huggingface.co/llm-jp/llm-jp-3-980m-instruct2)
-  - The repository contains the llm-jp-3-980m-instruct2 model, part of a series developed by the National Institute of Informatics for large language processing in Japanese, with requirements for specific versions of torch and transformers.
-  - Downloads: 120
-- [schroneko/ELYZA-japanese-Llama-2-13b-fast-instruct-gguf](https://huggingface.co/schroneko/ELYZA-japanese-Llama-2-13b-fast-instruct-gguf)
-  - This repository contains a GGUF conversion model for ELYZA-japanese-Llama-2-13b-fast-instruct, including instructions and licensing information.
-  - Downloads: 119
+- [llm-jp/llm-jp-3-7.2b-instruct](https://huggingface.co/llm-jp/llm-jp-3-7.2b-instruct)
+  - This repository offers large language models, specifically LLM-jp-3-3.7.2b-instruct models from the National Institute of Informatics, along with Hugging Face Transformers required libraries and usage instructions.
+  - Downloads: 122
 - [KoichiYasuoka/deberta-large-japanese-aozora](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-aozora)
-  - A DeBERTa(V2) model pre-trained on Aozora Bunko texts, trained on an NVIDIA A100-SXM4-40GB for 127 hours 8 minutes, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
-  - Downloads: 118
+  - A DeBERTa(V2) model pre-trained on Japanese Aozora texts, trained on an NVIDIA A100-SXM4-40GB for 127 hours, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+  - Downloads: 120
+- [KoichiYasuoka/deberta-small-japanese-aozora](https://huggingface.co/KoichiYasuoka/deberta-small-japanese-aozora)
+  - A DeBERTa(V2) model pre-trained on Japanese Aozora texts, fine-tunable for tasks like POS-tagging and dependency-parsing.
+  - Downloads: 120
+- [KoichiYasuoka/roberta-base-japanese-aozora-char](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-aozora-char)
+  - A RoBERTa model pre-trained on Aozora Bunko texts with character tokenizer, available for fine-tuning in tasks like POS-tagging and dependency-parsing.
+  - Downloads: 119
 - [MCZK/EZO-Common-T2-2B-gemma-2-it-GGUF](https://huggingface.co/MCZK/EZO-Common-T2-2B-gemma-2-it-GGUF)
   - HODACHI様の EZO-Common-T2-2B-gemma-2-it をGGUF形式に変換したものです。
   - Downloads: 117
-- [globis-university/deberta-v3-japanese-xsmall](https://huggingface.co/globis-university/deberta-v3-japanese-xsmall)
-  - A DeBERTa V3 model specialized for Japanese that omits morphological analysis during inference and respects word boundaries.
-  - Downloads: 116
-- [alabnii/jmedroberta-base-sentencepiece-vocab50000](https://huggingface.co/alabnii/jmedroberta-base-sentencepiece-vocab50000)
-  - A Japanese RoBERTa base model pre-trained on academic medical articles, released under CC BY-NC-SA 4.0.
-  - Downloads: 116
-- [liwii/line-distilbert-base-japanese-fork](https://huggingface.co/liwii/line-distilbert-base-japanese-fork)
-  - A forked version of DistilBERT pre-trained on Japanese web text, adapted for use with transformers>=4.34 by LINE Corporation.
-  - Downloads: 116
-- [KoichiYasuoka/deberta-small-japanese-aozora](https://huggingface.co/KoichiYasuoka/deberta-small-japanese-aozora)
-  - A DeBERTa(V2) model trained on Japanese Aozora texts for tasks like POS-tagging and dependency-parsing.
+- [aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF](https://huggingface.co/aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF)
+  - The repository offers quantized GGUF versions of the CyberAgent DeepSeek-R1-Distill-Qwen-14B-Japanese model for different GPU VRAM capacities.
   - Downloads: 115
-- [llm-jp/llm-jp-3-980m](https://huggingface.co/llm-jp/llm-jp-3-980m)
-  - The repository offers the llm-jp-3-980m model from the LLM-jp-3 series, developed by the National Institute of Informatics, with dependencies including torch 2.3.0+, transformers 4.40.1+, and tokenizers 0+.
-  - Downloads: 113
 - [rinna/qwen2.5-bakeneko-32b-instruct-gptq-int8](https://huggingface.co/rinna/qwen2.5-bakeneko-32b-instruct-gptq-int8)
-  - A 32B instruction-tuned, 8-bit quantized model of Qwen2.5-Bakeneko for fast inference using AutoGPTQ.
+  - Qwen2.5 Bakeneko 32B is an 8-bit quantized instruction-tuned model that is twice as memory-efficient and faster than the original version.
   - Downloads: 113
-- [turing-motors/heron-chat-git-ELYZA-fast-7b-v0](https://huggingface.co/turing-motors/heron-chat-git-ELYZA-fast-7b-v0)
-  - A fast 7B parameter Heron GIT Japanese ELYZA Llama 2 vision-language model for conversing about images, accessible via the heron library.
-  - Downloads: 112
-- [nlp-waseda/roberta-large-japanese-seq512](https://huggingface.co/nlp-waseda/roberta-large-japanese-seq512)
-  - A Japanese RoBERTa large model pretrained on Wikipedia and CC-100 with a 512 sequence length, usable for masked language modeling.
-  - Downloads: 111
-- [nlp-waseda/gpt2-xl-japanese](https://huggingface.co/nlp-waseda/gpt2-xl-japanese)
-  - A 1.5B-parameter Japanese GPT2 pretrained on Wikipedia and CC-100, suitable for text generation or fine-tuning, requiring Juman++ word segmentation.
+- [ken11/bert-japanese-ner](https://huggingface.co/ken11/bert-japanese-ner)
+  - This GitHub repository contains a fine-tuned BERT model for Japanese Named Entity Recognition using the dataset ner-wikipedia-dataset, based on the Kyoto University pre-trained BERT model. Tokenizers and Juman++ are required separately.
   - Downloads: 110
+- [KoichiYasuoka/roberta-large-japanese-aozora-char](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora-char)
+  - A RoBERTa large model pre-trained on Japanese Aozora texts using a character tokenizer, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+  - Downloads: 108
 - [second-state/Llama-3-8B-Japanese-Instruct-GGUF](https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF)
   - Llama-3-8B-Japanese-Instruct-GGUF Original Model haqishen/Llama-3-8B-Japanese-Instruct Run with LlamaEdge LlamaEdge version: v0.10.1 and above Prompt template Prompt type: llama-3-chat Prompt string &lt;|begin_of_text|&gt;&lt;|start_header_id|&gt;system&lt;|end_header_id|&gt; {{ system_prompt }}&lt;|eot_id|&gt;&lt;|start_header_id|&gt;user&lt;|end_header_id|&gt; {{ user_message_1 }}&lt;|eot_id|&gt;&lt;|start_header_id|&gt;assistant&lt;|end_header_id|&gt; {{ model_answer_1 }}&lt;|eot_id|&gt;&lt;|start_header
   - Downloads: 108
-- [Local-Novel-LLM-project/WabiSabi-V1](https://huggingface.co/Local-Novel-LLM-project/WabiSabi-V1)
-  - Wabisabi-v1.0 is a novel Mistral-7B-based LLM fine-tuned for 128k context window, high-quality Japanese and English generation, and的记忆中断了，请问您是要我继续概括这段描述吗？根据之前的内容，我可以这样总结：Wabisabi-v1.0 是基于 Mistral-7B 的大型语言模型，具有 128k 上下文窗口、高质量的日英生成能力和长久记忆特性。
-  - Downloads: 105
+- [Local-Novel-LLM-project/Vecteus-v1-abliterated](https://huggingface.co/Local-Novel-LLM-project/Vecteus-v1-abliterated)
+  - This repository provides an ablated version of vecteus v1, omitting the output filter for more free-form text generation while taking no responsibility for the content generated.
+  - Downloads: 106
+- [llm-jp/llm-jp-3-980m-instruct2](https://huggingface.co/llm-jp/llm-jp-3-980m-instruct2)
+  - This repository offers the llm-jp-3-980m-instruct2 model, part of a series developed by the National Institute of Informatics for large language processing in Japanese.
+  - Downloads: 106
+- [sakuraumi/Sakura-13B-Galgame](https://huggingface.co/sakuraumi/Sakura-13B-Galgame)
+  - SakuraLLM provides SFT and RLHF models for Japanese to Chinese translation in ACGN domains, built on open-source large models and fine-tuned on relevant corpora.
+  - Downloads: 106
 - [mradermacher/japanese-llama-3-8b-instruct-v2-i1-GGUF](https://huggingface.co/mradermacher/japanese-llama-3-8b-instruct-v2-i1-GGUF)
-  - The repository provides weighted/imatrix quants and GGUF files for the Japanese LLaMA-3B instruct model, with IQ-quants recommended when size is a priority.
-  - Downloads: 105
-- [KoichiYasuoka/roberta-base-japanese-aozora-char](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-aozora-char)
-  - A RoBERTa model pre-trained on Japanese Aozora texts using a character tokenizer, available for fine-tuning in tasks like POS-tagging and dependency-parsing.
-  - Downloads: 105
-- [Mizuiro-sakura/luke-japanese-base-marcja](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-marcja)
-  - This repository contains a fine-tuned model based on luke-japanese-base for binary positive/negative classification of MARC-ja, with a reported accuracy of 0.9.
+  - Weighted and IQ quantized versions of the Japanese LLaMA 3-8B instruct model are available for static quantization, with usage details provided for GGUF files.
   - Downloads: 104
-- [skytnt/gpt2-japanese-lyric-small](https://huggingface.co/skytnt/gpt2-japanese-lyric-small)
-  - A GPT2 model for generating Japanese lyrics, accessible via a website and available for custom use with provided code.
+- [KoichiYasuoka/bert-base-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-upos)
+  - A BERT model pre-trained on Japanese Wikipedia for UPOS tagging, derived from `bert-base-japanese-char-extended`.
   - Downloads: 103
-- [makiart/jp-ModernBert-base-preview](https://huggingface.co/makiart/jp-ModernBert-base-preview)
-  - The makiart/jp-ModernBert-base-preview model is a 150M parameter BERT-based Japanese language model with 8192 context length and 50,368 vocabulary size, fine-tuned on Japanese web data.
+- [turing-motors/heron-chat-git-ELYZA-fast-7b-v0](https://huggingface.co/turing-motors/heron-chat-git-ELYZA-fast-7b-v0)
+  - A fast 7B parameter Llama 2 vision-language model trained with the Heron library for conversing about input images.
   - Downloads: 101
-- [KoichiYasuoka/roberta-large-japanese-aozora-char](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora-char)
-  - A RoBERTa large model pre-trained on Japanese Aozora texts, using a character tokenizer, for tasks like POS-tagging and dependency-parsing.
-  - Downloads: 100
+- [nlp-waseda/gpt2-xl-japanese](https://huggingface.co/nlp-waseda/gpt2-xl-japanese)
+  - A Japanese GPT-2 model with 1.5B parameters, pretrained on Japanese Wikipedia and CC-100, for text generation or fine-tuning, requiring word segmentation using Juman++.
+  - Downloads: 99
 - [cinmodel/electra-small-japanese-discriminator](https://huggingface.co/cinmodel/electra-small-japanese-discriminator)
-  - A Japanese ELECTRA-Small model pre-trained using subword units from Japanese Wikipedia and Byte-Pair Encoding, with instructions for setting up MeCab and using the discriminator from the transformers library.
+  - A Japanese ELECTRA-Small model using subword units from Japanese Wikipedia and Byte-Pair Encoding, built on mecab-ipadic-NEologd tokenization, with instructions for optimal performance and transformer discriminator implementation.
   - Downloads: 99
-- [NTQAI/wav2vec2-large-japanese](https://huggingface.co/NTQAI/wav2vec2-large-japanese)
-  - A fine-tuned Wav2Vec2-Large-Japanese model trained on over 600 hours of public Japanese data, accessible upon contact, for direct speech recognition at 16kHz.
-  - Downloads: 99
-- [MIL-UT/Asagi-4B](https://huggingface.co/MIL-UT/Asagi-4B)
-  - This repository offers Asagi-4B, a large-scale Japanese VLM trained on extensive datasets including synthesized data from CALM3-22B-Chat and Phi3.5-vision-instruct.
-  - Downloads: 99
-- [llm-book/bert-base-japanese-v3-jcommonsenseqa](https://huggingface.co/llm-book/bert-base-japanese-v3-jcommonsenseqa)
-  - A BERT model fine-tuned on the JCommonsenseQA dataset for multiple-choice question-answering tasks, based on cl-tohoku/bert-base-japanese-v3.
-  - Downloads: 98
 - [nitky/EZO-QwQ-32B-Preview](https://huggingface.co/nitky/EZO-QwQ-32B-Preview)
   - EZO-QwQ-32B-Preview This is a merge of pre-trained language models created using mergekit.
   - Downloads: 98
-- [haqishen/Llama-3-8B-Japanese-Instruct](https://huggingface.co/haqishen/Llama-3-8B-Japanese-Instruct)
-  - A Meta-Llama-3-8B-Instruct model fine-tuned on Japanese conversation data, available for use via transformers or the original llama3 codebase.
-  - Downloads: 94
-- [llm-jp/llm-jp-3-7.2b-instruct](https://huggingface.co/llm-jp/llm-jp-3-7.2b-instruct)
-  - This repository offers large language models, including the LLM-jp-3-3.7.2b-instruct model, developed by the National Institute of Informatics, with required libraries and usage instructions provided.
+- [Local-Novel-LLM-project/WabiSabi-V1](https://huggingface.co/Local-Novel-LLM-project/WabiSabi-V1)
+  - Wabisabi-v1.0 is a novel Mistral-7B-based LLM fine-tuned for high-quality Japanese and English generation, featuring a 128k context window and memory capability, developed during a LocalAI hackathon.
+  - Downloads: 97
+- [retrieva-jp/amber-base](https://huggingface.co/retrieva-jp/amber-base)
+  - AMBER is a 132M-parameter bilingual text embedding model trained by Retrieva, Inc., supporting Japanese and English across multiple datasets.
+  - Downloads: 96
+- [DataPilot/Llama3.1-ArrowSE-v0.4](https://huggingface.co/DataPilot/Llama3.1-ArrowSE-v0.4)
+  - A Japanese-tuned LLaMA 3.1-8B model created using MergeKit and fine-tuning, with instructions on how to use it for generating Japanese responses.
   - Downloads: 94
 - [cl-nagoya/ruri-reranker-small](https://huggingface.co/cl-nagoya/ruri-reranker-small)
   - Ruri-Reranker: Japanese General Reranker Usage Direct Usage (Sentence Transformers)
   - Downloads: 94
-- [ken11/bert-japanese-ner](https://huggingface.co/ken11/bert-japanese-ner)
-  - A fine-tuned BERT model for Japanese named entity recognition using the ner-wikipedia-dataset, based on the Kyoto University pretrained model and requiring additional Tokenizer and Juman++ installation.
+- [DeL-TaiseiOzaki/llm-jp-3-172b-instruct3-4bit](https://huggingface.co/DeL-TaiseiOzaki/llm-jp-3-172b-instruct3-4bit)
+  - The repository contains a 4-bit quantized version of the llm-jp-3-172b-instruct3 model from NII, designed to reduce GPU/memor y usage during inference.
+  - Downloads: 93
+- [llm-book/bert-base-japanese-v3-jcommonsenseqa](https://huggingface.co/llm-book/bert-base-japanese-v3-jcommonsenseqa)
+  - A fine-tuned BERT model for multiple-choice question answering in Japanese, based on cl-tohoku/bert-base-japanese-v3 and JGLUE's JCommonsenseQA dataset, as introduced in Chapter 5 of "Large Language Models Made Simple."
   - Downloads: 93
 - [jri-advtechlab/layoutlm-wikipedia-ja](https://huggingface.co/jri-advtechlab/layoutlm-wikipedia-ja)
-  - A LayoutLM pretrained model in Japanese developed by Advanced Technology Laboratory, licensed under CC BY-SA 3.0, primarily for token classification tasks and available for fineduning.
+  - A LayoutLM pretrained model in Japanese developed by Advanced Technology Laboratory, licensed under CC BY-SA 3.0, mainly for fine-tuning on token classification tasks.
   - Downloads: 93
-- [DataPilot/Llama3.1-ArrowSE-v0.4](https://huggingface.co/DataPilot/Llama3.1-ArrowSE-v0.4)
-  - A fine-tuned Llama3.1-8B-instruct model for enhanced Japanese fluency using Mergekit, with a default system prompt in Japanese and instructions on how to import and use the model.
+- [inu-ai/dolly-japanese-gpt-1b](https://huggingface.co/inu-ai/dolly-japanese-gpt-1b)
+  - The repository includes updates for a 1.3B parameter dialog AI model called dolly-japanese-gpt-1b, trained with RLHF on Japanese datasets and additional dialogue datasets, with improved history context but reduced Q&A accuracy in some questions.
   - Downloads: 92
-- [mmnga/WabiSabi-V1-gguf](https://huggingface.co/mmnga/WabiSabi-V1-gguf)
-  - A gguf-formatted version of WabiSabi-V1 for local novel LLM projects, created from imatrix-dataset-for-japanese-llm, using llama.cpp for inference.
-  - Downloads: 90
-- [huranokuma/es](https://huggingface.co/huranokuma/es)
-  - A fine-tuned GPT-2 Japanese model for resume writing, trained on 20,000 resumes, with a web app available at https://huranokuma-es-app-9t34vl.streamlitapp.com/.
-  - Downloads: 89
-- [rinna/nekomata-14b-instruction-gguf](https://huggingface.co/rinna/nekomata-14b-instruction-gguf)
-  - The GGUF version of rinna/nekomata-14b-instruction can be used with llama.cpp for lightweight inference, with recommendations for specific quantization settings.
-  - Downloads: 89
-- [sonoisa/t5-base-japanese-adapt](https://huggingface.co/sonoisa/t5-base-japanese-adapt)
-  - A Japanese-specific T5 prefix language model fine-tuned on a large corpus including Wikipedia and OSCAR data for token sequence prediction tasks.
-  - Downloads: 89
-- [nlp-waseda/gpt2-small-japanese](https://huggingface.co/nlp-waseda/gpt2-small-japanese)
-  - A Japanese GPT-2 model pretrained on Wikipedia and CC-100, usable for text generation or fine-tuning, requiring word segmentation with Juman++.
+- [nlp-waseda/bigbird-base-japanese](https://huggingface.co/nlp-waseda/bigbird-base-japanese)
+  - A Japanese BigBird base model pretrained on specific datasets, usable for masked language modeling.
   - Downloads: 88
-- [alfredplpl/Llama-3-8B-Instruct-Ja](https://huggingface.co/alfredplpl/Llama-3-8B-Instruct-Ja)
-  - This repository contains a Japanese version of the Llama 3 8B model and provides instructions for installation and usage, recommending Colab or local execution via specific steps.
+- [llm-jp/llm-jp-3-8x13b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-8x13b-instruct3)
+  - The repository provides the llm-jp-3-8x13b-instruct3 model, part of a series developed by the National Institute of Informatics for large language processing in Japanese.
+  - Downloads: 88
+- [AXCXEPT/phi-4-open-R1-Distill-EZOv1](https://huggingface.co/AXCXEPT/phi-4-open-R1-Distill-EZOv1)
+  - This model, based on the phi-4 framework and using open-r1 with Distill methodology, generates Japanese responses with optional English integration for flexibility.
   - Downloads: 87
-- [kcoopermiller/llm-jp-1.3b-v1.0-aya](https://huggingface.co/kcoopermiller/llm-jp-1.3b-v1.0-aya)
-  - A fine-tuned llm-jp-1.3b-v1.0 model on Cohere's aya Japanese dataset, evaluated with AVG score of 0.0698, for natural language processing tasks.
+- [Mizuiro-sakura/luke-japanese-base-marcja](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-marcja)
+  - A fine-tuned model based on luke-japanese-base for binary positive/negative classification of MARC-ja, achieving an accuracy of 0.9.
   - Downloads: 86
+- [kcoopermiller/llm-jp-1.3b-v1.0-aya](https://huggingface.co/kcoopermiller/llm-jp-1.3b-v1.0-aya)
+  - A fine-tuned llm-jp-1.3b-v1.0 model on Cohere's aya Japanese dataset, evaluated with AVG 0.0698.
+  - Downloads: 86
+- [kajuma/DiffLlama-1B](https://huggingface.co/kajuma/DiffLlama-1B)
+  - DiffLlama-1B is a 1-billion-parameter large language model using Differential Transformer with patch-level training on 100 billion tokens of Japanese data.
+  - Downloads: 85
 - [Miwa-Keita/zenz-v1-checkpoints](https://huggingface.co/Miwa-Keita/zenz-v1-checkpoints)
   - zenz-v1 Checkpoints zenz-v1 is a language model specialized for kana-kanji conversion tasks based on the GPT-2 architecture.
   - Downloads: 85
-- [izumi-lab/deberta-v2-small-japanese](https://huggingface.co/izumi-lab/deberta-v2-small-japanese)
-  - A DeBERTa V2 small Japanese pretrained model for masked language modeling, available with usage instructions and tokenizer information.
+- [rinna/nekomata-14b-instruction-gguf](https://huggingface.co/rinna/nekomata-14b-instruction-gguf)
+  - This repository provides the GGUF version of rinna/nekomata-14b-instruction for lightweight inference with llama.cpp, recommending specific quantization settings.
   - Downloads: 84
-- [retrieva-jp/t5-large-short](https://huggingface.co/retrieva-jp/t5-large-short)
-  - A T5 v1.1 model card for a Japanese corpus-based Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and size variations "xl" and "xxl".
+- [haqishen/Llama-3-8B-Japanese-Instruct](https://huggingface.co/haqishen/Llama-3-8B-Japanese-Instruct)
+  - A Meta-Llama-3-8B-Instruct model fine-tuned on Japanese conversation data, available in two versions for use with Transformers and the original LLaMA codebase.
   - Downloads: 83
-- [kubota/luke-large-defamation-detection-japanese](https://huggingface.co/kubota/luke-large-defamation-detection-japanese)
-  - A fine-tuned Japanese language model for automated defamation detection using LUKE, trained on a balanced dataset combining two datasets.
-  - Downloads: 83
-- [nlp-waseda/bigbird-base-japanese](https://huggingface.co/nlp-waseda/bigbird-base-japanese)
-  - A Japanese BigBird base model pretrained on specific datasets, available for masked language modeling.
-  - Downloads: 83
-- [ku-nlp/gpt2-small-japanese-char](https://huggingface.co/ku-nlp/gpt2-small-japanese-char)
-  - A Japanese character-level GPT-2 Small language model pre-trained on specific datasets, available for text generation via a provided pipeline.
-  - Downloads: 82
 - [Deepreneur/blue-lizard](https://huggingface.co/Deepreneur/blue-lizard)
-  - The Deepreneur-blue-lizard model is a 7B parameter fine-tuned version of Meta's Llama-2-7b with additional Japanese preprocessing and tuning, achieving superior performance on JGLUE benchmarks compared to ChatGPT-3.5.
+  - Deepreneur-blue-lizard is a 7B parameter fine-tuned model trained on additional Japanese data, outperforming ChatGPT-3.5 on the JGLUE benchmark.
   - Downloads: 82
+- [Aratako/Japanese-Novel-Reward-modernbert-ja-130m](https://huggingface.co/Aratako/Japanese-Novel-Reward-modernbert-ja-130m)
+  - This repository contains a fine-tuned Reward model for evaluating the quality of Japanese novels using modernbert-ja-130m, intended for applications like reinforcement learning in novel generation, with limitations due to potential biases.
+  - Downloads: 81
+- [alfredplpl/Llama-3-8B-Instruct-Ja](https://huggingface.co/alfredplpl/Llama-3-8B-Instruct-Ja)
+  - A repository for Japanese-translated Llama 3 8B model, including installation instructions and usage recommendations.
+  - Downloads: 80
+- [makiart/jp-ModernBert-base-preview](https://huggingface.co/makiart/jp-ModernBert-base-preview)
+  - A 150M parameter ModernBert base model trained on Japanese data with 8192 context length and 50,368 vocabulary size.🚀
+  - Downloads: 80
 - [TheBloke/japanese-stablelm-instruct-gamma-7B-AWQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-gamma-7B-AWQ)
-  - This GitHub repository includes AWQ model files for Stability AI's Japanese StableLM Instruct Gamma 7B, quantized with support from Massed Compute.
+  - This repository includesAWQ-quantizedmodelfilesforStabilityAI'sJapaneseStableLMInstructGamma7B,withsupportfromMassedCompute.
   - Downloads: 80
 - [TheBloke/japanese-stablelm-instruct-beta-7B-AWQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-7B-AWQ)
-  - This repository includes AWQ model files for Stability AI's Japanese StableLM Instruct Beta 7B, quantized with support from Massed Compute.
+  - This repository includes AWQmodel files for Stability AI's Japanese StableLM Instruct Beta 7B, quantized with support from Massed Compute.
   - Downloads: 80
 - [mm/japanese-e5-mistral-7b_slerp_gguf](https://huggingface.co/mm/japanese-e5-mistral-7b_slerp_gguf)
   - Japanese E5 Mixtral 7B Slerp GGUF GGUF conversion of oshizo/japanese-e5-mistral-7b_slerp Avaiable formats: Q2_K.gguf Q3_K.gguf Q4_K.gguf Q5_K.gguf
   - Downloads: 80
-- [tohoku-nlp/tohokunlp-bert-500m-sq8192-alpha](https://huggingface.co/tohoku-nlp/tohokunlp-bert-500m-sq8192-alpha)
-  - A Japanese BERT model with up to 500M parameters supporting input sequences of 4,096 or 8,192 tokens, based on the Llama architecture and compatible with Transformers version 4.46.2.
-  - Downloads: 79
-- [Aratako/Japanese-Novel-Reward-modernbert-ja-130m](https://huggingface.co/Aratako/Japanese-Novel-Reward-modernbert-ja-130m)
-  - This repository contains a fine-tuned Reward model for evaluating the quality of Japanese novels using ModernBERT-ja-130m, intended for text generation model reinforcement learning.
+- [MIL-UT/Asagi-4B](https://huggingface.co/MIL-UT/Asagi-4B)
+  - This repository offers Asagi-4B, a large Japanese VLM trained on diverse datasets including synthesized data from CALM3-22B-Chat and Phi3.5-vision-instruct.
   - Downloads: 77
+- [nlp-waseda/gpt2-small-japanese](https://huggingface.co/nlp-waseda/gpt2-small-japanese)
+  - This GitHub repository provides a Japanese GPT-2 small model pretrained on Japanese Wikipedia and CC-100, suitable for text generation or fine-tuning, requiring Juman++ segmented texts and offering a pipeline with reproducible text generation.
+  - Downloads: 77
+- [skytnt/gpt2-japanese-lyric-small](https://huggingface.co/skytnt/gpt2-japanese-lyric-small)
+  - A GPT2 model for generating Japanese lyrics, accessible via a website and runnable using provided code.
+  - Downloads: 77
+- [NTQAI/wav2vec2-large-japanese](https://huggingface.co/NTQAI/wav2vec2-large-japanese)
+  - Fine-tuned Wav2Vec2-Large-Japanese model on over 600 hours of Japanese data for high-accuracy speech recognition, accessible via public API with 16kHz sampled audio input.
+  - Downloads: 76
 - [AIJapanese/Moriyasu_Qwen2_JP_7B](https://huggingface.co/AIJapanese/Moriyasu_Qwen2_JP_7B)
   - Moriyasu_Qwen2_JP_7B Model Description Moriyasu_Qwen2_JP_7B is a large language model trained by Moriyasu.
   - Downloads: 75
-- [skytnt/gpt2-japanese-lyric-medium](https://huggingface.co/skytnt/gpt2-japanese-lyric-medium)
-  - A GPT2 model for generating Japanese lyrics, using T5Tokenizer and optimized for CPU or GPU.
+- [retrieva-jp/t5-large-short](https://huggingface.co/retrieva-jp/t5-large-short)
+  - A T5 v1.1 model card for a Japanese corpus-based Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and "xl" and "xxl" size variants.
   - Downloads: 74
-- [aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-GGUF](https://huggingface.co/aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-GGUF)
-  - The repository offers a quantized GGUF version of the CyberAgent DeepSeek-R1-Distill-Qwen-32B-Japanese model with an MIT License.
-  - Downloads: 74
-- [izumi-lab/electra-small-japanese-discriminator](https://huggingface.co/izumi-lab/electra-small-japanese-discriminator)
-  - A pretrained ELECTRA small model for Japanese, fine-tuned on the Japanese Wikipedia.
+- [patrickramos/bert-base-japanese-v2-wrime-fine-tune](https://huggingface.co/patrickramos/bert-base-japanese-v2-wrime-fine-tune)
+  - A Japanese BERT base model fine-tuned on the WRIME dataset for predicting emotion intensity scores in tweets about vaccinations.
+  - Downloads: 71
+- [huranokuma/es](https://huggingface.co/huranokuma/es)
+  - A finetuned Japanese GPT-2 model for resume writing, trained on 20,000 resumes, with a web app available.
   - Downloads: 70
-- [retrieva-jp/t5-small-medium](https://huggingface.co/retrieva-jp/t5-small-medium)
-  - A T5 v1.1 model card for a Japanese corpus-based Transformer encoder-decoder model with GEGLU activation, no pre-training dropout, and size variants "xl" and "xxl".
+- [alabnii/jmedroberta-base-manbyo-wordpiece-vocab50000](https://huggingface.co/alabnii/jmedroberta-base-manbyo-wordpiece-vocab50000)
+  - A Japanese RoBERTa base model pre-trained on medical science articles, released under CC BY-NC-SA 4.0, by the Japan Science and Technology Agency.
+  - Downloads: 70
+- [kubota/luke-large-defamation-detection-japanese](https://huggingface.co/kubota/luke-large-defamation-detection-japanese)
+  - A fine-tuned Japanese large language model for automatic defamation detection, built on a balanced dataset combining two existing datasets.
   - Downloads: 69
-- [huranokuma/es_IT](https://huggingface.co/huranokuma/es_IT)
-  - A fine-tuned AI GPT-2 model for writing job resumes, specifically tailored for IT industry resumes in Japanese.
+- [sonoisa/t5-base-japanese-adapt](https://huggingface.co/sonoisa/t5-base-japanese-adapt)
+  - A fine-tuned Japanese T5 prefix language model trained on over 100GB of corpora including Wikipedia, OSCAR, and CC-100, using the sonoisa/t5-base-japanese-v1.1 base model.
   - Downloads: 68
 - [makiart/jp-ModernBERT-large-preview](https://huggingface.co/makiart/jp-ModernBERT-large-preview)
-  - The makiart/jp-modernbert-large-preview model, created by Algomatic team with ABCI resources, supports 8192-context length and 396M parameters, trained on Japanese data, suitable for efficient inference with FlashAttention.
+  - The makiart/jp-modernbert-large-preview model, created by Algomatic team using ABCI resources, supports context length of 8192 and has 396M trainable parameters, utilized for longcontext Japanese text processing with 100B tokens base.
   - Downloads: 68
-- [ku-nlp/gpt2-large-japanese-char](https://huggingface.co/ku-nlp/gpt2-large-japanese-char)
-  - A pre-trained Japanese character-level GPT-2 Large model with 717M parameters, usable for text generation via a provided pipeline.
-  - Downloads: 66
+- [ku-nlp/gpt2-small-japanese-char](https://huggingface.co/ku-nlp/gpt2-small-japanese-char)
+  - A Japanese character-level GPT-2 Small (90M parameters) language model pre-trained on specific datasets, with a pipeline for text generation.
+  - Downloads: 67
 - [MaziyarPanahi/japanese-stablelm-base-gamma-7b-Mistral-7B-Instruct-v0.1-GGUF](https://huggingface.co/MaziyarPanahi/japanese-stablelm-base-gamma-7b-Mistral-7B-Instruct-v0.1-GGUF)
-  - MaziyarPanahi provides GGUF format model files for the Japanese Mistral 7B Instruct v0.1 model.
+  - MaziyarPanahi provides GGUF format model files for the Japanese Mistral 7B Instruct model, version v0.1.
   - Downloads: 66
-- [elyza/ELYZA-japanese-CodeLlama-7b](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b)
-  - ELYZA-japanese-CodeLlama-7b is a fine-tuned model for Japanese instruction-following tasks based on CodeLlama, with additional pre-training. It includes instructions for usage with Hugging Face's transformers library.
-  - Downloads: 66
-- [izumi-lab/electra-small-paper-japanese-discriminator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-discriminator)
-  - A pretraining repository for a 12-layer Japanese ELECTRA small model using the Japanese Wikipedia.
+- [ku-nlp/gpt2-large-japanese-char](https://huggingface.co/ku-nlp/gpt2-large-japanese-char)
+  - A pre-trained Japanese character-level GPT-2 Large model for text generation, usable via a transformers pipeline.
   - Downloads: 65
-- [nlp-waseda/gpt2-small-japanese-wikipedia](https://huggingface.co/nlp-waseda/gpt2-small-japanese-wikipedia)
-  - This GitHub repository provides a Japanese GPT-2 model pretrained on Wikipedia for text generation or fine-tuning, requiring word-level segmentation with Juman++.
+- [AXCXEPT/Llama-3.1-70B-EZO-1.1-it](https://huggingface.co/AXCXEPT/Llama-3.1-70B-EZO-1.1-it)
+  - A fine-tuned Japanese-language Llama 3.1 model achieving top scores in ElyzaTasks-100 among open-source models.
   - Downloads: 64
-- [Fugaku-LLM/Fugaku-LLM-13B-instruct-gguf](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct-gguf)
-  - This GitHub repository contains the terms and conditions for using Fugaku-LLM, a large language model developed for distributed parallel learning on supercomputer Fugaku, by multiple collaborating institutions.
-  - Downloads: 63
-- [nlp-waseda/roberta-large-japanese-with-auto-jumanpp](https://huggingface.co/nlp-waseda/roberta-large-japanese-with-auto-jumanpp)
-  - A Japanese RoBERTa large model pretrained on Wikipedia and CC-100, usable for masked language modeling.
-  - Downloads: 63
+- [Aratako/Japanese-Novel-Reward-modernbert-ja-310m](https://huggingface.co/Aratako/Japanese-Novel-Reward-modernbert-ja-310m)
+  - A fine-tuned Reward model for evaluating the quality of Japanese novels using sbintuitions/modernbert-ja-310m, intended for applications like reinforcement learning in novel generation, with known biases.
+  - Downloads: 62
 - [hotchpotch/luke-japanese-base-lite-xlm-roberta](https://huggingface.co/hotchpotch/luke-japanese-base-lite-xlm-roberta)
   - luke-japanese-base-lite-xlm-roberta studio-ousia/luke-japanese-base-liteの重みの名前をXLMRoberta形式に置き換え、XLMRobertaモデルとして扱えるようにした物です。
   - Downloads: 62
-- [nlp-waseda/comet-gpt2-small-japanese](https://huggingface.co/nlp-waseda/comet-gpt2-small-japanese)
-  - A finetuned GPT-2 model on ATOMIC data for Japanese text generation using causal language modeling.
+- [if001/llama2_ja_small](https://huggingface.co/if001/llama2_ja_small)
+  - A Japanese-trained LLaMA2 model (417.12M params) using the specified script and tokenizer for causal language modeling.
   - Downloads: 61
-- [alabnii/jmedroberta-base-manbyo-wordpiece-vocab50000](https://huggingface.co/alabnii/jmedroberta-base-manbyo-wordpiece-vocab50000)
-  - A Japanese RoBERTa base model pre-trained on academic medical articles, licensed under CC BY-NC-SA 4.0.
+- [izumi-lab/electra-base-japanese-generator](https://huggingface.co/izumi-lab/electra-base-japanese-generator)
+  - A pre-trained ELECTRA model for Japanese language processing, using texts from the Japanese Wikipedia.
+  - Downloads: 61
+- [KoichiYasuoka/deberta-base-japanese-wikipedia](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia)
+  - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 texts, trained on an NVIDIA A100-SXM4-40GB for 109 hours, suitable for fine-tuning tasks like POS-tagging and dependency parsing.
   - Downloads: 60
-- [okazaki-lab/japanese-gpt2-medium-unidic](https://huggingface.co/okazaki-lab/japanese-gpt2-medium-unidic)
-  - This repository hosts a medium-sized Japanese GPT-2 model using BERT-like tokenizer, requiring PyTorch, fugashi with unidic-lite, and Hugging Face Transformers for implementation.
-  - Downloads: 60
-- [izumi-lab/electra-small-paper-japanese-fin-discriminator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-fin-discriminator)
-  - The GitHub repository contains code for pretraining a 12-layer ELECTRA small model on Japanese Wikipedia texts.
-  - Downloads: 60
-- [izumi-lab/electra-base-japanese-discriminator](https://huggingface.co/izumi-lab/electra-base-japanese-discriminator)
-  - A pretraining repository for an ELECTRA base model on Japanese-language Wikipedia text.
-  - Downloads: 60
-- [if001/llama2_ja_small_instruct](https://huggingface.co/if001/llama2_ja_small_instruct)
-  - A Japanese-trained Llama2 model fine-tuned on instruction datasets, using a specific script.
+- [skytnt/gpt2-japanese-lyric-medium](https://huggingface.co/skytnt/gpt2-japanese-lyric-medium)
+  - A GPT2-based model for generating Japanese lyrics, utilizing T5Tokenizer for text processing.
   - Downloads: 59
 - [QuantFactory/Llama-3.1-Swallow-8B-v0.1-GGUF](https://huggingface.co/QuantFactory/Llama-3.1-Swallow-8B-v0.1-GGUF)
   - QuantFactory/Llama-3.1-Swallow-8B-v0.1-GGUF This is quantized version of tokyotech-llm/Llama-3.1-Swallow-8B-v0.1 created using llama.cpp Original Model Card Llama 3.1 Swallow - Built with Llama Llama 3.1 Swallow is a series of large language models (8B, 70B) that were built by continual pre-training on the Meta Llama 3.1 models.
   - Downloads: 59
-- [bclavie/fio-base-japanese-v0.1](https://huggingface.co/bclavie/fio-base-japanese-v0.1)
-  - fio-base-japanese-v0.1 is a proof-of-concept Japanese embedding based on cl-tohoku/bert-base-japanese-v3, trained on limited data, and utilizes datasets like JSTS, JSNLI, and MMARCO for similarity, entailment, and retrieval tasks.
+- [Fugaku-LLM/Fugaku-LLM-13B-instruct-gguf](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct-gguf)
+  - This repository contains the usage terms for Fugaku-LLM, a large language model developed as part of anFSP project, allowing commercial and non-commercial use subject to these terms.
+  - Downloads: 58
+- [llm-book/bert-base-japanese-v3-bpr-question-aio](https://huggingface.co/llm-book/bert-base-japanese-v3-bpr-question-aio)
+  - A fine-tuned Bert-base-japanese-v3 model for BPR question encoder used in document retrieval, based on Chapter 9 of "Large Language Model Basics" and available with training and inference Colab notebooks.
+  - Downloads: 58
+- [if001/llama2_ja_ss](https://huggingface.co/if001/llama2_ja_ss)
+  - A Japanese-trained LLaMA2 model with a size of 130.78M using the provided script for tokenizer and model initialization.
+  - Downloads: 58
+- [rinna/nekomata-7b-gguf](https://huggingface.co/rinna/nekomata-7b-gguf)
+  - The GGUF version of rinna/nekomata-7b can be used with llama.cpp for inference, with recommended quantization settings provided.
   - Downloads: 58
 - [cl-nagoya/ruri-pt-base](https://huggingface.co/cl-nagoya/ruri-pt-base)
   - Ruri: Japanese General Text Embeddings Usage First install the Sentence Transformers library: pip install -U sentence-transformers Then you can load this model and run inference.
@@ -1336,77 +1306,77 @@ This list is sorted by downloads as of March 25, 2025.
 - [QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF](https://huggingface.co/QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF)
   - QuantFactory/Llama3-ArrowSE-8B-v0.3-GGUF This is quantized version of DataPilot/Llama3-ArrowSE-8B-v0.3 created using llama.cpp Original Model Card 概要 elyza/Llama-3-ELYZA-JP-8Bを元にchat vectorを用いて改良しAItuberに特化させました。
   - Downloads: 58
-- [patrickramos/bert-base-japanese-v2-wrime-fine-tune](https://huggingface.co/patrickramos/bert-base-japanese-v2-wrime-fine-tune)
-  - A Japanese BERT base model fine-tuned on WRIME data for predicting emotion intensity scores in tweets about vaccinations.
+- [schroneko/ELYZA-japanese-Llama-2-13b-fast-instruct-gguf](https://huggingface.co/schroneko/ELYZA-japanese-Llama-2-13b-fast-instruct-gguf)
+  - This repository contains the GGUF conversion model for ELYZA-japanese-Llama-2-13b-fast-instruct, with instructions and QPID license details.
   - Downloads: 57
-- [Aratako/Japanese-Novel-Reward-modernbert-ja-310m](https://huggingface.co/Aratako/Japanese-Novel-Reward-modernbert-ja-310m)
-  - This repository contains a fine-tuned Reward model for evaluating the quality of Japanese novels using modernbert-ja-310m, primarily for applications in reinforcement learning with generative models.
+- [retrieva-jp/t5-small-medium](https://huggingface.co/retrieva-jp/t5-small-medium)
+  - A T5 v1.1 model card for a Japanese corpus-based Transformer Encoder-Decoder model with GEGLU activation, no pre-training dropout, and xl/xxl size variants replacing 3B/xxl.
   - Downloads: 57
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-GPTQ-4bit](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-GPTQ-4bit)
   - Tanuki-8B-dpo-v1.0-4k-GPTQ-4bit 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0-4kのGPTQ 4bit量子化モデルです。
   - Downloads: 57
+- [izumi-lab/bert-small-japanese-fin](https://huggingface.co/izumi-lab/bert-small-japanese-fin)
+  - A BERT small model pretrained on Japanese Wikipedia and a financial corpus, with 12 layers, 256 hidden dimensions, and 4 attention heads.
+  - Downloads: 56
 - [kz/mt5base-finetuned-ECC-japanese-small](https://huggingface.co/kz/mt5base-finetuned-ECC-japanese-small)
-  - A Google MT5-base model fine-tuned in Japanese for error detection and correction using a dataset of 20,000 text pairs.
-  - Downloads: 56
-- [llm-book/bert-base-japanese-v3-bpr-question-aio](https://huggingface.co/llm-book/bert-base-japanese-v3-bpr-question-aio)
-  - A fine-tuned Japanese BPR question encoder for document retrieval based on bert-base-japanese-v3, accompanied by training and inference Colab notebooks and available under Apache License 2.0.
-  - Downloads: 56
-- [izumi-lab/electra-small-japanese-fin-discriminator](https://huggingface.co/izumi-lab/electra-small-japanese-fin-discriminator)
-  - A pre-trained ELECTRA small model for Japanese finance text discrimination, using Wikipedia as the training corpus.
-  - Downloads: 56
-- [izumi-lab/electra-base-japanese-generator](https://huggingface.co/izumi-lab/electra-base-japanese-generator)
-  - A PRETRAINED ELECTRA BASED MODEL FOR JAPANESE TEXT PROCESSING, TRAINED ON THE JAPANESE WIKIPEDIA.
-  - Downloads: 54
-- [dahara1/DeepSeek-R1-Distill-Qwen-14B-unsloth-jpn](https://huggingface.co/dahara1/DeepSeek-R1-Distill-Qwen-14B-unsloth-jpn)
-  - This repository contains a Japanese fine-tuned version of the unsloth/DeepSeek-R1-Distill-Qwen-14B-unsloth-bnb-4bit model, with a system prompt added and further tuned using Japanese data.
+  - A fine-tuned Japanese mt5-base model for error detection and correction using a limited dataset.
+  - Downloads: 55
+- [mmnga/WabiSabi-V1-gguf](https://huggingface.co/mmnga/WabiSabi-V1-gguf)
+  - A gguf-formatted version of WabiSabi-V1 for a local Japanese LLM project, utilizing imatrix dataset, compatible with ggerganov's llama.cpp.
+  - Downloads: 55
+- [huranokuma/es_IT](https://huggingface.co/huranokuma/es_IT)
+  - A fine-tuned AI Japanese GPT-2 model for writing job application resumes, specifically geared towards IT industry positions.
   - Downloads: 53
 - [sambanovasystems/SambaLingo-Japanese-Base](https://huggingface.co/sambanovasystems/SambaLingo-Japanese-Base)
-  - SambaLingo-Japanese-Base is a pretrained bilingual Japanese and English language model adapted from Llama-2-7b using 42 billion tokens from the Cultura-X dataset, achieving state-of-the-art results in perplexity and FLORES-200 translation.
+  - A pretrained bilingual Japanese-English model derived from Llama-2-7b, trained on 42 billion tokens and achieving state-of-the-art results in perplexity and FLORES-200 translation.
   - Downloads: 53
-- [Miwa-Keita/zenz-v2.5-medium](https://huggingface.co/Miwa-Keita/zenz-v2.5-medium)
-  - Zenz-v2.5-small is a 91M-parameter GPT-2 model for specialized kanji conversion tasks, part of the Zenzai system, licensed under CC-BY-SA 4.0.
-  - Downloads: 52
-- [if001/tiny_mixtral_ja](https://huggingface.co/if001/tiny_mixtral_ja)
-  - A Japanese-pretrained version of the 275.86M mixtral model using Japanese datasets, with example code for generation.
-  - Downloads: 51
 - [thefrigidliquidation/nllb-200-distilled-1.3B-bookworm](https://huggingface.co/thefrigidliquidation/nllb-200-distilled-1.3B-bookworm)
-  - A 1.3B parameter NLLB-200 model fine-tuned for translating Japanese text from "Ascendance of a Bookworm" into English.
+  - A 1.3B parameter NLLB-200 model fine-tuned for translating Ascendance of a Bookworm from Japanese to English.
+  - Downloads: 51
+- [stockmark/bart-base-japanese-news](https://huggingface.co/stockmark/bart-base-japanese-news)
+  - A repository offering a Japanese BART base model trained by Stockmark Inc., providing a transformer seq2seq model with bidirectional encoder and autoregressive decoder pre-trained via text corruption.
+  - Downloads: 51
+- [izumi-lab/electra-small-paper-japanese-fin-generator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-fin-generator)
+  - A pre-trained ELECTRA model for generating Japanese financial text, based on wiki data.
   - Downloads: 50
-- [AXCXEPT/Llama-3.1-70B-EZO-1.1-it](https://huggingface.co/AXCXEPT/Llama-3.1-70B-EZO-1.1-it)
-  - A fine-tuned Japanese language model based on Meta AI's Llama 3.1 that achieved top scores in ElyzaTasks-100 among open-source models.
+- [elyza/ELYZA-japanese-CodeLlama-7b](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b)
+  - ELYZA-japanese-CodeLlama-7b is a Japanese-enhanced CodeLlama model for causal language tasks, featuring additional pre-training and customizable system prompts.
   - Downloads: 50
 - [umiyuki/Japanese-WizardLM2-ChatV-7B-GGUF](https://huggingface.co/umiyuki/Japanese-WizardLM2-ChatV-7B-GGUF)
-  - The GitHub repository contains a GGUF conversion of the Japanese-WizardLM2-ChatV-7B model, which combines the Japanese language capability of chatntq-ja-7b-v1.0 with the performance of WizardLM-2-7b.
+  - A GGUF conversion of the Japanese-WizardLM2-ChatV-7B model, derived by subtracting Mistral-7B-v0.1 from WizardLM-2-7b and enhancing with a 1.0倍 ChatVector for improved Japanese chatting capabilities.
   - Downloads: 49
 - [KoichiYasuoka/deberta-base-japanese-wikipedia-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia-ud-goeswith)
   - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 for POS-tagging and dependency-parsing, using goeswith for subwords.
   - Downloads: 48
 - [MaziyarPanahi/japanese-stablelm-instruct-gamma-7b-Mistral-7B-Instruct-v0.1-GGUF](https://huggingface.co/MaziyarPanahi/japanese-stablelm-instruct-gamma-7b-Mistral-7B-Instruct-v0.1-GGUF)
-  - MaziyarPanahi provides GGUF format model files for the Japanese-instruct gamma 7B and Mistral 7B instruct v0.1 model.
-  - Downloads: 48
-- [Ivydata/whisper-small-japanese](https://huggingface.co/Ivydata/whisper-small-japanese)
-  - A fine-tuned Japanese Whisper model using whisper-small on Common Voice, JVS, and JSUT, suitable for speech input sampled at 16kHz.
+  - MaziyarPanahi provides GGUF format model files for the Japanese-instruct Gamma 7B model based on Mistral-7B-Instruct-v0.1.
   - Downloads: 48
 - [cl-nagoya/ruri-reranker-stage1-large](https://huggingface.co/cl-nagoya/ruri-reranker-stage1-large)
   - Ruri-Reranker: Japanese General Reranker Usage Direct Usage (Sentence Transformers)
   - Downloads: 48
+- [Ivydata/wav2vec2-large-xlsr-53-japanese](https://huggingface.co/Ivydata/wav2vec2-large-xlsr-53-japanese)
+  - A fine-tuned Japanese Wav2Vec2 model using XLSR-53 for speech recognition, compatible with 16kHz sampled input.
+  - Downloads: 46
+- [nlp-waseda/gpt2-small-japanese-wikipedia](https://huggingface.co/nlp-waseda/gpt2-small-japanese-wikipedia)
+  - This GitHub repository provides a Japanese GPT-2 model pretrained on Wikipedia, intended for text generation or fine-tuning, requiringword segmentation with Juman++.
+  - Downloads: 46
 - [cl-nagoya/ruri-pt-large](https://huggingface.co/cl-nagoya/ruri-pt-large)
   - Ruri: Japanese General Text Embeddings Usage First install the Sentence Transformers library: pip install -U sentence-transformers Then you can load this model and run inference.
   - Downloads: 46
-- [Miwa-Keita/zenz-v1](https://huggingface.co/Miwa-Keita/zenz-v1)
-  - Afinetuned GPT-2-based model for kana-to-hanzi conversion tasks, using a 90M parameter model and BPE tokenizer, developed for the "Zenzai" system under CC-BY-SA 4.0 license.
+- [ku-nlp/roberta-large-japanese-char-wwm](https://huggingface.co/ku-nlp/roberta-large-japanese-char-wwm)
+  - A pre-trained Japanese RoBERTa large model using character-level tokenization and whole word masking, suitable for masked language modeling.
   - Downloads: 45
-- [rinna/nekomata-7b-gguf](https://huggingface.co/rinna/nekomata-7b-gguf)
-  - The GitHub repository contains the GGUF version of rinna/nekomata-7b, optimized for lightweight inference with llama.cpp, and recommends specific quantization settings.
+- [nlp-waseda/comet-gpt2-small-japanese](https://huggingface.co/nlp-waseda/comet-gpt2-small-japanese)
+  - The GitHub repository hosts a fine-tuned GPT-2 model on ATOMIC data for Japanese text generation with causal language modeling.
   - Downloads: 45
-- [aerner/lm-v2](https://huggingface.co/aerner/lm-v2)
-  - Aerner LM-v2是基于LLaMA的第二版日语模型，使用Flash Attention并在Wikipedia数据上训练，适合在24GB VRAM设备上运行。
-  - Downloads: 45
-- [Ivydata/wav2vec2-large-xlsr-53-japanese](https://huggingface.co/Ivydata/wav2vec2-large-xlsr-53-japanese)
-  - A fine-tuned Japanese Wav2Vec2 model for speech recognition using XLSR-53, suitable for 16kHz sampled input.
+- [takuyadayo/ozisan](https://huggingface.co/takuyadayo/ozisan)
+  - This repository contains code for training a model to convert regular Japanese sentences into "elderly gentleman" syntax using Unsloth, LoRA, and GRPO techniques.
   - Downloads: 44
-- [mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-4bit](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-4bit)
-  - A GPU-friendly MLX-formatted 32B Japanese language model derived from DeepSeek-R1, optimized for inference with 4-bit quantization.
+- [nlp-waseda/roberta-large-japanese](https://huggingface.co/nlp-waseda/roberta-large-japanese)
+  - A Japanese RoBERTa large model pretrained on Japanese Wikipedia and CC-100, usable for masked language modeling.
+  - Downloads: 44
+- [dahara1/DeepSeek-R1-Distill-Qwen-14B-unsloth-jpn](https://huggingface.co/dahara1/DeepSeek-R1-Distill-Qwen-14B-unsloth-jpn)
+  - This repository contains a Japanese fine-tuned version ofunsloth/DeepSeek-R1-Distill-Qwen-14B-unsloth-bnb-4bit with additional system prompts and outputs thoughts in Japanese.
   - Downloads: 44
 - [toshi456/chat-vector-llava-v1.5-7b-ja](https://huggingface.co/toshi456/chat-vector-llava-v1.5-7b-ja)
   - Chat-Vector-LLaVA-v1.5-7b-JA Model Card Model detail Model type: Chat-Vector-LLaVA-v1.5-7b-JA is a vision-language model that can converse about input images in Japanese.
@@ -1414,137 +1384,164 @@ This list is sorted by downloads as of March 25, 2025.
 - [team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-GPTQ-8bit](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-GPTQ-8bit)
   - Tanuki-8x8B-dpo-v1.0-GPTQ-8bit 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8x8B-dpo-v1.0のGPTQ 8bit量子化モデルです。
   - Downloads: 44
+- [if001/llama2_ja_small_instruct](https://huggingface.co/if001/llama2_ja_small_instruct)
+  - A Japanese-trained LLaMA2 model fine-tuned with instruction datasets, using the `lit-gpt` script.
+  - Downloads: 43
+- [okazaki-lab/japanese-gpt2-medium-unidic](https://huggingface.co/okazaki-lab/japanese-gpt2-medium-unidic)
+  - A medium-sized Japanese GPT-2 model using BERT-like tokenizer, with instructions for installation and usage via PyTorch, fugashi, and Hugging Face Transformers.
+  - Downloads: 43
 - [gaianet/Llama-3-8B-Japanese-Instruct-GGUF](https://huggingface.co/gaianet/Llama-3-8B-Japanese-Instruct-GGUF)
   - Llama-3-8B-Japanese-Instruct-GGUF Original Model haqishen/Llama-3-8B-Japanese-Instruct Run with Gaianet Prompt template: prompt template: llama-3-chat Context size: chat_ctx_size: 4096 Run with GaiaNet:
   - Downloads: 43
-- [mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese)
-  - A MLX-formatted version of the DeepSeek-R1-Distill-Qwen-32B-Japanese model, converted from a source repository and usable with mlx-lm.
-  - Downloads: 42
-- [alabnii/jmedroberta-base-manbyo-wordpiece](https://huggingface.co/alabnii/jmedroberta-base-manbyo-wordpiece)
-  - A Japanese RoBERTa base model pre-trained on medical science articles, released under CC BY-NC-SA 4.0.
+- [Miwa-Keita/zenz-v2.5-medium](https://huggingface.co/Miwa-Keita/zenz-v2.5-medium)
+  - The GitHub repository hosts zenz-v2.5-small, a medium-sized GPT-2 model for specialized kanji-to-hanja conversion tasks, part of the Zenzai system, with performances optimized for context-aware transformations in Japanese.
   - Downloads: 42
 - [DataPilot/Llama3-ArrowSE-8B-v0.3](https://huggingface.co/DataPilot/Llama3-ArrowSE-8B-v0.3)
   - 概要 elyza/Llama-3-ELYZA-JP-8Bを元にchat vectorを用いて改良しAItuberに特化させました。
   - Downloads: 42
 - [KoichiYasuoka/deberta-large-japanese-wikipedia](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-wikipedia)
-  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 texts, trained on an NVIDIA A100-SXM4-40GB in 632 hours, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 texts, trained on an NVIDIA A100-SXM4-40GB for 632 hours, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
   - Downloads: 41
-- [Local-Novel-LLM-project/Vecteus-v1-abliterated](https://huggingface.co/Local-Novel-LLM-project/Vecteus-v1-abliterated)
-  - 概要 vecteusは、高性能な日本語大規模言語モデルです。
+- [ku-nlp/deberta-v2-tiny-japanese-char-wwm](https://huggingface.co/ku-nlp/deberta-v2-tiny-japanese-char-wwm)
+  - A Japanese DeBERTa V2 tiny model pre-trained on specific datasets, using character-level tokenization and whole word masking for masked language modeling.
   - Downloads: 41
-- [KoichiYasuoka/bert-base-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-base-japanese-char-extended)
-  - A BERT model pre-trained on Japanese Wikipedia texts, extended with enhanced character embeddings for fine-tuning in tasks like POS-tagging and dependency-parsing.
-  - Downloads: 40
-- [tohoku-nlp/bert-large-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-char-v2)
-  - The repository contains a BERT大型模型，基于Unidic 2.1.2字典进行字符级分词并启用整词掩码训练，用于日语文本预训练。
-  - Downloads: 40
-- [rinna/nekomata-7b-instruction-gguf](https://huggingface.co/rinna/nekomata-7b-instruction-gguf)
-  - This repository provides a GGUF version of rinna/nekomata-7b-instruction for lightweight inference with llama.cpp, recommending specific quantization settings.
-  - Downloads: 40
-- [izumi-lab/electra-small-paper-japanese-fin-generator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-fin-generator)
-  - A pretrained ELECTRA small model for Japanese language processing, trained on the Japanese Wikipedia.
-  - Downloads: 40
+- [aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-GGUF](https://huggingface.co/aplulu/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-GGUF)
+  - The repository offers a quantized GGUF version of the cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese model, licensed under MIT.
+  - Downloads: 39
+- [sonoisa/sentence-bert-base-ja-en-mean-tokens](https://huggingface.co/sonoisa/sentence-bert-base-ja-en-mean-tokens)
+  - A Japanese+English Sentence-BERT model achieves better English STSbenchmark results and slightly lower Japanese accuracy compared to a monolingual Japanese version.
+  - Downloads: 39
 - [KoichiYasuoka/ltgbert-base-japanese-ud-goeswith](https://huggingface.co/KoichiYasuoka/ltgbert-base-japanese-ud-goeswith)
   - ltgbert-base-japanese-ud-goeswith Model Description
   - Downloads: 38
 - [sambanovasystems/SambaLingo-Japanese-Chat](https://huggingface.co/sambanovasystems/SambaLingo-Japanese-Chat)
-  - SambaLingo-Japanese-Chat is a Japanese and English language model fine-tuned on 42 billion tokens from the Cultura-X dataset, trained using direct preference optimization to align with human preferences.
+  - SambaLingo-Japanese-Chat is a Japanese and English language model fine-tuned on 42 billion tokens and optimized using direct preference optimization.
   - Downloads: 37
 - [KoichiYasuoka/deberta-base-japanese-wikipedia-ud-head](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia-ud-head)
-  - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 texts for dependency parsing and question-answering, optimized for handling multiple-used words in context.
+  - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 texts for dependency-parsing and question-answering, using [MASK] to handle ambiguous words.
   - Downloads: 37
-- [izumi-lab/electra-small-paper-japanese-generator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-generator)
-  - A pretrained ELECTRA small model for Japanese language processing, trained on the Japanese Wikipedia.
+- [rinna/nekomata-7b-instruction-gguf](https://huggingface.co/rinna/nekomata-7b-instruction-gguf)
+  - The GitHub repository contains the GGUF version of rinna/nekomata-7b-instruction for lightweight inference with llama.cpp, noting specific quantization recommendations.
   - Downloads: 37
-- [kz/mt5base-finetuned-patentsum-japanese-small](https://huggingface.co/kz/mt5base-finetuned-patentsum-japanese-small)
-  - A fine-tuned Japanese MT5-base model for summing up patent claims in the pharmaceutical domain.
+- [if001/tiny_mixtral_ja](https://huggingface.co/if001/tiny_mixtral_ja)
+  - A pre-trained 275.86M mixtral model fine-tuned on Japanese data for causal language modeling.
+  - Downloads: 37
+- [Ivydata/whisper-small-japanese](https://huggingface.co/Ivydata/whisper-small-japanese)
+  - A fine-tuned Japanese Whisper model using whisper-small on Common Voice, JVS, and JSUT, suitable for speech input sampled at 16kHz.
+  - Downloads: 37
+- [mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-4bit](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-4bit)
+  - This repository contains a 32B Japanese Qwen model converted to MLX format for use with the mlx-lm library.
   - Downloads: 36
-- [sonoisa/sentence-bert-base-ja-en-mean-tokens](https://huggingface.co/sonoisa/sentence-bert-base-ja-en-mean-tokens)
-  - This GitHub repository hosts a Japanese+English Sentence-BERT model pre-trained on cl-tohoku/bert-base-japanese-whole-word-masking, showing improved English STSbenchmark performance while slightly lower Japanese accuracy.
+- [megagonlabs/electra-base-japanese-discriminator](https://huggingface.co/megagonlabs/electra-base-japanese-discriminator)
+  - An ELECTRA model pretrained on约2亿日语句子，采用SudachiTra分词和WordPiece子词分割，可通过AutoModel和AutoTokenizer加载。
   - Downloads: 36
-- [aken12/splade-japanese](https://huggingface.co/aken12/splade-japanese)
-  - A GitHub repository for initializing and using the SPLADE-Japanese model on the mMARCO Japanese dataset for query encoding.
+- [retrieva-jp/t5-small-long](https://huggingface.co/retrieva-jp/t5-small-long)
+  - A T5 v1.1 model pre-trained on Japanese corpus with GEGLU activation, no dropout in pre-training, and "xl"/"xxl" size variations.
   - Downloads: 35
-- [nlp-waseda/roberta-large-japanese](https://huggingface.co/nlp-waseda/roberta-large-japanese)
-  - A Japanese RoBERTa large model pretrained on Wikipedia and CC-100, usable for masked language modeling.
+- [izumi-lab/electra-small-japanese-generator](https://huggingface.co/izumi-lab/electra-small-japanese-generator)
+  - A pre-trained ELECTRA small model for Japanese language processing, trained on a corpus derived from the Japanese Wikipedia.
+  - Downloads: 35
+- [KoichiYasuoka/bert-base-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-base-japanese-char-extended)
+  - A BERT model pre-trained on Japanese Wikipedia text, extended with enhanced character embeddings for fine-tuning in NLP tasks like POS-tagging and dependency-parsing.
+  - Downloads: 35
+- [llm-jp/llm-jp-3-8x1.8b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-8x1.8b-instruct3)
+  - The repository offers the llm-jp-3-8x1.8b-instruct3 model, part of the LLM-jp-3 series developed by the National Institute of Informatics for large language processing.
+  - Downloads: 35
+- [aken12/splade-japanese](https://huggingface.co/aken12/splade-japanese)
+  - A Python script using SPLADE for Japanese text encoding initialized from tohoku-nlp/bert-base-japanese-v2 and trained on mMARCO Japanese dataset.
+  - Downloads: 35
+- [Mizuiro-sakura/bert-large-japanese-v2-finetuned-commonsenseQA](https://huggingface.co/Mizuiro-sakura/bert-large-japanese-v2-finetuned-commonsenseQA)
+  - This repository contains a fine-tuned BERT-large-Japanese-v2 model for CommonsenseQA tasks using the JCommonsenseQA dataset from Yahoo Japan's JGLUE.
   - Downloads: 34
-- [p1atdev/t5-base-xlsum-ja](https://huggingface.co/p1atdev/t5-base-xlsum-ja)
-  - A fine-tuned T5-base model on the xlsum dataset for Japanese summarization, achieving specified loss and Rouge scores with given training hyperparameters.
-  - Downloads: 34
-- [ClassCat/gpt2-base-japanese-v2](https://huggingface.co/ClassCat/gpt2-base-japanese-v2)
-  - A GPT2 Japanese base model version 2 using BPE tokenizer and trained on wiki40b/ja subset, enabling text generation.
+- [ken11/albert-base-japanese-v1-with-japanese-tokenizer](https://huggingface.co/ken11/albert-base-japanese-v1-with-japanese-tokenizer)
+  - A pre-trained Japanese ALBERT model using BertJapaneseTokenizer for easier tokenization, intended for fine-tuning on various tasks in PyTorch.
   - Downloads: 34
 - [LoneStriker/SambaLingo-Japanese-Chat-GGUF](https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-GGUF)
-  - SambaLingo-Japanese-Chat is a human-aligned chat model trained in Japanese and English using direct preference optimization on top of Llama-2-7b fined-tuned with 42 billion Japanese tokens.
+  - SambaLingo-Japanese-Chat is a Japanese and English language model fine-tuned on 42 billion tokens from the Cultura-X dataset, optimized for direct preference tasks and built by SambaNova Systems.
   - Downloads: 34
-- [retrieva-jp/t5-small-long](https://huggingface.co/retrieva-jp/t5-small-long)
-  - A T5 v1.1 model card for a Japanese corpus-based encoder-decoder model featuring GEGLU activation, no pre-training dropout, and different size variants "xl" and "xxl".
+- [bclavie/fio-base-japanese-v0.1](https://huggingface.co/bclavie/fio-base-japanese-v0.1)
+  - fio-base-japanese-v0.1 is a proof-of-concept Japanese embedding based on cl-tohoku/bert-base-japanese-v3, trained on limited data and intended for similarity/entailment and retrieval tasks with datasets like JSTS, JSNLI, JNLI, and MMARCO.
+  - Downloads: 33
+- [izumi-lab/electra-small-paper-japanese-generator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-generator)
+  - A pre-trained ELECTRA small model for Japanese language processing, trained on the Japanese Wikipedia.
   - Downloads: 33
 - [QuantFactory/Oumuamua-7b-instruct-GGUF](https://huggingface.co/QuantFactory/Oumuamua-7b-instruct-GGUF)
   - Oumuamua-7b-instruct-GGUF This is quantized version of nitky/Oumuamua-7b-instruct created using llama.cpp Model Description This is a merge of pre-trained language models created using mergekit.
   - Downloads: 33
-- [okazaki-lab/japanese-reversed-gpt2-medium-unidic](https://huggingface.co/okazaki-lab/japanese-reversed-gpt2-medium-unidic)
-  - This repository contains a medium-sized Japanese reversed GPT-2 model using BERT-like tokenizer, requiring PyTorch, fugashi with unidic-lite, and Hugging Face Transformers for usage.
+- [SkelterLabsInc/bert-base-japanese-jaquad](https://huggingface.co/SkelterLabsInc/bert-base-japanese-jaquad)
+  - A BERT-based Japanese model fine-tuned on JaQuAD with evaluation F1 scores of 78.92 and 77.35 on the test and development sets, respectively.
   - Downloads: 32
-- [Mizuiro-sakura/bert-large-japanese-v2-finetuned-commonsenseQA](https://huggingface.co/Mizuiro-sakura/bert-large-japanese-v2-finetuned-commonsenseQA)
-  - This repository contains a fine-tuned BERT-largeJapanese-v2 model for CommonsenseQA tasks using the JGLUE/JCommonsenseQA dataset.
+- [megagonlabs/transformers-ud-japanese-electra-base-discriminator](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-discriminator)
+  - A Japanese ELECTRA model pretrained on 200 million sentences, using SudachiTra and WordPiece tokenization.
   - Downloads: 32
-- [megagonlabs/electra-base-japanese-discriminator](https://huggingface.co/megagonlabs/electra-base-japanese-discriminator)
-  - An ELECTRA model pretrained on 200M Japanese sentences using SudachiTra tokenization, compatible with mC4 Japanese dataset.
+- [hiroshi-matsuda-rit/bert-base-japanese-basic-char-v2](https://huggingface.co/hiroshi-matsuda-rit/bert-base-japanese-basic-char-v2)
+  - A BERT base Japanese model with character-level tokenization and whole-word masking, using basic tokenization instead of Mecab.
   - Downloads: 32
-- [Kendamarron/LongWriter-llm-jp-3-3.7b-instruct](https://huggingface.co/Kendamarron/LongWriter-llm-jp-3-3.7b-instruct)
-  - A model fine-tuned for long text generation from the llm-jp/llm-jp-3-3.7b-instruct repository, using SFT and a Japanese dataset with 3k samples.
+- [colorfulscoop/bert-base-ja](https://huggingface.co/colorfulscoop/bert-base-ja)
+  - A BERT base model trained on a Japanese Wikipedia dataset from June 20, 2021.
   - Downloads: 32
-- [hitachi-nlp/bert-base-japanese_mecab-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_mecab-bpe)
-  - The repository provides a Japanese BERT-base tokenizer using MeCab and Byte-Pair Encoding (BPE), requiring the dictionary file for installation.
+- [DataPilot/sarashina2.2-3Bx8-moe](https://huggingface.co/DataPilot/sarashina2.2-3Bx8-moe)
+  - A MoE-based language model that integrates eight specialized experts from sbintuitions/sarashina2.2-3b-instruct-v0.1, offering high-quality Japanese response generation and flexible dialogue performance.
   - Downloads: 31
-- [jweb/japanese-soseki-gpt2-1b](https://huggingface.co/jweb/japanese-soseki-gpt2-1b)
-  - This repository offers a 1.3B-parameter fine-tuned Japanese GPT2 model for use with T5Tokenizer, available in PyTorch and Rust.
-  - Downloads: 31
-- [Local-Novel-LLM-project/Ninja-v1](https://huggingface.co/Local-Novel-LLM-project/Ninja-v1)
-  - A novel dataset fine-tuned version of Mistral-7B for high-quality Japanese and English generation with memory abilities, developed during a LocalAI hackathon.
+- [mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese)
+  - A MLX-formatted version of the DeepSeek-R1-Distill-Qwen-32B-Japanese model for Japanese language processing.
   - Downloads: 31
 - [loiccabannes/MambaSan-370m](https://huggingface.co/loiccabannes/MambaSan-370m)
-  - MambaSan-370m is a chat Japanese language model based on the Mamba state-space model architecture, inspired by the work of Albert Gu and Tri Dao.
+  - MambaSan-370m is a Japanese language model based on the Mamba state-space architecture, derived from work by Albert Gu and Tri Dao. Pretraining code will be published soon.
   - Downloads: 31
-- [knok/japanese-distilgpt2](https://huggingface.co/knok/japanese-distilgpt2)
-  - This repository contains a distilled GPT-2 Japanese model trained from rinna/japanese-gpt2-medium, using Google GPU instances and Hugging Face Transformers.
-  - Downloads: 30
-- [KoichiYasuoka/deberta-small-japanese-upos](https://huggingface.co/KoichiYasuoka/deberta-small-japanese-upos)
-  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging and dependency parsing of Japanese short-unit-words.
+- [izumi-lab/electra-small-japanese-fin-generator](https://huggingface.co/izumi-lab/electra-small-japanese-fin-generator)
+  - A pre-trained ELECTRA small model for Japanese text generation using the Wikipedia corpus.
   - Downloads: 30
 - [taishi-i/nagisa_bert](https://huggingface.co/taishi-i/nagisa_bert)
-  - A BERT model for nagisa,available in Transformers and requiring Python 3.7+, with a provided tokenizer and usage via the pipeline method.
+  - A BERT model for nagisa, available via the Transformers library, requiring Python 3.7+, with installation and usage instructions provided.
   - Downloads: 29
-- [inu-ai/alpaca-guanaco-japanese-gpt-1b](https://huggingface.co/inu-ai/alpaca-guanaco-japanese-gpt-1b)
-  - A 1.3B parameter Japanese GPT dialogue AI trained on Alpaca_Ja and GuanacoDataset, requiring 7GB VRAM or RAM for operation.
+- [rinna/nekomata-14b-gguf](https://huggingface.co/rinna/nekomata-14b-gguf)
+  - The GGUF version of rinna/nekomata-14b model can be used with llama.cpp, with recommended 4-bit quantization and caution advised for specific quantization methods.
   - Downloads: 29
-- [huranokuma/es2](https://huggingface.co/huranokuma/es2)
-  - A fine-tuned Japanese GPT-2 model for writing AI-generated ES texts, trained on over 140,000 examples from various fields, available via web app http://www.eswrite.com.
+- [KoichiYasuoka/deberta-base-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-unidic-luw-upos)
+  - A DeBERTa(V2) model pre-trained on Japanese texts from 青空文庫 for UPOS and FEATS tagging, imported via Hugging Face Transformers.
+  - Downloads: 29
+- [aerner/lm-v2](https://huggingface.co/aerner/lm-v2)
+  - Aerner LM-v2 是一个基于 LLama 的日语模型，经过全部日语文本的预训练，适合在 24GB VRAM 设备上使用，相比 V1 在学习步骤上有所增加。
   - Downloads: 28
-- [izumi-lab/electra-small-japanese-generator](https://huggingface.co/izumi-lab/electra-small-japanese-generator)
-  - A pretrained ELECTRA model for Japanese language processing, based on Wikipedia text.
+- [microsoft/unihanlm-base](https://huggingface.co/microsoft/unihanlm-base)
+  - UnihanLM is a self-supervised pretraining model for Chinese and Japanese that uses a two-stage approach and the Unihan database to leverage shared character knowledge between the languages.
   - Downloads: 28
-- [AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana)
-  - A fine-tuned wav2vec2 model achieving low loss and error rates on the Japanese Common Voice dataset.
+- [KoichiYasuoka/deberta-large-japanese-unidic-ud-head](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-unidic-ud-head)
+  - A DeBERTa(V2) model pretrained on Japanese text for dependency-parsing and question-answering, designed to handle ambiguous words in context.
   - Downloads: 27
-- [KoichiYasuoka/deberta-large-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-aozora-ud-head)
-  - A DeBERTa(V2) model pretrained on the Aozora Bunko corpus for dependency-parsing and question-answering, with support for handling multiple-used words.
+- [megagonlabs/transformers-ud-japanese-electra-base-ginza](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza)
+  - An ELECTRA model pretrained on mC4 Japanese data and finetuned on UD_Japanese_BCCWJ with Sudachitra wordpiece tokenizer and spaCy v3's GiNZA pipeline.
   - Downloads: 27
-- [KoichiYasuoka/modernbert-large-japanese-aozora](https://huggingface.co/KoichiYasuoka/modernbert-large-japanese-aozora)
-  - A pre-trained ModernBERT large model on Japanese Aozora texts, usable for tasks like POS-tagging and dependency-parsing.
+- [tohoku-nlp/bert-large-japanese-char](https://huggingface.co/tohoku-nlp/bert-large-japanese-char)
+  - A BERT large Japanese model pretrained with character-level tokenization and whole word masking using Unidic 2.1.2 dictionary.
   - Downloads: 27
 - [masato12/bert-base-japanese-v3-jsts-with-tokenizer](https://huggingface.co/masato12/bert-base-japanese-v3-jsts-with-tokenizer)
   - bert-base-japanese-v3-jsts 「大規模言語モデル入門」の第5章で紹介している(意味類似度計算)のモデルです。
   - Downloads: 27
-- [KoichiYasuoka/deberta-base-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-unidic-luw-upos)
-  - A DeBERTa(V2) model pre-trained on Japanese texts from 青空文庫 for UPOS and FEATS tagging, derived from deberta-base-japanese-unidic.
+- [KoichiYasuoka/modernbert-large-japanese-aozora](https://huggingface.co/KoichiYasuoka/modernbert-large-japanese-aozora)
+  - A pre-trained ModernBERT model on Japanese Aozora texts, optimized for tasks like POS-tagging and available for fine-tuning.
+  - Downloads: 26
+- [jweb/japanese-soseki-gpt2-1b](https://huggingface.co/jweb/japanese-soseki-gpt2-1b)
+  - This repository offers a 1.3B-parameter fine-tuned Japanese GPT2 model for use with T5Tokenizer, available in PyTorch and Rust.
   - Downloads: 26
 - [yellowback/gpt-neo-japanese-1.3B](https://huggingface.co/yellowback/gpt-neo-japanese-1.3B)
-  - A pre-trained GPT-Neo 1.3B model for Japanese, trained on cc100 ja, oscar ja, and wikipedia, enabling text generation via Hugging Face transformers.
+  - A pre-trained GPT-Neo 1.3B model for Japanese, trained on cc100 ja, Oscar ja, and Wikipedia, allowing text generation via transformers pipeline.
+  - Downloads: 26
+- [alabnii/jmedroberta-base-manbyo-wordpiece](https://huggingface.co/alabnii/jmedroberta-base-manbyo-wordpiece)
+  - A Japanese RoBERTa base model pre-trained on medical science articles collected by JST, released under CC BY-NC-SA 4.0.
+  - Downloads: 26
+- [inu-ai/alpaca-guanaco-japanese-gpt-1b](https://huggingface.co/inu-ai/alpaca-guanaco-japanese-gpt-1b)
+  - A 1.3B parameter Japanese GPT dialogue AI trained using Alpaca_Ja and GuanacoDataset, requiring at least 7GB VRAM/RAM; uses rinna's 'japanese-gpt-1b' model.
+  - Downloads: 26
+- [hitachi-nlp/bert-base-japanese_mecab-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_mecab-bpe)
+  - The repository provides a Japanese BERT-base tokenizer using MeCab and BPE, requiring the dictionary file path for loading.
+  - Downloads: 26
+- [AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana)
+  - A fine-tuned wav2vec2-xls-r-1b model on the Common Voice JA dataset achieves low loss and error rates with specific training hyperparameters.
   - Downloads: 26
 - [oshizo/japanese-e5-mistral-1.9b](https://huggingface.co/oshizo/japanese-e5-mistral-1.9b)
-  - A 8-layer-trained Japanese language model derived from oshizo/japanese-e5-mistral-7b_slerp, trained on 800,000 sentences.
+  - A 8-layer-trained Japanese language model derived from oshizo/japanese-e5-mistral-7b_slerp, trained on 800,000 sentences, with details available in a Japanese article and usage instructions found on the intfloat/e5-mistral-7b-instruct page.
   - Downloads: 26
 - [nptdat/bert-japanese-12M](https://huggingface.co/nptdat/bert-japanese-12M)
   - Overview of bert-japanese-12M The bert-japanese-12M model is a transformer-based model with BERT architecture, which is designed to be used on Japanese text.
@@ -1552,53 +1549,47 @@ This list is sorted by downloads as of March 25, 2025.
 - [owner203/japanese-llama-3-8b-instruct-v2-gguf](https://huggingface.co/owner203/japanese-llama-3-8b-instruct-v2-gguf)
   - Japanese-LLaMA-3-8B-Instruct-v2-GGUF Japanese-LLaMA-3-8B-Instruct-v2-GGUFはJapanese-LLaMA-3-8B-Instruct-v2のGGUF形式です。
   - Downloads: 26
-- [mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-8bit](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-8bit)
-  - The repository contains a Japanese Qwen-32B language model converted to MLX format, along with instructions for usage.
-  - Downloads: 25
-- [llm-jp/llm-jp-13b-instruct-lora-jaster-v1.0](https://huggingface.co/llm-jp/llm-jp-13b-instruct-lora-jaster-v1.0)
-  - This repository includes various instruction-tuned and LoRAfine pre-trained language models from the LLM-jp project, formatted for Hugging Face.
-  - Downloads: 25
-- [hitachi-nlp/bert-base-japanese_vaporetto-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_vaporetto-bpe)
-  - The repository provides a Vaporetto + BPE tokenizer for Japanese BERT-base, requiring users to download the dictionary file and specify its path.
-  - Downloads: 25
 - [hitachi-nlp/bert-base-japanese_sudachi-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_sudachi-bpe)
-  - The repository provides instructions and code for loading the Sudachi + BPE tokenizer used with Japanese BERT-base models.
+  - The repository provides instructions for loading a Japanese BERT tokenizer using Sudachi and BPE, including how to specify the dictionary file path.
   - Downloads: 25
-- [KoichiYasuoka/deberta-large-japanese-unidic-ud-head](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-unidic-ud-head)
-  - A DeBERTa(V2) model pretrained on 青空文庫 for dependency-parsing and question-answering, using [MASK] to handle ambiguous words.
+- [Local-Novel-LLM-project/Ninja-v1](https://huggingface.co/Local-Novel-LLM-project/Ninja-v1)
+  - Ninja-v1 is a novel dataset fine-tuned version of Mistral-7B, enhancing memory for long-context generation and featuring high-quality Japanese and English text production, developed during a local AI hackathon.
   - Downloads: 25
 - [TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ)
-  - This repository includes GPTQ model files for Stability AI's Japanese StableLM Instruct Gamma 7B with various parameter permutations.
+  - This repository contains GPTQ model files for Stability AI's Japanese StableLM Instruct Gamma 7B with various parameter permutations.
   - Downloads: 25
 - [Local-Novel-LLM-project/Vecteus-V2-7B](https://huggingface.co/Local-Novel-LLM-project/Vecteus-V2-7B)
   - Vecteus-V2-7B このモデルは、ベクトルマージなどを用い作成された高性能ベースモデルです。
   - Downloads: 25
+- [KoichiYasuoka/roberta-small-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-aozora)
+  - A RoBERTa model pre-trained on Aozora Bunko texts with Japanese-LUW Tokenizer for fine-tuning in tasks like POS-tagging and dependency-parsing.
+  - Downloads: 24
 - [sonoisa/sentence-t5-base-ja-mean-tokens](https://huggingface.co/sonoisa/sentence-t5-base-ja-mean-tokens)
   - A Japanese sentence-T5 model using sonoisa/t5-base-japanese for inference with sentencepiece.
   - Downloads: 24
 - [paulhindemith/fasttext-jp-embedding](https://huggingface.co/paulhindemith/fasttext-jp-embedding)
-  - An experimental FastText word embedding model for Japanese, includes setup instructions for Google Colaboratory and dependencies like MeCab.
+  - An experimental FastText word embedding model for Japanese, including setup instructions for Google Colaboratory and necessary libraries.
   - Downloads: 24
-- [k-ush/xlm-roberta-base-ance-en-jp-warmup](https://huggingface.co/k-ush/xlm-roberta-base-ance-en-jp-warmup)
-  - A XLM-RoBERTa-base model trained on Japanese mMARCO data with ANCE warmup, checkpoint saved at 50k steps due to MRR decline at 60k.
+- [llm-jp/llm-jp-13b-instruct-lora-jaster-v1.0](https://huggingface.co/llm-jp/llm-jp-13b-instruct-lora-jaster-v1.0)
+  - This repository includes various large language model variants and pre-trained checkpoints developed by LLM-jp, including instruction-tuned and LoRA versions in both full-JASTER and DOLLY-OASST formats.
   - Downloads: 24
-- [fukugawa/transformer-lm-japanese-0.1b](https://huggingface.co/fukugawa/transformer-lm-japanese-0.1b)
-  - This GitHub repository contains JAX/Flax-based transformer language models trained on Japanese data, including updates and benchmark scores.
+- [hitachi-nlp/bert-base-japanese_vaporetto-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_vaporetto-bpe)
+  - The repository provides instructions for loading a Japanese BERT-base tokenizer using Vaporetto and BPE, including how to download and specify the dictionary file path.
   - Downloads: 24
-- [kit-nlp/bert-base-japanese-basic-char-v2-cyberbullying](https://huggingface.co/kit-nlp/bert-base-japanese-basic-char-v2-cyberbullying)
-  - A BERT Base model for Japanese language fine-tuned on a balanced dataset for automatic cyberbullying detection, licensed under CC BY-SA 4.0.
+- [knok/japanese-distilgpt2](https://huggingface.co/knok/japanese-distilgpt2)
+  - This repository hosts a distilled GPT-2 Japanese model derived from rinna/japanese-gpt2-medium, trained and optimized using modified HuggingFace Transformers code.
   - Downloads: 24
-- [izumi-lab/electra-small-japanese-fin-generator](https://huggingface.co/izumi-lab/electra-small-japanese-fin-generator)
-  - A pre-trained ELECTRA small model for generating Japanese financial texts, trained on the Japanese Wikipedia.
+- [izumi-lab/electra-small-japanese-discriminator](https://huggingface.co/izumi-lab/electra-small-japanese-discriminator)
+  - ELECTRA small Japanese discriminator pretrained on Japanese Wikipedia文本，具有12层、256维隐藏状态和4个注意力头。
   - Downloads: 24
-- [ascktgcc/Mistral-nemo-ja-rp-v0.2](https://huggingface.co/ascktgcc/Mistral-nemo-ja-rp-v0.2)
-  - A Japanese-finetuned Mistral-Nemo model for EPR purposes, using multiple datasets to enhance Japanese proficiency and with adjusted training epochs and parameters.
+- [KoichiYasuoka/bert-large-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-upos)
+  - A BERT model pre-trained on Japanese Wikipedia for UPOS tagging, derived from bert-large-japanese-char-extended.
   - Downloads: 24
 - [KoichiYasuoka/roberta-base-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-aozora-ud-goeswith)
-  - A RoBERTa model pretrained on Japanese Aozora texts for POS-tagging and dependency-parsing, using goeswith for subwords, suitable for universal dependencies tasks.
+  - A RoBERTa model pretrained on Japanese Aozora texts for POS-tagging and dependency-parsing, using goeswith subwords, with instructions for universal-dependencies pipeline usage.
   - Downloads: 24
 - [napopoa32/swallow-hermes-st-v1](https://huggingface.co/napopoa32/swallow-hermes-st-v1)
-  - A model combining English GPT-4 chat vector and Japanese language patterns to generate light bedtime stories.
+  - A model combining English chat vectors and fine-tuning strategies to create bedtime story prompts for Japanese language models.
   - Downloads: 24
 - [espnet/kan-bayashi_tsukuyomi_tts_finetune_full_band_jsut_vits_raw_phn_jaconv_pyopenjtalk_prosody_latest](https://huggingface.co/espnet/kan-bayashi_tsukuyomi_tts_finetune_full_band_jsut_vits_raw_phn_jaconv_pyopenjtalk_prosody_latest)
   - ESPnet2 TTS pretrained model kan-bayashi/tsukuyomi_tts_finetune_full_band_jsut_vits_raw_phn_jaconv_pyopenjtalk_prosody_latest ♻
@@ -1606,29 +1597,14 @@ This list is sorted by downloads as of March 25, 2025.
 - [fukugawa/transformer-lm-japanese-1.0b](https://huggingface.co/fukugawa/transformer-lm-japanese-1.0b)
   - transformer-lm-japanese-1.0b This is a JAX/Flax-based transformer language model trained on a Japanese dataset.
   - Downloads: 24
-- [KoichiYasuoka/deberta-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-luw-upos)
-  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging of long-unit-words, derived from deberta-base-japanese-aozora.
-  - Downloads: 23
-- [hitachi-nlp/bert-base-japanese_jumanpp-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_jumanpp-unigram)
-  - The repository provides a Japanese BERT-base tokenizer using Juman++ + Unigram, including instructions on how to load it by specifying the dictionary file path.
-  - Downloads: 23
-- [rinna/nekomata-14b-gguf](https://huggingface.co/rinna/nekomata-14b-gguf)
-  - The GitHub repository contains the GGUF version of rinna/nekomata-14b, suitable for lightweight inference with llama.cpp, and recommends specific quantization settings.
-  - Downloads: 23
-- [hitachi-nlp/bert-base-japanese_vaporetto-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_vaporetto-unigram)
-  - The repository provides instructions for loading a Japanese BERT tokenizer derived from Vaporetto and Unigram, requiring the dictionary file's path.
-  - Downloads: 23
-- [aerner/lm-v1](https://huggingface.co/aerner/lm-v1)
-  - Aerner LM-v1 is a small LLaMA-based Japanese-language model trained from scratch, offering quick inference but limited knowledge and generating humorous responses.
-  - Downloads: 23
-- [KoichiYasuoka/bert-large-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-upos)
-  - A BERT model for Japanese POS-tagging and dependency-parsing, derived from bert-large-japanese-char-extended and tagged with UPOS.
+- [ku-nlp/deberta-v2-base-japanese-with-auto-jumanpp](https://huggingface.co/ku-nlp/deberta-v2-base-japanese-with-auto-jumanpp)
+  - A Japanese DeBERTa V2 base model pre-trained on specific datasets, usable for masked language modeling.
   - Downloads: 23
 - [KoichiYasuoka/bert-large-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-unidic-luw-upos)
-  - A BERT model for Japanese POS-tagging and dependency-parsing, derived from bert-largeJapanese, with UPOS tagging of long-unit-words.
+  - A BERT model pre-trained on Japanese Wikipedia for UPOS tagging of long-unit-words, derived from bert-large-japanese.
   - Downloads: 23
 - [KoichiYasuoka/deberta-large-japanese-wikipedia-ud-head](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-wikipedia-ud-head)
-  - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 texts for dependency-parsing and question-answering with masked input handling.
+  - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 texts for head-detection in long-unit-words, designed for question-answering tasks using [MASK].
   - Downloads: 23
 - [webbigdata/C3TR-Adapter_gptq](https://huggingface.co/webbigdata/C3TR-Adapter_gptq)
   - Model card 英日、日英翻訳用モデルC3TR-AdapterのGPTQ4bit量子化版です。
@@ -1636,35 +1612,68 @@ This list is sorted by downloads as of March 25, 2025.
 - [cl-nagoya/ruri-reranker-stage1-base](https://huggingface.co/cl-nagoya/ruri-reranker-stage1-base)
   - Ruri-Reranker: Japanese General Reranker Usage Direct Usage (Sentence Transformers)
   - Downloads: 23
-- [Aratako/Ninja-v1-RP](https://huggingface.co/Aratako/Ninja-v1-RP)
-  - A merged role-playing language model enhanced with Task Vector and Model Stock techniques, based on Aratako/Ninja-v1-RP-WIP, using Vicuna prompt format.
+- [ascktgcc/Mistral-nemo-ja-rp-v0.2](https://huggingface.co/ascktgcc/Mistral-nemo-ja-rp-v0.2)
+  - A Mistral-nemo model fine-tuned for EPR purposes with enhanced Japanese proficiency, using a larger dataset and increased epochs.
   - Downloads: 22
-- [KoichiYasuoka/bert-large-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-large-japanese-char-extended)
-  - A BERT model pre-trained on Japanese Wikipedia texts with enhanced character embeddings for常用漢字/人名用漢字, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+- [Fugaku-LLM/Fugaku-LLM-13B](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B)
+  - This GitHub repository contains the terms and conditions for using Fugaku-LLM, a large language model developed as part of a supercomputer project, including its commercial and non-commercial use, modification, and distribution.
+  - Downloads: 22
+- [Miwa-Keita/zenz-v1](https://huggingface.co/Miwa-Keita/zenz-v1)
+  - Zenz-v1 is a GPT-2-based language model for katakana-to-hanja conversion, finetuned from ku-nlp/gpt2-small-japanese-char, with 90M parameters for use in the Zenzai kanji conversion system.
+  - Downloads: 22
+- [kz/mt5base-finetuned-patentsum-japanese-small](https://huggingface.co/kz/mt5base-finetuned-patentsum-japanese-small)
+  - Google's mt5-base fine-tuned in Japanese for summarizing pharmaceutical patent claims.
+  - Downloads: 22
+- [KoichiYasuoka/deberta-large-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-aozora-ud-head)
+  - A DeBERTa(V2) model pretrained on Aozora Bunko for dependency-parsing and question-answering with support for handling multiple-used words.
+  - Downloads: 22
+- [nakamura196/roberta-small-hi-char-mlm](https://huggingface.co/nakamura196/roberta-small-hi-char-mlm)
+  - A RoBERTa model pre-trained on Hindi texts with a character tokenizer, configured as an encoder-only model.
   - Downloads: 22
 - [nakamura196/roberta-small-hi-char](https://huggingface.co/nakamura196/roberta-small-hi-char)
-  - A RoBERTa model pre-trained on Hindi texts with a character-level tokenizer, available for masked language modeling.
+  - A RoBERTa model pre-trained on Hindi texts using a character-level tokenizer, accessible via the transformers library.
   - Downloads: 22
-- [KoichiYasuoka/roberta-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-luw-upos)
-  - A RoBERTa model pre-trained on 青空文庫 texts for UPOS tagging of long-unit-words, derived from roberta-large-japanese-aozora.
+- [hitachi-nlp/bert-base-japanese_jumanpp-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_jumanpp-unigram)
+  - The repository provides a Japanese BERT tokenizer using Juman++ and Unigram, detailing how to load the tokenizer by specifying the dictionary file path.
   - Downloads: 22
-- [hitachi-nlp/bert-base-japanese_mecab-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_mecab-wordpiece)
-  - Provides instructions for loading a Japanese BERT-base tokenizer using MeCab and WordPiece dictionaries.
+- [aerner/lm-v1](https://huggingface.co/aerner/lm-v1)
+  - Aerner LM-v1 is a small LLaMA-based Japanese-language model trained from scratch, offering quick inference but limited in generating practical answers, instead producing humorous text.
+  - Downloads: 22
+- [KoichiYasuoka/bert-base-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-unidic-luw-upos)
+  - A BERT-based Japanese POS-tagging and dependency-parsing model derived from bert-base-japanese-v2, using UPOS tags for long-unit-words.
+  - Downloads: 22
+- [Aratako/Ninja-v1-RP](https://huggingface.co/Aratako/Ninja-v1-RP)
+  - A merged pre-trained language model for role-playing, enhanced with Task Vectors and Model Stock merging, using the Vicuna chat template.
+  - Downloads: 22
+- [sonoisa/t5-base-japanese-mC4-Wikipedia](https://huggingface.co/sonoisa/t5-base-japanese-mC4-Wikipedia)
+  - A T5 model pretrained on a large Japanese corpus, including Wikipedia and mC4 data, requiring fine-tuning for specific tasks and potentially subject to biased outputs.
   - Downloads: 21
-- [megagonlabs/transformers-ud-japanese-electra-base-ginza-520](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza-520)
-  - An ELECTRA model pretrained on mC4 Japanese sentences and fine-tuned on UD_Japanese_BCCWJ using spaCy v3, distributed as the ja_ginza_electra Python package.
+- [KoichiYasuoka/deberta-small-japanese-upos](https://huggingface.co/KoichiYasuoka/deberta-small-japanese-upos)
+  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging and parsing, derived from `deberta-small-japanese-aozora`.
   - Downloads: 21
 - [hitachi-nlp/bert-base-japanese_sudachi-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_sudachi-wordpiece)
-  - The repository provides instructions for loading a Japanese BERT-base tokenizer using Sudachi and WordPiece dictionaries.
+  - This repository provides a Japanese BERT tokenizer using Sudachi and WordPiece, requiring the dictionary file path for tokenization.
   - Downloads: 21
-- [hiroshi-matsuda-rit/bert-base-sudachitra-v11](https://huggingface.co/hiroshi-matsuda-rit/bert-base-sudachitra-v11)
-  - This repository contains a modified version of SudachiTra for BERT, with changes to word form type and vocabulary handling.
+- [fukugawa/transformer-lm-japanese-0.1b](https://huggingface.co/fukugawa/transformer-lm-japanese-0.1b)
+  - A JAX/Flax-based transformer language model for Japanese, trained on a Japanese dataset and including JGLUE benchmark scores.
   - Downloads: 21
-- [Elizezen/SlaughterHouse-exp-7B](https://huggingface.co/Elizezen/SlaughterHouse-exp-7B)
-  - A fine-tuned 7B-parameter Japanese language model capable of generating fanfics based on ACG content, built on Japanese Stable LM Base Gamma 7B.
+- [hitachi-nlp/bert-base-japanese_vaporetto-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_vaporetto-unigram)
+  - The repository provides instructions for loading a Japanese BERT tokenizer using Vaporetto and Unigram dictionaries.
+  - Downloads: 21
+- [Mizuiro-sakura/luke-japanese-base-finetuned-jsts](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-jsts)
+  - This repository contains a fine-tuned version of luke-japanese-base for JSTS sentence similarity tasks, achieving high accuracy with Pearson correlation of 0.8971.
+  - Downloads: 21
+- [Formzu/bart-base-japanese](https://huggingface.co/Formzu/bart-base-japanese)
+  - The GitHub repository provides a converted Japanese BART pretrained model for use with specific tokenizers and includes instructions for model deployment.
+  - Downloads: 21
+- [KoichiYasuoka/bert-large-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-large-japanese-char-extended)
+  - A BERT large Japanese character-level model pre-trained on extended Wikipedia texts including all常用漢字/人名用漢字characters, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+  - Downloads: 21
+- [mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-8bit](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-Japanese-8bit)
+  - A MLX-formatted 32B Japanese language model converted from cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese, ready for use with mlx-lm.
   - Downloads: 21
 - [p1atdev/kakuyomu-genre-bert](https://huggingface.co/p1atdev/kakuyomu-genre-bert)
-  - A BERT model fine-tuned on Japanese literary genres using titles and descriptions from kakuyomu.
+  - A BERT model fine-tuned on Japanese text for classifying novels into genres based on titles and introductions.
   - Downloads: 21
 - [cl-nagoya/ruri-pt-small](https://huggingface.co/cl-nagoya/ruri-pt-small)
   - Ruri: Japanese General Text Embeddings Usage First install the Sentence Transformers library: pip install -U sentence-transformers Then you can load this model and run inference.
@@ -1672,83 +1681,59 @@ This list is sorted by downloads as of March 25, 2025.
 - [nitky/Oumuamua-7b-instruct](https://huggingface.co/nitky/Oumuamua-7b-instruct)
   - Oumuamua-7b-instruct This is a merge of pre-trained language models created using mergekit.
   - Downloads: 21
-- [Fugaku-LLM/Fugaku-LLM-13B](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B)
-  - This GitHub repository contains the terms and conditions for using Fugaku-LLM, a large language model developed as part of research on distributed parallel learning methods for supercomputers, with commercial and non-commercial applications allowed under specified conditions.
+- [KoichiYasuoka/roberta-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-luw-upos)
+  - A RoBERTa large Japanese model pre-trained on 青空文庫 texts for UPOS tagging, enabling token-level part-of-speech tagging.
   - Downloads: 20
-- [Fugaku-LLM/Fugaku-LLM-13B-instruct](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct)
-  - This GitHub repository houses the Fugaku-LLM, a large language model developed for distributed parallel learning on supercomputer Fugaku, with usage terms and conditions outlined by its developers.
+- [TylorShine/distilhubert-ft-japanese-50k](https://huggingface.co/TylorShine/distilhubert-ft-japanese-50k)
+  - A fine-tuned 50k steps model on Japanese using multiple corpora, with terms of use applicable for all uses.
   - Downloads: 20
-- [KoichiYasuoka/bert-base-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-unidic-luw-upos)
-  - A BERT-based Japanese model for POS tagging and dependency parsing, derived from bert-base-japanese-v2 and tagged with UPOS.
-  - Downloads: 20
-- [nakamura196/roberta-small-hi-char-mlm](https://huggingface.co/nakamura196/roberta-small-hi-char-mlm)
-  - A RoBERTa model pre-trained on Hindi texts with character-level tokenizer, configured as `is_decoder=False`.
-  - Downloads: 20
-- [hitachi-nlp/bert-base-japanese_mecab-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_mecab-unigram)
-  - The repository provides instructions for loading a Japanese BERT tokenizer using MeCab and Unigram dictionaries.
-  - Downloads: 20
-- [sehiro/AI-buncho-novel-ct2](https://huggingface.co/sehiro/AI-buncho-novel-ct2)
-  - A dataset converted from AIBunCho's public model for ctranslate2, with 8-bit quantization and potential loss in accuracy.
-  - Downloads: 20
-- [hitachi-nlp/bert-base-japanese_jumanpp-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_jumanpp-wordpiece)
-  - The repository provides a Japanese BERT-base tokenizer using Juman++ + WordPiece, requiring users to download the dictionary file and specify its path for loading.
-  - Downloads: 20
-- [Mizuiro-sakura/luke-japanese-base-finetuned-jsts](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-jsts)
-  - A fine-tuned Luke-Japanese-base model for JSTS sentence similarity calculation with an accuracy of 0.8971 using Yahoo Japan's JGLUE dataset.
+- [p1atdev/t5-base-xlsum-ja](https://huggingface.co/p1atdev/t5-base-xlsum-ja)
+  - A fine-tuned T5-base model on the xlsum dataset for Japanese text summarization, achieving specific loss and Rouge scores after training.
   - Downloads: 20
 - [vumichien/wav2vec2-large-pitch-recognition](https://huggingface.co/vumichien/wav2vec2-large-pitch-recognition)
-  - A fine-tuned Wav2Vec2 model for Japanese accent detection with a WER of 15.82%.
+  - A fine-tuned Wav2Vec2 model for Japanese accent detection with a test WER of 15.82%.
+  - Downloads: 20
+- [sehiro/AI-buncho-novel-ct2](https://huggingface.co/sehiro/AI-buncho-novel-ct2)
+  - A dataset converted from AIBunCho's public model for use with ctranslate2, quantized to 8-bit with potential loss in accuracy.
   - Downloads: 20
 - [akineAItech/Jeneri-SAMA-6B](https://huggingface.co/akineAItech/Jeneri-SAMA-6B)
-  - A novel generation model trained on high-quality light-novel texts and other sources using QLoRA, guided by instruction templates covering various genres and topics up to 2021.
+  - A novel generation model trained on high-quality light小说、Project Guttenberg, and Wikipedia texts using QLoRA, with instructional templates to guide story direction and access information up to 2021.
   - Downloads: 20
 - [TheBloke/japanese-stablelm-base-beta-70B-AWQ](https://huggingface.co/TheBloke/japanese-stablelm-base-beta-70B-AWQ)
-  - This repository includes AWQ model files for the Japanese StableLM Base Beta 70B created by Stability AI, quantized with support from Massed Compute.
+  - This repository includes AWQ-quantized model files for Stability AI's Japanese StableLM Base Beta 70B, supported by a16z and Massed Compute.
   - Downloads: 20
 - [abeja/Mixtral-8x7B-Instruct-v0.1-japanese-alpha-merged](https://huggingface.co/abeja/Mixtral-8x7B-Instruct-v0.1-japanese-alpha-merged)
-  - A merged model of the Japanese-vocabulary-enhanced Mixtral-8x7B-Instruct-v0.1, evaluated as an intermediate result on ABEJA's tech blog.
+  - A merged Japanese-alpha version of the Mixtral-8x7B-Instruct-v0.1 model for intermediate pretrained language learning with continued Japanese vocabulary expansion, evaluated and published as an intermediate result on ABEJA's tech blog.
   - Downloads: 20
 - [Hemlok/REV-Mix](https://huggingface.co/Hemlok/REV-Mix)
-  - The repository features REV-Mix models, including REV-I and REV-R samplers for anime and real-life images, using specific settings and recommending embeddings for improved results.
+  - A GitHub repository featuring REV-Mix models, including REV-I and REV-R samplers for anime and real-world image generation, with recommendations for DDIM and DPM++ SDE Karras methods.
   - Downloads: 20
 - [Aratako/ELYZA-japanese-Llama-2-fast-MoE-2x7B-v0.1-GGUF](https://huggingface.co/Aratako/ELYZA-japanese-Llama-2-fast-MoE-2x7B-v0.1-GGUF)
   - ELYZA-japanese-Llama-2-fast-MoE-2x7B-v0.1-GGUF 概要 Aratako/ELYZA-japanese-Llama-2-fast-MoE-2x7B-v0.1の量子化済みGGUF版です。
   - Downloads: 20
-- [Miwa-Keita/zenz-v2.5-small](https://huggingface.co/Miwa-Keita/zenz-v2.5-small)
-  - The GitHub repository contains a specialized GPT-2 conditional language model, zenz-v2.5-small, for kana-to-hanzi conversion tasks, with three model sizes and a focus on context-aware performance.
-  - Downloads: 19
-- [KoichiYasuoka/bert-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-luw-upos)
-  - A BERT model pre-trained on Japanese Wikipedia for UPOS and FEATS tagging, derived from bert-base-japanese-char-extended.
-  - Downloads: 19
-- [KoichiYasuoka/deberta-base-japanese-aozora](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-aozora)
-  - A DeBERTa(V2) model pre-trained on Aozora Bunko texts for fine-tuning in tasks like POS-tagging, with training details and usage instructions provided.
-  - Downloads: 19
-- [ebisuke/liz-nojaloli-ja](https://huggingface.co/ebisuke/liz-nojaloli-ja)
-  - A chat model flavored with a lolicon theme fine-tuned on rinna/japanese-gpt-neox-3.6b for personal interest and development.
-  - Downloads: 19
-- [KoichiYasuoka/deberta-large-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-unidic-luw-upos)
-  - A DeBERTa(V2) model pre-trained on Japanese texts from 青空文庫 for UPOS tagging, supporting long-unit-word POS classification.
-  - Downloads: 19
-- [KoichiYasuoka/roberta-small-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-aozora)
-  - A RoBERTa model pre-trained on Japanese-Aozora texts, compatible with the Japanese-LUW tokenizer, for tasks like POS-tagging and dependency-parsing.
-  - Downloads: 19
-- [KoichiYasuoka/roberta-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-luw-upos)
-  - A RoBERTa model pre-trained on Aozora Bunko texts for Japanese UPOS tagging, derived from roberta-base-japanese-aozora.
-  - Downloads: 19
-- [KoichiYasuoka/bert-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-luw-upos)
-  - A BERT model pre-trained on Japanese Wikipedia for UPOS and FEATS tagging of long-unit-words, using the transformers library for token classification.
+- [Fugaku-LLM/Fugaku-LLM-13B-instruct](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct)
+  - This repository details the terms and conditions for using Fugaku-LLM, a large language model developed as part of Fugaku's policy-targeted framework for distributed parallel learning, by Fujitsu, RIKEN, Tokyo Tech, Tohoku Univ., CyberAgent, OIST, and Kotoba Technologies Japan.
   - Downloads: 19
 - [Helsinki-NLP/opus-mt-ja-he](https://huggingface.co/Helsinki-NLP/opus-mt-ja-he)
-  - A transformer-align model for Japanese to Hebrew translation using normalization and SentencePiece preprocessing, with evaluation metrics and test set translations from OPUS-2020.
+  - A transformer-align model for Japanese to Hebrew translation using normalized SentencePiece tokenization, based on OPUS-2020-06-17 data.
   - Downloads: 19
-- [KoichiYasuoka/deberta-base-japanese-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-upos)
-  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging and dependency parsing of Japanese.
+- [kit-nlp/bert-base-japanese-basic-char-v2-cyberbullying](https://huggingface.co/kit-nlp/bert-base-japanese-basic-char-v2-cyberbullying)
+  - A BERT Base model for Japanese language fine-tuned on a balanced dataset for automatic cyberbullying detection, licensed under CC BY-SA 4.0.
+  - Downloads: 19
+- [hitachi-nlp/bert-base-japanese_jumanpp-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_jumanpp-wordpiece)
+  - The repository provides a Japanese BERT-base tokenizer using Juman++ + WordPiece, including instructions on how to load it via a dictionary file path.
+  - Downloads: 19
+- [hitachi-nlp/bert-base-japanese_mecab-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_mecab-wordpiece)
+  - The repository provides instructions for loading a Japanese BERT-base tokenizer using MeCab and WordPiece dictionaries.
+  - Downloads: 19
+- [megagonlabs/roberta-long-japanese](https://huggingface.co/megagonlabs/roberta-long-japanese)
+  - A pre-trained RoBERTa Japanese model with 1282 position embeddings, using Juman++ and SentencePiece tokenization for handling long inputs.
   - Downloads: 19
 - [TheBloke/japanese-stablelm-base-beta-70B-GPTQ](https://huggingface.co/TheBloke/japanese-stablelm-base-beta-70B-GPTQ)
-  - This repository includes GPTQ model files for Stability AI's Japanese StableLM Base Beta 70B with various parameter permutations.
+  - This repository contains GPTQ model files for Stability AI's Japanese StableLM Base Beta 70B with various parameter permutations.
   - Downloads: 19
 - [doshisha-mil/llama-2-70b-chat-4bit-japanese-v1](https://huggingface.co/doshisha-mil/llama-2-70b-chat-4bit-japanese-v1)
-  - A 4-bit fine-tuned Llama-2-Chat 70B model for Japanese chat tasks, based on the Alpaca-JA dataset. Users must adhere to Meta's license.
+  - A 4-bit fine-tuned Japanese version of the Llama-2-Chat 70B model using the Alpaca JA dataset, requiring compliance with Meta's license for use.
   - Downloads: 19
 - [Spiral-AI/Spiral-RetNet-3b-base](https://huggingface.co/Spiral-AI/Spiral-RetNet-3b-base)
   - SpiralAI Spiral-RetNet-3b-base We have conducted pre-training from scratch on the RetNet (https://arxiv.org/abs/2307.08621)
@@ -1762,44 +1747,35 @@ This list is sorted by downloads as of March 25, 2025.
 - [KoichiYasuoka/gpt2-small-japanese-ud-causal](https://huggingface.co/KoichiYasuoka/gpt2-small-japanese-ud-causal)
   - gpt2-small-japanese-ud-causal Model Description
   - Downloads: 19
-- [DataPilot/sarashina2.2-3Bx8-moe](https://huggingface.co/DataPilot/sarashina2.2-3Bx8-moe)
-  - A MoE-based language model combining 8 specialized experts from sbintuitions/sarashina2.2-3b-instruct-v0.1, offering high-quality Japanese response generation and easy Hugging Face integration.
+- [hitachi-nlp/bert-base-japanese_mecab-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_mecab-unigram)
+  - The repository provides a Japanese BERT-base tokenizer using MeCab and Unigram, requiring the dictionary file path for loading.
   - Downloads: 18
-- [KoichiYasuoka/roberta-base-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-aozora-ud-head)
-  - A RoBERTa model pretrained on Japanese Aozora literature for dependency parsing and question-answering with support for handling ambiguous words.
+- [Gustav114514/work](https://huggingface.co/Gustav114514/work)
+  - A fine-tuned XLSR-53 model for Japanese speech recognition using Common Voice 6.1, CSS10, and JSUT datasets.
   - Downloads: 18
-- [TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ)
-  - This repository contains GPTQ model files for Stability AI's Japanese StableLM Instruct Beta 70B with multiple parameter permutations.
+- [A-Funakoshi/bert-base-japanese-v3-wrime-v2](https://huggingface.co/A-Funakoshi/bert-base-japanese-v3-wrime-v2)
+  - The repository uses Optuna to explore hyperparameters for a sentiment analysis model with BERT, employing a cosine learning rate schedule, batch size of 128, and other specified parameters.
   - Downloads: 18
-- [ku-nlp/deberta-v2-base-japanese-with-auto-jumanpp](https://huggingface.co/ku-nlp/deberta-v2-base-japanese-with-auto-jumanpp)
-  - A Japanese DeBERTa V2 base model pre-trained on specific datasets, usable for masked language modeling.
+- [KoichiYasuoka/deberta-large-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-aozora-ud-goeswith)
+  - A DeBERTa(V2) model pretrained on Aozora texts for POS-tagging and dependency-parsing, using goeswith for subwords.
   - Downloads: 18
-- [ce-lery/dolly-japanese-gpt-1b-clone](https://huggingface.co/ce-lery/dolly-japanese-gpt-1b-clone)
-  - A Japanese inference model trained on the "databricks-dolly-15k-ja" dataset, inspired by and similar to inu-ai/dolly-japanese-gpt-1b.
+- [huranokuma/es2](https://huggingface.co/huranokuma/es2)
+  - A fine-tuned GPT-2 Japanese model for writing in Esperanto, trained on 140,000 ES examples, available via web app http://www.eswrite.com.
   - Downloads: 18
-- [ku-accms/roberta-base-japanese-ssuw](https://huggingface.co/ku-accms/roberta-base-japanese-ssuw)
-  - A pre-trained Japanese RoBERTa base model for super short unit words, suitable for masked language modeling after input text is converted to full-width characters and segmented using KyTea.
+- [KoichiYasuoka/roberta-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-luw-upos)
+  - A RoBERTa model pre-trained on 青空文庫 texts for POS-tagging, derived from roberta-base-japanese-aozora and tagged with UPOS.
   - Downloads: 18
-- [Formzu/bart-large-japanese](https://huggingface.co/Formzu/bart-large-japanese)
-  - This GitHub repository contains a model converted from Kyoto University's Japanese BART Pretrained model, requiring BartJapaneseTokenizer for input and supporting tasks like FillMask.
+- [KoichiYasuoka/bert-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-luw-upos)
+  - A BERT model pre-trained on Japanese Wikipedia for UPOS tagging of long-unit-words, derived from bert-large-japanese-char-extended.
   - Downloads: 18
-- [astremo/JAINU](https://huggingface.co/astremo/JAINU)
-  - JAINU-Model is an experimental fine-tuned T5 machine translation model for Japanese-Ainu language pairs, currently in need of refinement.
-  - Downloads: 18
-- [DeL-TaiseiOzaki/llm-jp-3-172b-instruct3-4bit](https://huggingface.co/DeL-TaiseiOzaki/llm-jp-3-172b-instruct3-4bit)
-  - The repository hosts a 4-bit quantized derivative model of the llm-jp-3-172b-instruct3 provided by NII, aimed at reducing GPU/memoroy usage during inference.
-  - Downloads: 18
-- [uzabase/luke-japanese-wordpiece-base](https://huggingface.co/uzabase/luke-japanese-wordpiece-base)
-  - This repository contains a Japanese BERT-based model named Luke-Japanese-Base, using WordPiece tokenizer, fine-tuned on 2023 Wikipedia data, capable of handling [UNK] entities.
-  - Downloads: 18
-- [owner203/japanese-llama-2-13b-gguf](https://huggingface.co/owner203/japanese-llama-2-13b-gguf)
-  - The repository contains the GGUF-formatted Japanese-LLaMA-2-13B model, available at https://huggingface.co/owner203/japanese-llama-2-13b.
+- [KoichiYasuoka/bert-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-luw-upos)
+  - A BERT-based model for Japanese POS-tagging and dependency-parsing, derived from bert-base-japanese-char-extended and tagged with UPOS and FEATS.
   - Downloads: 18
 - [ketman/whisper_for_dominion](https://huggingface.co/ketman/whisper_for_dominion)
-  - A fine-tuned LLM for Whisper targeting Japanese Dominion game audio transcription.
+  - A fine-tuned LLM for Whisper that excels in transcribing audio from Dominions Japanese board game terminology, with improvements over standard large models in handling specific linguistic challenges.
   - Downloads: 18
 - [aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2](https://huggingface.co/aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2)
-  - A merged model of Swallow-MX-8x7b-NVE-v0.1 with a weighted combination of Mixtral-8x7B-Instruct-v0.1 and Mixtral-8x7B-v0.1 for more natural Japanese output.
+  - A merged model from Swallow-MX-8x7b-NVE-v0.1 and a weighted combination of Mixtral-8x7B-Instruct-v0.1 and Mixtral-8x7B-v0.1, optimized for more natural Japanese output and suitable for local Japanese language tasks.
   - Downloads: 18
 - [tirthadagr8/Japanese_to_english_gpt2CasualLM_GemmaTokenizer](https://huggingface.co/tirthadagr8/Japanese_to_english_gpt2CasualLM_GemmaTokenizer)
   - Made using Gpt-Small from scratch for learning purpose.
@@ -1807,26 +1783,35 @@ This list is sorted by downloads as of March 25, 2025.
 - [cl-nagoya/ruri-reranker-stage1-small](https://huggingface.co/cl-nagoya/ruri-reranker-stage1-small)
   - Ruri-Reranker: Japanese General Reranker Usage Direct Usage (Sentence Transformers)
   - Downloads: 18
+- [Elizezen/SlaughterHouse-exp-7B](https://huggingface.co/Elizezen/SlaughterHouse-exp-7B)
+  - A 7B-parameter fine-tuned Japanese language model based on Gamma 7B, capable of generating fanfiction content, aimed at cultural enhancement without compromising quality.
+  - Downloads: 17
+- [KoichiYasuoka/deberta-base-japanese-aozora](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-aozora)
+  - A DeBERTa(V2) model pre-trained on Aozora Bunko texts, fine-tunable for tasks like POS-tagging and dependency-parsing.
+  - Downloads: 17
+- [owner203/japanese-llama-2-13b-gguf](https://huggingface.co/owner203/japanese-llama-2-13b-gguf)
+  - The GitHub repository contains the Japanese-LLaMA-2-13B model in GGUF format.
+  - Downloads: 17
+- [ebisuke/liz-nojaloli-ja](https://huggingface.co/ebisuke/liz-nojaloli-ja)
+  - A chat model based on rinna/japanese-gpt-neox-3.6b fine-tuned for a lolicon flavor, using MIT License.
+  - Downloads: 17
+- [KoichiYasuoka/deberta-large-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-unidic-luw-upos)
+  - A DeBERTa(V2) model pre-trained on Japanese texts for UPOS tagging, derived from deberta-large-japanese-unidic, with support for importing via Hugging Face's AutoTokenizer and AutoModelForTokenClassification.
+  - Downloads: 17
+- [astremo/JAINU](https://huggingface.co/astremo/JAINU)
+  - JAINU-Model is an experimental fine-tuned T5 model for Japanese-Ainu language translation, currently in need of refinement.
+  - Downloads: 17
 - [naclbit/gpt-j-japanese-6.8b](https://huggingface.co/naclbit/gpt-j-japanese-6.8b)
-  - A work-in-progress, 6.8 billion parameter pre-trained Japanese language model based on EleutherAI's Mesh Transformer JAX, using T5Tokenizer and SentencePiece.
+  - A work-in-progress 6.8 billion parameter pre-trained Japanese language model based on EleutherAI's Mesh Transformer JAX, using T5Tokenizer and SentencePiece.
   - Downloads: 17
-- [sonoisa/t5-base-japanese-mC4-Wikipedia](https://huggingface.co/sonoisa/t5-base-japanese-mC4-Wikipedia)
-  - A T5 model pretrained on a large Japanese corpus, requiring fine-tuning for specific tasks, with potential biases to consider.
+- [izumi-lab/electra-base-japanese-discriminator](https://huggingface.co/izumi-lab/electra-base-japanese-discriminator)
+  - A pre-trained ELECTRA model for Japanese text, based on Wikipedia data, with 12 layers and 768 hidden dimensions.
   - Downloads: 17
-- [Formzu/roberta-base-japanese-jsnli](https://huggingface.co/Formzu/roberta-base-japanese-jsnli)
-  - A fine-tuned RoBERTa Japanese model for JSNLI with evaluation results of 0.2039 loss and 0.9328 accuracy, requiring Juman++-segmented input for zero-shot classification using the transformers pipeline.
+- [Miwa-Keita/zenz-v2.5-small](https://huggingface.co/Miwa-Keita/zenz-v2.5-small)
+  - Zenz-v2.5-small is a 91M conditional language model based on GPT-2 for specialized kanji-hiragana conversion tasks, part of the Zenzai system, with contextual conversion performance.
   - Downloads: 17
 - [KoichiYasuoka/roberta-base-japanese-juman-ud-goeswith](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-juman-ud-goeswith)
-  - A RoBERTa model pretrained on Japanese texts for POS-tagging and dependency-parsing, using goeswith for subwords, with instructions for universal-dependencies pipeline usage and fugashi requirement.
-  - Downloads: 17
-- [Gustav114514/work](https://huggingface.co/Gustav114514/work)
-  - A fine-tuned XLSR-53 model for Japanese speech recognition using Common Voice, CSS10, and JSUT datasets, trained at 16kHz sampling rate.
-  - Downloads: 17
-- [retrieva-jp/t5-base-short](https://huggingface.co/retrieva-jp/t5-base-short)
-  - A T5 v1.1 model pre-trained on Japanese, featuring GEGLU activation, no dropout in pre-training, and size variations "xl" and "xxl".
-  - Downloads: 17
-- [MaziyarPanahi/japanese-stablelm-base-gamma-7b-Mistral-7B-Instruct-v0.1](https://huggingface.co/MaziyarPanahi/japanese-stablelm-base-gamma-7b-Mistral-7B-Instruct-v0.1)
-  - A merged model combining elements of Mistral-7B-Instruct and Japanese-stablelm-base-gamma-7b using spherical linear interpolation.
+  - A RoBERTa model pretrained on Japanese texts for POS-tagging and dependency-parsing, using goeswith for subwords, integrated into a transformers pipeline for universal dependencies tasks.
   - Downloads: 17
 - [KoichiYasuoka/rinna-gpt-neox-small-japanese-ud-causal](https://huggingface.co/KoichiYasuoka/rinna-gpt-neox-small-japanese-ud-causal)
   - rinna-gpt-neox-small-japanese-ud-causal Model Description
@@ -1837,50 +1822,62 @@ This list is sorted by downloads as of March 25, 2025.
 - [KoichiYasuoka/gpt2-small-japanese-upos](https://huggingface.co/KoichiYasuoka/gpt2-small-japanese-upos)
   - gpt2-small-japanese-upos Model Description
   - Downloads: 17
+- [owner203/japanese-llama-3-8b-instruct-v2](https://huggingface.co/owner203/japanese-llama-3-8b-instruct-v2)
+  - Japanese-LLaMA-3-8B-Instruct-v2 is an instruction-following model developed on ConoHa VPS with NVIDIA H100 GPU, based on Meta-Llama-3-8B-Instruct.
+  - Downloads: 16
+- [megagonlabs/t5-base-japanese-web-8k](https://huggingface.co/megagonlabs/t5-base-japanese-web-8k)
+  - A T5 model pre-trained on Japanese web texts and Wikipedia, with a vocabulary size of 8K, providing training codes and also available in a 32K version.
+  - Downloads: 16
+- [KoichiYasuoka/deberta-large-japanese-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-upos)
+  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for Japanese UPOS tagging and dependency parsing.
+  - Downloads: 16
+- [KoichiYasuoka/deberta-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-luw-upos)
+  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging and dependency parsing, designed for Japanese long-unit-word POS-tagging.
+  - Downloads: 16
+- [KoichiYasuoka/deberta-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-luw-upos)
+  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for POS-tagging Japanese long-unit-words using UPOS tags.
+  - Downloads: 16
+- [y-oikawa/Information-triage-for-disaster-tweets](https://huggingface.co/y-oikawa/Information-triage-for-disaster-tweets)
+  - An ELECTRA-based Japanese model pretrained on 200M sentences and finetuned on disaster tweets for information triage, licensed under CC BY-SA 4.0.
+  - Downloads: 16
+- [okazaki-lab/japanese-reversed-gpt2-medium-unidic](https://huggingface.co/okazaki-lab/japanese-reversed-gpt2-medium-unidic)
+  - A medium-sized Japanese GPT-2 model that generates sentences right-to-left using a BERT-like tokenizer and depends on PyTorch, fugashi with unidic-lite, and Hugging Face Transformers.
+  - Downloads: 16
+- [ce-lery/dolly-japanese-gpt-1b-clone](https://huggingface.co/ce-lery/dolly-japanese-gpt-1b-clone)
+  - A Japanese inference model trained on the Databricks Dolly-15k-JA dataset, based on rinna's japanese-gpt-1b, created for self-study purposes.
+  - Downloads: 16
+- [A-Funakoshi/bert-finetuned-multilingual-sentiments-adamw](https://huggingface.co/A-Funakoshi/bert-finetuned-multilingual-sentiments-adamw)
+  - The repository uses Optuna to explore hyperparameters for a Japanese BERT model on multilingual sentiment data, achieving best results with cosine learning rate scheduling, 1 accumulation step, and low weight decay.
+  - Downloads: 16
+- [KoichiYasuoka/deberta-base-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-aozora-ud-goeswith)
+  - A DeBERTa(V2) model pretrained on Aozora texts for POS-tagging and dependency-parsing, accessible via a transformers pipeline.
+  - Downloads: 16
 - [Miwa-Keita/zenz-v2.5-xsmall](https://huggingface.co/Miwa-Keita/zenz-v2.5-xsmall)
-  - The GitHub repository contains a specialized GPT-2 model, zenz-v2.5-small, for accurate kanji conversion tasks in Japanese, with context-aware transformations and three varying model sizes.
+  - Zenz-v2.5-small is a conditional language model based on GPT-2 for specialized Kanji-to-Hiragana conversion tasks, with performance optimized for context-aware transformations and licensed under CC-BY-SA 4.0.
   - Downloads: 16
-- [KoichiYasuoka/deberta-small-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-small-japanese-luw-upos)
-  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for POS-tagging Japanese long-unit-words, derived from deberta-small-japanese-aozora.
-  - Downloads: 16
-- [Mizuiro-sakura/t5-CAMERA-title-generation](https://huggingface.co/Mizuiro-sakura/t5-CAMERA-title-generation)
-  - A fine-tuned T5-base Japanese model for title generation, inputting text to generate a summary title.
+- [uzabase/luke-japanese-wordpiece-base](https://huggingface.co/uzabase/luke-japanese-wordpiece-base)
+  - This repository contains a Japanese BERT-based model named Luke, fine-tuned on 2023 Wikipedia data and using WordPiece tokenizer.
   - Downloads: 16
 - [G-Root/deberta-v2-base-japanese](https://huggingface.co/G-Root/deberta-v2-base-japanese)
-  - A Japanese DeBERTa V2 base model pre-trained on specific corpora, usable for masked language modeling.
+  - A Japanese DeBERTa V2 base model pre-trained on specific datasets, available for masked language modeling using the provided tokenizers.
   - Downloads: 16
 - [line-corporation/japanese-large-lm-3.6b-instruction-sft-4bit-32g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft-4bit-32g-actorder_False)
-  - LINE Corporation's 3.6B parameter Japanese language model, fine-tuned for instruction-following, available in 4-bit quantization for lightweight deployment.
-  - Downloads: 16
-- [line-corporation/japanese-large-lm-1.7b-instruction-sft-8bit-1g-actorder_True](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft-8bit-1g-actorder_True)
-  - This repository offers a 1.7B parameter quantized Japanese language model fine-tuned by LINE Corporation, along with instructions for usage.
-  - Downloads: 16
-- [hotchpotch/youri-7b-sft-qa-context-jaqket-awq](https://huggingface.co/hotchpotch/youri-7b-sft-qa-context-jaqket-awq)
-  - The repository contains models trained for Q&A with context using SFT and quantization techniques (AutoAWQ, GPTQ), based on the youri-7b-instruction model.
+  - LINE Corporation's 3.6B parameter quantized Japanese language model, fine-tuned for instruction following, available for use with provided PyTorch pipeline.
   - Downloads: 16
 - [A-Funakoshi/bert-base-japanese-v3-wrime-v1](https://huggingface.co/A-Funakoshi/bert-base-japanese-v3-wrime-v1)
-  - A repository using Optuna to explore hyperparameters for sentiment analysis with BERT, including learning rates, batch sizes, and regularization strengths.
-  - Downloads: 16
-- [hitachi-nlp/bert-base-japanese_vaporetto-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_vaporetto-wordpiece)
-  - The repository provides instructions and code for loading a Japanese BERT tokenizer based on Vaporetto + WordPiece.
-  - Downloads: 16
-- [yukismd/JapaneseQuizChatbot_v1](https://huggingface.co/yukismd/JapaneseQuizChatbot_v1)
-  - This model, trained using H2O LLM Studio on a base cyberagent/open-calm-7b with transformed AI王 dataset, requires transformers, accelerate, and torch libraries for GPU-powered text generation.
-  - Downloads: 16
-- [megagonlabs/roberta-long-japanese](https://huggingface.co/megagonlabs/roberta-long-japanese)
-  - A RoBERTa Japanese model pre-trained on 200M sentences with increased position embeddings to 1282, using Juman++ and SentencePiece tokenization.
+  - The repository uses Optuna to explore hyperparameters for a Japanese BERT model on wrime-sentiment data, including learning rates, batch sizes, and regularization.
   - Downloads: 16
 - [TheBloke/japanese-stablelm-instruct-beta-7B-GPTQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-7B-GPTQ)
-  - This repository includes GPTQ model files for Stability AI's Japanese StableLM Instruct Beta 7B with various parameter permutations.
+  - This repository contains GPTQ model files for Stability AI's Japanese StableLM Instruct Beta 7B with various parameter permutations.
   - Downloads: 16
 - [kanhatakeyama/Tanuki-ZeRo](https://huggingface.co/kanhatakeyama/Tanuki-ZeRo)
-  - Tanuki-Zero Base model llm-jp-13b-v1 includes 15k randomly sampled instruction data from the Jaster dataset for training.
+  - Tanuki-Zero Base model and 15k instruction data from the Jaster dataset (train).
   - Downloads: 16
 - [abeja/Mixtral-8x7B-Instruct-v0.1-japanese](https://huggingface.co/abeja/Mixtral-8x7B-Instruct-v0.1-japanese)
-  - A Japanese vocabulary-extended pre-trained model based on Mixtral-8x7B-Instruct-v0.1 for causal language modeling.
+  - A Japanese-vocabulary-extended Mixtral-8x7B-Instruct-v0.1 language model trained for causal linguistic tasks.
   - Downloads: 16
 - [abeja/Mixtral-8x7B-Instruct-v0.1-japanese-alpha](https://huggingface.co/abeja/Mixtral-8x7B-Instruct-v0.1-japanese-alpha)
-  - A Japanese語 fine-tuned version of Mixtral-8x7B-Instruct-v0.1 intermediate model, evaluated in ABEJA's tech blog.
+  - A Japanese vocabulary fine-tuned version of Mixtral-8x7B-Instruct-v0.1, evaluated in an ABEJA tech blog and available for causal language modeling.
   - Downloads: 16
 - [Aratako/Oumuamua-7b-RP](https://huggingface.co/Aratako/Oumuamua-7b-RP)
   - Oumuamua-7b-RP GGUF版はこちら/Click here for the GGUF version 概要 This is a merge of pre-trained language models created using mergekit.
@@ -1894,59 +1891,44 @@ This list is sorted by downloads as of March 25, 2025.
 - [KoichiYasuoka/gpt2-large-japanese-ud-causal](https://huggingface.co/KoichiYasuoka/gpt2-large-japanese-ud-causal)
   - gpt2-large-japanese-ud-causal Model Description
   - Downloads: 16
-- [KoichiYasuoka/roberta-base-japanese-char-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos)
-  - A RoBERTa model pre-trained on 青空文庫 texts for UPOS and FEATS tagging, derived from roberta-base-japanese-aozora-char.
-  - Downloads: 15
-- [megagonlabs/t5-base-japanese-web-8k](https://huggingface.co/megagonlabs/t5-base-japanese-web-8k)
-  - The GitHub repository megagonlabs/t5-base-japanese-web-8k contains training codes for a T5 model pre-trained on Japanese web texts with an 8K vocabulary size.
-  - Downloads: 15
-- [KoichiYasuoka/deberta-large-japanese-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-upos)
-  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging and dependency parsing.
-  - Downloads: 15
-- [KoichiYasuoka/deberta-base-japanese-wikipedia-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia-luw-upos)
-  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 texts for UPOS tagging, available for token classification tasks.
-  - Downloads: 15
-- [KoichiYasuoka/bert-large-japanese-wikipedia-ud-head](https://huggingface.co/KoichiYasuoka/bert-large-japanese-wikipedia-ud-head)
-  - A BERT model pretrained on Japanese Wikipedia for dependency-parsing and question-answering, with support for handling ambiguous words.
-  - Downloads: 15
-- [KoichiYasuoka/deberta-large-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-aozora-ud-goeswith)
-  - A DeBERTa(V2) model pretrained on Aozora texts for POS-tagging and dependency-parsing, using goeswith subwords.
-  - Downloads: 15
-- [kit-nlp/bert-base-japanese-basic-char-v2-irony](https://huggingface.co/kit-nlp/bert-base-japanese-basic-char-v2-irony)
-  - This GitHub repository contains a BERT Base model for Japanese irony detection, fine-tuned on ironic and sarcastic tweets, licensed under CC BY-SA 4.0.
-  - Downloads: 15
-- [KoichiYasuoka/deberta-base-japanese-juman-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-juman-ud-goeswith)
-  - A DeBERTa(V2) model pretrained for Japanese POS-tagging and dependency-parsing, using goeswith for subwords, which can be used via a transformers pipeline for universal dependencies.
-  - Downloads: 15
-- [ganchengguang/Yoko_13B_Japanese_QLoRA](https://huggingface.co/ganchengguang/Yoko_13B_Japanese_QLoRA)
-  - A fine-tuned Llama-2-13b-chat-hf model using QLoRA on a dataset of 50,000 chat samples and 280,000 non-chat samples, with improved performance in Chinese and Japanese.
-  - Downloads: 15
-- [llm-jp/llm-jp-13b-instruct-lora-jaster-dolly-oasst-v1.0](https://huggingface.co/llm-jp/llm-jp-13b-instruct-lora-jaster-dolly-oasst-v1.0)
-  - This repository includes various pre-trained and LoRA fine-tuned large language models from the LLM-jp project, including instruction models and checkpoints for different variants.
-  - Downloads: 15
-- [MaziyarPanahi/japanese-stablelm-instruct-gamma-7b-Mistral-7B-Instruct-v0.1](https://huggingface.co/MaziyarPanahi/japanese-stablelm-instruct-gamma-7b-Mistral-7B-Instruct-v0.1)
-  - A merged model combining Mistral-7B-Instruct and Japanese-stablelm-instruct-gamma-7b using SLERP method for configuration slicing.
-  - Downloads: 15
-- [y-oikawa/Information-triage-for-disaster-tweets](https://huggingface.co/y-oikawa/Information-triage-for-disaster-tweets)
-  - An ELECTRA-based Japanese model pretrained on 200M sentences and finetuned for Information Triage on disaster tweets, licensed under CC BY-SA 4.0.
-  - Downloads: 15
-- [KoichiYasuoka/roberta-large-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora-ud-goeswith)
-  - A RoBERTa model pretrained on Japanese Aozora texts for POS-tagging and dependency-parsing, using goeswith for subwords, with instructions provided for universal-dependency parsing via Hugging Face's transformers library.
+- [Kendamarron/LongWriter-llm-jp-3-3.7b-instruct](https://huggingface.co/Kendamarron/LongWriter-llm-jp-3-3.7b-instruct)
+  - A fine-tuned LLM-JP-3-3.7b-instruct model for long text generation through supervised fine-tuning (SFT).
   - Downloads: 15
 - [KoichiYasuoka/roberta-small-japanese-char-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-char-luw-upos)
-  - A RoBERTa model pre-trained on 青空文庫 texts for UPOS tagging, derived from roberta-small-japanese-aozora-char.
+  - A RoBERTa model pre-trained on Aozora texts for UPOS tagging and dependency parsing, designed for Japanese text processing.
+  - Downloads: 15
+- [KoichiYasuoka/bert-large-japanese-wikipedia-ud-head](https://huggingface.co/KoichiYasuoka/bert-large-japanese-wikipedia-ud-head)
+  - A BERT model pretrained on Japanese Wikipedia for dependency-parsing and question-answering, supporting head detection in long-unit words with [MASK] masking.
+  - Downloads: 15
+- [KoichiYasuoka/deberta-base-japanese-juman-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-juman-ud-goeswith)
+  - A DeBERTa(V2) model pretrained on Japanese texts for POS-tagging and dependency-parsing, using goeswith for subwords, with instructions for universal dependencies task usage via Hugging Face pipeline.
+  - Downloads: 15
+- [k-ush/xlm-roberta-base-ance-en-jp-warmup](https://huggingface.co/k-ush/xlm-roberta-base-ance-en-jp-warmup)
+  - A XLM-RoBERTa-base model trained on Japanese mMARCO data with ANCE warmup, checkpoint saved at 50k steps due to MRR decrease after 60k steps.
+  - Downloads: 15
+- [hotchpotch/youri-7b-sft-qa-context-jaqket-awq](https://huggingface.co/hotchpotch/youri-7b-sft-qa-context-jaqket-awq)
+  - A model trained via SFT for Q&A and context-based responses, quantized using AutoAWQ, achieving GPT3.5+ performance on a 7B parameter model. Includes learning, evaluation, and sample codes.
+  - Downloads: 15
+- [isek-ai/isekai-bert-v1](https://huggingface.co/isek-ai/isekai-bert-v1)
+  - This repository contains a fine-tuned BERT model for an unknown isekai dataset with specified training hyperparameters, achieving a loss of 1.9164 on the evaluation set.
+  - Downloads: 15
+- [megagonlabs/transformers-ud-japanese-electra-base-ginza-520](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza-520)
+  - A pre-trained ELECTRA model for Japanese, fine-tuned on UD_Japanese_BCCWJ and distributed as a spaCy v3 package named ja_ginza_electra.
+  - Downloads: 15
+- [hiroshi-matsuda-rit/bert-base-sudachitra-v11](https://huggingface.co/hiroshi-matsuda-rit/bert-base-sudachitra-v11)
+  - This repository contains a variant of Sudachitra called bert-base-sudachitra-v11, which modifies the word_form_type and vocab.txt structure compared to the original chiTra v1.1.
+  - Downloads: 15
+- [llm-jp/llm-jp-13b-instruct-lora-jaster-dolly-oasst-v1.0](https://huggingface.co/llm-jp/llm-jp-13b-instruct-lora-jaster-dolly-oasst-v1.0)
+  - This repository contains pre-trained and LoRA fine-tuned large language models for Japanese, including instruction-following variants by LLM-jp.
   - Downloads: 15
 - [owner203/japanese-llama-2-7b-gguf](https://huggingface.co/owner203/japanese-llama-2-7b-gguf)
-  - The GitHub repository contains the Japanese-LLaMA-2-7B model in GGUF format, with a provided model URL.
-  - Downloads: 15
-- [Miwa-Keita/zenz-v2-gguf](https://huggingface.co/Miwa-Keita/zenz-v2-gguf)
-  - Zenz-v2 is an enhanced GPT-2-based language model for kana-to-hanzi conversion tasks, finetuned from ku-nlp/gpt2-small-japanese-char and optimized for high performance in Japanese NLP.
+  - The GitHub repository contains the Japanese-LLaMA-2-7B model in GGUF format.
   - Downloads: 15
 - [rinna/llama-3-youko-70b](https://huggingface.co/rinna/llama-3-youko-70b)
-  - The repository contains continual pre-training and instruction-tuning of a 70B parameter Llama model on Japanese and English datasets, resulting in improved performance for Japanese tasks, called "Llama 3 Youko."
+  - The GitHub repository contains continual pre-training and instruction-tuning of a 70B parameter Llama model specifically fine-tuned for Japanese tasks, named Llama 3 Youko 70B.
   - Downloads: 15
 - [LoneStriker/SambaLingo-Japanese-Chat-8.0bpw-h8-exl2](https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-8.0bpw-h8-exl2)
-  - SambaLingo-Japanese-Chat is a human-aligned chat model trained in Japanese and English, fine-tuned from the Llama-2-7b base model on 42 billion Japanese tokens.
+  - SambaLingo-Japanese-Chat is a Japanese and English language model fine-tuned on 42 billion tokens, optimized for direct preference alignment and hosted at SambaLingo-chat-space.
   - Downloads: 15
 - [MuneK/bert-large-japanese-v2-finetuned-jed](https://huggingface.co/MuneK/bert-large-japanese-v2-finetuned-jed)
   - bert-large-japanese-v2-finetuned-wrime
@@ -1954,47 +1936,56 @@ This list is sorted by downloads as of March 25, 2025.
 - [KoichiYasuoka/gpt2-medium-japanese-unidic-upos](https://huggingface.co/KoichiYasuoka/gpt2-medium-japanese-unidic-upos)
   - gpt2-medium-japanese-unidic-upos Model Description
   - Downloads: 15
-- [KoichiYasuoka/deberta-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-luw-upos)
+- [KoichiYasuoka/roberta-small-japanese-aozora-char](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-aozora-char)
+  - A RoBERTa model pre-trained on Japanese Aozora texts with a character tokenizer, suitable for fine-tuning tasks like POS-tagging and dependency-parsing.
+  - Downloads: 14
+- [izumi-lab/electra-small-paper-japanese-fin-discriminator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-fin-discriminator)
+  - A pretrained ELECTRA small model for Japanese finance discrimination using texts from the Japanese Wikipedia.
+  - Downloads: 14
+- [izumi-lab/electra-small-paper-japanese-discriminator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-discriminator)
+  - A pretrained ELECTRA small model for Japanese language processing, trained on the Japanese Wikipedia.
+  - Downloads: 14
+- [KoichiYasuoka/deberta-base-japanese-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-upos)
+  - A DeBERTa(V2) model pre-trained on 青空文庫 texts for POS-tagging and dependency-parsing, available for use with Hugging Face's tokenizer and model interfaces.
+  - Downloads: 14
+- [KoichiYasuoka/deberta-small-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-small-japanese-luw-upos)
   - A DeBERTa(V2) model pre-trained on 青空文庫 texts for UPOS tagging and dependency parsing of long-unit-words.
   - Downloads: 14
-- [TylorShine/distilhubert-ft-japanese-50k](https://huggingface.co/TylorShine/distilhubert-ft-japanese-50k)
-  - A 50k-step fine-tuned Hubert model for Japanese using multiple corpora, subject to specific terms of use.
+- [KoichiYasuoka/deberta-base-japanese-wikipedia-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-wikipedia-luw-upos)
+  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 texts for UPOS tagging, accessible via Hugging Face with tokenizer and model imports provided.
   - Downloads: 14
-- [line-corporation/japanese-large-lm-3.6b-instruction-sft-8bit-1g-actorder_True](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft-8bit-1g-actorder_True)
-  - This repository offers a 3.6B parameter quantized Japanese language model fine-tuned by LINE Corporation, along with instructions for使用预训练的 tokenizer 和模型进行推理。
+- [Formzu/bart-large-japanese](https://huggingface.co/Formzu/bart-large-japanese)
+  - This GitHub repository provides a converted Japanese BART large pretrained model for use with BartJapaneseTokenizer and includes instructions for model deployment.
+  - Downloads: 14
+- [Mizuiro-sakura/t5-CAMERA-title-generation](https://huggingface.co/Mizuiro-sakura/t5-CAMERA-title-generation)
+  - A fine-tuned T5-base Japanese model for title generation, based on input text processing.
+  - Downloads: 14
+- [TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ)
+  - This repository contains GPTQ model files for Stability AI's Japanese StableLM Instruct Beta 70B with various parameter permutations.
+  - Downloads: 14
+- [hitachi-nlp/bert-base-japanese_vaporetto-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_vaporetto-wordpiece)
+  - The repository provides instructions and code for loading a Japanese BERT-base tokenizer using Vaporetto + WordPiece.
+  - Downloads: 14
+- [yukismd/JapaneseQuizChatbot_v1](https://huggingface.co/yukismd/JapaneseQuizChatbot_v1)
+  - This model was trained using H2O LLM Studio on a transformed dataset for generating text, with base model cyberagent/open-calm-7b and requires `transformers`, `accelerate`, and `torch` libraries for GPU usage.
+  - Downloads: 14
+- [retrieva-jp/t5-base-short](https://huggingface.co/retrieva-jp/t5-base-short)
+  - A T5 v1.1 model for Japanese, incorporating GEGLU activation, no pre-training dropout, and new size variants "xl" and "xxl".
+  - Downloads: 14
+- [KoichiYasuoka/roberta-large-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora-ud-goeswith)
+  - A RoBERTa model pretrained on Japanese Aozora texts for POS-tagging and dependency-parsing, using goeswith for subwords.
+  - Downloads: 14
+- [KoichiYasuoka/roberta-base-japanese-char-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos)
+  - A RoBERTa model pre-trained on 青空文庫 texts for UPOS and FEATS tagging, derived from roberta-base-japanese-aozora-char.
   - Downloads: 14
 - [line-corporation/japanese-large-lm-3.6b-instruction-sft-4bit-128g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft-4bit-128g-actorder_False)
-  - This repository offers a 3.6 billion parameter quantized Japanese language model fine-tuned by LINE Corporation, available for use via Hugging Face transformers.
-  - Downloads: 14
-- [A-Funakoshi/bert-base-japanese-v3-wrime-v2](https://huggingface.co/A-Funakoshi/bert-base-japanese-v3-wrime-v2)
-  - The repository uses Optuna to explore hyperparameters for a BERT-based Japanese sentiment analysis model, with the best configuration found being cosine learning rate schedule, a learning rate of approximately 3.91e-5, a batch size of 128, and weight decay of approximately 5.22e-5 over 100 epochs with early stopping.
-  - Downloads: 14
-- [TomokiFujihara/luke-japanese-base-lite-offensiveness-estimation](https://huggingface.co/TomokiFujihara/luke-japanese-base-lite-offensiveness-estimation)
-  - This repository contains a fine-tuned model for predicting the offensiveness of social media comments using a dataset with manual aggression evaluations, achieving an F1 score of 71.3%.
+  - This repository contains a 3.6B parameter quantized Japanese language model fine-tuned by LINE Corporation, available for causal language modeling with detailed instructions provided.
   - Downloads: 14
 - [hitachi-nlp/bert-base-japanese_nothing-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_nothing-unigram)
-  - The repository provides a Japanese BERT-base tokenizer for Nothing + Unigram, requiring users to download the dictionary file and specify its path.
-  - Downloads: 14
-- [hitachi-nlp/bert-base-japanese_sudachi-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_sudachi-unigram)
-  - The repository provides instructions for loading a Japanese BERT-base tokenizer using Sudachi and Unigram dictionaries.
-  - Downloads: 14
-- [ebisuke/liz-nojaloli-nxja-ja](https://huggingface.co/ebisuke/liz-nojaloli-nxja-ja)
-  - A fine-tuned Japanese chat model based on abeja/gpt-neox-japanese-2.7b for personal interest and study, using ebisuke/liz-nojaloli-ja-datasets.
+  - The repository provides instructions for loading a Japanese BERT-base tokenizer trained with the Nothing + Unigram approach.
   - Downloads: 14
 - [ku-accms/bert-base-japanese-ssuw](https://huggingface.co/ku-accms/bert-base-japanese-ssuw)
-  - A pre-trained Japanese BERT base model for super short unit words, requiring input text to be converted to full-width characters and segmented into SSUW before use.
-  - Downloads: 14
-- [Formzu/bart-base-japanese](https://huggingface.co/Formzu/bart-base-japanese)
-  - AJapanese BART pretrained model converted to match the Fairseq architecture, requiring BartJapaneseTokenizer for input and using Simple FillMaskPipeline from transformers.
-  - Downloads: 14
-- [KoichiYasuoka/roberta-small-japanese-aozora-char](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-aozora-char)
-  - A RoBERTa model pre-trained on Aozora Bunko texts with a character tokenizer, available for fine-tuning tasks like POS-tagging and dependency-parsing.
-  - Downloads: 14
-- [KoichiYasuoka/roberta-large-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora)
-  - A RoBERTa large model pre-trained on Japanese Aozora texts, using the Japanese-LUW tokenizer, for tasks like POS-tagging and dependency-parsing.
-  - Downloads: 14
-- [owner203/japanese-llama-3-8b-instruct-v2](https://huggingface.co/owner203/japanese-llama-3-8b-instruct-v2)
-  - Japanese-LLaMA-3-8B-Instruct-v2 is an instruction-following model developed and tested on ConoHa VPS with NVIDIA H100 GPU.
+  - A pre-trained Japanese BERT base model for super short unit words, optimized for masked language modeling after input text is converted to full-width characters and segmented.
   - Downloads: 14
 - [kaiinui/kotoba-whisper-v2.0-mlx](https://huggingface.co/kaiinui/kotoba-whisper-v2.0-mlx)
   - kotoba-whisper-v2.0-mlx This repository contains a converted mlx-whisper model of kotoba-whisper-v2.0 which is suitable for running with Apple Silicon.
@@ -2008,32 +1999,44 @@ This list is sorted by downloads as of March 25, 2025.
 - [KoichiYasuoka/rinna-gpt2-medium-japanese-ud-causal](https://huggingface.co/KoichiYasuoka/rinna-gpt2-medium-japanese-ud-causal)
   - rinna-gpt2-medium-japanese-ud-causal Model Description
   - Downloads: 14
+- [KoichiYasuoka/roberta-large-japanese-char-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-char-luw-upos)
+  - A RoBERTa model pre-trained on 青空文庫 texts for POS-tagging and dependency-parsing, using UPOS tagging,可直接通过`transformers`库加载用于句法分析和词性标注。
+  - Downloads: 13
+- [KoichiYasuoka/roberta-large-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora)
+  - A pre-trained RoBERTa大型模型，基于青空文库日语文本，并搭载Japanese-LUW分词器，适用于下游任务如词性标注和句法分析。
+  - Downloads: 13
+- [Yokohide031/rust_cl-tohoku_bert-large-japanese](https://huggingface.co/Yokohide031/rust_cl-tohoku_bert-large-japanese)
+  - A Rust implementation and conversion of Rostohoku/BERT large Japanese for easier integration into Rust projects.
+  - Downloads: 13
 - [KoichiYasuoka/deberta-large-japanese-wikipedia-luw-upos](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-wikipedia-luw-upos)
-  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 texts for UPOS tagging, available for token classification tasks.
+  - A DeBERTa(V2) model pre-trained on Japanese Wikipedia and 青空文庫 for UPOS and FEATS tagging.
   - Downloads: 13
-- [ku-nlp/roberta-large-japanese-char-wwm](https://huggingface.co/ku-nlp/roberta-large-japanese-char-wwm)
-  - A Japanese RoBERTa large model pre-trained on Wikipedia and CC-100 with character-level tokenization and whole word masking for masked language modeling.
-  - Downloads: 13
-- [KoichiYasuoka/roberta-large-japanese-juman-ud-goeswith](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-juman-ud-goeswith)
-  - A RoBERTa model pretrained on Japanese text for POS-tagging and dependency-parsing, which can be used via a transformers pipeline requiring fugashi.
-  - Downloads: 13
-- [line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-128g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-128g-actorder_False)
-  - A 1.7 billion parameter quantized Japanese language model fine-tuned by LINE Corporation, available for use via Hugging Face transformers library.
-  - Downloads: 13
-- [line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-32g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-32g-actorder_False)
-  - LINE Corporation's 1.7B parameter Japanese language model, fine-tuned for instruction-following and quantized to 4-bit, allows efficient text generation.
+- [KoichiYasuoka/roberta-large-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora-ud-head)
+  - A RoBERTa model pretrained on Japanese Aozora corpus for dependency-parsing and question-answering, using [MASK] to handle ambiguities in context.
   - Downloads: 13
 - [Lasorco/Kokuwa](https://huggingface.co/Lasorco/Kokuwa)
-  - A merged model, KiwiMix_v10, with Lora enhancements and deformed character styling, potentially for version updates.
+  - KiwiMix_v10 is a LoRA-based model with deformed character expressions and seed-dependent variations, merging multiple models including KiwimiX, lametta, and spekulatius.
+  - Downloads: 13
+- [Formzu/roberta-base-japanese-jsnli](https://huggingface.co/Formzu/roberta-base-japanese-jsnli)
+  - A fine-tuned RobertaBaseJapanese model on JSNLI with evaluation metrics of Loss: 0.2039 and Accuracy: 93.28%, requiring Juman++-segmented input for zero-shot classification.
+  - Downloads: 13
+- [KoichiYasuoka/roberta-large-japanese-juman-ud-goeswith](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-juman-ud-goeswith)
+  - A RoBERTa model pretrained on Japanese texts for POS-tagging and dependency-parsing, usable via a transformers pipeline for analyzing text with fugashi required.
+  - Downloads: 13
+- [line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-128g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-128g-actorder_False)
+  - This repository offers a 1.7B parameter quantized Japanese language model fine-tuned by LINE Corporation, accessible via Hugging Face for text generation tasks.
+  - Downloads: 13
+- [line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-32g-actorder_False](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft-4bit-32g-actorder_False)
+  - This repository offers a 1.7B parameter quantized Japanese language model fine-tuned by LINE Corporation, available for use via Hugging Face transformers.
   - Downloads: 13
 - [ohwi/japanese-stablelm-instruct-gamma-7b-repro](https://huggingface.co/ohwi/japanese-stablelm-instruct-gamma-7b-repro)
-  - A reproduction of a 7B-parameter decoder-only fine-tuned Japanese language model trained on instruction-following datasets using the notus codebase.
+  - A reproduction of a 7B-parameter decoder-only Japanese language model fine-tuned on instruction-following datasets using the notus code base.
   - Downloads: 13
 - [TheBloke/japanese-stablelm-instruct-beta-70B-AWQ](https://huggingface.co/TheBloke/japanese-stablelm-instruct-beta-70B-AWQ)
-  - This repository contains quantized AWQ model files for Stability AI's Japanese StableLM Instruct Beta 70B, supported by a16z grants and Massed Compute hardware.
+  - This repository contains quantized AWQ model files for Stability AI's Japanese StableLM Instruct Beta 70B, supported by a grant from a16z and_mass_comPUTE.
   - Downloads: 13
 - [LoneStriker/SambaLingo-Japanese-Chat-5.0bpw-h6-exl2](https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-5.0bpw-h6-exl2)
-  - SambaLingo-Japanese-Chat is a human-aligned chat model trained in Japanese and English using direct preference optimization on a base model fine-tuned from Llama-2-7b with 42 billion tokens from the Cultura-X dataset.
+  - SambaLingo-Japanese-Chat is a human-aligned Japanese and English chat model fine-tuned on 42B tokens from the Cultura-X dataset, built on SambaLingoJapanese-Base.
   - Downloads: 13
 - [ryota39/Phi-3-mini-4k-instruct-dpo](https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo)
   - モデル ベースモデル：microsoft/Phi-3-mini-4k-instruct 学習データセット：llm-jp/hh-rlhf-12k-ja 学習方式：フルパラメータチューニング サンプル import torch from transformers import AutoTokenizer, AutoModelForCausalLM tokenizer = AutoTokenizer.from_pretrained( "ryota39/Phi-3-mini-4k-instruct-dpo", trust_remote_code=True, ) model = AutoModelForCausalLM.from_pretrained( "ryota39/Phi-3-mini-4k-instruct-dpo", device_map="auto", torch_dtype='auto', trust_remote_code=True, ) text = "&lt;|user|&gt;\n与えられた質問に対して英語で思考し、日本語で答えてください。
@@ -2077,41 +2080,68 @@ This list is sorted by downloads as of March 25, 2025.
 - [youhansun/Llama-3-70B-japanese-suzume-vector-v0.1-Q2_K-GGUF](https://huggingface.co/youhansun/Llama-3-70B-japanese-suzume-vector-v0.1-Q2_K-GGUF)
   - youhansun/Llama-3-70B-japanese-suzume-vector-v0.1-Q2_K-GGUF
   - Downloads: 13
-- [Yokohide031/rust_cl-tohoku_bert-large-japanese](https://huggingface.co/Yokohide031/rust_cl-tohoku_bert-large-japanese)
-  - A Rust implementation of the BERT large Japanese model from Tohoku University, including setup instructions and usage examples.
+- [Miwa-Keita/zenz-v2-gguf](https://huggingface.co/Miwa-Keita/zenz-v2-gguf)
+  - A GPT-2-based language model for specialized kanji-hanja conversion tasks, extending zenz-v1 with improved base performance and new features.
   - Downloads: 12
-- [tsukemono/japanese-stablelm-base-alpha-7b-f16-marisa](https://huggingface.co/tsukemono/japanese-stablelm-base-alpha-7b-f16-marisa)
-  - A Fine-Tuned Japanese StableLM Base Alpha 7B model mimicking Reimu Hakurei's speech pattern for conversation, with usage examples and注意事项。
+- [KoichiYasuoka/roberta-base-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-aozora-ud-head)
+  - A RoBERTa model pretrained on Japanese AozoraBunko for dependency parsing and question-answering, specifically designed to handle multi-used words in context.
   - Downloads: 12
-- [tsukemono/japanese-novel-gpt-j-6b-f16-marisa](https://huggingface.co/tsukemono/japanese-novel-gpt-j-6b-f16-marisa)
-  - A fine-tuned Japanese GPT-j-6b model for conversing with the character Marisa Kirisame from the Eastern Project, including a GoogleColab example and注意事项。
+- [kit-nlp/bert-base-japanese-basic-char-v2-irony](https://huggingface.co/kit-nlp/bert-base-japanese-basic-char-v2-irony)
+  - This GitHub repository contains a BERT Base model for Japanese irony detection, fine-tuned on ironic and sarcastic tweets, licensed under CC BY-SA 4.0.
   - Downloads: 12
-- [Mizuiro-sakura/open-calm-large-finetuned-databricks-dolly](https://huggingface.co/Mizuiro-sakura/open-calm-large-finetuned-databricks-dolly)
-  - This repository contains the LoRA fine-tuned OpenCALM-LARGE model for Japanese language processing using PyTorch and PEFT, based on CyberAgent's original decoder-only models.
+- [ebisuke/liz-nojaloli-nxja-ja](https://huggingface.co/ebisuke/liz-nojaloli-nxja-ja)
+  - A variant of the abeja/gpt-neox-japanese-2.7b fine-tuned for casual " Lolispeak " chat, created for personal interest and development, with limited dataset.
   - Downloads: 12
-- [hitachi-nlp/bert-base-japanese_nothing-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_nothing-bpe)
-  - Provide the path to the downloaded Nothing + BPE dictionary file to load the Japanese BERT-base tokenizer.
+- [hitachi-nlp/bert-base-japanese_sudachi-unigram](https://huggingface.co/hitachi-nlp/bert-base-japanese_sudachi-unigram)
+  - The repository provides a Japanese BERT tokenizer using Sudachi and Unigram dictionaries, requiring users to download the dictionary file and specify its path.
   - Downloads: 12
-- [KoichiYasuoka/roberta-large-japanese-char-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-char-luw-upos)
-  - A RoBERTa model pre-trained on Aozora Bunko texts for UPOS and FEATS tagging, derived from roberta-large-japanese-aozora-char.
+- [line-corporation/japanese-large-lm-1.7b-instruction-sft-8bit-1g-actorder_True](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft-8bit-1g-actorder_True)
+  - This repository offers a 1.7B parameter quantized Japanese language model fine-tuned by LINE Corporation, along with instructions for usage and further details in an intern report.
+  - Downloads: 12
+- [MaziyarPanahi/japanese-stablelm-base-gamma-7b-Mistral-7B-Instruct-v0.1](https://huggingface.co/MaziyarPanahi/japanese-stablelm-base-gamma-7b-Mistral-7B-Instruct-v0.1)
+  - The repository combines the Mistral-7B-Instruct and Japanese-stablelm-base-gamma-7b models using spherical linear interpolation (slerp) for configuration slicing.
+  - Downloads: 12
+- [MaziyarPanahi/japanese-stablelm-instruct-gamma-7b-Mistral-7B-Instruct-v0.1](https://huggingface.co/MaziyarPanahi/japanese-stablelm-instruct-gamma-7b-Mistral-7B-Instruct-v0.1)
+  - A merged model combining Mistral-7B-Instruct-v0.1 and Japanese-stablelm-instruct-gamma-7b using spherical linear interpolation (slerp).
+  - Downloads: 12
+- [ganchengguang/Yoko_13B_Japanese_QLoRA](https://huggingface.co/ganchengguang/Yoko_13B_Japanese_QLoRA)
+  - A fine-tuned Llama-2-13b-chat-hf model using QLoRA on a dataset of 50,000 chat samples and 280,000 non-chat samples for improved Chinese and Japanese performance, with test.py for evaluation and Mori Lab contributions.
+  - Downloads: 12
+- [ClassCat/gpt2-base-japanese-v2](https://huggingface.co/ClassCat/gpt2-base-japanese-v2)
+  - GPT2 Japanese base model version 2 uses a BPE tokenizer with a vocabulary size of 60,000 and is trained on wiki40b/ja and CC-100/ja monolingual datasets, offering text generation via the transformers library.
+  - Downloads: 12
+- [izumi-lab/electra-small-japanese-fin-discriminator](https://huggingface.co/izumi-lab/electra-small-japanese-fin-discriminator)
+  - A pre-trained ELECTRA small model for Japanese language finance discrimination using Wikipedia as training data.
   - Downloads: 12
 - [KoichiYasuoka/roberta-base-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-aozora)
-  - A RoBERTa model pre-trained on Japanese Aozora texts, compatible with the Japanese-LUW tokenizer, for tasks like POS-tagging and fine-tuning.
+  - A RoBERTa model pre-trained on Japanese Aozora texts, using the Japanese-LUW tokenizer, for tasks like POS-tagging and fine-tuning.
+  - Downloads: 12
+- [tsukemono/japanese-stablelm-base-alpha-7b-f16-marisa](https://huggingface.co/tsukemono/japanese-stablelm-base-alpha-7b-f16-marisa)
+  - A Fine-tuned Japanese-StableLM-Base-Alpha-7B model with the parlance of Reimu Hakurei, allowing conversational interactions, hosted with training details and usage examples.
+  - Downloads: 12
+- [tsukemono/japanese-novel-gpt-j-6b-f16-marisa](https://huggingface.co/tsukemono/japanese-novel-gpt-j-6b-f16-marisa)
+  - A fine-tuned Japanese GPT-J-6B model for conversing with Marisa Kirisame from the Eastern Project, including a GoogleColab example and注意事项。
+  - Downloads: 12
+- [Mizuiro-sakura/open-calm-large-finetuned-databricks-dolly](https://huggingface.co/Mizuiro-sakura/open-calm-large-finetuned-databricks-dolly)
+  - The repository contains a LoRA-fine-tuned version of the open-calm-large model using PyTorch and PEFT for Japanese language processing.
+  - Downloads: 12
+- [hitachi-nlp/bert-base-japanese_nothing-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_nothing-bpe)
+  - Download the Nothing + BPE dictionary file to load the Japanese BERT-base tokenizer.
   - Downloads: 12
 - [loiccabannes/MambaSan-130m-instruct](https://huggingface.co/loiccabannes/MambaSan-130m-instruct)
-  - MambaSan-130m-instruct is a chat-oriented Japanese language model based on the Mamba state-space architecture,细调自Mamba-chat并针对SkelterLabsInc/JaQuAD数据集。
+  - MambaSan-130m-instruct is a chat-oriented Japanese language model based on the Mamba state-space architecture, fine-tuned on 31,7K JaQuAD examples.
   - Downloads: 12
 - [dahara1/ELYZA-japanese-Llama-2-7b-instruct-AWQ](https://huggingface.co/dahara1/ELYZA-japanese-Llama-2-7b-instruct-AWQ)
-  - A quantized Japanese instruction-tuned version of Llama 2 (7B parameters), optimized for Colab A100 or RTX 3000 Series GPUs.
+  - The GitHub repository contains a quantized 7B Japanese instruction-tuned Llama 2 model (3.89GB) confirmed to work with specific GPU configurations for local use.
   - Downloads: 12
 - [Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1-GGUF](https://huggingface.co/Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1-GGUF)
-  - This GitHub repository contains the quantized GGUF version of Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1, currently featuring Q4_K_M with other versions potentially available based on demand.
+  - This GitHub repository contains the quantized GGUF version of Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1, currently only including Q4_K_M.
   - Downloads: 12
 - [mmnga/ELYZA-japanese-CodeLlama-7b-instruct-GPTQ-calib-ja-1k](https://huggingface.co/mmnga/ELYZA-japanese-CodeLlama-7b-instruct-GPTQ-calib-ja-1k)
-  - This repository contains a GPTQ quantized model of the ELYZA-japanese-CodeLlama-7b-instruct model, calibrated with 1k random samples from Japanese Wikipedia and additional task data.
+  - ELYZA-japanese-CodeLlama-7b-instruct-GPTQ-calib-ja-1k is a GPTQ quantized model calibrated with 1K Japanese samples and additional input/output data from ELYZA-tasks.
   - Downloads: 12
 - [KoichiYasuoka/modernbert-base-japanese-char](https://huggingface.co/KoichiYasuoka/modernbert-base-japanese-char)
-  - A pre-trained ModernBERT model for Japanese text, fine-tunable for tasks like POS-tagging and dependency-parsing.
+  - A pre-trained ModernBERT model for Japanese text, fine-tutable for tasks like POS-tagging and dependency-parsing.
   - Downloads: 12
 - [Local-Novel-LLM-project/Ninja-v1-128k](https://huggingface.co/Local-Novel-LLM-project/Ninja-v1-128k)
   - Our Models Vecteus Ninja-v1 Ninja-v1-NSFW Ninja-v1-128k Ninja-v1-NSFW-128k Model Card for Ninja-v1-128k The Mistral-7B--based Large Language Model (LLM) is an noveldataset fine-tuned version of the Mistral-7B-v0.1 Ninja-128k has the following changes compared to Mistral-7B-v0.1.
@@ -2125,56 +2155,59 @@ This list is sorted by downloads as of March 25, 2025.
 - [hotchpotch/ruri-base-dummy-fast-tokenizer-for-tei](https://huggingface.co/hotchpotch/ruri-base-dummy-fast-tokenizer-for-tei)
   - このモデルは、text-embeddings-inference (TEI) で、mecab / unidic などを用いた日本語Tokenizerのモデルを、dummy の tokenizer.json を用いて無理やり動かす 方法のサンプルです。
   - Downloads: 12
-- [KoichiYasuoka/roberta-large-japanese-aozora-ud-head](https://huggingface.co/KoichiYasuoka/roberta-large-japanese-aozora-ud-head)
-  - A RoBERTa model pretrained on Japanese Aozora corpus for head detection in dependency parsing and question-answering using [MASK] for disambiguation.
+- [KoichiYasuoka/deberta-base-japanese-unidic-ud-head](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-unidic-ud-head)
+  - A DeBERTa(V2) model pretrained on Japanese text for dependency parsing and question-answering, using UD_Japanese-GSDLUW.
   - Downloads: 11
-- [KoichiYasuoka/deberta-base-japanese-aozora-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-aozora-ud-goeswith)
-  - A DeBERTa(V2) model pretrained on Aozora Bunko texts for POS-tagging and dependency-parsing, using goeswith subwords.
+- [ku-accms/roberta-base-japanese-ssuw](https://huggingface.co/ku-accms/roberta-base-japanese-ssuw)
+  - A pre-trained Japanese RoBERTa base model for super short unit words, requiring input text to be converted to full-width characters and segmented into SSUW before use.
+  - Downloads: 11
+- [line-corporation/japanese-large-lm-3.6b-instruction-sft-8bit-1g-actorder_True](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft-8bit-1g-actorder_True)
+  - This repository offers a 3.6B parameter quantized Japanese language model fine-tuned by LINE Corporation, along with instructions for usage and further details in the provided intern report.
+  - Downloads: 11
+- [TomokiFujihara/luke-japanese-base-lite-offensiveness-estimation](https://huggingface.co/TomokiFujihara/luke-japanese-base-lite-offensiveness-estimation)
+  - A fine-tuned model based on sentence-Luke-japanese-base-lite using manually annotated toxicity data from social media comments, achieving an F-score of 71.3%, with details on training conditions and evaluation metrics provided.
   - Downloads: 11
 - [KoichiYasuoka/deberta-large-japanese-wikipedia-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-wikipedia-ud-goeswith)
   - A DeBERTa(V2) model pretrained on Japanese Wikipedia and 青空文庫 texts for POS-tagging and dependency-parsing, using goeswith for subwords.
   - Downloads: 11
 - [hotchpotch/youri-7b-sft-qa-context-jaqket-gptq](https://huggingface.co/hotchpotch/youri-7b-sft-qa-context-jaqket-gptq)
-  - A model trained via SFT for Q&A and contextual responses, quantized with AutoGPTQ, achieving performance comparable to GPT3.5 in a 7B parameter model. Includes learning, evaluation, and sample codes.
+  - A model trained via SFT for Q&A and context processing, quantumized with AutoGPTQ and AutoAWQ, achieving GPT3.5+ performance in a 7B parameter model.
   - Downloads: 11
 - [hitachi-nlp/bert-base-japanese_nothing-wordpiece](https://huggingface.co/hitachi-nlp/bert-base-japanese_nothing-wordpiece)
-  - The repository provides instructions and code for loading a Japanese BERT-base tokenizer using the Nothing + WordPiece vocabulary.
+  - The repository provides instructions and code for loading a Japanese BERT-base tokenizer using the Nothing + WordPiece approach.
   - Downloads: 11
 - [hiroshi-matsuda-rit/electra-base-japanese-discriminator-v2](https://huggingface.co/hiroshi-matsuda-rit/electra-base-japanese-discriminator-v2)
-  - A pretrained ELECTRA model using approximately 200M Japanese sentences, tokenized with Sudachitra and WordPiece, for which you need to install SudachiTra before use.
-  - Downloads: 11
-- [KoichiYasuoka/deberta-base-japanese-unidic-ud-head](https://huggingface.co/KoichiYasuoka/deberta-base-japanese-unidic-ud-head)
-  - A DeBERTa(V2) model pretrained on 青空文庫 for dependency-parsing and question-answering, using [MASK] to handle ambiguity in multiple-used words.
+  - An ELECTRA model pretrained on 200 million Japanese sentences using SudachiTra and WordPiece tokenization for natural language processing tasks.
   - Downloads: 11
 - [slplab/wav2vec2-xls-r-300m-japanese-hiragana](https://huggingface.co/slplab/wav2vec2-xls-r-300m-japanese-hiragana)
-  - A fine-tuned Wav2Vec2-XLS-R-300M model for recognizing Japanese Hiragana from 16kHz audio inputs.
+  - Fine-tuned Wav2Vec2-XLS-R-300M on Japanese Hiragana characters for 16kHz audio inputs, outputting character sequences directly.
   - Downloads: 11
 - [KoichiYasuoka/deberta-large-japanese-juman-ud-goeswith](https://huggingface.co/KoichiYasuoka/deberta-large-japanese-juman-ud-goeswith)
-  - A DeBERTa(V2) model for Japanese POS-tagging and dependency-parsing, pretrained on multiple datasets, using goeswith for subwords.Reusable via Hugging Face transformers pipeline.
+  - A DeBERTa(V2) model pretrained on Japanese texts for POS-tagging and dependency-parsing, using goeswith for subwords, enabling universal dependency parsing with the transformers pipeline.
   - Downloads: 11
 - [loiccabannes/MambaSan-370m-instruct](https://huggingface.co/loiccabannes/MambaSan-370m-instruct)
-  - MambaSan-370m-instruct is a chat-based Japanese language model derived from Mamba architecture, fine-tuned on 31,7k JaQuAD dataset examples.
+  - MambaSan-370m-instruct is a Japanese language model based on the Mamba state-space architecture, fine-tuned on the JaQuAD dataset for chat applications.
   - Downloads: 11
 - [LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-3.0bpw-h6-exl2](https://huggingface.co/LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-3.0bpw-h6-exl2)
-  - A 7-billion parameter Japanese language model fine-tuned for instruction-following tasks, based on the Japanese Stable LM Base Gamma 7B model.
+  - A 7B-parameter Japanese language model fine-tuned for instruction-following, built on Japanese Stable LM Base Gamma 7B.
   - Downloads: 11
 - [hiroshi-matsuda-rit/ja_gsd_bert_wwm_unidic_lite](https://huggingface.co/hiroshi-matsuda-rit/ja_gsd_bert_wwm_unidic_lite)
-  - A Japanese transformer pipeline using BERT for spaCy, including transformer, parser, and NER components, based on UD_Japanese-GSD r2.8+NESudachiDict_corecl-tohoku, with 45 labels and licensed under CC BY-SA 4.0.
+  - A Japanese transformation pipeline using BERT-base, including transformer, parser, andner components, with spaCy version constraints and specific source models.
   - Downloads: 11
 - [espnet/kan-bayashi_jsut_full_band_vits_prosody](https://huggingface.co/espnet/kan-bayashi_jsut_full_band_vits_prosody)
-  - A pre-trained ESPnet2 TTS model based on the jsut/tts1 recipe by kan-bayashi.
+  - A pretrained ESPnet2 TTS model trained by kan-bayashi using the jsut/tts1 recipe.
   - Downloads: 11
 - [LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-8.0bpw-h6-exl2](https://huggingface.co/LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-8.0bpw-h6-exl2)
-  - A 7-billion-parameter Japanese instruction-following language model fine-tuned on specific datasets, built upon the Japanese Stable LM Base Gamma 7B.
+  - A 7B-parameter Japanese instruction-following language model fine-tuned on relevant datasets, built upon the Japanese Stable LM Base Gamma 7B model.
   - Downloads: 11
 - [LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-6.0bpw-h6-exl2](https://huggingface.co/LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-6.0bpw-h6-exl2)
-  - A 7-billion-parameter Japanese instruction-following language model fine-tuned on Stable LM Base Gamma 7B, requiring Transformers 4.34.0 or later for usage.
+  - A 7-billion-parameter Japanese instruction-following language model fine-tuned on Stable LM Base Gamma 7B, requiring Transformers 4.34.0 or更高版本。
   - Downloads: 11
 - [LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-5.0bpw-h6-exl2](https://huggingface.co/LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-5.0bpw-h6-exl2)
-  - A 7 billion-parameter Japanese instruction-following language model fine-tuned on the base model Japanese Stable LM Base Gamma 7B, requiring Transformers 4.34.0 or later for usage.
+  - A 7-billion-parameter Japanese language model fine-tuned for instruction following, based on the Japanese Stable LM Base Gamma 7B model.
   - Downloads: 11
 - [LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-4.0bpw-h6-exl2](https://huggingface.co/LoneStriker/stabilityai_japanese-stablelm-instruct-gamma-7b-4.0bpw-h6-exl2)
-  - A 7B-parameter Japanese instruction-following language model fine-tuned on instructional datasets, built on稳定性AI的Japanese Stable LM Base Gamma 7B。请确保使用Transformers 4.34.0或更高版本，并提供相应的 tokernizer 和模型加载代码示例。
+  - A 7B-parameter Japanese instruction-following language model fine-tuned on stable LM base Gamma 7B, requiring Transformers 4.34.0 or newer for usage.
   - Downloads: 11
 - [traintogpb/llama-3-mmt-xml-it-sft-adapter](https://huggingface.co/traintogpb/llama-3-mmt-xml-it-sft-adapter)
   - Pretrained LM beomi/Llama-3-Open-Ko-8B (MIT License)
@@ -2211,46 +2244,46 @@ This list is sorted by downloads as of March 25, 2025.
   - Downloads: 11
 ### Syntactic Text Processing
 - [cyberagent/open-calm-small](https://huggingface.co/cyberagent/open-calm-small)
-  - The repository provides a pre-trained small model of the OpenCALM decoder-only language model for Japanese text processing.
-  - Downloads: 5,595
-- [sazyou-roukaku/BracingEvoMix](https://huggingface.co/sazyou-roukaku/BracingEvoMix)
-  - The repository follows CreativeML Open RAIL-M licensing, with an additional copyright credited to @sazyou_roukaku; usage limitations apply, especially for criminal or specialized purposes.
-  - Downloads: 4,315
+  - The repository provides a pre-trained small OpenCALM language model for Japanese text generation, along with instructions and code examples for usage.
+  - Downloads: 4,991
 - [mmnga/Llama-3-70B-japanese-suzume-vector-v0.1](https://huggingface.co/mmnga/Llama-3-70B-japanese-suzume-vector-v0.1)
   - Model Card for Model ID 実験モデルです /
   - Downloads: 3,944
-- [mmnga/Ninja-v1-NSFW-gguf](https://huggingface.co/mmnga/Ninja-v1-NSFW-gguf)
-  - A converted gguf format model of Ninja-v1-NSFW for local novel LLM project, based on imatrix dataset and including instructions for usage with llama.cpp.
-  - Downloads: 3,728
 - [cyberagent/open-calm-7b](https://huggingface.co/cyberagent/open-calm-7b)
-  - The repository provides the OpenCALM-7B model for Japanese language processing, including its pre-trained weights and usage examples with tokenizers.
-  - Downloads: 3,674
-- [cyberagent/open-calm-large](https://huggingface.co/cyberagent/open-calm-large)
-  - This repository provides a large OpenCALM decoder-only language model for Japanese, including the pretrained model and tokenizer from CyberAgent.
-  - Downloads: 3,666
+  - OpenCALM-7B is a Japanese-language decoder model by CyberAgent that can be easily integrated using Hugging Face's library for text generation.
+  - Downloads: 3,872
+- [sazyou-roukaku/BracingEvoMix](https://huggingface.co/sazyou-roukaku/BracingEvoMix)
+  - This repository maintains the CreativeML Open RAIL-M license but adds copyright by sazyou_roukaku (Twitter @sazyou_roukaku), with disclaimers on use restrictions and liability.
+  - Downloads: 3,806
+- [mmnga/Ninja-v1-NSFW-gguf](https://huggingface.co/mmnga/Ninja-v1-NSFW-gguf)
+  - A gguf format conversion of the Ninja-v1-NSFW model for local LLM projects, utilizing imatrix dataset from TFMC/imatrix-dataset-for-japanese-llm.
+  - Downloads: 3,785
+- [mmnga/Ninja-v1-NSFW-128k-gguf](https://huggingface.co/mmnga/Ninja-v1-NSFW-128k-gguf)
+  - A gguf-format conversion of the Ninja-v1-NSFW-128k model for local use, based on imatrix datasets, with instructions for running it using llama.cpp.
+  - Downloads: 3,085
 - [tokyotech-llm/Swallow-7b-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-hf)
-  - Swallow model is a Japanese-language-enhanced version of Llama 2 with instruction-tuned SFT, released in March 2024 as v0.1 previews.
-  - Downloads: 3,073
+  - Swallow model, derived from Llama 2 with Japanese data added and fine-tuned via SFT, includes versions 7B, 13B, and 70B instruction-tuned models released on April 26, 2024.
+  - Downloads: 3,070
 - [mmnga/Llama-3.1-70B-Japanese-Instruct-2407-gguf](https://huggingface.co/mmnga/Llama-3.1-70B-Japanese-Instruct-2407-gguf)
   - Llama-3.1-70B-Japanese-Instruct-2407-gguf cyberagentさんが公開しているLlama-3.1-70B-Japanese-Instruct-2407のggufフォーマット変換版です。
   - Downloads: 3,004
-- [mmnga/Ninja-v1-NSFW-128k-gguf](https://huggingface.co/mmnga/Ninja-v1-NSFW-128k-gguf)
-  - A gguf-format conversion of the Ninja-v1-NSFW-128k model, created using imatrix data, for use with llama.cpp.
-  - Downloads: 2,938
+- [cyberagent/open-calm-large](https://huggingface.co/cyberagent/open-calm-large)
+  - OpenCALM-Large is a pre-trained Japanese language model suite, available for use via Hugging Face's Transformers library.
+  - Downloads: 2,801
 - [tokyotech-llm/Swallow-70b-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-instruct-hf)
-  - Swallow model is an Llama 2 derivative with Japanese data added and SFT-tuned; version 0.1 releases include Swallow-7b-instruct-v0.1, Swallow-13b-instruct-v0.1, and Swallow-70b-instruct-v0.1.
-  - Downloads: 2,754
-- [tokyotech-llm/Swallow-13b-hf](https://huggingface.co/tokyotech-llm/Swallow-13b-hf)
-  - Swallow model series, derived from Llama 2 with Japanese data added, uses SFT; v0.1 releases include Swallow-7b-instruct-v0.1, Swallow-13b-instruct-v0.1, and Swallow-70b-instruct-v0.1.
-  - Downloads: 2,121
-- [augmxnt/shisa-base-7b-v1](https://huggingface.co/augmxnt/shisa-base-7b-v1)
-  - shisa-base-7b-v1 enhances Mistral 7B with additional Japanese pre-training and an extended tokenizer for improved Japanese efficiency.
-  - Downloads: 2,036
+  - Swallow model series has been fine-tuned from Llama 2 with Japanese data, featuring SFT versions including Swallow-7b-instruct-v0.1, Swallow-13b-instruct-v0.1, and Swallow-70b-instruct-v0.1 released on April 26, 2024.
+  - Downloads: 2,722
 - [Lasorco/lametta_old](https://huggingface.co/Lasorco/lametta_old)
-  - This repository stores old, deprecated, and experimental models for fun merged with a specific material, suitable for playful adjustments and deformations.
-  - Downloads: 1,914
+  - This repository stores old, obsolete, and casual merge models for fun, along with materials for merging that produce strongly distorted outputs similar to lametta, all under the same license as lametta.
+  - Downloads: 2,302
+- [tokyotech-llm/Swallow-13b-hf](https://huggingface.co/tokyotech-llm/Swallow-13b-hf)
+  - Swallow model, derived from Llama 2 with Japanese data integration and SFT tuning, includes versions 7B, 13B, and 70B released on April 26, 2024.
+  - Downloads: 2,174
+- [augmxnt/shisa-base-7b-v1](https://huggingface.co/augmxnt/shisa-base-7b-v1)
+  - shisa-base-7b-v1 enhances Mistral 7B with additional Japanese pre-training and an extended tokenizer for improved efficiency.
+  - Downloads: 1,971
 - [aken12/splade-japanese-v3](https://huggingface.co/aken12/splade-japanese-v3)
-  - Evaluation results for Japanese models on MIRACL and JQaRA datasets include metrics like nDCG@10, Recall@1000, and others, with varying performance across different model versions.
+  - Evaluation results for various Japanese SplADE models on MIRACL and JQaRA datasets, measuring metrics like nDCG@10, Recall@1000, and others.
   - Downloads: 1,495
 - [mmnga/Mistral-7B-Instruct-v0.3-gguf](https://huggingface.co/mmnga/Mistral-7B-Instruct-v0.3-gguf)
   - Mistral-7B-Instruct-v0.3-gguf mistralaiさんが公開しているMistral-7B-Instruct-v0.3のggufフォーマット変換版です。
@@ -2262,23 +2295,23 @@ This list is sorted by downloads as of March 25, 2025.
   - tokyotech-llm-Swallow-13b-instruct-v0.1-gguf tokyotech-llmさんが公開しているSwallow-13b-instruct-v0.1のggufフォーマット変換版です。
   - Downloads: 1,057
 - [tokyotech-llm/Swallow-70b-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-hf)
-  - Swallow model series is an enhancement of Llama 2 with Japanese data, using SFT, and includes versions 7B, 13B, and 70B released on April 26, 2024.
-  - Downloads: 1,024
-- [tokyotech-llm/Swallow-MX-8x7b-NVE-v0.1](https://huggingface.co/tokyotech-llm/Swallow-MX-8x7b-NVE-v0.1)
-  - The Swallow-MX-8x7b-NVE-v0.1 model is a pre-trained language model based on Mixtral with added Japanese data, maintaining the original architecture and tokenizer.
-  - Downloads: 942
-- [tokyotech-llm/Swallow-13b-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-13b-instruct-hf)
-  - Swallow model, derived from Llama 2 with Japanese data, uses SFT; releases include Swallow-7b-instruct-v0.1, Swallow-13b-instruct-v0.1, and Swallow-70b-instruct-v0.1 on April 26, 2024.
-  - Downloads: 933
-- [cyberagent/open-calm-3b](https://huggingface.co/cyberagent/open-calm-3b)
-  - The repository contains the OpenCALM-3B decoder-only language model, pre-trained on Japanese datasets, along with examples for loading and using it in PyTorch.
-  - Downloads: 911
+  - The GitHub repository features Swallow model versions 7B, 13B, and 70B with Japanese-language pre-training and instruction-tuning, released on April 26, 2024.
+  - Downloads: 1,030
 - [mmnga/shisa-7b-v1-gguf](https://huggingface.co/mmnga/shisa-7b-v1-gguf)
-  - A gguf format conversion of shisa-7b-v1 for use with llama.cpp, demonstrating text generation commands.
-  - Downloads: 891
+  - A gguf-formatted version of the shisa-7b-v1 model for use with llama.cpp, including examples of inference commands.
+  - Downloads: 944
+- [tokyotech-llm/Swallow-MX-8x7b-NVE-v0.1](https://huggingface.co/tokyotech-llm/Swallow-MX-8x7b-NVE-v0.1)
+  - The Swallow-MX-8x7b-NVE-v0.1 model is a Japanese-English pre-trained language model derived from Mixtral-8x7B-Instruct-v0.1 with added Japanese data.
+  - Downloads: 942
+- [cyberagent/open-calm-3b](https://huggingface.co/cyberagent/open-calm-3b)
+  - The GitHub repository contains the OpenCALM-3B model, a Japanese decoder-only language model from CyberAgent, Inc., along with its tokenizer and basic usage example using Hugging Face's Transformers library.
+  - Downloads: 934
 - [mradermacher/Llama-3-8B-Instruct-japanese-nk2t-v0.2-GGUF](https://huggingface.co/mradermacher/Llama-3-8B-Instruct-japanese-nk2t-v0.2-GGUF)
   - About static quants of https://huggingface.co/nk2t/Llama-3-8B-Instruct-japanese-nk2t-v0.2 weighted/imatrix quants are available at https://huggingface.co/mradermacher/Llama-3-8B-Instruct-japanese-nk2t-v0.2-i1-GGUF Usage If you are unsure how to use GGUF files, refer to one of TheBloke's READMEs for more details, including on how to concatenate multi-part files.
   - Downloads: 854
+- [tokyotech-llm/Swallow-13b-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-13b-instruct-hf)
+  - Swallow model is an Llama 2-derived model fine-tuned with Japanese data using SFT, with previews of version 0.1 released on April 26, 2024.
+  - Downloads: 840
 - [mmnga/umiyuki-Japanese-Chat-Umievo-itr001-7b-gguf](https://huggingface.co/mmnga/umiyuki-Japanese-Chat-Umievo-itr001-7b-gguf)
   - umiyuki-Japanese-Chat-Umievo-itr001-7b-gguf umiyukiさんが公開しているJapanese-Chat-Umievo-itr001-7bのggufフォーマット変換版です。
   - Downloads: 830
@@ -2292,8 +2325,8 @@ This list is sorted by downloads as of March 25, 2025.
   - rinna-llama-3-youko-8b-gguf rinnaさんが公開しているllama-3-youko-8bのggufフォーマット変換版です。
   - Downloads: 788
 - [tokyotech-llm/Swallow-7b-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-instruct-hf)
-  - Swallow model, derived from Llama 2 with Japanese data integration and SFT tuning, includes versions 7B, 13B, and 70B released on April 26, 2024.
-  - Downloads: 784
+  - Swallow model, derived from Llama 2 with Japanese data additions and SFT, includes versions 7B, 13B, and 70B released on April 26, 2024.
+  - Downloads: 740
 - [mmnga/tokyotech-llm-Swallow-70b-instruct-v0.1-gguf](https://huggingface.co/mmnga/tokyotech-llm-Swallow-70b-instruct-v0.1-gguf)
   - tokyotech-llm-Swallow-70b-instruct-v0.1-gguf tokyotech-llmさんが公開しているSwallow-70b-instruct-v0.1のggufフォーマット変換版です。
   - Downloads: 732
@@ -2306,44 +2339,41 @@ This list is sorted by downloads as of March 25, 2025.
 - [mmnga/c4ai-command-r-plus-gguf](https://huggingface.co/mmnga/c4ai-command-r-plus-gguf)
   - c4ai-command-r-plus-gguf CohereForAIさんが公開しているc4ai-command-r-plusのggufフォーマット変換版です。
   - Downloads: 675
-- [cyberagent/open-calm-medium](https://huggingface.co/cyberagent/open-calm-medium)
-  - The repository contains the OpenCALM-Medium model, a pre-trained Japanese decoder-only language model from CyberAgent, Inc., along with usage instructions.
-  - Downloads: 664
-- [tokyotech-llm/Swallow-70b-NVE-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-NVE-instruct-hf)
-  - Swallow model family, derived from Llama 2 with Japanese data added, features instruction-tuned versions released in April 2024.
-  - Downloads: 647
 - [mmnga/Ninja-v1-gguf](https://huggingface.co/mmnga/Ninja-v1-gguf)
   - Ninja-v1-gguf Local-Novel-LLM-projectさんが公開しているNinja-v1のggufフォーマット変換版です。
   - Downloads: 628
-- [tokyotech-llm/Swallow-7b-NVE-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-NVE-hf)
-  - The repository features continually pre-trained Swallow models from the Llama 2 family, enhanced with Japanese data and released in versions 0.1 on April 26, 2024, through supervised fine-tuning.
-  - Downloads: 607
+- [tokyotech-llm/Swallow-70b-NVE-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-NVE-instruct-hf)
+  - Swallow model, derived from Llama 2 with Japanese data added, uses SFT for instruction tuning; releases including Swallow-7b-instruct-v0.1, Swallow-13b-instruct-v0.1, and Swallow-70b-instruct-v0.1 are scheduled for April 26, 2024.
+  - Downloads: 616
+- [cyberagent/open-calm-medium](https://huggingface.co/cyberagent/open-calm-medium)
+  - The repository contains the OpenCALM-Medium model, a Japanese language model from CyberAgent, Inc., along with its tokenizer and usage instructions.
+  - Downloads: 608
 - [mmnga/aixsatoshi-Honyaku-13b-gguf](https://huggingface.co/mmnga/aixsatoshi-Honyaku-13b-gguf)
   - aixsatoshi-Honyaku-13b-gguf aixsatoshiさんが公開しているHonyaku-13bのggufフォーマット変換版です。
   - Downloads: 604
 - [tokyotech-llm/Swallow-13b-NVE-hf](https://huggingface.co/tokyotech-llm/Swallow-13b-NVE-hf)
-  - Swallow model series, derived from Llama 2 with Japanese data added, uses SFT and includes instruction-tuned versions released on April 26, 2024.
+  - Swallow model, derived from Llama 2 with Japanese data added, features instruction-tuned versions released on April 26, 2024.
   - Downloads: 589
 - [tokyotech-llm/Swallow-7b-plus-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-plus-hf)
-  - Swallow model, derived from Llama 2 with Japanese data addition and SFT, includes versions 7B, 13B, and 70B released on April 26, 2024.
+  - Swallow model series is a Japanese-language fine-tuned version of Llama 2 with SFT, including versions 7B, 13B, and 70B released on April 26, 2024.
   - Downloads: 584
+- [tokyotech-llm/Swallow-70b-NVE-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-NVE-hf)
+  - Swallow model, derived from Llama 2 with Japanese data, uses SFT and includes versions 7B, 13B, and 70B released in April 2024 as previews.
+  - Downloads: 579
 - [tohoku-nlp/tohokunlp-bert-500m-sq4096-alpha](https://huggingface.co/tohoku-nlp/tohokunlp-bert-500m-sq4096-alpha)
   - (English part follows Japanese one.
   - Downloads: 576
-- [tokyotech-llm/Swallow-7b-NVE-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-NVE-instruct-hf)
-  - Swallow model is a Japanese-language-focused variant of Llama 2, fine-tuned with supervised fine-tuning, including versions Swallow-7b-instruct-v0.1, Swallow-13b-instruct-v0.1, and Swallow-70b-instruct-v0.1 released on April 26, 2024.
-  - Downloads: 567
 - [tokyotech-llm/Swallow-7b-instruct-v0.1](https://huggingface.co/tokyotech-llm/Swallow-7b-instruct-v0.1)
-  - Swallow model series is a Japanese-language tuned version from Llama 2 with SFT, including instruct-tuned 7B, 13B, and 70B models released on April 26, 2024.
+  - Swallow model, derived from Llama 2 with Japanese pre-training and SFT, includes versions 7B, 13B, and 70B instruction-tuned models released on April 26, 2024.
   - Downloads: 565
-- [mmnga/llm-jp-3-7.2b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-7.2b-instruct3-gguf)
-  - A gguf-format conversion of llm-jp-3-7.2b-instruct3 by llm-jp, using imatrix data from TFMC/imatrix-dataset-for-japanese-llm. Custom chat template support is not available via llama.cpp.
-  - Downloads: 548
-- [tokyotech-llm/Swallow-70b-NVE-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-NVE-hf)
-  - Swallow model series, derived from Llama 2 with Japanese data added and SFT-tuned, includes releases like Swallow-7b-instruct-v0.1 on April 26, 2024.
-  - Downloads: 536
+- [tokyotech-llm/Swallow-7b-NVE-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-NVE-hf)
+  - Swallow model is a continuum pre-trained from Llama 2 with Japanese data, using SFT, and version 0.1 of instruction-tuned models was released on April 26, 2024.
+  - Downloads: 553
+- [tokyotech-llm/Swallow-7b-NVE-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-NVE-instruct-hf)
+  - Swallow model series, derived from Llama 2 with Japanese data augmentation and SFT tuning, includes versions 0.1 released on April 26, 2024。
+  - Downloads: 543
 - [tokyotech-llm/Swallow-13b-instruct-v0.1](https://huggingface.co/tokyotech-llm/Swallow-13b-instruct-v0.1)
-  - Swallow model is a Japanese-language-enhanced version of Llama 2 with instruction-tuning, releasing new versions in April 2024.
+  - Swallow model series, derived from Llama 2 with Japanese data addition and SFT tuning, includes versions released in April 2024.
   - Downloads: 535
 - [mmnga/Qwen1.5-110B-Chat-gguf](https://huggingface.co/mmnga/Qwen1.5-110B-Chat-gguf)
   - Qwen1.5-110B-Chat-gguf Qwenさんが公開しているQwen1.5-110B-Chatのggufフォーマット変換版です。
@@ -2360,6 +2390,9 @@ This list is sorted by downloads as of March 25, 2025.
 - [mmnga/Ninja-v1-128k-gguf](https://huggingface.co/mmnga/Ninja-v1-128k-gguf)
   - Ninja-v1-128k-gguf Local-Novel-LLM-projectさんが公開しているNinja-v1-128kのggufフォーマット変換版です。
   - Downloads: 408
+- [stanfordnlp/stanza-ja](https://huggingface.co/stanfordnlp/stanza-ja)
+  - The repository provides a Stanza model for Japanese language processing, including syntactic analysis and entity recognition.
+  - Downloads: 388
 - [QuantFactory/Llama3.1-ArrowSE-v0.4-GGUF](https://huggingface.co/QuantFactory/Llama3.1-ArrowSE-v0.4-GGUF)
   - QuantFactory/Llama3.1-ArrowSE-v0.4-GGUF This is quantized version of DataPilot/Llama3.1-ArrowSE-v0.4 created using llama.cpp Original Model Card 概要 このモデルはllama3.1-8B-instructをもとに日本語性能を高めることを目的にMergekit&amp;ファインチューニングを用いて作成されました。
   - Downloads: 354
@@ -2369,29 +2402,29 @@ This list is sorted by downloads as of March 25, 2025.
 - [mmnga/HODACHI-Borea-Phi-3.5-mini-Instruct-Common-gguf](https://huggingface.co/mmnga/HODACHI-Borea-Phi-3.5-mini-Instruct-Common-gguf)
   - HODACHI-Borea-Phi-3.5-mini-Instruct-Common-gguf HODACHIさんが公開しているBorea-Phi-3.5-mini-Instruct-Commonのggufフォーマット変換版です。
   - Downloads: 312
-- [stanfordnlp/stanza-ja](https://huggingface.co/stanfordnlp/stanza-ja)
-  - A Stanza model for Japanese that enables syntactic analysis and entity recognition using state-of-the-art NLP tools.
-  - Downloads: 309
 - [mmnga/SakanaAI-EvoLLM-JP-v1-7B-gguf](https://huggingface.co/mmnga/SakanaAI-EvoLLM-JP-v1-7B-gguf)
-  - SakanaAI-EvoLLM-JP-v1-7B-gguf is a base model in gguf format converted from EvoLLM-JP-v1, licensed under terms of its merge sources.
+  - A gguf-formatted base model derived from EvoLLM-JP-v1-7B by SakanaAI, including licenses from Shisa Gamma 7B v1, WizardMath 7B V1.1, and Abel 7B 002 for usage with llama.cpp.
   - Downloads: 282
 - [stabilityai/japanese-instructblip-alpha](https://huggingface.co/stabilityai/japanese-instructblip-alpha)
-  - This repository contains details and setup instructions for the Japanese InstructBLIP Alpha model, enabling image description generation in Japanese with optional text input.
-  - Downloads: 277
+  - This repository hosts the Japanese InstructBLIP Alpha model for generating Japanese descriptions of images and handling optional textual inputs.
+  - Downloads: 275
 - [mmnga/Deepreneur-blue-lizard-gguf](https://huggingface.co/mmnga/Deepreneur-blue-lizard-gguf)
-  - A Q4_0 quantized gguf format conversion of Deepreneur's blue-lizard 7B model for use with llama.cpp, licensed under the llama2 license.
+  - Deepreneur's gguf-format 7B model of blue-lizard for use with llama.cpp, licensed under the llama2 license.
   - Downloads: 266
+- [mmnga/llm-jp-3-7.2b-instruct3-gguf](https://huggingface.co/mmnga/llm-jp-3-7.2b-instruct3-gguf)
+  - A gguf-formatted version of llm-jp-3-7.2b-instruct3 by llm-jp, using imatrix-dataset-for-japanese-llm, incompatible with custom chat templates in llama.cpp.
+  - Downloads: 250
 - [mmnga/Mistral-Large-Instruct-2407-gguf](https://huggingface.co/mmnga/Mistral-Large-Instruct-2407-gguf)
   - Mistral-Large-Instruct-2407-gguf mistralaiさんが公開しているMistral-Large-Instruct-2407のggufフォーマット変換版です。
   - Downloads: 249
 - [clu-ling/whisper-large-v2-japanese-5k-steps](https://huggingface.co/clu-ling/whisper-large-v2-japanese-5k-steps)
-  - A fine-tuned Whisper large-v2 model on Japanese CommonVoice v11 for 5000 steps, achieving Loss: 0.4200 and Wer: 0.7449.
-  - Downloads: 213
+  - A fine-tuned version of openai/whisper-large-v2 on Japanese CommonVoice v11 for 5000 steps, achieving Loss 0.4200 and Wer 0.7449.
+  - Downloads: 211
 - [zh-plus/faster-whisper-large-v2-japanese-5k-steps](https://huggingface.co/zh-plus/faster-whisper-large-v2-japanese-5k-steps)
-  - A GitHub repository containing a Japanese Whisper model converted from clu-ling/whisper-large-v2-japanese-5k-steps for audio transcription using CTranslate2.
-  - Downloads: 213
+  - A GitHub repository containing a Japanese Whisper model converted from clu-ling/whisper-large-v2-japanese-5k-steps, usable via the faster-whisper API for language detection and transcription.
+  - Downloads: 197
 - [mmnga/SakanaAI-EvoLLM-JP-A-v1-7B-gguf](https://huggingface.co/mmnga/SakanaAI-EvoLLM-JP-A-v1-7B-gguf)
-  - SakanaAI's EvoLLM-JP-A-v1-7B gguf base model for AI linguistic processing, compatible with llama.cpp.
+  - SakanaAI-EvoLLM-JP-A-v1-7B-gguf is a base model仓库，由SakanaAI提供，适用于转换和使用的EvoLLM-JP-A-v1-7B的gguf格式版本。
   - Downloads: 193
 - [QuantFactory/ELYZA-japanese-Llama-2-7b-instruct-GGUF](https://huggingface.co/QuantFactory/ELYZA-japanese-Llama-2-7b-instruct-GGUF)
   - QuantFactory/ELYZA-japanese-Llama-2-7b-instruct-GGUF
@@ -2400,13 +2433,13 @@ This list is sorted by downloads as of March 25, 2025.
   - This repository contains some GGUF quantizations of the merged VNTL LLaMA3 8B 202409 qlora model, created using a custom version of the VNTL dataset combined with the VNTL-Chat dataset.
   - Downloads: 161
 - [ptaszynski/yacis-electra-small-japanese](https://huggingface.co/ptaszynski/yacis-electra-small-japanese)
-  - This GitHub repository contains a 12-layer ELECTRA Small model pretrained on 354 million sentences from the YACIS blog corpus using MeCab tokenization and WordPiece subword tokenization.
-  - Downloads: 142
+  - This GitHub repository contains the 12-layer ELECTRA Small model pretrained on 354 million sentences from a Japanese blog corpus with 5.6 billion words.
+  - Downloads: 141
 - [mmnga/stockmark-100b-gguf](https://huggingface.co/mmnga/stockmark-100b-gguf)
   - stockmark-100b-gguf stockmarkさんが公開しているstockmark-100bのggufフォーマット変換版です。
   - Downloads: 137
 - [tokyotech-llm/Swallow-70b-instruct-v0.1](https://huggingface.co/tokyotech-llm/Swallow-70b-instruct-v0.1)
-  - Swallow model, derived from Llama 2 and fine-tuned with Japanese data, includes instruction-tuned versions released on April 26, 2024.
+  - Swallow model is a Japanese-language fine-tuned version of Llama 2 using supervised fine-tuning, with updates scheduled for April 26, 2024.
   - Downloads: 134
 - [Ryoma0302/gpt_0.76B_global_step3000_japanese](https://huggingface.co/Ryoma0302/gpt_0.76B_global_step3000_japanese)
   - Model Card for Model ID Model Details Model Description
@@ -2414,11 +2447,8 @@ This list is sorted by downloads as of March 25, 2025.
 - [wolf4032/bert-japanese-token-classification-search-local-cuisine](https://huggingface.co/wolf4032/bert-japanese-token-classification-search-local-cuisine)
   - Model Card for Model ID 料理を検索するための質問文から、検索検索用キーワードである固有表現を抽出します Model Details Model Description 例えば、「東京の肉料理で、春に食べられる、鶏肉を使った料理を教えてください」という文章を入力すると、 「東京 → 都道府県/地方(AREA)」 「肉料理 → 種類(TYPE)」 「春 → 季節(SZN)
   - Downloads: 127
-- [TFMC/Japanese-Starling-ChatV-7B](https://huggingface.co/TFMC/Japanese-Starling-ChatV-7B)
-  - Japanese-Starling-ChatV-7B is a 7B-parameter Japanese chat model derived from "chatntq-ja-7b-v1.0" and Mistral-7B-v0.1.
-  - Downloads: 125
 - [2121-8/japanese-parler-tts-large-bate](https://huggingface.co/2121-8/japanese-parler-tts-large-bate)
-  - This repository hosts a retrained Japanese TTS model based on parler-tts/parler-tts-large-v1, offering high-quality audio with a lightweight architecture, but notes that it requires a custom tokenizer and is currently in beta.
+  - This repository features a retrained Japanese text-to-speech model based on parler-tts/parler-tts-large-v1, offering high-quality audio in a lightweight package, currently in beta.
   - Downloads: 123
 - [Aratako/Ninja-v1-RP-expressive-breadcrumbs-GGUF](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-breadcrumbs-GGUF)
   - Ninja-v1-RP-expressive-GGUF 概要 Aratako/Ninja-v1-RP-expressive-breadcrumbsの量子化済みGGUF版です。
@@ -2435,6 +2465,9 @@ This list is sorted by downloads as of March 25, 2025.
 - [QuantFactory/llama-3-youko-8b-GGUF](https://huggingface.co/QuantFactory/llama-3-youko-8b-GGUF)
   - QuantFactory/llama-3-youko-8b-GGUF
   - Downloads: 108
+- [TFMC/Japanese-Starling-ChatV-7B](https://huggingface.co/TFMC/Japanese-Starling-ChatV-7B)
+  - Japanese-Starling-ChatV-7B is a 7B parameter Japanese chat model derived from "chatntq-ja-7b-v1.0" based on Mistral-7B-v0.1.
+  - Downloads: 100
 - [Aratako/Ninja-v1-RP-expressive-GGUF](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-GGUF)
   - Ninja-v1-RP-expressive-GGUF 概要 Aratako/Ninja-v1-RP-expressiveの量子化済みGGUF版です。
   - Downloads: 99
@@ -2450,24 +2483,27 @@ This list is sorted by downloads as of March 25, 2025.
 - [Aratako/Ninja-v1-RP-expressive-v2-GGUF](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-v2-GGUF)
   - Ninja-v1-RP-expressive-GGUF 概要 Aratako/Ninja-v1-RP-expressive-v2の量子化済みGGUF版です。
   - Downloads: 81
-- [mradermacher/Japanese-Starling-ChatV-7B-GGUF](https://huggingface.co/mradermacher/Japanese-Starling-ChatV-7B-GGUF)
-  - Weighted/imatrix quantized models and GGUF files for Japanese Starling-ChatV-7B, including Q2_K and Q3_K_S variants.
-  - Downloads: 76
 - [Aratako/Japanese-Novel-Reward-sarashina2.1-1b](https://huggingface.co/Aratako/Japanese-Novel-Reward-sarashina2.1-1b)
-  - A fine-tuned Reward model for evaluating the quality of Japanese novels using regression on user evaluations, intended for applications like novel generation but noting potential biases.
-  - Downloads: 73
+  - A reward model fine-tuned for Japanese novel quality assessment using sbintuitions/sarashina2.1-1b, intended for evaluating generated text quality through user ratings with noted biases.
+  - Downloads: 75
+- [sazyou-roukaku/AfterRealXL](https://huggingface.co/sazyou-roukaku/AfterRealXL)
+  - The repository hosts a model named AfterRealXL_beta2, licensed under CreativeML Open RAIL++-M, originally published on Civitai.
+  - Downloads: 72
+- [DataPilot/sarashina2.2-3Bx4-moe](https://huggingface.co/DataPilot/sarashina2.2-3Bx4-moe)
+  - A 12B parameter Mixture of Experts model combining four "sbintuitions/sarashina2.2-3b-instruct-v0.1" models, enhancing performance through mergekit-moe integration.
+  - Downloads: 67
 - [Respair/Japanese_Phoneme_to_Grapheme_LLM](https://huggingface.co/Respair/Japanese_Phoneme_to_Grapheme_LLM)
   - Model Card for Model ID
   - Downloads: 65
-- [DataPilot/sarashina2.2-3Bx4-moe](https://huggingface.co/DataPilot/sarashina2.2-3Bx4-moe)
-  - A 12B parameter Mixture of Experts model combining four sarashina2.2-3Bx4 models for advanced text generation tasks.
-  - Downloads: 57
 - [JhonVanced/whisper-large-v3-japanese-4k-steps-ct2](https://huggingface.co/JhonVanced/whisper-large-v3-japanese-4k-steps-ct2)
-  - This repository converts the drewschaub/whisper-large-v3-japanese-4k-steps model to CTranslate2 format for use with faster-whisper or other CTranslate2-based projects.
+  - This repository converts the drewschaub/whisper-large-v3-japanese-4k-steps model to CTranslate2 format for use with CTranslate2 or faster-whisper projects.
   - Downloads: 54
 - [Aratako/Ninja-v1-RP-expressive](https://huggingface.co/Aratako/Ninja-v1-RP-expressive)
   - Ninja-v1-RP-expressive GGUF版はこちら/Click here for the GGUF version 概要 This is a merge of pre-trained language models created using mergekit.
   - Downloads: 54
+- [mradermacher/Japanese-Starling-ChatV-7B-GGUF](https://huggingface.co/mradermacher/Japanese-Starling-ChatV-7B-GGUF)
+  - Static quantized weights for Japanese Starling-ChatV-7B model in GGUF format, available as Q2_K and Q3_K_S variants, ranging from 2.8 GB.
+  - Downloads: 49
 - [NikolayKozloff/gemma-2-2b-jpn-it-Q8_0-GGUF](https://huggingface.co/NikolayKozloff/gemma-2-2b-jpn-it-Q8_0-GGUF)
   - NikolayKozloff/gemma-2-2b-jpn-it-Q8_0-GGUF
   - Downloads: 46
@@ -2475,43 +2511,40 @@ This list is sorted by downloads as of March 25, 2025.
   - ryota39様の Tora-7B-v0.1 をGGUF形式に変換したものです。
   - Downloads: 45
 - [TFMC/ChatNTQ-JA-7b-v1.0-GGUF](https://huggingface.co/TFMC/ChatNTQ-JA-7b-v1.0-GGUF)
-  - The repository contains GGUF conversions for the ChatNTQ-JA-7b-v1.0 Japanese chat model fine-tuned from stabilityai/japanese-stablelm-base-gamma-7b.
+  - The repository converts NTQAI's ChatNTQ-JA-7b-v1.0, a Japanese chat model fine-tuned on StabilityAI's Japanese-StableLM-base-gamma-7b, to GGUF format.
   - Downloads: 44
 - [ascktgcc/Mistral-Nemo-Japanese-Instruct-2408-Q4_K_S-GGUF](https://huggingface.co/ascktgcc/Mistral-Nemo-Japanese-Instruct-2408-Q4_K_S-GGUF)
   - ascktgcc/Mistral-Nemo-Japanese-Instruct-2408-Q4_K_S-GGUF
   - Downloads: 44
-- [Aruno/Bloom-JP-160m](https://huggingface.co/Aruno/Bloom-JP-160m)
-  - A Bloom model trained on a Japanese corpus with vocab_size=10000, hidden_size=hidden_size, n_head=8, and n_layer=12.
-  - Downloads: 43
-- [mradermacher/japanese-llama-3-8b-instruct-v2-GGUF](https://huggingface.co/mradermacher/japanese-llama-3-8b-instruct-v2-GGUF)
-  - Weighted/imatrix quantized static models of Japanese Llama-3 8B instruct-v2 are available in GGUF format, with Q2_K quantization providing the smallest file size at 3 GB.
-  - Downloads: 40
 - [MCZK/Japanese-Chat-Umievo-itr004-7b-GGUF](https://huggingface.co/MCZK/Japanese-Chat-Umievo-itr004-7b-GGUF)
   - umiyuki様の Japanese-Chat-Umievo-itr004-7b をGGUF形式に変換したものです。
   - Downloads: 38
 - [alfredplpl/gemma-2b-it-ja-poc-2](https://huggingface.co/alfredplpl/gemma-2b-it-ja-poc-2)
   - はじめに なんか日本語が話せる商用利用可能なAIです。
   - Downloads: 35
+- [Atotti/TinySwallow-GRPO-TakahashiMethod-v0.2](https://huggingface.co/Atotti/TinySwallow-GRPO-TakahashiMethod-v0.2)
+  - This repository contains a specialized model trained on SakanaAI/TinySwallow-1.5B-Instruct to generate concise, impactful slide texts in the "High Bridge Method" style.
+  - Downloads: 33
 - [MCZK/Llama-3-EZO-8b-Common-it-GGUF](https://huggingface.co/MCZK/Llama-3-EZO-8b-Common-it-GGUF)
   - HODACHI様の Llama-3-EZO-8b-Common-it をGGUF形式に変換したものです。
   - Downloads: 33
+- [mradermacher/japanese-llama-3-8b-instruct-v2-GGUF](https://huggingface.co/mradermacher/japanese-llama-3-8b-instruct-v2-GGUF)
+  - Static quantized weights and IMatrix quants for Japanese LLaMA 3-8B instruct-v2 are available as GGUF files, with notes on usage and size.
+  - Downloads: 32
 - [HODACHI/EZO-InternVL2-26B](https://huggingface.co/HODACHI/EZO-InternVL2-26B)
   - [EZO model card]
   - Downloads: 32
-- [Atotti/TinySwallow-GRPO-TakahashiMethod-v0.2](https://huggingface.co/Atotti/TinySwallow-GRPO-TakahashiMethod-v0.2)
-  - This repository contains a specialized model trained on SakanaAI/TinySwallow-1.5B-Instruct to generate high桥方法风格的幻灯片文本，每张幻灯片包含简洁的关键短语，适合作口头说明摘要。
-  - Downloads: 31
 - [Aratako/Ninja-v1-RP-expressive-v2](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-v2)
   - Ninja-v1-RP-expressive-v2 GGUF版はこちら/Click here for the GGUF version 概要 This is a merge of pre-trained language models created using mergekit.
   - Downloads: 30
 - [mmnga/Tanuki-ZeRo-gguf](https://huggingface.co/mmnga/Tanuki-ZeRo-gguf)
-  - A q4_0 quantized format conversion of Tanuki-ZeRo's gguf base model for language processing, compatible with llama.cpp.
+  - A Q4_0 gguf format base model of Tanuki-ZeRo for language processing, cloned via llama.cpp.
   - Downloads: 27
-- [Aratako/calm3-22b-RP-v2](https://huggingface.co/Aratako/calm3-22b-RP-v2)
-  - calm3-22b-RP-v2 GGUF版はこちら/Click here for the GGUF version また、こちらで本モデルのデモを公開しています。
-  - Downloads: 25
+- [Aruno/Bloom-JP-160m](https://huggingface.co/Aruno/Bloom-JP-160m)
+  - A Bloom model trained on a Japanese corpus with vocab_size=10000, hidden_size未指明, n_head=8, n_layer=12.
+  - Downloads: 24
 - [abeja/Mixtral-8x7B-v0.1-japanese](https://huggingface.co/abeja/Mixtral-8x7B-v0.1-japanese)
-  - The repository contains a Japanese-extended Mixtral-8x7B model for continued pretrained learning, along with instructions and code snippet for usage.
+  - A Japanese-vocabulary-extended version of the Mixtral-8x7B-v0.1 model for causal language modeling, available with instructions for use.
   - Downloads: 23
 - [Akimite/Qwen2-7b-Instruct-Boku-v2](https://huggingface.co/Akimite/Qwen2-7b-Instruct-Boku-v2)
   - 実験モデルです。
@@ -2538,25 +2571,22 @@ This list is sorted by downloads as of March 25, 2025.
   - 275.86Mのmixtralを日本語データセットでpretrainingしたものです sample from transformers import AutoTokenizer, AutoModelForCausalLM model = AutoModelForCausalLM.from_pretrained("if001/tiny_mixtral_ja")
   - Downloads: 19
 - [Chottokun/modernBERT_japanese_30m_ner_wikipedia](https://huggingface.co/Chottokun/modernBERT_japanese_30m_ner_wikipedia)
-  - The repository challenges NER using modernBERT with Japanese labels for names, organizations, locations, and more.
+  - The repository challenges NER using modernBERT with Japanese-specific labels for names, organizations, locations, and more.
   - Downloads: 18
 - [KoichiYasuoka/RakutenAI-7B-upos](https://huggingface.co/KoichiYasuoka/RakutenAI-7B-upos)
   - RakutenAI-7B-upos Model Description
   - Downloads: 18
+- [Lasorco/spekulatius](https://huggingface.co/Lasorco/spekulatius)
+  - Spekulatius shares occasionally unused merged models from experiments based on lametta_v1921, offering some adjustments for potential use.
+  - Downloads: 17
 - [Elizezen/Phos-7B](https://huggingface.co/Elizezen/Phos-7B)
   - Phos 7B 「どうかお慈悲を もう 疲れ果てました」 生成例 [太字以降がAI生成] 「どうか」 ”それ”は懇願した。
   - Downloads: 17
-- [DataPilot/Arrival-32B-Instruct-v0.4](https://huggingface.co/DataPilot/Arrival-32B-Instruct-v0.4)
-  - This repository contains a customized 32B Japanese language model with unique fine-tuning, derived from Qwen and further refined by Cyber Agent and Data Pilot.
-  - Downloads: 16
 - [Aratako/Ninja-v1-RP-expressive-breadcrumbs](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-breadcrumbs)
   - Ninja-v1-RP-expressive-breadcrumbs GGUF版はこちら/Click here for the GGUF version 概要 This is a merge of pre-trained language models created using mergekit.
   - Downloads: 16
 - [sonoisa/t5-base-japanese-article-generation](https://huggingface.co/sonoisa/t5-base-japanese-article-generation)
-  - A model for generating article bodies from titles.
-  - Downloads: 15
-- [Lasorco/spekulatius](https://huggingface.co/Lasorco/spekulatius)
-  - This repository shares occasionally merged models that deviate from intended purposes, inspired by other models like lametta_old, lametta_v1921, and others, without being direct copies.
+  - A model that generates article text from a title.
   - Downloads: 15
 - [Local-Novel-LLM-project/Ocuteus-v1](https://huggingface.co/Local-Novel-LLM-project/Ocuteus-v1)
   - VecteusをベースにLLavaに対応させたモデルです。
@@ -2574,16 +2604,13 @@ This list is sorted by downloads as of March 25, 2025.
   - Llama-3-Nymeria-ELYZA-8B Experimental merge between a Llama 3 model that has had continued pre-training with Japanese data and a regular RP model to see how well it keeps its Japanese capability and RP capability.
   - Downloads: 14
 - [ganchengguang/USA-7B-instruction-incontext-learning](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)
-  - The repository provides Japanese content using AutoTokenizer, AutoModelForCausalLM with Unifine format, including in-context and instruction learning examples for musical album evaluations.
-  - Downloads: 13
-- [sazyou-roukaku/AfterRealXL](https://huggingface.co/sazyou-roukaku/AfterRealXL)
-  - The repository hosts a model variant of AfterRealXL with beta2 improvements, licensed under CreativeML Open RAIL++-M, and includes merge checkpoint references.
+  - This repository is for Japanese users requiring AutoTokenizer and AutoModelForCausalLM, using Unifine format, with examples of In-context Learning (ICL) + Instruction Learning (IL) input text.
   - Downloads: 13
 - [naclbit/trin_tokenizer_v3](https://huggingface.co/naclbit/trin_tokenizer_v3)
-  - A Japanese SentencePiece tokenizer trained for AI Novelist's SuperTrin and Damsel 20B models with a vocabulary size of 52000.
+  - A Japanese SentencePiece tokenizer trained for AI Novelist's SuperTrin and Damsel 20B models with a vocab size of 52000 (padded to 52224).
   - Downloads: 13
 - [alfredplpl/suzume-poc](https://huggingface.co/alfredplpl/suzume-poc)
-  - A commercially usable, lightweight Japanese version of Google's Gemma-2B model derived through continued pre-training, suitable for mobile devices but with limitations in instruction tuning.
+  - A commercially usable, continuatively pretrained Japanese version of Google's Gemma-2B, suitable for mobile devices, though instruction tuning may be challenging.
   - Downloads: 13
 - [Hemlok/ArcanaMix](https://huggingface.co/Hemlok/ArcanaMix)
   - ◆ArcanaMix 二次元イラストを中心に、かわいいイラストが出力できるように調整したモデルです。。
@@ -2594,8 +2621,14 @@ This list is sorted by downloads as of March 25, 2025.
 - [Akimite/Gemma2-9B-it-Boku-v1](https://huggingface.co/Akimite/Gemma2-9B-it-Boku-v1)
   - 実験モデルです。
   - Downloads: 13
+- [DataPilot/Arrival-32B-Instruct-v0.4](https://huggingface.co/DataPilot/Arrival-32B-Instruct-v0.4)
+  - This repository contains a Japanese fine-tuned version of Qwen2.5-32B with additional reinforcement and ChatVector integration, using DeepSeek-R1-Distill and Cyber Agent's fine-tuned models, without the base model from Abeja due to availability issues.
+  - Downloads: 12
+- [SousiOmine/sarashina2.2-3b-instruct-v0.1-Pythonic-FunctionCall](https://huggingface.co/SousiOmine/sarashina2.2-3b-instruct-v0.1-Pythonic-FunctionCall)
+  - A QLoRA fine-tuned model using Kendamarron/jimba-instruction-all and SousiOmine/Japanese-Pythonic-FunctionCall for Python function calling, with usage instructions included.
+  - Downloads: 12
 - [Momerio/meigen_generate_Japanese](https://huggingface.co/Momerio/meigen_generate_Japanese)
-  - A model for reasoning with famous quotes.
+  - A model for argumentation of famous quotes.
   - Downloads: 12
 - [zaq-hack/Orion-14B-LongChat-bpw600-h6-exl2](https://huggingface.co/zaq-hack/Orion-14B-LongChat-bpw600-h6-exl2)
   - Orion-14B 🌐English | 🇨
@@ -2622,27 +2655,27 @@ This list is sorted by downloads as of March 25, 2025.
   - Akimite/Qwen2-7b-Instruct-Boku-v2のマイナーチェンジ版です。
   - Downloads: 11
 ### Multilinguality
-- [staka/fugumt-ja-en](https://huggingface.co/staka/fugumt-ja-en)
-  - A translation model using Marian-NMT for Japanese to English translation, utilizing transformers and sentencepiece.
-  - Downloads: 54,305
-- [staka/fugumt-en-ja](https://huggingface.co/staka/fugumt-en-ja)
-  - FuguMT is a translation model using Marian-NMT for English to Japanese translation, utilizing transformers and sentencepiece.
-  - Downloads: 54,282
 - [augmxnt/shisa-gamma-7b-v1](https://huggingface.co/augmxnt/shisa-gamma-7b-v1)
-  - A fine-tuned Japanese version of the Gamma 7B model achieved good results on JA MT-Bench.
-  - Downloads: 11,479
+  - A fine-tuned Japanese version of the Gamma 7B model performing well on the JA MT-Bench, based on the Shisa 7B model.
+  - Downloads: 145,514
+- [staka/fugumt-en-ja](https://huggingface.co/staka/fugumt-en-ja)
+  - FuguMT is a translation model using Marian-NMT for English to Japanese translation via transformers and sentencepiece.
+  - Downloads: 54,162
+- [staka/fugumt-ja-en](https://huggingface.co/staka/fugumt-ja-en)
+  - FuguMT is a Japanese to English translation model using Marian-NMT and transformers, achieving eval results on randomly selected sentences from tatoeba.
+  - Downloads: 54,032
 - [HODACHI/Llama-3.1-8B-EZO-1.1-it](https://huggingface.co/HODACHI/Llama-3.1-8B-EZO-1.1-it)
   - [Llama-3.1-8B-EZO-1.1-it] Model Card モデル情報 / Model Information このモデルは、Meta AI の Llama 3.1 をベースに、日本語タスクでの性能を向上させるためにファインチューニングを行ったものです。
   - Downloads: 10,197
 - [webbigdata/gemma-2-2b-jpn-it-translate-gguf](https://huggingface.co/webbigdata/gemma-2-2b-jpn-it-translate-gguf)
-  - gemma-2-2b-jpn-it-translate-gguf is a compact 2B-parameter SLM optimized for Japanese-English and English-Japanese translation with near-7B-parameter model quality.
-  - Downloads: 5,898
-- [OrionStarAI/Orion-14B-Chat](https://huggingface.co/OrionStarAI/Orion-14B-Chat)
-  - Orion-14B is an open-source, multilinguallarge language model trained by OrionStarAI, based on a 2.5T multilingual corpus.
-  - Downloads: 5,326
+  - gemma-2-2b-jpn-it-translate-gguf is a 2B-parameter SLM optimized for Japanese-English and English-Japanese translation with performance接近于7B模型并具有较小的文件大小和快速执行特点。
+  - Downloads: 6,910
 - [rinna/bilingual-gpt-neox-4b](https://huggingface.co/rinna/bilingual-gpt-neox-4b)
-  - A 36-layer, 2816-hidden-size GPT-NeoX model trained on 524B tokens for English-Japanese translation, available on Hugging Face.
-  - Downloads: 5,216
+  - A 36-layer, 2816-hidden-size English-Japanese bilingual GPT-NeoX model trained on diverse corpora with 3.8 billion parameters.
+  - Downloads: 5,110
+- [OrionStarAI/Orion-14B-Chat](https://huggingface.co/OrionStarAI/Orion-14B-Chat)
+  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI, based on a 2.5T multilingual corpus.
+  - Downloads: 5,033
 - [rinna/gemma-2-baku-2b](https://huggingface.co/rinna/gemma-2-baku-2b)
   - Gemma 2 Baku 2B (rinna/gemma-2-baku-2b)
   - Downloads: 4,384
@@ -2650,23 +2683,23 @@ This list is sorted by downloads as of March 25, 2025.
   - 「LLM-jp-3 172B beta2」利用規約 この利用規約（以下「本規約」といいます）は、大学共同利用機関法人 情報・システム研究機構 国立情報学研究所（以下「提供者」といいます）による開発の成果物として公開する大規模言語モデル「LLM-jp-3 172B beta2」（以下「本プログラム」といいます）の利用に関する条件を定めるものです。
   - Downloads: 4,219
 - [mmnga/lightblue-suzume-llama-3-8B-japanese-gguf](https://huggingface.co/mmnga/lightblue-suzume-llama-3-8B-japanese-gguf)
-  - A gguf-formatted conversion of the Suzume-Llama-3-8B Japanese model by lightblue, using imatrix dataset.
-  - Downloads: 3,005
+  - A gguf-format conversion of the suzume-llama-3-8B-japanese model by lightblue, using imatrix dataset.
+  - Downloads: 2,963
+- [Ultralytics/YOLO11](https://huggingface.co/Ultralytics/YOLO11)
+  - YOLO11 is a high-performance, feature-rich, and user-friendly object detection and tracking model with advanced instance segmentation and image classification capabilities.
+  - Downloads: 2,933
 - [mmnga/Llama-3.1-8B-EZO-1.1-it-gguf](https://huggingface.co/mmnga/Llama-3.1-8B-EZO-1.1-it-gguf)
   - Llama-3.1-8B-EZO-1.1-it-gguf HODACHIさんが公開しているLlama-3.1-8B-EZO-1.1-itのggufフォーマット変換版です。
   - Downloads: 2,805
 - [AXCXEPT/Llama-3-EZO-8b-Common-it](https://huggingface.co/AXCXEPT/Llama-3-EZO-8b-Common-it)
   - [Llama-3-EZO model card]
   - Downloads: 2,602
-- [Ultralytics/YOLO11](https://huggingface.co/Ultralytics/YOLO11)
-  - YOLO11 is a fast, accurate, and flexible SOTA model for object detection, tracking, instance segmentation, image classification, and pose estimation.
-  - Downloads: 2,393
-- [augmxnt/shisa-7b-v1](https://huggingface.co/augmxnt/shisa-7b-v1)
-  - Shisa 7B is a bilingual Japanese and English chat model with enhanced Japanese performance and robust English capabilities, trained on synthetic data and featuring a highly efficient tokenizer.
-  - Downloads: 2,162
 - [FINGU-AI/FinguAI-Chat-v1](https://huggingface.co/FINGU-AI/FinguAI-Chat-v1)
-  - The FINGU-AI/FinguAI-Chat-v1 model offers specialized curriculum for English, Korean, and Japanese speakers focusing on finance, investment, and legal frameworks to enhance language proficiency and provide insights into global financial markets and regulations.
+  - The FINGU-AI/FinguAI-Chat-v1 model offers a specialized curriculum for English, Korean, and Japanese speakers, enhancing their language proficiency while providing insights into global finance and legal frameworks.
   - Downloads: 2,037
+- [augmxnt/shisa-7b-v1](https://huggingface.co/augmxnt/shisa-7b-v1)
+  - Shisa 7B is a bilingual Japanese and English chat model with enhanced Japanese language performance and robust English capabilities, pre-trained on大量日语文本并进行了fine-tuning。
+  - Downloads: 2,022
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-GGUF](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-GGUF)
   - Tanuki-8B-dpo-v1.0-GGUF 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0のGGUF量子化モデルです。
   - Downloads: 1,653
@@ -2680,8 +2713,8 @@ This list is sorted by downloads as of March 25, 2025.
   - tokyotech-llm-Swallow-MS-7b-instruct-v0.1-gguf tokyotech-llmさんが公開しているSwallow-MS-7b-instruct-v0.1のggufフォーマット変換版です。
   - Downloads: 1,038
 - [OrionStarAI/Orion-14B-Base](https://huggingface.co/OrionStarAI/Orion-14B-Base)
-  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI, based on a 2.5T multilingual corpus.
-  - Downloads: 859
+  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus, including Chinese, English, and Japanese.
+  - Downloads: 924
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-AWQ](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-AWQ)
   - Tanuki-8B-dpo-v1.0-AWQ 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0のAWQ 4bit量子化モデルです。
   - Downloads: 813
@@ -2700,74 +2733,77 @@ This list is sorted by downloads as of March 25, 2025.
 - [mmnga/pfnet-nekomata-14b-pfn-qfin-gguf](https://huggingface.co/mmnga/pfnet-nekomata-14b-pfn-qfin-gguf)
   - pfnet-nekomata-14b-pfn-qfin-gguf pfnetさんが公開しているnekomata-14b-pfn-qfinのggufフォーマット変換版です。
   - Downloads: 646
-- [ascktgcc/Mistral-nemo-ja-rp-v0.2-GGUF](https://huggingface.co/ascktgcc/Mistral-nemo-ja-rp-v0.2-GGUF)
-  - A GGUF version of the ascktgcc/Mistral-nemo-ja-rp-v0.2 model.
-  - Downloads: 529
 - [Mitsua/elan-mt-bt-en-ja](https://huggingface.co/Mitsua/elan-mt-bt-en-ja)
   - ElanMT ElanMT-BT-en-ja is a English to Japanese translation model developed by ELAN MITSUA Project / Abstract Engine.
   - Downloads: 529
 - [HODACHI/Llama-3.1-70B-EZO-1.1-it](https://huggingface.co/HODACHI/Llama-3.1-70B-EZO-1.1-it)
   - [Llama-3.1-70B-EZO-1.1-it] Model Card モデル情報 / Model Information このモデルは、Meta AI の Llama 3.1 をベースに、日本語タスクでの性能を向上させるためにファインチューニングを行ったものです。
   - Downloads: 479
+- [ascktgcc/Mistral-nemo-ja-rp-v0.2-GGUF](https://huggingface.co/ascktgcc/Mistral-nemo-ja-rp-v0.2-GGUF)
+  - It is the GGUF version of Mistral-nemo-ja-rp-v0.2. Further details can be found in the original model.
+  - Downloads: 445
+- [dartags/DanbotNL-2408-260M](https://huggingface.co/dartags/DanbotNL-2408-260M)
+  - DanbotNL is a 260M parameter translator that converts Japanese and English text into Danbooru tags.
+  - Downloads: 355
+- [llm-jp/llm-jp-clip-vit-large-patch14](https://huggingface.co/llm-jp/llm-jp-clip-vit-large-patch14)
+  - A Japanese CLIP model trained with OpenCLIP on a research-safe Japanese translation dataset, having 467 million parameters, for zero-shot image classification using open_clip_torch.
+  - Downloads: 345
 - [MCZK/gemma-2-2b-jpn-it-GGUF](https://huggingface.co/MCZK/gemma-2-2b-jpn-it-GGUF)
   - google様の google/gemma-2-2b-jpn-it をGGUF形式に変換したものです。
   - Downloads: 333
 - [OrionStarAI/Orion-14B-Chat-RAG](https://huggingface.co/OrionStarAI/Orion-14B-Chat-RAG)
-  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus.
-  - Downloads: 315
+  - Orion-14B is an open-source, multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus including Chinese, English, and Japanese.
+  - Downloads: 304
 - [mmnga/rinna-japanese-gpt-neox-3.6b-instruction-ppo-gguf](https://huggingface.co/mmnga/rinna-japanese-gpt-neox-3.6b-instruction-ppo-gguf)
-  - A gguf conversion of rinna's Japanese GPT-Neox-3.6B instruction-PPO model for use with llama.cpp, part of a series of related models.
-  - Downloads: 308
+  - A gguf conversion of rinna's Japanese GPT-NeoX 3.6B instruction-PPO model for use with llama.cpp, among related models.
+  - Downloads: 297
 - [HODACHI/Llama-3-EZO-VLM-1](https://huggingface.co/HODACHI/Llama-3-EZO-VLM-1)
   - Llama-3-EZO-VLM-1 Based on SakanaAI/Llama-3-EvoVLM-JP-v2, it has been enhanced for Japanese usage through additional pre-training and instruction tuning.
   - Downloads: 289
 - [sappho192/aihub-ja-ko-translator](https://huggingface.co/sappho192/aihub-ja-ko-translator)
-  - A Japanese to Korean translation model using EncoderDecoderModel based on bert-japanese and kogpt2, with inference code provided.
+  - A Japanese to Korean translator using EncoderDecoderModel based on bert-japanese and kogpt2 with provided inference code.
   - Downloads: 277
 - [HODACHI/Llama-3-EZO-8b-Common-it](https://huggingface.co/HODACHI/Llama-3-EZO-8b-Common-it)
   - [Llama-3-EZO model card]
   - Downloads: 250
-- [OrionStarAI/Orion-14B-Chat-Int4](https://huggingface.co/OrionStarAI/Orion-14B-Chat-Int4)
-  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus, including Chinese, Japanese, and English.
-  - Downloads: 243
-- [lightblue/Karasu-DPO-7B](https://huggingface.co/lightblue/Karasu-DPO-7B)
-  - Karasu-DPO-7B is a DPO-trained Japanese version of Qwen2.5-7B-Instruct that outperforms the base model on multilingual chat benchmarks and is suitable for general conversational AI applications.
-  - Downloads: 237
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-GGUF](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-GGUF)
   - Tanuki-8B-dpo-v1.0-GGUF 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0-4kのGGUF量子化モデルです。
   - Downloads: 215
-- [OrionStarAI/Orion-14B-LongChat](https://huggingface.co/OrionStarAI/Orion-14B-LongChat)
-  - Orion-14B is an open-source, multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus, including Chinese, English, and Japanese.
-  - Downloads: 162
+- [Hemlok/QuinceMix](https://huggingface.co/Hemlok/QuinceMix)
+  - QuinceMix "Defacta" model with strong background and effect handling, recommended settings for DDIM or DPM++ SDE Karras, steps 20+, clipskip 2, CFG scale 5-8, denoise strength 0.4-0.7, and optional quality tags. Sample prompt includes high-resolution details and lighting effects.
+  - Downloads: 194
+- [OrionStarAI/Orion-14B-Chat-Int4](https://huggingface.co/OrionStarAI/Orion-14B-Chat-Int4)
+  - Orion-14B is an open-source, multilingual large language model trained by OrionStarAI on a 2.5T multilingual corpus, including Chinese, English, and Japanese.
+  - Downloads: 191
+- [lightblue/Karasu-DPO-7B](https://huggingface.co/lightblue/Karasu-DPO-7B)
+  - The repository contains the Karasu-DPO-7B, a Japanese version of Qwen2.5-7B-Instruct trained with synthetic Japanese data, outperforming the base model on multilingual chat benchmarks and suitable for general conversation tasks.
+  - Downloads: 181
 - [OrionStarAI/Orion-14B-Base-Int4](https://huggingface.co/OrionStarAI/Orion-14B-Base-Int4)
-  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus, including Chinese, English, and Japanese.
-  - Downloads: 153
-- [sazyou-roukaku/LittleStepMix](https://huggingface.co/sazyou-roukaku/LittleStepMix)
-  - The repository includes a model licensed under CreativeML Open RAIL-M with an added copyright for sazyou_roukaku, while emphasizing strict usage limitations and the provider's disclaimers.
-  - Downloads: 133
+  - Orion-14B is an open-source multilingual large language model developed by OrionStarAI, pretrained on a 2.5T multilingual corpus.
+  - Downloads: 167
+- [natsusakiyomi/SakuraMix](https://huggingface.co/natsusakiyomi/SakuraMix)
+  - A VAE-based model achieving both background and character quality, licensed under a modified CreativeML OpenRAIL-M license with restrictions on usage and sharing.
+  - Downloads: 146
 - [Mitsua/elan-mt-bt-ja-en](https://huggingface.co/Mitsua/elan-mt-bt-ja-en)
   - ElanMT ElanMT-BT-ja-en is a Japanese to English translation model developed by ELAN MITSUA Project / Abstract Engine.
   - Downloads: 132
 - [eepj/wstcg-mt-ja-en](https://huggingface.co/eepj/wstcg-mt-ja-en)
-  - A Japanese-English machine translation model fine-tuned for Weiss Schwarz card text, with a Gradio app available on Hugging Face Spaces.
+  - A Japanese-English machine translation model fine-tuned for Weiss Schwarz card text with a Gradio app available on Hugging Face Spaces.
   - Downloads: 129
 - [stockmark/stockmark-100b](https://huggingface.co/stockmark/stockmark-100b)
   - stockmark/stockmark-100b Stockmark-100b is a 100 billion parameter LLM pretrained from scratch based on Japanese and English corpus of about 910 billion tokens.
   - Downloads: 125
-- [Language-Media-Lab/byt5-small-ain-jpn-mt](https://huggingface.co/Language-Media-Lab/byt5-small-ain-jpn-mt)
-  - A pretrained ByT5-small model fine-tuned for translating Ainu to Japanese.
-  - Downloads: 116
-- [doc2query/msmarco-japanese-mt5-base-v1](https://huggingface.co/doc2query/msmarco-japanese-mt5-base-v1)
-  - A doc2query model based on mT5 for generating 20-40 queries per paragraph to improve lexical search through synonym expansion and word weighting.
-  - Downloads: 115
-- [llm-jp/llm-jp-clip-vit-base-patch16](https://huggingface.co/llm-jp/llm-jp-clip-vit-base-patch16)
-  - A Japanese CLIP model trained on a translated subset of ReLAION-5B with 248M parameters, using OpenCLIP, and can be installed via pip for zero-shot image classification.
-  - Downloads: 101
+- [sazyou-roukaku/LittleStepMix](https://huggingface.co/sazyou-roukaku/LittleStepMix)
+  - This repository uses CreativeML Open RAIL-M license with additional attribution to sazyou_roukaku; no other modifications are made, and the original license terms and restrictions apply.
+  - Downloads: 124
+- [OrionStarAI/Orion-14B-LongChat](https://huggingface.co/OrionStarAI/Orion-14B-LongChat)
+  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus, including Chinese, English, and Japanese.
+  - Downloads: 122
 - [beomi/gemma-mling-7b](https://huggingface.co/beomi/gemma-mling-7b)
-  - Gemma-Mling 7B is a multilingual language model pretrained on Korean, English, Chinese, Japanese, and additional 500 languages.
+  - Gemma-Mling is a multilingual update to the original Gemma model, pretrained on Korean, English, Chinese, Japanese, and 500 other languages.
   - Downloads: 91
 - [NilanE/tinyllama-en_ja-translation-v2](https://huggingface.co/NilanE/tinyllama-en_ja-translation-v2)
-  - A long-context Japanese-English translation model based on tinyllama, requiring inputs of 500-1000 tokens and setting 'do_sample = False' or temperature to 0 for deterministic outputs.
+  - A long-context Japanese-English translation model based on tinyllama, requiring input of 500-1000 tokens and setting 'do_sample = False' or temperature to 0 for deterministic outputs.
   - Downloads: 90
 - [mav23/Sakura-13B-Galgame-GGUF](https://huggingface.co/mav23/Sakura-13B-Galgame-GGUF)
   - SakuraLLM Sakura: SFT And RLHF models using Knowledge of Universal Character and Relationship Attributes for Japanese to Chinese Translation in Light Novel &amp; Galgame Domain.
@@ -2779,46 +2815,43 @@ This list is sorted by downloads as of March 25, 2025.
   - Ninja-v1-RP-WIP 概要 Local-Novel-LLM-project/Ninja-v1-NSFWをロールプレイ用にLoRAでファインチューニングしたモデルです。
   - Downloads: 71
 - [Helsinki-NLP/opus-mt-ja-ms](https://huggingface.co/Helsinki-NLP/opus-mt-ja-ms)
-  - This repository provides Japanese-to-Malay translation models using TransformerAlign, including pre-processing with normalization and SentencePiece, and offers original weights and test set translations.
-  - Downloads: 70
+  - A GitHub repository containing Japanese-to-Malay translation models using transformer-align architecture, with preprocessing steps and test sets.
+  - Downloads: 69
+- [llm-jp/llm-jp-clip-vit-base-patch16](https://huggingface.co/llm-jp/llm-jp-clip-vit-base-patch16)
+  - A Japanese CLIP model with 248M parameters trained on a translated subset of ReLAION-5B, using OpenCLIP, with instructions for installation and zero-shot image classification.
+  - Downloads: 68
 - [llm-jp/llm-jp-3-172b](https://huggingface.co/llm-jp/llm-jp-3-172b)
   - 「LLM-jp-3 172B」利用規約 この利用規約（以下「本規約」といいます）は、大学共同利用機関法人 情報・システム研究機構 国立情報学研究所（以下「提供者」といいます）による開発の成果物として公開する大規模言語モデル「LLM-jp-3 172B」（以下「本プログラム」といいます）の利用に関する条件を定めるものです。
   - Downloads: 66
-- [natsusakiyomi/SakuraMix](https://huggingface.co/natsusakiyomi/SakuraMix)
-  - SakuraMixSeries 背景とキャラクタークオリティーを両立させたVAE内蔵型モデル Model with built-in VAE for both background and character quality 📄 ライセンス / License 修正 CreativeML OpenRAIL-M ライセンス / Modified CreativeML OpenRAIL-M license このモデルのクレジットを入れずに使用する Use the model without crediting the creator このモデルで生成した画像を商用利用する Sell images they generate このモデルを商用の画像生成サービスで利用する Run on services that generate images for money このモデルを使用したマージモデルを共有する Share merges using this model このモデル、またはこのモデルをマージしたモデルを販売する Sell this model or merges using this model このモデ
-  - Downloads: 65
 - [MCZK/Ninja-V2-7B-GGUF](https://huggingface.co/MCZK/Ninja-V2-7B-GGUF)
   - Local-Novel-LLM-project様の Ninja-V2-7B をGGUF形式に変換したものです。
   - Downloads: 63
 - [llm-jp/llm-jp-3-172b-beta2](https://huggingface.co/llm-jp/llm-jp-3-172b-beta2)
   - 「LLM-jp-3 172B beta2」利用規約 この利用規約（以下「本規約」といいます）は、大学共同利用機関法人 情報・システム研究機構 国立情報学研究所（以下「提供者」といいます）による開発の成果物として公開する大規模言語モデル「LLM-jp-3 172B beta2」（以下「本プログラム」といいます）の利用に関する条件を定めるものです。
   - Downloads: 59
+- [thefrigidliquidation/nllb-jaen-1.3B-lightnovels](https://huggingface.co/thefrigidliquidation/nllb-jaen-1.3B-lightnovels)
+  - A 1.3B parameter NLLB model fine-tuned for Japanese to English light novel translation, capable of processing up to 512 tokens.
+  - Downloads: 54
 - [Kendamarron/llm-jp-3-3.7b-o1-v0.1](https://huggingface.co/Kendamarron/llm-jp-3-3.7b-o1-v0.1)
   - Model llm-jp/llm-jp-3-3.7b-instructをCoTデータでファインチューニングすることで作成したreasoningモデルです。
   - Downloads: 54
-- [rinna/bilingual-gpt-neox-4b-8k](https://huggingface.co/rinna/bilingual-gpt-neox-4b-8k)
-  - A 3.8B参数的English-Japanese双语GPT-NeoX模型，上下文长度扩展至8192，兼容transformers>=4.31.0。
-  - Downloads: 51
-- [thefrigidliquidation/nllb-jaen-1.3B-lightnovels](https://huggingface.co/thefrigidliquidation/nllb-jaen-1.3B-lightnovels)
-  - A 1.3B parameter NLLB model fine-tuned for Japanese to English light novel translation, capable of processing up to 512 tokens.
-  - Downloads: 47
 - [staka/takomt](https://huggingface.co/staka/takomt)
-  - TakoMT is a translation model using Marian-NMT for translating source languages de, en, es, fr, it, ru, uk into Japanese.
+  - A translation model using Marian-NMT for translating to Japanese from multiple source languages including German, English, Spanish, French, Italian, and Russian.
+  - Downloads: 50
+- [rinna/bilingual-gpt-neox-4b-8k](https://huggingface.co/rinna/bilingual-gpt-neox-4b-8k)
+  - A 3.8B-parameter English-Japanese GPT-NeoX model with extended context length to 8192 tokens through fine-tuning and RoPE interpolation, requiring transformers>=4.31.0.
   - Downloads: 47
 - [MCZK/Ninja-V3-GGUF](https://huggingface.co/MCZK/Ninja-V3-GGUF)
   - Local-Novel-LLM-project様の Ninja-V3 をGGUF形式に変換したものです。
   - Downloads: 45
-- [watashiha/Watashiha-Llama-2-13B-Ogiri-sft](https://huggingface.co/watashiha/Watashiha-Llama-2-13B-Ogiri-sft)
-  - A fine-tuned Japanese-vocabulary-added Llama2-13b model for limerick generation, pre-trained with Continual Pre-Training on AWS Trainium instances and fine-tuned with limeric data, licensed under LLAMA 2 COMMUNITY LICENSE.
-  - Downloads: 44
 - [leia-llm/Leia-Swallow-7b](https://huggingface.co/leia-llm/Leia-Swallow-7b)
-  - LEIA-Swallow-7B enhances cross-lingual knowledge transfer, improving a Japanese-English LLM's performance on six Japanese QA benchmarks.
+  - LEIA enhances cross-lingual knowledge transfer in a Japanese-English bilingual LLaMA 2 model, significantly improving performance on Japanese Q&A benchmarks.
   - Downloads: 43
 - [tohoku-nlp/stable-diffusion-xl-jp-refiner-1.0](https://huggingface.co/tohoku-nlp/stable-diffusion-xl-jp-refiner-1.0)
-  - A Japanese-refined version of the SD-XL 1.0 model, fine-tuned to integrate OpenCLIP-ViT/G and CLIP-ViT/L text encoders for Japanese input, using aligned English-Japanese translation data.
+  - A Japanese-refined version of the SD-XL 1.0 model, fine-tuned to incorporate OpenCLIP-ViT/G and CLIP-ViT/L text encoders specifically for Japanese input.
   - Downloads: 42
 - [leia-llm/Leia-Swallow-13b](https://huggingface.co/leia-llm/Leia-Swallow-13b)
-  - The Leia-Swallow-13B model improves non-English language performance through LEIA training applied to a Japanese-English bilingual LLM based on LLaMA 2.
+  - Leia-Swallow-13B is an enhanced Japanese-English bilingual LLM using LEIA technique that improves performance on four out of six Japanese QA benchmarks.
   - Downloads: 39
 - [lyu-boxuan/llama-3-youko-8b-En-Ja-MT-LoRA](https://huggingface.co/lyu-boxuan/llama-3-youko-8b-En-Ja-MT-LoRA)
   - Overview This model is based on rinna's [rinna/llama-3-youko-8b], fine-tuned using LoRA on a small number of parallel sentences from English to Japanese.
@@ -2826,8 +2859,11 @@ This list is sorted by downloads as of March 25, 2025.
 - [llm-jp/llm-jp-3-172b-beta1-instruct](https://huggingface.co/llm-jp/llm-jp-3-172b-beta1-instruct)
   - 「LLM-jp-3 172B beta1」利用規約 この利用規約（以下「本規約」といいます）は、大学共同利用機関法人 情報・システム研究機構 国立情報学研究所（以下「提供者」といいます）による開発の成果物として公開する大規模言語モデル「LLM-jp-3 172B beta1」（以下「本プログラム」といいます）の利用に関する条件を定めるものです。
   - Downloads: 36
+- [watashiha/Watashiha-Llama-2-13B-Ogiri-sft](https://huggingface.co/watashiha/Watashiha-Llama-2-13B-Ogiri-sft)
+  - A fine-tuned Llama2-13B model with added Japanese vocabulary for humorous dialogues, trained on large datasets with AWS Trainium instances.
+  - Downloads: 34
 - [nold/Orion-14B-Base-GGUF](https://huggingface.co/nold/Orion-14B-Base-GGUF)
-  - The GitHub repository for Orion-14B includes model introductions, downloads, benchmarks, and inference tools for open-source multilingual large language models trained on a 2.5T corpus.
+  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus, including Chinese, English, and Japanese.
   - Downloads: 34
 - [KoichiYasuoka/llm-jp-1.3b-upos](https://huggingface.co/KoichiYasuoka/llm-jp-1.3b-upos)
   - llm-jp-1.3b-upos Model Description
@@ -2839,7 +2875,7 @@ This list is sorted by downloads as of March 25, 2025.
   - A fine-tuned Japanese-to-English translation model based on Helsinki-NLP/opus-mt-ja-en using bsd_ja_en data.
   - Downloads: 31
 - [OrionStarAI/Orion-14B-Chat-Plugin](https://huggingface.co/OrionStarAI/Orion-14B-Chat-Plugin)
-  - Orion-14B series models are open-source, multilingual large language models trained by OrionStarAI from a 2.5T multilingual corpus.
+  - Orion-14B is an open-source, multilingual large language model trained by OrionStarAI, based on a 2.5T multilingual corpus.
   - Downloads: 28
 - [upskyy/gte-base-korean](https://huggingface.co/upskyy/gte-base-korean)
   - upskyy/gte-korean-base This model is korsts and kornli finetuning model from Alibaba-NLP/gte-multilingual-base.
@@ -2850,65 +2886,71 @@ This list is sorted by downloads as of March 25, 2025.
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-AWQ](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-AWQ)
   - Tanuki-8B-dpo-v1.0-4k-AWQ 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8B-dpo-v1.0-4kのAWQ 4bit量子化モデルです。
   - Downloads: 24
-- [yasyune/bert_vits2_2.1_jvnv](https://huggingface.co/yasyune/bert_vits2_2.1_jvnv)
-  - A BERT-VITS2 Japanese model trained on the jvnv corpus F2 data.
-  - Downloads: 20
+- [Language-Media-Lab/byt5-small-ain-jpn-mt](https://huggingface.co/Language-Media-Lab/byt5-small-ain-jpn-mt)
+  - A pre-trained ByT5-small model fine-tuned for translating Ainu to Japanese using web-crawled bilingual datasets.
+  - Downloads: 23
 - [owner203/japanese-alpaca-2-13b-gguf](https://huggingface.co/owner203/japanese-alpaca-2-13b-gguf)
-  - The repository contains the Japanese-Alpaca-2-13B model in GGUF format, accessible via the provided URL.
-  - Downloads: 19
+  - The GitHub repository contains Japanese-Alpaca-2-13B model in GGUF format, available at https://huggingface.co/owner203/japanese-alpaca-2-13b.
+  - Downloads: 22
+- [yasyune/bert_vits2_2.1_jvnv](https://huggingface.co/yasyune/bert_vits2_2.1_jvnv)
+  - A BERT-VITS2 Japanese model trained on the jvnv corpus's F2 data.
+  - Downloads: 20
 - [nitky/Superswallow-70b-v0.1](https://huggingface.co/nitky/Superswallow-70b-v0.1)
-  - The repository contains Superswallow-70b-v0.1 with two known bugs affecting performance, which may explain its lower benchmark scores compared to Swallow.
+  - The repository contains Superswallow-70b-v0.1 with two known bugs affecting performance, potentially lower than Swallow due to merge issues.
   - Downloads: 19
 - [hyperonym/barba](https://huggingface.co/hyperonym/barba)
-  - Barba Barba is a multilingual natural language inference model based on XLM-RoBERTa, trained on GLUE, CLUE, JGLUE, KLUE, and private datasets, serving textual entailment and zero-shot text classification through TensorFlow Serving.
+  - Barba Barba is a multilingual NLI model for textual entailment and zero-shot classification based on XLM-RoBERTa, trained on GLUE, CLUE, JGLUE, KLUE, and private datasets, available as a TensorFlow Serving service.
   - Downloads: 19
 - [AXCXEPT/Llama-3-EZO-VLM-1](https://huggingface.co/AXCXEPT/Llama-3-EZO-VLM-1)
   - Llama-3-EZO-VLM-1 Based on SakanaAI/Llama-3-EvoVLM-JP-v2, it has been enhanced for Japanese usage through additional pre-training and instruction tuning.
   - Downloads: 19
 - [GralchemOz/Qwen1.5-14B-vntl-jp2zh-4.5bpw-h6-exl2](https://huggingface.co/GralchemOz/Qwen1.5-14B-vntl-jp2zh-4.5bpw-h6-exl2)
-  - This GitHub repository contains a quantized model combining qwen-14b-vndl and Qwen1.5-14B-Chat for translating Japanese text into Chinese.
+  - This repository contains a quantized model for translating Japanese context into Chinese, derived from qwen-14b-vntl and Qwen1.5-14B-Chat, with an example prompt provided.
   - Downloads: 18
 - [Aratako/ELYZA-japanese-Llama-2-fast-MoE-2x7B-v0.1](https://huggingface.co/Aratako/ELYZA-japanese-Llama-2-fast-MoE-2x7B-v0.1)
-  - A merged MoE model using Llama-2 as the base for instruction-tuned Japanese language processing, combining elyza/ELYZA-japanese-Llama-2-7b-fast and elyza/ELYZA-japanese-Llama-2-7b-fast-instruct.
+  - A merge kit MoE model combining instruction-tuned and fast Japanese Llama-2 7B models for efficient inference.
   - Downloads: 18
 - [sosoai/Orion-14B-Chat-safetensors](https://huggingface.co/sosoai/Orion-14B-Chat-safetensors)
-  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus including Chinese, English, Japanese.
+  - Orion-14B is an open-source, multilingual large language model trained by OrionStarAI from a 2.5T multilingual corpus.
   - Downloads: 17
 - [Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1](https://huggingface.co/Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1)
-  - A MoE model created using mergekit from instruction-tuned and base Japanese Llama-2 models, licensed under the Llama 2 Community License.
+  - A MoE model created using mergekit from instruction-tuned and base Llama-2 Japanese models for 13B parameters.
   - Downloads: 17
-- [astremo/friendly_JA](https://huggingface.co/astremo/friendly_JA)
-  - A T5 fine-tuned model trained on the friendly_JA Corpus to simplify Japanese for occidental speakers, replacing standard lexicon with Latin/English-derived katakana terms.
-  - Downloads: 16
-- [Jumtra/mpt-7b-base](https://huggingface.co/Jumtra/mpt-7b-base)
-  - A fine-tuned MPT-7B-base model evaluated on Jumtra/test_data_100QA, using the llm-foundry from mosaicml, with evaluation results and usage注意事项 provided.
-  - Downloads: 16
 - [Aratako/Swallow-MoE-2x13B-v0.1](https://huggingface.co/Aratako/Swallow-MoE-2x13B-v0.1)
-  - A MoE model created using mergekit from Llama-2-based tokyotech-llm/Swallow-13b-instruct-hf and nitky/Superswallow-13b-v0.2 models, with relevant licensing information included.
+  - A MoE model created using mergekit, merging tokyotech-llm/Swallow-13b-instruct-hf and nitky/Superswallow-13b-v0.2, licensed under the Llama2 license with additional AI2 ImpACT license considerations.
   - Downloads: 16
 - [Aratako/ELYZA-japanese-Llama-2-MoE-2x7B-v0.1](https://huggingface.co/Aratako/ELYZA-japanese-Llama-2-MoE-2x7B-v0.1)
-  - A MoE merged model based on instruction-tuned Llama-2 Japanese models, created using mergekit.
+  - A MergeKit-generated MoE model combining instruction-tuned and base Japanese Llama-2 7B models for use in NLP tasks.
   - Downloads: 16
 - [owner203/japanese-llama-2-13b](https://huggingface.co/owner203/japanese-llama-2-13b)
-  - The repository includes base and LoRA models for Japanese LLaMA 2 and Japanese Alpaca 2, all in the 13B parameter size.
+  - The repository includes Japanese-LLaMA-2-13B and Japanese-Alpaca-2-13B full models, as well as their LoRA versions.
   - Downloads: 16
 - [sbtom/karakuri-midroze-mg](https://huggingface.co/sbtom/karakuri-midroze-mg)
   - karakuri-midrose-mg モデルの詳細は、こちらです。
   - Downloads: 16
+- [doc2query/msmarco-japanese-mt5-base-v1](https://huggingface.co/doc2query/msmarco-japanese-mt5-base-v1)
+  - This repository contains a doc2query model based on mT5 (docT5query) for generating 20-40 queries from documents to enhance lexical coverage and re-weight words in search indexing.
+  - Downloads: 15
+- [astremo/friendly_JA](https://huggingface.co/astremo/friendly_JA)
+  - A T5 fine-tuned model trained with the friendly_JA Corpus to make Japanese more accessible to occidental people by using Latin/English-derived katakana.
+  - Downloads: 15
 - [LoneStriker/shisa-7b-v1-4.0bpw-h6-exl2](https://huggingface.co/LoneStriker/shisa-7b-v1-4.0bpw-h6-exl2)
-  - Shisa 7B is a bilingual Japanese and English general-purpose chat model with enhanced Japanese performance and robust English capabilities, trained on synthetic data and featuring a more efficient Japanese tokenizer.
+  - Shisa 7B is a bilingual Japanese and English chat model, optimized for strong Japanese performance with an extended tokenizer, and based on the Mistral 7B architecture.
   - Downloads: 14
+- [Jumtra/mpt-7b-base](https://huggingface.co/Jumtra/mpt-7b-base)
+  - A fine-tuned MPT-7B-base model evaluated on Jumtra/test_data_100QA, using the mpt-7b and instruct variants for comparison.
+  - Downloads: 13
 - [tohoku-nlp/stable-diffusion-xl-jp-base-1.0](https://huggingface.co/tohoku-nlp/stable-diffusion-xl-jp-base-1.0)
-  - A Japanese-finetuned version of the SD-XL 1.0 base model, using text encoder fine-tuning with English-to-Japanese aligned data.
+  - A Japanese-fine-tuned version of the SD-XL 1.0 base model, using only the text encoder for SDXL training, fine-tuned on Japanese-English aligned data to support Japanese input.
   - Downloads: 13
 - [LoneStriker/shisa-7b-v1-8.0bpw-h8-exl2](https://huggingface.co/LoneStriker/shisa-7b-v1-8.0bpw-h8-exl2)
-  - Shisa 7B is a bilingual Japanese and English chat model based on Mistral 7B, featuring enhanced Japanese performance and robust English capabilities through synthetic data and a customized tokenizer.
+  - Shisa 7B is a bilingual Japanese and English chat model optimized for strong Japanese performance, based on Mistral 7B with a specialized Japanese tokenizer and additional Japanese pre-training.
   - Downloads: 13
 - [LoneStriker/shisa-7b-v1-3.0bpw-h6-exl2](https://huggingface.co/LoneStriker/shisa-7b-v1-3.0bpw-h6-exl2)
-  - Shisa 7B is a bilingual Japanese and English chat model, optimized for strong Japanese performance and retaining robust English capabilities, using synthetic data and an enhanced Japanese tokenizer.
+  - Shisa 7B is a bilingual Japanese and English chat model pre-trained on 8B Japanese tokens, optimized with a custom tokenizer, based on Mistral 7B.
   - Downloads: 13
 - [LoneStriker/shisa-7b-v1-6.0bpw-h6-exl2](https://huggingface.co/LoneStriker/shisa-7b-v1-6.0bpw-h6-exl2)
-  - Shisa 7B is a bilingual Japanese and English chat model with enhanced Japanese performance and retained English capabilities, pre-trained on 8B Japanese tokens and optimized with a more efficient tokenizer.
+  - Shisa 7B is a bilingual Japanese and English chat model based on Mistral 7B, optimized with a custom tokenizer for strong Japanese performance while maintaining English capabilities.
   - Downloads: 13
 - [hotchpotch/ruri-pt-base-retromae](https://huggingface.co/hotchpotch/ruri-pt-base-retromae)
   - cl-nagoya/ruri-pt-base を RetroMAE で事前学習したモデルです。
@@ -2929,13 +2971,13 @@ This list is sorted by downloads as of March 25, 2025.
   - SambaLingo-Japanese-Chat SambaLingo-Japanese-Chat is a human aligned chat model trained in Japanese and English.
   - Downloads: 13
 - [watashiha/Watashiha-Llama-2-13B-Ogiri-sft-neuron](https://huggingface.co/watashiha/Watashiha-Llama-2-13B-Ogiri-sft-neuron)
-  - A compiled Watashiha-Llama-2-13B-Ogiri-sft model optimized for AWS inf2 instances, requiring at least 256GB storage and Deep Learning AMI Neuron PyTorch 1.13 (Ubuntu 20.04) for deployment.
+  - A compiled Watashiha-Llama-2-13B-Ogiri-sft model optimized for AWS inf2 instances, licensed under LLAMA 2 COMMUNITY LICENSE, requiring an inf2.xlarge EC2 instance with at least 256GB storage.
   - Downloads: 12
 - [owner203/japanese-alpaca-2-13b](https://huggingface.co/owner203/japanese-alpaca-2-13b)
-  - The repository contains full and LoRA models of the Japanese-Alpaca-2-13B instruction-following model based on Japanese-LLaMA-2-13B.
+  - The repository contains full and LoRA models of Japanese-Alpaca-2-13B, based on the Japanese-LLaMA-2-13B foundation model.
   - Downloads: 12
 - [LoneStriker/shisa-7b-v1-5.0bpw-h6-exl2](https://huggingface.co/LoneStriker/shisa-7b-v1-5.0bpw-h6-exl2)
-  - Shisa 7B is a bilingual Japanese and English chat model optimized for strong Japanese performance and robust English capabilities, built on Mistral 7B with a custom tokenizer.
+  - Shisa 7B is a bilingual Japanese and English chat model based on Mistral 7B, optimized with a custom tokenizer for strong Japanese performance and extensive pre-training.
   - Downloads: 12
 - [sbtom/karakuri-MS-01](https://huggingface.co/sbtom/karakuri-MS-01)
   - karakuri-MS-01 モデルの詳細は、こちらです。
@@ -2943,14 +2985,14 @@ This list is sorted by downloads as of March 25, 2025.
 - [keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF](https://huggingface.co/keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF)
   - Llama-3.1-70B-EZO-1.1-it-gguf HODACHIさんが公開しているHODACHI/Llama-3.1-70B-EZO-1.1-itのgguf版です。
   - Downloads: 12
-- [sosoai/Orion-14B-Chat-RAG-safetensors](https://huggingface.co/sosoai/Orion-14B-Chat-RAG-safetensors)
-  - Orion-14B is an open-source, multilingual large language model trained by OrionStarAI, based on a 2.5T multilingual corpus including Chinese, English, and Japanese.
-  - Downloads: 11
 - [owner203/japanese-llama-2-7b](https://huggingface.co/owner203/japanese-llama-2-7b)
-  - The repository includes base and full models of Japanese-LLaMA-2-7B, as well as a LoRA model.
+  - Japanese-LLaMA-2-7B offers both base and full models, with a LoRA variant.
+  - Downloads: 11
+- [sosoai/Orion-14B-Chat-RAG-safetensors](https://huggingface.co/sosoai/Orion-14B-Chat-RAG-safetensors)
+  - Orion-14B is an open-source multilingual large language model trained by OrionStarAI from a 2.5T corpus including Chinese, English, and Japanese.
   - Downloads: 11
 - [yasyune/bert_vits2_2.2_jvnv](https://huggingface.co/yasyune/bert_vits2_2.2_jvnv)
-  - A BERT-VITS2 Japanese model trained on the jvnv corpus F2 data.
+  - A BERT-VITS2 Japanese model trained on the jvnv corpus's F2 data.
   - Downloads: 11
 - [LoneStriker/SambaLingo-Japanese-Chat-6.0bpw-h6-exl2](https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-6.0bpw-h6-exl2)
   - SambaLingo-Japanese-Chat SambaLingo-Japanese-Chat is a human aligned chat model trained in Japanese and English.
@@ -2963,20 +3005,20 @@ This list is sorted by downloads as of March 25, 2025.
   - AXCXEPT様の AXCXEPT/EZO-gemma-2-2b-jpn-it をGGUF形式に変換したものです。
   - Downloads: 13,791
 - [sonoisa/t5-base-japanese](https://huggingface.co/sonoisa/t5-base-japanese)
-  - A T5 model pretrained on a 100GB Japanese corpus including Wikipedia, OSCAR, and CC-100 data, requiring fine-tuning for specific tasks.
-  - Downloads: 7,120
+  - A T5 model pretrained on a 100GB Japanese corpus including Wikipedia and OSCAR data, requiring fine-tuning for specific tasks and potentially subject to bias.
+  - Downloads: 6,876
 - [mmnga/Llama-3.3-70B-Instruct-gguf](https://huggingface.co/mmnga/Llama-3.3-70B-Instruct-gguf)
   - Llama-3.3-70B-Instruct-gguf meta-llamaさんが公開しているLlama-3.3-70B-Instructのggufフォーマット変換版です。
   - Downloads: 4,835
 - [mmnga/sarashina2.2-3b-instruct-v0.1-gguf](https://huggingface.co/mmnga/sarashina2.2-3b-instruct-v0.1-gguf)
-  - A gguf-format conversion of sarashina2.2-3b-instruct-v0.1 for use with ggerganov's llama.cpp toolkit.
-  - Downloads: 3,503
+  - A gguf-format conversion of sarashina2.2-3b-instruct-v0.1 for use with ggerganov's llama.cpp, derived from TFMC/imatrix-dataset-for-japanese-llm.
+  - Downloads: 3,936
 - [sbintuitions/sarashina2.2-0.5b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-0.5b-instruct-v0.1)
-  - SB Intuitions' Japanese language model sarashina2.2-0.5B-instruct-v0.1, evaluated in Japanese and English tasks, outperforms several other models in terms of performance metrics.
-  - Downloads: 3,214
+  - This repository hosts Japanese autoregressive language models trained by SB Intuitions, including the sarashina2.2-0.5B-instruct-v0.1 model, evaluated across multiple tasks and benchmarks.
+  - Downloads: 3,424
 - [sazyou-roukaku/chilled_remix](https://huggingface.co/sazyou-roukaku/chilled_remix)
-  - The repository includes a model license update to CreativeML Open RAIL-M with an additional copyright for sazyou_roukaku (now 佐城郎画), and notes that the creator disclaims liability for generated content except as specified in the license. Version v2取代了v1并已删除旧版本。
-  - Downloads: 2,739
+  - The repository has been updated to version 2 on May 21, 2023, adding "sazyou_roukaku" as an additional copyright holder due to a Twitter handle change; the license remains CreativeML Open RAIL-M with no other changes.
+  - Downloads: 2,714
 - [mmnga/Llama-3.1-8B-Instruct-gguf](https://huggingface.co/mmnga/Llama-3.1-8B-Instruct-gguf)
   - Llama-3.1-8B-Instruct-gguf meta-llamaさんが公開しているMeta-Llama-3.1-8B-Instructのggufフォーマット変換版です。
   - Downloads: 2,483
@@ -2984,20 +3026,20 @@ This list is sorted by downloads as of March 25, 2025.
   - Kotoba-Whisper Kotoba-Whisper is a collection of distilled Whisper models for Japanese ASR, developed through the collaboration bewteen Asahi Ushio and Kotoba Technologies.
   - Downloads: 2,472
 - [neody/sarashina2.2-3b-instruct-v0.1-gguf](https://huggingface.co/neody/sarashina2.2-3b-instruct-v0.1-gguf)
-  - The repository uses neody/imatrix_dataset from fineweb-edu (English) and fineweb-2 (Japanese), expecting higher precision than traditional datasets like wikitext2 or cc100, specifically for higher bits.
-  - Downloads: 1,948
+  - The repository uses neody/imatrix_dataset from fineweb-edu (English) and fineweb-2 (Japanese), containing 125 randomly extracted samples each, for potentially higher precision than traditional datasets like wikitext2 or cc100, with models run using ollama.
+  - Downloads: 1,977
 - [mmnga/aya-23-8B-gguf](https://huggingface.co/mmnga/aya-23-8B-gguf)
   - aya-23-8B-gguf CohereForAIさんが公開しているaya-23-8Bのggufフォーマット変換版です。
   - Downloads: 1,932
 - [kotoba-tech/kotoba-whisper-bilingual-v1.0](https://huggingface.co/kotoba-tech/kotoba-whisper-bilingual-v1.0)
-  - Kotoba-Whisper-Bilingual includes distilled Whisper models for Japanese and English speech-to-text translation, developed through collaboration between Asahi Ushio and Kotoba Technologies.
-  - Downloads: 1,081
+  - Kotoba-Whisper-Bilingual includes faster-whisper and whisper.cpp weights for Japanese and English speech-to-text translation models, developed through collaboration between Asahi Ushio and Kotoba Technologies.
+  - Downloads: 1,624
+- [mmnga/qwen2.5-bakeneko-32b-instruct-v2-gguf](https://huggingface.co/mmnga/qwen2.5-bakeneko-32b-instruct-v2-gguf)
+  - A gguf-format conversion of rinna's qwen2.5-bakeneko-32b-instruct-v2 model, with usage instructions provided.
+  - Downloads: 1,061
 - [mmnga/Llama-3-ELYZA-JP-8B-gguf](https://huggingface.co/mmnga/Llama-3-ELYZA-JP-8B-gguf)
   - Llama-3-ELYZA-JP-8B-gguf elyzaさんが公開しているLlama-3-ELYZA-JP-8Bのggufフォーマット変換版です。
   - Downloads: 1,008
-- [2121-8/japanese-parler-tts-mini](https://huggingface.co/2121-8/japanese-parler-tts-mini)
-  - This repository hosts a retrained Japanese Parler-TTS Mini model for text-to-speech conversion, providing high-quality audio output with compatibility notes.
-  - Downloads: 996
 - [mmnga/aya-23-35B-gguf](https://huggingface.co/mmnga/aya-23-35B-gguf)
   - aya-23-35B-gguf CohereForAIさんが公開しているaya-23-35Bのggufフォーマット変換版です。
   - Downloads: 993
@@ -3008,29 +3050,23 @@ This list is sorted by downloads as of March 25, 2025.
   - Llama-3-Swallow-8B-Instruct-v0.1-gguf tokyotech-llmさんが公開しているLlama-3-Swallow-8B-Instruct-v0.1のggufフォーマット変換版です。
   - Downloads: 848
 - [TKU410410103/hubert-large-japanese-asr](https://huggingface.co/TKU410410103/hubert-large-japanese-asr)
-  - This fine-tuned Japanese Hubert large ASR model predicts Hiragana after initial tuning on reazonspeech(small) and subsequent tuning on common_voice_11_0, inspired by vumichien/wav2vec2-large-xlsr-japanese-hiragana.
+  - This GitHub repository contains a fine-tuned Japanese ASR model for predicting Hiragana, initially trained on ReAzonSpeech and Common Voice, inspired by wav2vec2-large-xlsr-japanese-hiragana.
   - Downloads: 825
-- [mmnga/qwen2.5-bakeneko-32b-instruct-v2-gguf](https://huggingface.co/mmnga/qwen2.5-bakeneko-32b-instruct-v2-gguf)
-  - A gguf-formatted version of the qwen2.5-bakeneko-32b-instruct-v2 model, created from imatrix data using the TFMC/imatrix-dataset-for-japanese-llm, for use with llama.cpp.
-  - Downloads: 809
-- [dahara1/Qwen2.5-3B-Instruct-gguf-japanese-imatrix-128K](https://huggingface.co/dahara1/Qwen2.5-3B-Instruct-gguf-japanese-imatrix-128K)
-  - A gguf version of Qwen/Qwen2.5-3B-Instruct quantized with a Japanese iMatrix for summarizing long texts beyond 32K tokens while maintaining substantial Japanese support.
-  - Downloads: 797
-- [mradermacher/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/mradermacher/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
-  - Static quantized weights and IMatrix quants for the Mistral-Nemo-Japanese-Instruct-2408 model are provided, with usage instructions for GGUF files included.
-  - Downloads: 795
 - [mmnga/gemma-2-2b-it-gguf](https://huggingface.co/mmnga/gemma-2-2b-it-gguf)
   - gemma-2-2b-it-gguf googleさんが公開しているgemma-2-2b-itのggufフォーマット変換版です。
   - Downloads: 788
+- [2121-8/japanese-parler-tts-mini](https://huggingface.co/2121-8/japanese-parler-tts-mini)
+  - This repository offers a Japanese retrained version of the Parler-TTS Mini model, providing lightweight high-quality text-to-speech functionality with a custom tokenizer.
+  - Downloads: 774
 - [ascktgcc/Mistral-nemo-ja-rp-v0.1](https://huggingface.co/ascktgcc/Mistral-nemo-ja-rp-v0.1)
   - Mistral-nemoをEPR用途向けにファインチューニングしたモデルです 使用したデータセットの半分ほどが日本語なのでmagnumのようなモデルよりも日本語には強いはず？
   - Downloads: 727
 - [mmnga/Phi-3-mini-128k-instruct-gguf](https://huggingface.co/mmnga/Phi-3-mini-128k-instruct-gguf)
   - Phi-3-mini-128k-instruct-gguf microsoftさんが公開しているPhi-3-mini-128k-instructのggufフォーマット変換版です。
   - Downloads: 725
-- [sonoisa/t5-base-japanese-v1.1](https://huggingface.co/sonoisa/t5-base-japanese-v1.1)
-  - A T5 v1.1 model pretrained on approximately 100GB of Japanese corpora including Wikipedia and OSCAR, requiring fine-tuning for specific tasks and potentially biased outputs.
-  - Downloads: 721
+- [dahara1/Qwen2.5-3B-Instruct-gguf-japanese-imatrix-128K](https://huggingface.co/dahara1/Qwen2.5-3B-Instruct-gguf-japanese-imatrix-128K)
+  - A quantized ggUF version of Qwen2.5-3B-Instruct with an importance matrix for Japanese text, enabling long text summarization beyond 32K tokens while maintaining significant Japanese support.
+  - Downloads: 664
 - [mmnga/ryota39-Phi-3-mini-4k-instruct-dpo-gguf](https://huggingface.co/mmnga/ryota39-Phi-3-mini-4k-instruct-dpo-gguf)
   - ryota39-Phi-3-mini-4k-instruct-dpo-gguf ryota39さんが公開しているPhi-3-mini-4k-instruct-dpoのggufフォーマット変換版です。
   - Downloads: 664
@@ -3038,53 +3074,62 @@ This list is sorted by downloads as of March 25, 2025.
   - Meta-Llama-3-8B-Instruct-gguf meta-llamaさんが公開しているMeta-Llama-3-8B-Instructのggufフォーマット変換版です。
   - Downloads: 602
 - [2121-8/japanese-parler-tts-mini-bate](https://huggingface.co/2121-8/japanese-parler-tts-mini-bate)
-  - This GitHub repository hosts a β版 retrained Japanese TTS model based on parole-tts/parler-tts-mini-v1, offering high-quality lightweight text-to-speech functionality with a unique tokenizer.
-  - Downloads: 561
-- [tsmatz/mt5_summarize_japanese](https://huggingface.co/tsmatz/mt5_summarize_japanese)
-  - A fine-tuned MT5-small model for Japanese summarization trained on BBC news articles, using the headline sentence as summary and the rest of the article as input.
-  - Downloads: 559
+  - This GitHub repository hosts a beta-trained Japanese TTS model based on Parler-TTS-mini-v1, offering lightweight high-quality text-to-speech functionality with custom tokenization.
+  - Downloads: 569
+- [mradermacher/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/mradermacher/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
+  - Static quantized models and imatrix quants for the Mistral-Nemo-Japanese-Instruct-2408 model are available, with usage instructions provided for GGUF files and notes on file sizes and types.
+  - Downloads: 562
 - [mmnga/rinna-llama-3-youko-70b-instruct-gguf](https://huggingface.co/mmnga/rinna-llama-3-youko-70b-instruct-gguf)
   - rinna-llama-3-youko-70b-instruct-gguf rinnaさんが公開しているllama-3-youko-70b-instructのggufフォーマット変換版です。
   - Downloads: 546
-- [mmnga/ABEJA-Qwen2.5-32b-Japanese-v0.1-gguf](https://huggingface.co/mmnga/ABEJA-Qwen2.5-32b-Japanese-v0.1-gguf)
-  - A gguf-formatted conversion of ABEJA-Qwen2.5-32b-Japanese-v0.1 for使用指令助手的英文总结能力，上述仓库是一个将ABEJA-Qwen2.5-32b-Japanese-v0.1转换为gguf格式的版本，并包含在其上运行所需的命令。
-  - Downloads: 479
-- [mmnga/sarashina2.1-1b-sft-gguf](https://huggingface.co/mmnga/sarashina2.1-1b-sft-gguf)
-  - A converted gguf format model based on sarashina2.1-1b-sft, created using imatrix data from TFMC/imatrix-dataset-for-japanese-llm, for use with ggerganov's llama.cpp.
-  - Downloads: 464
+- [sonoisa/t5-base-japanese-v1.1](https://huggingface.co/sonoisa/t5-base-japanese-v1.1)
+  - A T5 v1.1 model pretrained on approximately 100GB of Japanese corpora including Wikipedia and OSCAR, requiring fine-tuning for specific tasks and potentially subject to biased outputs.
+  - Downloads: 542
+- [tsmatz/mt5_summarize_japanese](https://huggingface.co/tsmatz/mt5_summarize_japanese)
+  - A fine-tuned MT5 model for Japanese summarization trained on BBC news articles, where headlines serve as summaries.
+  - Downloads: 527
 - [team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-GGUF](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-GGUF)
   - Tanuki-8x8B-dpo-v1.0-GGUF 概要 GENIAC 松尾研 LLM開発プロジェクトで開発されたLLMであるweblab-GENIAC/Tanuki-8x8B-dpo-v1.0のGGUF量子化モデルです。
   - Downloads: 432
 - [mmnga/datagemma-rag-27b-it-gguf](https://huggingface.co/mmnga/datagemma-rag-27b-it-gguf)
   - datagemma-rag-27b-it-gguf googleさんが公開しているdatagemma-rag-27b-itのggufフォーマット変換版です。
   - Downloads: 424
+- [mmnga/sarashina2.1-1b-sft-gguf](https://huggingface.co/mmnga/sarashina2.1-1b-sft-gguf)
+  - Aratako's sarashina2.1-1b-sft model converted to gguf format, generated using imatrix-dataset-for-japanese-llm, for use with llama.cpp.
+  - Downloads: 403
+- [mmnga/QwQ-32B-Preview-gguf](https://huggingface.co/mmnga/QwQ-32B-Preview-gguf)
+  - A gguf-formatted preview of Qwen's QwQ-32B model, created from imatrix data using the TFMC/imatrix-dataset-for-japanese-llm, for use with llama.cpp.
+  - Downloads: 394
 - [Atotti/RakutenAI-2.0-mini-instruct-gguf](https://huggingface.co/Atotti/RakutenAI-2.0-mini-instruct-gguf)
   - This repository provides a GGUF-formatted version of Rakuten/RakutenAI-2.0-mini-instruct for use with tools like llama.cpp and text-generation-webui.
-  - Downloads: 414
-- [mmnga/QwQ-32B-Preview-gguf](https://huggingface.co/mmnga/QwQ-32B-Preview-gguf)
-  - A gguf-formatted version of Qwen's QwQ-32B-Preview model, created from imatrix data using the Japanese LLM dataset, for use with llama.cpp.
-  - Downloads: 378
-- [lmg-anon/vntl-llama3-8b-gguf](https://huggingface.co/lmg-anon/vntl-llama3-8b-gguf)
-  - This repository includes quantized GGUF versions of the merged VNTL LLaMA 3 8B qlora model, featuring a chat mode for Japanese grammar questions and translation prompts.
-  - Downloads: 330
+  - Downloads: 334
 - [mmnga/Mistral-Nemo-Instruct-2407-gguf](https://huggingface.co/mmnga/Mistral-Nemo-Instruct-2407-gguf)
   - Mistral-Nemo-Instruct-2407-gguf mistralaiさんが公開しているMistral-Nemo-Instruct-2407のggufフォーマット変換版です。
   - Downloads: 318
+- [lmg-anon/vntl-llama3-8b-gguf](https://huggingface.co/lmg-anon/vntl-llama3-8b-gguf)
+  - This repository includes quantized GGUF models of the merged VNTL LLaMA 3 8B with qlora, featuring a chat mode for Japanese grammar questions, and provides translation prompts.
+  - Downloads: 314
 - [MCZK/gemma-2-baku-2b-it-GGUF](https://huggingface.co/MCZK/gemma-2-baku-2b-it-GGUF)
   - rinna様の rinna/gemma-2-baku-2b-it をGGUF形式に変換したものです。
   - Downloads: 296
-- [lmg-anon/vntl-gemma2-27b-gguf](https://huggingface.co/lmg-anon/vntl-gemma2-27b-gguf)
-  - The repository includes GGUF quantizations of the VNTL Gemma 2 27B model, featuring a chat mode for Japanese grammar questions, and provides translation prompts.
-  - Downloads: 227
+- [mmnga/ABEJA-Qwen2.5-32b-Japanese-v0.1-gguf](https://huggingface.co/mmnga/ABEJA-Qwen2.5-32b-Japanese-v0.1-gguf)
+  - A GitHub repository containing the gguf-formatted ABEJA-Qwen2.5-32b-Japanese-v0.1 model, with instructions for using it via llama.cpp and a usage example.
+  - Downloads: 243
 - [mmnga/lightblue-Karasu-Mixtral-8x22B-v0.1-gguf](https://huggingface.co/mmnga/lightblue-Karasu-Mixtral-8x22B-v0.1-gguf)
   - lightblue-Karasu-Mixtral-8x22B-v0.1-gguf lightblueさんが公開しているKarasu-Mixtral-8x22B-v0.1のggufフォーマット変換版です。
   - Downloads: 211
+- [nlp-waseda/comet-v2-gpt2-small-japanese](https://huggingface.co/nlp-waseda/comet-v2-gpt2-small-japanese)
+  - The repository contains finetuned GPT-2 ja v2 model on ATOMIC ja using causal language modeling objective, available for text generation with specified seed setting.
+  - Downloads: 209
 - [mmnga/AXCXEPT-EZO-Qwen2.5-72B-Instruct-gguf](https://huggingface.co/mmnga/AXCXEPT-EZO-Qwen2.5-72B-Instruct-gguf)
   - AXCXEPT-EZO-Qwen2.5-72B-Instruct-gguf AXCXEPTさんが公開しているEZO-Qwen2.5-72B-Instructのggufフォーマット変換版です。
   - Downloads: 188
 - [mmnga/Llama-3.1-70B-Instruct-gguf](https://huggingface.co/mmnga/Llama-3.1-70B-Instruct-gguf)
   - Llama-3.1-70B-Instruct-gguf meta-llamaさんが公開しているMeta-Llama-3.1-70B-Instructのggufフォーマット変換版です。
   - Downloads: 170
+- [lmg-anon/vntl-gemma2-27b-gguf](https://huggingface.co/lmg-anon/vntl-gemma2-27b-gguf)
+  - This repository includes quantized GGUF models of the VNTL Gemma 2 27B model, featuring a chat mode for Japanese grammar questions, along with translation prompts.
+  - Downloads: 160
 - [Kendamarron/Tokara-0.5B-Chat-dolly-jimba](https://huggingface.co/Kendamarron/Tokara-0.5B-Chat-dolly-jimba)
   - モデルについて Qwen/Qwen1.5-0.5Bを日英データ5Bトークンで継続事前学習したTokara-0.5B-v0.1を日本語instructionデータセットでファインチューニングしたモデルです。
   - Downloads: 139
@@ -3094,17 +3139,17 @@ This list is sorted by downloads as of March 25, 2025.
 - [mmnga/HODACHI-EZO-Humanities-9B-gemma-2-it-gguf](https://huggingface.co/mmnga/HODACHI-EZO-Humanities-9B-gemma-2-it-gguf)
   - HODACHI-EZO-Humanities-9B-gemma-2-it-gguf HODACHIさんが公開しているEZO-Humanities-9B-gemma-2-itのggufフォーマット変換版です。
   - Downloads: 133
-- [sonoisa/byt5-small-japanese](https://huggingface.co/sonoisa/byt5-small-japanese)
-  - A ByT5 model pretrained on approximately 100GB of Japanese corpora, including Wikipedia and OSCAR datasets, requiring fine-tuning for specific tasks and potentially subject to biased outputs.
-  - Downloads: 125
 - [EQUES/MedLLama3-JP-v2](https://huggingface.co/EQUES/MedLLama3-JP-v2)
   - Llama3ベースの日本語医療LLM MedLlama3-JP このモデルはLlama3の継続学習により作成された４種類のLLMから成るマージモデルです。
   - Downloads: 122
 - [dahara1/translate-task-thinking-test](https://huggingface.co/dahara1/translate-task-thinking-test)
   - Translation Task Thinking Test Model Model Description
   - Downloads: 106
+- [sonoisa/byt5-small-japanese](https://huggingface.co/sonoisa/byt5-small-japanese)
+  - A ByT5 pre-trained model on a 100GB Japanese corpus, including Wikipedia and OSCAR datasets, requiring fine-tuning for specific tasks and acknowledging potential biased outputs.
+  - Downloads: 101
 - [Aratako/c4ai-command-r-v01-japanese-instruct-GGUF](https://huggingface.co/Aratako/c4ai-command-r-v01-japanese-instruct-GGUF)
-  - Quantized GGUF version of the Aratako/c4ai-command-r-v01-japanese-instruct model.
+  - Quantized GGUF version of the Aratako/c4ai-command-r-v01-japanese-instruct model. Consult the original model for licensing details.
   - Downloads: 100
 - [dahara1/Qwen2.5-7B-Instruct-gguf-japanese-imatrix-128K](https://huggingface.co/dahara1/Qwen2.5-7B-Instruct-gguf-japanese-imatrix-128K)
   - please see dahara1/Qwen2.5-3B-Instruct-gguf-japanese-imatrix-128K
@@ -3112,45 +3157,36 @@ This list is sorted by downloads as of March 25, 2025.
 - [nk2t/Llama-3-8B-Instruct-japanese-nk2t-v0.2](https://huggingface.co/nk2t/Llama-3-8B-Instruct-japanese-nk2t-v0.2)
   - Llama-3-8B-Instruct-JP-nk2t-v0.2 Model Details: Built with Meta Llama 3
   - Downloads: 91
-- [nlp-waseda/comet-v2-gpt2-small-japanese](https://huggingface.co/nlp-waseda/comet-v2-gpt2-small-japanese)
-  - The repository contains a fine-tuned GPT-2 model on the ATOMIC ja dataset using causal language modeling objective, enabling text generation with reproducibility through a set seed.
-  - Downloads: 87
 - [TKU410410103/uniTKU-hubert-japanese-asr](https://huggingface.co/TKU410410103/uniTKU-hubert-japanese-asr)
-  - A fine-tuned Japanese ASR model on uniTKU data that predicts Hiragana, achieving improved WER with training, though limited to Hiragana prediction.
+  - A Japanese ASR model fine-tuned on uniTKU data that predicts Hiragana, achieving WER improvements from 0.6685 to 0.3370 across training steps.
   - Downloads: 79
-- [nitky/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-Japanese-32B-Preview](https://huggingface.co/nitky/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-Japanese-32B-Preview)
-  - This repository contains a fused language model based on FusO1-DeepSeekR1-QwQ-SkyT1-Flash for code generation, specifically including parameters for generating a Python FizzBuzz program with a temperature of 0.7 and a maximum of 32768 tokens.
-  - Downloads: 76
-- [sonoisa/t5-base-japanese-question-generation](https://huggingface.co/sonoisa/t5-base-japanese-question-generation)
-  - A model for generating questions from answers and paragraphs, trained on cleaned Japanese translations of SQuAD 1.1 data using a T5 model with specific hyperparameters.
-  - Downloads: 73
-- [sonoisa/t5-base-japanese-title-generation](https://huggingface.co/sonoisa/t5-base-japanese-title-generation)
-  - A model for generating titles from article text. See: https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44
-  - Downloads: 68
 - [MCZK/Vecteus-V2-7B-GGUF](https://huggingface.co/MCZK/Vecteus-V2-7B-GGUF)
   - Local-Novel-LLM-project様の Vecteus-V2-7B をGGUF形式に変換したものです。
   - Downloads: 68
 - [nk2t/Llama-3-8B-Instruct-japanese-nk2t-v0.3](https://huggingface.co/nk2t/Llama-3-8B-Instruct-japanese-nk2t-v0.3)
   - Llama-3-8B-Instruct-JP-nk2t-v0.3 Model Details: Built with Meta Llama 3 llama-3-8bの日本語継続学習モデルにChatVectorを適用し、さらにQLoraでファインチューニングしたモデルです。
   - Downloads: 67
-- [mmnga/DeepSeek-V3-slice-jp64](https://huggingface.co/mmnga/DeepSeek-V3-slice-jp64)
-  - A fine-tuned DeepSeek-V3 model for Japanese text generation using top 64 experts per layer selected from the original 256.
-  - Downloads: 61
+- [nitky/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-Japanese-32B-Preview](https://huggingface.co/nitky/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-Japanese-32B-Preview)
+  - This repository contains code generation parameters for creating a FizzBuzz program in Python, based on pre-trained language models.
+  - Downloads: 62
 - [natsusakiyomi/KaedeMix](https://huggingface.co/natsusakiyomi/KaedeMix)
-  - The repository contains a model licensed under a modified CreativeML OpenRAIL-M license, prohibiting non-credited use, commercial sale of generated images or services using the model, and sharing merged models with altered permissions.
+  - The repository contains a model licensed under a modified CreativeML OpenRAIL-M license, allowing commercial use but requiring proper attribution and adherence to specific usage restrictions.
   - Downloads: 61
+- [sonoisa/t5-base-japanese-question-generation](https://huggingface.co/sonoisa/t5-base-japanese-question-generation)
+  - A model for generating questions from answers and context, fine-tuned on Japanese translations of SQuAD 1.1 data using T5, with specific hyperparameters for optimization.
+  - Downloads: 60
 - [dddump/Japanese-TextGen-Kage-v0.1-2x7B-gguf](https://huggingface.co/dddump/Japanese-TextGen-Kage-v0.1-2x7B-gguf)
   - Japanese-TextGen-Kage-v0.1-2x7B Kage is "影" in Japanese or "Shadow" in English.
   - Downloads: 55
 - [NovelAI/genji-jp](https://huggingface.co/NovelAI/genji-jp)
-  - Genji-JP 6B is a finetuned Japanese storytelling model based on EleutherAI's GPT-J 6B, trained on web novels with specific hyperparameters.
-  - Downloads: 54
-- [ToPo-ToPo/line-japanese-large-lm-1.7b-kunishou-databricks-dolly-15k-ja-full-instruction-sft](https://huggingface.co/ToPo-ToPo/line-japanese-large-lm-1.7b-kunishou-databricks-dolly-15k-ja-full-instruction-sft)
-  - Full instruction tuning was performed on the base model of line-corporation/japanese-large-lm-1.7B via sft.
-  - Downloads: 50
-- [spow12/Visual-novel-transcriptor](https://huggingface.co/spow12/Visual-novel-transcriptor)
-  - A seq2seq Japanese ASR model fine-tuned from distil-whisper/distil-large-v2 for transcribing visual novel audio.
-  - Downloads: 45
+  - Genji-JP 6B is a Japanese web novel finetuned model based on EleutherAI's GPT-J 6B, trained on a Japanese storytelling dataset.
+  - Downloads: 48
+- [mmnga/DeepSeek-V3-slice-jp64](https://huggingface.co/mmnga/DeepSeek-V3-slice-jp64)
+  - This repository contains a refined version of DeepSeek-V3 optimized for Japanese text generation using 64 selected experts per layer to enhance stability and performance.
+  - Downloads: 48
+- [sonoisa/t5-base-japanese-title-generation](https://huggingface.co/sonoisa/t5-base-japanese-title-generation)
+  - A model for generating titles from article text.
+  - Downloads: 47
 - [2121-8/TinySlime-1.1B-Chat-v1.0](https://huggingface.co/2121-8/TinySlime-1.1B-Chat-v1.0)
   - TinySlime-1.1B-Chat-v1.0 TinySlime は日本語に特化した小規模言語モデルです。
   - Downloads: 40
@@ -3160,44 +3196,44 @@ This list is sorted by downloads as of March 25, 2025.
 - [llm-jp/llm-jp-3-172b-alpha1](https://huggingface.co/llm-jp/llm-jp-3-172b-alpha1)
   - llm-jp-3-172b-alpha1
   - Downloads: 37
+- [ToPo-ToPo/line-japanese-large-lm-1.7b-kunishou-databricks-dolly-15k-ja-full-instruction-sft](https://huggingface.co/ToPo-ToPo/line-japanese-large-lm-1.7b-kunishou-databricks-dolly-15k-ja-full-instruction-sft)
+  - Full instruction tuning was performed on the base model of line-corporation/japanese-large-lm-1.7B using sft.
+  - Downloads: 36
 - [nlp-waseda/comet-t5-base-japanese](https://huggingface.co/nlp-waseda/comet-t5-base-japanese)
-  - A finetuned T5 model on ATOMIC data for text-to-text generation, compatible with the Hugging Face pipeline and reproducible with a seed.
-  - Downloads: 34
+  - The GitHub repository hosts a fine-tuned T5 model on ATOMIC for text-to-text generation, using the COMET-T5 approach and demonstrated through a sample pipeline script.
+  - Downloads: 36
+- [spow12/Visual-novel-transcriptor](https://huggingface.co/spow12/Visual-novel-transcriptor)
+  - A fine-tuned ASR model from distil-whisper/distil-large-v2 for Japanese audio transcription, especially suited for visual novels, developed and shared by spow12(yw_nam).
+  - Downloads: 32
+- [sonoisa/t5-base-english-japanese](https://huggingface.co/sonoisa/t5-base-english-japanese)
+  - A T5 model pretrained on balanced English and Japanese corpora, including Wikipedia dumps and OSCAR datasets, requiring fine-tuning for specific tasks and with potential biases that limit its use to non-harmful applications.
+  - Downloads: 31
 - [alfredplpl/sarashina2-7b-it](https://huggingface.co/alfredplpl/sarashina2-7b-it)
   - Sarashina2-7B Instruct sarashina2-7Bを会話できるようにフルファインチューニングしたものです。
   - Downloads: 30
 - [kurogane/Llama3-BioYouri-8B-instruct-chatvector-mergetest](https://huggingface.co/kurogane/Llama3-BioYouri-8B-instruct-chatvector-mergetest)
   - kurogane/Llama3-BioYouri-8B-mergetest このモデルは生物学・医学に精通したOpenBioLLM-8Bをベースに、日本語対応を向上させるためにLlama-3-youko-8b-instruct-chatvectorとマージさせたモデルです。
   - Downloads: 27
-- [nlp-waseda/comet-gpt2-xl-japanese](https://huggingface.co/nlp-waseda/comet-gpt2-xl-japanese)
-  - COMET-GPT2 ja v2 is a finetuned GPT-2 xl model on the large ATOMIC ja dataset for causal language modeling.
-  - Downloads: 26
 - [p1atdev/zenz-v1-onnx](https://huggingface.co/p1atdev/zenz-v1-onnx)
   - Miwa-Keita/zenz-v1-checkpoints を optimum 用に ONNX に変換したモデルです。
   - Downloads: 24
-- [sonoisa/t5-base-english-japanese](https://huggingface.co/sonoisa/t5-base-english-japanese)
-  - A T5 model pretrained on balanced English and Japanese corpora, including Wikipedia dumps and OSCAR datasets, requiring fine-tuning for specific tasks and potentially biased outputs.
+- [nlp-waseda/comet-gpt2-xl-japanese](https://huggingface.co/nlp-waseda/comet-gpt2-xl-japanese)
+  - A Finetuned GPT-2 xl model v2 on ATOMIC ja for causal language modeling, accessible via a text generation pipeline.
   - Downloads: 22
 - [watashiha/Watashiha-Llama-2-13B-Ogiri-sft-vlm](https://huggingface.co/watashiha/Watashiha-Llama-2-13B-Ogiri-sft-vlm)
-  - Watashiha-Llama-2-13B-Ogiri-sft is a LLaVA-trained dialogue model with vision encoder CLIP-ViT-B-32, fine-tuned on STAIR Captions and Japanese Visual Genome VQA data, licensed under LLAMA 2 COMMUNITY LICENSE.
+  - A fine-tuned LLaMA-2-13B-Ogiri-sft model for generating humor captions paired with images, using laion/CLIP-ViT-B-32-laion2B-s34B-b79K as the vision encoder and STAIR Captions for training, excluding certain COCO images.
   - Downloads: 21
-- [Jumtra/mpt-7b-inst](https://huggingface.co/Jumtra/mpt-7b-inst)
-  - This repository contains a fine-tuned version of mosaicml/mpt-7b-instruct using the MosaicML llm-foundry, evaluated on Jumtra/test_data_100QA with a 46/100 accuracy rate.
-  - Downloads: 20
-- [falche/opennovel_oc2_01a_7b](https://huggingface.co/falche/opennovel_oc2_01a_7b)
-  - An alpha version of a writer's assistant AI fine-tuned on Cyberagent's calm2-7b-chat, trained on approximately 150 million tokens of novel text, generating continuations from given prompts in Japanese.
-  - Downloads: 16
-- [tarudesu/gendec-with-distilmbert](https://huggingface.co/tarudesu/gendec-with-distilmbert)
-  - A machine learning framework for detecting gender from Japanese names, complete with ROMAJI input and labeled outputs.
-  - Downloads: 16
 - [llm-jp/llm-jp-3-172b-alpha2](https://huggingface.co/llm-jp/llm-jp-3-172b-alpha2)
   - llm-jp-3-172b-alpha2
   - Downloads: 16
+- [tarudesu/gendec-with-distilmbert](https://huggingface.co/tarudesu/gendec-with-distilmbert)
+  - The Gendec framework uses machine learning to detect gender from Japanese names and is based on a paper accepted at ISDA'23.
+  - Downloads: 15
 - [natsusakiyomi/AsagaoMix](https://huggingface.co/natsusakiyomi/AsagaoMix)
-  - The repository uses a modified CreativeML OpenRAIL-M license allowing non-commercial use and generation of images, but restricting credit-free, commercial, service-based, and shared/market models.
+  - The repository uses a modified CreativeML OpenRAIL-M license allowing non-commercial use and generation, but restricts commercial sale, credit omission, and different permission settings for shared models.
   - Downloads: 14
 - [ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1](https://huggingface.co/ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1)
-  - A 7B-parameter Japanese language model fine-tuned on preference datasets using the notus codebase, reproduced from Japanese Stable LM Instruct Gamma 7B.
+  - A 7-billion parameter Japanese decoder-only language model fine-tuned on preference datasets, built using the STF model and notus codebase, trained on a machine-translated Ultrafeedback dataset.
   - Downloads: 14
 - [haqishen/h2o-Llama-3-8B-Japanese-Instruct](https://huggingface.co/haqishen/h2o-Llama-3-8B-Japanese-Instruct)
   - Introduction Who am I: Qishen Ha
@@ -3208,51 +3244,54 @@ This list is sorted by downloads as of March 25, 2025.
 - [lmg-anon/vntl-gemma2-2b-lora](https://huggingface.co/lmg-anon/vntl-gemma2-2b-lora)
   - Summary This is an Gemma 2 Baku lora, created using the VNTL 3.1 dataset.
   - Downloads: 14
+- [Jumtra/mpt-7b-inst](https://huggingface.co/Jumtra/mpt-7b-inst)
+  - A fine-tuned MPT-7B-instruct model using the MosaicML llm-foundry, evaluated on Jumtra/test_data_100QA with a 46% accuracy.
+  - Downloads: 13
 - [Aratako/Oumuamua-7b-instruct-v2-RP](https://huggingface.co/Aratako/Oumuamua-7b-instruct-v2-RP)
   - Oumuamua-7b-instruct-v2-RP nitky/Oumuamua-7b-instruct-v2をロールプレイ用にLoRAでファインチューニングしたモデルです。
   - Downloads: 13
+- [falche/opennovel_oc2_01a_7b](https://huggingface.co/falche/opennovel_oc2_01a_7b)
+  - An alpha version of an assistant AI trained on Cyberagent's calm2-7b-chat model to continue writing text prompts, with training ongoing and improvements planned.
+  - Downloads: 12
 - [ganchengguang/Yoko-7B-Japanese-v0](https://huggingface.co/ganchengguang/Yoko-7B-Japanese-v0)
-  - A QLoRA fine-tuned LLaMA2-7B model trained on the Guanaco dataset with 49,000 chat samples, improved for Chinese and Japanese, using specific parameters for testing.
+  - A QLoRA-fine-tuned LLaMA2-7B model trained on the Guanaco dataset with improved Chinese and Japanese performance, testable via test.py.
   - Downloads: 12
 - [ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0](https://huggingface.co/ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0)
-  - A 7B-parameter Japanese language model fine-tuned on preference datasets using STF, trained with a machine-translated Ultrafeedback dataset and DPO training method.
+  - A 7B-parameter Japanese language model fine-tuned on preference datasets using the DPO training method, built upon Japanese Stable LM Instruct Gamma 7B and trained with a machine-translated Ultrafeedback dataset.
   - Downloads: 12
 - [taoki/phi3-mini-4k-qlora-jmultiwoz-dolly-amenokaku-alpaca_jp_python-GGUF](https://huggingface.co/taoki/phi3-mini-4k-qlora-jmultiwoz-dolly-amenokaku-alpaca_jp_python-GGUF)
   - This repository contains a model trained (QLoRA-SFT)
   - Downloads: 11
 ### Multimodality
 - [kha-white/manga-ocr-base](https://huggingface.co/kha-white/manga-ocr-base)
-  - Manga OCR uses a Vision Encoder Decoder framework for high-quality Japanese text recognition in mangas, including various fonts and low-quality images.
-  - Downloads: 96,246
+  - Manga OCR uses Vision Encoder Decoder for high-quality Japanese text recognition in manga, addressing unique challenges like furigana and low-quality images.
+  - Downloads: 114,354
 - [mmnga/DeepSeek-V3-slice-jp64-gguf](https://huggingface.co/mmnga/DeepSeek-V3-slice-jp64-gguf)
-  - A gguf version of DeepSeek-V3-slice-jp64, a model derived from DeepSeek-V3 with selected Japanese MoE experts, licensed under terms consistent with the original model.
+  - A gguf version of DeepSeek-V3-slice-jp64, a model restructured from the original DeepSeek-V3 using top frequent Japanese MoE experts, with quantized segments for easier loading.
   - Downloads: 62,014
 - [rinna/japanese-clip-vit-b-16](https://huggingface.co/rinna/japanese-clip-vit-b-16)
-  - This repository provides a Japanese CLIP (Contrastive Language-Image Pre-Training) model for image and text matching tasks, including installation instructions and a usage example.
-  - Downloads: 31,868
-- [reazon-research/reazonspeech-nemo-v2](https://huggingface.co/reazon-research/reazonspeech-nemo-v2)
-  - reazonspeech-nemo-v2 is an improved Conformer-based speech recognition model trained on ReazonSpeech v2.0 for long-form Japanese audio inference.
-  - Downloads: 24,411
+  - This repository contains a Japanese CLIP (Contrastive Language-Image Pre-Training) model trained by rinna Co., Ltd., with installation and usage instructions provided.
+  - Downloads: 30,639
 - [line-corporation/clip-japanese-base](https://huggingface.co/line-corporation/clip-japanese-base)
-  - LY Corporation's clip-japanese-base is a 1B-web-collected image-text paired CLIP model for tasks like zero-shot classification and multimedia retrieval.
-  - Downloads: 11,063
-- [kotoba-tech/kotoba-whisper-v2.1](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.1)
-  - Kotoba-Whisper-v2.1 is an enhanced Japanese ASR model that integrates additional postprocessing for punctuation, built on kotoba-tech/kotoba-whisper-v2.0.
-  - Downloads: 4,020
+  - LY Corporation's clip-japanese-base is a Japanese CLIP model trained on 1B web-collected image-text pairs, suitable for tasks like zero-shot image classification and cross-modal retrieval.
+  - Downloads: 11,016
+- [reazon-research/reazonspeech-nemo-v2](https://huggingface.co/reazon-research/reazonspeech-nemo-v2)
+  - Reazonspeech-nemo-v2 is an improved Conformer-based automatic speech recognition model trained on ReazonSpeech v2.0 for long-form Japanese audio inference.
+  - Downloads: 6,086
 - [mmnga/QwQ-32B-gguf](https://huggingface.co/mmnga/QwQ-32B-gguf)
-  - A gguf-formatted version of Qwen's QwQ-32B model, created from imatrix data using the TFMC/imatrix-dataset-for-japanese-llm, for use with llama.cpp.
-  - Downloads: 3,575
+  - A gguf-format conversion of Qwen's QwQ-32B model, using imatrix data created with TFMC/imatrix-dataset-for-japanese-llm, for inference via llama.cpp.
+  - Downloads: 3,621
 - [mmnga/umiyuki-Umievo-itr012-Gleipnir-7B-gguf](https://huggingface.co/mmnga/umiyuki-Umievo-itr012-Gleipnir-7B-gguf)
-  - A gguf-formatted conversion of umiyuki's Umievo-itr012-Gleipnir-7B model, created from imatrix-dataset-for-japanese-llm, usable with llama.cpp.
-  - Downloads: 3,079
+  - A gguf-formatted conversion of umiyuki's Umievo-itr012-Gleipnir-7B model, created using imatrix dataset, for use with ggerganov's llama.cpp.
+  - Downloads: 3,450
+- [kotoba-tech/kotoba-whisper-v2.1](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.1)
+  - Kotoba-Whisper-v2.1 is an enhanced Japanese ASR model integrating punctuation postprocessing, developed by Kotoba Technologies in collaboration with Asahi Ushio.
+  - Downloads: 3,121
 - [FunAudioLLM/SenseVoiceSmall](https://huggingface.co/FunAudioLLM/SenseVoiceSmall)
-  - SenseVoice is a speech foundation model offering ASR, LID, SER, and AED capabilities.
-  - Downloads: 1,136
-- [mmnga/cyberagent-Mistral-Nemo-Japanese-Instruct-2408-gguf](https://huggingface.co/mmnga/cyberagent-Mistral-Nemo-Japanese-Instruct-2408-gguf)
-  - A gguf-format conversion of the Mistral-Nemo-Japanese-Instruct-2408 model by cyberagent, using imatrix data from TFMC/imatrix-dataset-for-japanese-llm.
-  - Downloads: 1,062
+  - SenseVoice is a multi-capability speech foundation model supporting automatic speech recognition, spoken language identification, speech emotion recognition, and audio event detection.
+  - Downloads: 1,141
 - [sbintuitions/sarashina2-vision-8b](https://huggingface.co/sbintuitions/sarashina2-vision-8b)
-  - Sarashina2-Vision-8B is a high-scoring Japanese vision-language model trained by SB Intuitions, achieving top rankings in four benchmarks.
+  - Sarashina2-Vision-8B is a high-performing Japanese vision language model trained by SB Intuitions, achieving top scores in four benchmarks.
   - Downloads: 866
 - [fishaudio/fish-speech-1.2-sft](https://huggingface.co/fishaudio/fish-speech-1.2-sft)
   - Fish Speech V1.2 Fish Speech V1.2 is a leading text-to-speech (TTS) model trained on 300k hours of English, Chinese, and Japanese audio data.
@@ -3261,158 +3300,158 @@ This list is sorted by downloads as of March 25, 2025.
   - Phi-3-medium-128k-instruct-gguf microsoftさんが公開しているPhi-3-medium-128k-instructのggufフォーマット変換版です。
   - Downloads: 669
 - [nvidia/parakeet-tdt_ctc-0.6b-ja](https://huggingface.co/nvidia/parakeet-tdt_ctc-0.6b-ja)
-  - parakeet-tdt_ctc-0.6b-ja is an XL Hybrid FastConformer ASR model for Japanese speech transcription with punctuation developed by NVIDIA NeMo team.
+  - parakeet-tdt_ctc-0.6b-ja is a Japanese ASR model with punctuations transcription capabilities developed by NVIDIA NeMo, based on the Hybrid FastConformer architecture.
   - Downloads: 631
 - [sonoisa/clip-vit-b-32-japanese-v1](https://huggingface.co/sonoisa/clip-vit-b-32-japanese-v1)
-  - A Japanese-language version of a CLIP text/image encoder model derived via distillation from the English version, accompanied by samples and documentation for its use in multimodal processing tasks.
-  - Downloads: 613
-- [kotoba-tech/kotoba-whisper-v1.1](https://huggingface.co/kotoba-tech/kotoba-whisper-v1.1)
-  - Kotoba-Whisper-v1.1 is an enhanced Japanese ASR model that integrates punctuation postprocessing, merging additional features from kotoba-tech/kotoba-whisper-v1.0 into a seamless pipeline.
-  - Downloads: 598
+  - This repository contains a Japanese version of a CLIP text/image encoder model, derived via knowledge distillation from the English version, along with sample codes and application tutorials.
+  - Downloads: 611
 - [sbintuitions/sarashina2-vision-14b](https://huggingface.co/sbintuitions/sarashina2-vision-14b)
-  - Sarashina2-Vision-14B is a top-performing Japanese vision language model, achieving highest scores in four benchmarks, based on Sarashina2-13B and Qwen2-VL-7B's image encoder, with detailed installation and inference instructions provided.
-  - Downloads: 444
-- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1)
-  - Heron BLIP Japanese StableLM Base 7B is a vision-language model for conversing about images, trained with the heron library.
-  - Downloads: 424
-- [TKU410410103/hubert-base-japanese-asr](https://huggingface.co/TKU410410103/hubert-base-japanese-asr)
-  - A fine-tuned Japanese-Hubert-base model for ASR tasks that predicts only Hiragana, trained on common_voice_11_0, achieving improved WER with training iteration.
-  - Downloads: 343
-- [TKU410410103/wav2vec2-base-japanese-asr](https://huggingface.co/TKU410410103/wav2vec2-base-japanese-asr)
-  - A fine-tuned wav2vec2-base model for Japanese Hiragana recognition, trained on Common Voice dataset, achieving improved performance metrics.
-  - Downloads: 307
-- [TeamFnord/manga-ocr](https://huggingface.co/TeamFnord/manga-ocr)
-  - Manga OCR uses Vision Encoder Decoder to recognize Japanese text in manga, addressing unique challenges like furigana and low-quality images.
-  - Downloads: 271
-- [oshizo/donut-base-japanese-visual-novel](https://huggingface.co/oshizo/donut-base-japanese-visual-novel)
-  - A fine-tuned Donut base model on a visual novel-like synthetic dataset for recognizing text in images from oshizo/donut-base-japanese-visual-novel.
-  - Downloads: 211
-- [TareHimself/manga-ocr-base](https://huggingface.co/TareHimself/manga-ocr-base)
-  - A model for optical character recognition specifically tailored for Japanese manga text.
-  - Downloads: 201
+  - Sarashina2-Vision-14B is a high-scoring Japanese vision language model, trained by SB Intuitions, that excels in four benchmarks and is based on Sarashina2-13B and Qwen2-VL-7B's image encoder.
+  - Downloads: 571
+- [kotoba-tech/kotoba-whisper-v1.1](https://huggingface.co/kotoba-tech/kotoba-whisper-v1.1)
+  - Kotoba-Whisper-v1.1 is an updated Japanese ASR model that integrates punctuation postprocessing, enhancing transcription accuracy through a collaborative effort between Asahi Ushio and Kotoba Technologies.
+  - Downloads: 558
+- [mmnga/cyberagent-Mistral-Nemo-Japanese-Instruct-2408-gguf](https://huggingface.co/mmnga/cyberagent-Mistral-Nemo-Japanese-Instruct-2408-gguf)
+  - A gguf-formatted conversion of the Mistral-Nemo-Japanese-Instruct-2408 model by cyberagent, using imatrix dataset from TFMC/imatrix-dataset-for-japanese-llm, for deployment with llama.cpp.
+  - Downloads: 483
 - [esnya/japanese_speecht5_tts](https://huggingface.co/esnya/japanese_speecht5_tts)
-  - The GitHub repository contains a fine-tuned SpeechT5 model for Japanese text-to-speech synthesis using the JVS dataset, featuring 100 speakers and 16-dimensional speaker embeddings.
-  - Downloads: 198
+  - The SpeechT5 model for Japanese speech synthesis has been fine-tuned using the JVS dataset, creating gender-segregated 16-dimensional speaker embeddings for text-to-speech generation.
+  - Downloads: 432
+- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1)
+  - A vision-language model named Heron BLIP Japanese StableLM Base 7B for conversing about images, implemented using the heron library and available via the provided import instructions.
+  - Downloads: 424
+- [TKU410410103/wav2vec2-base-japanese-asr](https://huggingface.co/TKU410410103/wav2vec2-base-japanese-asr)
+  - A fine-tuned wav2vec2-base model for Japanese Hiragana recognition, trained on common_voice_11_0, achieving improved accuracy as shown in training and validation loss reductions.
+  - Downloads: 358
+- [TKU410410103/hubert-base-japanese-asr](https://huggingface.co/TKU410410103/hubert-base-japanese-asr)
+  - A fine-tuned Japanese Hubert base model for ASR tasks that predicts Hiragana, trained on common_voice_11_0, achieving improved WER with training steps.
+  - Downloads: 343
 - [vumichien/wav2vec2-large-xlsr-japanese-hiragana](https://huggingface.co/vumichien/wav2vec2-large-xlsr-japanese-hiragana)
-  - A fine-tuned Wav2Vec2-Large-XLSR-53 model for Japanese, using Common Voice and JSUT corpora, requiring 16kHz sampled speech input.
-  - Downloads: 192
-- [mathewthe2/manga-ocr-base](https://huggingface.co/mathewthe2/manga-ocr-base)
-  - Manga OCR utilizes the Vision Encoder Decoder framework for high-quality Japanese text recognition in manga, including various text orientations and low-quality images.
-  - Downloads: 189
+  - Fine-tuned Wav2Vec2-Large-XLSR-53 model on Japanese using Common Voice and JSUT corpus, sampled at 16kHz.
+  - Downloads: 211
+- [TeamFnord/manga-ocr](https://huggingface.co/TeamFnord/manga-ocr)
+  - Manga OCR uses the Vision Encoder Decoder framework for high-quality Japanese text recognition in manga, accommodating various fonts and image qualities.
+  - Downloads: 179
 - [Local-Novel-LLM-project/Ocuteus-v1-gguf](https://huggingface.co/Local-Novel-LLM-project/Ocuteus-v1-gguf)
   - OcuteusのGGUF版です。
   - Downloads: 179
 - [rinna/japanese-data2vec-audio-base](https://huggingface.co/rinna/japanese-data2vec-audio-base)
-  - A Japanese data2vec Audio Base model with 12 transformer layers, trained on about 19,000 hours of Japanese audio data by rinna Co., Ltd.
+  - A Japanese data2vec Audio Base model with 12 transformer layers trained on about 19,000 hours of Japanese audio data by rinna Co., Ltd.
   - Downloads: 172
+- [TareHimself/manga-ocr-base](https://huggingface.co/TareHimself/manga-ocr-base)
+  - A model for optical character recognition specifically tailored for Japanese manga text.
+  - Downloads: 165
+- [fishaudio/fish-speech-1.2](https://huggingface.co/fishaudio/fish-speech-1.2)
+  - A text-to-speech model trained on 300k hours of English, Chinese, and Japanese audio data.
+  - Downloads: 161
 - [toshi456/llava-jp-1.3b-v1.0](https://huggingface.co/toshi456/llava-jp-1.3b-v1.0)
-  - LLaVA-JP is a vision-language model trained by fine-tuning llm-jp/llm-jp-1.3b-v1.0 with LLaVA method, using Vision Projector and Japanese Visual Genome for conversing about input images.
-  - Downloads: 166
-- [recruit-jp/japanese-clip-vit-b-32-roberta-base](https://huggingface.co/recruit-jp/japanese-clip-vit-b-32-roberta-base)
-  - Recruit Co., Ltd. has released a pre-trained Japanese CLIP model and evaluation dataset for tasks like zero-shot image classification and text-image retrieval.
-  - Downloads: 152
+  - LLaVA-JP is a vision-language model trained by fine-tuning llm-jp with LLaVA method, capable of conversing about images and available at https://github.com/tosiyuki/LLaVA-JP.
+  - Downloads: 158
+- [qqpann/wav2vec2-large-xlsr-japanese-0325-1200](https://huggingface.co/qqpann/wav2vec2-large-xlsr-japanese-0325-1200)
+  - A fine-tuned Wav2Vec2-Large-XLSR-53 model for {language} that uses Common Voice and other datasets, optimized for 16 kHz sampling.
+  - Downloads: 156
+- [mathewthe2/manga-ocr-base](https://huggingface.co/mathewthe2/manga-ocr-base)
+  - Manga OCR employs a Vision Encoder Decoder framework for high-quality Japanese text recognition in manga, handling various fonts, low-quality images, and specific manga text challenges.
+  - Downloads: 155
 - [Mitsua/mitsua-japanese-clip-vit-b-16](https://huggingface.co/Mitsua/mitsua-japanese-clip-vit-b-16)
   - Mitsua Japanese CLIP ViT-B-16 明示的な許諾を得たオプトインデータ、オープンライセンスデータ、パブリックドメインデータのみでトレーニングされた日本語/英語バイリンガルCLIP (Contrastive Language-Image Pre-training)モデルです。
   - Downloads: 149
-- [qqpann/wav2vec2-large-xlsr-japanese-0325-1200](https://huggingface.co/qqpann/wav2vec2-large-xlsr-japanese-0325-1200)
-  - A fine-tuned Wav2Vec2-large-XLSR-53 model for {language} on Common Voice and other datasets, suitable for speech input sampled at 16kHz.
-  - Downloads: 137
-- [drewschaub/whisper-large-v3-japanese-4k-steps](https://huggingface.co/drewschaub/whisper-large-v3-japanese-4k-steps)
-  - A fine-tuned Whisper-large-v3 model for Japanese on Common Voice 16.1, trained for 4000 steps, resulting in overfitting and poorer WER despite lower loss.
-  - Downloads: 133
-- [hakuhodo-tech/japanese-clip-vit-h-14-bert-base](https://huggingface.co/hakuhodo-tech/japanese-clip-vit-h-14-bert-base)
-  - A Japanese CLIP model for contrastive language-image pre-training, capable of multimodal tasks with ViT-H/14 architecture.
-  - Downloads: 128
-- [fishaudio/fish-speech-1.2](https://huggingface.co/fishaudio/fish-speech-1.2)
-  - Fish Speech V1.2 is a text-to-speech model trained on 300k hours of multilingual audio data, with demos available at Fish Audio.
-  - Downloads: 126
+- [recruit-jp/japanese-clip-vit-b-32-roberta-base](https://huggingface.co/recruit-jp/japanese-clip-vit-b-32-roberta-base)
+  - Recruit Co., Ltd. has released a pre-trained Japanese CLIP model and evaluation dataset for tasks like zero-shot image classification and text-image retrieval.
+  - Downloads: 147
 - [AndrewMcDowell/wav2vec2-xls-r-300m-japanese](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-300m-japanese)
-  - A fine-tuned wav2vec2 model for Japanese speech recognition, converting Kanji to Hiragana during training and evaluating with CER, achieving 23.64% CER on the Common Voice dataset.
-  - Downloads: 126
+  - A fine-tuned wav2vec2 model converts Common Voice Ja dataset to Hiragana and Katakana, achieving a CER of 23.64%.
+  - Downloads: 141
+- [drewschaub/whisper-large-v3-japanese-4k-steps](https://huggingface.co/drewschaub/whisper-large-v3-japanese-4k-steps)
+  - A fine-tuned Whisper-large-v3 model for Japanese on Common Voice 16.1, trained for 4000 steps; achieved WER improvement but showed textbook overfitting.
+  - Downloads: 136
+- [hakuhodo-tech/japanese-clip-vit-h-14-bert-base](https://huggingface.co/hakuhodo-tech/japanese-clip-vit-h-14-bert-base)
+  - The repository contains a Japanese CLIP (Contrastive Language-Image Pre-trained) model using ViT-H/14 architecture for multimodal task support, licensed under CC BY-NC-SA 4.0.
+  - Downloads: 128
 - [hakuhodo-tech/japanese-clip-vit-h-14-bert-deeper](https://huggingface.co/hakuhodo-tech/japanese-clip-vit-h-14-bert-deeper)
-  - A Contrastive Language-Image Pre-trained Model for Japanese text and image embedding with capabilities in zero-shot image classification.
+  - A contrastive language-image pre-trained model for Japanese texts and images, capable of multimodal tasks with deep ViT-H/14 architecture.
   - Downloads: 126
 - [hakuhodo-tech/japanese-clip-vit-h-14-bert-wider](https://huggingface.co/hakuhodo-tech/japanese-clip-vit-h-14-bert-wider)
-  - A Japanese CLIP model for contrastive language-image pre-training, suitable for multimodal tasks like零样本图像分类，采用ViT-H/14架构。
+  - A Japanese CLIP (Contrastive Language-Image Pre-trained) model for multimodal tasks using ViT-H/14 architecture.
   - Downloads: 126
 - [MCZK/Assistance-7B-GGUF](https://huggingface.co/MCZK/Assistance-7B-GGUF)
   - Local-Novel-LLM-project様の Assistance をGGUF形式に変換したものです。
   - Downloads: 122
-- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v0](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v0)
-  - A demo and documentation for the Heron BLIP Japanese StableLM Base 7B model, a vision-language model that can converse about images.
-  - Downloads: 110
 - [vitouphy/wav2vec2-xls-r-300m-japanese](https://huggingface.co/vitouphy/wav2vec2-xls-r-300m-japanese)
-  - A fine-tuned wav2vec2 model for transcribing audio into Hiragana, achieving a loss of 0.7751 and CER of 0.2227 on the evaluation set.
-  - Downloads: 110
+  - A fine-tuned wav2vec2-xls-r-300m model for transcribing audio into Hiragana with evaluation metrics including loss and character error rate.
+  - Downloads: 116
 - [Superd4/lasttest](https://huggingface.co/Superd4/lasttest)
   - Manga OCR Optical character recognition for Japanese text, with the main focus being Japanese manga.
   - Downloads: 108
+- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v0](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v0)
+  - A demo of Heron BLIP Japanese StableLM Base 7B, a vision-language model for image conversation, is available.
+  - Downloads: 103
 - [AkitoP/whisper-large-v3-japense-phone_accent](https://huggingface.co/AkitoP/whisper-large-v3-japense-phone_accent)
-  - A Whisper model for transcribing Japanese speech to Katakana with pitch accents, fine-tuned on a subset of Galgame-Speech and jsut-5000 datasets.
-  - Downloads: 106
+  - A Whisper large V3 model fine-tuned for transcribing Japanese speech into Katakana with pitch accent annotations using the Galgame-Speech and JSUT-5000 datasets.
+  - Downloads: 100
 - [snu-nia-12/wav2vec2-xls-r-300m_nia12_phone-hiragana_japanese](https://huggingface.co/snu-nia-12/wav2vec2-xls-r-300m_nia12_phone-hiragana_japanese)
-  - Fine-tuned Wav2Vec2-XLS-R-300M on Japanese Hiragana characters using multiple datasets with 16kHz sampled audio, achieving a CER of 9.34%.
-  - Downloads: 89
-- [Ivydata/wav2vec2-large-speech-diarization-jp](https://huggingface.co/Ivydata/wav2vec2-large-speech-diarization-jp)
-  - A fine-tuned XLSR-53 model for Japanese phone-call speaker diarization, usable via Python with audio processing libraries.
-  - Downloads: 81
+  - A fine-tuned Wav2Vec2-XLS-R-300M model for Japanese Hiragana recognition using multiple datasets, achieving 9.34% CER, trained at 16kHz sampling rate.
+  - Downloads: 85
 - [vumichien/wav2vec2-large-xlsr-japanese](https://huggingface.co/vumichien/wav2vec2-large-xlsr-japanese)
-  - Fine-tuned Wav2Vec2-Large-XLSR-53 model on Japanese using Common Voice and JSUT corpora, intended for 16kHz speech input.
-  - Downloads: 77
+  - A fine-tuned Wav2Vec2-Large-XLSR-53 model for Japanese, leveraging Common Voice and JSUT corpora, suitable for 16kHz sampled speech input.
+  - Downloads: 80
 - [Respair/Hibiki_ASR_Phonemizer_v0.2](https://huggingface.co/Respair/Hibiki_ASR_Phonemizer_v0.2)
   - Hibiki ASR Phonemizer This model is a Phoneme Level Speech Recognition network, originally a fine-tuned version of openai/whisper-large-v3 on a mixture of Different Japanese datasets.
   - Downloads: 75
+- [Ivydata/wav2vec2-large-speech-diarization-jp](https://huggingface.co/Ivydata/wav2vec2-large-speech-diarization-jp)
+  - A fine-tuned XLSR-53 model for Japanese phone-call speaker diarization using CallHome data.
+  - Downloads: 54
 - [arc-r/faster-whisper-large-v2-mix-jp](https://huggingface.co/arc-r/faster-whisper-large-v2-mix-jp)
-  - This repository provides the whisper-large-v2-mix-jp model converted to CTranslate2 format for use in projects like faster-whisper.
-  - Downloads: 64
-- [reazon-research/reazonspeech-espnet-next](https://huggingface.co/reazon-research/reazonspeech-espnet-next)
-  - reazonspeech-espnet-next is a repository for the latest ASR models trained by the ReazonSpeech team, designed to rapidly share cutting-edge research and incorporate community feedback.
-  - Downloads: 50
-- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1-llava-620k](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1-llava-620k)
-  - Heron BLIP Japanese StableLM Base 7B is a vision-language model trained with the Heron library for image captioning and conversation, accessible via PyTorch imports.
+  - This repository converts the vumichien/whisper-large-v2-mix-jp model to CTranslate2 format for use with faster-whisper.
   - Downloads: 48
+- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1-llava-620k](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1-llava-620k)
+  - A vision-language model named Heron BLIP Japanese StableLM Base 7B for conversing about images, accessible via the heron library and Transformers.
+  - Downloads: 48
+- [reazon-research/reazonspeech-espnet-next](https://huggingface.co/reazon-research/reazonspeech-espnet-next)
+  - reazonspeech-espnet-next is a repository for the latest "bleeding-edge" ASR models trained by the ReazonSpeech team, aimed at rapidly sharing research results and incorporating community feedback.
+  - Downloads: 37
 - [svjack/Stable-Diffusion-Pokemon-ja](https://huggingface.co/svjack/Stable-Diffusion-Pokemon-ja)
-  - A Japanese-specific stable diffusion model for generating Pokemon images from text input.
+  - Zhipeng Yang developed a Japanese-specific diffusion model for generating Pokemon images from text input, licensed under the CreativeML OpenRAIL M license.
   - Downloads: 35
 - [RikkaBotan/style_bert_vits2_jp_extra_asmr_original](https://huggingface.co/RikkaBotan/style_bert_vits2_jp_extra_asmr_original)
-  - This repository offers free, unapologetic, childish voice generation for both commercial and non-commercial use, with versions including sweet, English, cool, and Chinese.
+  - The GitHub repository offers free, commercial-friendly childish voice generation, with emotional (sweet) and other variants available.
   - Downloads: 31
-- [vumichien/wav2vec2-xls-r-1b-japanese](https://huggingface.co/vumichien/wav2vec2-xls-r-1b-japanese)
-  - A fine-tuned wav2vec2 model on Japanese datasets including Common Voice 7.0, JSUT, JSSS, and CSS10 with a total of约60小时训练数据，WER效果待补充。
-  - Downloads: 30
 - [kotoba-tech/kotoba-speech-v0.1](https://huggingface.co/kotoba-tech/kotoba-speech-v0.1)
-  - Kotoba-Speech v0.1 is a 1.2B Transformer-based model supporting fluent Japanese text-to-speech and one-shot voice cloning, with inference code derived from MetaVoice.
+  - Kotoba-Speech v0.1 is a 1.2B Transformer-based Japanese text-to-speech model with one-shot voice cloning capabilities, using end-to-end transformers, based on metavoice's framework.
   - Downloads: 27
+- [vumichien/wav2vec2-xls-r-1b-japanese](https://huggingface.co/vumichien/wav2vec2-xls-r-1b-japanese)
+  - A fine-tuned Wav2Vec2 model on Japanese voice datasets including Common Voice 7.0, JSUT, JSSS, and CSS10 for speech recognition research.
+  - Downloads: 26
 - [umiyuki/Llama-3-Umievo-itr014-Shizuko-8b](https://huggingface.co/umiyuki/Llama-3-Umievo-itr014-Shizuko-8b)
   - Llama-3-Umievo-itr014-Shizuko-8b このモデルは日本語に対応しているLlama-3ベースの４つのモデルを進化的アルゴリズムで進化的マージしたものです。
   - Downloads: 25
-- [sonoisa/vl-t5-base-japanese](https://huggingface.co/sonoisa/vl-t5-base-japanese)
-  - A Japanese-pretrained VL-T5 model for unifying vision-and-language tasks via text generation.
+- [oshizo/donut-base-japanese-visual-novel](https://huggingface.co/oshizo/donut-base-japanese-visual-novel)
+  - A fine-tuned Donut model on a visual novel-like synthetic dataset for recognizing text in images, with samples and usage instructions provided.
   - Downloads: 24
-- [Hibernates/Hibernates-JP-1.3b-Max](https://huggingface.co/Hibernates/Hibernates-JP-1.3b-Max)
-  - A Japanese vision-language model based on LLaVA architecture with 1.3B parameters and a context length of 1024 tokens, using a ConvNeXt Large vision encoder.
-  - Downloads: 21
+- [sonoisa/vl-t5-base-japanese](https://huggingface.co/sonoisa/vl-t5-base-japanese)
+  - A Japanese-pretrained VL-T5 model for unifying vision-and-language tasks via text generation, with a colab demo available.
+  - Downloads: 20
 - [yashvoladoddi37/kanji-diffusion-v1-4](https://huggingface.co/yashvoladoddi37/kanji-diffusion-v1-4)
   - Kanji Diffusion v1-4 Model Card Kanji Diffusion is a latent text-to-image diffusion model capable of hallucinating Kanji characters given any English prompt.
   - Downloads: 20
-- [arc-r/faster-whisper-large-v2-jp](https://huggingface.co/arc-r/faster-whisper-large-v2-jp)
-  - This repository converts the whisper-large-v2-jp model to CTranslate2 format for use in projects like faster-whisper.
+- [Hibernates/Hibernates-JP-1.3b-Max](https://huggingface.co/Hibernates/Hibernates-JP-1.3b-Max)
+  - A Japanese vision-language model with 1.3B parameters based on LLaVA architecture, using a ConvNeXt Large vision encoder and a context length of 1024 tokens.
   - Downloads: 19
-- [Lycoris53/Vits-TTS-Japanese-Only-Sakura-Miko](https://huggingface.co/Lycoris53/Vits-TTS-Japanese-Only-Sakura-Miko)
-  - A VITS-TTS model fine-tuned with Japanese voice data from Elite35P-Server for Sakura Miko, developed by Lycoris52.
+- [arc-r/faster-whisper-large-v2-jp](https://huggingface.co/arc-r/faster-whisper-large-v2-jp)
+  - This repository provides the vumichien/whisper-large-v2-jp model converted to CTranslate2 format for use in CTranslate2 or projects like faster-whisper.
   - Downloads: 19
 - [nu-dialogue/sfc2022-stable-diffusion](https://huggingface.co/nu-dialogue/sfc2022-stable-diffusion)
-  - SFCOCO Stable Diffusion is a Japanese-specific diffusion model for generating photo-realistic images from text input.
+  - SFCOCO Stable Diffusion is a Japanese-specific latent text-to-image model generating photo-realistic images, fine-tuned from Japanese Stable Diffusion.
   - Downloads: 19
 - [NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model](https://huggingface.co/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model)
-  - A fine-tuned Japanese Whisper-tiny model trained on Common Voice data for real-timeAutomatic Speech Recognition with evaluation results showing loss of 0.780524 and WER of 301.625840.
-  - Downloads: 17
+  - A fine-tuned Japanese Whisper-tiny model based on the Common Voice dataset for real-time Japanese speech recognition with loss of 0.780524 and WER of 301.625840.
+  - Downloads: 18
 - [espnet/kan-bayashi_jsut_conformer_fastspeech2](https://huggingface.co/espnet/kan-bayashi_jsut_conformer_fastspeech2)
   - Example ESPnet2 TTS model kan-bayashi/jsut_conformer_fastspeech2 ♻
   - Downloads: 17
 - [ThePioneer/MyVoiceClone-Style-Bert-VITS2](https://huggingface.co/ThePioneer/MyVoiceClone-Style-Bert-VITS2)
-  - A voice cloning model for Style Bert VITS2 that supports English, Japanese, and Chinese text-to-speech with a young, neutral voice suitable for various applications.
-  - Downloads: 16
+  - A voice clone model for Style Bert VITS2 supporting English, Japanese, and Chinese text-to-speech with a young neutral voice.
+  - Downloads: 15
 - [espnet/kan-bayashi_jsut_fastspeech2](https://huggingface.co/espnet/kan-bayashi_jsut_fastspeech2)
   - Example ESPnet2 TTS model kan-bayashi/jsut_fastspeech2 ♻
   - Downloads: 15
@@ -3425,17 +3464,17 @@ This list is sorted by downloads as of March 25, 2025.
 - [Dallyana/EspnetASR](https://huggingface.co/Dallyana/EspnetASR)
   - reazonspeech-espnet-v1 reazonspeech-espnet-v1 is an ESPnet model trained for Japanese automatic speech recognition (ASR).
   - Downloads: 15
-- [Nikolajvestergaard/Japanese_Fine_Tuned_Whisper_Model](https://huggingface.co/Nikolajvestergaard/Japanese_Fine_Tuned_Whisper_Model)
-  - A fine-tuned Japanese Whisper-tiny model trained on Common Voice data for real-time JapaneseAutomatic Speech Recognition with a loss of 0.549100 and WER of 225.233037.
+- [Lycoris53/Vits-TTS-Japanese-Only-Sakura-Miko](https://huggingface.co/Lycoris53/Vits-TTS-Japanese-Only-Sakura-Miko)
+  - A VITS-TTS model fine-tuned on Japanese Sakura Miko voice data, developed by Lycoris52 and finetuning code from Plachtaa.
   - Downloads: 14
 - [reazon-research/reazonspeech-espnet-v1](https://huggingface.co/reazon-research/reazonspeech-espnet-v1)
-  - reazonspeech-espnet-v1 is an ESPnet ASR model trained on 15,000 hours of ReazonSpeech corpus for Japanese speech recognition, requiring 16kHz sampling rate for input audio.
-  - Downloads: 14
+  - The repository contains an ESPnet model trained for Japanese ASR on the ReazonSpeech corpus, requiring 16kHz-sampled audio input.
+  - Downloads: 13
 - [Lycoris53/Vits-TTS-Japanese-Only-Amitaro](https://huggingface.co/Lycoris53/Vits-TTS-Japanese-Only-Amitaro)
-  - A finetuned VITS TTS model for Japanese using free voice data from amitaro, developed by Lycoris52 and based on Plachtaa's fine-tuning code.
+  - A finetuned VITS TTS Japanese model using free amitaro voice data, developed by Lycoris52 and based on Plachtaa's fine-tuning code.
   - Downloads: 13
 - [agiera/manga-ocr-base](https://huggingface.co/agiera/manga-ocr-base)
-  - Manga OCR uses a Vision Encoder Decoder framework for high-quality printed Japanese text recognition, especially suited for manga with various fonts and low-quality images.
+  - Manga OCR employs Vision Encoder Decoder for high-quality Japanese text recognition in manga, addressing unique challenges like furigana and low-quality images.
   - Downloads: 13
 - [espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-f43d8f](https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-f43d8f)
   - ESPnet2 TTS pretrained model kan-bayashi/jsut_tts_train_conformer_fastspeech2_transformer_teacher_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave ♻
@@ -3443,8 +3482,11 @@ This list is sorted by downloads as of March 25, 2025.
 - [teasan/endlessMix](https://huggingface.co/teasan/endlessMix)
   - ■endlessMixシリーズについて 概要 このモデルはDefactaをベースにした階層マージモデルです。
   - Downloads: 13
+- [Nikolajvestergaard/Japanese_Fine_Tuned_Whisper_Model](https://huggingface.co/Nikolajvestergaard/Japanese_Fine_Tuned_Whisper_Model)
+  - A fine-tuned Japanese Whisper-tiny model on Common Voice data for real-time Japanese ASR with loss 0.549 and WER 225.23.
+  - Downloads: 12
 - [lorenzoncina/whisper-small-ja](https://huggingface.co/lorenzoncina/whisper-small-ja)
-  - A fine-tuned Whisper model for Japanese using the SVJ dataset and Common Voice 11.0, achieving specific loss and CER metrics.
+  - Whisper Small JA is a fine-tuned model of the SVJ Japanese dataset on Common Voice 11.0, achieving a loss of 0.5596 and character error rate of 17.7261.
   - Downloads: 11
 - [espnet/kan-bayashi_jsut_tacotron2_accent](https://huggingface.co/espnet/kan-bayashi_jsut_tacotron2_accent)
   - Example ESPnet2 TTS model kan-bayashi/jsut_tacotron2_accent ♻
@@ -3456,9 +3498,6 @@ This list is sorted by downloads as of March 25, 2025.
   - Example ESPnet2 TTS model kan-bayashi/jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jaconv_pyopenjtalk_accent_with_pause_train.loss.ave ♻
   - Downloads: 11
 ### Natural Language Interfaces
-- [mradermacher/DeepSeek-R1-Distill-Qwen-7B-Japanese-GGUF](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-7B-Japanese-GGUF)
-  - The repository contains static quantized models for Japanese language processing but may lack weighted/imatrix quants, which can be requested through Community Discussion if needed. Usage instructions for GGUF files are available in TheBloke's READMEs.
-  - Downloads: 1,384
 - [tokyotech-llm/Llama-3-Swallow-70B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3-Swallow-70B-Instruct-v0.1)
   - Llama3 Swallow - Built with Meta Llama 3
   - Downloads: 1,366
@@ -3471,15 +3510,18 @@ This list is sorted by downloads as of March 25, 2025.
 - [MCZK/EZO-Common-9B-gemma-2-it-GGUF](https://huggingface.co/MCZK/EZO-Common-9B-gemma-2-it-GGUF)
   - ※llama.cpp Releases b3428(7/21)
   - Downloads: 1,027
+- [mradermacher/DeepSeek-R1-Distill-Qwen-7B-Japanese-GGUF](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-7B-Japanese-GGUF)
+  - The repository includes static quantized models for Japanese text processing but lacks weighted/imatrix variants; users can request them through Community Discussion, and instructions for using GGUF files are available in TheBloke's READMEs.
+  - Downloads: 1,001
+- [nu-dialogue/j-moshi-ext](https://huggingface.co/nu-dialogue/j-moshi-ext)
+  - J-Moshi is a Japanese full-duplex spoken dialogue system based on Moshi, trained on large-scale Japanese dialogues for natural turn-taking in real-time conversations.
+  - Downloads: 737
 - [mmnga/Llama3-ArrowSE-8B-v0.3-gguf](https://huggingface.co/mmnga/Llama3-ArrowSE-8B-v0.3-gguf)
   - Llama3-ArrowSE-8B-v0.3-gguf DataPilotさんが公開しているLlama3-ArrowSE-8B-v0.3のggufフォーマット変換版です。
   - Downloads: 700
 - [mmnga/DataPilot-ArrowPro-7B-RobinHood-gguf](https://huggingface.co/mmnga/DataPilot-ArrowPro-7B-RobinHood-gguf)
   - DataPilot-ArrowPro-7B-RobinHood-gguf DataPilotさんが公開しているArrowPro-7B-RobinHoodのggufフォーマット変換版です。
   - Downloads: 672
-- [nu-dialogue/j-moshi-ext](https://huggingface.co/nu-dialogue/j-moshi-ext)
-  - J-Moshi is a Japanese full-duplex spoken dialogue system built on the Moshi model, trained with additionalJapanese dialogue data for natural turn-taking in real-time conversations.
-  - Downloads: 601
 - [MCZK/EZO-Humanities-9B-gemma-2-it-GGUF](https://huggingface.co/MCZK/EZO-Humanities-9B-gemma-2-it-GGUF)
   - ※llama.cpp Releases b3428(7/21)
   - Downloads: 474
@@ -3498,68 +3540,71 @@ This list is sorted by downloads as of March 25, 2025.
 - [mradermacher/Mixtral-8x7B-v0.1-japanese-GGUF](https://huggingface.co/mradermacher/Mixtral-8x7B-v0.1-japanese-GGUF)
   - About static quants of https://huggingface.co/abeja/Mixtral-8x7B-v0.1-japanese weighted/imatrix quants seem not to be available (by me) at this time.
   - Downloads: 275
-- [mradermacher/DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF)
-  - Key quants for the DeepSeek-R1-Distill-Qwen-14B-Japanese model are static and available, with imatrix versions pending; users can request them or find usage details in TheBloke's READMEs.
-  - Downloads: 183
 - [p1atdev/qwen2.5-0.5b-grpo-math-01](https://huggingface.co/p1atdev/qwen2.5-0.5b-grpo-math-01)
-  - A GitHub repository containing GRPO-trained code to solve simple arithmetic problems, using self-created datasets.
-  - Downloads: 119
-- [Aratako/c4ai-command-r-v01-japanese-instruct](https://huggingface.co/Aratako/c4ai-command-r-v01-japanese-instruct)
-  - A Japanese-tuned CohereForAI model using ichikara-instruction, trained on A6000x4 GPUs for 10 epochs with specific LoRA parameters, evaluated on jsquad and jcommonsenseqa datasets.
+  - A GitHub repository containing GRPO learning code for solving simple arithmetic problems with sample synthetic data.
   - Downloads: 117
+- [Aratako/c4ai-command-r-v01-japanese-instruct](https://huggingface.co/Aratako/c4ai-command-r-v01-japanese-instruct)
+  - A Japanese-instruct-tuned version of the CohereForAI/c4ai-command-r-v01 model using ichikara-instruction, trained on A6000x4 GPUs for 10 epochs with specific hyperparameters.
+  - Downloads: 117
+- [mradermacher/DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF)
+  - Static quantized models of the Qwen-14B-Japanese model are available, with imatrix quants potentially forthcoming if requested. Usage instructions for GGUF files are provided in TheBloke's READMEs.
+  - Downloads: 103
 - [SousiOmine/minoshiro-v0.2-7B_GGUF](https://huggingface.co/SousiOmine/minoshiro-v0.2-7B_GGUF)
   - https://huggingface.co/SousiOmine/minoshiro-v0.2-7B のGGUF量子化版です。
   - Downloads: 84
 - [MCZK/ArrowPro-7B-KUJIRA-GGUF](https://huggingface.co/MCZK/ArrowPro-7B-KUJIRA-GGUF)
   - DataPilot様の ArrowPro-7B-KUJIRA をGGUF形式に変換したものです。
   - Downloads: 80
-- [Mizuiro-sakura/luke-japanese-base-finetuned-QA](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-QA)
-  - A fine-tuned Luke Japanese base lite model for Question-Answering tasks using the DDQA dataset with an accuracy of 0.845933 in strict matching.
-  - Downloads: 72
 - [akiFQC/japanese-dialogpt-small-aozora](https://huggingface.co/akiFQC/japanese-dialogpt-small-aozora)
-  - A Japanese DialoGPT Small model trained on dialogue extracted from Aozora Bunko public domain books, optimized for limited GPU memory.
-  - Downloads: 68
+  - A small Japanese DialoGPT trained on dialogue extracts from Aozora Bunko public domain books, optimized for GPU memory limitations.
+  - Downloads: 51
 - [MCZK/ArrowPro-7B-RobinHood-GGUF](https://huggingface.co/MCZK/ArrowPro-7B-RobinHood-GGUF)
   - DataPilot様の ArrowPro-7B-RobinHood をGGUF形式に変換したものです。
   - Downloads: 50
-- [nitky/Oumuamua-7b-instruct-v2](https://huggingface.co/nitky/Oumuamua-7b-instruct-v2)
-  - This repository contains a modified pre-trained language model designed to role-play as a Japanese person and improve multi-turn conversation skills while reducing literal translations.
-  - Downloads: 38
+- [flypg/DeepSeek-R1-Distill-Qwen-14B-Japanese-chat](https://huggingface.co/flypg/DeepSeek-R1-Distill-Qwen-14B-Japanese-chat)
+  - A causal language model fine-tuned on conversational Japanese data, suitable for casual conversation, with limitations due to a small dataset.
+  - Downloads: 37
+- [Mizuiro-sakura/luke-japanese-base-finetuned-QA](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-QA)
+  - A fine-tuned version of luke-japanese-base-lite for Question-Answering based on the DDQA dataset, achieving an accuracy of 0.845933 in exact matches.
+  - Downloads: 29
 - [SousiOmine/Kuroiso-CR-7B-20250124](https://huggingface.co/SousiOmine/Kuroiso-CR-7B-20250124)
-  - A language model generated from fine-tuning Qwen2.5-7B-Instruct on datasets including user-created questions and thoughts produced by allura-org/Qwen2.5-32b-RP-Ink and AXCXEPT/EZO-Qwen2.5-32B-Instruct, requiring Chain-of-Thought responses in specified tags.
+  - A language model generated by fine-tuning Qwen2.5-7B-Instruct on multiple datasets and user-created questions, requiring Chain-of-Thought responses in the format <Query>{question} </Query><Answer>{response} </Answer><Thought>{thinking}</Thought>.
   - Downloads: 22
-- [Mizuiro-sakura/luke-japanese-large-finetuned-QA](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-finetuned-QA)
-  - A fine-tuned LUKEmodel for Question-Answering based on luke-japanese-large-lite and DDQA dataset, achieving an accuracy of 0.863 in strict matching.
-  - Downloads: 21
-- [Mizuiro-sakura/deberta-v2-base-japanese-finetuned-QAe](https://huggingface.co/Mizuiro-sakura/deberta-v2-base-japanese-finetuned-QAe)
-  - A fine-tuned DeBERTa-V2-Japanese model for QA tasks, trained on the DDQA dataset and usable for SQuAD tasks.
-  - Downloads: 21
 - [aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct](https://huggingface.co/aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct)
-  - A Japanese-capable model, Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2, merges Mixtral-8x7B-Instruct-v0.1 and Mixtral-8x7B-v0.1 differences with Swallow-MX-8x7b-NVE-v0.1, extending context length to 32K while enhancing instruct function.
+  - The repository contains Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2, a merged model enhancing Japanese fluency while extending context length to 32K tokens.
   - Downloads: 20
 - [mlx-community/Llama-3.1-70B-Japanese-Instruct-2407-4bit](https://huggingface.co/mlx-community/Llama-3.1-70B-Japanese-Instruct-2407-4bit)
   - mlx-community/Llama-3.1-70B-Japanese-Instruct-2407-4bit
   - Downloads: 20
-- [lightblue/openorca_stx](https://huggingface.co/lightblue/openorca_stx)
-  - The repository contains Lightblue's QLoRA fine-tuned OpenOrca model for Japanese closed QA, trained on SNOW TyDiQA (Ja), XLSUM (Ja) datasets totaling 13,167 samples.
+- [Mizuiro-sakura/luke-japanese-large-finetuned-QA](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-finetuned-QA)
+  - A fine-tuned Luke-Japanese-large-lite model for Question-Answering using the DDQA dataset, achieving an em accuracy of 0.863.
+  - Downloads: 19
+- [nitky/Oumuamua-7b-instruct-v2](https://huggingface.co/nitky/Oumuamua-7b-instruct-v2)
+  - This repository houses Oumuamua-7b-instruct-v2, a merged language model prompting the AI to role-play as a Japanese person for more context-aware responses.
   - Downloads: 18
-- [kanxxyc/JPNsensei-V2](https://huggingface.co/kanxxyc/JPNsensei-V2)
-  - A QA model for answering English questions about learning Japanese, built on the japanese-stablelm-instruct-gamma-7b base model and requiring Transformers 4.34.0 or newer.
-  - Downloads: 18
+- [Mizuiro-sakura/deberta-v2-base-japanese-finetuned-QAe](https://huggingface.co/Mizuiro-sakura/deberta-v2-base-japanese-finetuned-QAe)
+  - This repository contains a fine-tuned DeBERTa-v2-base-Japanese model for QA tasks using the DDQA dataset.
+  - Downloads: 17
 - [aipib/karasu-lora-jp-qa-chat](https://huggingface.co/aipib/karasu-lora-jp-qa-chat)
   - karasu-lora-jp-qa-chat karasu fine tuned model by lora method with the original Q&amp;A dataset.
   - Downloads: 17
 - [Noginowa/AnimaMixColorXL](https://huggingface.co/Noginowa/AnimaMixColorXL)
   - Animagine系のモデルをミックスしたVAE内蔵マージモデルです。
   - Downloads: 17
+- [lightblue/openorca_stx](https://huggingface.co/lightblue/openorca_stx)
+  - A Lightblue QLoRA fine-tuned OpenOrca model for Japanese Closed Question Answering, trained on SNOW TyDiQA (Ja), XLSUM (Ja) datasets with 13,167 samples in total.
+  - Downloads: 16
 - [Mizuiro-sakura/deberta-v2-tiny-japanese-finetuned-QA](https://huggingface.co/Mizuiro-sakura/deberta-v2-tiny-japanese-finetuned-QA)
-  - This GitHub repository contains a fine-tuned DeBERTa-v2-tiny-japanese model for QA tasks using the DDQA dataset, suitable for SQuAD tasks, and includes installation instructions for transformers and pytorch.
+  - This repository contains a fine-tuned DeBERTa-v2-tiny-Japanese model for QA tasks using the DDQA dataset, suitable for SQuAD tasks, and includes installation instructions for transformers and PyTorch.
   - Downloads: 16
 - [umiyuki/Japanese-Chat-Umievo-itr004-7b](https://huggingface.co/umiyuki/Japanese-Chat-Umievo-itr004-7b)
   - japanese-chat-umievo-itr004-7b
   - Downloads: 16
+- [kanxxyc/JPNsensei-V2](https://huggingface.co/kanxxyc/JPNsensei-V2)
+  - A QA model based on the japanese-stablelm-instruct-gamma-7b for answering questions about learning Japanese in English, requiring Transformers 4.34.0 or newer and prompt-format adherence.
+  - Downloads: 15
 - [ushikado/yuyuyui-chatbot](https://huggingface.co/ushikado/yuyuyui-chatbot)
-  - This model, fine-tuned on Yuyuyui scenario corpus based on rinna/japanese-gpt2-medium, generates responses to input sequences of utterances with特定字符开头和EOS结尾，并以<某>用于用户输入。
+  - This model,基于rinna/japanese-gpt2-medium并精细调校于Yuyuyui场景语料库，通过输入一序列话语（背景）生成后续的话语（回应），支持使用特定角色前缀字符进行对话。
   - Downloads: 15
 - [lmg-anon/vntl-llama3-8b-202409-qlora](https://huggingface.co/lmg-anon/vntl-llama3-8b-202409-qlora)
   - Summary This is an LLaMA 3 Youko qlora, created using a custom version of the VNTL dataset combined with the VNTL-Chat dataset.
@@ -3568,13 +3613,13 @@ This list is sorted by downloads as of March 25, 2025.
   - A very tiny 33.5M Llama3 model trained on a Macbook Pro with M3 Max for 10 hours.
   - Downloads: 15
 - [Mizuiro-sakura/luke-japanese-base-lite-jsquad](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-lite-jsquad)
-  - A fine-tuned model based on luke-japanese-base-lite for Question-Answering tasks using JSQuAD dataset, with accuracy metrics provided.
+  - A fine-tuned version of luke-japanese-base-lite for Question-Answering tasks using JSQuAD dataset, achieving accuracy scores of em: 0.758 and f1: 0.876.
   - Downloads: 13
 - [HachiML/Swallow-MS-7b-instruct-v0.1](https://huggingface.co/HachiML/Swallow-MS-7b-instruct-v0.1)
   - Swallow-MS-7b-v0.1 このモデルはtokyotech-llm/Swallow-MS-7b-instruct-v0.1のtokenizer.chat_templateを以下に変更したものです。
   - Downloads: 13
 - [if001/tiny_mixtral_ja_instruction](https://huggingface.co/if001/tiny_mixtral_ja_instruction)
-  - A model trained on instruction datasets, specifically using tiny_mixtral_ja.
+  - A model trained on instruction datasets, available at https://huggingface.co/if001/tiny_mixtral_ja.
   - Downloads: 11
 - [swdq/Visual-novel-whisper](https://huggingface.co/swdq/Visual-novel-whisper)
   - https://huggingface.co/kotoba-tech/kotoba-whisper-v1.1 上記のモデルを訓練し、アダルト用語を認識できるようにしたものです。
@@ -3584,120 +3629,120 @@ This list is sorted by downloads as of March 25, 2025.
   - Downloads: 11
 ### Information Extraction & Text Mining
 - [sociocom/MedNERN-CR-JA](https://huggingface.co/sociocom/MedNERN-CR-JA)
-  - The repository includes a named entity recognition model for Japanese medical documents, along with a prediction script that outputs XML-tagged text and provides entity normalization.
-  - Downloads: 131,506
+  - This repository includes a named entity recognition model for Japanese medical documents, along with a prediction script that outputs XML tags and provides normalization methods.
+  - Downloads: 250,398
 - [llm-book/bert-base-japanese-v3-ner-wikipedia-dataset](https://huggingface.co/llm-book/bert-base-japanese-v3-ner-wikipedia-dataset)
-  - A named entity recognition model for Japanese, fine-tuned from cl-tohoku/bert-base-japanese-v3 using the llm-book/ner-wikipedia-dataset, as introduced in Chapter 6 of "Large Language Models Primer."
-  - Downloads: 80,084
-- [sociocom/MedNER-CR-JA](https://huggingface.co/sociocom/MedNER-CR-JA)
-  - A Python model for named entity recognition in Japanese medical documents, including files for tags, attributes, prediction script, and input text.
-  - Downloads: 5,731
+  - A BERT-based Japanese named entity recognition model fine-tuned on llm-book/ner-wikipedia-dataset for advanced language modeling.
+  - Downloads: 79,950
 - [jurabi/bert-ner-japanese](https://huggingface.co/jurabi/bert-ner-japanese)
-  - A BERT-based model for extracting named entities in Japanese text, supporting 8 entity types.
-  - Downloads: 1,904
-- [abhishek/autonlp-japanese-sentiment-59362](https://huggingface.co/abhishek/autonlp-japanese-sentiment-59362)
-  - A binary classification model trained with AutoNLP, achieving high accuracy and F1 score, accessible via API.
-  - Downloads: 575
+  - A BERT-based model for extracting named entities in Japanese text, supporting 8 entity types including names, organization names, geographical locations, and more.
+  - Downloads: 1,789
 - [stabilityai/japanese-stablelm-instruct-alpha-7b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-alpha-7b)
-  - Accessing the repository requires agreeing to certain conditions.
-  - Downloads: 570
-- [tokyotech-llm/edu-classifier](https://huggingface.co/tokyotech-llm/edu-classifier)
-  - This repository offers fastText classifiers for assessing the educational value of Japanese web pages, including a Wiki-based and an LLM-based model, both licensed under CC BY-SA 4.0.
-  - Downloads: 541
+  - Access to this public GitHub repository requires accepting specific conditions before accessing its files and content.
+  - Downloads: 549
 - [lmg-anon/vntl-llama3-8b-v2-hf](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-hf)
-  - A LLaMA 3 Youko qlora fine-tune using a new version of the VNTL dataset for improving Japanese visual novel translations to English, without chat mode.
-  - Downloads: 374
+  - A fine-tuned LLaMA 3 Youko qlora model using a new version of the VNTL dataset for translating Japanese visual novels to English, excluding chat mode.
+  - Downloads: 332
 - [lmg-anon/vntl-llama3-8b-v2-gguf](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf)
-  - A LLaMA 3 Youko qlora fine-tuned with a new version of the VNTL dataset for improving Japanese visual novel translations to English, omitting chat mode and showing enhanced accuracy and stability.
-  - Downloads: 330
+  - A LLaMA 3 Youko qlora fine-tuned with a new version of the VNTL dataset for improving Japanese visual novel-to-English translation in language models, without chat mode.
+  - Downloads: 292
+- [abhishek/autonlp-japanese-sentiment-59362](https://huggingface.co/abhishek/autonlp-japanese-sentiment-59362)
+  - A model trained for binary classification with metrics including loss, accuracy, precision, recall, AUC, and F1 score; accessible via cURL.
+  - Downloads: 274
 - [mradermacher/Japanese-Starling-ChatV-7B-i1-GGUF](https://huggingface.co/mradermacher/Japanese-Starling-ChatV-7B-i1-GGUF)
-  - The repository contains weighted/imatrix quantized GGUF files for Japanese-Starling-ChatV-7B, including i1-IQ1_S (1.7GB), with notes on usage and concatenation.
-  - Downloads: 267
-- [Mizuiro-sakura/luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)
-  - This repository contains a fine-tuned LuKE Japanese base model for Named-Entity-Recognition using a Wikipedia dataset, with reported entity recognition accuracy metrics.
-  - Downloads: 219
+  - Weighted and i1-IQ1_S static quantized GGUF files for Japanese-Starling-ChatV-7B, available for use with instructions provided.
+  - Downloads: 244
+- [tokyotech-llm/edu-classifier](https://huggingface.co/tokyotech-llm/edu-classifier)
+  - The repository includes two fastText classifiers for assessing the educational value of Japanese web pages: one trained on Wikipedia text and another on annotations from language models, both licensed under CC BY-SA 4.0.
+  - Downloads: 220
 - [abhishek/autonlp-japanese-sentiment-59363](https://huggingface.co/abhishek/autonlp-japanese-sentiment-59363)
-  - A binary classification model trained using AutoNLP with high accuracy and AUC, accessible via cURL API.
-  - Downloads: 144
-- [Mizuiro-sakura/luke-japanese-large-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-finetuned-ner)
-  - A fine-tuned Luke Japanese large model for Named-Entity-Recognition (NER) using a Wikipedia dataset, achieving an F1-score of 0.845.
-  - Downloads: 98
-- [llm-book/bert-base-japanese-v3-crf-ner-wikipedia-dataset](https://huggingface.co/llm-book/bert-base-japanese-v3-crf-ner-wikipedia-dataset)
-  - A fine-tuned BERT model for named entity recognition on Japanese Wikipedia data, combining cl-tohoku/bert-base-japanese-v3 with CRF layer as described in "大規模言語模型入門" Chapter 6.
-  - Downloads: 89
-- [Aratako/Japanese-Novel-Reward-TinySwallow-1.5B](https://huggingface.co/Aratako/Japanese-Novel-Reward-TinySwallow-1.5B)
-  - A fine-tuned Reward model for evaluating the quality of Japanese novels using the TinySwallow-1.5B base model, intended for applications like generative models' reinforcement learning, with noted biases.
-  - Downloads: 58
-- [Tomohiro/RealMedNLP_CR_JA](https://huggingface.co/Tomohiro/RealMedNLP_CR_JA)
+  - A binary classification model trained using AutoNLP with high accuracy and F1 score, accessible via cURL.
+  - Downloads: 143
+- [sociocom/MedNER-CR-JA](https://huggingface.co/sociocom/MedNER-CR-JA)
   - A Python model for named entity recognition in Japanese medical documents, including files for tagging and prediction.
-  - Downloads: 53
-- [Mizuiro-sakura/deberta-v2-large-japanese-finetuned-ner](https://huggingface.co/Mizuiro-sakura/deberta-v2-large-japanese-finetuned-ner)
-  - This repository contains a fine-tuned DeBERTa-v2-large-japanese model for Named Entity Recognition using a Japanese Wikipedia dataset.
-  - Downloads: 36
-- [bennexx/cl-tohoku-bert-base-japanese-v3-jlpt-classifier](https://huggingface.co/bennexx/cl-tohoku-bert-base-japanese-v3-jlpt-classifier)
-  - A text classifier fine-tuned on ~5000 labeled sentences to assign JLPT levels, achieving good performance with varying precision, recall, and F1 scores across levels N5 to N1.
-  - Downloads: 34
+  - Downloads: 121
+- [Mizuiro-sakura/luke-japanese-large-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-finetuned-ner)
+  - A fine-tuned Luke Japanese large model for Named-Entity-Recognition using a Wikipedia dataset, achieving an F1 score of 0.845.
+  - Downloads: 98
+- [Mizuiro-sakura/luke-japanese-base-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-ner)
+  - This repository contains a fine-tuned LUKEmodel for Named-Entity Recognition (NER) using a Japanese Wikipedia dataset, achieving good accuracy in organizational name recognition.
+  - Downloads: 95
+- [llm-book/bert-base-japanese-v3-crf-ner-wikipedia-dataset](https://huggingface.co/llm-book/bert-base-japanese-v3-crf-ner-wikipedia-dataset)
+  - A CRF-fine-tuned BERT model for named entity recognition on the Wikipedia dataset, based on llm-book/bert-base-japanese-v3.
+  - Downloads: 64
+- [Aratako/Japanese-Novel-Reward-TinySwallow-1.5B](https://huggingface.co/Aratako/Japanese-Novel-Reward-TinySwallow-1.5B)
+  - A fine-tuned Reward Model for evaluating the quality of Japanese novels using TinySwallow-1.5B, primarily for novel generation models' reinforcement learning, with potential biases from text style and genre.
+  - Downloads: 60
+- [Tomohiro/RealMedNLP_CR_JA](https://huggingface.co/Tomohiro/RealMedNLP_CR_JA)
+  - A Python model for named entity recognition in Japanese medical documents, including files for tags, attributes, text input, and prediction.
+  - Downloads: 49
 - [spacy/ja_core_news_lg](https://huggingface.co/spacy/ja_core_news_lg)
-  - The ja_core_news_lg pipeline for spaCy version 3.7.0 includes tok2vec, morphologizer, parser, senter, attribute_ruler, and ner components, optimized for CPU with 480,443 unique vectors in a 300-dimensional space based on UD Japanese GSD v2.8.
-  - Downloads: 27
-- [Mizuiro-sakura/deberta-v2-base-japanese-finetuned-ner](https://huggingface.co/Mizuiro-sakura/deberta-v2-base-japanese-finetuned-ner)
-  - This GitHub repository provides a fine-tuned DeBERTa-v2-base-japanese model for Named Entity Recognition (NER) using a Japanese Wikipedia dataset.
-  - Downloads: 25
+  - A CPU-optimized spaCy pipeline for Japanese, version 3.7.0, including tok2vec, morphologizer, parser, senter, attribute_ruler, and ner components.
+  - Downloads: 40
+- [oshizo/japanese-sexual-moderation-v2](https://huggingface.co/oshizo/japanese-sexual-moderation-v2)
+  - This GitHub repository contains a fine-tuned model for scoring whether short Japanese texts are sexual, ranging from 0 to 1 with varying limits, using sequence classification.
+  - Downloads: 35
+- [bennexx/cl-tohoku-bert-base-japanese-v3-jlpt-classifier](https://huggingface.co/bennexx/cl-tohoku-bert-base-japanese-v3-jlpt-classifier)
+  - A fine-tuned BERT model classifies sentences into JLPT levels with varying precision, achieving good performance on labeled training data.
+  - Downloads: 33
+- [Mizuiro-sakura/deberta-v2-large-japanese-finetuned-ner](https://huggingface.co/Mizuiro-sakura/deberta-v2-large-japanese-finetuned-ner)
+  - This GitHub repository contains a fine-tuned DeBERTa-v2-large-Japanese model for Named Entity Recognition using a Japanese Wikipedia dataset.
+  - Downloads: 33
 - [IoriU/kmnist49-classifier](https://huggingface.co/IoriU/kmnist49-classifier)
   - A Fully Convolutional Neural Network model for classifying Japanese hiragana characters from the Kuzushiji 49 MNIST dataset.
   - Downloads: 25
-- [kynea0b/cl-tohoku-bert-base-japanese-v3-wrime-8-emotions](https://huggingface.co/kynea0b/cl-tohoku-bert-base-japanese-v3-wrime-8-emotions)
-  - The repository provides a dataset file named wrime-ver1.tsv.
-  - Downloads: 21
 - [sonoisa/t5-qiita-title-generation](https://huggingface.co/sonoisa/t5-qiita-title-generation)
   - A model for generating titles from article text.
-  - Downloads: 20
+  - Downloads: 21
 - [spacy/ja_core_news_trf](https://huggingface.co/spacy/ja_core_news_trf)
-  - The GitHub repository ja_core_news_trf version 3.7.2 includes a Japanese transformer pipeline with transformer, morphologizer, parser, attribute ruler, and NER components for spaCy ≥3.7.0 <3.8.0.
+  - The GitHub repository ja_core_news_trf version 3.7.2 includes a Japanese transformer pipeline with components for transformer processing, morphological analysis, parsing, named entity recognition, and is compatible with spaCy >=3.7.0,<3.8.0.
+  - Downloads: 21
+- [kynea0b/cl-tohoku-bert-base-japanese-v3-wrime-8-emotions](https://huggingface.co/kynea0b/cl-tohoku-bert-base-japanese-v3-wrime-8-emotions)
+  - The repository includes a dataset file named wrime-ver1.tsv.
+  - Downloads: 21
+- [Mizuiro-sakura/deberta-v2-base-japanese-finetuned-ner](https://huggingface.co/Mizuiro-sakura/deberta-v2-base-japanese-finetuned-ner)
+  - This repository contains a fine-tuned DeBERTa-v2-base-japanese model for Named Entity Recognition using a Japanese Wikipedia dataset.
+  - Downloads: 20
+- [spacy/ja_core_news_md](https://huggingface.co/spacy/ja_core_news_md)
+  - A CPU-optimized spaCy pipeline for Japanese, version 3.7.0, including tok2vec, morphologizer, parser, senter, ner, and attribute_ruler components.
   - Downloads: 19
 - [ithattieu/XML-RoBERTa-NER-Japanese](https://huggingface.co/ithattieu/XML-RoBERTa-NER-Japanese)
   - XML-RoBERTa-NER-Japanese This model is a fine-tuned version of xlm-roberta-base on the Wikipedia Japanese NER dataset from Stockmark Inc.
   - Downloads: 19
-- [spacy/ja_core_news_md](https://huggingface.co/spacy/ja_core_news_md)
-  - A CPU-optimized spaCy pipeline for Japanese text processing, including tokenization, parsing, named entity recognition, and 480,000+ unique vectors based on UD Japanese GSD v2.8.
-  - Downloads: 17
-- [Mizuiro-sakura/bert-large-japanese-v2-finetuned-ner](https://huggingface.co/Mizuiro-sakura/bert-large-japanese-v2-finetuned-ner)
-  - A fine-tuned BERT model for Named-Entity-Recognition based on cl-tohoku/bert-large-japanese-v2 using a Japanese Wikipedia dataset, achieving an accuracy of 0.862.
-  - Downloads: 16
-- [ohtaman/falcon-7b-kokkai2022-lora](https://huggingface.co/ohtaman/falcon-7b-kokkai2022-lora)
-  - A model trained on Japanese parliament proceedings from 2022 using GPU resources, demonstrated at the #ABCILLM hackathon.
-  - Downloads: 16
-- [oshizo/japanese-sexual-moderation-v2](https://huggingface.co/oshizo/japanese-sexual-moderation-v2)
-  - A fine-tuned model scoring whether short text is sexual on a 0-1 scale with variations outside this range, using studio-ousia/luke-japanese-large-lite.
-  - Downloads: 16
 - [taishi-i/awesome-japanese-nlp-classification-model](https://huggingface.co/taishi-i/awesome-japanese-nlp-classification-model)
-  - The baseline model is trained on an awesome-japanese-nlp-classification-dataset, achieving high precision and accuracy with evaluation metrics provided.
+  - The baseline model for the awesome-japanese-nlp-classification-dataset achieves high precision and recall, with evaluation results showing accuracy of 0.97, and supports label-wise and weighted average metrics; it requires `transformers` library installation for usage in classification tasks.
   - Downloads: 15
+- [ohtaman/falcon-7b-kokkai2022-lora](https://huggingface.co/ohtaman/falcon-7b-kokkai2022-lora)
+  - A model trained on 2022 Japanese parliament proceedings using anational Diet Library API, demonstrated at the #ABCILLM hackerthon with multi-GPU support.
+  - Downloads: 14
 - [ThePioneer/NaturalGirlyVoice](https://huggingface.co/ThePioneer/NaturalGirlyVoice)
-  - This repository includes a So-vits-svc 4.0 model for generating natural, youthful female voices from one's own voice data, along with notebooks and pre-trained G_0.pth and D_0.pth files.
+  - This repository includes a So-vits-svc 4.0 model for generating natural, friendly-sounding female voices from one's own voice sample, along with training data and notebooks.
   - Downloads: 13
-- [AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
-  - The repository houses a fine-tuned Llama-2-Chat 70B model for Japanese, using the CC-BY-SA 4.0 licensed izumi-lab/llm-japanese-dataset.
+- [Mizuiro-sakura/bert-large-japanese-v2-finetuned-ner](https://huggingface.co/Mizuiro-sakura/bert-large-japanese-v2-finetuned-ner)
+  - A fine-tuned BERT model for Named-Entity-Recognition (NER) based on cl-tohoku/bert-large-japanese-v2 using a Japanese Wikipedia dataset, with an accuracy of 0.862.
   - Downloads: 12
+- [AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
+  - The GitHub repository contains a fine-tuned Llama-2-Chat 70B model for Japanese instruction data, using the CC-BY-SA 4.0 licensed izumi-lab/llm-japanese-dataset.
+  - Downloads: 11
 - [ganchengguang/Yoko-7B-Japanese-v1](https://huggingface.co/ganchengguang/Yoko-7B-Japanese-v1)
-  - A QLoRA-fine-tuned LLaMA2-7B model trained on 49,000 chat and 280,000 non-chat samples from the Guanaco dataset, with improved Chinese and Japanese performance, tested using test.py.
+  - A QLoRA-fine-tuned LLaMA2-7B model trained on the Guanaco dataset for Chinese and Japanese with improved performance, using test.py for testing.
   - Downloads: 11
 ### Responsible NLP
 - [Lasorco/lametta](https://huggingface.co/Lasorco/lametta)
-  - A personalized model for generating low-breasted female characters, requiring age editing and possibly failing with prompts for other outputs; VAE and sampling recommendations provided.
-  - Downloads: 14,521
+  - This GitHub repo features a merged model for personal use, tailored to generate youthful girls with minimal age adjustments needed but may fail on other outputs; it recommends using clearVAE or Anything VAE and adjusting hires steps if colors shift.
+  - Downloads: 19,854
 - [aixsatoshi/Meta-Llama-3.1-8B-Instruct-plus-Swallow](https://huggingface.co/aixsatoshi/Meta-Llama-3.1-8B-Instruct-plus-Swallow)
   - Swallow-8Bは追加の日本語継続事前学習により日本語が大変流暢なLlama-3派生モデルです。
   - Downloads: 8,064
 - [ThePioneer/CoolerWaifuDiffusion](https://huggingface.co/ThePioneer/CoolerWaifuDiffusion)
-  - The repository merges CoolJapanDiffusion 2.1.1 and WaifuDiffusion 1.4 anime epoch2, details the merging ratios in ckpt filenames, and includes instructions for replacing models while avoiding coloration issues with specific SD versions.
-  - Downloads: 3,093
+  - The repository merges CoolJapanDiffusion 2.1.1 and WaifuDiffusion 1.4 anime epoch2, adjusts coloration issues with SD 2.1 768, and provides a Colab WebUI implementation.
+  - Downloads: 3,232
 - [litagin/anime-whisper](https://huggingface.co/litagin/anime-whisper)
-  - Anime Whisper is a specialized Japanese voice recognition model fine-tuned on 5,300 hours of anime dialogue data, excelling particularly in anime acting lines while showing unique performance even for other voices.
-  - Downloads: 2,083
+  - Anime Whisper is a specialized Japanese ASR model fine-tuned on 5,300 hours of anime voice-lines, excelling particularly in this domain while maintaining high performance for other voices; use it without initial prompts to avoid quality issues.
+  - Downloads: 2,386
 - [yasu-oh/sarashina2.2-3b-instruct-v0.1-GGUF](https://huggingface.co/yasu-oh/sarashina2.2-3b-instruct-v0.1-GGUF)
-  - A GitHub repository for the sarashina2.2-3b-instruct-v0.1-GGUF model using the sbintuitions/sarashina2.2-3b-instruct-v0.1 base model and imatrix dataset.
-  - Downloads: 581
+  - A GitHub repository using the sarashina2.2-3b-instruct-v0.1-GGUF base model and the TFMC/imatrix-dataset-for-japanese-llm dataset for Japanese language models.
+  - Downloads: 594
 - [knosing/japanese_ner_model](https://huggingface.co/knosing/japanese_ner_model)
   - Model Description
   - Downloads: 178
@@ -3714,13 +3759,13 @@ This list is sorted by downloads as of March 25, 2025.
   - モデルの説明(English explanation is below.
   - Downloads: 41
 - [ThePioneer/MoeDiffusionPlusPlus](https://huggingface.co/ThePioneer/MoeDiffusionPlusPlus)
-  - A GitHub repository containing a model mix of MoeDiffusion, HassanBlend, and VMix03 for generating black-haired ponytail faces, with adjustments to improve control and reduce NSFW outputs.
-  - Downloads: 21
+  - The repository merges models YaguruMagiku and AbyssOrangeMix2 to produce SFW black hair ponytail faces, with some improvements in control and color accuracy.
+  - Downloads: 23
 - [SoMiyagawa/AinuTrans-2.0](https://huggingface.co/SoMiyagawa/AinuTrans-2.0)
   - シサム語による説明 アイヌ語と日本語の双方向機械翻訳モデルです。
   - Downloads: 17
 - [ThePioneer/MoeSharpV1](https://huggingface.co/ThePioneer/MoeSharpV1)
-  - MoeDiffusionPlusPlus 0.7 integrates WaifuDiffusion and StableDiffusion VAEs to improve coloration, and merges with DreamShaper 3.3 for broader expression, capable of generating high Beauty Score realistic portraits andidealized characters.
+  - MoeDiffusionPlusPlus 0.7 integrates WaifuDiffusion and StableDiffusion VAEs to improve coloration, partnering with DreamShaper 3.3 for versatile image generation, including high-realism portraits.
   - Downloads: 13
 - [aixsatoshi/Meta-Llama-3.1-8B-Instruct-plus-Swallow-b](https://huggingface.co/aixsatoshi/Meta-Llama-3.1-8B-Instruct-plus-Swallow-b)
   - Swallow-8Bは追加の日本語継続事前学習により日本語が大変流暢なLlama-3派生モデルです。
@@ -3729,7 +3774,7 @@ This list is sorted by downloads as of March 25, 2025.
   - モデルの説明(English explanation is below.
   - Downloads: 13
 - [keitokei1994/Llama-3-Umievo-Shizuko-sqlcoder-2x8B](https://huggingface.co/keitokei1994/Llama-3-Umievo-Shizuko-sqlcoder-2x8B)
-  - A Mixture of Experts (MoE) language model fine-tuned on SQL datasets, combining Llama-3-Umievo-itr014-Shizuko-8b with rdefog/llama-3-sqlcoder-8b using MergeKit.
+  - A Mixture of Experts (MoE) language model created using MergeKit, combining Llama-3-Umievo-itr014-Shizuko-8b with a SQL-fine-tuned rdefog/llama-3-sqlcoder-8b for bilingual language and SQL generation.
   - Downloads: 12
 - [ThePioneer/MoeDiffusion](https://huggingface.co/ThePioneer/MoeDiffusion)
   - モデル説明 (model explanation) YaguruMagiku 0.6 : AbyssOrangeMix2_sfw 0.4 マージ元のルーツにNAIリークが含まれるという噂があるので、NAIリークアンチには非推奨 理想の黒髪ポニテ顔が出せるYaguruMagikuを、ある程度顔が近くて制御しやすいAbyssOrangeMix2と混ぜてみた。
@@ -3745,65 +3790,65 @@ This list is sorted by downloads as of March 25, 2025.
   - 本モデルについて About this model.
   - Downloads: 816
 - [stabilityai/japanese-stable-clip-vit-l-16](https://huggingface.co/stabilityai/japanese-stable-clip-vit-l-16)
-  - By agreeing, users accept the License Agreement and acknowledge Stability AI's Privacy Policy.
-  - Downloads: 390
+  - -clicking "Agree" signifies acceptance of the License Agreement and Privacy Policy of Stability AI.
+  - Downloads: 439
 - [ptaszynski/yacis-electra-small-japanese-cyberbullying](https://huggingface.co/ptaszynski/yacis-electra-small-japanese-cyberbullying)
-  - AJapanese ELECTRA Small model fine-tuned for cyberbullying detection, pretrained on a 5.6 billion-word corpus and fine-tuned onbalanced datasets from BBS and Twitter comments.
-  - Downloads: 222
+  - This repository contains an ELECTRA Small model fine-tuned for detecting cyberbullying in Japanese, pretrained on a 5.6 billion word corpus and fine-tuned on balanced datasets from BBS comments and Twitter.
+  - Downloads: 274
 - [stabilityai/japanese-stable-diffusion-xl](https://huggingface.co/stabilityai/japanese-stable-diffusion-xl)
-  - By agreeing, users consent to the License Agreement and acknowledge Stability AI's Privacy Policy.
-  - Downloads: 131
+  - By agreeing, you accept the License Agreement and acknowledge Stability AI's Privacy Policy.
+  - Downloads: 144
+- [Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition](https://huggingface.co/Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition)
+  - This repository contains a private demonstration setup.
+  - Downloads: 123
 - [TomokiFujihara/twhin-bert-large-japanese-offensiveness-estimation](https://huggingface.co/TomokiFujihara/twhin-bert-large-japanese-offensiveness-estimation)
-  - A model fine-tuned on manually labeled social media comments using the Twitter/twhin-bert-large, with 27 epochs, batch size 16, and max token length 256, achieving macro F1 scores of 64.8%.
+  - A model fine-tuned on a manually annotated dataset of social media comments using Twitter/twhin-bert-large, with 27 epochs, batch size 16, max token length 256, and macro F1 score of 64.8%.
   - Downloads: 109
 - [TomokiFujihara/luke-japanese-large-lite-offensiveness-estimation](https://huggingface.co/TomokiFujihara/luke-japanese-large-lite-offensiveness-estimation)
-  - The model, fine-tuned for 27 epochs with a batch size of 16 and maximum token length of 256 on manually annotated SNS comments, achieves macro F1 scores of 64.0% for offensive content detection.
+  - A model fine-tuned on manually annotated offensive comments from SNS, achieving macro F1 of 64.0%, with key hyperparameters including 27 epochs and Adam optimizer.
   - Downloads: 106
 - [TomokiFujihara/twhin-bert-base-japanese-offensiveness-estimation](https://huggingface.co/TomokiFujihara/twhin-bert-base-japanese-offensiveness-estimation)
-  - A fine-tuned model based on Twitter/twhin-bert-base using a manually annotated dataset for social media comments, achieving macro F1 scores of 64.7% and other metrics with 27 epochs, batch size 16, and maximum token length 256.
+  - A model fine-tuned on a curated dataset of manually labeled social media comments for toxicity, achieving macro F1 scores of 64.7% and overall accuracy of 65.6%.
   - Downloads: 106
 - [stabilityai/japanese-stable-vlm](https://huggingface.co/stabilityai/japanese-stable-vlm)
-  - By agreeing, users accept the License Agreement and acknowledge Stability AI's Privacy Policy.
+  - By agreeing, users acknowledge compliance with Stability AI's License Agreement and Privacy Policy.
   - Downloads: 104
-- [Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition](https://huggingface.co/Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition)
-  - This repository is a private demo-only project.
-  - Downloads: 86
 - [kit-nlp/transformers-ud-japanese-electra-base-discriminator-cyberbullying](https://huggingface.co/kit-nlp/transformers-ud-japanese-electra-base-discriminator-cyberbullying)
-  - An ELECTRA Base model for Japanese language fine-tuning focused on cyberbullying detection, derived from Megagon Labs' base and trained on a balanced dataset combining two major Japanese datasets. Licenses: CC BY-SA 4.0.
-  - Downloads: 44
+  - An ELECTRA Base model for Japanese language finetuned on balanced datasets for automatic cyberbullying detection, licensed under CC BY-SA 4.0.
+  - Downloads: 34
 - [stabilityai/japanese-stablelm-2-instruct-1_6b](https://huggingface.co/stabilityai/japanese-stablelm-2-instruct-1_6b)
-  - By agreeing, users accept the License Agreement and acknowledge Stability AI's Privacy Policy.
-  - Downloads: 32
+  - By agreeing, you accept the License Agreement and confirm your acknowledgment of Stability AI's Privacy Policy.
+  - Downloads: 28
 - [natsusakiyomi/Riga_Collection](https://huggingface.co/natsusakiyomi/Riga_Collection)
-  - Riga_collection is a merged model with strong background and detail expression, inspired by HimawariMix but tuned according to Riga's ideas, prohibited for commercial use or altering model permissions.
+  - Riga_collection is a merged model with strong background and detail expression, inspired by HimawariMix but tuned according to ria's ideas; its use is restricted to non-commercial personal projects.
   - Downloads: 22
 - [stabilityai/japanese-stablelm-2-base-1_6b](https://huggingface.co/stabilityai/japanese-stablelm-2-base-1_6b)
   - By clicking "Agree", you agree to the License Agreement and acknowledge Stability AI's Privacy Policy.
   - Downloads: 20
-- [rinna/japanese-stable-diffusion](https://huggingface.co/rinna/japanese-stable-diffusion)
-  - A CreativeML OpenRAIL-M licensed model for non-harmful use with redistribution of weights allowed.
-  - Downloads: 19
 - [DeL-TaiseiOzaki/Tengentoppa-llm-jp-3.7B-reasoning-instruct](https://huggingface.co/DeL-TaiseiOzaki/Tengentoppa-llm-jp-3.7B-reasoning-instruct)
-  - The repository includes the instructions for the llm-jp language model.
+  - A Japanese instruction model from the llm-jp project.
   - Downloads: 14
 - [kit-nlp/electra-small-japanese-discriminator-cyberbullying](https://huggingface.co/kit-nlp/electra-small-japanese-discriminator-cyberbullying)
-  - An ELECTRA Small model for Japanese language fine-tuned on balanced datasets for automatic cyberbullying detection, licensed under CC BY-SA 4.0.
+  - An ELECTRA Small model for Japanese language fine-tuning on a balanced dataset for automatic cyberbullying detection, licensed under CC BY-SA 4.0.
+  - Downloads: 13
+- [rinna/japanese-stable-diffusion](https://huggingface.co/rinna/japanese-stable-diffusion)
+  - This repository contains a CreativeML OpenRAIL-M licensed model that can be used freely, with restrictions on illegal or harmful content, and allows for weight redistribution.
   - Downloads: 13
 - [hs-hf/m2v-LaBSE-distilled](https://huggingface.co/hs-hf/m2v-LaBSE-distilled)
   - m2v-LaBSE-distilled Model Card
   - Downloads: 12
 ### Sentiment Analysis
 - [Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime)
-  - This fine-tuned model based on Luke-japanese-large-lite analyzes eight emotions in text using the wrime dataset.
-  - Downloads: 37,013
+  - This fine-tuned Luke-japanese-large-lite model analyzes eight emotions (joy, sadness, anticipation, surprise, anger, fear, disgust, and trust) based on the wrime dataset.
+  - Downloads: 36,344
 - [jarvisx17/japanese-sentiment-analysis](https://huggingface.co/jarvisx17/japanese-sentiment-analysis)
-  - A model trained from scratch on the chABSA dataset for Japanese sentiment analysis, achieving perfect accuracy and F1 score.
-  - Downloads: 17,350
+  - A Japanese sentiment analysis model trained from scratch on the chABSA dataset with perfect accuracy and F1 score.
+  - Downloads: 17,087
 - [kit-nlp/bert-base-japanese-sentiment-irony](https://huggingface.co/kit-nlp/bert-base-japanese-sentiment-irony)
-  - The GitHub repository houses a BERT Base model for Japanese sentiment analysis and irony detection, fine-tuned on ironic tweets, licensed under CC BY-SA 4.0.
-  - Downloads: 822
+  - The GitHub repository houses a BERT Base model for Japanese sentiment analysis and irony detection, finetuned on ironic tweets, licensed under CC BY-SA 4.0.
+  - Downloads: 567
 - [c299m/japanese_stock_sentiment](https://huggingface.co/c299m/japanese_stock_sentiment)
-  - A sentiment analysis model trained to classify Japanese stock-related comments as either bullish or bearish.
+  - A sentiment analysis model trained to classify comments on Japanese stocks as bullish or bearish.
   - Downloads: 102
 - [RPAmodels/PN-analysis](https://huggingface.co/RPAmodels/PN-analysis)
   - japanese-sentiment-analysis This model is the work of jarvisx17 and was trained from scratch on the chABSA dataset.
@@ -3815,36 +3860,36 @@ This list is sorted by downloads as of March 25, 2025.
   - X(Twitter) アカウント ぜひ遊びにきてね。
   - Downloads: 36
 - [minutillamolinara/bert-japanese_finetuned-sentiment-analysis](https://huggingface.co/minutillamolinara/bert-japanese_finetuned-sentiment-analysis)
-  - A BERT model fine-tuned from scratch on the Japanese Sentiment Polarity Dictionary dataset for sentiment analysis.
-  - Downloads: 23
+  - A BERT model finetuned on the Japanese Sentiment Polarity Dictionary dataset for sentiment analysis.
+  - Downloads: 26
 - [LoneWolfgang/bert-for-japanese-twitter](https://huggingface.co/LoneWolfgang/bert-for-japanese-twitter)
-  - A specialized BERT model adapted for Japanese Twitter, trained on a Twitter corpus, suitable for tasks like sentiment analysis and defamation detection, with applications in fined-tuning for specific NLP tasks.
+  - A BERT model adapted for Japanese Twitter, fine-tuned on a Twitter corpus, recommended for tasks like sentiment analysis and defamation detection.
   - Downloads: 22
-- [bardsai/finance-sentiment-ja-base](https://huggingface.co/bardsai/finance-sentiment-ja-base)
-  - A BERT-based Japanese finance sentiment analysis model trained on translated Financial PhraseBank data that classifies news into positive, negative, and neutral sentiments.
-  - Downloads: 21
+- [kit-nlp/bert-base-japanese-sentiment-cyberbullying](https://huggingface.co/kit-nlp/bert-base-japanese-sentiment-cyberbullying)
+  - A BERT Base model for Japanese language finetuned on a balanced dataset for automatic cyberbullying detection, licensed under CC BY-SA 4.0.
+  - Downloads: 17
 - [kit-nlp/transformers-ud-japanese-electra-base-discriminator-irony](https://huggingface.co/kit-nlp/transformers-ud-japanese-electra-base-discriminator-irony)
-  - A Japanese ELECTRA Base model finetuned for irony detection,licensed under CC BY-SA 4.0, derived from transformers-ud-japanese-electra-ginza and trained on ironic tweets.
-  - Downloads: 20
+  - A finetuned ELECTRA Base model for Japanese irony detection, licensed under CC BY-SA 4.0.
+  - Downloads: 17
+- [bardsai/finance-sentiment-ja-base](https://huggingface.co/bardsai/finance-sentiment-ja-base)
+  - A BERT-based Japanese financial news sentiment analysis model trained on translated Financial PhraseBank data, providing positive, negative, and neutral labels.
+  - Downloads: 17
 - [kit-nlp/electra-small-japanese-discriminator-irony](https://huggingface.co/kit-nlp/electra-small-japanese-discriminator-irony)
-  - A fine-tuned ELECTRA small Japanese model for irony detection, licensed under CC BY-SA 4.0.
+  - A fine-tuned ELECTRA small Japanese model for irony detection in tweets, licensed under CC BY-SA 4.0.
   - Downloads: 13
 - [kit-nlp/yacis-electra-small-japanese-irony](https://huggingface.co/kit-nlp/yacis-electra-small-japanese-irony)
-  - YACIS ELECTRA small Japanese is a finetuned model for automatic irony detection in tweets, licensed under CC BY-SA 4.0.
-  - Downloads: 13
-- [kit-nlp/bert-base-japanese-sentiment-cyberbullying](https://huggingface.co/kit-nlp/bert-base-japanese-sentiment-cyberbullying)
-  - A BERT Base model for Japanese language fine-tuned on a balanced dataset for automatic cyberbullying detection,licensed under CC BY-SA 4.0.
+  - YACIS ELECTRA Small Japanese is afinetunedmodel for automatic irony detection in tweets, licensed under CC BY-SA 4.0.
   - Downloads: 13
 - [offtoung/tsukuyomi-chan-calm2-7b](https://huggingface.co/offtoung/tsukuyomi-chan-calm2-7b)
-  - A model fined-tuned on the つくよみちゃん dataset using calm-2-7b-chat, available for free use within specified licenses.
+  - A model fine-tuned on the つくよみちゃん dataset using calm-2-7b-chat, licensed for free use under specified terms.
   - Downloads: 11
 ### Reasoning
 - [lightblue/DeepSeek-R1-Distill-Qwen-7B-Japanese](https://huggingface.co/lightblue/DeepSeek-R1-Distill-Qwen-7B-Japanese)
-  - A Japanese fine-tuned version of DeepSeek-R1 for consistent bilingual English and Japanese reasoning.
-  - Downloads: 2,222
+  - This repository contains a Japanese-fine-tuned version of DeepSeek's R1 model for improved bilingual reasoning in Japanese, English, and Chinese.
+  - Downloads: 2,071
 - [macadeliccc/polyglot-math-4x7b](https://huggingface.co/macadeliccc/polyglot-math-4x7b)
-  - A multilingual model combining Chinese and Japanese capabilities using a Mixture of Experts approach, optimized for GSM8K evaluation with 20GB VRAM, available in code example.
-  - Downloads: 1,622
+  - A multilingual Polyglot-4x7b model combining Chinese and Japanese capabilities with GSM8K evaluation support.
+  - Downloads: 1,541
 - [mmnga/mathstral-7B-v0.1-gguf](https://huggingface.co/mmnga/mathstral-7B-v0.1-gguf)
   - mathstral-7B-v0.1-gguf mistralaiさんが公開しているmathstral-7B-v0.1のggufフォーマット変換版です。
   - Downloads: 1,067
@@ -3852,48 +3897,48 @@ This list is sorted by downloads as of March 25, 2025.
   - YuisekinAIEvol-Mistral-7B-ja-math-v0.1.1-gguf yuisekiさんが公開しているYuisekinAIEvol-Mistral-7B-ja-math-v0.1.1のggufフォーマット変換版です。
   - Downloads: 811
 - [den2nova/FlexDreamHK](https://huggingface.co/den2nova/FlexDreamHK)
-  - FlexDreamHK is a risk-optimized model derived from Stable Diffusion and Wifu Diffusion, featuring anime-style illustrations with transparent LoRA weights and datasets.
-  - Downloads: 396
-- [cyberagent/xlm-roberta-large-jnli-jsick](https://huggingface.co/cyberagent/xlm-roberta-large-jnli-jsick)
-  - A Japanese natural language inference model trained on JGLUE-JNLI and JSICK datasets using SentenceTransformers Cross-Encoder, outputting scores for contradiction, entailment, and neutral labels.
-  - Downloads: 140
+  - FlexDreamHK is a model combining Stable Diffusion and Wifu Diffusion with LoRA adjustments, aiming to balance risk and enhance specific illustrations while maintaining transparency through open-source methods.
+  - Downloads: 258
 - [Mizuiro-sakura/luke-large-commonsenseqa-japanese](https://huggingface.co/Mizuiro-sakura/luke-large-commonsenseqa-japanese)
-  - This fine-tuned model for the JCommonsenseQA task based on luke-japanese-large achieves an accuracy of 83.82%.
+  - This repository contains a fine-tuned luke-japanese-large model for JCommonsenseQA tasks with accuracy of 83.82.
   - Downloads: 99
+- [cyberagent/xlm-roberta-large-jnli-jsick](https://huggingface.co/cyberagent/xlm-roberta-large-jnli-jsick)
+  - A Japanese natural language inference model trained on JGLUE-JNLI and JSICK datasets using SentenceTransformers Cross-Encoder, providing scores for contradiction, entailment, and neutral labels.
+  - Downloads: 72
 - [HachiML/Llama-3.1-Swallow-8B-v0.2-reasoningvector-deepseek-r1](https://huggingface.co/HachiML/Llama-3.1-Swallow-8B-v0.2-reasoningvector-deepseek-r1)
-  - A modified Japanese LLaMA 8B model enhanced with reasoning capabilities from a distilled DeepSeek model.
-  - Downloads: 63
+  - A Japanese LLaMA 3.1-8B model enhanced with reasoning capabilities from DeepSeek's distilled model.
+  - Downloads: 41
 - [Mizuiro-sakura/deberta-v2-japanese-tiny-finetuned-commonsenseqa](https://huggingface.co/Mizuiro-sakura/deberta-v2-japanese-tiny-finetuned-commonsenseqa)
-  - This repository contains a fine-tuned DeBERTa-v2-tiny-japanese model for CommonsenseQA tasks using the JGLUE/JCommonsenseQA dataset.
-  - Downloads: 27
+  - This repository contains a fine-tuned DeBERTa-v2-tiny-Japanese model for CommonsenseQA tasks using the JGLUE/JCommonsenseQA dataset.
+  - Downloads: 31
 - [Mizuiro-sakura/deberta-v2-japanese-base-finetuned-commonsenseqa](https://huggingface.co/Mizuiro-sakura/deberta-v2-japanese-base-finetuned-commonsenseqa)
-  - This GitHub repository contains a fine-tuned DeBERTa-v2-base-Japanese model for CommonsenseQA tasks using the JGLUE/JCommonsenseQA dataset.
-  - Downloads: 26
+  - This repository contains a fine-tuned DeBERTa-v2-base-Japanese model for CommonsenseQA tasks using the JGLUE/JCommonsenseQA dataset.
+  - Downloads: 29
 - [nlp-waseda/tacomet-gpt2-xl-japanese](https://huggingface.co/nlp-waseda/tacomet-gpt2-xl-japanese)
-  - TaCOMET_ja is a fine-tuned Japanese version of the COMET model using causal language modeling on TimeATOMIC data.
+  - The TaCOMET_ja is a fine-tuned COMET model on Japanese TimeATOMIC data using causal language modeling, segmented with Juman++ and tokenized with SentencePiece.
   - Downloads: 18
-- [Mizuiro-sakura/luke-japanese-base-finetuned-jnli](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-jnli)
-  - A fine-tuned LUKEmodel for JNLI task with accuracy of 0.898, useful for natural language inference on Japanese text.
-  - Downloads: 14
 - [Mizuiro-sakura/deberta-v2-base-juman-finetuned-commonsenseqa](https://huggingface.co/Mizuiro-sakura/deberta-v2-base-juman-finetuned-commonsenseqa)
-  - This repository contains a fine-tuned DeBERTa-V2-Base-Japanese model for CommonsenseQA using the JGLUE/JCommonsenseQA dataset, requiring Juman morphological analysis tool installation.
-  - Downloads: 12
+  - This repository contains a fine-tuned DeBERTa-v2-base-japanese model for the CommonsenseQA task, using the JGLUE/JCommonsenseQA dataset and Juman morphological analysis.
+  - Downloads: 15
+- [Mizuiro-sakura/luke-japanese-base-finetuned-jnli](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-finetuned-jnli)
+  - A fine-tuned model based on Luke-Japanese-base for the JNLI task, achieving an accuracy of 0.8977, used for natural language inference.
+  - Downloads: 14
 - [Mizuiro-sakura/luke-japanese-base-commonsenseqa](https://huggingface.co/Mizuiro-sakura/luke-japanese-base-commonsenseqa)
-  - A fine-tuned Luke-Japanese-base model for commonsense QA tasks, achieving high accuracy of 80.07, based on the JGLUE JCommonsenseQA dataset.
+  - This fine-tuned model based on luke-japanese-base achieves 80.07% accuracy on JCommonsenseQA and is suitable for selective QA tasks.
   - Downloads: 11
 ### Information Retrieval
 - [pkshatech/GLuCoSE-base-ja-v2](https://huggingface.co/pkshatech/GLuCoSE-base-ja-v2)
-  - GLuCoSe v2 is a general Japanese text embedding model optimized for retrieval tasks, running on CPU, and excelling in measuring semantic similarity and passage retrieval.
-  - Downloads: 258,150
+  - GLuCoSE v2 is a general Japanese text embedding model optimized for retrieval tasks and semantic similarity measurement, running on CPU.
+  - Downloads: 211,458
 - [JujoHotaru/lora](https://huggingface.co/JujoHotaru/lora)
-  - Hotaru Jujo's LoRA collection, dual-licensed under MIT or CreativeML Open RAIL-M, is available for download with optional social sharing.
+  - Hotaru Jujo's LoRA collection is distributed under MIT or CreativeML Open RAIL-M license and can be used without prior consent.
   - Downloads: 7,607
 - [bclavie/JaColBERT](https://huggingface.co/bclavie/JaColBERT)
-  - JaColBERT is an initial release of a Japanese-only document retrieval model that outperforms previous models and approaches the performance of multilingual ones.
-  - Downloads: 523
+  - JaColBERT is an initial release of a Japanese-only document retrieval model that outperforms previous common Japanese models and nearly matches multilingual models.
+  - Downloads: 583
 - [llm-book/bert-base-japanese-v3-bpr-passage-aio](https://huggingface.co/llm-book/bert-base-japanese-v3-bpr-passage-aio)
-  - A fine-tuned passage encoder for the BPR document retrieval model using bert-base-japanese-v3, based on Chapter 9 of "大規模言語モデル入門," with related notebooks and datasets available.
-  - Downloads: 43
+  - A fine-tuned BPR passage encoder for document retrieval using bert-base-japanese-v3, developed through training on llm-book/aio-retriever and detailed in Chapter 9 of "大规模语言模型入门".
+  - Downloads: 42
 ### Information Retrieval and Information Extracrtion & Text Mining
 - [classla/xlm-roberta-base-multilingual-text-genre-classifier](https://huggingface.co/classla/xlm-roberta-base-multilingual-text-genre-classifier)
   - X-GENRE classifier - multilingual text genre classifier Text classification model based on xlm-roberta-base and fine-tuned on a combination of three genre datasets: Slovene GINCO dataset (Kuzman et al.
@@ -3906,945 +3951,954 @@ This list is sorted by downloads as of March 25, 2025.
   - Downloads: 11
 ### Multilinguality and Text Generation
 - [NTQAI/chatntq-ja-7b-v1.0](https://huggingface.co/NTQAI/chatntq-ja-7b-v1.0)
-  - The repository contains a 7B-parameter Japanese instruction-following model fine-tuned on custom datasets, evaluated with a score of 6.65 on the JA MT-Bench benchmark.
-  - Downloads: 17
+  - A 7B-parameter decoder-only Japanese language model fine-tuned on instruction-following datasets, achieving a JA MT-Bench score of 6.65.
+  - Downloads: 12
 ## Datasets 🧠
 
-This list is sorted by downloads as of March 25, 2025.
-477 datasets are listed.
+This list is sorted by downloads as of April 01, 2025.
+484 datasets are listed.
 
 ### Information Extraction & Text Mining
 - [hotchpotch/fineweb-2-edu-japanese](https://huggingface.co/datasets/hotchpotch/fineweb-2-edu-japanese)
-  - A high-quality educational Japanese dataset consisting of approximately 120 million texts totaling around 89.3 billion tokens, filtered from FineWeb2.
-  - Downloads: 4,667
+  - A high-quality educational Japanese dataset consisting of 120 million texts totaling around 89.3 billion tokens, with additional subsets for sampling and token-limited data.
+  - Downloads: 4,372
 - [Helsinki-NLP/tatoeba](https://huggingface.co/datasets/Helsinki-NLP/tatoeba)
-  - Tatoeba is a dataset of sentences and translations that can be loaded by language pair code.
-  - Downloads: 2,217
-- [hpprc/jsick](https://huggingface.co/datasets/hpprc/jsick)
-  - The JSICK dataset is a Japanese translation of the SICK dataset, used for NLI and STS tasks, with an accompanying stress test set to evaluate multilingual compositional inference capabilities.
-  - Downloads: 921
-- [hotchpotch/fineweb-2-edu-japanese-noise-detect-raw](https://huggingface.co/datasets/hotchpotch/fineweb-2-edu-japanese-noise-detect-raw)
-  - A cleaned raw dataset of fineweb-2-edu-japanese's small_tokens text column after Unicode normalization (NFKC) and noise inference using fineweb-2-japanese-text-cleaner, with noise spans indicated by start_pos and end_pos.
-  - Downloads: 897
-- [kubota/defamation-japanese-twitter](https://huggingface.co/datasets/kubota/defamation-japanese-twitter)
-  - A dataset of 5,000 annotated Japanese tweets for detecting defamatory content, labeled with targets and types of abuse.
-  - Downloads: 613
-- [mkshing/xlsum_ja](https://huggingface.co/datasets/mkshing/xlsum_ja)
-  - A filtered Japanese subset of XL-Sum with PaLM 2 filters, containing 4,215 training examples, 758 validation examples, and 766 test examples.
-  - Downloads: 538
-- [range3/cc100-ja](https://huggingface.co/datasets/range3/cc100-ja)
-  - This repository contains shardable Japanese parquet files from the cc100 dataset.
-  - Downloads: 510
-- [systemk/washi](https://huggingface.co/datasets/systemk/washi)
-  - A dataset of approximately 5% of ja subset documents, sampled using DSIR and closest to specific Japanese texts, for training language models.
-  - Downloads: 507
-- [kajuma/CC-news-2024-July-October-cleaned](https://huggingface.co/datasets/kajuma/CC-news-2024-July-October-cleaned)
-  - The repository contains cleaned Japanese news articles from Common Crawl's news subset for July to October 2024, totaling 612M tokens using llm-jp tokenizer.
-  - Downloads: 474
-- [tet550/jawiki_sentences](https://huggingface.co/datasets/tet550/jawiki_sentences)
-  - This repository contains a Japanese Wikipedia-derived dataset of sentences, including article and section titles, processed from dumps using a specific script.
-  - Downloads: 457
-- [llm-book/livedoor-news-corpus](https://huggingface.co/datasets/llm-book/livedoor-news-corpus)
-  - This dataset is a cleaned version of the livedoor News Corpus, used in the "Large Language Models Introduction" book, licensed under CC BY-ND 2.1 JP.
-  - Downloads: 392
-- [globis-university/aozorabunko-clean](https://huggingface.co/datasets/globis-university/aozorabunko-clean)
-  - This repository provides a machine-learning-friendly dataset from Aozora Bunko, including code to extract and process public-domain Japanese literary works.
-  - Downloads: 391
-- [shunk031/wrime](https://huggingface.co/datasets/shunk031/wrime)
-  - The WRIME dataset includes subjective and objective emotional intensity annotations for social network posts by 50 participants.
-  - Downloads: 332
-- [taishi-i/awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)
-  - A multi-label annotated dataset for NLP research field classification from GitHub repository descriptions and related content.
-  - Downloads: 270
-- [Atsushi/fungi_diagnostic_chars_comparison_japanese](https://huggingface.co/datasets/Atsushi/fungi_diagnostic_chars_comparison_japanese)
-  - Atsushi Nakajima's Daikinrin website offers indexed summaries of thousands of mycological papers and manually extracted comparisons of diagnostic characters for fungal species.
-  - Downloads: 258
-- [llm-book/ner-wikipedia-dataset](https://huggingface.co/datasets/llm-book/ner-wikipedia-dataset)
-  - This repository contains version 2.0 of a Japanese named entity recognition dataset created by Stockmark for use in the book "Introduction to Large Language Models," citing a 2021 ANLP conference paper.
-  - Downloads: 233
-- [range3/wiki40b-ja](https://huggingface.co/datasets/range3/wiki40b-ja)
-  - This repository contains three parquet files with Japanese data extracted from the wiki40b dataset, generated using specific Python code.
-  - Downloads: 209
-- [fujiki/japanese_alpaca_data](https://huggingface.co/datasets/fujiki/japanese_alpaca_data)
-  - A dataset card for "japanese_alpaca_data," derived from masa3141's Japanese-Alpaca-LoRA work, with relevant repository references.
-  - Downloads: 208
-- [community-datasets/covid_tweets_japanese](https://huggingface.co/datasets/community-datasets/covid_tweets_japanese)
-  - A dataset containing 53,640 Japanese tweets annotated for COVID-19 relevance, covering January to June 2020.
-  - Downloads: 196
-- [MomoyamaSawa/Voice-KusanagiNene](https://huggingface.co/datasets/MomoyamaSawa/Voice-KusanagiNene)
-  - A partial dataset of Nene's干声 (talking voice) recordings from the game PJSK, with a todo list to complete and standardize the dataset.
-  - Downloads: 188
+  - Tatoeba is a sentence and translation collection that can be loaded by specifying language pairs, with options to choose from predefined pairs or customize dates.
+  - Downloads: 2,526
 - [kajuma/ABEJA-CC-JA](https://huggingface.co/datasets/kajuma/ABEJA-CC-JA)
-  - This GitHub repository mirrors data from https://registry.opendata.aws/abeja-cc-ja/, as described in the tech blog entry at https://tech-blog.abeja.asia/entry/abeja-cc-ja-202409.
-  - Downloads: 184
+  - This repository contains an HF mirror of the https://registry.opendata.aws/abeja-cc-ja/ dataset and references a relevant tech blog entry.
+  - Downloads: 936
+- [hpprc/jsick](https://huggingface.co/datasets/hpprc/jsick)
+  - JSICK is a Japanese dataset derived from SICK, used for natural language inference and semantic textual similarity tasks, with an additional stress test subset.
+  - Downloads: 748
+- [hotchpotch/fineweb-2-edu-japanese-noise-detect-raw](https://huggingface.co/datasets/hotchpotch/fineweb-2-edu-japanese-noise-detect-raw)
+  - A cleaned RAW dataset from fineweb-2-edu-japanese's small_tokens text column, processed with NFKC normalization and noise inference using fineweb-2-japanese-text-cleaner, with noise spans identified by threshold parameters.
+  - Downloads: 648
+- [mkshing/xlsum_ja](https://huggingface.co/datasets/mkshing/xlsum_ja)
+  - A filtered Japanese subset of XL-Sum with PaLM 2 filters, containing 4,215 training examples and 758 validation examples.
+  - Downloads: 504
+- [globis-university/aozorabunko-clean](https://huggingface.co/datasets/globis-university/aozorabunko-clean)
+  - The repository provides a user-friendly dataset of public-domain books from Aozora Bunko, suitable for Machine Learning applications, along with the code to reproduce it.
+  - Downloads: 472
+- [kajuma/CC-news-2024-July-October-cleaned](https://huggingface.co/datasets/kajuma/CC-news-2024-July-October-cleaned)
+  - The repository contains cleaned Japanese news articles from Common Crawl for July to October 2024, tokenized to 612M tokens using llm-jp/llm-jp-13b-v1.0 tokenizer.
+  - Downloads: 453
+- [range3/cc100-ja](https://huggingface.co/datasets/range3/cc100-ja)
+  - This repository contains sharded parquet files of the cc100 dataset, including only Japanese language data.
+  - Downloads: 387
+- [llm-book/livedoor-news-corpus](https://huggingface.co/datasets/llm-book/livedoor-news-corpus)
+  - A dataset from the livedoor News Corpus, curated by Lwitt for use in the "Large Language Models Playground" book, licensed under CC BY-ND 2.1 JP.
+  - Downloads: 379
+- [kubota/defamation-japanese-twitter](https://huggingface.co/datasets/kubota/defamation-japanese-twitter)
+  - A dataset of 5,000 annotated Japanese tweets for detecting defamation on Twitter, labeled with targets and types of harassment by three annotators.
+  - Downloads: 359
+- [systemk/washi](https://huggingface.co/datasets/systemk/washi)
+  - A dataset of Japanese documents,约5%来自ja子集，使用DSIR从Washi和公共领域的现代日本文学中选择最接近的文档。
+  - Downloads: 314
+- [shunk031/wrime](https://huggingface.co/datasets/shunk031/wrime)
+  - The WRIME dataset includes subjective emotional intensity annotations by 50 writers and objective annotations by 3 readers for posts from a social networking service, aimed at estimating emotional intensity differences.
+  - Downloads: 309
+- [taishi-i/awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)
+  - A multi-label annotated dataset for Japanese NLP research field classification using GitHub repository information.
+  - Downloads: 247
+- [llm-book/ner-wikipedia-dataset](https://huggingface.co/datasets/llm-book/ner-wikipedia-dataset)
+  - The dataset is a version 2.0 corpus for named entity recognition created by Stockmark for the book "Introduction to Large Language Models," licensed under CC-BY-SA 3.0.
+  - Downloads: 231
 - [llm-jp/AnswerCarefully](https://huggingface.co/datasets/llm-jp/AnswerCarefully)
-  - The repository contains the AnswerCarefully Dataset, licensed for use in improving LLM safety including commercial purposes, but restricting its re-distribution and requiring attribution for derived data.
-  - Downloads: 176
-- [labofsahil/animelist-dataset](https://huggingface.co/datasets/labofsahil/animelist-dataset)
-  - A JSON-based anime dataset with metadata and cross-references to MAL, ANIDB, AniList, and other popular sites.
-  - Downloads: 169
-- [ikedachin/CC-news-2024-October-cleaned-1204](https://huggingface.co/datasets/ikedachin/CC-news-2024-October-cleaned-1204)
-  - A dataset containing only September and October news from kajuma/CC-news-2024-July-October-cleaned, with output token limit of 1024 and adjusted to about 1000 tokens for efficient learning using llm-jp/llm-jp-3-13b tokenizer.
-  - Downloads: 149
-- [hpprc/en-ja-align](https://huggingface.co/datasets/hpprc/en-ja-align)
-  - A dataset for Japanese-English aligned sentences from 2003, provided with scripts for downloading, parsing, and preprocessing, but not for redistribution.
-  - Downloads: 144
-- [recruit-jp/japanese-image-classification-evaluation-dataset](https://huggingface.co/datasets/recruit-jp/japanese-image-classification-evaluation-dataset)
-  - The repository contains a Japanese image classification dataset comprising four tasks specifically for Japanese cultural content, including the recognition of 101 types of Japanese dishes and ingredients.
-  - Downloads: 144
-- [taishi-i/nagisa_stopwords](https://huggingface.co/datasets/taishi-i/nagisa_stopwords)
-  - A stopwords list for Japanese text analysis using the nagisa library, derived from top frequently used words in CC-100 dataset and Wikipedia.
-  - Downloads: 140
+  - The repository contains the AnswerCarefully Dataset, licensed for use in enhancing LLM safety with no restrictions on commercial use but bans misuse and redistribution without proper acknowledgment.
+  - Downloads: 223
+- [tet550/jawiki_sentences](https://huggingface.co/datasets/tet550/jawiki_sentences)
+  - This GitHub repository contains a dataset of sentences extracted from Japanese Wikipedia, including article and section titles, generated using a specific script.
+  - Downloads: 204
+- [range3/wiki40b-ja](https://huggingface.co/datasets/range3/wiki40b-ja)
+  - The repository contains three parquet files with extracted Japanese data from the wiki40b dataset generated by a Python script.
+  - Downloads: 189
+- [fujiki/japanese_alpaca_data](https://huggingface.co/datasets/fujiki/japanese_alpaca_data)
+  - A dataset card for Japanese Alpaca data, based on masa3141's work and requiring additional information.
+  - Downloads: 187
 - [range3/wikipedia-ja-20230101](https://huggingface.co/datasets/range3/wikipedia-ja-20230101)
-  - A dataset consisting of a parquet file with Japanese Wikipedia data extracted and processed using Python code from the Hugging Face datasets library.
-  - Downloads: 139
-- [stockmark/ner-wikipedia-dataset](https://huggingface.co/datasets/stockmark/ner-wikipedia-dataset)
-  - A Japanese named entity extraction dataset created using Wikipedia, licensed under CC-BY-SA 3.0 by Stockmark Inc.
-  - Downloads: 136
-- [Miwa-Keita/zenz-v2.5-dataset](https://huggingface.co/datasets/Miwa-Keita/zenz-v2.5-dataset)
-  - The repository contains a dataset for training conditional language models for kana-to-Chinese character conversion, including over 190 million context-input-output triples, and features three model sizes (medium, small, xsmall) along with an evaluation benchmark.
-  - Downloads: 135
+  - The repository contains a parquet file of Japanese Wikipedia data extracted from the Wikipedia dataset and generated using specified Python code.
+  - Downloads: 181
+- [community-datasets/covid_tweets_japanese](https://huggingface.co/datasets/community-datasets/covid_tweets_japanese)
+  - A dataset of 53,640 Japanese tweets annotated for COVID-19 relevance from January to June 2020.
+  - Downloads: 180
+- [labofsahil/animelist-dataset](https://huggingface.co/datasets/labofsahil/animelist-dataset)
+  - A JSON-based anime dataset with metadata and cross-references to popular anime sites.
+  - Downloads: 166
+- [MomoyamaSawa/Voice-KusanagiNene](https://huggingface.co/datasets/MomoyamaSawa/Voice-KusanagiNene)
+  - A partial dataset of Suzune Hongou's (Machico) dry vocal recordings for the game Pjsk, with nene_org.txt as the label file; more content and format standardization planned.
+  - Downloads: 153
+- [hpprc/en-ja-align](https://huggingface.co/datasets/hpprc/en-ja-align)
+  - A Python script for downloading, parsing, and preprocessing the en-ja-align aligned sentence dataset from 2003 without redistributing the data.
+  - Downloads: 148
 - [turing-motors/Japanese-Heron-Bench](https://huggingface.co/datasets/turing-motors/Japanese-Heron-Bench)
-  - The Japanese-Heron-Bench dataset includes 21 images categorized into Conversation, Detail, and Complex with 102 questions across seven subcategories to evaluate Japanese VLMs.
+  - The Japanese-Heron-Bench dataset includes 21 images categorized into three levels with 102 questions across seven subcategories for evaluating Japanese VLMs.
+  - Downloads: 146
+- [Miwa-Keita/zenz-v2.5-dataset](https://huggingface.co/datasets/Miwa-Keita/zenz-v2.5-dataset)
+  - The repository contains a dataset of about 190 million paired examples for training character-based Chinese character conversion models, including large (310M), medium (91M), and small (26M)规模模型，以及用于评估的AJIMEE-Bench基准测试，数据格式为JSONL。
+  - Downloads: 125
+- [matsuo-lab/JP-LLM-Corpus-PII-Filtered-10B](https://huggingface.co/datasets/matsuo-lab/JP-LLM-Corpus-PII-Filtered-10B)
+  - A filtered version of approximately 10 billion tokens of Japanese text from CommonCrawl, with privacy-sensitive "Person Identifiable Information" removed using rule-based and machine learning approaches.
   - Downloads: 123
-- [Sunbread/SyosetuNames-3.5M](https://huggingface.co/datasets/Sunbread/SyosetuNames-3.5M)
-  - A corpus of约350万日本轻小说虚构角色名称，旨在支持文化敏感的自然语言处理任务。
-  - Downloads: 118
+- [stockmark/ner-wikipedia-dataset](https://huggingface.co/datasets/stockmark/ner-wikipedia-dataset)
+  - A dataset for Japanese named entity recognition using Wikipedia.
+  - Downloads: 122
+- [ikedachin/CC-news-2024-October-cleaned-1204](https://huggingface.co/datasets/ikedachin/CC-news-2024-October-cleaned-1204)
+  - A dataset containing only September and October news from kajuma/CC-news-2024-July-October-cleaned, with about 1000 tokens per output for efficient learning.
+  - Downloads: 120
+- [SakanaAI/ChouBun](https://huggingface.co/datasets/SakanaAI/ChouBun)
+  - ChouBun is a Japanese language benchmark for LLMs in long-context tasks, including extractive QA and abstractive summarization from diverse sources and synthetic data.
+  - Downloads: 120
 - [numad/yuho-text-2014-2022](https://huggingface.co/datasets/numad/yuho-text-2014-2022)
-  - This dataset consists of excerpts from 2014-2022 annual SEC filings in Japan, including fields like document ID, EDINET code, company name, and reporting period.
+  - This repository contains a dataset extracted from SEC filings submitted to EDINET between 2014 and 2022, including fields like document ID, company name, filing date, etc.
   - Downloads: 116
+- [recruit-jp/japanese-image-classification-evaluation-dataset](https://huggingface.co/datasets/recruit-jp/japanese-image-classification-evaluation-dataset)
+  - Recruit Co., Ltd. has released a Japanese image classification dataset with four tasks related to Japanese food and concepts, licensed under CC-BY-4.0.
+  - Downloads: 112
+- [Atsushi/fungi_diagnostic_chars_comparison_japanese](https://huggingface.co/datasets/Atsushi/fungi_diagnostic_chars_comparison_japanese)
+  - Atsushi Nakajima's Daikinrin website offers summaries and indexed information from thousands of mycological papers, including manually extracted diagnostic character comparisons.
+  - Downloads: 109
 - [taishi-i/awesome-japanese-nlp-classification-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-classification-dataset)
-  - The dataset categorizes GitHub repository descriptions for relevance to Japanese natural language processing, using pre-2022 data for training and 2023 data for testing.
-  - Downloads: 115
-- [mohamed-khalil/AnimeSongsLyrics](https://huggingface.co/datasets/mohamed-khalil/AnimeSongsLyrics)
-  - The GitHub repository contains a diverse collection of anime song lyrics in Parquet format, serving as a rich resource for enthusiasts and researchers.
-  - Downloads: 110
-- [hpprc/honyaku](https://huggingface.co/datasets/hpprc/honyaku)
-  - A manually translated English-Japanese dataset for passage-level translations of English Wikipedia article excerpts, created to provide a high-quality corpus with a permissive license due to restrictions on using existing translation tools for machine learning purposes.
+  - A dataset for training and testing models to identify GitHub repository descriptions relevant to Japanese natural language processing.
   - Downloads: 101
-- [polm-stability/jblimp](https://huggingface.co/datasets/polm-stability/jblimp)
-  - JBLiMP provides validated Japanese linguistic minimal pairs in JSONL format for benchmarking.
-  - Downloads: 100
-- [ryota39/open_preference-v0.3](https://huggingface.co/datasets/ryota39/open_preference-v0.3)
-  - A public RLHF dataset in Japanese, where reward model construction was reformatted into a classification task, with labels 1 for chosen and 0 for rejected sentences.
-  - Downloads: 96
-- [aixsatoshi/cosmopedia-japanese-100k](https://huggingface.co/datasets/aixsatoshi/cosmopedia-japanese-100k)
-  - The repository has been expanded to include 100k Japanese data points from cosmopedia, with additional translations for text generation prompts.
-  - Downloads: 96
-- [mohamed-khalil/AnimeQuotes](https://huggingface.co/datasets/mohamed-khalil/AnimeQuotes)
-  - A curated collection of inspiring anime quotes from various series, formatted as a list of dictionaries for easy access and analysis.
-  - Downloads: 94
+- [mohamed-khalil/AnimeSongsLyrics](https://huggingface.co/datasets/mohamed-khalil/AnimeSongsLyrics)
+  - The repository contains a diverse collection of anime songs' lyrics structured in a Parquet file, providing a rich resource for enthusiasts and researchers.
+  - Downloads: 99
 - [y2lan/japan-law](https://huggingface.co/datasets/y2lan/japan-law)
-  - This repository includes 8,750 law records from the official Japanese government website, each containing details like number, title, ID, effective date, and text, unique to August 1, 2023.
-  - Downloads: 90
-- [ikedachin/CC-news-2024-October-cleaned-cpt-set-250127](https://huggingface.co/datasets/ikedachin/CC-news-2024-October-cleaned-cpt-set-250127)
-  - A cleaned dataset containing only September and October 2024 news, with dates added, for continued pre-training with outputs up to 1024 tokens, adjusted to about 1000 tokens using llm-jp/llm-jp-3-13b tokenizer.
-  - Downloads: 89
-- [llm-book/ner-wikinews-dataset](https://huggingface.co/datasets/llm-book/ner-wikinews-dataset)
-  - This repository contains a dataset withNamed Entity Recognition labels applied to articles from Wikinews, including 8 entity types, licensed under CC BY 2.5, for use in the book "Introduction to Large Language Models."
-  - Downloads: 83
-- [YANS-official/senryu-marusen](https://huggingface.co/datasets/YANS-official/senryu-marusen)
-  - A dataset containing爬虫数据来自marusenryu.com网站，该网站是最大的俳句投稿平台之一，包含376个主题和5346条回应，用于文本到文本任务。
-  - Downloads: 83
+  - The repository contains 8,750 unique law records from Japan's e-Gov website, each including number, title, ID, effective date, and text, updated to August 1, 2023.
+  - Downloads: 97
+- [taishi-i/nagisa_stopwords](https://huggingface.co/datasets/taishi-i/nagisa_stopwords)
+  - This repository provides a list of Japanese stopwords derived from the top 100 frequently used words in CC-100 dataset and Wikipedia, compatible with the nagisa tokenization rules.
+  - Downloads: 95
+- [Sunbread/SyosetuNames-3.5M](https://huggingface.co/datasets/Sunbread/SyosetuNames-3.5M)
+  - A corpus of approximately 3.5 million Japanese light novel character names aimed at supporting culturally sensitive NLP tasks.
+  - Downloads: 88
+- [aixsatoshi/cosmopedia-japanese-100k](https://huggingface.co/datasets/aixsatoshi/cosmopedia-japanese-100k)
+  - The repository now includes expanded data from 20K to 100K, including text generation prompts and translations, provided by kunishou.
+  - Downloads: 86
+- [mohamed-khalil/AnimeQuotes](https://huggingface.co/datasets/mohamed-khalil/AnimeQuotes)
+  - A curated dataset of inspiring anime quotes, formatted as a list of dictionaries, sourced from Anime Motivation.
+  - Downloads: 79
 - [oshizo/JMDNClustering-ja](https://huggingface.co/datasets/oshizo/JMDNClustering-ja)
-  - A curated clustering dataset for training and evaluating embedded models, derived from web pages of the Pharmaceuticals and Medical Devices Agency, containing cleaned and split 'train' and 'test' subsets with preserved label proportions.
-  - Downloads: 78
+  - A clustered dataset for training and evaluating embedded models, derived from web pages of the Pharmaceutical and Medical Device Agency, with "一般名称" and "一般名称定义" combined into text, and randomly split into train and test sets while maintaining label proportions.
+  - Downloads: 75
+- [polm-stability/jblimp](https://huggingface.co/datasets/polm-stability/jblimp)
+  - The GitHub repository contains validated linguistic minimal pairs in JSONL format for the Japanese benchmark "JBLiMP."
+  - Downloads: 74
+- [llm-book/ner-wikinews-dataset](https://huggingface.co/datasets/llm-book/ner-wikinews-dataset)
+  - A dataset with named entity labels for articles from Wikinews, including 8 types of entities, used in the book "Introduction to Large Language Models," licensed under CC BY 2.5.
+  - Downloads: 73
+- [ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM](https://huggingface.co/datasets/ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM)
+  - A dataset and code for the SLG framework, focused on multi-task learning for Japanese sentence classification and Named Entity Recognition.
+  - Downloads: 72
+- [ryota39/open_preference-v0.3](https://huggingface.co/datasets/ryota39/open_preference-v0.3)
+  - The repository provides a public RLHF dataset in Japanese, where reward model training was reformatted into a classification task, with labels 1 for chosen and 0 for rejected sentences.
+  - Downloads: 68
+- [RyokoExtra/JapaneseGoblin](https://huggingface.co/datasets/RyokoExtra/JapaneseGoblin)
+  - JapaneseGoblin is an English-dominant dataset from Touhou wiki, primarily for unsupervised text generation models, with some Japanese content.
+  - Downloads: 64
+- [ikedachin/CC-news-2024-October-cleaned-cpt-set-250127](https://huggingface.co/datasets/ikedachin/CC-news-2024-October-cleaned-cpt-set-250127)
+  - A dataset containing only September and October news from kajuma/CC-news-2024-July-October-cleaned, with dates added before each text, optimized for efficient continued pre-training with about 1000 tokens per output.
+  - Downloads: 64
+- [kanhatakeyama/AutoWikiQA](https://huggingface.co/datasets/kanhatakeyama/AutoWikiQA)
+  - Automatically generated Q&A from Wikipedia Japanese edition using Mixtral 8x22b 5bit GGUF model and specialized code, with computations done on TSUBAME4.0 supercomputer. Beware of potential hallucinations in responses.
+  - Downloads: 62
+- [ryota39/Aya_ja](https://huggingface.co/datasets/ryota39/Aya_ja)
+  - Aya_ja is a dataset containing 6,259 annotated Japanese instruction-response pairs extracted from CohereForAI/aya_dataset.
+  - Downloads: 58
+- [umiyuki/Ani-Bench-JP](https://huggingface.co/datasets/umiyuki/Ani-Bench-JP)
+  - Ani-Bench-JP is a benchmark dataset in CSV format for evaluating LLMs' understanding of Japanese anime knowledge across five popular shows.
+  - Downloads: 55
+- [Hoshikuzu/JParaCrawl](https://huggingface.co/datasets/Hoshikuzu/JParaCrawl)
+  - A cleaned version of the largest publicly available English-Japanese parallel corpus (JParaCrawl), created by NTT through web crawling and automatic alignment.
+  - Downloads: 55
+- [Nan-Do/OpenSubtitlesJapanese](https://huggingface.co/datasets/Nan-Do/OpenSubtitlesJapanese)
+  - The repository includes a cleaned, UTF-8 converted Parquet dataset from OpenSubtittles for Japanese subtitles, covering over 7000 titles with text and metadata.
+  - Downloads: 54
+- [oshizo/HSClustering-ja](https://huggingface.co/datasets/oshizo/HSClustering-ja)
+  - A clustered dataset for training and evaluating embedded models, derived from customs prior teaching responses (item classification), with data cleaned and labels split into train and test sets based on HS code sections.
+  - Downloads: 53
+- [Nurture-intelligence/ins_dataset](https://huggingface.co/datasets/Nurture-intelligence/ins_dataset)
+  - This repository contains a question-answer synthetic dataset created using multiple inference results with Nurture-intelligence/Gemma-2-108B-DPO-v0.1, licensed under the original dataset's license and Gemma Terms of Use.
+  - Downloads: 53
+- [YANS-official/senryu-marusen](https://huggingface.co/datasets/YANS-official/senryu-marusen)
+  - This repository contains crawled data from the largest Japanese haiku submission site,  senryu-marusen.com, including structured and raw HTML files, with a task-focused text-to-text dataset for 376 topics and 5,346 answers.
+  - Downloads: 51
+- [Atsushi/fungi_indexed_mycological_papers_japanese](https://huggingface.co/datasets/Atsushi/fungi_indexed_mycological_papers_japanese)
+  - Atsushi Nakajima operates Daikinrin, providing indexed summaries of thousands of mycological taxonomy papers in Japanese.
+  - Downloads: 51
+- [tellarin-ai/ntx_llm_inst_japanese](https://huggingface.co/datasets/tellarin-ai/ntx_llm_inst_japanese)
+  - A Japanese subset of the NTX v1 dataset converted into the Aya instruction format, released under CC-BY-SA 4.0.
+  - Downloads: 47
+- [numad/yuho-text-2024](https://huggingface.co/datasets/numad/yuho-text-2024)
+  - This dataset includes excerpts from securities reports submitted to EDINET in 2024, containing fields like document ID, EDINET code, company name, and reporting period.
+  - Downloads: 47
 - [AlienKevin/ndlbib-furigana](https://huggingface.co/datasets/AlienKevin/ndlbib-furigana)
   - A dataset of furigana characters created from National Diet Library bibliographic data.
-  - Downloads: 77
-- [ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM](https://huggingface.co/datasets/ganchengguang/Sentence-Classification-and-NER-Mix-Datasets-SCNM)
-  - A dataset and open-source code for the SLG framework, supporting multi-task learning in Japanese sentence classification and named entity recognition.
-  - Downloads: 74
-- [SakanaAI/ChouBun](https://huggingface.co/datasets/SakanaAI/ChouBun)
-  - ChouBun is a benchmark for Japanese LLM performance on long-context tasks, including extractive QA and abstractive summarization from various sources and synthetic data.
-  - Downloads: 71
-- [RyokoExtra/JapaneseGoblin](https://huggingface.co/datasets/RyokoExtra/JapaneseGoblin)
-  - JapaneseGoblin is an unsupervised dataset primarily in English from Touhou wiki, structured in JSONL format for text generation and classification tasks.
-  - Downloads: 68
-- [ryota39/Aya_ja](https://huggingface.co/datasets/ryota39/Aya_ja)
-  - Aya_ja is a Japanese instruction-response dataset with 6,259 annotated pairs for AI training and usage examples in Python.
-  - Downloads: 65
-- [kanhatakeyama/AutoWikiQA](https://huggingface.co/datasets/kanhatakeyama/AutoWikiQA)
-  - Automated Q&A generation from Wikipedia Japanese edition using Mixtral 8x22b GGUF model, with filters recommended due to potential hallucinations.
-  - Downloads: 64
-- [oshizo/HSClustering-ja](https://huggingface.co/datasets/oshizo/HSClustering-ja)
-  - A clustering dataset for training and evaluating embedded models, derived from customs pre-instruction responses (商品分类) with "general item names" and "cargo overview" combined, split into train and test sets while preserving label proportions.
-  - Downloads: 59
-- [Hoshikuzu/JParaCrawl](https://huggingface.co/datasets/Hoshikuzu/JParaCrawl)
-  - A cleaned version of the JParaCrawl dataset, the largest publicly available English-Japanese parallel corpus, for easy loading with Hugging Face Datasets.
-  - Downloads: 58
+  - Downloads: 46
 - [BASF-AI/PubChemWikiJAPC](https://huggingface.co/datasets/BASF-AI/PubChemWikiJAPC)
-  - A multilingual dataset for classifying similar and dissimilar paragraph pairs, including English and Japanese text from PubChem and Wikipedia.
-  - Downloads: 52
-- [Atsushi/fungi_indexed_mycological_papers_japanese](https://huggingface.co/datasets/Atsushi/fungi_indexed_mycological_papers_japanese)
-  - The GitHub repository contains Japanese summaries and indexed information from thousands of mycology taxonomy papers in the form of "Three-line Paper Summaries," last updated on September 28, 2024.
-  - Downloads: 50
-- [Nurture-intelligence/ins_dataset](https://huggingface.co/datasets/Nurture-intelligence/ins_dataset)
-  - This GitHub repository contains a question-answer formatted synthetic dataset derived from the sakura_japanese_dataset, created using Nurture-intelligence/Gemma-2-108B-DPO-v0.1, licensed under the original dataset's license and Gemma Terms of Use.
-  - Downloads: 50
-- [tellarin-ai/ntx_llm_inst_japanese](https://huggingface.co/datasets/tellarin-ai/ntx_llm_inst_japanese)
-  - This repository contains a format-converted Japanese subset of the original NTX v1 dataset into the Aya instructions format, licensed under CC-BY-SA 4.0.
-  - Downloads: 49
+  - A multilingual dataset for classifying paragraph pairs, including English and Japanese texts from PubChem and Wikipedia, labeled to indicate matching entities.
+  - Downloads: 42
 - [ganchengguang/Text-Classification-and-Relation-Event-Extraction-Mix-datasets](https://huggingface.co/datasets/ganchengguang/Text-Classification-and-Relation-Event-Extraction-Mix-datasets)
-  - The repository contains the GIELLM dataset for Japanese information extraction, built on the livedoor news corpus.
-  - Downloads: 49
-- [numad/yuho-text-2024](https://huggingface.co/datasets/numad/yuho-text-2024)
-  - A dataset comprising excerpts from specific chapters of SEC filings submitted to EDINET in 2024, including metadata like document ID, company name, and filing dates.
-  - Downloads: 47
-- [Nan-Do/OpenSubtitlesJapanese](https://huggingface.co/datasets/Nan-Do/OpenSubtitlesJapanese)
-  - The repository contains parsed, cleaned, and UTF-8 encoded Parquet files from the OpenSubtitles database for Japanese subtitles, including text, metadata, and source titles.
-  - Downloads: 44
-- [DancingPrismPJ/Wikipedia-Horse-Dataset](https://huggingface.co/datasets/DancingPrismPJ/Wikipedia-Horse-Dataset)
-  - A labeled dataset for Japanese racing horses with 9 categories of named entities, derived from Wikipedia articles, including new additions specific to horse names.
-  - Downloads: 39
-- [wolf4032/token-classification-japanese-search-local-cuisine](https://huggingface.co/datasets/wolf4032/token-classification-japanese-search-local-cuisine)
-  - A dataset containing question texts for culinary searches and their search keywords, categorized into four types (AREA, TYPE, SZN, INGR), along with notebooks for creating the dataset, fine-tuning language models, and using the models in an application.
-  - Downloads: 39
+  - The repository contains the GIELLM dataset, derived from the livedoor news corpus, for a Japanese large language model study.
+  - Downloads: 41
 - [JunSotohigashi/JapaneseWikipediaTypoDataset](https://huggingface.co/datasets/JunSotohigashi/JapaneseWikipediaTypoDataset)
-  - A converted version of the Japanese Wikipedia Typo Dataset for use with HuggingFace, sourced from Kyoto University Language Media Research Laboratory, licensed under CC-BY-SA 3.0.
-  - Downloads: 38
+  - A transformed dataset from Kyoto University's Language Media Lab for Japanese Wikipedia input errors, usable on HuggingFace, with CC-BY-SA 3.0 licensing.
+  - Downloads: 41
+- [hpprc/honyaku](https://huggingface.co/datasets/hpprc/honyaku)
+  - A curated dataset of English-to-Japanese translations at the passage and sentence levels, manually translated from English Wikipedia article openings to address the lack of high-quality, freely usable translation corpora.
+  - Downloads: 41
+- [llm-jp/ac-self-inst](https://huggingface.co/datasets/llm-jp/ac-self-inst)
+  - The repository contains the AnswerCarefully Dataset, intended for use in enhancing LLM safety, including commercial purposes, but strictly禁止用于其他目的；保留派生数据的创作和分发权利，需遵守相关规定；并对数据中的不当内容表示警告，并声明制作者不对使用本数据造成的任何损害负责。
+  - Downloads: 41
+- [tamdiep106/autotrain-data-tam_jp](https://huggingface.co/datasets/tamdiep106/autotrain-data-tam_jp)
+  - The AutoTrain dataset for project tam_jp contains Japanese language data instances.
+  - Downloads: 40
+- [wolf4032/token-classification-japanese-search-local-cuisine](https://huggingface.co/datasets/wolf4032/token-classification-japanese-search-local-cuisine)
+  - A dataset containing questions for searching recipes and their corresponding search keywords, categorized into four types (AREA, TYPE, SZN, INGR), with notebooks for creating the dataset and fine-tuning language models, along with application code.
+  - Downloads: 37
 - [ikedachin/CC-news-2024-October-cleaned-sft-250127](https://huggingface.co/datasets/ikedachin/CC-news-2024-October-cleaned-sft-250127)
   - kajuma/CC-news-2024-July-October-cleanedを元に、9月、10月のニュースのみを抜き出したデータセット。
   - Downloads: 37
+- [FrancophonIA/Jibiki_fr_ja](https://huggingface.co/datasets/FrancophonIA/Jibiki_fr_ja)
+  - The GitHub repository contains collaborative data for a French-Japanese dictionary and aligned bilingual corpus, initially sourced from multiple dictionaries and Japanese-EnglishJMdict, with over 154, 000 Japanese-French entries.
+  - Downloads: 36
+- [DancingPrismPJ/Wikipedia-Horse-Dataset](https://huggingface.co/datasets/DancingPrismPJ/Wikipedia-Horse-Dataset)
+  - A dataset with 600 labeled articles from Wikipedia's "Category:日本調教の競走馬" using stockmark's named entity labels, including nine types of entities and additional horse names.
+  - Downloads: 35
 - [Coaso/test-dolly-15ja-for-stftrainer](https://huggingface.co/datasets/Coaso/test-dolly-15ja-for-stftrainer)
   - A JSONL version of the dolly-15k-jp dataset for use with SFTTrainer's dataset_text_field property, licensed under CC BY SA 3.0.
-  - Downloads: 36
-- [FrancophonIA/Jibiki_fr_ja](https://huggingface.co/datasets/FrancophonIA/Jibiki_fr_ja)
-  - The GitHub repository hosts collaborative efforts to create a high-quality French-Japanese dictionary and aligned bilingual corpus, using initial data from various sources including Japanese-to-French dictionaries and JMdict.
-  - Downloads: 36
-- [tamdiep106/autotrain-data-tam_jp](https://huggingface.co/datasets/tamdiep106/autotrain-data-tam_jp)
-  - The AutoTrain dataset for project tam_jp contains Japanese language data structured as JSON objects with context fields.
-  - Downloads: 33
-- [llm-jp/ac-self-inst](https://huggingface.co/datasets/llm-jp/ac-self-inst)
-  - The repository contains the AnswerCarefully Dataset, intended for enhancing LLM safety with permissive licensing for derivative works, but strictly prohibiting misuse and non-commercial redistribution.
-  - Downloads: 32
+  - Downloads: 34
 - [ikedachin/CC-news-2024-October-cleaned-sft-1204](https://huggingface.co/datasets/ikedachin/CC-news-2024-October-cleaned-sft-1204)
   - kajuma/CC-news-2024-July-October-cleanedを元に、10月のニュースのみを抜き出したデータセット。
   - Downloads: 32
 - [p1atdev/oiocha](https://huggingface.co/datasets/p1atdev/oiocha)
-  - A dataset of 221 haikus, including comments from authors and judges for approximately 200 of them, from the Oi-Ocha New Haiku Award.
+  - A dataset of 221 haiku from O~i ocha new haiku awards, including comments from authors and judges for about 200 of them.
   - Downloads: 19
 - [sergicalsix/Japanese_NER_Data_Hub](https://huggingface.co/datasets/sergicalsix/Japanese_NER_Data_Hub)
-  - This repository contains a dataset for named entity recognition (J-NER) in large language models, including 157 types of entities from Wikipedia pages, each with 5 positive and 5 negative examples.
+  - This repository contains a dataset (J-NER) for named entity recognition in large language models, including 157 types of named entities from Wikipedia with 5 positive and 5 negative examples each.
   - Downloads: 14
 ### Multimodality
+- [nyanko7/danbooru2023](https://huggingface.co/datasets/nyanko7/danbooru2023)
+  - Danbooru2023 is a crowdsourcedanime illustration dataset featuring over 5 million detailed-tagged images for training various image understanding models.
+  - Downloads: 9,592
 - [litagin/reazon-speech-v2-denoised](https://huggingface.co/datasets/litagin/reazon-speech-v2-denoised)
   - Reazon Speech v2 DENOISED Reazon Speech v2の音声ファイルをUVRを使用してBGMやノイズ除去したこのデータセットのミラーです。
   - Downloads: 8,174
-- [nyanko7/danbooru2023](https://huggingface.co/datasets/nyanko7/danbooru2023)
-  - Danbooru2023 is a largescale crowdsourced anime illustration dataset with over 5 million tagged images and average 30 tags per image for training various visual tasks.
-  - Downloads: 6,495
 - [ayousanz/voicevox-voice-corpus](https://huggingface.co/datasets/ayousanz/voicevox-voice-corpus)
-  - VOICEVOX-based artificial voice dataset including 445,793 .wav files totaling 577 hours and 51 minutes.
-  - Downloads: 4,911
-- [nyanko7/yandere2023](https://huggingface.co/datasets/nyanko7/yandere2023)
-  - Yandere2023 is a large-scale, crowdsourced anime illustration dataset containing over 1.2 million high-quality images and diverse tags.
-  - Downloads: 3,862
-- [joujiboi/japanese-anime-speech](https://huggingface.co/datasets/joujiboi/japanese-anime-speech)
-  - japanese-anime-speech is an audio-text dataset for training ASR models, comprising thousands of clips from visual novels to improve transcription accuracy of anime dialogue.
-  - Downloads: 1,996
+  - VOICEVOX-based artificial voice dataset using ITA corpus, つくよみちゃん corpus, and ROHAN corpus, containing 445,793 .wav files totaling 577 hours and 51 minutes.
+  - Downloads: 2,954
 - [joujiboi/japanese-anime-speech-v2](https://huggingface.co/datasets/joujiboi/japanese-anime-speech-v2)
-  - Japanese-Anime-Speech-V2 is a dataset with 292,637 audio clips and transcriptions from visual novels for training ASR models.
-  - Downloads: 1,684
-- [Elite35P-Server/EliteVoiceProject](https://huggingface.co/datasets/Elite35P-Server/EliteVoiceProject)
-  - This non-official project aims to dataset-ize Sakura Miko's voice from Hololive Partnership for use in speech recognition, adhering to their guidelines and without any license rights. Contributions are welcome following the specified procedures.
-  - Downloads: 1,389
-- [JMMMU/JMMMU](https://huggingface.co/datasets/JMMMU/JMMMU)
-  - JMMMU is a multimodal benchmark for evaluating LMM performance in Japanese across various disciplines, incorporating expert input from native speakers.
-  - Downloads: 1,134
-- [ThePioneer/japanese-photos](https://huggingface.co/datasets/ThePioneer/japanese-photos)
-  - A diverse collection of high-quality images depicting various aspects of Japan captured between 2022 and 2024, for AI training purposes.
-  - Downloads: 772
+  - Japanese-anime-speech-v2 is a 292,637 audio-transcription pair dataset for ASR training from visual novels.
+  - Downloads: 1,516
+- [joujiboi/japanese-anime-speech](https://huggingface.co/datasets/joujiboi/japanese-anime-speech)
+  - The japanese-anime-speech dataset provides audio clips and transcripts from visual novels to improve ASR model accuracy for transcribing anime dialogue.
+  - Downloads: 1,432
 - [reazon-research/reazonspeech](https://huggingface.co/datasets/reazon-research/reazonspeech)
-  - The ReazonSpeech dataset includes over 35,000 hours of diverse Japanese terrestrial television speech in FLAC format sampled at 16kHz, suitable only for Japanese copyright-compliant ASR research.
-  - Downloads: 703
-- [Silviase/Japanese-Heron-Bench](https://huggingface.co/datasets/Silviase/Japanese-Heron-Bench)
-  - This repository provides a refined dataset for evaluating vision-language models in Japanese, derived from the original Japanese-Heron-Bench benchmark.
-  - Downloads: 496
+  - The ReazonSpeech dataset includes over 35,000 hours of diverse Japanese speech from terrestrial TV streams, formatted as FLAC files sampled at 16kHz, for use exclusively under conditions stipulated by Japanese copyright law.
+  - Downloads: 1,217
+- [Elite35P-Server/EliteVoiceProject](https://huggingface.co/datasets/Elite35P-Server/EliteVoiceProject)
+  - This non-official project aims to dataset-ize Sakura Miko's voice from Hololive for use in voice recognition, adhering to hololive production's guidelines, and welcomes contributions while emphasizing compliance with copyright restrictions.
+  - Downloads: 1,073
+- [nyanko7/yandere2023](https://huggingface.co/datasets/nyanko7/yandere2023)
+  - Yandere2023 is a large-scale, crowdsourced anime illustration dataset featuring over 1.2 million high-quality images and diverse tags.
+  - Downloads: 1,030
+- [JMMMU/JMMMU](https://huggingface.co/datasets/JMMMU/JMMMU)
+  - JMMMU is a multimodal benchmark for evaluating large language models' performance on Japanese tasks, involving expert-curated content across multiple disciplines.
+  - Downloads: 1,016
+- [ThePioneer/japanese-photos](https://huggingface.co/datasets/ThePioneer/japanese-photos)
+  - A多样化的日本图像数据集，涵盖2020年代至2022-2024年间拍摄的都市景观、自然风光、历史遗址等，用于AI训练。
+  - Downloads: 816
 - [tanganke/kmnist](https://huggingface.co/datasets/tanganke/kmnist)
-  - Classify images from the KMNIST dataset into 10 classes of Japanese characters.
-  - Downloads: 451
+  - A classification task using the KMNIST dataset to identify Japanese characters among 10 classes.
+  - Downloads: 493
+- [Silviase/Japanese-Heron-Bench](https://huggingface.co/datasets/Silviase/Japanese-Heron-Bench)
+  - This repository provides a clarified dataset for image, context, and question pairs related to the Japanese-Heron-Bench benchmark.
+  - Downloads: 488
 - [YANS-official/senryu-shashin](https://huggingface.co/datasets/YANS-official/senryu-shashin)
-  - This repository contains crawled data from HomeMate Research's photo haiku contest, including images and structured responses, with 435 themes and 1767 submissions for use in the YANS hackathon.
-  - Downloads: 411
+  - This GitHub repository contains crawled data from HomeMate Research's photo senryu contest, including HTML files and structured processing results, with 435 topics and 1,767 responses for an image-to-text task.
+  - Downloads: 392
 - [Lami/Lux-Japanese-Speech-Corpus](https://huggingface.co/datasets/Lami/Lux-Japanese-Speech-Corpus)
-  - The Lux Japanese Speech Corpus includes raw and cleaned 96kHz/16bit WAV audio files of character Lux reading texts, along with transcription metadata.
-  - Downloads: 265
+  - The Lux Japanese Speech Corpus includes raw and cleaned 96kHz/16bit WAV audio files along with transcriptions and metadata for voice recordings of text readings by the character Lux.
+  - Downloads: 331
+- [SakanaAI/JA-VG-VQA-500](https://huggingface.co/datasets/SakanaAI/JA-VG-VQA-500)
+  - The JA-VG-VQA-500 is a 500-sample subset of the Japanese Visual Genome VQA dataset used for evaluating EvoVLM-JP-v1-7B, licensed under CC BY 4.0.
+  - Downloads: 310
 - [Marianoleiras/voxpopuli_es-ja](https://huggingface.co/datasets/Marianoleiras/voxpopuli_es-ja)
   - Dataset Dataset Summary This dataset is designed for automatic speech recognition (ASR) and translation tasks, enabling the conversion of Spanish speech into Japanese text.
   - Downloads: 254
-- [kunishou/J-ResearchCorpus](https://huggingface.co/datasets/kunishou/J-ResearchCorpus)
-  - The J-ResearchCorpus is a high-quality text dataset containing 1,343 papers from the NLP2024 conference and 360 papers from the Natural Language Processing journal, licensed under CC-BY-4.0, totaling approximately 39 million words for pre-training language models or other applications.
-  - Downloads: 242
-- [chitsanfei/pjsk-emu-dataset](https://huggingface.co/datasets/chitsanfei/pjsk-emu-dataset)
-  - MashiroSA/sovits-emu-dataset contains 2735 unmodified WAV voice recordings from the Project Sekai character Emu Otori, for research use only under CC-BY-NC 4.0 license.
-  - Downloads: 235
 - [JapanDegitalMaterial/Places_in_Japan](https://huggingface.co/datasets/JapanDegitalMaterial/Places_in_Japan)
-  - A copyright-free dataset of places in Japan for training text-to-image models.
-  - Downloads: 234
-- [alfredplpl/anime-with-caption-cc0](https://huggingface.co/datasets/alfredplpl/anime-with-caption-cc0)
-  - A dataset of anime-style illustrations with accompanying CC-0 licensed Japanese captions created using AI.
-  - Downloads: 234
-- [YANS-official/senryu-test-with-references](https://huggingface.co/datasets/YANS-official/senryu-test-with-references)
-  - This repository contains crawled data from senryu poetry submission websites, including original HTML files and processed content, for training image-to-text and text-to-text tasks in senryu poetry creation.
-  - Downloads: 226
-- [SakanaAI/JA-VG-VQA-500](https://huggingface.co/datasets/SakanaAI/JA-VG-VQA-500)
-  - The JA-VG-VQA-500 is a 500-sample subset of the Japanese Visual Genome VQA dataset used for evaluating EvoVLM-JP-v1-7B, available under CC BY 4.0 License.
-  - Downloads: 222
-- [hotchpotch/msmarco-ja-hard-negatives](https://huggingface.co/datasets/hotchpotch/msmarco-ja-hard-negatives)
-  - The repository contains processed MS MARCO Japanese translation data with hard negative mining and compares a trained SPLADE model against mMARCO.
-  - Downloads: 215
+  - A CC0 dataset of places in Japan for training text-to-image models without copyright concerns.
+  - Downloads: 221
+- [kunishou/J-ResearchCorpus](https://huggingface.co/datasets/kunishou/J-ResearchCorpus)
+  - The repository J-ResearchCorpus contains high-quality text data from CC-BY-* licensed Japanese academic papers, including proceedings from the 30th Annual Conference of the Language Processing Society, for use in pre-training language models and RAG systems.
+  - Downloads: 209
+- [chitsanfei/pjsk-emu-dataset](https://huggingface.co/datasets/chitsanfei/pjsk-emu-dataset)
+  - A voice dataset in WAV format from Project Sekai character Emu Otori, unmodified and intended for research use under CC-BY-NC 4.0 licensing.
+  - Downloads: 205
 - [JapanDegitalMaterial/Scenery_of_japan](https://huggingface.co/datasets/JapanDegitalMaterial/Scenery_of_japan)
-  - A public-domain dataset of Japanese scenery images suitable for training text-to-image models.
-  - Downloads: 211
+  - A copyright-free dataset of Japanese scenery images intended for training text-to-image models.
+  - Downloads: 204
 - [efwkjn/reazonspeech_mtl](https://huggingface.co/datasets/efwkjn/reazonspeech_mtl)
-  - A transcription dataset using Whisper for Japanese ASR, excluding audio files.
+  - A transcription dataset for Japanese ASR using Whisper from Reazon Speech, excluding audio.
   - Downloads: 173
+- [YANS-official/senryu-test-with-references](https://huggingface.co/datasets/YANS-official/senryu-test-with-references)
+  - This repository contains crawled data from senryu poetry submission websites, including HTML files and processed results, for training image-to-text and text-to-text tasks in senryu poetry creation.
+  - Downloads: 169
+- [jpft/danbooru2023](https://huggingface.co/datasets/jpft/danbooru2023)
+  - Danbooru2023 is a large crowdsourced anime illustration dataset with over 5 million images and detailed tags for training image-related tasks.
+  - Downloads: 161
+- [alfredplpl/anime-with-caption-cc0](https://huggingface.co/datasets/alfredplpl/anime-with-caption-cc0)
+  - A dataset of anime-style illustrations with copyright-free Japanese captions generated using AI, intended for ethical training of language models.
+  - Downloads: 159
 - [ayousanz/japanese-music-emotion](https://huggingface.co/datasets/ayousanz/japanese-music-emotion)
-  - A JSONL dataset using Music2Emotion for analyzing emotions in Japanese music, including predicted moods and valence/arousal scores.
-  - Downloads: 170
+  - The GitHub repository contains JSONL-formatted data of Japanese music emotion analysis using Music2Emotion, including predicted moods and emotional valence/arousal scores.
+  - Downloads: 149
+- [YANS-official/senryu-test](https://huggingface.co/datasets/YANS-official/senryu-test)
+  - This repository contains crawled data from senryu poetry websites, including images and texts for two tasks: image-to-text and text-to-text, with 70 and 30 prompts respectively.
+  - Downloads: 142
+- [YANS-official/ogiri-test](https://huggingface.co/datasets/YANS-official/ogiri-test)
+  - This GitHub repository contains dataset and tasks for processing Oogiri test data from Bokete, a daito humor site, including text-to-text, image-to-text, and text-image-to-text tasks.
+  - Downloads: 131
 - [hotchpotch/fineweb-2-japanese-noise-spans](https://huggingface.co/datasets/hotchpotch/fineweb-2-japanese-noise-spans)
-  - A dataset from FineWeb2 Japanese web scraping data, containing 300K+ training and 30K test samples with noise spans identified by LLM, specifically using cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese.
-  - Downloads: 164
-- [Fhrozen/CABankSakura](https://huggingface.co/datasets/Fhrozen/CABankSakura)
-  - The CABank Japanese Sakura Corpus is a 31-participant audio study from Japan, available as acopy from the original at https://ca.talkbank.org/access/Sakura.html.
-  - Downloads: 150
+  - This dataset contains noise spans identified in FineWeb2 Japanese web scraping data using LLM, with 300K training and 30K test samples, formatted as strict JSON.
+  - Downloads: 127
 - [Emu-Academic/pjsk-emu-dataset](https://huggingface.co/datasets/Emu-Academic/pjsk-emu-dataset)
-  - Avoice dataset in WAV format from Project Sekai character Emu Otori, size 2735 files, intended for so-vits-svc 4.0 research use only under CC-BY-NC 4.0 license.
+  - A pristine voice dataset in WAV format from Project Sekai character Emu Otori, sized 2735 samples, for research use only under CC-BY-NC 4.0 license.
   - Downloads: 123
+- [Fhrozen/CABankSakuraCHJP](https://huggingface.co/datasets/Fhrozen/CABankSakuraCHJP)
+  - The CABank Japanese CallHome Corpus includes audio recordings from 120 participants from the United States participating in telephone conversations, available with specific citation requirements.
+  - Downloads: 117
 - [TLME/Umamusume-voice-transcription](https://huggingface.co/datasets/TLME/Umamusume-voice-transcription)
-  - The repository contains transcriptions and duration data for voice recordings of characters from Umamusume, including 东商变革 (スイープトウショウ) with a total time of 799.44 seconds.
+  - The repository contains transcriptions and voice recordings of 10 Umamusume characters, with total durations ranging from 713.699 to 1186.907 seconds.
   - Downloads: 116
 - [hpprc/tanaka-corpus](https://huggingface.co/datasets/hpprc/tanaka-corpus)
-  - The repository preprocesses the Tanaka Corpus for HF Datasets, extracting Japanese and English text into a structured format.
-  - Downloads: 104
-- [oshizo/japanese-text-image-retrieval-train](https://huggingface.co/datasets/oshizo/japanese-text-image-retrieval-train)
-  - A dataset pairing images of PDF pages (resized to 896px, 700px, or 588px) with questions generated from the OCR text using Qwen/Qwen2.5-14B-Instruct.
-  - Downloads: 99
-- [YANS-official/senryu-test](https://huggingface.co/datasets/YANS-official/senryu-test)
-  - This repository contains crawled data from "写真川柳" and "川柳投稿まるせん" websites, including 70 image-to-text and 30 text-to-text tasks for川柳 poetry creation, with submissions for a leaderboard evaluation.
-  - Downloads: 92
+  - A preprocess script for the Tanaka Corpus in HF Datasets format.
+  - Downloads: 103
+- [Fhrozen/CABankSakura](https://huggingface.co/datasets/Fhrozen/CABankSakura)
+  - The CABank Japanese Sakura Corpus is a 31-participant audio study collected in Japan, available as a copy from the original dataset at https://ca.talkbank.org/access/Sakura.html.
+  - Downloads: 102
 - [hhim8826/japanese-anime-speech-v2-split](https://huggingface.co/datasets/hhim8826/japanese-anime-speech-v2-split)
   - A dataset split from the Japanese-anime-speech-v2 project.
+  - Downloads: 96
+- [hotchpotch/msmarco-ja-hard-negatives](https://huggingface.co/datasets/hotchpotch/msmarco-ja-hard-negatives)
+  - This repository contains processed Japanese MS MARCO data for hard negative mining and comparisons with mMARCO using the SPLADE model.
   - Downloads: 87
-- [Kendamarron/japanese-photo-instruction](https://huggingface.co/datasets/Kendamarron/japanese-photo-instruction)
-  - A synthetic dataset generated using Qwen/Qwen2-VL-7B-Instruct and Qwen/Qwen2.5-32B-Instruct-AWQ models based on photos from ThePioneer/japanese-photos.
-  - Downloads: 77
-- [Fhrozen/CABankSakuraCHJP](https://huggingface.co/datasets/Fhrozen/CABankSakuraCHJP)
-  - The CABank Japanese CallHome Corpus includes 120 audio recordings from US-based speakers and is used for telephone speech research.
-  - Downloads: 72
-- [davidstap/kanji_definitions](https://huggingface.co/datasets/davidstap/kanji_definitions)
-  - A dataset of 1024x1024 PNG images of Kanji characters, each with a descriptive text meaning.
-  - Downloads: 70
-- [oshizo/ASRClustering-ja](https://huggingface.co/datasets/oshizo/ASRClustering-ja)
-  - A clustered dataset for training and evaluating embedded models, derived from extracted "DescriptionOfBusinessTextBlock" data with sector codes from EDINET, split into train and test sets while maintaining label proportions.
-  - Downloads: 68
-- [ayousanz/common-voice-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/common-voice-speechMOS-analyze)
-  - The analysis using speechMOS on the Common Voice Corpus 17.0 resulted in MOS values saved as audio_analysis_results_speechMOS.json, including histogram data and counts of files above specific SNR values.
-  - Downloads: 67
-- [kanhatakeyama/SyntheticTextOpenMathInstruct](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextOpenMathInstruct)
-  - A corpus of Japanese text generated using Phi-3 from randomly extracted sources, with some processing done on TokyoTech's TSUBAME4.0 supercomputer.
-  - Downloads: 67
-- [ayousanz/reazon-speech-v2-all-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-speechMOS-analyze)
-  - The repository contains audio analysis results using speechMOS to evaluate voice quality, saved in `audio_analysis_results_speechMOS.json`, and includes histograms of the data.
-  - Downloads: 66
-- [Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k)
-  - A synthetic Japanese roleplay instruction dataset of about 1000 entries created by applying Magpie's method to nvidia/Nemotron-4-340B-Instruct, using DeepInfra with potential low-quality records.
-  - Downloads: 64
-- [oshizo/LawClustering-ja](https://huggingface.co/datasets/oshizo/LawClustering-ja)
-  - A clustered dataset of 6,127 XML files from e-Gov, containing concatenated text and labels for laws and regulations, split into train and test sets.
-  - Downloads: 64
-- [trojblue/sakugabooru2025](https://huggingface.co/datasets/trojblue/sakugabooru2025)
-  - Sakugabooru2025 curates over 240,000 animation clips from enthusiasts, aimed at addressing the scarcity of animation-related video datasets for AI and generative models.
-  - Downloads: 63
-- [hotchpotch/jaqket_cc](https://huggingface.co/datasets/hotchpotch/jaqket_cc)
-  - A dataset containing only CC-BY-SA-4.0 licensed quiz data from the official AI King Quartz Knowledge Quiz Dataset (JAQKET).
-  - Downloads: 59
 - [svjack/pokemon-blip-captions-en-ja](https://huggingface.co/datasets/svjack/pokemon-blip-captions-en-ja)
-  - The repository contains Pokémon BLIP captions in English and Japanese for training a text-to-image model, derived from Few Shot Pokémon images.
-  - Downloads: 59
-- [jpft/danbooru2023](https://huggingface.co/datasets/jpft/danbooru2023)
-  - Danbooru2023 is a large-scale, crowdsourced anime illustration dataset with over 5 million images and detailed tags for training various vision tasks.
-  - Downloads: 59
-- [YANS-official/ogiri-debug](https://huggingface.co/datasets/YANS-official/ogiri-debug)
-  - This repository contains a dataset for testing hilarious text and image generation tasks, including text-to-text, image-to-text, and text-image-to-text sub-tasks.
+  - The repository includes Pokémon captions in English and Japanese generated by the BLIP model for training a text-to-image model, derived from images in the FastGAN-pytorch dataset.
+  - Downloads: 84
+- [Kendamarron/japanese-photo-instruction](https://huggingface.co/datasets/Kendamarron/japanese-photo-instruction)
+  - This repository contains a synthetic dataset generated using Qwen/Qwen2-VL-7B-Instruct and Qwen/Qwen2.5-32B-Instruct-AWQ models based on photos from the ThePioneer/japanese-photos dataset.
+  - Downloads: 74
+- [oshizo/japanese-text-image-retrieval-train](https://huggingface.co/datasets/oshizo/japanese-text-image-retrieval-train)
+  - This dataset consists of PDF pages converted to images, paired with text extracted via NDLOCR, and includes generated questions in Japanese using Qwen/Qwen2.5-14B-Instruct.
+  - Downloads: 70
+- [davidstap/kanji_definitions](https://huggingface.co/datasets/davidstap/kanji_definitions)
+  - A dataset of 1024x1024 PNG images of Kanji characters with descriptive text, derived from KanjiVG.
+  - Downloads: 63
+- [ayousanz/reazon-speech-v2-all-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-speechMOS-analyze)
+  - The repository contains audio analysis results using speechMOS, saved in `audio_analysis_results_speechMOS.json` with MOS values, SNR, and transcriptions, formatted as "filename": {"MOS值": snr_value, " transcription": transcription}, converted into histograms. The analysis was supported by AiHUB for computational resources.
   - Downloads: 58
-- [Calvin-Xu/Furigana-Aozora-Speech](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora-Speech)
-  - A dataset of 3.3 million Japanese text entries with hiragana annotations derived from 青空文庫和萨皮埃的音声DAISY数据。去重并清理了文本文件中的重复项及不含汉字的条目。
+- [oshizo/LawClustering-ja](https://huggingface.co/datasets/oshizo/LawClustering-ja)
+  - A clustered dataset for training and evaluating embedding models, containing 6,127 XML files from e-Gov with legal titles and texts categorized into 14 classes.
+  - Downloads: 58
+- [ayousanz/common-voice-speechMOS-analyze](https://huggingface.co/datasets/ayousanz/common-voice-speechMOS-analyze)
+  - The analysis using speechMOS on the Common Voice Corpus 17.0 resulted in an audio_analysis_results_speechMOS.json file with MOS values and a histogram, showing counts of files above SNR 1, 2, and 3.
+  - Downloads: 57
+- [Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Roleplay-Instruction-Nemotron-4-1k)
+  - A dataset of approximately 1000 Japanese roleplay instructions created by applying Magpie's method to nvidia/Nemotron-4-340B-Instruct, made using DeepInfra with potential low-quality records.
+  - Downloads: 56
+- [oshizo/ASRClustering-ja](https://huggingface.co/datasets/oshizo/ASRClustering-ja)
+  - A clustered dataset of business description texts, extracted and labeled from EDINET data, split into training and testing sets while preserving label distribution.
+  - Downloads: 55
+- [YANS-official/ogiri-debug](https://huggingface.co/datasets/YANS-official/ogiri-debug)
+  - A dataset for testing text and image-based humor generation tasks, including text-to-text, image-to-text, and text-image-to-text tasks.
   - Downloads: 54
-- [kunishou/HelpSteer-35k-ja](https://huggingface.co/datasets/kunishou/HelpSteer-35k-ja)
-  - A Japanese-translated trial dataset for NVIDIA's SteerLM, useful for alignment testing and training method references.
-  - Downloads: 54
-- [kunishou/jp-effective-instructions](https://huggingface.co/datasets/kunishou/jp-effective-instructions)
-  - A curated dataset combining high-quality subsets from oasst1-89k-ja, databricks-dolly-15k-ja, and hh-rlhf-49k-ja for JGLUE evaluation, licensed under Apache 2.0, CC-BY-SA-3.0, or MIT as original.
+- [kanhatakeyama/SyntheticTextOpenMathInstruct](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextOpenMathInstruct)
+  - Randomly extracted Japanese text from a data source is used to generate a corpus with Phi-3, part of OpenMathInstruct-1-1.8m-ja, partially utilizing Tokyo Tech's TSUBAME4.0 supercomputer for computations.
   - Downloads: 53
-- [YANS-official/ogiri-test](https://huggingface.co/datasets/YANS-official/ogiri-test)
-  - The repository contains datasets for three tasks from crawled data of the大喜利 website Bokete, including text_to_text, image_to_text, and text_image_to_text, with specified numbers of items.
-  - Downloads: 47
-- [toshi456/LLaVA-JP-Instruct-108K](https://huggingface.co/datasets/toshi456/LLaVA-JP-Instruct-108K)
-  - A dataset converting Japanese Visual Genome VQA and docci_ja training data into LLaVA-Instruct format, licensed under Apache License 2.0.
-  - Downloads: 46
-- [toshi456/Rakuten-Alpaca-Data-32K](https://huggingface.co/datasets/toshi456/Rakuten-Alpaca-Data-32K)
-  - The repository contains "Rakuten-Alpaca-Data-32K," a dataset of Japanese instructional data auto-generated using Rakuten/RakutenAI-7B-chat, with seed tasks from seed_tasks_japanese.jsonl, licensed under Apache 2.0.
-  - Downloads: 45
+- [kunishou/HelpSteer-35k-ja](https://huggingface.co/datasets/kunishou/HelpSteer-35k-ja)
+  - A Japanese-translated trial dataset for NVIDIA's SteerLM, suitable for alignment trials, with guides and related resources provided.
+  - Downloads: 52
+- [trojblue/sakugabooru2025](https://huggingface.co/datasets/trojblue/sakugabooru2025)
+  - Sakugabooru2025 curates over 240,000 animation clips from enthusiasts for Japanese anime and beyond, addressing the shortage of animation datasets.
+  - Downloads: 51
+- [umiyuki/JDocQA_SingleImage](https://huggingface.co/datasets/umiyuki/JDocQA_SingleImage)
+  - JDocQA_SingleImage is a reduced-size dataset from shunk031/JDocQA, containing Japanese PDF questions converted to 200dpi PNG images, with multi-image and image-unavailable questions removed.
+  - Downloads: 51
+- [kunishou/jp-effective-instructions](https://huggingface.co/datasets/kunishou/jp-effective-instructions)
+  - A curated dataset of high-quality Japanese data from oasst1-89k-ja, databricks-dolly-15k-ja, and hh-rlhf-49k-ja, licensed under Apache 2.0, CC-BY-SA-3.0, or MIT, specifically selected for JGLUE benchmarks.
+  - Downloads: 50
+- [hotchpotch/jaqket_cc](https://huggingface.co/datasets/hotchpotch/jaqket_cc)
+  - A dataset containing only CC-BY-SA-4.0 licensed quiz data from the JAQKET dataset, suitable for AI training and research.
+  - Downloads: 49
+- [Calvin-Xu/Furigana-Aozora-Speech](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora-Speech)
+  - A dataset of 3,361,443 processed text entries with hiragana annotations derived from 青空文庫 and Sapie's voice Daisy data, excluding duplicates and entries without kanji.
+  - Downloads: 48
 - [deepghs/fgo_voices_jp](https://huggingface.co/datasets/deepghs/fgo_voices_jp)
-  - A dataset of 30,800 Japanese voice-text recordings from 66.4 hours of FGO playable characters' voices, each with one voice actor, for ASR/ASV model training and evaluation.
-  - Downloads: 44
-- [Calvin-Xu/FLFL-Aozora-Speech-Train](https://huggingface.co/datasets/Calvin-Xu/FLFL-Aozora-Speech-Train)
-  - A cleaned-up version of Calvin-Xu/Furigana-Aozora-Speech with 2,536,041 entries out of 3,361,443, including sanity-checking for common kanji readings.
-  - Downloads: 41
+  - A Japanese voice-text dataset for FGO characters, including 30800 records with 66.4 hours of audio, featuring one voice actor per voice to aid ASR/ASV model training and evaluation.
+  - Downloads: 45
+- [toshi456/Rakuten-Alpaca-Data-32K](https://huggingface.co/datasets/toshi456/Rakuten-Alpaca-Data-32K)
+  - The repository contains "Rakuten-Alpaca-Data-32K," a dataset of Japanese instruction data automatically generated using Rakuten/RakutenAI-7B-chat, with some quality filtering recommended due to its low initial quality.
+  - Downloads: 43
 - [Nexdata/Japanese_Pronunciation_Dictionary](https://huggingface.co/datasets/Nexdata/Japanese_Pronunciation_Dictionary)
-  - A dataset of 101,702 Japanese words with their pronunciations in hiragana, curated by Japanese linguists, for use in Japanese ASR technology research.
-  - Downloads: 38
+  - The repository contains 101,702 entries of Japanese words and their pronunciations, produced by linguists, for ASR technology research.
+  - Downloads: 41
+- [toshi456/LLaVA-JP-Instruct-108K](https://huggingface.co/datasets/toshi456/LLaVA-JP-Instruct-108K)
+  - A Japanese Visual Genome VQA dataset modified into LLaVA-Instruct format, including changes from docci_ja train data, licensed under Apache License 2.0.
+  - Downloads: 41
 - [yutakobayashi/diet-members-voice-embeddings](https://huggingface.co/datasets/yutakobayashi/diet-members-voice-embeddings)
-  - This repository contains embedded voice embeddings of Japanese parliament members' speeches for tasks such as speaker separation and analysis of parliamentary broadcasts.
-  - Downloads: 35
+  - This dataset contains embedded voice embeddings of Japanese parliament members generated using speechbrain/spkrec-ecapa-voxceleb, suitable for speaker separation tasks and analyses of parliamentary speeches or broadcasts.
+  - Downloads: 36
 - [jaCappella/jaCappella](https://huggingface.co/datasets/jaCappella/jaCappella)
-  - The jaCappella corpus includes musical scores and audio recordings of Japanese a cappella children's songs with six voice parts.
-  - Downloads: 25
+  - The jaCappella corpus includes musical scores and audio recordings of Japanese a cappella vocal ensemble songs from out-of-copyright children's songs, featuring six voice parts.
+  - Downloads: 34
+- [Calvin-Xu/FLFL-Aozora-Speech-Train](https://huggingface.co/datasets/Calvin-Xu/FLFL-Aozora-Speech-Train)
+  - A cleaned-up version of Calvin-Xu/Furigana-Aozora-Speech, filtering out inaccuracies in Whispers-generated transcriptions, containing 2.5 million entries.
+  - Downloads: 32
 - [turing-motors/LLaVA-Instruct-150K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Instruct-150K-JA)
-  - A Japanese translation of the LLaVA Visual Instruct 150K dataset, aiming to support research and applications in theJapanese language domain, licensed under CC BY-NC-4.0.
-  - Downloads: 19
+  - A Japanese translation of the LLaVA Visual Instruct 150K dataset for use in Japanese language applications, licensed under CC BY-NC-4.0.
+  - Downloads: 16
 - [BigleBomb/japanese-vet-terms](https://huggingface.co/datasets/BigleBomb/japanese-vet-terms)
-  - A Japanese veterinary medicine audio dataset categorized into drugs, diseases, and symptoms, suitable for training purposes.
+  - A Japanese veterinary medicine dataset including audio files categorized into drugs, diseases, and symptoms, with metadata for audio paths and transcripts.
   - Downloads: 12
 - [sin2piusc/jgca_v2_50k_2](https://huggingface.co/datasets/sin2piusc/jgca_v2_50k_2)
   - common voice, google fleurs, JSUTv1.1, JAS_v2 (joujiboi/japanese-anime-speech-v2)
   - Downloads: 11
 ### Multilinguality
 - [lmg-anon/vntl-leaderboard](https://huggingface.co/datasets/lmg-anon/vntl-leaderboard)
-  - The VNTL leaderboard ranks LLMs based on their Japanese Visual Novel to English translations, with comparisons to traditional translation tools.
-  - Downloads: 3,306
-- [kogi-jwu/jhumaneval](https://huggingface.co/datasets/kogi-jwu/jhumaneval)
-  - A manually corrected Japanese translation of the HumanEval dataset for evaluating large language models' code generation abilities, preserving some errors from the English version.
-  - Downloads: 1,305
+  - The VNTL leaderboard evaluates LLMs on Japanese Visual Novel translations into English, with preliminary results comparable to traditional translation tools.
+  - Downloads: 1,217
 - [defunct-datasets/amazon_reviews_multi](https://huggingface.co/datasets/defunct-datasets/amazon_reviews_multi)
-  - The defunct multilingual Amazon reviews dataset "amazon_reviews_multi" included product reviews in multiple languages from 2015 to 2019 for text classification.
-  - Downloads: 1,198
+  - The defunct multilingual Amazon Reviews Corpus includes product reviews in six languages (English, Japanese, German, French, Chinese, Spanish) from 2015 to 2019 for text classification.
+  - Downloads: 1,091
 - [llm-jp/relaion2B-en-research-safe-japanese-translation](https://huggingface.co/datasets/llm-jp/relaion2B-en-research-safe-japanese-translation)
-  - The repository contains the Japanese translation of the English subset of ReLAION-5B, translated using open-weight LLMs and vLLM.
-  - Downloads: 598
+  - A dataset containing the Japanese translations of the English subset from ReLAION-5B, translated using open-weight LLMs and vLLM.
+  - Downloads: 697
+- [kogi-jwu/jhumaneval](https://huggingface.co/datasets/kogi-jwu/jhumaneval)
+  - A Japanese hand-translated version of HumanEval for evaluating large language models' code generation capabilities, ensuring high-quality translations and manually verified code readability.
+  - Downloads: 461
 - [bclavie/mmarco-japanese-hard-negatives](https://huggingface.co/datasets/bclavie/mmarco-japanese-hard-negatives)
-  - The repository contains Japanese queries from the MMarco dataset with up to 25 hard negative samples retrieved by mE5 and 10 by BM25.
-  - Downloads: 490
-- [hpprc/kaken-trans-ja-en](https://huggingface.co/datasets/hpprc/kaken-trans-ja-en)
-  - A translated dataset from the Qwen/Qwen2.5-32B-Instruct model of Japanese text in the kaken subset of llm-jp-corpus-v3 to English, intended as an open Japanese-English parallel corpus.
-  - Downloads: 483
+  - The repository includes queries from the Japanese MMarco dataset with up to 35 matching hard negatives using e5 and BM25 models.
+  - Downloads: 406
 - [hotchpotch/ms_marco_japanese](https://huggingface.co/datasets/hotchpotch/ms_marco_japanese)
-  - The GitHub repository contains Japanese translations of the ms_marco dataset using google/madlad400-3b-mt, processed with a HuggingFace structure but lower quality compared to mMARCO.
-  - Downloads: 476
+  - The GitHub repository contains Japanese translations of the ms_marco dataset using google/madlad400-3b-mt, stored with the same structure as the original, but with lower translation quality compared to mMARCO.
+  - Downloads: 387
 - [p1atdev/gsm8k-ja-slim](https://huggingface.co/datasets/p1atdev/gsm8k-ja-slim)
   - A Japanese translation of openai/gsm8k with answers extracted, using nejumi/phi-4-GPTQ-Int4-calib-ja-1k, containing some invalid data.
-  - Downloads: 418
+  - Downloads: 378
 - [hpprc/kaken-translations-ja-en](https://huggingface.co/datasets/hpprc/kaken-translations-ja-en)
   - llm-jp-corpus-v3のkakenサブセット中の日本語テキストを、Qwen/Qwen2.5-32B-Instructを用いて日本語から英語に翻訳したデータセットです。
   - Downloads: 365
+- [hpprc/kaken-trans-ja-en](https://huggingface.co/datasets/hpprc/kaken-trans-ja-en)
+  - A dataset translating Japanese text from the kaken subset of llm-jp-corpus-v3 using Qwen/Qwen2.5-32B-Instruct into English, with a CC-BY 4.0 license.
+  - Downloads: 228
 - [NilanE/ParallelFiction-Ja_En-100k](https://huggingface.co/datasets/NilanE/ParallelFiction-Ja_En-100k)
-  - This repository contains Japanese web novel chapters aligned with their English fan translations, structured for document translation tasks and including metadata like series titles, genres, and alignment scores.
-  - Downloads: 205
-- [zan/lima-ja](https://huggingface.co/datasets/zan/lima-ja)
-  - The repository contains the Japanese translation of Meta's LIMA dataset, named LIMA-JA, along with minor adjustments, and provides a dataset card for easy loading using Hugging Face's datasets library.
-  - Downloads: 198
+  - The repository contains Japanese web novel chapters aligned with their English translations, including metadata for series title, alignment score, and NovelUpdates links.
+  - Downloads: 160
 - [fujiki/guanaco_ja](https://huggingface.co/datasets/fujiki/guanaco_ja)
-  - A portion of the Guanaco dataset in Japanese, comparable to datasets like Alpaca-Guanaco-Japanese-GPT-1b.
-  - Downloads: 185
+  - A portion of the Guanaco dataset in Japanese, similar to inu-ai/alpaca-guanaco-japanese-gpt-1b.
+  - Downloads: 159
+- [zan/lima-ja](https://huggingface.co/datasets/zan/lima-ja)
+  - A Japanese translation of the LIMA dataset used for training Meta's LIMA model, accessible via Hugging Face datasets.
+  - Downloads: 153
 - [joujiboi/bluemoon-fandom-1-1-rp-jp-translated](https://huggingface.co/datasets/joujiboi/bluemoon-fandom-1-1-rp-jp-translated)
-  - A subset of the bluemoon-fandom-1-1-rp-cleaned RP translated to Japanese using command-r-08-2024, leveraging OpenRouter's API for efficient and high-quality uncensored nsfw translation.
-  - Downloads: 170
-- [Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus](https://huggingface.co/datasets/Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus)
-  - A curated subset of 1M high-quality rows from ntt's JParaCrawl v3 English-Japanese corpus, filtered by an LLM to improve alignment and reduce质量问题。
-  - Downloads: 144
-- [llm-jp/oasst2-33k-ja](https://huggingface.co/datasets/llm-jp/oasst2-33k-ja)
-  - This repository offers a Japanese translation of an English dataset from oasst2, created by LLM-jp for instruction tuning.
-  - Downloads: 139
+  - A subset of bluemoon-fandom-1-1-rp-cleaned translated to Japanese using command-r-08-2024.
+  - Downloads: 150
 - [Aratako/Synthetic-JP-EN-Coding-Dataset-801k-50k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-801k-50k)
-  - A dataset of 50,000 English sentences extracted from Synthetic-JP-EN-Coding-Dataset-801k. Refer to the original dataset's overview for details and注意事项。
-  - Downloads: 129
-- [sudy-super/CoTangent](https://huggingface.co/datasets/sudy-super/CoTangent)
-  - CoTangent is a high-quality, cleanly/manual-curated dataset of 100 sets for Chain-of-Thought reasoning in Japanese, with both merged and separated CoT and output parts.
-  - Downloads: 120
+  - A dataset of 50,000 English excerpts extracted from Aratako/Synthetic-JP-EN-Coding-Dataset-801k.
+  - Downloads: 139
+- [llm-jp/oasst2-33k-ja](https://huggingface.co/datasets/llm-jp/oasst2-33k-ja)
+  - This repository offers a Japanese instruction tuning dataset translated from an English subset of oasst2 using DeepL, developed as part of the LLM-jp project.
+  - Downloads: 137
+- [llm-jp/Synthetic-JP-EN-Coding-Dataset](https://huggingface.co/datasets/llm-jp/Synthetic-JP-EN-Coding-Dataset)
+  - The repository offers an instruction tuning dataset for LLMs, derived from a Japanese collaborative project, excluding the full Aratako dataset.
+  - Downloads: 132
 - [p1atdev/ichikara-instruction](https://huggingface.co/datasets/p1atdev/ichikara-instruction)
   - ichikara-instruction (Non Commercial) LLMのための日本語インストラクションデータ 公開ページ 公開ページより、 本データに関して、言語処理学会第３０回年次大会において発表を行います。
   - Downloads: 117
-- [fujiki/japanese_hh-rlhf-49k](https://huggingface.co/datasets/fujiki/japanese_hh-rlhf-49k)
-  - A modified version of kunishou/hh-rlhf-49k-ja excluding ng_translation == 1 examples.
-  - Downloads: 108
-- [llm-jp/Synthetic-JP-EN-Coding-Dataset](https://huggingface.co/datasets/llm-jp/Synthetic-JP-EN-Coding-Dataset)
-  - A dataset for instruction tuning developed by the collaborative LLM-jp project, comprising a subset of Aratako/Synthetic-JP-EN-Coding-Dataset-801k.
-  - Downloads: 108
 - [tellarin-ai/llm-japanese-dataset-vanilla-aya-format](https://huggingface.co/datasets/tellarin-ai/llm-japanese-dataset-vanilla-aya-format)
-  - A converted CC-BY-SA 4.0 licensed Japanese instruction dataset (~2.46M rows) for LLMs, originally v1.0.0, credits to Jian Wu for conversion.
-  - Downloads: 108
-- [Nexdata/English-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/English-Japanese_Parallel_Corpus_Data)
-  - The Nexdata/English-Japanese_Parallel_Corpus_Data repository contains 850,000 desensitized and quality-checked bilingual texts (23 words on average) covering various fields, suitable for machine translation and text data analysis.
-  - Downloads: 108
-- [toshi456/llava-bench-in-the-wild-ja](https://huggingface.co/datasets/toshi456/llava-bench-in-the-wild-ja)
-  - A corrected dataset for Japanese translations in MBZUAI/multilingual-llava-bench-in-the-wild, based on liuhaotian/llava-bench-in-the-wild.
+  - The GitHub repository houses an LL M Japanese instruction dataset (Aya format v1.0.0) with 2.46M rows, converted from its original format and released under CC-BY-SA 4.0.
   - Downloads: 105
-- [Verah/tatoeba_dedupe_en-jp_2024-March-01](https://huggingface.co/datasets/Verah/tatoeba_dedupe_en-jp_2024-March-01)
-  - A randomized English-Japanese translation dataset derived fromhttps://tatoeba.org/en/downloads with duplicates removed.
-  - Downloads: 101
-- [NilanE/SmallParallelDocs-Ja_En-6k](https://huggingface.co/datasets/NilanE/SmallParallelDocs-Ja_En-6k)
-  - The repository includes Apache 2.0 licensed Japanese-English parallel texts for translation tasks, sourced from various documents with variable licensing conditions.
-  - Downloads: 99
 - [FreedomIntelligence/MMLU_Japanese](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Japanese)
-  - A GPT-3.5-Turbo-translated Japanese version of MMLU dataset for MultilingualSIFT research.
+  - A GPT-3.5-turbo-translated Japanese version of MMLU dataset for MultilingualSIFT research.
+  - Downloads: 102
+- [toshi456/llava-bench-in-the-wild-ja](https://huggingface.co/datasets/toshi456/llava-bench-in-the-wild-ja)
+  - This repository corrects translation errors and fills gaps in Japanese data for MBZUAI's multilingual-llava-bench-in-the-wild, based on the original liuhaotian/llava-bench-in-the-wild dataset.
+  - Downloads: 102
+- [fujiki/japanese_hh-rlhf-49k](https://huggingface.co/datasets/fujiki/japanese_hh-rlhf-49k)
+  - A slightly modified version of the kunishou/hh-rlhf-49k-ja dataset excluding ng_translation == 1 examples, see original for details.
   - Downloads: 99
-- [hpprc/alt-parallel-en-ja](https://huggingface.co/datasets/hpprc/alt-parallel-en-ja)
-  - A dataset containing only the Japanese-English translations from the ALT Parallel Corpus, utilizing data from the HuggingFace repository.
-  - Downloads: 97
-- [mpasila/ParallelFiction-Ja_En-100k-json](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-json)
-  - A JSON conversion of NilanE/ParallelFiction-Ja_En-100k for text-generation-webui, containing Japanese web novel chapters and their English translations.
-  - Downloads: 95
-- [aixsatoshi/Longcontext-aozora-instruction](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-instruction)
-  - A dataset for long-text instruction data, primarily using Aozorabunko cleaning data, without filtered QA pairs due to performance limitations, suitable for fine-tuning with model-specific effects. Licensed under CC BY 4.0.
-  - Downloads: 81
-- [llm-jp/mbpp-ja](https://huggingface.co/datasets/llm-jp/mbpp-ja)
-  - This repository contains a Japanese translation of the mbpp dataset created by LLM-jp, using DeepL for English to Japanese translation.
-  - Downloads: 79
-- [karakuri-ai/corrected-mt-bench-ja](https://huggingface.co/datasets/karakuri-ai/corrected-mt-bench-ja)
-  - A corrected translation of MT-Bench-ja using AI inflection, including some questions from Stability AI's Japanese MT-Bench.
-  - Downloads: 77
-- [Hoshikuzu/Tanaka-corpus](https://huggingface.co/datasets/Hoshikuzu/Tanaka-corpus)
-  - The Tanaka-corpus dataset contains Japanese-English pairs compiled by Professor Yasuhito Tanaka and his students, originally released at Pacling2001.
-  - Downloads: 76
-- [Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k)
-  - A 20,000-item synthetic Japanese-English translation dataset created using Magpie's approach applied to nvidia/Nemotron-4-340B-Instruct, featuring code and instructions for data generation with potential low-quality records.
-  - Downloads: 76
 - [llm-book/jsnli](https://huggingface.co/datasets/llm-book/jsnli)
-  - The repository includes filtered training and validation sets from JSNLI v1.1 for the book "大规模语言模型入门" and is licensed under CC BY-SA 4.0.
-  - Downloads: 76
+  - The repository contains filtered training and validation sets from JSNLI v1.1 for the book "Large Language Models Made Simple," licensed under CC BY-SA 4.0.
+  - Downloads: 99
+- [Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus](https://huggingface.co/datasets/Verah/JParaCrawl-Filtered-English-Japanese-Parallel-Corpus)
+  - A filtered subset of 1M rows from the original JParaCrawl v3 corpus, containing English-Japanese translations with quality improvements.
+  - Downloads: 90
+- [sudy-super/CoTangent](https://huggingface.co/datasets/sudy-super/CoTangent)
+  - The GitHub repository contains 100 high-quality, manually created Japanese CoT datasets in both connected (CoTangent_ja.json) and separated (CoTangent_separated_ja.json) formats.
+  - Downloads: 80
+- [Hoshikuzu/Tanaka-corpus](https://huggingface.co/datasets/Hoshikuzu/Tanaka-corpus)
+  - The Tanaka-corpus dataset contains Japanese-English pairs compiled by Yasuhito Tanaka and his students at Hyogo University for use in language research.
+  - Downloads: 73
 - [Mitsua/wikidata-parallel-descriptions-en-ja](https://huggingface.co/datasets/Mitsua/wikidata-parallel-descriptions-en-ja)
-  - A processed English-Japanese parallel corpus fromWikidata, ready for translation tasks using Hugging Face transformers, with filtering applied due to non-direct translations.
-  - Downloads: 76
-- [yubo0306/fed_ja](https://huggingface.co/datasets/yubo0306/fed_ja)
-  - A Japanese-translated FED dataset using Google Cloud Translate API v2, with potential inconsistencies between dimensions and annotations that should be noted.
-  - Downloads: 74
-- [turing-motors/LLaVA-Pretrain-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Pretrain-JA)
-  - A Japanese translation of the LLaVA Pretrain dataset using DeepL API, licensed under CC-3M and BLIP, for use in Japanese-language applications.
-  - Downloads: 71
-- [Nexdata/Chinese-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Chinese-Japanese_Parallel_Corpus_Data)
-  - A Chinese-Japanese parallel corpus dataset with 9.83 million sentence pairs, covering multiplefields and desensitized for text analysis and machine translation.
-  - Downloads: 70
+  - A processed English-Japanese parallel corpus from Wikidata dumps, suitable for translation tasks using Hugging Face transformers.
+  - Downloads: 72
 - [liboaccn/OPUS-MIT-5M](https://huggingface.co/datasets/liboaccn/OPUS-MIT-5M)
-  - The OPUS-MIT-5M dataset contains 5 million randomly sampled sentence pairs from the OPUS corpus, ensuring balanced representation across 20 language pairs for multilingual image translation.
+  - The OPUS-MIT-5M dataset contains 5 million randomly sampled multilingual image-to-text pairs from the OPUS corpus, ensuring balanced language representation for robust multilingual image translation.
+  - Downloads: 69
+- [mpasila/ParallelFiction-Ja_En-100k-json](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-json)
+  - A JSON conversion of Japanese web novel chapters and their English translations for text generation model training.
   - Downloads: 68
-- [llm-jp/hh-rlhf-12k-ja](https://huggingface.co/datasets/llm-jp/hh-rlhf-12k-ja)
-  - This repository offers a 12,000-entry Japanese translation dataset derived from hh-rlhf using DeepL for human preference learning in LLMs, comprising 3,000 samples from four training groups.
-  - Downloads: 68
-- [kurogane/DSR1D-Llama-8B-aya-ja-1k-generated](https://huggingface.co/datasets/kurogane/DSR1D-Llama-8B-aya-ja-1k-generated)
-  - This repository contains 1000 generated Japanese responses using the deepseek-ai/DeepSeek-R1-Distill-Llama-8B model, with some formatting issues and reduced accuracy due to 8-bit generation.
-  - Downloads: 67
-- [aixsatoshi/Longcontext-aozora-summary](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-summary)
-  - A summary dataset from a long text corpus using the Aozora Bunko dataset, licensed under CC BY 4.0.
-  - Downloads: 66
 - [U23-lab/wiki40b_qa_ja](https://huggingface.co/datasets/U23-lab/wiki40b_qa_ja)
-  - A question-answer dataset generated from the wiki40b-ja.
+  - A question-answer dataset generated from wiki40b-ja.
+  - Downloads: 68
+- [Nexdata/English-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/English-Japanese_Parallel_Corpus_Data)
+  - The GitHub repository contains 850,000 English-Japanese parallel corpus texts, averaged at 23 words per English sentence, covering various fields and including desensitized and质量检查的数据，适用于机器翻译等领域的文本数据分析基础 CORPORUS已进行去标识化和质量检查，涵盖多个领域，适合作为机器翻译等领域文本数据分析的基础语料库。
+  - Downloads: 67
+- [hpprc/alt-parallel-en-ja](https://huggingface.co/datasets/hpprc/alt-parallel-en-ja)
+  - A dataset containing only the Japanese-English translation pairs from the ALT Parallel Corpus, utilizing data from the HuggingFace repository.
+  - Downloads: 67
+- [kurogane/DSR1D-Llama-8B-aya-ja-1k-generated](https://huggingface.co/datasets/kurogane/DSR1D-Llama-8B-aya-ja-1k-generated)
+  - Generated from deepseek-ai/DeepSeek-R1-Distill-Llama-8B, this contains approximately 1000 Japanese responses with some formatting issues and reduced accuracy.
+  - Downloads: 67
+- [turing-motors/LLaVA-Pretrain-JA](https://huggingface.co/datasets/turing-motors/LLaVA-Pretrain-JA)
+  - A Japanese translation of the LLaVA Pretrain dataset using DeepL API, licensed under CC-3M and BLIP, for use in Japanese language applications.
   - Downloads: 66
 - [ebisuke/liz-nojaloli-ja-ds](https://huggingface.co/datasets/ebisuke/liz-nojaloli-ja-ds)
-  - A MIT-licensed dataset for fine-tuning Plan RLHF, handcrafted by ebisuke.
+  - A MIT-licensed dataset for RLHF practice, handcrafted by ebisuke.
+  - Downloads: 65
+- [NilanE/SmallParallelDocs-Ja_En-6k](https://huggingface.co/datasets/NilanE/SmallParallelDocs-Ja_En-6k)
+  - A Japanese-English parallel dataset for translation tasks, licensed under Apache 2.0 with varying sources and potential conflicts.
+  - Downloads: 65
+- [llm-jp/mbpp-ja](https://huggingface.co/datasets/llm-jp/mbpp-ja)
+  - This repository offers a Japanese translation of the mbpp dataset created by LLM-jp, using DeepL for English to Japanese translation.
   - Downloads: 64
-- [seungwon929/Ja-miracl](https://huggingface.co/datasets/seungwon929/Ja-miracl)
-  - The Ja-miracl dataset converts the Japanese section of the miracl dataset to BeIR format for use with mteb.
+- [aixsatoshi/Longcontext-aozora-summary](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-summary)
+  - A summary dataset from long texts, using the Aozora Bunko corpus licensed under CC BY 4.0.
+  - Downloads: 63
+- [aixsatoshi/Longcontext-aozora-instruction](https://huggingface.co/datasets/aixsatoshi/Longcontext-aozora-instruction)
+  - A dataset for long-text instruction data, utilizing Aozorabunko cleansed data, primarily for QA-style prompts without filtering, suitable for fine-tuning but performance-dependent.
   - Downloads: 62
-- [dichmau/ja_vi_translation](https://huggingface.co/datasets/dichmau/ja_vi_translation)
-  - Translated sentence pairs from Japanese to Vietnamese.
+- [Verah/tatoeba_dedupe_en-jp_2024-March-01](https://huggingface.co/datasets/Verah/tatoeba_dedupe_en-jp_2024-March-01)
+  - English-Japanese translation pairs from Tatoeba, deduplicated and randomly ordered.
   - Downloads: 61
+- [llm-jp/hh-rlhf-12k-ja](https://huggingface.co/datasets/llm-jp/hh-rlhf-12k-ja)
+  - This repository offers a Japanese translation dataset of 12,000 entries from hh-rlhf, including 3,000 randomly selected samples from four LLM-jp groups.
+  - Downloads: 61
+- [karakuri-ai/corrected-mt-bench-ja](https://huggingface.co/datasets/karakuri-ai/corrected-mt-bench-ja)
+  - A corrected Japanese translation of MT-Bench using AI inflection, including some questions from Stability AI's Japanese MT-Bench.
+  - Downloads: 60
 - [izumi-lab/piqa-ja-mbartm2m](https://huggingface.co/datasets/izumi-lab/piqa-ja-mbartm2m)
-  - A Japanese translation dataset for PiQA using Facebook's MBART-large-50 model, licensed under the same terms as the original.
-  - Downloads: 58
-- [saillab/alpaca-japanese-cleaned](https://huggingface.co/datasets/saillab/alpaca-japanese-cleaned)
-  - The repository contains the dataset used for enhancing cross-lingual transfer in LLMs through translation-assisted chain-of-thought processes, as detailed in the TaCo paper. Please cite when using the dataset.
-  - Downloads: 58
-- [toshi456/ViQuAE-JA](https://huggingface.co/datasets/toshi456/ViQuAE-JA)
-  - A dataset created by machine-translating "ViQuAE" answers into Japanese, including translated `original_answer_ja` but not translating `answer`.
+  - A Japanese translation dataset of piQA using mbart-large-50, licensed under the same terms as piQA.
+  - Downloads: 59
+- [Nexdata/Chinese-Japanese_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Chinese-Japanese_Parallel_Corpus_Data)
+  - A dataset containing 9.83 million pairs of Chinese-Japanese sentences, covering multiple fields and suitable for text data analysis including machine translation.
   - Downloads: 56
-- [werty1248/OpenOrca-EnKoZhJa-18k](https://huggingface.co/datasets/werty1248/OpenOrca-EnKoZhJa-18k)
-  - The repository collects translations of English text into Korean, Chinese, and Japanese from OpenOrca datasets, using various APIs and similarity measures for matching.
+- [dichmau/ja_vi_translation](https://huggingface.co/datasets/dichmau/ja_vi_translation)
+  - Japanese-Vietnamese translated sentence pairs available for use and analysis.
   - Downloads: 53
-- [hpprc/TALPCo](https://huggingface.co/datasets/hpprc/TALPCo)
-  - A cleaned TALPCo dataset with Japanese-English translation pairs in HuggingFace format, without whitespace characters from tokenization, licensed under CC-BY 4.0.
-  - Downloads: 52
+- [toshi456/ViQuAE-JA](https://huggingface.co/datasets/toshi456/ViQuAE-JA)
+  - A dataset created by machine-translating "ViQuAE" answers into Japanese, excluding the original answer field.
+  - Downloads: 51
+- [seungwon929/Ja-miracl](https://huggingface.co/datasets/seungwon929/Ja-miracl)
+  - The Ja-miracl dataset is a converted version of the Japanese section from the miracl dataset in BeIR format for mteb compatibility.
+  - Downloads: 51
+- [Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Translation-Dataset-Magpie-Nemotron-4-20k)
+  - A Magpie-applied dataset of 20,000 Japanese-English translations created using DeepInfra, with code for dataset generation included.
+  - Downloads: 50
 - [FrancophonIA/XFUND](https://huggingface.co/datasets/FrancophonIA/XFUND)
-  - XFUND is a multilingual form understanding benchmark dataset with key-value pairs labeled in 7 languages for form parsing and extraction.
+  - XFUND is a multilingual form understanding benchmark dataset including 7 languages with key-value pairs for form processing.
   - Downloads: 50
 - [mpasila/ParallelFiction-Ja_En-100k-alpaca-4k-context](https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-alpaca-4k-context)
-  - A chunked 4096-token version of NilanE/ParallelFiction-Ja_En-100k in Alpaca format for use with augmxnt/shisa-base-7b-v1 model, with the original dataset containing aligned Japanese web novel chapters and English translations.
-  - Downloads: 49
-- [saillab/alpaca_japanese_taco](https://huggingface.co/datasets/saillab/alpaca_japanese_taco)
-  - This repository includes a dataset formatted according to TaCo guidelines for use in cross-lingual instruction-following tasks.
-  - Downloads: 42
+  - A chunked Alpaca-format dataset of Japanese-English web novel translations, split into 4096-token chunks for the augmxnt/shisa-base-7b-v1 model.
+  - Downloads: 47
+- [yubo0306/fed_ja](https://huggingface.co/datasets/yubo0306/fed_ja)
+  - A Japanese-translated FED dataset using Google Cloud Translate API v2, with potential inconsistencies in dimensions. Use with caution.
+  - Downloads: 47
+- [werty1248/OpenOrca-EnKoZhJa-18k](https://huggingface.co/datasets/werty1248/OpenOrca-EnKoZhJa-18k)
+  - The repository combines and matches English, Korean, Chinese, and Japanese translation datasets from various sources using id-based matching and similarity embedding methods.
+  - Downloads: 46
+- [saillab/alpaca-japanese-cleaned](https://huggingface.co/datasets/saillab/alpaca-japanese-cleaned)
+  - This repository houses the dataset for the TaCo paper, enhancing cross-lingual transfer for low-resource languages in LLMs through translation-assisted chain-of-thought processes. Citation required.
+  - Downloads: 45
 - [izumi-lab/sciq-ja-mbartm2m](https://huggingface.co/datasets/izumi-lab/sciq-ja-mbartm2m)
-  - A Japanese translation dataset for the "sciq" dataset using Facebook's mBART, licensed under CC BY-NC 3.0.
+  - A Japanese translation dataset for "sciq," using Facebook's MBART model, licensed under CC BY-NC 3.0.
   - Downloads: 41
 - [oshizo/japanese-wikipedia-paragraphs-embeddings](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs-embeddings)
-  - A dataset of Japanese Wikipedia paragraphs vectorized with the multilingual-e5-base model and indexed using Faiss for efficient similarity search.
-  - Downloads: 38
-- [Nexdata/Japanese-English_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Japanese-English_Parallel_Corpus_Data)
-  - A 380,000-group Japanese-English parallel corpus, excluding sensitive vocabulary, suitable for text analysis and machine translation.
+  - A dataset from Japanese Wikipedia paragraphs vectorized with the multilingual-e5-base model and indexed using FAISS for efficient similarity search.
+  - Downloads: 39
+- [saillab/alpaca_japanese_taco](https://huggingface.co/datasets/saillab/alpaca_japanese_taco)
+  - The repository includes a dataset formatted for use in the TaCo paper, containing instructions and inputs/outputs in English and another language.
+  - Downloads: 37
+- [hpprc/TALPCo](https://huggingface.co/datasets/hpprc/TALPCo)
+  - A cleaned and converted TALPCo dataset into HuggingFace format with whitespace removal from Japanese tokens, licensed under CC-BY 4.0.
   - Downloads: 35
+- [Nexdata/Japanese-English_Parallel_Corpus_Data](https://huggingface.co/datasets/Nexdata/Japanese-English_Parallel_Corpus_Data)
+  - A 380,000-group Japanese-English parallel corpus, excluding sensitive content, for use in machine translation and text analysis.
+  - Downloads: 34
 - [Moleys/Filtered-Japanese-English-Parallel-Corpus](https://huggingface.co/datasets/Moleys/Filtered-Japanese-English-Parallel-Corpus)
-  - The repository contains a function for evaluating the accuracy and quality of Japanese to English translations, rejecting those with errors or low quality.
+  - A function for evaluating the accuracy and quality of Japanese to English translations, rejecting those with missing, incomplete, or inaccurate parts, poor grammar, bad spelling, or low quality.
   - Downloads: 20
 - [ltvmoon/opusbook_ja_en](https://huggingface.co/datasets/ltvmoon/opusbook_ja_en)
-  - A Japanese to English translation project licensed under Creative Commons Attribution 4.0.
+  - A Japanese-to-English translation project licensed under CC BY 4.0.
   - Downloads: 11
 ### Semantic Text Processing
 - [sbintuitions/JMTEB](https://huggingface.co/datasets/sbintuitions/JMTEB)
-  - JMTEB is a benchmark for evaluating Japanese text embedding models consisting of 6 tasks and 16 datasets.
-  - Downloads: 4,997
+  - JMTEB is a benchmark for evaluating Japanese text embedding models comprising 24 datasets across 6 tasks.
+  - Downloads: 5,106
 - [hotchpotch/wikipedia-passages-jawiki-embeddings](https://huggingface.co/datasets/hotchpotch/wikipedia-passages-jawiki-embeddings)
-  - The repository contains scripts to convert Japanese Wikipedia text into various Japanese embeddings and a faiss index, along with Hugging Face Space demos for RAG and vector search tasks, and evaluation data for multiple Japanese embeddings in Q&A and vector search tasks.
-  - Downloads: 3,271
+  - The repository includes converted Wikipedia Japanese articles into various Japanese embeddings and a faiss index, along with demos on HuggingFace for RAG and vector search tasks, using data from the singletongue/wikipedia-utils dataset.
+  - Downloads: 3,477
 - [Coldog2333/JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench)
-  - JMedBench is a benchmark dataset and evaluation framework for assessing Japanese biomedical LLMs.
-  - Downloads: 2,424
+  - JMedBench is a benchmark for evaluating Japanese biomedical LLMs, including a dataset collection and an evaluation framework called med-eval.
+  - Downloads: 2,235
 - [shunk031/JGLUE](https://huggingface.co/datasets/shunk031/JGLUE)
-  - The GitHub repository contains a dataset loading script for JGLUE, a Japanese general language understanding evaluation corpus developed by Yahoo Japan Corporation and Kawahara Lab at Waseda.
-  - Downloads: 1,815
-- [tokyotech-llm/lmsys-chat-1m-synth](https://huggingface.co/datasets/tokyotech-llm/lmsys-chat-1m-synth)
-  - This repository includes synthetic Japanese and English conversation datasets derived from LMSYS-Chat-1M, used for post-training large language models.
-  - Downloads: 992
+  - The JGLUE dataset, created by Yahoo Japan Corporation and Kawahara Lab at Waseda, evaluates general natural language understanding capabilities in Japanese without translation.
+  - Downloads: 1,726
 - [hpprc/jawiki-bullet-points](https://huggingface.co/datasets/hpprc/jawiki-bullet-points)
-  - A dataset generated from Japanese Wikipedia text using rinna/deepseek-r1-distill-qwen2.5-bakeneko-32b, with random sampling that may result in missing examples between collections, distributed under CC-BY-SA 4.0.
-  - Downloads: 894
+  - A dataset generated from Japanese Wikipedia text using rinna/deepseek-r1-distill-qwen2.5-bakeneko-32b, with random sampling that may result in missing examples compared to the original collection, distributed under CC-BY-SA 4.0.
+  - Downloads: 563
+- [tokyotech-llm/lmsys-chat-1m-synth](https://huggingface.co/datasets/tokyotech-llm/lmsys-chat-1m-synth)
+  - This repository includes synthetic Japanese and English conversation datasets derived from LMSYS-Chat-1M, used for post-training Llama-3.1 models and additional materials.
+  - Downloads: 545
 - [izumi-lab/llm-japanese-dataset](https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset)
-  - The repository contains a Japanese instruction dataset for tuning LLMs, particularly for chat tasks using LoRA, with updates addressing licensing changes and data issues.
-  - Downloads: 619
+  - A curated Japanese instruction dataset for tuning LLMs, updated to remove deprecated data and improve usability.
+  - Downloads: 497
 - [llm-book/aio-passages-bpr-bert-base-japanese-v3](https://huggingface.co/datasets/llm-book/aio-passages-bpr-bert-base-japanese-v3)
-  - A Japanese BERT base model passage embedding dataset for the "AI King" competition, used in the book "Introduction to Large Language Models," with binary vector embeddings added. Licenses include CC BY-SA 3.0 and GFDL for Wikipedia content.
-  - Downloads: 601
+  - A Japanese BERT-base dataset with BPR-generated passage embeddings for use in the llm-book/aio-passages dataset, licensed under CC BY-SA 3.0 and GFDL.
+  - Downloads: 477
 - [llm-jp/databricks-dolly-15k-ja](https://huggingface.co/datasets/llm-jp/databricks-dolly-15k-ja)
-  - A Japanese translation dataset of databricks-dolly-15k developed by LLM-jp for instruction tuning, with model card authors listed.
-  - Downloads: 346
+  - This repository offers a Japanese translation dataset of databricks-dolly-15k developed by LLM-jp, with contributors including Hirokazu Kiyomaru to Takumi Okamoto.
+  - Downloads: 398
 - [alfredplpl/simple-zundamon](https://huggingface.co/datasets/alfredplpl/simple-zundamon)
-  - A simple dataset for zunda mon characters, curated from online research and provided for testing character LLMs, with usage licenses to be reviewed.
-  - Downloads: 285
+  - A simple dataset for zu NDamony, including settings from online research and internal sources, for testing character LLMs.
+  - Downloads: 303
 - [izumi-lab/llm-japanese-dataset-vanilla](https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset-vanilla)
-  - A refined dataset from izumi-lab/llm-japanese-dataset, excluding translations, for tuning LLM models on Japanese chat tasks using techniques like LoRA.
-  - Downloads: 272
-- [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted)
-  - A dataset for Japanese roleplay, created using gpt-4o-mini and expanded to约39,600 pieces with added system messages, licensed under CC-BY-NC-SA 4.0.
-  - Downloads: 230
+  - A refined Japanese chat dataset for tuning LLMs, especially for instruction-response tasks using LoRA.
+  - Downloads: 276
 - [noname0202/merged-ja](https://huggingface.co/datasets/noname0202/merged-ja)
-  - The repository merges 256-character lines from three cleaned Japanese datasets: C4, CC100, and Oscar.
+  - Extracted and merged 256-character lines from neody's cleaned Japanese datasets: C4-ja, CC100-ja, and Oscar-ja.
   - Downloads: 225
-- [hotchpotch/fineweb-2-edu-japanese-scores](https://huggingface.co/datasets/hotchpotch/fineweb-2-edu-japanese-scores)
-  - A dataset scoring fineWeb-2 Japanese texts from 0 to 4 for educational content using the Deepseek API, with a training set of about 280,000 and a test set of about 30,000 samples.
-  - Downloads: 214
-- [Aratako/Synthetic-JP-Preference-Dataset-Qwen2.5_72B-191k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Preference-Dataset-Qwen2.5_72B-191k)
-  - A dataset of 190,854 Japanese synthetic preference examples created using five models for instruction and judgment, including Qwen variants and Tanuki models.
-  - Downloads: 194
+- [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k-formatted)
+  - A data set enhanced from 19,800 to 39,600 entries for GPT-4o-mini-based Japanese roleplay, including system message updates. Licensed under CC-BY-NC-SA 4.0.
+  - Downloads: 202
 - [llm-book/jawiki-sentences](https://huggingface.co/datasets/llm-book/jawiki-sentences)
-  - A dataset of Wikipedia sentences for the book "Large Language Models Introduction," using data from the singletongue/wikipedia-utils repository, licensed under CC BY-SA 3.0 and GFDL.
-  - Downloads: 166
+  - A dataset of Wikipedia sentences for the "Large Language Models Primer" book, using a dataset from singletongue/wikipedia-utils and licensed under CC BY-SA 3.0 and GFDL.
+  - Downloads: 197
 - [shi3z/Japanese_Wikipedia_Conversation](https://huggingface.co/datasets/shi3z/Japanese_Wikipedia_Conversation)
-  - A dataset of conversation text generated using GPT-3.5-Turbo based on the Wikipedia Japanese edition (izumi-lab/wikipedia-ja-20230720), with commercial use prohibited due to GPT-3.5-Turbo restrictions.
-  - Downloads: 158
+  - A dataset of conversation texts generated using GPT-3.5-Turbo from the Wikipedia Japanese edition (izumi-lab/wikipedia-ja-20230720), with commercial use prohibited.
+  - Downloads: 193
 - [inu-ai/ggml-japanese-gpt2](https://huggingface.co/datasets/inu-ai/ggml-japanese-gpt2)
-  - The repository contains executable files and models for running Japanese GPT-2 on Windows, but warns that one file has an issue.
-  - Downloads: 154
-- [hotchpotch/cc100-ja-documents](https://huggingface.co/datasets/hotchpotch/cc100-ja-documents)
-  - CC100-JA documents are combined line-by-line segments of the cc100-ja dataset, licensed under terms similar to the original cc100.
-  - Downloads: 152
+  - Windows users should download and run the ggml-japanese-gpt2 executable, ensuring to have the correct ggml model and SentencePiece model files in place, though note that the ggml-model-japanese-gpt2-xsmall file needs correction.
+  - Downloads: 165
+- [hotchpotch/fineweb-2-edu-japanese-scores](https://huggingface.co/datasets/hotchpotch/fineweb-2-edu-japanese-scores)
+  - A dataset scoring fineweb-2 Japanese texts on educational content from 0 to 4, based on Deepseek API analysis, consisting of approximately 280,000 training and 30,000 test texts.
+  - Downloads: 160
 - [lennart-finke/SimpleStories-JA](https://huggingface.co/datasets/lennart-finke/SimpleStories-JA)
-  - This GitHub repository contains a collection of short stories generated by gpt-4o-mini and other models, including annotations and multiple language versions.
-  - Downloads: 151
+  - This GitHub repository contains a collection of short stories generated by gpt-4o-mini and other models, including support for multiple languages and filtering options.
+  - Downloads: 146
 - [Aratako/Open-Platypus-Japanese-masked-formatted](https://huggingface.co/datasets/Aratako/Open-Platypus-Japanese-masked-formatted)
-  - A dataset converted from Open-Platypus-Japanese-masked to OpenAI Messages format.
-  - Downloads: 143
+  - A dataset converted from Open-Platypus-Japanese-masked to OpenAI message format.
+  - Downloads: 140
 - [CausalLM/GPT-4-Self-Instruct-Japanese](https://huggingface.co/datasets/CausalLM/GPT-4-Self-Instruct-Japanese)
-  - A new Japanese dataset generated using GPT-4 with Self-Instruct, for fine-tuning non-English open-source models, updated continuously.
-  - Downloads: 143
-- [zetavg/ShareGPT-Processed](https://huggingface.co/datasets/zetavg/ShareGPT-Processed)
-  - The repository contains processed versions of the RyokoAI/ShareGPT52K dataset in Markdown, with whitespace corrections and language labeling, using tools for HTML to Markdown conversion, whitespace handling, and language detection.
-  - Downloads: 125
-- [if001/elementray_l](https://huggingface.co/datasets/if001/elementray_l)
-  - A dataset of simple Japanese sentences using calm3-22b, including various patterns like affirmative and negative statements, politeness forms, and more.
+  - A Japanese dataset generated using OpenAI GPT-4 with Self-Instruct, available for fine-tuning non-English models, updated continually.
+  - Downloads: 139
+- [Aratako/Synthetic-JP-Preference-Dataset-Qwen2.5_72B-191k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Preference-Dataset-Qwen2.5_72B-191k)
+  - A dataset of 190,854 Japanese synthetic preference examples created using five models and Qwen/Qwen2.5-72B-Instruct-GPTQ-Int8.
   - Downloads: 121
+- [hotchpotch/cc100-ja-documents](https://huggingface.co/datasets/hotchpotch/cc100-ja-documents)
+  - A Japanese version of cc100 documents combined at the document level, licensed according to the original cc100.
+  - Downloads: 118
+- [zetavg/ShareGPT-Processed](https://huggingface.co/datasets/zetavg/ShareGPT-Processed)
+  - The repository converts and processes the RyokoAI/ShareGPT52K dataset to Markdown, adding language labels, and includes tools for CJK whitespace insertion, HTML conversion, language detection, and text conversion between Chinese variants.
+  - Downloads: 114
 - [AhmedSSabir/Japanese-wiki-dump-sentence-dataset](https://huggingface.co/datasets/AhmedSSabir/Japanese-wiki-dump-sentence-dataset)
-  - A 5 million clean Japanese sentence dataset for unsupervised semantic similarity learning.
-  - Downloads: 111
-- [if001/elementray_m](https://huggingface.co/datasets/if001/elementray_m)
-  - A dataset of simple Japanese sentences using calm3-22b, including various grammatical patterns like affirmative and negative statements, politeness forms, wishes, progressive tense, requests, and more.
-  - Downloads: 99
-- [watashihakobashi/ogiri](https://huggingface.co/datasets/watashihakobashi/ogiri)
-  - Data set for the 5th session of the 2024 LLM course, containing excerpts from outputs of two models in response to manually created inputs. Uses models from https://huggingface.co/watashiha/watashiha-gpt-6b and https://huggingface.co/watashiha/Watashiha-Llama-2-13B-Ogiri-sft, for educational and research purposes only.
-  - Downloads: 96
-- [larryvrh/WikiMatrix-v1-Ja_Zh-filtered](https://huggingface.co/datasets/larryvrh/WikiMatrix-v1-Ja_Zh-filtered)
-  - A filtered and modified Japanese/Chinese language pair dataset from WikiMatrix v1, including regex-based filtering, semantic similarity filtering with a threshold of 0.6, and conversion of Traditional Chinese to Simplified Chinese.
-  - Downloads: 96
-- [kurogane/Magpie_llama-3-youko-8b_prompt_extract_example50](https://huggingface.co/datasets/kurogane/Magpie_llama-3-youko-8b_prompt_extract_example50)
-  - The repository uses Magpie method to extract prompts on rinna/llama-3-youko-8b, employing translated system prompts from a paper, though the instruct model adaptation may be inappropriate.
-  - Downloads: 89
-- [kunishou/HelpSteer2-20k-ja](https://huggingface.co/datasets/kunishou/HelpSteer2-20k-ja)
-  - NVIDIA's Japanese translation of the HelpSteer2 trial dataset for use with SteerLM, also compatible with Nemotron-4-430B-Reward.
-  - Downloads: 81
-- [sakusakumura/databricks-dolly-15k-ja-scored](https://huggingface.co/datasets/sakusakumura/databricks-dolly-15k-ja-scored)
-  - The repository databricks-dolly-15k-ja-scored includes BERTScore translation quality scores for the Japanese translation of databricks-dolly-15k, with notes on its data quality issues.
-  - Downloads: 80
+  - A 5 million clean Japanese sentence dataset with context for unsupervised semantic similarity learning.
+  - Downloads: 103
 - [llm-jp/llm-jp-instructions](https://huggingface.co/datasets/llm-jp/llm-jp-instructions)
-  - A manually created instruction dataset for LLMs, available for training and testing splits.
-  - Downloads: 78
-- [kunishou/oasst2-chat-68k-ja](https://huggingface.co/datasets/kunishou/oasst2-chat-68k-ja)
-  - A chat-formatted dataset derived from oasst2-135k-ja, suitable for multiturn dialogue fine-tuning, with large token lengths requiring significant computational resources; formatted in ShareGPT.
+  - A manually created Japanese instruction dataset with train, dev, and test splits available for loading.
+  - Downloads: 98
+- [if001/elementray_m](https://huggingface.co/datasets/if001/elementray_m)
+  - A dataset of simple Japanese sentences using calm3-22b, including various grammatical patterns such as affirmative and negative statements, polite forms, desires, progressive actions, requests, and more.
+  - Downloads: 95
+- [kurogane/Magpie_llama-3-youko-8b_prompt_extract_example50](https://huggingface.co/datasets/kurogane/Magpie_llama-3-youko-8b_prompt_extract_example50)
+  - The repository attempts prompt extraction using Magpie on rinna/llama-3-youko-8b, employing translated system prompts from a paper, though the instruct model's absence may have made this ineffective.
+  - Downloads: 89
+- [larryvrh/WikiMatrix-v1-Ja_Zh-filtered](https://huggingface.co/datasets/larryvrh/WikiMatrix-v1-Ja_Zh-filtered)
+  - A filtered and modified version of Japanese/Chinese language pair data from WikiMatrix v1, including regex-based filtering, semantic similarity filtering with a threshold of 0.6, and conversion of Traditional Chinese to Simplified Chinese.
+  - Downloads: 81
+- [watashihakobashi/ogiri](https://huggingface.co/datasets/watashihakobashi/ogiri)
+  - A dataset comprising excerpts of outputs from the GPT-6B and Watashiha-Llama-2-13B-Ogiri-SFT models in response to manually created inputs, for use in the 5th session of the 2024 LLM lecture at the Matsumoto-Yamazaki Research Lab, Tokyo University. Use for educational and research purposes only.
+  - Downloads: 79
+- [llm-book/jawiki-paragraphs](https://huggingface.co/datasets/llm-book/jawiki-paragraphs)
+  - A dataset of Wikipedia paragraphs for the book "Large Language Models Primer," using a dataset from GitHub's singletongue/wikipedia-utils, licensed under CC BY-SA 3.0 and GFDL.
+  - Downloads: 74
+- [zenless-lab/jamp](https://huggingface.co/datasets/zenless-lab/jamp)
+  - Jamp is a controlled Japanese temporal inference dataset comprising templates and timedata, split by tense, time format, or duration, for evaluating language model generalization.
   - Downloads: 70
-- [augmxnt/shisa-pretrain-en-ja-v1](https://huggingface.co/datasets/augmxnt/shisa-pretrain-en-ja-v1)
-  - The dataset includes a DSIR-sampled subset of MADLAD-400 JA/EN tokens in a 90%/10% split for training shisa-base-7b-v1.
-  - Downloads: 65
-- [Aratako/Magpie-Tanuki-Instruction-Selected-Evolved-26.5k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-Instruction-Selected-Evolved-26.5k)
-  - 约26,500条经过处理的日本语指令数据集，通过应用Magpie方法并使用聚类和模型生成精选而来。
-  - Downloads: 65
-- [kenkensz9/nareba1691](https://huggingface.co/datasets/kenkensz9/nareba1691)
-  - A model fine-tuned on additional personality tweets after being pretrained on GPT-3.5, scored from 10 to 8 points for tweet generation.
-  - Downloads: 64
+- [kunishou/oasst2-chat-68k-ja](https://huggingface.co/datasets/kunishou/oasst2-chat-68k-ja)
+  - A chat-formatted dataset derived from oasst2-135k-ja, suitable for multiturn conversation fine-tuning, formatted in ShareGPT, requiring substantial computational resources.
+  - Downloads: 70
+- [sakusakumura/databricks-dolly-15k-ja-scored](https://huggingface.co/datasets/sakusakumura/databricks-dolly-15k-ja-scored)
+  - The GitHub repository databricks-dolly-15k-ja-scored adds BERTScore translation quality scores to the Japanese translations of the original English dataset, with examples of low-quality translated data included.
+  - Downloads: 70
+- [kunishou/HelpSteer2-20k-ja](https://huggingface.co/datasets/kunishou/HelpSteer2-20k-ja)
+  - NVIDIA released Japanese translations of the HelpSteer2 trial dataset for training SteerLM, a large language model, using the Nemotron-4-430B-Reward framework.
+  - Downloads: 68
 - [Aratako/Self-Instruct-Qwen2.5-72B-Instruct-60k](https://huggingface.co/datasets/Aratako/Self-Instruct-Qwen2.5-72B-Instruct-60k)
-  - This repository contains a dataset of approximately 60,000 Japanese instructions created using the Self-Instruct method with Qwen2.5-72B, categorizing and generating new instructions based on existing ones.
-  - Downloads: 64
-- [Chasottco/Japanese-patent-evaluation-dataset-01](https://huggingface.co/datasets/Chasottco/Japanese-patent-evaluation-dataset-01)
-  - A trial dataset for evaluation, including 50 queries generated by ChatGPT-4o from five perspectives, with manually created answers for 10 excluded questions involving patent introductions.
-  - Downloads: 64
+  - A dataset of approximately 60,000 Japanese instructions generated using Qwen2.5-72B-Instruct-GPTQ-Int8 through the Self-Instruct method, with each instruction belonging to one of seven categories derived from seed tasks.
+  - Downloads: 63
 - [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k)
   - Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k 概要 gpt-4o-miniを用いて作成した、約19800件の日本語ロールプレイの対話を収録した合成データセットです。
   - Downloads: 63
-- [llm-book/jawiki-paragraphs](https://huggingface.co/datasets/llm-book/jawiki-paragraphs)
-  - A dataset of Wikipedia paragraphs for the book "大规模语言模型入门," derived from the singletongue/wikipedia-utils repository, licensed under CC BY-SA 3.0 and GFDL.
-  - Downloads: 62
-- [Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k)
-  - A dataset of approximately 69,000 Japanese-English coding dialogues created using Magpie with various large language models, including NVIDIA Nemotron-4-340B-Instruct, Microsoft Phi-3-medium-4k-instruct, Mistral-8x22B-Instruct-v0.1, and Calm3-22b-chat.
+- [Atotti/VTuber-overview](https://huggingface.co/datasets/Atotti/VTuber-overview)
+  - A natural language summary of VTuber activities and features collected using GPT-4o Search Preview.
+  - Downloads: 60
+- [Aratako/Magpie-Tanuki-Instruction-Selected-Evolved-26.5k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-Instruction-Selected-Evolved-26.5k)
+  - A dataset of approximately 26,500 Japanese instructions created using Magpie technique and clustering methods applied to large language model outputs.
   - Downloads: 59
+- [augmxnt/shisa-pretrain-en-ja-v1](https://huggingface.co/datasets/augmxnt/shisa-pretrain-en-ja-v1)
+  - A pre-training dataset for shisa-base-7b-v1, consisting of 90% DSIR-sampled MADLAD-400 JA/EN tokens and 10% EN-only tokens.
+  - Downloads: 58
 - [R1b3y/NE4Mitsua](https://huggingface.co/datasets/R1b3y/NE4Mitsua)
   - NE4Mitsua is a negative embedding for Mitsua Diffusion One aimed at increasing painting realism and complexity, with instructions for installation.
-  - Downloads: 57
-- [pokutuna/tasks-ime-and-kakko-jp](https://huggingface.co/datasets/pokutuna/tasks-ime-and-kakko-jp)
-  - Created to address model weaknesses identified by @pokutuna, this GitHub repository contains manually crafted variations of IME and kakko tasks for transforming suggestions and matching parentheses.
-  - Downloads: 57
-- [zenless-lab/jamp](https://huggingface.co/datasets/zenless-lab/jamp)
-  - Jamp is a controlled Japanese dataset for evaluating language models' temporal inference abilities, consisting of templates and categorized test/training data.
-  - Downloads: 57
-- [fufufukakaka/pokemon_battle_team_dataset_regulation_f](https://huggingface.co/datasets/fufufukakaka/pokemon_battle_team_dataset_regulation_f)
-  - A dataset recording Pokémon (VGC) Regulation F selection data collected from public broadcasted battles, presented at the 2024 Remote Pokémon Society community.
-  - Downloads: 55
-- [takosama/databricks-dolly-15k-ja-google-trans](https://huggingface.co/datasets/takosama/databricks-dolly-15k-ja-google-trans)
-  - This GitHub repository contains the Japanese translation of the Dolly project developed by Databricks, licensed under CC BY-SA 3.0.
-  - Downloads: 54
-- [YukiTomita-CC/ELYZA-tasks-100_Human_solved](https://huggingface.co/datasets/YukiTomita-CC/ELYZA-tasks-100_Human_solved)
-  - Human-rated responses for ELYZA-tasks-100 used to evaluate Japanese LLMs, with automatic grading by GPT-4o and Claude 3.5 Sonnet achieving scores of 3.69 and 4.42, respectively.
   - Downloads: 52
-- [Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k)
-  - A dataset of approximately 10,000 Japanese coding dialogues created by applying Magpie's method to Nvidia/Nemotron-4-340B-Instruct, with code for dataset creation and some post-hoc changes.
-  - Downloads: 51
+- [takosama/databricks-dolly-15k-ja-google-trans](https://huggingface.co/datasets/takosama/databricks-dolly-15k-ja-google-trans)
+  - This GitHub repository contains the Japanese translation of Dolly, a project developed by Databricks. It is licensed under CC BY-SA 3.0, including contributions from Wikipedia.
+  - Downloads: 49
+- [if001/elementray_l](https://huggingface.co/datasets/if001/elementray_l)
+  - A dataset of simple Japanese sentences created using calm3-22b, incorporating various grammatical patterns including affirmative and negative sentences, polite forms, wishes, continuous actions, requests, and more.
+  - Downloads: 49
+- [Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k)
+  - A dataset of约69,000 Japanese-English coding dialogues created using Magpie with various models including NVIDIA Nemotron-4-340B-Instruct, Microsoft Phi-3-medium-4k-instruct, etc., with potential low-quality records.
+  - Downloads: 48
+- [Chasottco/Japanese-patent-evaluation-dataset-01](https://huggingface.co/datasets/Chasottco/Japanese-patent-evaluation-dataset-01)
+  - The repository includes a trial dataset for evaluation, generated queries and evaluations by ChatGPT-4o on five perspectives with 50 queries, excluding 10 questions that directly introduce patent agents.
+  - Downloads: 46
+- [pokutuna/tasks-ime-and-kakko-jp](https://huggingface.co/datasets/pokutuna/tasks-ime-and-kakko-jp)
+  - A manual creation of IME-like and parenthesis-pairing tasks for overcoming specific model weaknesses in a 2024 competition at Tokyo University's Okabe-Yamazaki Lab.
+  - Downloads: 45
+- [fufufukakaka/pokemon_battle_team_dataset_regulation_f](https://huggingface.co/datasets/fufufukakaka/pokemon_battle_team_dataset_regulation_f)
+  - A dataset of Pokémon VGC Regulation F selections collected from public YouTube streams, presented at the 2024 Remote Pokémon Society community event.
+  - Downloads: 45
 - [Aratako/Bluemoon_Top50MB_Sorted_Fixed_ja](https://huggingface.co/datasets/Aratako/Bluemoon_Top50MB_Sorted_Fixed_ja)
-  - A Japanese translation dataset for roleplay learning using GENIAC-Team-Ozaki/karakuri-lm-8x7b-chat-v0.1-awq, translated via DeepInfra with 3-shot prompting and truncated at 8000 tokens.
-  - Downloads: 47
-- [Atotti/VTuber-overview](https://huggingface.co/datasets/Atotti/VTuber-overview)
-  - This dataset documents VTubers' characteristics, activities, collaborations, and more, using prompts for detailed natural language descriptions from GPT-4o Search Preview.
+  - A Japanese-translated role-play learning dataset derived from Bluemoon_Top50MB_Sorted_Fixed, using karakuri-lm-8x7b-chat-v0.1-awq, with translation details including 3-shot prompting and token constraints.
+  - Downloads: 42
+- [Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k)
+  - A dataset of approximately 10,000 Japanese coding dialogues created by applying Magpie's method to Nvidia/Nemotron-4-340B-Instruct, with some system prompts and stops modified, and including the creation code and potential low-quality records.
   - Downloads: 40
-- [Rio-Rf/oscar_2023_filtered_and_ai_text_filtered](https://huggingface.co/datasets/Rio-Rf/oscar_2023_filtered_and_ai_text_filtered)
-  - A dataset combining human-created text (OSCAR) and LLM-generated text (GPT-3.5 Turbo) for evaluating LLM Japanese text detection performance.
-  - Downloads: 37
-- [Gustav114514/work](https://huggingface.co/datasets/Gustav114514/work)
-  - A fine-tuned XLSR-53 model for Japanese speech recognition using Common Voice 6.1, CSS10, and JSUT datasets, sampled at 16kHz.
+- [YukiTomita-CC/ELYZA-tasks-100_Human_solved](https://huggingface.co/datasets/YukiTomita-CC/ELYZA-tasks-100_Human_solved)
+  - Human-evaluated responses for ELYZA-tasks-100, used to assess Japanese LLMs, with scores from automatic grading by GPT-4o and Claude 3.5 Sonnet.
   - Downloads: 36
 - [p1atdev/fake-news-jp](https://huggingface.co/datasets/p1atdev/fake-news-jp)
-  - A dataset of Japanese fake news converted for HuggingFace datasets, including labels for truthfulness and text lengths.
-  - Downloads: 36
+  - Converts Japanese fake news dataset for HuggingFace datasets, including labels for truthfulness and text segments.
+  - Downloads: 35
+- [Rio-Rf/oscar_2023_filtered_and_ai_text_filtered](https://huggingface.co/datasets/Rio-Rf/oscar_2023_filtered_and_ai_text_filtered)
+  - A dataset combining human-created text (OSCAR) and LLM-generated text (GPT-3.5 Turbo) for evaluating LLM Japanese text detection performance.
+  - Downloads: 34
+- [Gustav114514/work](https://huggingface.co/datasets/Gustav114514/work)
+  - A fine-tuned XLSR-53 model for Japanese speech recognition using Common Voice 6.1, CSS10, and JSUT datasets, sampled at 16kHz.
+  - Downloads: 33
+- [kenkensz9/nareba1691](https://huggingface.co/datasets/kenkensz9/nareba1691)
+  - A model fine-tuned on a dataset combining OpenAI GPT-3.5 and custom collected tweets, scoring generated tweets from 10 to 1.
+  - Downloads: 33
 - [kajuma/llm-jp-corpus-v3-ja](https://huggingface.co/datasets/kajuma/llm-jp-corpus-v3-ja)
-  - A mirror of the LLM-jp Corpus v3 Japanese portion excluding Wikipedia, which is licensed under CC-BY-SA.
+  - A mirror of the LLM-jp Corpus v3 Japanese portion excluding Wikipedia, which is excluded due to CC-BY-SA licensing.
   - Downloads: 12
 - [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k-formatted](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k-formatted)
   - Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8k-formatted 概要 gpt-4o-miniを用いて作成した日本語ロールプレイデータセットであるAratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-19.8kにsystem messageを追加して整形したデータセットです。
   - Downloads: 12
 ### Natural Language Interfaces
 - [nu-dialogue/real-persona-chat](https://huggingface.co/datasets/nu-dialogue/real-persona-chat)
-  - RealPersonaChat is a dataset containing about 14,000 Japanese conversations that include speakers' personas and personality traits, with usage restrictions to protect individual privacy.
-  - Downloads: 3,861
+  - The RealPersonaChat dataset contains约14,000 dialogues in Japanese reflecting speakers' personas and性格 characteristics, for use in dialogue systems while respecting privacy concerns.
+  - Downloads: 4,965
 - [hotchpotch/JQaRA](https://huggingface.co/datasets/hotchpotch/JQaRA)
-  - JQaRA is a Japanese Q&A dataset for evaluating retrieval augmentation in large language model question answering.
-  - Downloads: 893
-- [yuzuai/rakuda-questions](https://huggingface.co/datasets/yuzuai/rakuda-questions)
-  - This repository contains 40 Japanese questions across history, society, government, and geography to evaluate AI assistants' capabilities in Japanese.
-  - Downloads: 523
+  - JQaRA is a Japanese question-answering dataset for evaluating retrieval-augmented generation, designed to test and improve answer accuracy for large language models.
+  - Downloads: 832
 - [kumapo/JAQKET](https://huggingface.co/datasets/kumapo/JAQKET)
-  - The GitHub repository contains a dataset and loading script for JAQKET, a Japanese open-domain QA dataset derived from Wikipedia article titles, supporting multiple-choice task definitions.
-  - Downloads: 503
+  - The GitHub repository provides a dataset and script for the JAQKET QA task, consisting of Japanese Open-Domain Question-Answer pairs derived from Wikipedia article titles, supporting research in Japanese QA and reading comprehension.
+  - Downloads: 472
+- [yuzuai/rakuda-questions](https://huggingface.co/datasets/yuzuai/rakuda-questions)
+  - A repository containing 40 Japanese questions divided into history, society, government, and geography categories to evaluate AI assistants' capabilities.
+  - Downloads: 426
 - [SkelterLabsInc/JaQuAD](https://huggingface.co/datasets/SkelterLabsInc/JaQuAD)
-  - JaQuAD is a 39,696-question-answer pair dataset for Japanese machine reading comprehension, derived from Wikipedia articles and achieving F1 scores of 78.92% when fine-tuning BERT-Japanese.
-  - Downloads: 431
-- [Aratako/Japanese-RP-Bench-testdata-SFW](https://huggingface.co/datasets/Aratako/Japanese-RP-Bench-testdata-SFW)
-  - This repository contains evaluation datasets for benchmarking LLM Japanese role-play capabilities, including details such as genre, age range, world setting, and dialogue tone.
-  - Downloads: 428
+  - JaQuAD is a human-annotated dataset of 39,696 question-answer pairs from Japanese Wikipedia, created for Japanese machine reading comprehension, achieving F1 scores of 78.92% and exact matches of 63.38% when fine-tuned on BERT-Japanese.
+  - Downloads: 359
 - [YukiTomita-CC/AKU-d_ms-0.5B-v0.1_dataset](https://huggingface.co/datasets/YukiTomita-CC/AKU-d_ms-0.5B-v0.1_dataset)
-  - This repository contains text datasets (totaling 1.56B tokens) from multiple sources for pre-training the AKU-d_ms-0.5B-chat-v0.1 model, including license information and processing scripts.
-  - Downloads: 405
+  - This repository contains a dataset of 1.56B tokens aggregated from multiple open-source datasets for pre-training the AKU-d_ms-0.5B-chat-v0.1 model, including Japanese accommodation search dialog and movie recommendation dialogue.
+  - Downloads: 349
 - [llm-book/llm-jp-eval](https://huggingface.co/datasets/llm-book/llm-jp-eval)
-  - A dataset for evaluating Japanese large language models using LLM-jp's "llm-jp-eval," derived from multiple datasets for automatic assessment of LLMs as described in the book "Introduction to Large Language Models II."licensed under Apache 2.0.
-  - Downloads: 334
+  - A dataset used for evaluating large language models in Japanese across multiple datasets, compatible with the "llm-jp-eval" tool from LLM-jp, licensed under Apache License 2.0.
+  - Downloads: 340
 - [EQUES/YakugakuQA](https://huggingface.co/datasets/EQUES/YakugakuQA)
-  - YakugakuQA is a Japanese pharmacology QA dataset including 13 years of past exam questions, answers, and commentaries, released under CC BY 4.0.
+  - YakugakuQA is a Japanese pharmacists' licensure exam question-answer dataset covering 13 years with over 4,000 pairs of questions and answers, released under CC BY 4.0.
   - Downloads: 292
 - [ryo0634/bsd_ja_en](https://huggingface.co/datasets/ryo0634/bsd_ja_en)
-  - The BSD dataset is a Japanese-English parallel corpus of written conversations across various business scenarios, created by first writing monolingual scenarios in each language and then translating them.
-  - Downloads: 265
-- [sbintuitions/JEMHopQA](https://huggingface.co/datasets/sbintuitions/JEMHopQA)
-  - The GitHub repository contains evaluation scores for ensuring replicability and the source code for SB Intuitions'修正版 in JEMHopQA, a Japanese multi-hop QA dataset that evaluates internal reasoning by generating answers and derivations with derivation steps.
-  - Downloads: 226
+  - The Business Scene Dialogue dataset is a Japanese-English parallel corpus of conversations in various business scenarios, created through three steps of scenario selection, monolingual writing, and translation.
+  - Downloads: 281
 - [line-corporation/JIC-VQA](https://huggingface.co/datasets/line-corporation/JIC-VQA)
-  - The JIC-VQA dataset includes Japanese images of 101 food types with multiple-choice questions designed to evaluate VLMs.
-  - Downloads: 224
+  - The JIC-VQA dataset is a benchmark for evaluating VLMs in Japanese, consisting of 101 types of Japanese food images with multiple-choice questions added to each sample.
+  - Downloads: 270
+- [Aratako/Japanese-RP-Bench-testdata-SFW](https://huggingface.co/datasets/Aratako/Japanese-RP-Bench-testdata-SFW)
+  - This dataset contains key attributes for benchmarking LLM Japanese role-playing capabilities, including genre, age tag, world and scene settings, character tones, and response formats.
+  - Downloads: 238
 - [Aratako/Magpie-Tanuki-Qwen2.5-72B-Answered](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-Qwen2.5-72B-Answered)
-  - A dataset of responses generated by Qwen/Qwen2.5-72B-Instruct from inputs extracted due to excellent input quality from Magpie-Tanuki-Qwen2.5-72B-Answered, licensed under Apache 2.0 with Qwen License considerations.
-  - Downloads: 171
-- [hotchpotch/JaCWIR](https://huggingface.co/datasets/hotchpotch/JaCWIR)
-  - JaCWIR is a small-scale Japanese information retrieval dataset consisting of 5000 questions and about 500,000 web page titles or snippets sourced from various Web genres filtered from Hagetani Bookmarks.
-  - Downloads: 156
+  - A dataset of re-generated responses using Qwen/Qwen2.5-72B-Instruct for inputs from Magpie-Tanuki-Qwen2.5-72B-Answered Aratako/Magpie-Tanuki-8B-annotated-96k with input_quality labeled as excellent, licensed under Apache 2.0 with Qwen License considerations.
+  - Downloads: 186
+- [sbintuitions/JEMHopQA](https://huggingface.co/datasets/sbintuitions/JEMHopQA)
+  - A Japanese multi-hop QA dataset called JEMHopQA evaluates internal reasoning by generating answers and derivation steps, which are published with score reproducibility inks and SB Intuitions fixes.
+  - Downloads: 159
 - [aixsatoshi/Swallow-MX-chatbot-DPO](https://huggingface.co/datasets/aixsatoshi/Swallow-MX-chatbot-DPO)
-  - A chatbot response generator using aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2, prompted by Chatbot Arena Conversations JA (calm2) instructions translated from lmsys/chatbot_arena_conversations.
-  - Downloads: 151
-- [kanhatakeyama/AutoMultiTurnByMixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByMixtral8x22b)
-  - Automatically generated multi-turn dataset using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF from open data sources, with some computation using Tokyo Tech's TSUBAME4.0 supercomputer.
+  - Using aixsatoshi/Swallow-MX-8x7b-NVE-chatvector-Mixtral-instruct-v2 to generate responses from Chatbot Arena Conversations JA prompts translated with Facebook's translation model.
+  - Downloads: 149
+- [hotchpotch/JaCWIR](https://huggingface.co/datasets/hotchpotch/JaCWIR)
+  - JaCWIR is a dataset consisting of 5,000 questions and about 500,000 web page titles or summaries, designed to evaluate information retrieval systems for Japanese casual queries.
   - Downloads: 145
-- [sbintuitions/aio-extended-answers](https://huggingface.co/datasets/sbintuitions/aio-extended-answers)
-  - The repository includes augmented answers for the validation set of AI王 V2.0, a Japanese quiz dataset, with fields for question ID, competition name, timestamp, split, and original question.
-  - Downloads: 133
-- [kanhatakeyama/AutoMultiTurnByCalm3-22B](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByCalm3-22B)
-  - A multithreaded dataset generated using Calm3-22b to auto-generate Q&A from open-source data sources, with some computational assistance from TSUBAME 4.0 supercomputer.
-  - Downloads: 123
-- [shi3z/OpenOrcaJapanese](https://huggingface.co/datasets/shi3z/OpenOrcaJapanese)
-  - A Japanese translation of the OpenOrca dataset, with about 20% translated and ongoing work, available for commercial use.
-  - Downloads: 118
-- [globis-university/aozorabunko-chats](https://huggingface.co/datasets/globis-university/aozorabunko-chats)
-  - Conversations from public-domain Japanese books are extracted using a heuristic approach and grouped into utterance sequences.
-  - Downloads: 118
-- [OmniAICreator/Japanese-Roleplay-Dialogues](https://huggingface.co/datasets/OmniAICreator/Japanese-Roleplay-Dialogues)
-  - A corpus of Japanese role-play dialogues from forums, with records filtered to include only those with multiple unique posters and longer post lengths.
-  - Downloads: 117
 - [shi3z/rachel](https://huggingface.co/datasets/shi3z/rachel)
-  - A manually created dataset for developing a Japanese chatbot with expanding conversation content.
-  - Downloads: 113
-- [shi3z/ja_conv_wikipedia_orion14B_100K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_100K)
-  - A multi-turn conversation dataset created from Japanese Wikipedia using Orion14B-Chat, available for commercial use under a complex license.
-  - Downloads: 105
+  - A handcrafted dataset for developing a Japanese chatbot with expanding conversation content.
+  - Downloads: 141
+- [globis-university/aozorabunko-chats](https://huggingface.co/datasets/globis-university/aozorabunko-chats)
+  - This repository contains conversations extracted from public-domain Japanese books using a heuristic approach, with lines enclosed in特定标记提取并分组。
+  - Downloads: 132
+- [shi3z/OpenOrcaJapanese](https://huggingface.co/datasets/shi3z/OpenOrcaJapanese)
+  - Japanese translation of the OpenOrca dataset, approximately 20% complete, available for commercial use.
+  - Downloads: 123
+- [kanhatakeyama/AutoMultiTurnByCalm3-22B](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByCalm3-22B)
+  - A multi-turn dataset generated using Calm3-22b to automatically create Q&A from open data sources, with some computation using TSUBAME4.0 supercomputer.
+  - Downloads: 119
+- [sbintuitions/aio-extended-answers](https://huggingface.co/datasets/sbintuitions/aio-extended-answers)
+  - The GitHub repository contains augmented validation set data from Version 2.0 of the AI王 quiz dataset, with manually annotated answers added.
+  - Downloads: 116
 - [Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k](https://huggingface.co/datasets/Aratako/Synthetic-Japanese-Roleplay-gpt-4o-mini-39.6k)
-  - A synthetic Japanese roleplay dataset using gpt-4o-mini, containing 39,600 dialogues with up to 10 turns each, including various settings and tones.
-  - Downloads: 104
-- [p1atdev/japanese-stackexchange](https://huggingface.co/datasets/p1atdev/japanese-stackexchange)
-  - A processed QA dataset from Japanese Stack Exchange data dumps, with formatted questions and answers, suitable for machine learning tasks related to Japanese language.
-  - Downloads: 94
-- [sudy-super/dialogsum-ja](https://huggingface.co/datasets/sudy-super/dialogsum-ja)
-  - This repository contains a Japanese dialog summarization dataset translated from dialogsum and CSDS.
-  - Downloads: 93
-- [p1atdev/ja-stackoverflow](https://huggingface.co/datasets/p1atdev/ja-stackoverflow)
-  - A processed Japanese Stack Overflow dataset with questions and answers paired, containing markdownified text, base64-encoded image placeholders, and two sub-sets for default and simplified access.
+  - A synthetic Japanese roleplay dataset with 39,600 dialogues created using gpt-4o-mini, each consisting of 5 to 10 turns, including genre, age rating, world setting, scene setting, user and assistant settings, dialogue tone, and conversations in OpenAI message format.
+  - Downloads: 110
+- [shi3z/ja_conv_wikipedia_orion14B_100K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_100K)
+  - A multi-turn conversation dataset created from Japanese Wikipedia using Orion14B-Chat, with specific license requirements for commercial use.
+  - Downloads: 98
+- [kanhatakeyama/AutoMultiTurnByMixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/AutoMultiTurnByMixtral8x22b)
+  - An automatically generated multi-turn dataset created by MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF using open data sources and some calculations on TSUBAME4.0, with questions sourced from various data and subsequent conversational turns generated by the model.
   - Downloads: 86
-- [DeL-TaiseiOzaki/Tengentoppa-sft-v1.0](https://huggingface.co/datasets/DeL-TaiseiOzaki/Tengentoppa-sft-v1.0)
-  - A large-scale Japanese instruction-following dataset combining 16 instruction datasets, formatted as JSON with structures including instructions, optional inputs, and outputs, derived from various tasks and dialog formats.
+- [Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k)
+  - A synthetic Japanese roleplay dialogue dataset consisting of about 10,000 dialogues with each having 10 turns, generated using Magpie and Nemotron-4. May contain low-quality records and truncated dialogues.
   - Downloads: 84
+- [p1atdev/japanese-stackexchange](https://huggingface.co/datasets/p1atdev/japanese-stackexchange)
+  - A processed QA dataset from Japanese Stack Exchange data dumps, with questions and answers adjusted into a paired format, excluding translated StackExchange content.
+  - Downloads: 83
+- [p1atdev/ja-stackoverflow](https://huggingface.co/datasets/p1atdev/ja-stackoverflow)
+  - A processed Japanese Stack Overflow dataset with questions and answers, cleaned up to remove code blocks, encode images, and simplify sub-sets for easier use.
+  - Downloads: 81
+- [sudy-super/dialogsum-ja](https://huggingface.co/datasets/sudy-super/dialogsum-ja)
+  - This repository contains a Japanese dialog summary dataset translated from dialogsum and CSDS datasets.
+  - Downloads: 79
+- [DeL-TaiseiOzaki/Tengentoppa-sft-v1.0](https://huggingface.co/datasets/DeL-TaiseiOzaki/Tengentoppa-sft-v1.0)
+  - The repository contains a large combined dataset of 16 Japanese instruction-following datasets in JSON format, suitable for SFT, derived from diverse sources including various tasks and dialogues.
+  - Downloads: 76
 - [llm-book/ja-vicuna-qa-benchmark](https://huggingface.co/datasets/llm-book/ja-vicuna-qa-benchmark)
-  - This repository contains the Japanese Vicuna QA Benchmark dataset for evaluating Japanese LLMs across 10 categories, licensed under Apache 2.0.
-  - Downloads: 80
-- [if001/aozorabunko-clean-sin](https://huggingface.co/datasets/if001/aozorabunko-clean-sin)
-  - A forked dataset filtering rows with 新字新仮名 in the "文字遣い種別" metadata column.
-  - Downloads: 78
+  - The GitHub repository contains the Japanese Vicuna QA Benchmark dataset for evaluating Japanese LLM models across 10 categories of questions, licensed under Apache License 2.0.
+  - Downloads: 73
+- [shi3z/ja_conv_wikipedia_llama2pro8b_3k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_3k)
+  - A dataset of 3,000 usable multi-turn conversations generated from the Japanese Wikipedia using llama2Pro8B, licensed for commercial use.
+  - Downloads: 70
 - [GENIAC-Team-Ozaki/WikiHowNFQA-ja_cleaned](https://huggingface.co/datasets/GENIAC-Team-Ozaki/WikiHowNFQA-ja_cleaned)
   - A cleaned Japanese translation dataset of Lurunchik/WikiHowNFQA.
-  - Downloads: 74
-- [shi3z/ja_conv_wikipedia_llama2pro8b_3k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_3k)
-  - A dataset of 3,000 usable multi-turn conversations based on the Japanese Wikipedia, generated using llama2Pro8B and published for commercial use.
-  - Downloads: 72
-- [shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K](https://huggingface.co/datasets/shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K)
-  - Japanese multi-turn conversation data generated using Qarasu14B from Wikipedia, available for non-commercial use and suitable for training with Axolotl.
-  - Downloads: 69
-- [shi3z/ja_conv_wikipedia_llama2pro8b_30k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_30k)
-  - The repository contains over 80,000 multi-turn conversations derived from Wikipedia, generated using llama2Pro8B and automatically screened for commercial use.
   - Downloads: 68
+- [if001/aozorabunko-clean-sin](https://huggingface.co/datasets/if001/aozorabunko-clean-sin)
+  - A forked repository containing filtered data from the Aozora Bunko dataset for entries with 新字新仮名 (new characters and new kana) designation.
+  - Downloads: 63
 - [shi3z/ja_conv_wikipedia_orion14B_10K](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_orion14B_10K)
-  - A multi-turn conversation dataset derived from Japanese Wikipedia using Orion14B-Chat, subject to a complex license that requires careful reading before commercial use.
-  - Downloads: 65
-- [Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k)
-  - A dataset of约10000 Japanese instruction tuning samples created by applying Magpie's method to Nvidia/Nemotron-4-340B-Instruct, with code and creation details included.
-  - Downloads: 64
-- [shi3z/ja_conv_wikipedia_llama2pro8b_10k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_10k)
-  - A dataset of 3,000 usable multi-turn conversations generated from Japanese Wikipedia using llama2Pro8B, licensed for commercial use.
+  - A multi-turn conversation dataset created from Japanese Wikipedia using Orion14B-Chat, with specific licensing requirements and computational details provided.
   - Downloads: 62
-- [DataPilot/databricks-dolly-15k-Nyan-ja](https://huggingface.co/datasets/DataPilot/databricks-dolly-15k-Nyan-ja)
-  - A Japanese-translated "databricks-dolly-15k" dataset with endings changed to "にゃん！” using ArrowPro-7B-KUJIRA, licensed under the original dataset's licensing.
-  - Downloads: 58
-- [nu-dialogue/jmultiwoz](https://huggingface.co/datasets/nu-dialogue/jmultiwoz)
-  - JMultiWOZ is a large Japanese multi-domain task-oriented dialogue dataset with 4,246 dialogues across 6 domains, annotated for dialogue state tracking.
-  - Downloads: 56
-- [Aihometr/anime-your-name](https://huggingface.co/datasets/Aihometr/anime-your-name)
-  - A dataset created using AI Gemini 2.0 Flash Experimental from subtitles, suitable for chatbot training with potential errors in Turkish and Japanese.
-  - Downloads: 56
-- [shi3z/ja_conv_wikipedia_llama2pro8b_20k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_20k)
-  - The repository contains 60,000 multi-turn conversations generated from the Japanese Wikipedia using LLaMA-Pro-8B, available for commercial use but potentially containing un筛查的对话。---修正后的简洁句子如下：该仓库包含60,000个多轮对话，由日语维基数据生成，使用LLaMA-Pro-8B模型，并可用于商用但可能包含未筛选的对话。
-  - Downloads: 55
-- [Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone](https://huggingface.co/datasets/Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone)
-  - The repository contains about 1000 hours of natural conversational speech from face-to-face interactions on various topics, manually transcribed with high accuracy.
-  - Downloads: 55
+- [shi3z/ja_conv_wikipedia_llama2pro8b_30k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_30k)
+  - A commercially usable, auto-screened dataset of over 80,000 multi-turn conversations derived from Japanese Wikipedia using LLaMA-Pro-8B.
+  - Downloads: 62
+- [shi3z/ja_conv_wikipedia_llama2pro8b_10k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_10k)
+  - A dataset of 3,000 usable multi-turn conversations derived from Japanese Wikipedia, formatted with llama2Pro8B, available for commercial use.
+  - Downloads: 62
 - [llm-jp/japanese-photos-conversation](https://huggingface.co/datasets/llm-jp/japanese-photos-conversation)
-  - The repository includes 11,808 multi-turn conversational instructions about Japanese images generated using the GPT-4o model from an original dataset sourced from Hugging Face.
+  - A dataset containing 11,808 multi-turn conversational instructions about Japanese photos generated using GPT-4o via Azure OpenAI API.
+  - Downloads: 61
+- [OmniAICreator/Japanese-Roleplay-Dialogues](https://huggingface.co/datasets/OmniAICreator/Japanese-Roleplay-Dialogues)
+  - A corpus of Japanese roleplay dialogues from forums, with filtered records based on post diversity and length.
+  - Downloads: 60
+- [Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k](https://huggingface.co/datasets/Aratako/Synthetic-JP-Conversations-Magpie-Nemotron-4-10k)
+  - A dataset of about 10,000 Japanese instruction tuning conversations created using Magpie's method applied to nvidia/Nemotron-4-340B-Instruct, with code and creation details included.
+  - Downloads: 56
+- [nu-dialogue/jmultiwoz](https://huggingface.co/datasets/nu-dialogue/jmultiwoz)
+  - JMultiWOZ is a large Japanese multi-domain dialogue dataset with 4,246 dialogues across six domains, annotated for dialogue state tracking and more.
+  - Downloads: 56
+- [shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K](https://huggingface.co/datasets/shi3z/Qarasu_Wikipedia_multiturn_human_gpt_10K)
+  - Japanese multi-turn conversation data generated using Qarasu14B based on Wikipedia data, available for non-commercial use and suitable for training with Axolotl.
   - Downloads: 55
+- [shi3z/ja_conv_wikipedia_llama2pro8b_20k](https://huggingface.co/datasets/shi3z/ja_conv_wikipedia_llama2pro8b_20k)
+  - A dataset of 60,000 mult Turner conversations derived from Japanese Wikipedia, generated using llama2Pro8B and available for commercial use.
+  - Downloads: 53
 - [Atom007/mc4-japanese-data](https://huggingface.co/datasets/Atom007/mc4-japanese-data)
-  - It includes the Multi-Genre Four CrossRef (MC4) dataset for natural language processing.
+  - A dataset from the Multilingual CommonCrawl (MC4) project hosted on Hugging Face.
   - Downloads: 52
+- [Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone](https://huggingface.co/datasets/Nexdata/Japanese_Conversational_Speech_by_Mobile_Phone)
+  - The dataset includes about 1000 speakers engaged in natural face-to-face conversations on various topics, featuring accurate manually-transferred text.
+  - Downloads: 50
+- [Kendamarron/pret-a-porter-instruction-v0.1](https://huggingface.co/datasets/Kendamarron/pret-a-porter-instruction-v0.1)
+  - A dataset generated by Swallow-MX with instruction-output pairs from manually checked and corrected open-source LLM outputs, created during the "LOCAL AI HACKATHON #000."
+  - Downloads: 49
 - [sode-k/txt_suicidality](https://huggingface.co/datasets/sode-k/txt_suicidality)
   - txt: Wrime-v1のテキスト部分の一部と、OpenAIに生成させた文章をベースに、tohoku-nlp/bert-base-japanese-whole-word-masking でトークナイズした文章を文脈が成り立つ形で合成し、新たな文章を生成したもの。
   - Downloads: 49
-- [Kendamarron/pret-a-porter-instruction-v0.1](https://huggingface.co/datasets/Kendamarron/pret-a-porter-instruction-v0.1)
-  - A dataset generated by Swallow-MX from instructions manually checked and corrected, containing possibly erroneous outputs, created during the "LOCAL AI HACKATHON #000."
+- [DataPilot/databricks-dolly-15k-Nyan-ja](https://huggingface.co/datasets/DataPilot/databricks-dolly-15k-Nyan-ja)
+  - A Japanese-translated version of the "databricks-dolly-15k" dataset with sentence endings changed to "にゃん！" using ArrowPro-7B-KUJIRA, licensed under the original dataset's terms.
   - Downloads: 48
-- [Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k](https://huggingface.co/datasets/Aratako/Synthetic-JP-10-Turns-Roleplay-Dialogues-Nemotron-4-1k)
-  - A dataset of approximately 10,000 Japanese roleplay dialogues with each consisting of about 10 turns, generated using the Nemotron-4 model and Magpie technique.
-  - Downloads: 45
+- [Aihometr/anime-your-name](https://huggingface.co/datasets/Aihometr/anime-your-name)
+  - A dataset created using AI Gemini 2.0 Flash Experimental for chatbot training in Turkish and Japanese with potential errors.
+  - Downloads: 44
+- [umiyuki/JDocQA_SingleImage_200](https://huggingface.co/datasets/umiyuki/JDocQA_SingleImage_200)
+  - JDocQA_SingleImage_200 is a reduced-size dataset from shunk031/JDocQA, containing 200 images derived from PDFs, filtered for single-image questions and excluding those with multiple images or unobtainable ones.
+  - Downloads: 39
 - [GENIAC-Team-Ozaki/chatbot-arena-ja-calm2-7b-chat-experimental_deduped](https://huggingface.co/datasets/GENIAC-Team-Ozaki/chatbot-arena-ja-calm2-7b-chat-experimental_deduped)
-  - A dataset with data containing prompts matched from chatbot-arena-ja-calm2-7b-chat removed.
-  - Downloads: 39
+  - A dataset with data containing prompts that match those from chatbot-arena-ja-calm2-7b-chat removed.
+  - Downloads: 37
 - [U23-lab/everyday_conversations_ja](https://huggingface.co/datasets/U23-lab/everyday_conversations_ja)
-  - This repository contains machine-translated Japanese versions of the everyday-conversations-llama3.1-2k dataset using DeepL, topic-wise dialog pairs, licensed under Apache 2.0.
-  - Downloads: 39
+  - A Japanese translation of the HuggingFaceTB/everyday-conversations-llama3.1-2k dataset using DeepL, with topic-wise dialogue pairs and licensed under Apache 2.0.
+  - Downloads: 36
+- [tombailey/oasst1-ja](https://huggingface.co/datasets/tombailey/oasst1-ja)
+  - The repository contains conversational data in Japanese, formatted as separate human and assistant messages without full conversation contexts.
+  - Downloads: 35
 - [GENIAC-Team-Ozaki/WikiHowNFQA-ja](https://huggingface.co/datasets/GENIAC-Team-Ozaki/WikiHowNFQA-ja)
   - A Japanese translation dataset of Lurunchik/WikiHowNFQA.
-  - Downloads: 37
-- [tombailey/oasst1-ja](https://huggingface.co/datasets/tombailey/oasst1-ja)
-  - A dataset containing formatted human-assistant dialogues in Japanese from the OASST1 conversations, presented as paired human and assistant messages without full conversation context.
-  - Downloads: 37
-- [if001/elementray_small](https://huggingface.co/datasets/if001/elementray_small)
-  - A dataset of simple Japanese sentences created using the Elementray_m calm3-22b model, including various grammatical patterns such as affirmative and negative statements, polite forms, wishes, presence, requests, and more.
   - Downloads: 35
+- [if001/elementray_small](https://huggingface.co/datasets/if001/elementray_small)
+  - This repository contains a dataset of simple Japanese sentences using the elementray_m calm3-22b model, including various grammatical patterns.
+  - Downloads: 32
 ### Text Generation
 - [nlp-waseda/JMMLU](https://huggingface.co/datasets/nlp-waseda/JMMLU)
-  - JMMLU is a Japanese language understanding benchmark consisting of translated MMLU questions and culturally relevant Japanese questions to evaluate large language models.
-  - Downloads: 124,526
+  - JMMLU is a benchmark consisting of 150 Japanese-translated questions from 57 MMLU tasks and culturally specific Japanese questions, designed to evaluate large language models inJapanese.
+  - Downloads: 94,254
 - [YANS-official/ogiri-bokete](https://huggingface.co/datasets/YANS-official/ogiri-bokete)
-  - This GitHub repository contains Bokete crawl data for three tasks: text_to_text, image_to_text, and text_image_to_text, with current counts of 100, 500 images and 2355 responses respectively.
-  - Downloads: 1,138
+  - This repository contains爬虫数据来自大喜利网站Bokete，用于训练文本生成、图像描述和图片中缺失文本填充的任务，包括6355个样本。
+  - Downloads: 1,504
 - [hpprc/r1-distill-qwen-pseudo-qa](https://huggingface.co/datasets/hpprc/r1-distill-qwen-pseudo-qa)
-  - A dataset generated by using LLMs to automatically create questions from Japanese Wikipedia and answering them with cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese, distributed under CC-BY-SA 4.0.
-  - Downloads: 725
+  - A dataset generated using cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese for answers based on questions auto-generated from Japanese Wikipedia, licensed under CC-BY-SA 4.0.
+  - Downloads: 520
 - [allganize/RAG-Evaluation-Dataset-JA](https://huggingface.co/datasets/allganize/RAG-Evaluation-Dataset-JA)
-  - Allganize RAG Leaderboard 是一个涵盖五个行业领域（金融、信息通信、制造、公共、流通零售）、基于日语的综合RAG性能评估基准，包含必要数据集和验证环境。
-  - Downloads: 599
-- [Aratako/Synthetic-JP-EN-Coding-Dataset-801k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-801k)
-  - A synthetic Japanese-English coding dataset with 801,262 entries, expanded using the Evol-Instruct method from an original dataset of 69,000 by Magpie.
-  - Downloads: 260
+  - Allganize RAG Leaderboard 是一个评估五个行业领域（金融、信息通信、制造、公共、流通·零售）中日语文本理解能力的基准，涵盖解析器、检索器和生成器三个组件的表现。
+  - Downloads: 432
 - [kanhatakeyama/japanese-corpus-categorized](https://huggingface.co/datasets/kanhatakeyama/japanese-corpus-categorized)
-  - A cleaned web corpus of Japanese corpora such as mc4-ja, clustered into about 10,000 text instances using unsupervised learning models, with some files parquetized and a file list available in the out folder.
-  - Downloads: 241
-- [Aratako/magpie-sft-v1.0-dpo-judged](https://huggingface.co/datasets/Aratako/magpie-sft-v1.0-dpo-judged)
-  - A Japanese preference dataset created from modified magpie-sft-v1.0, using Aratako/Llama-Gemma-2-27b-SFT-trial1 to regenerate responses and judge between original and regenerated answers by quality.
-  - Downloads: 224
+  - A cleaned web corpus of Japanese corpora like mc4-ja, clustered into about 10,000 text clusters using unsupervised learning models, partially parquetized for download.
+  - Downloads: 306
 - [neulab/odex](https://huggingface.co/datasets/neulab/odex)
-  - ODEX is a multilingual NL-to-Code benchmark with 945 samples in four languages, accessible via Python dataset loading.
-  - Downloads: 224
+  - ODEX provides 945 samples in four languages for NL-to-Code generation, with splits available by language.
+  - Downloads: 226
+- [Aratako/magpie-sft-v1.0-dpo-judged](https://huggingface.co/datasets/Aratako/magpie-sft-v1.0-dpo-judged)
+  - A Japanese preference dataset created by generating responses with Aratako/Llama-Gemma-2-27b-SFT-trial1, comparing them to the original Qwen/Qwen2.5-32B-Instruct responses, and licensing it under META LLAMA 3.1 COMMUNITY LICENSE and Gemma Terms of Use, requiring attribution to Qwen.
+  - Downloads: 205
 - [YANS-official/ogiri-test-with-references](https://huggingface.co/datasets/YANS-official/ogiri-test-with-references)
-  - This repository contains Bokete cringe joke dataset for three tasks: text-to-text, image-to-text, and text-image-to-text, derived from CLoT-Oogiri-Go data.
-  - Downloads: 213
-- [kunishou/amenokaku-code-instruct](https://huggingface.co/datasets/kunishou/amenokaku-code-instruct)
-  - The GitHub repository contains an updated code-instruction dataset with 5,200 records, including 180 newly added records of Java code data from licensed educational content, along with details on the distribution and licensing of various code-related tasks.
-  - Downloads: 170
+  - This repository contains datasets for tasks including text-to-text, image-to-text, and text-image-to-text based on crawled data from the humor website Bokete, part of CLoT-Oogiri-Go.
+  - Downloads: 191
+- [Aratako/Synthetic-JP-EN-Coding-Dataset-801k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-801k)
+  - A synthetic Japanese-English coding dataset with 801,262 entries, expanded using Evol-Instruct techniques from Aratako's original 69k dataset, including instruction and response pairs generated by models like Nemotron-4, Phi-3, Mistral, and Calm3.
+  - Downloads: 168
 - [alfredplpl/commoncatalog-cc-by-ext](https://huggingface.co/datasets/alfredplpl/commoncatalog-cc-by-ext)
-  - This repository extends CommonCatalog CC-BY with additional information such as English and Japanese captions, and includes sample code for loading the dataset.
+  - This repository extends CommonCatalog CC-BY with added English and Japanese captions from Dense Captioning, and provides sample code for loading the dataset.
   - Downloads: 158
 - [Aratako/Synthetic-JP-EN-Coding-Dataset-567k](https://huggingface.co/datasets/Aratako/Synthetic-JP-EN-Coding-Dataset-567k)
   - Synthetic-JP-EN-Coding-Dataset-567k Magpieによって作成したコードSFTデータセットであるAratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69kを元に、Evol-Instructのような手法を用いて複数のinstructionとresonseを生成し拡張して作成した、日英混合567077件のコードSFT用合成データセットです。
@@ -4852,509 +4906,521 @@ This list is sorted by downloads as of March 25, 2025.
 - [NekoFi/whisper_toku](https://huggingface.co/datasets/NekoFi/whisper_toku)
   - Dataset Description
   - Downloads: 145
-- [hpprc/llmjp-kaken](https://huggingface.co/datasets/hpprc/llmjp-kaken)
-  - A dataset converted from llm-jp-corpus-v3's kaken subset to HF format, including article titles fetched from original URLs, licensed under CC-BY 4.0.
-  - Downloads: 144
+- [kunishou/amenokaku-code-instruct](https://huggingface.co/datasets/kunishou/amenokaku-code-instruct)
+  - A dataset with 5,200 code-related instructions, including 4,000 records for bug fixing, 1050 for code generation, and 150 for code behavior checking, enhanced with 180 new JaxTon and "プロになるJava" code samples.
+  - Downloads: 124
 - [noname0202/oscar-cleaned-256](https://huggingface.co/datasets/noname0202/oscar-cleaned-256)
   - Extracted items from neody/oscar-ja-cleaned with 256 characters or less.
   - Downloads: 114
-- [YANS-official/ogiri-keitai](https://huggingface.co/datasets/YANS-official/ogiri-keitai)
-  - A dataset containing all the topics and corresponding text-to-text responses from the mobile puns show "Keitai Oogeri" aired on NHK, including episode IDs and response details.
-  - Downloads: 90
+- [hpprc/llmjp-kaken](https://huggingface.co/datasets/hpprc/llmjp-kaken)
+  - A dataset converted to HF format from a Kaken subset of llm-jp-corpus-v3, with article titles obtained from URLs and licensed under CC-BY 4.0.
+  - Downloads: 102
 - [Kendamarron/jimba-wiki-instruction-calm3](https://huggingface.co/datasets/Kendamarron/jimba-wiki-instruction-calm3)
-  - A synthetic instruction dataset using Q4_K_M for CALM3-22B, generated by providing Wikipedia text and instructions, containing some hallucinations that require filtering.
-  - Downloads: 88
+  - A synthetic instruction dataset using Q4_K_M for CALM3-22B, generated by providing samples and Wikipedia text, containing some hallucinations requiring user attention.
+  - Downloads: 83
 - [SNOW-NLP/snow_simplified_japanese_corpus](https://huggingface.co/datasets/SNOW-NLP/snow_simplified_japanese_corpus)
-  - SNOW T15 provides a dataset of 50,000 manually simplified Japanese sentences with translations, suitable for text simplification and translation tasks.
+  - SNOW T15 is a 50,000-sentence simplified Japanese corpus with original, simplified texts, and English translations, using a 2,000-word core vocabulary.
   - Downloads: 79
 - [Aratako/iterative-dpo-data-for-SimPO-iter2](https://huggingface.co/datasets/Aratako/iterative-dpo-data-for-SimPO-iter2)
-  - This repository contains a Japanese Preference Dataset created by generating responses using Aratako/Llama-Gemma-2-27b-CPO_SimPO-iter1 and scoring them with Qwen/Qwen2.5-72B-Instruct-GPTQ-Int8.
-  - Downloads: 79
-- [waddledee/three_line_summarization_for_japanese_news_articles](https://huggingface.co/datasets/waddledee/three_line_summarization_for_japanese_news_articles)
-  - A formatted dataset of three-line summaries for the LiveRailNews corpus, enhanced with prompts for Llama v2, and suggests using [R_START] [R_END] as special tokens.
-  - Downloads: 79
-- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-other](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-other)
-  - A collection of automatically generated Q&A data using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF, based on Common Crawl with cleaned random text snippets to reduce dependency on original articles.
-  - Downloads: 77
-- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC)
-  - Automated Q&A generated using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF from Common Crawl data, with recommendations for cleaning due to low similarity and potential unnatural text.
-  - Downloads: 76
-- [YANS-official/senryu-debug](https://huggingface.co/datasets/YANS-official/senryu-debug)
-  - This repository contains a dataset for testing joke generation tasks, including text-to-text and image-to-text sub-tasks.
-  - Downloads: 75
-- [iam-ajaymeena/Self-Instruct-Japanese-Elzya-13B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Elzya-13B)
-  - A Japanese dataset from ELYZA-japanese-Llama-2-13b-instruct for evaluating AI-generated text detection, derived from GPT-4-Self-Instruct-Japanese instructions.
-  - Downloads: 72
-- [kurogane/DSR1D-qwen-2.5-32B-aya-ja-1k-generated](https://huggingface.co/datasets/kurogane/DSR1D-qwen-2.5-32B-aya-ja-1k-generated)
-  - The repository contains 1000 Japanese responses generated using a distilled Qwen-32B model, showing decreased accuracy and frequent missing <think> tokens.
-  - Downloads: 71
+  - This repository contains a Japanese Preference Dataset created by generating responses from Aratako/Llama-Gemma-2-27b-CPO_SimPO-iter1 and scoring them with Qwen2.5, then selecting the highest-scoring response as "chosen" and the lowest as "rejected."
+  - Downloads: 78
 - [blastai/Open_o1_sft_Pro_translated_jp](https://huggingface.co/datasets/blastai/Open_o1_sft_Pro_translated_jp)
-  - This repository contains a Japanese translation of the Open_o1_sft_Pro dataset using Qwen2.5-14B-Instruct, including template conversations and retaining the original dataset's license and acknowledgments.
-  - Downloads: 66
-- [toshi456/NLVR-JA](https://huggingface.co/datasets/toshi456/NLVR-JA)
-  - A dataset resulting from machine-translating the "nlvr" dataset into Japanese.
-  - Downloads: 60
-- [Nurture-intelligence/thinking_dataset_v1](https://huggingface.co/datasets/Nurture-intelligence/thinking_dataset_v1)
-  - This repository contains a dataset of cleaned questions used to train the Qwen model, licensed under Apache 2.0 for the questions only, sourced and processed on ollama.
-  - Downloads: 59
-- [Aratako/iterative-dpo-data-for-ORPO-iter3](https://huggingface.co/datasets/Aratako/iterative-dpo-data-for-ORPO-iter3)
-  - This repository contains an iterative Japanese preference dataset created from Aratako/Self-Instruct-Qwen2.5-72B-Instruct-60k, using specific models and评分方法，排除低分回答。许可证方面受到相关模型许可影响，采用META LLAMA 3.1 COMMUNITY LICENSE和Gemma Terms of Use。
+  - This repository contains a Japanese translation of the Open_o1_sft_Pro dataset using Qwen2.5-14B-Instruct, including conversational templates and original metadata.
+  - Downloads: 72
+- [YANS-official/senryu-debug](https://huggingface.co/datasets/YANS-official/senryu-debug)
+  - This repository contains a dataset for verifying the functionality of senryu and onegai image captioning tasks, including text-to-text and image-to-text subtasks.
+  - Downloads: 65
+- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-CC)
+  - Automatically generated Q&A data using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF based on Common Crawl, with recommendations for cleaning to remove unnatural text.
+  - Downloads: 64
+- [hatakeyama-llm-team/AutoGeneratedJapaneseQA-other](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA-other)
+  - Q&A generated using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF from various data sources, including Common Crawl, with cleaned random text excerpts to reduce dependence on original articles.
   - Downloads: 57
+- [iam-ajaymeena/Self-Instruct-Japanese-Elzya-13B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Elzya-13B)
+  - The repository includes a Japanese dataset generated with the elyza/ELYZA-japanese-Llama-2-13b-instruct model for evaluating AI-generated text detection methods, using instructions from HuggingFace.
+  - Downloads: 56
 - [creative-graphic-design/CAMERA](https://huggingface.co/datasets/creative-graphic-design/CAMERA)
-  - CAMERA is a Japanese ad text generation dataset aimed at advancing multimodal ad text generation models.
-  - Downloads: 57
-- [iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B)
-  - A Japanese dataset for evaluating AI-generated text detection methods, created with the Qwen/Qwen1.5-14B model and adapted from GPT-4-Self-Instruct-Japanese.
-  - Downloads: 56
-- [kai271/TinyStories-Japanese](https://huggingface.co/datasets/kai271/TinyStories-Japanese)
-  - A dataset of approximately 3000 synthetic Japanese children's stories using simple words, generated by GPT-4o-mini and described in arXiv:2305.07759.
-  - Downloads: 56
-- [DataPilot/in-foxhound-ja](https://huggingface.co/datasets/DataPilot/in-foxhound-ja)
-  - A Japanese translation using KUJIRA of an instruction dataset primarily about investment, Berkshire Hathaway, and Warren Buffett, originally in English by glaive-ai.
-  - Downloads: 55
-- [DataPilot/Generated-dataset-by-deepseek-v2.5](https://huggingface.co/datasets/DataPilot/Generated-dataset-by-deepseek-v2.5)
-  - This dataset is synthetic, created using null-instruct-ja and DeepSeek-v2.5 q4, with ollama and A5000 GPUs, licensed under DeepSeek's license.
-  - Downloads: 55
-- [hpprc/llmjp-warp-html](https://huggingface.co/datasets/hpprc/llmjp-warp-html)
-  - A dataset of level2-filtered data from llm-jp-corpus-v3 converted to HF format, including article titles extracted from URLs, licensed under CC-BY 4.0.
+  - The CAMERA dataset is a Japanese ad text generation dataset aimed at advancing research into advanced ad text generation models.
   - Downloads: 54
-- [speed/english_quotes_ja](https://huggingface.co/datasets/speed/english_quotes_ja)
-  - A Japanese translation dataset of English quotes generated with the llm-jp-3-3.7b-instruct model, licensed under CC BY 4.0.
+- [iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B](https://huggingface.co/datasets/iam-ajaymeena/Self-Instruct-Japanese-Qwen1.5-14B)
+  - A Japanese dataset for evaluating AI-generated text detection methods, created with the Qwen/Qwen1.5-14B model and instructions sourced from HuggingFace.
+  - Downloads: 54
+- [Nurture-intelligence/thinking_dataset_v1](https://huggingface.co/datasets/Nurture-intelligence/thinking_dataset_v1)
+  - A dataset of cleaned questions used to train the Qwen model, licensed under Apache 2.0 for the questions only, hosted on GitHub.
+  - Downloads: 54
+- [hpprc/llmjp-warp-html](https://huggingface.co/datasets/hpprc/llmjp-warp-html)
+  - A dataset converted from HF format of level2 filtered llm-jp-corpus-v3's warp_html, including article titles obtained from URLs. licensed CC-BY 4.0.
+  - Downloads: 53
+- [DataPilot/Generated-dataset-by-deepseek-v2.5](https://huggingface.co/datasets/DataPilot/Generated-dataset-by-deepseek-v2.5)
+  - This dataset, synthesized using null-instruct-ja and DeepSeek-v2.5 q4, was created with ollama and 7 A100 GPUs in 2 hours and 7 minutes, licensed under DeepSeek's license.
+  - Downloads: 52
+- [kurogane/DSR1D-qwen-2.5-32B-aya-ja-1k-generated](https://huggingface.co/datasets/kurogane/DSR1D-qwen-2.5-32B-aya-ja-1k-generated)
+  - Generated from deepseek-ai/DeepSeek-R1-Distill-Qwen-32B, this repository contains the first 1000 responses of weblab-GENIAC/aya-ja-evol-instruct-calm3-dpo-masked with max_new_tokens=3060, using bnb's 8bit transformers; quality is lower than the original model and mostly lacks <think> tags.
+  - Downloads: 52
+- [kai271/TinyStories-Japanese](https://huggingface.co/datasets/kai271/TinyStories-Japanese)
+  - The repository includes ≈3000 Japanese children's stories generated by GPT-4o-mini using a method described in https://arxiv.org/abs/2305.07759, featuring simple vocabulary.
+  - Downloads: 52
+- [Aratako/iterative-dpo-data-for-ORPO-iter3](https://huggingface.co/datasets/Aratako/iterative-dpo-data-for-ORPO-iter3)
+  - This repository contains an iterative Japanese Preference dataset created from Aratako/Self-Instruct-Qwen2.5-72B-Instruct-60k using temperature=1 answer generation with Aratako/Llama-Gemma-2-27b-CPO_SimPO-iter2, followed by Qwen scoring and filtering.
+  - Downloads: 51
+- [DataPilot/in-foxhound-ja](https://huggingface.co/datasets/DataPilot/in-foxhound-ja)
+  - This repository contains a Japanese translation of an instruction dataset using KUJIRA, primarily about investment and Berkshire Hathaway/Warren Buffett.🔍📝💡
   - Downloads: 50
-- [Ego/jpflan](https://huggingface.co/datasets/Ego/jpflan)
-  - A templated version of about 40 Japanese open-source datasets for instruction tuning LLMs, containing up to 20,000 samples each with half used for 0-shot and half for few-shot examples.
+- [waddledee/three_line_summarization_for_japanese_news_articles](https://huggingface.co/datasets/waddledee/three_line_summarization_for_japanese_news_articles)
+  - A formatted dataset of 3-line news summary prompts for Llama v2, including special tokens [R_START] and [R_END].
+  - Downloads: 49
+- [toshi456/NLVR-JA](https://huggingface.co/datasets/toshi456/NLVR-JA)
+  - A machine-translated dataset of the NLVR dataset into Japanese.
+  - Downloads: 49
+- [speed/english_quotes_ja](https://huggingface.co/datasets/speed/english_quotes_ja)
+  - A Japanese translation of English quotes from the Hugging Face dataset, created using the llm-jp/llm-jp-3-3.7b-instruct model, licensed under CC BY 4.0.
   - Downloads: 47
-- [ayousanz/reazon-speech-v2-all-WAND-SNR-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-WAND-SNR-analyze)
-  - The analysis of audio quality using WADA SNR for reazonspeech-v2[all] data is stored in reazonspeech-all-wada-snr.json, containing file names, SNR values, and transcriptions, with 1,208,360 entries having a WAND SNR value of 100 or higher.
+- [Ego/jpflan](https://huggingface.co/datasets/Ego/jpflan)
+  - A templated version of approximately 40 Japanese open-source datasets for instructional tuning of LLMs, containing up to 20,000 samples each in 0-shot and few-shot formats.
   - Downloads: 45
-- [ryota39/open_preference_v0.2](https://huggingface.co/datasets/ryota39/open_preference_v0.2)
-  - A public RLHF dataset in Japanese with a reward model reformatted as a classification task, consisting of labeled chosen (label 1) and rejected (label 0) sentences from synthetic text and machine translation.
-  - Downloads: 43
-- [alfredplpl/genai-terminology-en-ja](https://huggingface.co/datasets/alfredplpl/genai-terminology-en-ja)
-  - A Japanese-English glossary for AI terminology, intended to aid in smooth translations with GPT-4.
-  - Downloads: 38
+- [YANS-official/ogiri-keitai](https://huggingface.co/datasets/YANS-official/ogiri-keitai)
+  - A dataset containing all the topics and corresponding jokes from the Japanese mobile pun show "Doukaiō! Keitai Daisakyū" with structured HTML crawl data and response details.
+  - Downloads: 45
+- [ayousanz/reazon-speech-v2-all-WAND-SNR-analyze](https://huggingface.co/datasets/ayousanz/reazon-speech-v2-all-WAND-SNR-analyze)
+  - The repository contains analysis of audio quality using WADA SNR, stored in reazonspeech-all-wada-snr.json with file name, SNR value, and transcription, based on data where WAND SNR values exceed 100, totaling 1,208,360 entries.
+  - Downloads: 40
 - [DeL-TaiseiOzaki/magpie-qwen2.5-32b-reasoning-100k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-qwen2.5-32b-reasoning-100k)
   - 合成日本語指示データセット 概要 このデータセットは、大規模言語モデル（Qwen2.5-32B-instruct）
   - Downloads: 37
+- [ryota39/open_preference_v0.2](https://huggingface.co/datasets/ryota39/open_preference_v0.2)
+  - A public RLHF dataset in Japanese, with reward model construction reformatting into a classification task, combining synthetic text and machine translation, labeled as chosen (label 1) or rejected (label 0).
+  - Downloads: 34
+- [alfredplpl/genai-terminology-en-ja](https://huggingface.co/datasets/alfredplpl/genai-terminology-en-ja)
+  - A collection of Japanese-English AI术语, intended to help with elegant translations despite possible inaccuracies.
+  - Downloads: 34
+- [swdq/ethics](https://huggingface.co/datasets/swdq/ethics)
+  - This repository contains a Japanese ethics dataset labeled with "evil" and "justice," useful for both classification and generation tasks, with about 10K to 100K entries,licensed under Apache-2.0.
+  - Downloads: 31
+- [SousiOmine/TagInstruct-JP](https://huggingface.co/datasets/SousiOmine/TagInstruct-JP)
+  - A dataset created by Deepseek-V3-0324 to improve following constraints in system prompts, with generate_dataset.py containing generation details; licensed under MIT.
+  - Downloads: 24
 ### Syntactic Text Processing
 - [deepghs/erairaws_infos](https://huggingface.co/datasets/deepghs/erairaws_infos)
-  - The repository integrates data from various sources for 2056 anime, including details of specific shows like "Yami Shibai," "Kimi to Idol Precure," and "One Piece: Gyojin Tou-hen."
-  - Downloads: 946
+  - This repository integrates data from multiple sources for 2056 anime entries, including Yami Shibai, Kimi to Idol Precure, and One Piece: Gyojin Tou-hen, with updates through March 2025.
+  - Downloads: 1,602
 - [hotchpotch/sentence_transformer_japanese](https://huggingface.co/datasets/hotchpotch/sentence_transformer_japanese)
-  - A transformed Japanese dataset for easy learning with SentenceTransformers, structured in (anchor, positive), (anchor, positive, negative) formats, filtered for positive and negative samples based on reranking scores from specified repositories.
-  - Downloads: 892
+  - A Japanese dataset converted for easy learning with SentenceTransformers, structured as (anchor, positive), (anchor, positive, negative) pairs, filtered by re-ranking scores.
+  - Downloads: 527
+- [hpprc/jawiki](https://huggingface.co/datasets/hpprc/jawiki)
+  - A text dataset extracted from a 2024-1-1 Wikipedia HTML dump, preserving document structure and excluding markup, for NLP tasks.
+  - Downloads: 245
+- [hatakeyama-llm-team/AutoGeneratedJapaneseQA](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA)
+  - The repository contains automatically generated Q&A using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF, sourced from various CC-BY or Apache-2.0 licensed datasets with cleaned random text snippets to reduce similarity to originals.
+  - Downloads: 241
+- [HachiML/alpaca_jp_python](https://huggingface.co/datasets/HachiML/alpaca_jp_python)
+  - This GitHub repository contains cleaned synthetic Japanese text data created using the Alpaca method, curated by HachiML and licensed under Apache 2.0.
+  - Downloads: 141
+- [oshizo/japanese-wikipedia-paragraphs](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs)
+  - A modified version of singletongue/wikipedia-utils for parsing and chunking Wikipedia data crawled between December 5 and 8, 2023.
+  - Downloads: 140
 - [Sakalti/Multilingal-sakalt-data](https://huggingface.co/datasets/Sakalti/Multilingal-sakalt-data)
   - A multilingual dataset licensed under MIT.
-  - Downloads: 550
-- [hatakeyama-llm-team/AutoGeneratedJapaneseQA](https://huggingface.co/datasets/hatakeyama-llm-team/AutoGeneratedJapaneseQA)
-  - The repository contains automatically generated Q&A using MaziyarPanahi/Mixtral-8x22B-Instruct-v0.1-GGUF, derived from CC-BY or Apache-2.0 licensed data sources, with cleaned random text excerpts to reduce similarity to original content.
-  - Downloads: 390
-- [hpprc/jawiki](https://huggingface.co/datasets/hpprc/jawiki)
-  - A text dataset extracted from a January 1, 2024, Wikipedia HTML dump, maintaining document structure and excluding markup, suitable for various NLP tasks.
-  - Downloads: 383
-- [LiuliFox/stickers](https://huggingface.co/datasets/LiuliFox/stickers)
-  - A fun sticker collection byるり.
-  - Downloads: 178
-- [HachiML/alpaca_jp_python](https://huggingface.co/datasets/HachiML/alpaca_jp_python)
-  - This repository contains cleaned synthetic Japanese data generated using the Alpaca method, curated by HachiML and licensed under Apache 2.0.
-  - Downloads: 160
-- [oshizo/japanese-wikipedia-paragraphs](https://huggingface.co/datasets/oshizo/japanese-wikipedia-paragraphs)
-  - A modified parsing and chunking method for Wikipedia data crawled from December 5 to 8, 2023, based on oshizo/wikipedia-utils.
-  - Downloads: 139
-- [Aratako/Magpie-Tanuki-8B-annotated-96k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-8B-annotated-96k)
-  - A dataset derived from Magpie-Tanuki-8B-dpo-v1.0, annotated with difficulty, quality, and category using cyberagent/calm3-22b-chat for instructions.
-  - Downloads: 122
-- [Sakalti/hachiwari](https://huggingface.co/datasets/Sakalti/hachiwari)
-  - The repository relates to "hachiwari" or "chiikawa," likely referring to a project with origins in Japanese language or cultural elements.
-  - Downloads: 100
-- [yulanfmy/databricks-qa-ja](https://huggingface.co/datasets/yulanfmy/databricks-qa-ja)
-  - A Japanese dataset of approximately 1,300 Q&A pairs about Databricks, sourced from the Databricks Japan blog and FAQ posts.
-  - Downloads: 95
-- [ThePioneer/Artificial-super-girlfriend-for-fine-tuning](https://huggingface.co/datasets/ThePioneer/Artificial-super-girlfriend-for-fine-tuning)
-  - The repository includes a large dataset (about 2800 images) of high-beauty-score female images, primarily for training realistic models, with versions 2.1 and 2.6 focusing on different aspects of beauty.
-  - Downloads: 94
-- [Aratako/Magpie-Tanuki-8B-97k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-8B-97k)
-  - A Magpie-generated dataset of 97,269 Japanese dialogues applied to weblab-GENIAC/Tanuki-8B-dpo-v1.0 without post-filtering.
-  - Downloads: 77
-- [Kendamarron/multiturn-qwen2.5-32b](https://huggingface.co/datasets/Kendamarron/multiturn-qwen2.5-32b)
-  - A 3-turn multi-turn instruction dataset generated by Qwen, containing mixed English and Chinese records that may require filtering. Based on Aratako/Magpie-Tanuki-8B-annotated-96k instructions.
-  - Downloads: 76
+  - Downloads: 131
 - [hatakeyama-llm-team/CommonCrawlPDFJa](https://huggingface.co/datasets/hatakeyama-llm-team/CommonCrawlPDFJa)
-  - GitHub repo for data extracted from the CommonCrawl PDF collection specifically focused on the Japanese domain.
-  - Downloads: 75
-- [team-hatakeyama-phase2/LLMChat](https://huggingface.co/datasets/team-hatakeyama-phase2/LLMChat)
-  - LLMChat系统收集了2139条由13种模型生成的回答及人工评价数据，用于评估模型表现。
-  - Downloads: 74
-- [kunishou/ApolloCorpus-ja](https://huggingface.co/datasets/kunishou/ApolloCorpus-ja)
-  - A 525k Japanese translation of ApolloCorpus medical instruction tuning dataset from the English version, with notes on potential translation errors.
-  - Downloads: 69
+  - Code for extracting data from the CommonCrawlPDF Japanese domain.
+  - Downloads: 126
+- [LiuliFox/stickers](https://huggingface.co/datasets/LiuliFox/stickers)
+  - A fun sticker collection named るり的 stickers.
+  - Downloads: 117
+- [Aratako/Magpie-Tanuki-8B-annotated-96k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-8B-annotated-96k)
+  - A dataset with annotations for difficulty, quality, and category using cyberagent/calm3-22b-chat on top of Magpie-Tanuki-8B-97k.
+  - Downloads: 109
+- [Aratako/Magpie-Tanuki-8B-97k](https://huggingface.co/datasets/Aratako/Magpie-Tanuki-8B-97k)
+  - A 97,269-item Japanese dialogue dataset created by applying Magpie's method to weblab-GENIAC/Tanuki-8B-dpo-v1.0 with no post-processing.
+  - Downloads: 71
 - [numad/yuho-text-2023](https://huggingface.co/datasets/numad/yuho-text-2023)
   - 各レコードのurl列が出典となります。
   - Downloads: 69
-- [p1atdev/danbooru-ja-tag-pair-20241015](https://huggingface.co/datasets/p1atdev/danbooru-ja-tag-pair-20241015)
-  - A dataset of approximately 150,000 paired Danbooru and Japanese tags created on 2024/10/15, with improved filtering to reduce non-Japanese tag inclusion.
+- [team-hatakeyama-phase2/LLMChat](https://huggingface.co/datasets/team-hatakeyama-phase2/LLMChat)
+  - LLMChat is a system for collecting questions, LLM responses, and human evaluations used in a model evaluation project from August 19 to 25, 2024, involving 13 types of models.
   - Downloads: 68
-- [Calvin-Xu/Furigana-NDLBIB](https://huggingface.co/datasets/Calvin-Xu/Furigana-NDLBIB)
-  - A validated dataset of on-yomi readings from Chinese characters in the National Diet Library bibliography, with 5,064 instances corrected.
-  - Downloads: 64
-- [turing-motors/LLaVA-v1.5-Instruct-620K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-v1.5-Instruct-620K-JA)
-  - A Japanese-localized version of part of the original LLaVA v1.5 Visual Instruct 655K dataset, translated using DeepL API, for use in Japanese-language applications.
+- [ThePioneer/Artificial-super-girlfriend-for-fine-tuning](https://huggingface.co/datasets/ThePioneer/Artificial-super-girlfriend-for-fine-tuning)
+  - The repository contains a dataset of approximately 2800 high-beauty score images, primarily featuring women with scores of 87 and above, split into subcategories for training artificial intelligence models.
+  - Downloads: 66
+- [Kendamarron/multiturn-qwen2.5-32b](https://huggingface.co/datasets/Kendamarron/multiturn-qwen2.5-32b)
+  - A 3-turn instruction dataset generated by Qwen2.5, containing mixed English and Chinese records, based on Magpie-Tanuki-8B-annotated instructions, requiring filtering.
   - Downloads: 62
+- [Calvin-Xu/Furigana-NDLBIB](https://huggingface.co/datasets/Calvin-Xu/Furigana-NDLBIB)
+  - A validated dataset of on-yomi readings from Chinese characters in the National Diet Library bibliography corpus, with 5064 instance mismatches removed.
+  - Downloads: 59
+- [p1atdev/danbooru-ja-tag-pair-20241015](https://huggingface.co/datasets/p1atdev/danbooru-ja-tag-pair-20241015)
+  - A dataset of约15万danbooru和Japanese标签配对,基于wiki数据增加并经过fasttext过滤。
+  - Downloads: 59
+- [turing-motors/LLaVA-v1.5-Instruct-620K-JA](https://huggingface.co/datasets/turing-motors/LLaVA-v1.5-Instruct-620K-JA)
+  - A Japanese translation of part of the LLaVA v1.5 Visual Instruct 655K dataset, aiming to serve purposes in the Japanese language, licensed under CC BY-NC-4.0.
+  - Downloads: 56
 - [Atsushi/fungi_trait_circus_database](https://huggingface.co/datasets/Atsushi/fungi_trait_circus_database)
-  - Atsushi Nakajima维护的“大菌轮”网站提供了一套以半自动方式从真菌记述中提取并用标准化词汇整理的形质数据集，供非学术用途临时使用。
-  - Downloads: 61
-- [HachiML/Evol-Alpaca-gen3-500](https://huggingface.co/datasets/HachiML/Evol-Alpaca-gen3-500)
-  - Evol-Alpaca-gen3-500 is a Japanese synthesis dataset created using the Evol-Instruction method on mistralai/Mixtral-8x22B-Instruct-v0.1, based on Stanford Alpaca seed tasks, with code available on GitHub.
-  - Downloads: 60
-- [hpprc/jsec](https://huggingface.co/datasets/hpprc/jsec)
-  - The repository hosts the website for JSEC.
-  - Downloads: 58
-- [Calvin-Xu/Furigana-Aozora](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora)
-  - Errors in a dataset of kana markings derived from Braille texts of "Aozora"Bunko and Sapio, including mismatches in sentences from works by authors like Tanizaki Junichirō and Haibara.
-  - Downloads: 57
+  - Atsushi Nakajima maintains a curated database of fungal traits extracted from descriptions, using natural language processing, for convenient aggregation and analysis; however, academic use is currently restricted.
+  - Downloads: 56
+- [yulanfmy/databricks-qa-ja](https://huggingface.co/datasets/yulanfmy/databricks-qa-ja)
+  - A Japanese dataset of 1,300 manually created Q&A pairs about Databricks for chat bot training, sourced from Databricks' Japanese blog and FAQs.
+  - Downloads: 54
+- [kunishou/ApolloCorpus-ja](https://huggingface.co/datasets/kunishou/ApolloCorpus-ja)
+  - A 525k instruction tuning dataset of ApolloCorpus-ja, automatically translated from English, aims to provide quality medical dataset for AI training.
+  - Downloads: 51
 - [DeL-TaiseiOzaki/magpie-qwen2.5-32B-10K-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-qwen2.5-32B-10K-ja)
-  - A collection of 20,000 auto-generated Japanese instructions and their responses in JSON format, created using the Qwen2.5-32B-Instruct model for task learning and evaluation.
-  - Downloads: 55
-- [tzmtwtr/tw-posts-japanese](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese)
-  - A processed embedding dataset from 50,000 posts by t_w to de.light, unusable for redistribution.
-  - Downloads: 52
+  - A dataset of 20,000 automatically generated Japanese instructions and their responses created using the Qwen2.5-32B-Instruct model for training or evaluating instruction-following tasks.
+  - Downloads: 51
+- [Calvin-Xu/Furigana-Aozora](https://huggingface.co/datasets/Calvin-Xu/Furigana-Aozora)
+  - A refined dataset of ruby命名数据集来自青空文库和萨皮埃的点字文件，包含校验中移除的307个错误实例。
+  - Downloads: 51
 - [p1atdev/novecomi-novel-metadata](https://huggingface.co/datasets/p1atdev/novecomi-novel-metadata)
-  - Metadata scraping from dengekibunko.jp/novecomi/novel/.
-  - Downloads: 48
-- [hpprc/quiz-no-mori](https://huggingface.co/datasets/hpprc/quiz-no-mori)
-  - A dataset containing quiz questions with free reuse permissions, suitable for use in search expansion generation and document search systems.
+  - Metadata scraped from dengekibunko.jp/novecomi/novel.
   - Downloads: 46
-- [hpprc/quiz-works](https://huggingface.co/datasets/hpprc/quiz-works)
-  - A dataset containing quizzes from Quiz Works, free for reuse as stated on the Quiz Works website, suitable for RAG and document search system development.
+- [HachiML/Evol-Alpaca-gen3-500](https://huggingface.co/datasets/HachiML/Evol-Alpaca-gen3-500)
+  - Evol-Alpaca-gen3-500 is a Japanese-language synthetic dataset created using the Evol-Instruction method from mistralai/Mixtral-8x22B-Instruct-v0.1, based on Stanford Alpaca seed tasks, and licensed under Apache 2.0.
+  - Downloads: 44
+- [Sakalti/hachiwari](https://huggingface.co/datasets/Sakalti/hachiwari)
+  - The repository derives its name from "hachiwari/はちわれ" and "chiikawa/ちいかわ."
   - Downloads: 43
+- [kurogane/metamath_ja_950_reka3flash](https://huggingface.co/datasets/kurogane/metamath_ja_950_reka3flash)
+  - The repository contains 950 cleaned-up translations of the first 1000 items from meta-math/MetaMathQA, formatted for use with RekaAI/reka-flash-3.
+  - Downloads: 43
+- [tzmtwtr/tw-posts-japanese](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese)
+  - A processed set of 50,000 posts from t_w's Delight submissions for embedding learning; usable for training but not redistribution.
+  - Downloads: 43
+- [den2nova/den2niji](https://huggingface.co/datasets/den2nova/den2niji)
+  - A dataset of 280 female illustrations generated with nijijourney v5 for LoRA transparency, including some copyrighted characters, available for non-misuse and proper licensing respect.
+  - Downloads: 40
+- [hpprc/quiz-no-mori](https://huggingface.co/datasets/hpprc/quiz-no-mori)
+  - A dataset of quizzes with "free" reuse permissions, sourced from Quiz Woods and suitable for use in search retrieval systems like RAG.
+  - Downloads: 39
+- [hpprc/quiz-works](https://huggingface.co/datasets/hpprc/quiz-works)
+  - A freely usable dataset of quizzes from Quiz Works, suitable for RAG and document search system construction.
+  - Downloads: 37
 - [tomo1222/Japanese-QA111dataset](https://huggingface.co/datasets/tomo1222/Japanese-QA111dataset)
   - Manually created data.
-  - Downloads: 40
-- [hama-jp/magpie-qwen-turbo-27k](https://huggingface.co/datasets/hama-jp/magpie-qwen-turbo-27k)
-  - A fine-tuning dataset for small-scale Japanese LLM chatbots, consisting of 26,728 annotated instances from Aratako/Magpie-Tanuki-8B, focusing on specific information-seeking, reasoning, and planning queries.
-  - Downloads: 39
-- [infinity-blackhole/nhentai](https://huggingface.co/datasets/infinity-blackhole/nhentai)
-  - A dataset of adult-content Japanese manga in CBZ format, suitable for image analysis and text recognition research.
-  - Downloads: 39
-- [lissette/Nanami-Chiaki-audio](https://huggingface.co/datasets/lissette/Nanami-Chiaki-audio)
-  - Seven Moon Cats voice data for the game Hopeless Lost School Day.
-  - Downloads: 38
-- [den2nova/den2niji](https://huggingface.co/datasets/den2nova/den2niji)
-  - A dataset of 280 illustrations of females generated with nijijourney v5 for LoRA training, including some copyrighted characters, with accompanying text files; use for model transparency but not for illegal or harmful activities.
   - Downloads: 36
 - [tzmtwtr/tw-posts-japanese-v2](https://huggingface.co/datasets/tzmtwtr/tw-posts-japanese-v2)
-  - A processed embedding learning dataset for 50,000 posts from t_w's Delight submissions, fixing missing text issues and altering data structure, with restricted reuse under Japanese law.
+  - The repository contains processed embeddings of 50,000 posts from t_w's Delight submission, with corrections to missing text and altered data structure, subject to Japanese legal restrictions on redistribution.
   - Downloads: 35
-- [kurogane/metamath_ja_950_reka3flash](https://huggingface.co/datasets/kurogane/metamath_ja_950_reka3flash)
-  - The repository contains a cleaned version of the first 950 items from meta-math/MetaMathQA, translated using RekaAI/reka-flash-3, with improperly formatted items removed.
-  - Downloads: 30
+- [infinity-blackhole/nhentai](https://huggingface.co/datasets/infinity-blackhole/nhentai)
+  - A collection of CBZ-formatted adult content manga from Nhentai, suitable for image analysis and text recognition research.
+  - Downloads: 35
+- [hpprc/jsec](https://huggingface.co/datasets/hpprc/jsec)
+  - A GitHub repository for the JSEC website.
+  - Downloads: 35
+- [hama-jp/magpie-qwen-turbo-27k](https://huggingface.co/datasets/hama-jp/magpie-qwen-turbo-27k)
+  - A fine-tuned subset of 26,728 annotated samples for small-scale Japanese chat LLMs using Qwen-2.5-turbo, focusing on specific information-seeking, reasoning, planning, and editing queries.
+  - Downloads: 33
+- [lissette/Nanami-Chiaki-audio](https://huggingface.co/datasets/lissette/Nanami-Chiaki-audio)
+  - The voice data for Kiryuu Nanako from the game Patchouli Knowledge.
+  - Downloads: 33
 - [cc-clean/CC-MAIN-2019-51](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-51)
-  - This repository contains a dataset of Japanese web pages extracted from the CommonCrawler using cc-downloader-rs, provided by the IPA's ICSCoE for research purposes only.
+  - This repository contains a dataset of Japanese text extracted from CommonCrawler using cc-downloader-rs, sourced with resources from IPA's ICSCoE for research purposes only.
   - Downloads: 20
 - [hotchpotch/jaqket_v1_qa_wikija_context](https://huggingface.co/datasets/hotchpotch/jaqket_v1_qa_wikija_context)
   - ⚠
   - Downloads: 13
 ### Responsible NLP
 - [cc-clean/CC-MAIN-2019-39](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-39)
-  - This repository contains a Japanese-language dataset extracted from CommonCrawler using cc-downloader-rs, provided with usage限制模式已激活，超出显示能力。pływ<|im_start|>"user"Summarize the GitHub repository description in a single concise sentence focusing on the key points. Ensure that the summary is clear and includes important information such as the source of the data and the purpose of use.Repository Description:CC-MAIN-2019-39へようこそ 本データセットはCommonCrawlerと呼ばれるものから日本語のみを抽出したものです。 利用したものはcc-downloader-rsです。 なおIPAのICSCoEと呼ばれるところから資源を借りてやりましたゆえに、みなさんIPAに感謝しましょう。 ※ IPAは独立行政法人 情報処理推進機構のことです。テストに出ますので覚えましょう。 利用について 本利用は研究目的のみとさせていただきます。 それ以外の利用につきましては途方もくれない数の著作権者に許可を求めてきてください。
-  - Downloads: 5,391
+  - This repository contains a dataset of Japanese content extracted from the CommonCrawler, using cc-downloader-rs, for research purposes only.
+  - Downloads: 3,002
 - [hatakeyama-llm-team/japanese2010](https://huggingface.co/datasets/hatakeyama-llm-team/japanese2010)
-  - This GitHub repository contains Japanese web corpora from 2009, converted and marked with sentence boundaries through morphological analysis for research purposes.
-  - Downloads: 2,028
-- [cc-clean/CC-MAIN-2019-30](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-30)
-  - This repository contains a Japanese dataset extracted from CommonCrawler using cc-downloader-rs, courtesy of IPA's ICSCoE, for research purposes only.
-  - Downloads: 851
+  - This repository contains a 2010 Japanese web corpus, converted and marked with sentence boundaries using morphological analysis, for legal information retrieval use only.
+  - Downloads: 1,647
 - [kanhatakeyama/SyntheticText](https://huggingface.co/datasets/kanhatakeyama/SyntheticText)
-  - The repository contains randomly extracted text from various sources, re-generated with phi3, and includes large parquet files; download requires git lfs, with some datasets unavailable through standard libraries due to size limitations; partial supercomputing resources from Tokyo Tech's TSUBAME4.0 were used for calculations.
-  - Downloads: 661
-- [hpprc/mqa-ja](https://huggingface.co/datasets/hpprc/mqa-ja)
-  - A cleaned and de-duplicated mqa dataset with preprocessed noisy text and indexed positive and negative query-passage pairs.
-  - Downloads: 306
+  - The repository contains randomly extracted text from various sources, re-generated articles using phi3, large parquet files (several tens of GB), and code that partially utilizes Tokyo Tech's supercomputer TSUBAME 4.0 for computations.
+  - Downloads: 635
 - [matsuxr/JaGovFaqs-22k](https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k)
-  - This dataset comprises hand-extracted FAQ questions and answers from Japanese government agency websites, licensed under CC-BY-4.0, intended for instruction tuning of large language models.
-  - Downloads: 246
+  - This dataset consists of manually extracted Q&A from Japanese government agency FAQ pages, licensed under CC-BY-4.0, intended for instruction tuning of large language models.
+  - Downloads: 291
 - [hpprc/paraphrase-qa](https://huggingface.co/datasets/hpprc/paraphrase-qa)
-  - A dataset generated by replacing text in Japanese Wikipedia and providing queries and responses to LLMs, licensed under CC-BY-SA 4.0.
-  - Downloads: 230
+  - A dataset generated by replacing text in Japanese Wikipedia and feeding the replacements into LLM queries and answers, licensed under CC-BY-SA 4.0.
+  - Downloads: 229
 - [JunSotohigashi/JapaneseWikipediaTypoDataset_kanji](https://huggingface.co/datasets/JunSotohigashi/JapaneseWikipediaTypoDataset_kanji)
-  - A curated dataset of Japanese Wikipedia input errors, specifically focusing on Kanji conversion mistakes, designed for use with HuggingFace.
-  - Downloads: 217
-- [DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k)
-  - A dataset of 20,000 Japanese instructional prompts and their responses generated by the LLM-JP 3.13B model, formatted in JSON, for instruction-following task learning and evaluation.
-  - Downloads: 153
-- [kanhatakeyama/SyntheticTextWikiTranslate](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextWikiTranslate)
-  - A corpus of Japanese text randomly extracted from sources like Wikibooks and Wikipedia, re-generated with Phi-3, automatically translated to English, and stored in large parquet files requiring git lfs for download.
-  - Downloads: 153
-- [cc-clean/CC-MAIN-2019-35](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-35)
-  - This repository contains a Japanese dataset extracted from CommonCrawler using cc-downloader-rs, provided by the IPA's ICSCoE for research purposes only.
-  - Downloads: 142
-- [Aruno/guanaco_jp](https://huggingface.co/datasets/Aruno/guanaco_jp)
-  - Japanese translation of GuanacoDataset using langdetect.
-  - Downloads: 127
+  - This repository contains a filtered dataset of Japanese Wikipedia input errors, specifically for kanji conversion mistakes, split into pre- and post- erroneous parts, adapted from the Kyoto University Language Media Lab's data set.
+  - Downloads: 187
+- [hpprc/mqa-ja](https://huggingface.co/datasets/hpprc/mqa-ja)
+  - A cleaned and de-duplicated mqa dataset with query-passage pairs, preprocessed with noise removal and normalization, where pos_ids and neg_ids indices correspond to collection subset items.
+  - Downloads: 187
+- [cc-clean/CC-MAIN-2019-30](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-30)
+  - This repository contains a Japanese dataset extracted from CommonCrawler using cc-downloader-rs, provided by IPA's ICSCoE for research purposes only.
+  - Downloads: 186
 - [SousiOmine/Japanese-Pythonic-FunctionCall](https://huggingface.co/datasets/SousiOmine/Japanese-Pythonic-FunctionCall)
-  - A low-quality dataset for赋予聊天语言模型Python函数调用能力，包含1002个样本，由Qwen2.5-32b-instruct生成指令，Phi-4生成回答，存在一些工具使用相关问题。
-  - Downloads: 121
-- [kunishou/oasst1-chat-44k-ja](https://huggingface.co/datasets/kunishou/oasst1-chat-44k-ja)
-  - A converted chat-format dataset from oasst1-89k-ja for multi-turn conversation fine-tuning, in ShareGPT format, requiring significant computational resources.
-  - Downloads: 93
+  - A low-quality dataset of 1002 items from Kendamarron/jimba-instruction-all, used to add function calling capability to chat LLMs, with responses generated by Phi-4 and functions defined and called by Qwen2.5-32b-instruct, noting issues with missing or non-standard function definitions and low-quality responses.
+  - Downloads: 143
+- [kanhatakeyama/SyntheticTextWikiTranslate](https://huggingface.co/datasets/kanhatakeyama/SyntheticTextWikiTranslate)
+  - A corpus of Japanese text randomly extracted from sources like Wikibooks and Wikipedia, re-generated with Phi-3, automatically translated to English, using TITech's TSUBAME4.0 supercomputer for some calculations, stored in large parquet files.
+  - Downloads: 141
+- [cc-clean/CC-MAIN-2019-35](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-35)
+  - This repository contains a dataset of Japanese text extracted from CommonCrawler using cc-downloader-rs, provided by the IPA's ICSCoE for research purposes only.
+  - Downloads: 125
+- [Aruno/guanaco_jp](https://huggingface.co/datasets/Aruno/guanaco_jp)
+  - Japanese prompt data from GuanacoDataset extracted using langdetect.
+  - Downloads: 117
 - [weblab-GENIAC/aya-ja-evol-instruct-calm3-dpo-masked](https://huggingface.co/datasets/weblab-GENIAC/aya-ja-evol-instruct-calm3-dpo-masked)
-  - Users must download publicly available models, datasets, and other content while agreeing not to use it for commercial purposes and taking responsibility for legal compliance.
+  - Users must agree not to use the downloaded public models and datasets for profit and understand that they alone are responsible for legal compliance.
   - Downloads: 88
+- [DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-llm-jp-3-13b-20k)
+  - A collection of 20,000 auto-generated Japanese instructions and responses using LLM-JP 3.13B Instruct models for task-oriented learning and evaluation in JSON format.
+  - Downloads: 82
+- [kunishou/oasst1-chat-44k-ja](https://huggingface.co/datasets/kunishou/oasst1-chat-44k-ja)
+  - A converted chat-format dataset from oasst1-89k-ja for multi-turn conversation fine-tuning, formatted as ShareGPT. Requires significant computational resources.
+  - Downloads: 78
 - [kanhatakeyama/CreativeCommons-RAG-QA-Mixtral8x22b](https://huggingface.co/datasets/kanhatakeyama/CreativeCommons-RAG-QA-Mixtral8x22b)
-  - The repository contains automatically generated Japanese Q&A in RAG format using texts randomly extracted from sources like Wikibooks and legal cases, intended for instruction dataset pre-training, with some computation done on TSUBAME4.0 supercomputer.
-  - Downloads: 76
-- [hpprc/ja-en-r1-distill-qwen](https://huggingface.co/datasets/hpprc/ja-en-r1-distill-qwen)
-  - A dataset translated from English Wikipedia to Japanese using cyberagent's DeepSeek-R1-Distill-Qwen-32B model, including processed Japanese translations and original English texts, with few-shot examples and CC-BY-SA 4.0 licensing.
-  - Downloads: 73
+  - The repository contains automatically generated Japanese Q&A in RAG format using texts randomly extracted from sources like Wikibooks and legal cases, intended for instruction dataset training, with some computations done on TSUBAME4.0 supercomputer.
+  - Downloads: 74
 - [RJZ/ConceptNetSyntheticPhi3Text_ja](https://huggingface.co/datasets/RJZ/ConceptNetSyntheticPhi3Text_ja)
-  - A dataset generated using Phi-3 to create sentences in Japanese based on ConceptNet 5.7 triples with a specific prompt.
-  - Downloads: 66
-- [kenkensz9/kenkensz9_1242tw2](https://huggingface.co/datasets/kenkensz9/kenkensz9_1242tw2)
-  - This dataset includes 1243 tweets selected from the author's tweets between May 16, 2022, and May 24, 2024, focusing on those that convey difficult concepts or have unique worlds, to enhance a base model's expression.
-  - Downloads: 64
+  - A dataset generated using Phi-3 to create Japanese sentences based on ConceptNet 5.7 triples with a specific prompt.
+  - Downloads: 61
 - [kunishou/oasst2-135k-ja](https://huggingface.co/datasets/kunishou/oasst2-135k-ja)
-  - A Japanese translation of the "OpenAssistant/oasst2" dataset, converted into chat format using DeepL, along with conversion code for fine-tuning models.
+  - A Japanese translation dataset of "OpenAssistant/oasst2" converted using DeepL, available for fine-tuning after instruction and output formatting.
   - Downloads: 58
-- [masajek/openassistant-guanaco-ja](https://huggingface.co/datasets/masajek/openassistant-guanaco-ja)
-  - The repository includes a subset of Japanese conversations from the Open Assistant dataset, available at https://huggingface.co/datasets/timdettmers/openassistant-guanaco.
+- [hpprc/ja-en-r1-distill-qwen](https://huggingface.co/datasets/hpprc/ja-en-r1-distill-qwen)
+  - A dataset translating English Wikipedia text to Japanese using DeepSeek-R1-Distill-Qwen-32B, processed with A6000 GPUs and licensed under CC-BY-SA 4.0.
   - Downloads: 48
-- [kanhatakeyama/multiturn-conv-from-aozora-bunko](https://huggingface.co/datasets/kanhatakeyama/multiturn-conv-from-aozora-bunko)
-  - Automatically generated conversation data created from excerpts of "I Will Not Say I Am a Dog" randomly selected from the Qingkong Literature Archive using Calm3-22B-chat, with a light cleaning.
-  - Downloads: 48
-- [hpprc/mmarco-ja](https://huggingface.co/datasets/hpprc/mmarco-ja)
-  - A processed dataset with unique queries, preprocessed for encoding issues and NFKC normalization, where query IDs correspond to collection subset indices.
-  - Downloads: 47
-- [ikeno-ada/Japanese-English_translation_of_contents_HScodes](https://huggingface.co/datasets/ikeno-ada/Japanese-English_translation_of_contents_HScodes)
-  - Based on Japan Post's international mail content items English-Chinese translation and HS codes (as of May 9, 2024).
-  - Downloads: 45
-- [MakiAi/Tokama_Club_QA](https://huggingface.co/datasets/MakiAi/Tokama_Club_QA)
-  - This dataset includes questions and answers about characters from the Touhou Project, structured in CSV files, suitable for training chatbots or machine learning models.
-  - Downloads: 41
-- [DeL-TaiseiOzaki/magpie-reasonig-ja-qwen2.5-72b-16k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-reasonig-ja-qwen2.5-72b-16k)
-  - A collection of approximately 16,000 automatically generated Japanese instructions and their corresponding inferences, initial responses, and refined answers, designed for large language model training and evaluation.
-  - Downloads: 40
-- [aipracticecafe/wataoshi-dialogues-rp](https://huggingface.co/datasets/aipracticecafe/wataoshi-dialogues-rp)
-  - The dataset includes slightly cleaned dialogue from the anime "My Lady is a Despicable Person," containing lines mostly from Lay, including some responses from Claire. Usage of the dataset is at the user's own risk as the animator's rights are not owned.
-  - Downloads: 38
 - [weblab-GENIAC/aya-ja-nemotron-dpo-masked](https://huggingface.co/datasets/weblab-GENIAC/aya-ja-nemotron-dpo-masked)
-  - Download and use the published models and datasets, acknowledging no guarantees are made regarding compliance with laws or quality, and agree not to exploit copyrighted works for personal enjoyment.
+  - Users must download publicly available models, datasets, and other content while agreeing not to use the copyright-protected works for commercial or profit motives, understanding that the publisher does not guarantee legality or quality and disclaims liability.
+  - Downloads: 47
+- [masajek/openassistant-guanaco-ja](https://huggingface.co/datasets/masajek/openassistant-guanaco-ja)
+  - A subset containing Japanese conversations from the Open Assistant dataset, available at https://huggingface.co/datasets/timdettmers/openassistant-guanaco.
+  - Downloads: 45
+- [kanhatakeyama/multiturn-conv-from-aozora-bunko](https://huggingface.co/datasets/kanhatakeyama/multiturn-conv-from-aozora-bunko)
+  - Automated chat data generated from randomly excerpted text from Aozora Bunko using Calm3-22B-chat, including a cleaned version of "I Am a Cat" in limited分明版。
+  - Downloads: 41
+- [ikeno-ada/Japanese-English_translation_of_contents_HScodes](https://huggingface.co/datasets/ikeno-ada/Japanese-English_translation_of_contents_HScodes)
+  - Based on Japan Post's international mail content items translation data (as of May 9, 2024), including English and Chinese translations and HS codes.
+  - Downloads: 41
+- [hpprc/mmarco-ja](https://huggingface.co/datasets/hpprc/mmarco-ja)
+  - A processed dataset with unique queries and preprocessed IDs, ready for access via collection indices, retaining original licensing.
+  - Downloads: 41
+- [MakiAi/Tokama_Club_QA](https://huggingface.co/datasets/MakiAi/Tokama_Club_QA)
+  - This dataset contains questions and answers about characters from the Touhou Project, structured in CSV files, suitable for training chatbots and machine learning models.
+  - Downloads: 40
+- [DeL-TaiseiOzaki/magpie-reasonig-ja-qwen2.5-72b-16k](https://huggingface.co/datasets/DeL-TaiseiOzaki/magpie-reasonig-ja-qwen2.5-72b-16k)
+  - This repository contains a dataset of approximately 16,000 auto-generated Japanese instructions and their corresponding reasoning, initial responses, and refined answers, created using large language models for task-oriented learning and evaluation.
+  - Downloads: 38
+- [aipracticecafe/wataoshi-dialogues-rp](https://huggingface.co/datasets/aipracticecafe/wataoshi-dialogues-rp)
+  - The dataset includes cleaned dialogue from the anime "My Favorite is Evil Lady," primarily containing Lay's lines with some Claire's responses, provided without warranty of rights or accuracy.
+  - Downloads: 33
+- [kenkensz9/kenkensz9_1242tw2](https://huggingface.co/datasets/kenkensz9/kenkensz9_1242tw2)
+  - This repository contains 1,243 curated tweets from May 16, 2022, to May 24, 2024, focusing on tweets that verbalize difficult concepts or have unique worlds, suitable for enhancing a base model's expression.
   - Downloads: 31
 - [weblab-GENIAC/Open-Platypus-Japanese-masked](https://huggingface.co/datasets/weblab-GENIAC/Open-Platypus-Japanese-masked)
-  - Download the publicly available models and datasets while agreeing not to use them for profiting from the expressed ideas or emotions, understanding that no legal compliance or quality guarantees are provided.
-  - Downloads: 24
+  - Download the publicly available models, datasets, and other content (subject to conditions), understanding no warranty is given for legal compliance or quality, and you alone are responsible for any usage.
+  - Downloads: 20
 - [weblab-GENIAC/OpenBookQA-Japanese-masked](https://huggingface.co/datasets/weblab-GENIAC/OpenBookQA-Japanese-masked)
-  - Users agree not to use the publicly downloadable models and datasets for commercial or unauthorized personal gain,须遵守法律并在披露内容时同样要求第三方遵守。
+  - Users must agree to terms prohibiting certain uses of the content and acknowledging no warranties, before downloading publicly shared models, datasets, and other materials while promising to comply with applicable laws.
   - Downloads: 15
 - [weblab-GENIAC/jwinogrande](https://huggingface.co/datasets/weblab-GENIAC/jwinogrande)
-  - Download the publicly shared models and datasets, agree not to use them for profit, and understand you bear responsibility for legal compliance.
+  - Users must agree not to use the publicly downloadable models and datasets for profit, understand that the provider disclaims liability for legal compliance and quality, and ensure compliance when sharing with third parties.
   - Downloads: 14
 - [weblab-GENIAC/jbbh](https://huggingface.co/datasets/weblab-GENIAC/jbbh)
-  - Download this repository's publicly shared models, datasets, and other content while agreeing not to use them for exploiting the expressed ideas or emotions they contain, understanding that no warranties are provided and you alone are responsible for legal compliance.
+  - Users must download public models, datasets, and other content while agreeing not to use them for profit and understanding that the repository disclaims warranties and accepts no liability for their use or compliance with laws.
   - Downloads: 13
 - [weblab-GENIAC/jhellaswag](https://huggingface.co/datasets/weblab-GENIAC/jhellaswag)
-  - Users must download publicly shared models, datasets, and other content while agreeing not to use the copyrighted materials for profit or to exploit the expressed ideas or emotions they contain, and to comply with laws when utilizing and sharing the content.
+  - Users must agree not to use the publicly downloaded models and datasets for profit, understand no guarantees are given for legality or quality, and ensure compliance with laws when using and sharing with others.
   - Downloads: 12
 - [weblab-GENIAC/jarc](https://huggingface.co/datasets/weblab-GENIAC/jarc)
-  - Users must agree not to use the downloaded public models and datasets for commercial purposes and understand that the repository provider does not guarantee legal compliance or quality, disclaiming liability for their use.
+  - Users must download publicly shared models, datasets, and other content while agreeing not to use the copyrighted materials for profit or commercial purposes and must ensure compliance with laws when sharing with third parties.
   - Downloads: 11
 - [cc-clean/CC-MAIN-2019-49](https://huggingface.co/datasets/cc-clean/CC-MAIN-2019-49)
-  - This repository contains a dataset of Japanese content extracted from the CommonCrawler using cc-downloader-rs, provided by IPA's ICSCoE for research purposes only.
+  - This repository contains a dataset of Japanese content extracted from CommonCrawler, using cc-downloader-rs, and is intended for research purposes only.
   - Downloads: 11
 ### Reasoning
-- [Manual-Dataset-Creation-Project/Malum-230](https://huggingface.co/datasets/Manual-Dataset-Creation-Project/Malum-230)
-  - Malum-230 is a handcrafted Japanese dataset for logical reasoning tasks, suitable for both pre-training and post-training.
-  - Downloads: 329
-- [shunk031/jsnli](https://huggingface.co/datasets/shunk031/jsnli)
-  - The JSNLI dataset is a Japanese translation of the SNLI benchmark for natural language inference, structured in TSV format and preprocessed with JUMAN++.
-  - Downloads: 318
-- [elyza/JaMARD](https://huggingface.co/datasets/elyza/JaMARD)
-  - JaMARD is a high-quality synthetic dataset for Japanese math problems with assured correctness and chain-of-thought reasoning, derived from English seeds translated using Qwen2-7B-Instruct.
-  - Downloads: 275
-- [kunishou/OpenMathInstruct-1-1.8m-ja](https://huggingface.co/datasets/kunishou/OpenMathInstruct-1-1.8m-ja)
-  - A commercially usable, Japanese-translated dataset of 180K mathematical instruction tuning examples, derived from synthetic solutions to GSM8K and MATH benchmark questions, licensed by NVIDIA for commercial use.
-  - Downloads: 227
-- [sbintuitions/JSQuAD](https://huggingface.co/datasets/sbintuitions/JSQuAD)
-  - This repository contains a clone of the JSQuAD dataset for Japanese reading comprehension, including SB Intuitions corrections and evaluation score improvements.
-  - Downloads: 202
 - [tohoku-nlp/abc-multiple-choice](https://huggingface.co/datasets/tohoku-nlp/abc-multiple-choice)
-  - The abc-multiple-choice dataset contains multiple-choice questions from the "abc" quiz competition, with evaluation scripts available for research purposes only.
-  - Downloads: 151
-- [sbintuitions/JCommonsenseQA](https://huggingface.co/datasets/sbintuitions/JCommonsenseQA)
-  - The repository contains code and datasets for ensuring evaluation score reproducibility and includes a Japanese version of CommonsenseQA (JCommonsenseQA) licensed under CC BY-SA 4.0.
-  - Downloads: 134
-- [sionic-ai/LogicJa](https://huggingface.co/datasets/sionic-ai/LogicJa)
-  - The LogicJa dataset includes 105 multi-turn tasks covering various domains like math, writing, and coding to evaluate Japanese language models' reasoning capabilities.
-  - Downloads: 130
+  - The abc-multiple-choice dataset contains multiple-choice questions from the "abc" quiz competition, along with evaluation scripts for research purposes.
+  - Downloads: 330
+- [elyza/JaMARD](https://huggingface.co/datasets/elyza/JaMARD)
+  - JaMARD is a high-quality synthetic dataset for Japanese mathematical problems with guaranteed correctness, derived from translating English seed data using Qwen2-7B-Instruct.
+  - Downloads: 314
+- [shunk031/jsnli](https://huggingface.co/datasets/shunk031/jsnli)
+  - The JSNLI dataset is a Japanese translation of the standard natural language inference benchmark SNLI, structured in TSV format for labeled premises and hypotheses processed with JUMAN++.
+  - Downloads: 255
+- [Kendamarron/magpie-easy-math-instruction-88k-qwen2.5-bakeneko-32b-instruct](https://huggingface.co/datasets/Kendamarron/magpie-easy-math-instruction-88k-qwen2.5-bakeneko-32b-instruct)
+  - A dataset of synthetic math instructions generated using Magpie, evaluated by LLMs with specific system prompts for logical and mathematical reasoning and code execution.
+  - Downloads: 233
+- [kunishou/OpenMathInstruct-1-1.8m-ja](https://huggingface.co/datasets/kunishou/OpenMathInstruct-1-1.8m-ja)
+  - A commercially usable Japanese translation dataset of 180K mathematical instruction tuning pairs generated from OpenMathInstruct-1, using Mixtral-8x7B model solutions for GSM8K and MATH benchmarks.
+  - Downloads: 215
+- [sbintuitions/JSQuAD](https://huggingface.co/datasets/sbintuitions/JSQuAD)
+  - This repo contains reproducible evaluation scores and updated code for JSQuAD, a Japanese version of SQuAD, using a 2021 Wikipedia dump.
+  - Downloads: 198
+- [Manual-Dataset-Creation-Project/Malum-230](https://huggingface.co/datasets/Manual-Dataset-Creation-Project/Malum-230)
+  - Malum-230 is a manually crafted Japanese dataset for logical reasoning tasks, suitable for both pre-training and post-training.
+  - Downloads: 169
 - [saldra/sakura_japanese_dataset](https://huggingface.co/datasets/saldra/sakura_japanese_dataset)
-  - The GitHub repository contains a high-quality, small-scale Japanese dataset for commercial use, including commonsense_qa, Calc-ape210k, and japanese-commonsense-openqa, licensed under the Database Contents License v1.0.
-  - Downloads: 117
-- [Inoichan/NuminaMath-Enhanced-CoT-JA-50K](https://huggingface.co/datasets/Inoichan/NuminaMath-Enhanced-CoT-JA-50K)
-  - The repository offers an enhanced Japanese math dataset with 50k samples for reinforcing multi-step reasoning, complementing the original NuminaMath CoT dataset.
-  - Downloads: 88
+  - A commercializable, high-quality, ultra-small-scale Japanese dataset including commonsense_qa, Calc-ape210k, and Japanese-commonsense-openqa, licensed under DbCL v1.0.
+  - Downloads: 125
+- [sionic-ai/LogicJa](https://huggingface.co/datasets/sionic-ai/LogicJa)
+  - LogicJa is a multi-turn benchmark dataset with 105 tasks covering various domains and categories, totaling 210 questions to evaluate Japanese language models' reasoning abilities.
+  - Downloads: 120
+- [sbintuitions/JCommonsenseQA](https://huggingface.co/datasets/sbintuitions/JCommonsenseQA)
+  - The GitHub repository contains reproducible evaluation scores and source code for SB Intuitions' updated version of JCommonsenseQA, a Japanese commonsense reasoning dataset derived from CommonsenseQA.
+  - Downloads: 103
 - [zenless-lab/jnli](https://huggingface.co/datasets/zenless-lab/jnli)
-  - JGLUE is a Japanese NLI dataset consisting of premise and hypothesis sentences labeled as entailment, contradiction, or neutral.
+  - JGLUE is a Japanese NLI dataset comprising entailment, contradiction, and neutral relations between premise and hypothesis sentences.
   - Downloads: 86
+- [hotchpotch/japanese-qa-reasoning-100k](https://huggingface.co/datasets/hotchpotch/japanese-qa-reasoning-100k)
+  - A dataset generated by DeepSeek-R1 from text in the fineweb2-edu-japanese corpus, containing Japanese questions and answers with reasoning processes, sampled exclusively from the test set.
+  - Downloads: 81
+- [Aratako/magpie-reasoning-llama-nemotron-70b-100k-filtered](https://huggingface.co/datasets/Aratako/magpie-reasoning-llama-nemotron-70b-100k-filtered)
+  - Filtered dataset from de-L-TaiseiOzaki/magpie-reasoning-llama-nemotron-70b-100k with "改良" not in refined_answer, converted to OpenAI messages format.
+  - Downloads: 81
+- [Inoichan/KUM-Bench](https://huggingface.co/datasets/Inoichan/KUM-Bench)
+  - KUM-Bench evaluates advanced Japanese reasoning abilities using Kyoto University's math entrance exam questions for LLMs.
+  - Downloads: 79
 - [Inoichan/NuminaMath-CoT-JA-100K](https://huggingface.co/datasets/Inoichan/NuminaMath-CoT-JA-100K)
   - A Japanese-translated subset of 100k samples from the original NuminaMath CoT dataset, including math problems and their Chain of Thought solutions.
-  - Downloads: 84
-- [Inoichan/KUM-Bench](https://huggingface.co/datasets/Inoichan/KUM-Bench)
-  - KUM-Bench evaluates advanced Japanese reasoning capabilities using mathematics entrance exam questions from Kyoto University for testing Large Language Models.
-  - Downloads: 82
-- [Kendamarron/magpie-easy-math-instruction-88k-qwen2.5-bakeneko-32b-instruct](https://huggingface.co/datasets/Kendamarron/magpie-easy-math-instruction-88k-qwen2.5-bakeneko-32b-instruct)
-  - A dataset of synthesized math instructions and corresponding answers created using Magpie, with two generations per instruction and only consistent pairs retained.
-  - Downloads: 82
-- [Aratako/magpie-reasoning-llama-nemotron-70b-100k-filtered](https://huggingface.co/datasets/Aratako/magpie-reasoning-llama-nemotron-70b-100k-filtered)
-  - Filtered dataset from magpie-reasoning-llama-nemotron-70b-100k with "改良" excluded, in OpenAI messages format.
-  - Downloads: 81
-- [aixsatoshi/Chat-with-cosmopedia](https://huggingface.co/datasets/aixsatoshi/Chat-with-cosmopedia)
-  - Highly informative multi-turn conversation data in Japanese, created from synthesized datasets based on cosmopedia, focusing on dialogues about mathematics education.
   - Downloads: 77
+- [Inoichan/NuminaMath-Enhanced-CoT-JA-50K](https://huggingface.co/datasets/Inoichan/NuminaMath-Enhanced-CoT-JA-50K)
+  - The repository offers an enhanced reasoning-focused Japanese subset of 50k examples from the NuminaMath CoT dataset to improve multistep reflective mathematical reasoning in large language models.
+  - Downloads: 75
+- [aixsatoshi/Chat-with-cosmopedia](https://huggingface.co/datasets/aixsatoshi/Chat-with-cosmopedia)
+  - High-information-dialogue conversation dataset derived from Japanese cosmopedia for reasoning and knowledge exchange, featuring examples of user-assistant interactions related to math education.
+  - Downloads: 74
 - [DeL-TaiseiOzaki/Tengentoppa-sft-reasoning-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/Tengentoppa-sft-reasoning-ja)
-  - A curated Japanese dataset of 1800 high-quality instruction, reasoning, and answer triples generated using the Qwen2.5-32B-Instruct model.
-  - Downloads: 73
+  - This repository contains a curated Japanese instruction-reasoning-answer dataset of approximately 1800 high-quality entries generated using the Qwen/Qwen2.5-32B-Instruct model, derived from SkunkworksAI/reasoning-0.01 instruction data.
+  - Downloads: 71
 - [Inoichan/OpenO1-SFT-JA](https://huggingface.co/datasets/Inoichan/OpenO1-SFT-JA)
-  - A Japanese-translated version of the OpenO1-SFT dataset containing 77,312 Chain of Thought reasoning examples for fine-tuning language models.
+  - A Japanese-translated version of the OpenO1-SFT dataset containing 77,685 Chain of Thought reasoning examples for fine-tuning language models.
   - Downloads: 70
-- [DeL-TaiseiOzaki/Tengentoppa-sft-qwen2.5-32b-reasoning-100k](https://huggingface.co/datasets/DeL-TaiseiOzaki/Tengentoppa-sft-qwen2.5-32b-reasoning-100k)
-  - A collection of 125,000 Japanese instruction-response pairs auto-generated using the Qwen2.5-32B-instruct model for task learning and evaluation, formatted in JSONL.
-  - Downloads: 59
 - [DeL-TaiseiOzaki/reasoning-finetuning-ja](https://huggingface.co/datasets/DeL-TaiseiOzaki/reasoning-finetuning-ja)
   - 日本語指示・推論・回答データセット 概要 このリポジトリは、SkunkworksAI/reasoning-0.01 に含まれるインストラクションデータを基に、Qwen/Qwen2.5-32B-Instruct モデルを用いて作成した日本語版の指示・推論・回答データセットです。
   - Downloads: 59
+- [nlp-waseda/JCQ](https://huggingface.co/datasets/nlp-waseda/JCQ)
+  - The JCQ dataset comprises 7 tasks with 100 questions each, evaluating creativity in Japanese, inspired by TTCT and Zhao's research, covering tasks like unusual uses, consequences, and assumptions.
+  - Downloads: 53
+- [Kendamarron/magpie-japanese-math-instruction-17k-qwen2.5-bakeneko-32b-instruct](https://huggingface.co/datasets/Kendamarron/magpie-japanese-math-instruction-17k-qwen2.5-bakeneko-32b-instruct)
+  - A dataset of synthesized math instruction data generated using Magpie with specific system prompts, filtered for consistent responses between instructions and executed code outputs.
+  - Downloads: 51
 - [Aratako/magpie-qwen2.5-32b-reasoning-100k-formatted](https://huggingface.co/datasets/Aratako/magpie-qwen2.5-32b-reasoning-100k-formatted)
   - magpie-qwen2.5-32b-reasoning-100k-formatted DeL-TaiseiOzaki/magpie-qwen2.5-32b-reasoning-100kをOpenAI messages形式に変換したデータセットです。
   - Downloads: 51
-- [Kendamarron/jimba-instruction-simplify-200](https://huggingface.co/datasets/Kendamarron/jimba-instruction-simplify-200)
-  - A dataset of 200 simplified tasks based on Kendamarron/jimba-instruction-1k-beta, created for reproducing the in-depth evolving of Wizard LM, with plans to increase record numbers and detailed information available elsewhere.
-  - Downloads: 44
+- [DeL-TaiseiOzaki/Tengentoppa-sft-qwen2.5-32b-reasoning-100k](https://huggingface.co/datasets/DeL-TaiseiOzaki/Tengentoppa-sft-qwen2.5-32b-reasoning-100k)
+  - A Japanese instruction dataset with 125,000 samples automatically generated by the Qwen2.5-32B-Instruct model for task learning and evaluation, structured as JSONL with instruction, reasoning, and response components.
+  - Downloads: 50
 - [zenless-lab/jsem](https://huggingface.co/datasets/zenless-lab/jsem)
-  - JSeM is a Japanese semantic test suite that extends the FraCaS suite to evaluate recognizing textual entailment in natural language processing.
-  - Downloads: 42
-- [Kendamarron/magpie-japanese-math-instruction-17k-qwen2.5-bakeneko-32b-instruct](https://huggingface.co/datasets/Kendamarron/magpie-japanese-math-instruction-17k-qwen2.5-bakeneko-32b-instruct)
-  - A dataset of 17k math instruction examples generated using Magpie with specific system prompts, including logical and mathematical reasoning outputs and their corresponding Python code executions.
+  - The repository contains a Japanese semantic test suite, extending the FraCaS suite, for evaluating implication relationships in natural language processing tasks.
+  - Downloads: 41
+- [Kendamarron/jimba-instruction-simplify-200](https://huggingface.co/datasets/Kendamarron/jimba-instruction-simplify-200)
+  - A dataset of 200 simplified tasks derived from Kendamarron/jimba-instruction-1k-beta, created for reproducing the in-depth evolution of Wizard LM, with plans to increase record numbers.
   - Downloads: 40
-- [nlp-waseda/JCQ](https://huggingface.co/datasets/nlp-waseda/JCQ)
-  - The JCQ dataset is a Japanese creative thinking assessment consisting of seven tasks with 100 questions each, inspired by TTCT and Zhao's research, evaluating creativity through tasks like unusual uses, consequences, and assumptions.
-  - Downloads: 32
 - [misdelivery/OpenMathInstruct-ja-phi-3-medium-test](https://huggingface.co/datasets/misdelivery/OpenMathInstruct-ja-phi-3-medium-test)
   - kunishou/OpenMathInstruct-1-1.8m-ja のquestion_jaをもとにphi-3-mediumによりプログラミング言語を用いない形式で生成したデータセットです。
   - Downloads: 12
 ### Responsible & Trustworthy NLP
-- [hpprc/janli](https://huggingface.co/datasets/hpprc/janli)
-  - The JaNLI dataset provides Japanese examples to test models' understanding of linguistic nuances and identify vulnerabilities.
-  - Downloads: 218
-- [tokyotech-llm/swallow-magpie-ultra-v0.1](https://huggingface.co/datasets/tokyotech-llm/swallow-magpie-ultra-v0.1)
-  - The repository contains 42K Japanese-English pairs for instruction tuning, part of Swallow-Magpie-Ultra v0.1, used to train Llama models.
-  - Downloads: 214
 - [tarudesu/gendec-dataset](https://huggingface.co/datasets/tarudesu/gendec-dataset)
   - The Gendec framework uses machine learning to detect gender from Japanese names, as detailed in a paper accepted at ISDA'23.
-  - Downloads: 176
-- [longisland3/NMLE](https://huggingface.co/datasets/longisland3/NMLE)
-  - A dataset of Japanese Medical Licensing Exam questions from exams 110 to 117, intended for model evaluation and tasks like evolutionary model merging, with some unstructured questions excluded, licensed under CC-BY-NC-ND 4.0.
+  - Downloads: 174
+- [tokyotech-llm/swallow-magpie-ultra-v0.1](https://huggingface.co/datasets/tokyotech-llm/swallow-magpie-ultra-v0.1)
+  - A dataset containing 42k Japanese-English pairs for instruction tuning, part of Swallow-Magpie-Ultra-v0.1.
   - Downloads: 172
-- [ibm-research/AttaQ-JA](https://huggingface.co/datasets/ibm-research/AttaQ-JA)
-  - The AttaQ-JA dataset comprises 1402 adversarial questions in Japanese to evaluate LLMs for harmful responses, containing offensive content.
-  - Downloads: 126
 - [Nexdata/10341_Hours_Unsupervised_Spontaneous_Japanese_Speech_Data](https://huggingface.co/datasets/Nexdata/10341_Hours_Unsupervised_Spontaneous_Japanese_Speech_Data)
-  - A Japanese unsupervised speech dataset covering 28 domains, compliant with data protection regulations, and tested by AI companies for use in real-world tasks.
-  - Downloads: 118
+  - A Japanese unsupervised speech dataset covering 28 domains, quality-tested by AI companies, maintaining user privacy and compliance with data protection regulations.
+  - Downloads: 115
+- [ibm-research/AttaQ-JA](https://huggingface.co/datasets/ibm-research/AttaQ-JA)
+  - The AttaQ-JA dataset consists of 1402 Japanese adversarial questions designed to evaluate LLMs for harmful responses, though it contains offensive and upsetting content.
+  - Downloads: 110
+- [hpprc/janli](https://huggingface.co/datasets/hpprc/janli)
+  - The JaNLI dataset contains Japanese instances designed to test linguistic understanding and model vulnerabilities.
+  - Downloads: 96
+- [longisland3/NMLE](https://huggingface.co/datasets/longisland3/NMLE)
+  - A dataset of Japanese medical licensing exam questions from 2018 to 2023, structured for model evaluation and evolutionary model merging tasks, with a CC-BY-NC-ND license.
+  - Downloads: 82
 - [p1atdev/LLM-jp-Toxicity-Dataset](https://huggingface.co/datasets/p1atdev/LLM-jp-Toxicity-Dataset)
-  - The LLM-jp Toxicity Dataset is a Japanese-language dataset for identifying harmful content.
-  - Downloads: 104
-- [Aratako/LLMChat-Judge-Results](https://huggingface.co/datasets/Aratako/LLMChat-Judge-Results)
-  - Data from pairwise evaluations of responses from two LLM models using various models, created for verifying consistency with manual and open-LLM automatic evaluations.
-  - Downloads: 58
+  - The LLM-jp Toxicity Dataset contains Japanese texts labeled for toxicity.
+  - Downloads: 69
 - [ibm/AttaQ-JA](https://huggingface.co/datasets/ibm/AttaQ-JA)
   - AttaQ-JA Dataset Card AttaQ red teaming dataset was designed to evaluate Large Language Models (LLMs) by assessing their tendency to generate harmful or undesirable responses, which consists of 1402 carefully crafted adversarial questions.
   - Downloads: 52
-- [naist-nlp/multils-japanese](https://huggingface.co/datasets/naist-nlp/multils-japanese)
-  - The dataset is not publicly shared to prevent leakage into LLM training data.
-  - Downloads: 49
 - [MilosNaniwa/WarChestDojo](https://huggingface.co/datasets/MilosNaniwa/WarChestDojo)
-  - The repository contains a dataset with keys for identifying game states, units, and positions, including team-specific unit classes, unit states, locations, and more.
-  - Downloads: 37
+  - The repository contains a dataset with keys and descriptions for game state identification, unit classes, unit states, and player team information.
+  - Downloads: 35
+- [Aratako/LLMChat-Judge-Results](https://huggingface.co/datasets/Aratako/LLMChat-Judge-Results)
+  - Pairwise评价数据来自两个模型的回答，用于验证人工评估与开源LLM自动评估的一致性。
+  - Downloads: 35
 - [litagin/ehehe-corpus](https://huggingface.co/datasets/litagin/ehehe-corpus)
   - You agree to the terms of the LICENSE when using this dataset.
   - Downloads: 32
+- [naist-nlp/multils-japanese](https://huggingface.co/datasets/naist-nlp/multils-japanese)
+  - The dataset is not publicly shared to prevent leakage into LLM training data.
+  - Downloads: 26
 ### Multilinguality and Text Generation
 - [turing-motors/Cauldron-JA](https://huggingface.co/datasets/turing-motors/Cauldron-JA)
-  - The Cauldron-JA is a dataset translated from 'The Cauldron' using DeepL API, excluding certain datasets, specifically for fine-tuning a vision-language model.
-  - Downloads: 10,190
+  - The Cauldron-JA dataset translates 50 English vision-language training sets into Japanese, excluding those related to OCR, coding, and graphs.
+  - Downloads: 6,753
 - [kunishou/databricks-dolly-15k-ja](https://huggingface.co/datasets/kunishou/databricks-dolly-15k-ja)
-  - A Japanese translation of the "databricks-dolly-15k" dataset, licensed under CC-BY-SA-3.0, last updated on 2023-05-11.
-  - Downloads: 871
+  - A Japanese translation of the "databricks-dolly-15k" dataset, licensed under CC-BY-SA-3.0 and last updated on 2023-05-11.
+  - Downloads: 1,001
 - [sappho192/Tatoeba-Challenge-jpn-kor](https://huggingface.co/datasets/sappho192/Tatoeba-Challenge-jpn-kor)
-  - A dataset for training translation models, containing paired Japanese-Korean text from the Helsinki-NLP/Tatoeba-Challenge repository, limited to non-commercial use.
-  - Downloads: 251
+  - The repository contains Japanese-Korean paired text for training translation models, sourced from Helsinki-NLP/Tatoeba-Challenge, with usage restricted to non-commercial purposes.
+  - Downloads: 257
 - [kunishou/oasst1-89k-ja](https://huggingface.co/datasets/kunishou/oasst1-89k-ja)
-  - A dataset with Japanese translations of "OpenAssistant/oasst1," including failed translations marked by "ng_translation" and manually corrected code-related data.
-  - Downloads: 225
+  - A dataset of automatically translated "OpenAssistant/oasst1" into Japanese, marked with translation failures and updated with manual corrections.
+  - Downloads: 166
 - [EQUES/japanese_ultrachat_6.6k](https://huggingface.co/datasets/EQUES/japanese_ultrachat_6.6k)
-  - Japanese Ultrachat 6.6k is a machine-translated subset of ultrachat_200k, containing 6,537 training and 995 test samples, with some IDs missing.
-  - Downloads: 182
+  - The GitHub repository contains a 6.6k Japanese-translated subset of ultrachat_200k using machine translation, with train (6537) and test (995) splits, and notes on missing 'id' column entries.
+  - Downloads: 152
 - [YYama0/CT-RATE-JPN](https://huggingface.co/datasets/YYama0/CT-RATE-JPN)
-  - The GitHub repository contains a deduplicated Japanese-translated version of radiology reports from the CT-RATE dataset, facilitating Japanese medical AI model development.
-  - Downloads: 113
-- [kunishou/databricks-dolly-69k-ja-en-translation](https://huggingface.co/datasets/kunishou/databricks-dolly-69k-ja-en-translation)
-  - A Japanese translation dataset of 69K examples from "databricks-dolly-15k," licensed under CC BY SA 3.0, last updated on 2023-04-18.
-  - Downloads: 101
-- [mohamed-khalil/KaidanNihonbunka](https://huggingface.co/datasets/mohamed-khalil/KaidanNihonbunka)
-  - The Kaidan Nihonbunka dataset collects Japanese ghost stories, or kaidan, related to the Hyakumonogatari tradition, preserving traditional Japanese folklore.
-  - Downloads: 73
-- [Ego/jpflan-raw](https://huggingface.co/datasets/Ego/jpflan-raw)
-  - This repository collects ~40 high-quality Japanese open-source datasets for downstream tasks,未翻译完成，但总结信息如下：这仓库汇集了约40个高质量的日本开源下游任务数据集，不包含日语机器翻译，并按任务分类。
-  - Downloads: 69
+  - The GitHub repository provides a deduplicated Japanese translation of radiology reports from the CT-RATE dataset for developing Japanese medical AI models.
+  - Downloads: 108
 - [Hoshikuzu/Japanese-Law-Translation](https://huggingface.co/datasets/Hoshikuzu/Japanese-Law-Translation)
-  - A Japanese-English parallel corpus containing约26万句法律 sentences, extracted from the Japanese-English Legal Parallel Corpus and available for use via Hugging Face datasets.
-  - Downloads: 65
+  - A dataset containing approximately 260K Japanese-English legal sentence pairs, extracted from the Japanese-English Legal Parallel Corpus and available via the `datasets` library.
+  - Downloads: 75
+- [kunishou/databricks-dolly-69k-ja-en-translation](https://huggingface.co/datasets/kunishou/databricks-dolly-69k-ja-en-translation)
+  - A Japanese translation dataset of 69K ja-en translation tasks from "databricks-dolly-15k," licensed under CC BY SA 3.0, last updated on 2023-04-18.
+  - Downloads: 73
+- [mohamed-khalil/KaidanNihonbunka](https://huggingface.co/datasets/mohamed-khalil/KaidanNihonbunka)
+  - A dataset of Japanese ghost stories ("kaidan") linked to the Hyakumonogatari tradition, exploring Japanese cultural folklore.
+  - Downloads: 68
+- [Ego/jpflan-raw](https://huggingface.co/datasets/Ego/jpflan-raw)
+  - This GitHub repository contains ~40 high-quality Japanese open-source datasets for downstream tasks, uncategorized and ready for instruction fine-tuning of LLMs.
+  - Downloads: 61
 ### Information Retrieval
 - [cl-nagoya/auto-wiki-qa](https://huggingface.co/datasets/cl-nagoya/auto-wiki-qa)
-  - A large-scale Japanese QA dataset generated from Wikipedia text using Swallow-MX, suitable for QA model training and RAG system development.
-  - Downloads: 706
+  - AutoWikiQA is a large-scale Japanese QA dataset generated from Wikipedia text using Swallow-MX, suitable for training knowledge-based models and developing retrieval-augmented generation systems.
+  - Downloads: 654
 - [CausalLM/Retrieval-SFT-Chat](https://huggingface.co/datasets/CausalLM/Retrieval-SFT-Chat)
-  - A dataset of 1 million retrieval-based multi-turn chat entries synthesized using large language models, released a year ago for continued pre-training and use in studies on data and internet culture.
-  - Downloads: 343
-- [ayousanz/vtuber-youtube-list-dataset](https://huggingface.co/datasets/ayousanz/vtuber-youtube-list-dataset)
-  - A JSONL dataset of metadata for YouTube channels, including VTuber and non-VTuber channels, for text classification tasks, with a biased class distribution.
-  - Downloads: 275
+  - A dataset of 1 million synthetic entries generated by long-context models, derived from multi-document web texts, for continued pre-training and research on data and internet culture.
+  - Downloads: 257
 - [baobab-trees/wikipedia-human-retrieval-ja](https://huggingface.co/datasets/baobab-trees/wikipedia-human-retrieval-ja)
-  - The repository contains a Japanese QA dataset where human workers retrieve information from Wikipedia in response to questions.
-  - Downloads: 215
-- [llm-book/aio-passages](https://huggingface.co/datasets/llm-book/aio-passages)
-  - This dataset, used in the book "Introduction to Large Language Models," is based on passages from the AI King competition, licensed under CC BY-SA 3.0 and GFDL, derived from datasets in the cl-tohoku/quiz-datasets repository.
-  - Downloads: 130
+  - A dataset comprising Japanese QA sessions where human workers检索并搜索相关维基百科文章以回答给定问题。
+  - Downloads: 188
+- [ayousanz/vtuber-youtube-list-dataset](https://huggingface.co/datasets/ayousanz/vtuber-youtube-list-dataset)
+  - A dataset in JSONL format containing metadata for YouTube channels, including VTuber and non-VTuber channels, for text classification tasks, with label indicating whether a channel is by a VTuber.
+  - Downloads: 170
 - [llm-book/aio-retriever](https://huggingface.co/datasets/llm-book/aio-retriever)
-  - A QA dataset for training a document retrieval model using passages from the "大規模言語模型入門" book, based on datasets from cl-tohoku/quiz-datasets.
-  - Downloads: 111
+  - A QA dataset for document retrieval models used in the book "大规模语言模型入门" and AI King competition, derived from datasets by cl-tohoku/quiz-datasets, with licensing details provided.
+  - Downloads: 121
+- [llm-book/aio-passages](https://huggingface.co/datasets/llm-book/aio-passages)
+  - This repository contains a dataset for the book "Introduction to Large Language Models," derived from the "AI King" competition, using data from cl-tohoku/quiz-datasets, licensed under CC BY-SA 3.0 and GFDL.
+  - Downloads: 101
 - [kunishou/cosmopedia-100k-ja-preview](https://huggingface.co/datasets/kunishou/cosmopedia-100k-ja-preview)
-  - This dataset contains automatically translated text from cosmopedia-100k index 20k to 100k into Japanese, excluding records with translation errors due to text length.
-  - Downloads: 93
+  - Automated Japanese translation of cosmopedia-100k index from 20k to 100k, excluding error records due to long text.
+  - Downloads: 87
 - [llm-book/jawiki-20220404-c400](https://huggingface.co/datasets/llm-book/jawiki-20220404-c400)
-  - The repository contains passages of up to 400 characters from Japanese Wikipedia, used as a dataset for AI question-answering competitions.
-  - Downloads: 36
+  - A collection of up to 400-character passages from Japanese Wikipedia as of April 4, 2022, used in AI Wang question-answering competition baselines.
+  - Downloads: 35
 ### Sentiment Analysis
 - [KakologArchives/KakologArchives](https://huggingface.co/datasets/KakologArchives/KakologArchives)
-  - A dataset containing archived chat logs from the entire history of NicoNico Live's streaming platform, collected and curated by community effort to preserve over 11 years of past comments before the service's transition and eventual API discontinuation.
-  - Downloads: 2,826,723
+  - The GitHub repository contains an archive of over 11 years of comments from the now-defunct NICOchee streaming platform, preserved through extensive community efforts post-rebranding in 2020.
+  - Downloads: 4,189,346
 - [elyza/ELYZA-tasks-100](https://huggingface.co/datasets/elyza/ELYZA-tasks-100)
-  - A dataset of 100 complex Japanese instructions for evaluating instruction-tuned language models, annotated for reliable assessment across various tasks.
-  - Downloads: 2,562
+  - A dataset of 100 complex Japanese instructions for evaluating instruction-tuned language models, including various tasks requiring nuanced outputs and annotations.
+  - Downloads: 2,208
 - [llm-book/wrime-sentiment](https://huggingface.co/datasets/llm-book/wrime-sentiment)
-  - A binary sentiment analysis dataset for Japanese text, derived from the WRIME dataset, labeled as positive or negative based on Avg. Readers_Sentiment values.
-  - Downloads: 547
+  - A binary sentiment analysis dataset derived from the WRIME Japanese dataset, labeled as positive or negative based on Avg. Readers_Sentiment values, intended for use with the "大規模言語モデル入門" book's example code.
+  - Downloads: 449
 - [bandad/sayoko-tts-corpus](https://huggingface.co/datasets/bandad/sayoko-tts-corpus)
-  - The repository contains a corpus of recordings from an 81-year-old woman, with both noisy and cleaned wav files and phoneme labels, available for download from Google Drive or Hugging Face hub.
-  - Downloads: 149
+  - The repository contains an 81-year-old woman's speech corpus with noise, including recorded wav files with bell insect noise and lip noise, and processed wav files without noise, along with phoneme labels including prosody symbols, available as a compressed zip file or via Hugging Face Hub.
+  - Downloads: 152
 - [Kendamarron/jimba-instuction-1k-beta](https://huggingface.co/datasets/Kendamarron/jimba-instuction-1k-beta)
   - A manually checked and corrected Japanese Instruction dataset created from the output of cyberagent/calm2-7b-chat.
-  - Downloads: 95
+  - Downloads: 105
 - [WarriorMama777/databricks-dolly-15k-ja_cool](https://huggingface.co/datasets/WarriorMama777/databricks-dolly-15k-ja_cool)
-  - A modified Japanese dataset based on Dolly-15K, altered to emulate Yuki Nagato's speaking style, with "です、ます" and "だ、である" replaced, for personal use but freely accessible.
-  - Downloads: 76
+  - A dataset derived from Dolly 15K, modified to emulate Yuki Nagato's speech pattern in an emotionless style, available for hobby or research use.
+  - Downloads: 51
 ### Linguistics & Cognitive NLP
 - [nakayama/hh-rlhf-helpful-base-ja](https://huggingface.co/datasets/nakayama/hh-rlhf-helpful-base-ja)
-  - A curated translation of helpful-base chosen English texts from https://github.com/anthropics/hh-rlhf, excluding and correcting poorly translated parts with fuguMT.
-  - Downloads: 60
+  - A filtered and corrected translation of the English text from helpful-base/chosen in https://github.com/anthropics/hh-rlhf, processed with fuguMT.
+  - Downloads: 56
 - [asahi-research/newsq_test](https://huggingface.co/datasets/asahi-research/newsq_test)
-  - NewsQ, a Japanese QA benchmark on news information, is freely available on Hugging Face with registration required upon agreeing to terms and conditions.
+  - NewsQ, a Japanese QA benchmark on temporal information, is freely distributed on Hugging Face; users must agree to the terms and conditions and privacy policy to access it.
   - Downloads: 21
