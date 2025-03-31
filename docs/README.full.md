@@ -1549,6 +1549,7 @@ Resources
  * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: Controlled Japanese Temporal Inference Dataset Considering Aspect）
  * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。
  * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - This repository provides Python implementation for building Swallow Corpus Version 1, a large Japanese web corpus (Okazaki et al., 2024), from Common Crawl archives.
+ * [jalecon](https://github.com/naist-nlp/jalecon) - A Dataset of Japanese Lexical Complexity for Non-Native Readers
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1675,6 +1676,7 @@ Resources
 |[Jamp_sp](https://github.com/ynklab/Jamp_sp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ynklab/Jamp_sp?style=social)|
 |[jnli-neg](https://github.com/asahi-y/jnli-neg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asahi-y/jnli-neg?style=social)|
 |[swallow-corpus](https://github.com/swallow-llm/swallow-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-corpus?style=social)|
+|[jalecon](https://github.com/naist-nlp/jalecon)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/jalecon?style=social)|
 
 
 ## Tutorial
