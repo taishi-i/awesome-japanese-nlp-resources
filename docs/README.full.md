@@ -1547,6 +1547,7 @@ Resources
  * [openchj-genji](https://github.com/togiso/openchj-genji) - 「源氏物語」形態論情報データ
  * [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) - This repository contains data for our paper "AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts".
  * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: Controlled Japanese Temporal Inference Dataset Considering Aspect）
+ * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1671,6 +1672,7 @@ Resources
 |[openchj-genji](https://github.com/togiso/openchj-genji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togiso/openchj-genji?style=social)|
 |[AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/AdParaphrase?style=social)|
 |[Jamp_sp](https://github.com/ynklab/Jamp_sp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ynklab/Jamp_sp?style=social)|
+|[jnli-neg](https://github.com/asahi-y/jnli-neg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asahi-y/jnli-neg?style=social)|
 
 
 ## Tutorial
