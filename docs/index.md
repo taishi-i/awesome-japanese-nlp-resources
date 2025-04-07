@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [688件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1770 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [691件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1781 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,21 +16,15 @@
 
 ## The latest additions 🎉
 
-**Hugging Face 🤗**
-- We have added a feature to [the search tool🔍](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) that allows you to search by **NLP research field**. You can now search through 1,750+ repositories!
-
-- We have released a new dataset, **[awesome-japanese-nlp-multilabel-dataset](https://huggingface.co/datasets/taishi-i/awesome-japanese-nlp-multilabel-dataset)**. This is a dataset for Japanese natural language processing with multi-label annotations of [research field labels](https://huggingface.co/datasets/TimSchopf/nlp_taxonomy_data) for GitHub repositories in the NLP domain.
+**Rust**
+ * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
 
 **Corpus**
- * [Jamp_sp](https://github.com/ynklab/Jamp_sp) - アスペクトを考慮した日本語時間推論データセットの構築（Jamp_sp: 制御された日本語時間推論データセットを考慮）
- * [jnli-neg](https://github.com/asahi-y/jnli-neg) - 否定理解能力を評価するための日本語言語推論データセット JNLI-Neg の公開用リポジトリです。
- * [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - このリポジトリは、Common Crawlアーカイブから大規模な日本語ウェブコーパス（岡崎ら、2024年）であるSwallow Corpus Version 1を構築するためのPython実装を提供しています。
- * [jalecon](https://github.com/naist-nlp/jalecon) - 非母語話者向けの日本語語彙複雑性のデータセット
- * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日本語の語彙複雑性予測と語彙の簡素化データセット：アノテータープロファイル、非集計注釈、および注釈ガイドライン。
- * [nwjc](https://github.com/masayu-a/nwjc) - NINJALウェブ日本語コーパス
- * [jcms](https://github.com/shigashiyama/jcms) - 多数の専門分野をカバーした日本語コーパス（JCMS）
+ * [matcha](https://github.com/ehimenlp/matcha) - 訪日観光客向けメディアMATCHAの記事から、日本語のテキスト平易化のためのデータセットを構築しました。
+ * [en-ja-el](https://github.com/shigashiyama/en-ja-el) - EnJaEL：En-Jaパラレルエンティティリンキングデータセット（バージョン1.0）
+EnJaEL：En-Jaパラレルエンティティリンキングデータセット（バージョン1.0）
 
-_Updated on Apr 01, 2025_
+_Updated on Apr 08, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -858,6 +852,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 裁判例のデータ一覧を裁判所のホームページ(https://www.courts.go.jp/index.html) をスクレイピングして生成するソフトウェア
  * [jisho](https://github.com/eagleflo/jisho) - Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。
 Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
+ * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -878,6 +873,7 @@ Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラ�
 |[jpreprocess](https://github.com/jpreprocess/jpreprocess)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jpreprocess/jpreprocess?style=social)|
 |[listup_precedent](https://github.com/japanese-law-analysis/listup_precedent)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japanese-law-analysis/listup_precedent?style=social)|
 |[jisho](https://github.com/eagleflo/jisho)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/eagleflo/jisho?style=social)|
+|[kanalizer](https://github.com/voicevox/kanalizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/voicevox/kanalizer?style=social)|
 
 
 ## JavaScript
@@ -1400,6 +1396,9 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
  * [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJKコンピュータサイエンス用語比較 / 中日韓コンピュータサイエンス用語対照 / 日中韓コンピュータサイエンス用語比較 / 韓中日コンピュータサイエンス用語対照
  * [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) - 日英並列コーパスの作成スクリプトとNMTモデルのトレーニングに関するスクリプト
  * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - Google vs DeepL（日本語）
+ * [matcha](https://github.com/ehimenlp/matcha) - 訪日観光客向けメディアMATCHAの記事から、日本語のテキスト平易化のためのデータセットを構築しました。
+ * [en-ja-el](https://github.com/shigashiyama/en-ja-el) - EnJaEL：En-Jaパラレルエンティティリンキングデータセット（バージョン1.0）
+EnJaEL：En-Jaパラレルエンティティリンキングデータセット（バージョン1.0）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1415,6 +1414,8 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
 |[cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dahlia/cjk-compsci-terms?style=social)|
 |[Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laboroai/Laboro-ParaCorpus?style=social)|
 |[google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Tzawa/google-vs-deepl-je?style=social)|
+|[matcha](https://github.com/ehimenlp/matcha)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ehimenlp/matcha?style=social)|
+|[en-ja-el](https://github.com/shigashiyama/en-ja-el)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shigashiyama/en-ja-el?style=social)|
 
 
 ### Dialog corpus

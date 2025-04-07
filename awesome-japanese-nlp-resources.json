@@ -3785,6 +3785,18 @@
                     "zh-hans": "Jisho是一个提供日语-英语词典的CLI工具和Rust库。",
                     "zh-hant": "Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。"
                 }
+            },
+            "https://github.com/voicevox/kanalizer": {
+                "sub_category": null,
+                "repository_name": "kanalizer",
+                "user_name": "voicevox",
+                "description": "英単語から読みを推測するライブラリ。",
+                "multilingual_descriptions": {
+                    "en": "Library that guesses readings from English words.",
+                    "ja": "英単語から読みを推測するライブラリ。",
+                    "zh-hans": "从英语单词推测发音的库。",
+                    "zh-hant": "從英文單字推測讀音的程式庫。"
+                }
             }
         },
         "JavaScript": {
@@ -6294,6 +6306,30 @@
                     "ja": "Google vs DeepL（日本語）",
                     "zh-hans": "谷歌 vs DeepL",
                     "zh-hant": "谷歌 vs DeepL JE"
+                }
+            },
+            "https://github.com/ehimenlp/matcha": {
+                "sub_category": "Parallel corpus",
+                "repository_name": "matcha",
+                "user_name": "ehimenlp",
+                "description": "訪日観光客向けメディアMATCHAの記事から、日本語のテキスト平易化のためのデータセットを構築しました。",
+                "multilingual_descriptions": {
+                    "en": "We have created a dataset for simplifying Japanese text from an article on the Japanese tourism media MATCHA for visitors to Japan.",
+                    "ja": "訪日観光客向けメディアMATCHAの記事から、日本語のテキスト平易化のためのデータセットを構築しました。",
+                    "zh-hans": "从日本旅游网站MATCHA的文章中，我们构建了一个用于简化日语文本的数据集。",
+                    "zh-hant": "從訪日觀光客專門媒體MATCHA的文章中，我們建立了一個用於簡化日文文本的數據集。"
+                }
+            },
+            "https://github.com/shigashiyama/en-ja-el": {
+                "sub_category": "Parallel corpus",
+                "repository_name": "en-ja-el",
+                "user_name": "shigashiyama",
+                "description": "EnJaEL: En-Ja Parallel Entity Linking Dataset (Version 1.0)",
+                "multilingual_descriptions": {
+                    "en": "EnJaEL: En-Ja Parallel Entity Linking Dataset (Version 1.0)",
+                    "ja": "EnJaEL：En-Jaパラレルエンティティリンキングデータセット（バージョン1.0）\nEnJaEL：En-Jaパラレルエンティティリンキングデータセット（バージョン1.0）",
+                    "zh-hans": "EnJaEL：En-Ja平行实体链接数据集（版本1.0）\nEnJaEL：En-Ja平行实体链接数据集（版本1.0）",
+                    "zh-hant": "EnJaEL：En-Ja平行實體連結數據集（版本1.0）\nEnJaEL：En-Ja平行實體連結數據集（版本1.0）"
                 }
             },
             "https://github.com/ku-nlp/JMRD": {
