@@ -1391,6 +1391,7 @@ Resources
  * [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) - Scripts for creating a Japanese-English parallel corpus and training NMT models
  * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - google-vs-deepl-je
  * [matcha](https://github.com/ehimenlp/matcha) - 訪日観光客向けメディアMATCHAの記事から、日本語のテキスト平易化のためのデータセットを構築しました。
+ * [en-ja-el](https://github.com/shigashiyama/en-ja-el) - EnJaEL: En-Ja Parallel Entity Linking Dataset (Version 1.0)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1407,6 +1408,7 @@ Resources
 |[Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/laboroai/Laboro-ParaCorpus?style=social)|
 |[google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Tzawa/google-vs-deepl-je?style=social)|
 |[matcha](https://github.com/ehimenlp/matcha)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ehimenlp/matcha?style=social)|
+|[en-ja-el](https://github.com/shigashiyama/en-ja-el)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shigashiyama/en-ja-el?style=social)|
 
 
 ### Dialog corpus
