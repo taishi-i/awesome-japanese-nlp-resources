@@ -494,6 +494,18 @@
                     "zh-hant": "日文文本正規化工具，解決拼寫不一致。"
                 }
             },
+            "https://github.com/Patchethium/e2k": {
+                "sub_category": "Converter",
+                "repository_name": "e2k",
+                "user_name": "Patchethium",
+                "description": "A tool for automatic English to Katakana conversion",
+                "multilingual_descriptions": {
+                    "en": "A tool for automatic English to Katakana conversion",
+                    "ja": "自動的な英語から片仮名への変換ツール",
+                    "zh-hans": "一个用于自动将英语转换为片假名的工具",
+                    "zh-hant": "一個用於自動將英文轉換為片假名的工具"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -8192,6 +8204,18 @@
                     "ja": "NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード",
                     "zh-hans": "NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码",
                     "zh-hant": "NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码"
+                }
+            },
+            "https://github.com/upura/nlp100v2025": {
+                "sub_category": null,
+                "repository_name": "nlp100v2025",
+                "user_name": "upura",
+                "description": "「言語処理100本ノック 2025」をPythonで解く",
+                "multilingual_descriptions": {
+                    "en": "Solving \"Language Processing 100 Knock 2025\" with Python",
+                    "ja": "「言語処理100本ノック 2025」をPythonで解く",
+                    "zh-hans": "用Python解决“自然语言处理100道题目2025”",
+                    "zh-hant": "用Python解决「自然语言处理100道练习 2025」"
                 }
             }
         },

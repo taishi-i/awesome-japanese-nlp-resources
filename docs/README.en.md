@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [691 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1781 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [693 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1794 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -17,14 +17,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## The latest additions 🎉
 
-**Rust**
- * [kanalizer](https://github.com/voicevox/kanalizer) - Library that guesses readings from English words.
+**Python**
+ * [e2k](https://github.com/Patchethium/e2k) - A tool for automatic English to Katakana conversion
 
-**Corpus**
- * [matcha](https://github.com/ehimenlp/matcha) - We have created a dataset for simplifying Japanese text from an article on the Japanese tourism media MATCHA for visitors to Japan.
- * [en-ja-el](https://github.com/shigashiyama/en-ja-el) - EnJaEL: En-Ja Parallel Entity Linking Dataset (Version 1.0)
+**Tutorial**
+ * [nlp100v2025](https://github.com/upura/nlp100v2025) - Solving "Language Processing 100 Knock 2025" with Python
 
-_Updated on Apr 08, 2025_
+_Updated on Apr 15, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -137,6 +136,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - Python implementation of NormalizeNumexp for extracting and normalizing quantity expressions and time expressions.
  * [Jusho](https://github.com/nagataaaas/Jusho) - Easy wrapper for the postal code data of Japan
  * [yurenizer](https://github.com/sea-turt1e/yurenizer) - Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール
+ * [e2k](https://github.com/Patchethium/e2k) - A tool for automatic English to Katakana conversion
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1013,6 +1013,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [nlp100v2020](https://github.com/upura/nlp100v2020) - Solving "Language Processing 100 Knock 2020" with Python
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Practice of natural language processing and text analysis using R
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - Tutorial materials and source code for "Introduction to Geographic Information and Language Processing in Practice" in NLP2025.
+ * [nlp100v2025](https://github.com/upura/nlp100v2025) - Solving "Language Processing 100 Knock 2025" with Python
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
