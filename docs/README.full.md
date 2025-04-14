@@ -167,6 +167,7 @@ _Updated on Apr 08, 2025_
  * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - 数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装
  * [Jusho](https://github.com/nagataaaas/Jusho) - Easy wrapper for the postal code data of Japan
  * [yurenizer](https://github.com/sea-turt1e/yurenizer) - Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール）
+ * [e2k](https://github.com/Patchethium/e2k) - A tool for automatic English to Katakana conversion
 
 
 |Name|downloads/week|total downloads|stars|
@@ -184,6 +185,7 @@ _Updated on Apr 08, 2025_
 |[pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp)|[![Downloads](https://pepy.tech/badge/pynormalizenumexp/week)](https://pepy.tech/project/pynormalizenumexp)|[![Downloads](https://pepy.tech/badge/pynormalizenumexp)](https://pepy.tech/project/pynormalizenumexp)|![GitHub Repo stars](https://img.shields.io/github/stars/tkscode/pynormalizenumexp?style=social)|
 |[Jusho](https://github.com/nagataaaas/Jusho)|[![Downloads](https://pepy.tech/badge/Jusho/week)](https://pepy.tech/project/Jusho)|[![Downloads](https://pepy.tech/badge/Jusho)](https://pepy.tech/project/Jusho)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Jusho?style=social)|
 |[yurenizer](https://github.com/sea-turt1e/yurenizer)|[![Downloads](https://pepy.tech/badge/yurenizer/week)](https://pepy.tech/project/yurenizer)|[![Downloads](https://pepy.tech/badge/yurenizer)](https://pepy.tech/project/yurenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/sea-turt1e/yurenizer?style=social)|
+|[e2k](https://github.com/Patchethium/e2k)|[![Downloads](https://pepy.tech/badge/e2k/week)](https://pepy.tech/project/e2k)|[![Downloads](https://pepy.tech/badge/e2k)](https://pepy.tech/project/e2k)|![GitHub Repo stars](https://img.shields.io/github/stars/Patchethium/e2k?style=social)|
 
 
 ### Preprocessor
