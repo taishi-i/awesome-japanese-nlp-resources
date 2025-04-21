@@ -506,6 +506,18 @@
                     "zh-hant": "一個用於自動將英文轉換為片假名的工具"
                 }
             },
+            "https://github.com/zomysan/alkana.py": {
+                "sub_category": "Converter",
+                "repository_name": "alkana.py",
+                "user_name": "zomysan",
+                "description": "A tool to get the katakana reading of an alphabetical string.",
+                "multilingual_descriptions": {
+                    "en": "A tool to get the katakana reading of an alphabetical string.",
+                    "ja": "アルファベット文字列のカタカナ読みを取得するツール。",
+                    "zh-hans": "一个工具，用于获取字母字符串的片假名读音。",
+                    "zh-hant": "一個可以獲取字母串的片假名讀音的工具。"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
