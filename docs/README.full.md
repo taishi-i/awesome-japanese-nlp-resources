@@ -167,6 +167,7 @@ _Updated on Apr 15, 2025_
  * [Jusho](https://github.com/nagataaaas/Jusho) - Easy wrapper for the postal code data of Japan
  * [yurenizer](https://github.com/sea-turt1e/yurenizer) - Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール）
  * [e2k](https://github.com/Patchethium/e2k) - A tool for automatic English to Katakana conversion
+ * [alkana.py](https://github.com/zomysan/alkana.py) - A tool to get the katakana reading of an alphabetical string.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -185,6 +186,7 @@ _Updated on Apr 15, 2025_
 |[Jusho](https://github.com/nagataaaas/Jusho)|[![Downloads](https://pepy.tech/badge/Jusho/week)](https://pepy.tech/project/Jusho)|[![Downloads](https://pepy.tech/badge/Jusho)](https://pepy.tech/project/Jusho)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Jusho?style=social)|
 |[yurenizer](https://github.com/sea-turt1e/yurenizer)|[![Downloads](https://pepy.tech/badge/yurenizer/week)](https://pepy.tech/project/yurenizer)|[![Downloads](https://pepy.tech/badge/yurenizer)](https://pepy.tech/project/yurenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/sea-turt1e/yurenizer?style=social)|
 |[e2k](https://github.com/Patchethium/e2k)|[![Downloads](https://pepy.tech/badge/e2k/week)](https://pepy.tech/project/e2k)|[![Downloads](https://pepy.tech/badge/e2k)](https://pepy.tech/project/e2k)|![GitHub Repo stars](https://img.shields.io/github/stars/Patchethium/e2k?style=social)|
+|[alkana.py](https://github.com/zomysan/alkana.py)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zomysan/alkana.py?style=social)|
 
 
 ### Preprocessor
