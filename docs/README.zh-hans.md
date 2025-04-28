@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了694个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1822个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了697个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1837个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,9 +18,14 @@
 ## The latest additions 🎉
 
 **Python**
- * [alkana.py](https://github.com/zomysan/alkana.py) - 一个工具，用于获取字母字符串的片假名读音。
+ * [manga109api](https://github.com/manga109/manga109api) - 简单的Python API，用于读取Manga109的注释数据
 
-_Updated on Apr 22, 2025_
+**Corpus**
+ * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - 在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
+在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
+ * [public-annotations](https://github.com/manga109/public-annotations) - Manga109数据集的各种注释
+
+_Updated on Apr 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -432,6 +437,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - 在Colaboratory上尝试Asagi（使用合成数据集的大规模日语VLM）的示例。
  * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 这个工具会自动评估日本多模态大型语言模型在多个数据集上的表现。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 用于执行自动生成评估的Python工具
+ * [manga109api](https://github.com/manga109/manga109api) - 简单的Python API，用于读取Manga109的注释数据
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -991,10 +997,12 @@ COMET-ATOMIC ja
  * [jalecon](https://github.com/naist-nlp/jalecon) - 一个供非母语读者使用的日语词汇复杂性数据集
  * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日语词汇复杂度预测和日语词汇简化数据集：注释者简介，未聚合注释和注释指南。
  * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL网络日语语料库
+ * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - 在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
+在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
+ * [public-annotations](https://github.com/manga109/public-annotations) - Manga109数据集的各种注释
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
-
 
 ## Tutorial
 

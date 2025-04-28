@@ -3301,6 +3301,18 @@
                     "zh-hans": "这个工具会自动评估日本多模态大型语言模型在多个数据集上的表现。",
                     "zh-hant": "這個工具會自動評估日本多模式大型語言模型在多個數據集上的表現。"
                 }
+            },
+            "https://github.com/manga109/manga109api": {
+                "sub_category": null,
+                "repository_name": "manga109api",
+                "user_name": "manga109",
+                "description": "Simple python API to read annotation data of Manga109",
+                "multilingual_descriptions": {
+                    "en": "Simple python API to read annotation data of Manga109",
+                    "ja": "Manga109の注釈データを読むためのシンプルなPython API",
+                    "zh-hans": "简单的Python API，用于读取Manga109的注释数据",
+                    "zh-hant": "簡單的Python API，用於讀取Manga109的標註數據"
+                }
             }
         },
         "C++": {
@@ -7938,6 +7950,30 @@
                     "ja": "NINJALウェブ日本語コーパス",
                     "zh-hans": "NINJAL网络日语语料库",
                     "zh-hant": "NINJAL 網絡日本語語料庫"
+                }
+            },
+            "https://github.com/mantra-inc/open-mantra-dataset": {
+                "sub_category": null,
+                "repository_name": "open-mantra-dataset",
+                "user_name": "mantra-inc",
+                "description": "Dataset introduced in the paper \"Towards Fully Automated Manga Translation\" presented in AAAI21",
+                "multilingual_descriptions": {
+                    "en": "Dataset introduced in the paper Towards Fully Automated Manga Translation presented in AAAI21",
+                    "ja": "AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット\nAAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット",
+                    "zh-hans": "在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集\n在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\n在AAAI21中介紹的《Towards Fully Automated Manga Translation》論文中介紹的數據集"
+                }
+            },
+            "https://github.com/manga109/public-annotations": {
+                "sub_category": null,
+                "repository_name": "public-annotations",
+                "user_name": "manga109",
+                "description": "Various annotations of Manga109 dataset",
+                "multilingual_descriptions": {
+                    "en": "Various annotations of Manga109 dataset",
+                    "ja": "Manga109データセットのさまざまな注釈",
+                    "zh-hans": "Manga109数据集的各种注释",
+                    "zh-hant": "Manga109數據集的各種註釋"
                 }
             }
         },

@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [694件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1822 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [697件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1837 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,9 +17,14 @@
 ## The latest additions 🎉
 
 **Python**
- * [alkana.py](https://github.com/zomysan/alkana.py) - アルファベット文字列のカタカナ読みを取得するツール。
+ * [manga109api](https://github.com/manga109/manga109api) - Manga109の注釈データを読むためのシンプルなPython API
 
-_Updated on Apr 22, 2025_
+**Corpus**
+ * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
+AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
+ * [public-annotations](https://github.com/manga109/public-annotations) - Manga109データセットのさまざまな注釈
+
+_Updated on Apr 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -435,6 +440,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル
  * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - このツールは、複数のデータセットにわたって日本語のマルチモーダル大規模言語モデルを自動的に評価します。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評価を行うためのPythonツール
+ * [manga109api](https://github.com/manga109/manga109api) - Manga109の注釈データを読むためのシンプルなPython API
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -994,10 +1000,12 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [jalecon](https://github.com/naist-nlp/jalecon) - 非母語話者向けの日本語語彙複雑性のデータセット
  * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日本語の語彙複雑性予測と語彙の簡素化データセット：アノテータープロファイル、非集計注釈、および注釈ガイドライン。
  * [nwjc](https://github.com/masayu-a/nwjc) - NINJALウェブ日本語コーパス
+ * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
+AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
+ * [public-annotations](https://github.com/manga109/public-annotations) - Manga109データセットのさまざまな注釈
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
-
 
 ## Tutorial
 

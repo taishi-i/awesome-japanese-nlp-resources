@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了694個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1822個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了697個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1837個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,9 +17,14 @@
 ## The latest additions 🎉
 
 **Python**
- * [alkana.py](https://github.com/zomysan/alkana.py) - 一個可以獲取字母串的片假名讀音的工具。
+ * [manga109api](https://github.com/manga109/manga109api) - 簡單的Python API，用於讀取Manga109的標註數據
 
-_Updated on Apr 22, 2025_
+**Corpus**
+ * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - 請將以下內容翻譯成繁體中文。
+在AAAI21中介紹的《Towards Fully Automated Manga Translation》論文中介紹的數據集
+ * [public-annotations](https://github.com/manga109/public-annotations) - Manga109數據集的各種註釋
+
+_Updated on Apr 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -433,6 +438,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - 在Colaboratory上嘗試Asagi（使用合成數據集的大規模日語VLM）的示例
  * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 這個工具會自動評估日本多模式大型語言模型在多個數據集上的表現。
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 生成自動評估的Python工具
+ * [manga109api](https://github.com/manga109/manga109api) - 簡單的Python API，用於讀取Manga109的標註數據
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -998,10 +1004,12 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [jalecon](https://github.com/naist-nlp/jalecon) - 一個針對非母語讀者的日語詞彙複雜度數據集
  * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-日語詞彙複雜度預測和詞彙簡化數據集：標註者檔案、未聚合標註和標註指南。
  * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL 網絡日本語語料庫
+ * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - 請將以下內容翻譯成繁體中文。
+在AAAI21中介紹的《Towards Fully Automated Manga Translation》論文中介紹的數據集
+ * [public-annotations](https://github.com/manga109/public-annotations) - Manga109數據集的各種註釋
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
-
 
 ## Tutorial
 
