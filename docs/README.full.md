@@ -1556,6 +1556,7 @@ Resources
  * [multils-japanese](https://github.com/naist-nlp/multils-japanese) - MultiLS-Japanese Lexical Complexity Prediction and Lexical Simplification Dataset for Japanese: annotator profiles, unaggregated annotation, and annotatation guidelines.
  * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL Web Japanese Corpus
  * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - Dataset introduced in the paper "Towards Fully Automated Manga Translation" presented in AAAI21
+ * [public-annotations](https://github.com/manga109/public-annotations) - Various annotations of Manga109 dataset
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1743,6 +1744,7 @@ Resources
 |[textmining-ja](https://github.com/paithiov909/textmining-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/paithiov909/textmining-ja?style=social)|
 |[nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuiseki/nlp2025-tutorial-2?style=social)|
 |[nlp100v2025](https://github.com/upura/nlp100v2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2025?style=social)|
+|[public-annotations](https://github.com/manga109/public-annotations)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/manga109/public-annotations?style=social)|
 
 
 ## Research summary
