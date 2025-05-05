@@ -1564,6 +1564,7 @@ Resources
  * [nwjc](https://github.com/masayu-a/nwjc) - NINJAL Web Japanese Corpus
  * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - Dataset introduced in the paper "Towards Fully Automated Manga Translation" presented in AAAI21
  * [public-annotations](https://github.com/manga109/public-annotations) - Various annotations of Manga109 dataset
+ * [gimei](https://github.com/willnet/gimei) - random Japanese name and address generator
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1694,6 +1695,8 @@ Resources
 |[multils-japanese](https://github.com/naist-nlp/multils-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/multils-japanese?style=social)|
 |[nwjc](https://github.com/masayu-a/nwjc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/nwjc?style=social)|
 |[open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mantra-inc/open-mantra-dataset?style=social)|
+|[gimei](https://github.com/willnet/gimei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/willnet/gimei?style=social)|
+
 
 ## Tutorial
 
