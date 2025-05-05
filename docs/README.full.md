@@ -1281,6 +1281,7 @@ Resources
  * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - A FOSS Japanese IME for Android
  * [anthywl](https://github.com/tadeokondrak/anthywl) - Japanese input method for Sway using libanthy
  * [sekka](https://github.com/kiyoka/sekka) - Yet another Japanese Input Method inspired by SKK.
+ * [sumibi](https://github.com/kiyoka/sumibi) - Japanese input method powered by ChatGPT API
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1351,7 +1352,7 @@ Resources
 |[japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nelsonapenn/japanese_android_ime?style=social)|
 |[anthywl](https://github.com/tadeokondrak/anthywl)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tadeokondrak/anthywl?style=social)|
 |[sekka](https://github.com/kiyoka/sekka)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/sekka?style=social)|
-
+|[sumibi](https://github.com/kiyoka/sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/sumibi?style=social)|
 
 ## Corpus
 
