@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [697件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1837 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [700件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1846 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,14 +17,13 @@
 ## The latest additions 🎉
 
 **Python**
- * [manga109api](https://github.com/manga109/manga109api) - Manga109の注釈データを読むためのシンプルなPython API
+ * [sekka](https://github.com/kiyoka/sekka) - SKKに触発されたもう1つの日本語入力方式。
+ * [sumibi](https://github.com/kiyoka/sumibi) - ChatGPT APIによって強化された日本語入力方法
 
 **Corpus**
- * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
-AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
- * [public-annotations](https://github.com/manga109/public-annotations) - Manga109データセットのさまざまな注釈
+ * [gimei](https://github.com/willnet/gimei) - ランダムな日本人の名前と住所ジェネレーター
 
-_Updated on Apr 29, 2025_
+_Updated on May 06, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1293,6 +1292,8 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
  * [nandoku](https://github.com/marmooo/nandoku) - 難読漢字を学年別にまとめた辞書です。
  * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - Android用のFOSS日本語IME
  * [anthywl](https://github.com/tadeokondrak/anthywl) - Swayのためのlibanthyを使用した日本語入力方法
+ * [sekka](https://github.com/kiyoka/sekka) - SKKに触発されたもう1つの日本語入力方式。
+ * [sumibi](https://github.com/kiyoka/sumibi) - ChatGPT APIによって強化された日本語入力方法
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1362,7 +1363,8 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
 |[nandoku](https://github.com/marmooo/nandoku)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/nandoku?style=social)|
 |[japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nelsonapenn/japanese_android_ime?style=social)|
 |[anthywl](https://github.com/tadeokondrak/anthywl)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tadeokondrak/anthywl?style=social)|
-
+|[sekka](https://github.com/kiyoka/sekka)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/sekka?style=social)|
+|[sumibi](https://github.com/kiyoka/sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/sumibi?style=social)|
 
 ## Corpus
 
@@ -1577,6 +1579,7 @@ LREC-COLING 2024論文用データセット、曖昧な日本語質問を明確�
  * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
 AAAI21で発表された「Towards Fully Automated Manga Translation」論文で紹介されたデータセット
  * [public-annotations](https://github.com/manga109/public-annotations) - Manga109データセットのさまざまな注釈
+ * [gimei](https://github.com/willnet/gimei) - ランダムな日本人の名前と住所ジェネレーター
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1707,6 +1710,8 @@ AAAI21で発表された「Towards Fully Automated Manga Translation」論文で
 |[multils-japanese](https://github.com/naist-nlp/multils-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/multils-japanese?style=social)|
 |[nwjc](https://github.com/masayu-a/nwjc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/nwjc?style=social)|
 |[open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mantra-inc/open-mantra-dataset?style=social)|
+|[gimei](https://github.com/willnet/gimei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/willnet/gimei?style=social)|
+
 
 ## Tutorial
 

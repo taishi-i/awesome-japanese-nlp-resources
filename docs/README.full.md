@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [697 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1837 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [700 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1846 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,13 +18,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## The latest additions 🎉
 
 **Python**
- * [manga109api](https://github.com/manga109/manga109api) - Simple python API to read annotation data of Manga109
+ * [sekka](https://github.com/kiyoka/sekka) - Yet another Japanese Input Method inspired by SKK.
+ * [sumibi](https://github.com/kiyoka/sumibi) - Japanese input method powered by ChatGPT API
 
 **Corpus**
- * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - Dataset introduced in the paper Towards Fully Automated Manga Translation presented in AAAI21
- * [public-annotations](https://github.com/manga109/public-annotations) - Various annotations of Manga109 dataset
+ * [gimei](https://github.com/willnet/gimei) - random Japanese name and address generator
 
-_Updated on Apr 29, 2025_
+_Updated on May 06, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

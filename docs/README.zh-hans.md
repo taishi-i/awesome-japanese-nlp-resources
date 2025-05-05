@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了697个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1837个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了700个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1846个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,14 +18,13 @@
 ## The latest additions 🎉
 
 **Python**
- * [manga109api](https://github.com/manga109/manga109api) - 简单的Python API，用于读取Manga109的注释数据
+ * [sekka](https://github.com/kiyoka/sekka) - 受SKK启发的又一个日本输入法。
+ * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
 
 **Corpus**
- * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - 在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
-在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
- * [public-annotations](https://github.com/manga109/public-annotations) - Manga109数据集的各种注释
+ * [gimei](https://github.com/willnet/gimei) - 随机日本姓名和地址生成器
 
-_Updated on Apr 29, 2025_
+_Updated on May 06, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -813,10 +812,11 @@ JMdict日语-英语词典项目的Web前端，支持学习列表！
  * [nandoku](https://github.com/marmooo/nandoku) - 这是一个按年级整理的难读汉字词典。
  * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - 一个用于安卓系统的开源日文输入法。
  * [anthywl](https://github.com/tadeokondrak/anthywl) - 使用libanthy为Sway提供的日语输入法
+ * [sekka](https://github.com/kiyoka/sekka) - 受SKK启发的又一个日本输入法。
+ * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
-
 
 ## Corpus
 
@@ -1000,9 +1000,11 @@ COMET-ATOMIC ja
  * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - 在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
 在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
  * [public-annotations](https://github.com/manga109/public-annotations) - Manga109数据集的各种注释
+ * [gimei](https://github.com/willnet/gimei) - 随机日本姓名和地址生成器
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
 
 ## Tutorial
 

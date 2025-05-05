@@ -6125,6 +6125,30 @@
                     "zh-hans": "使用libanthy为Sway提供的日语输入法",
                     "zh-hant": "使用libanthy為Sway提供的日文輸入法"
                 }
+            },
+            "https://github.com/kiyoka/sekka": {
+                "sub_category": null,
+                "repository_name": "sekka",
+                "user_name": "kiyoka",
+                "description": "Yet another Japanese Input Method inspired by SKK.",
+                "multilingual_descriptions": {
+                    "en": "Yet another Japanese Input Method inspired by SKK.",
+                    "ja": "SKKに触発されたもう1つの日本語入力方式。",
+                    "zh-hans": "受SKK启发的又一个日本输入法。",
+                    "zh-hant": "受 SKK 啟發的另一種日本輸入法。"
+                }
+            },
+            "https://github.com/kiyoka/sumibi": {
+                "sub_category": null,
+                "repository_name": "sumibi",
+                "user_name": "kiyoka",
+                "description": "Japanese input method powered by ChatGPT API",
+                "multilingual_descriptions": {
+                    "en": "Japanese input method powered by ChatGPT API",
+                    "ja": "ChatGPT APIによって強化された日本語入力方法",
+                    "zh-hans": "由ChatGPT API提供支持的日语输入法",
+                    "zh-hant": "由ChatGPT API提供動力的日文輸入法"
+                }
             }
         },
         "Corpus": {
@@ -7974,6 +7998,18 @@
                     "ja": "Manga109データセットのさまざまな注釈",
                     "zh-hans": "Manga109数据集的各种注释",
                     "zh-hant": "Manga109數據集的各種註釋"
+                }
+            },
+            "https://github.com/willnet/gimei": {
+                "sub_category": null,
+                "repository_name": "gimei",
+                "user_name": "willnet",
+                "description": "random Japanese name and address generator",
+                "multilingual_descriptions": {
+                    "en": "random Japanese name and address generator",
+                    "ja": "ランダムな日本人の名前と住所ジェネレーター",
+                    "zh-hans": "随机日本姓名和地址生成器",
+                    "zh-hant": "隨機日本姓名和地址生成器"
                 }
             }
         },
