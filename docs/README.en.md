@@ -17,14 +17,14 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## The latest additions 🎉
 
-**Python**
+**Dictionary and IME**
  * [sekka](https://github.com/kiyoka/sekka) - Yet another Japanese Input Method inspired by SKK.
  * [sumibi](https://github.com/kiyoka/sumibi) - Japanese input method powered by ChatGPT API
 
 **Corpus**
  * [gimei](https://github.com/willnet/gimei) - random Japanese name and address generator
 
-_Updated on May 06, 2025_
+_Updated on May 07, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

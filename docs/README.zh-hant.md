@@ -16,14 +16,14 @@
 
 ## The latest additions 🎉
 
-**Python**
+**Dictionary and IME**
  * [sekka](https://github.com/kiyoka/sekka) - 受 SKK 啟發的另一種日本輸入法。
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供動力的日文輸入法
 
 **Corpus**
  * [gimei](https://github.com/willnet/gimei) - 隨機日本姓名和地址生成器
 
-_Updated on May 06, 2025_
+_Updated on May 07, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
