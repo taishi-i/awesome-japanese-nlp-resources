@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了700个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1846个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了703个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1859个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -17,14 +17,16 @@
 
 ## The latest additions 🎉
 
+**Rust**
+ * [koharu](https://github.com/mayocream/koharu) - 使用Rust编写的带有LLM的自动漫画翻译工具。
+
 **Dictionary and IME**
- * [sekka](https://github.com/kiyoka/sekka) - 受SKK启发的又一个日本输入法。
- * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
+  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。
 
 **Corpus**
- * [gimei](https://github.com/willnet/gimei) - 随机日本姓名和地址生成器
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSD的长单元词版本
 
-_Updated on May 07, 2025_
+_Updated on May 13, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -532,6 +534,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 使用软件从法院网站(https://www.courts.go.jp/index.html) 爬取裁判例数据并生成数据列表。
  * [jisho](https://github.com/eagleflo/jisho) - Jisho是一个提供日语-英语词典的CLI工具和Rust库。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 从英语单词推测发音的库。
+ * [koharu](https://github.com/mayocream/koharu) - 使用Rust编写的带有LLM的自动漫画翻译工具。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -814,9 +817,12 @@ JMdict日语-英语词典项目的Web前端，支持学习列表！
  * [anthywl](https://github.com/tadeokondrak/anthywl) - 使用libanthy为Sway提供的日语输入法
  * [sekka](https://github.com/kiyoka/sekka) - 受SKK启发的又一个日本输入法。
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
+ * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
+
 
 ## Corpus
 
@@ -829,6 +835,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - 谷歌UDT 2.0的日本数据。
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大学网页文档引导语料库
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 注释版富满开拓中心语料库
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSD的长单元词版本
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

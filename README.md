@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [700 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1846 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [703 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1859 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -17,14 +17,16 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## The latest additions 🎉
 
+**Rust**
+ * [koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
+
 **Dictionary and IME**
- * [sekka](https://github.com/kiyoka/sekka) - Yet another Japanese Input Method inspired by SKK.
- * [sumibi](https://github.com/kiyoka/sumibi) - Japanese input method powered by ChatGPT API
+  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。
 
 **Corpus**
- * [gimei](https://github.com/willnet/gimei) - random Japanese name and address generator
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - Long-unit-word version of UD_Japanese-GSD
 
-_Updated on May 07, 2025_
+_Updated on May 13, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -527,6 +529,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 裁判例のデータ一覧を裁判所のホームページ(https://www.courts.go.jp/index.html) をスクレイピングして生成するソフトウェア
  * [jisho](https://github.com/eagleflo/jisho) - Jisho is a CLI tool & Rust library that provides a Japanese-English dictionary.
  * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
+ * [koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -806,9 +809,12 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [anthywl](https://github.com/tadeokondrak/anthywl) - Japanese input method for Sway using libanthy
  * [sekka](https://github.com/kiyoka/sekka) - Yet another Japanese Input Method inspired by SKK.
  * [sumibi](https://github.com/kiyoka/sumibi) - Japanese input method powered by ChatGPT API
+ * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
+
 
 ## Corpus
 
@@ -821,6 +827,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - Japanese data from the Google UDT 2.0.
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - Kyoto University Web Document Leads Corpus
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - Annotated Fuman Kaitori Center Corpus
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - Long-unit-word version of UD_Japanese-GSD
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

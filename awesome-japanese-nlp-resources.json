@@ -3833,6 +3833,18 @@
                     "zh-hans": "从英语单词推测发音的库。",
                     "zh-hant": "從英文單字推測讀音的程式庫。"
                 }
+            },
+            "https://github.com/mayocream/koharu": {
+                "sub_category": null,
+                "repository_name": "koharu",
+                "user_name": "mayocream",
+                "description": "Automated manga translation tool with LLM, written in Rust.",
+                "multilingual_descriptions": {
+                    "en": "Automated manga translation tool with LLM, written in Rust.",
+                    "ja": "Rustで書かれたLLMを使用した自動漫画翻訳ツール。",
+                    "zh-hans": "使用Rust编写的带有LLM的自动漫画翻译工具。",
+                    "zh-hant": "使用Rust编写的带有LLM的自动漫画翻译工具。"
+                }
             }
         },
         "JavaScript": {
@@ -6149,6 +6161,18 @@
                     "zh-hans": "由ChatGPT API提供支持的日语输入法",
                     "zh-hant": "由ChatGPT API提供動力的日文輸入法"
                 }
+            },
+            "https://github.com/s1r-j/jinmei-dict": {
+                "sub_category": null,
+                "repository_name": "jinmei-dict",
+                "user_name": "s1r-j",
+                "description": "辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。",
+                "multilingual_descriptions": {
+                    "en": "Extracting only personal names from dictionary data, formatting it into JSON format where the reading (in katakana) is the key and the candidate characters are stored in a list.",
+                    "ja": "辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。",
+                    "zh-hans": "从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。",
+                    "zh-hant": "從辭書數據中提取出人名，並按照讀音假名（片假名）作為鍵，將候選的寫字形式整理成JSON格式，以列表形式保存。"
+                }
             }
         },
         "Corpus": {
@@ -6234,6 +6258,18 @@
                     "ja": "注釈付きの普門買取センターのコーパス",
                     "zh-hans": "注释版富满开拓中心语料库",
                     "zh-hant": "註釋版的富滿開取中心語料庫"
+                }
+            },
+            "https://github.com/UniversalDependencies/UD_Japanese-GSDLUW": {
+                "sub_category": "Part-of-speech tagging / Named entity recognition",
+                "repository_name": "UD_Japanese-GSDLUW",
+                "user_name": "UniversalDependencies",
+                "description": "Long-unit-word version of UD_Japanese-GSD",
+                "multilingual_descriptions": {
+                    "en": "Long-unit-word version of UD_Japanese-GSD",
+                    "ja": "UD_Japanese-GSDの長単位語バージョン",
+                    "zh-hans": "UD_Japanese-GSD的长单元词版本",
+                    "zh-hant": "UD_Japanese-GSD的長單位詞版本"
                 }
             },
             "https://github.com/odashi/small_parallel_enja": {

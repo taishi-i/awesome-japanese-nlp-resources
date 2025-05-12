@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了700個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1846個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了703個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1859個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,14 +16,16 @@
 
 ## The latest additions 🎉
 
+**Rust**
+ * [koharu](https://github.com/mayocream/koharu) - 使用Rust编写的带有LLM的自动漫画翻译工具。
+
 **Dictionary and IME**
- * [sekka](https://github.com/kiyoka/sekka) - 受 SKK 啟發的另一種日本輸入法。
- * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供動力的日文輸入法
+  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 從辭書數據中提取出人名，並按照讀音假名（片假名）作為鍵，將候選的寫字形式整理成JSON格式，以列表形式保存。
 
 **Corpus**
- * [gimei](https://github.com/willnet/gimei) - 隨機日本姓名和地址生成器
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSD的長單位詞版本
 
-_Updated on May 07, 2025_
+_Updated on May 13, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -534,6 +536,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 裁判例資料列表生成軟體，可透過網址(https://www.courts.go.jp/index.html) 對法院網站進行爬蟲。
  * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 從英文單字推測讀音的程式庫。
+ * [koharu](https://github.com/mayocream/koharu) - 使用Rust编写的带有LLM的自动漫画翻译工具。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -818,9 +821,12 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [anthywl](https://github.com/tadeokondrak/anthywl) - 使用libanthy為Sway提供的日文輸入法
  * [sekka](https://github.com/kiyoka/sekka) - 受 SKK 啟發的另一種日本輸入法。
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供動力的日文輸入法
+ * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 從辭書數據中提取出人名，並按照讀音假名（片假名）作為鍵，將候選的寫字形式整理成JSON格式，以列表形式保存。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
+
 
 ## Corpus
 
@@ -833,6 +839,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - 從Google UDT 2.0輸入的日本數據。
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大學網頁文件引導語料庫
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 註釋版的富滿開取中心語料庫
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSD的長單位詞版本
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

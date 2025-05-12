@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [700件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1846 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [703件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1859 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,14 +16,16 @@
 
 ## The latest additions 🎉
 
+**Rust**
+ * [koharu](https://github.com/mayocream/koharu) - Rustで書かれたLLMを使用した自動漫画翻訳ツール。
+
 **Dictionary and IME**
- * [sekka](https://github.com/kiyoka/sekka) - SKKに触発されたもう1つの日本語入力方式。
- * [sumibi](https://github.com/kiyoka/sumibi) - ChatGPT APIによって強化された日本語入力方法
+  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。
 
 **Corpus**
- * [gimei](https://github.com/willnet/gimei) - ランダムな日本人の名前と住所ジェネレーター
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSDの長単位語バージョン
 
-_Updated on May 07, 2025_
+_Updated on May 13, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -535,6 +537,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [jisho](https://github.com/eagleflo/jisho) - Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。
 Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
+ * [koharu](https://github.com/mayocream/koharu) - Rustで書かれたLLMを使用した自動漫画翻訳ツール。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -818,9 +821,12 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
  * [anthywl](https://github.com/tadeokondrak/anthywl) - Swayのためのlibanthyを使用した日本語入力方法
  * [sekka](https://github.com/kiyoka/sekka) - SKKに触発されたもう1つの日本語入力方式。
  * [sumibi](https://github.com/kiyoka/sumibi) - ChatGPT APIによって強化された日本語入力方法
+ * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
+
 
 ## Corpus
 
@@ -833,6 +839,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) - Google UDT 2.0からの日本語データ。
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大学ウェブドキュメントリードコーパス
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 注釈付きの普門買取センターのコーパス
+ * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSDの長単位語バージョン
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
