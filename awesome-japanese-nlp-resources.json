@@ -518,6 +518,18 @@
                     "zh-hant": "一個可以獲取字母串的片假名讀音的工具。"
                 }
             },
+            "https://github.com/actlaboratory/englishtokanaconverter": {
+                "sub_category": "Converter",
+                "repository_name": "englishtokanaconverter",
+                "user_name": "actlaboratory",
+                "description": "英語文字列をカタカナに変換するプログラム",
+                "multilingual_descriptions": {
+                    "en": "Program to convert English strings to Katakana",
+                    "ja": "英語文字列をカタカナに変換するプログラム",
+                    "zh-hans": "将英语文本转换为片假名的程序",
+                    "zh-hant": "將英文文字轉換為片假名的程式"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",

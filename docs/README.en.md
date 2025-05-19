@@ -7,26 +7,20 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [703 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1859 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [704 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1875 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
-## The latest additions 🎉
+## 🎉 The latest additions
 
-**Rust**
- * [koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
+**Python**
+ * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - Program to convert English strings to Katakana
 
-**Dictionary and IME**
-  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - Extracting only personal names from dictionary data, formatting it into JSON format where the reading (in katakana) is the key and the candidate characters are stored in a list.
-
-**Corpus**
- * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - Long-unit-word version of UD_Japanese-GSD
-
-_Updated on May 13, 2025_
+_Updated on May 20, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -141,6 +135,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [yurenizer](https://github.com/sea-turt1e/yurenizer) - Japanese text normalizer that resolves spelling inconsistencies. （日本語表記揺れ解消ツール
  * [e2k](https://github.com/Patchethium/e2k) - A tool for automatic English to Katakana conversion
  * [alkana.py](https://github.com/zomysan/alkana.py) - A tool to get the katakana reading of an alphabetical string.
+ * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - Program to convert English strings to Katakana
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
