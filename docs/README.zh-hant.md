@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了704個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1875個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了705個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1890個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,10 +16,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 將英文文字轉換為片假名的程式
+**Dictionary and IME**
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 菫 完全離線的日文鍵盤應用程式
 
-_Updated on May 20, 2025_
+_Updated on May 27, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -817,6 +817,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [sekka](https://github.com/kiyoka/sekka) - 受 SKK 啟發的另一種日本輸入法。
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供動力的日文輸入法
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 從辭書數據中提取出人名，並按照讀音假名（片假名）作為鍵，將候選的寫字形式整理成JSON格式，以列表形式保存。
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 菫 完全離線的日文鍵盤應用程式
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

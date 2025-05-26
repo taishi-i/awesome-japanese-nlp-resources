@@ -6185,6 +6185,18 @@
                     "zh-hans": "从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。",
                     "zh-hant": "從辭書數據中提取出人名，並按照讀音假名（片假名）作為鍵，將候選的寫字形式整理成JSON格式，以列表形式保存。"
                 }
+            },
+            "https://github.com/kazumaproject/japanesekeyboard": {
+                "sub_category": null,
+                "repository_name": "japanesekeyboard",
+                "user_name": "kazumaproject",
+                "description": "スミレ 完全オフラインの日本語キーボードアプリ",
+                "multilingual_descriptions": {
+                    "en": "Violet - a completely offline Japanese keyboard app",
+                    "ja": "スミレ 完全オフラインの日本語キーボードアプリ",
+                    "zh-hans": "紫罗兰 完全离线的日语键盘应用程序",
+                    "zh-hant": "菫 完全離線的日文鍵盤應用程式"
+                }
             }
         },
         "Corpus": {

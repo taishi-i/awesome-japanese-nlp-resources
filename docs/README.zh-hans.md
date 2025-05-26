@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了704个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1875个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了705个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1890个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -17,10 +17,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 将英语文本转换为片假名的程序
+**Dictionary and IME**
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 紫罗兰 完全离线的日语键盘应用程序
 
-_Updated on May 20, 2025_
+_Updated on May 27, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -813,6 +813,7 @@ JMdict日语-英语词典项目的Web前端，支持学习列表！
  * [sekka](https://github.com/kiyoka/sekka) - 受SKK启发的又一个日本输入法。
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 紫罗兰 完全离线的日语键盘应用程序
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
