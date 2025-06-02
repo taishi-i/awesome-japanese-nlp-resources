@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [705 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1890 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [707 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1910 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -17,10 +17,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
+**JavaScript**
+ * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
 
-_Updated on May 27, 2025_
+**Tutorial**
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
+
+_Updated on Jun 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

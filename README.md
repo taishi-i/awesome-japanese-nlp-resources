@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [705 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1890 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [707 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1910 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -17,10 +17,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
+**JavaScript**
+ * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
 
-_Updated on May 27, 2025_
+**Tutorial**
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
+
+_Updated on Jun 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -583,6 +586,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [kana2ipa](https://github.com/amanoese/kana2ipa) - 「ひらがな」または「カタカナ」を日本語で発音する際の音声記号(IPA)に変換するコマンド
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
  * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - Towards a Japanese verb conjugator and deconjugator based on Taeko Kamiya's *The Handbook of Japanese Verbs* and *The Handbook of Japanese Adjectives and Adverbs* opuses.
+ * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1024,6 +1028,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Rによる自然言語処理・テキスト分析の練習
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 「言語処理100本ノック 2025」をPythonで解く
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

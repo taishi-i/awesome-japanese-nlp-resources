@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [705件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [1890 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [707件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [1910 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,10 +16,13 @@
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
+**JavaScript**
+ * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
 
-_Updated on May 27, 2025_
+**Tutorial**
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
+
+_Updated on Jun 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -591,6 +594,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [kana2ipa](https://github.com/amanoese/kana2ipa) - 「ひらがな」または「カタカナ」を日本語で発音する際の音声記号(IPA)に変換するコマンド
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
  * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - 日本語動詞の活用と非活用を基にした神谷妙子の「日本語動詞の手引き」と「日本語形容詞・副詞の手引き」に向けて。
+ * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1039,6 +1043,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Rによる自然言語処理・テキスト分析の練習
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 「言語処理100本ノック 2025」をPythonで解く
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

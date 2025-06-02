@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [705 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1890 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [707 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [1910 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -17,10 +17,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - Violet - a completely offline Japanese keyboard app
+**JavaScript**
+ * [closewords](https://github.com/otoneko1102/closewords) - A library that searches for the most similar word from a group of words in Japanese (including kanji)
 
-_Updated on May 27, 2025_
+**Tutorial**
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - Notes on "Topic Model" (Machine Learning Professional Series)
+
+_Updated on Jun 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -583,6 +586,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [kana2ipa](https://github.com/amanoese/kana2ipa) - Command to convert "hiragana" or "katakana" into International Phonetic Alphabet (IPA) symbols when pronouncing in Japanese.
  * [voicevox](https://github.com/VOICEVOX/voicevox) - Editor for VOICEVOX, a high-quality text-to-speech software that can be used for free.
  * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - Towards a Japanese verb conjugator and deconjugator based on Taeko Kamiya's *The Handbook of Japanese Verbs* and *The Handbook of Japanese Adjectives and Adverbs* opuses.
+ * [closewords](https://github.com/otoneko1102/closewords) - A library that searches for the most similar word from a group of words in Japanese (including kanji)
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1024,6 +1028,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Practice of natural language processing and text analysis using R
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - Tutorial materials and source code for "Introduction to Geographic Information and Language Processing in Practice" in NLP2025.
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - Solving "Language Processing 100 Knock 2025" with Python
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - Notes on "Topic Model" (Machine Learning Professional Series)
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

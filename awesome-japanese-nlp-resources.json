@@ -4267,6 +4267,18 @@
                     "zh-hans": "基于神谷多恵子的《日本动词手册》和《日本形容词和副词手册》，开发一个日语动词变位器和去变位器。",
                     "zh-hant": "根據神谷多恵子的《日本動詞手冊》和《日本形容詞和副詞手冊》，開發一個日語動詞變化器和去變化器。"
                 }
+            },
+            "https://github.com/otoneko1102/closewords": {
+                "sub_category": null,
+                "repository_name": "closewords",
+                "user_name": "otoneko1102",
+                "description": "最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ",
+                "multilingual_descriptions": {
+                    "en": "A library that searches for the most similar word from a group of words in Japanese (including kanji)",
+                    "ja": "最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ",
+                    "zh-hans": "从单词组中搜索最相似的单词的日语（包括汉字）库",
+                    "zh-hant": "從單詞群中搜尋最相似的單詞的日語（包含漢字）庫。"
+                }
             }
         },
         "Go": {
@@ -8360,6 +8372,18 @@
                     "ja": "「言語処理100本ノック 2025」をPythonで解く",
                     "zh-hans": "用Python解决“自然语言处理100道题目2025”",
                     "zh-hant": "用Python解决「自然语言处理100道练习 2025」"
+                }
+            },
+            "https://github.com/anemptyarchive/topic-models-ao": {
+                "sub_category": null,
+                "repository_name": "topic-models-ao",
+                "user_name": "anemptyarchive",
+                "description": "『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート",
+                "multilingual_descriptions": {
+                    "en": "Notes on \"Topic Model\" (Machine Learning Professional Series)",
+                    "ja": "『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート",
+                    "zh-hans": "《主题模型》（机器学习专业系列）笔记",
+                    "zh-hant": "『主題模型』(機器學習專業系列)的筆記"
                 }
             }
         },

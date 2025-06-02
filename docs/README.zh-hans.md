@@ -7,8 +7,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了705个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1890个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了707个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1910个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -17,10 +17,13 @@
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 紫罗兰 完全离线的日语键盘应用程序
+**JavaScript**
+ * [closewords](https://github.com/otoneko1102/closewords) - 从单词组中搜索最相似的单词的日语（包括汉字）库
 
-_Updated on May 27, 2025_
+**Tutorial**
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 《主题模型》（机器学习专业系列）笔记
+
+_Updated on Jun 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -588,6 +591,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [kana2ipa](https://github.com/amanoese/kana2ipa) - 将「ひらがな」或「カタカナ」转换为日语发音时的音标(IPA)的命令。
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 免费使用的中等质量的文本朗读软件，VOICEVOX的编辑器
  * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - 基于神谷多恵子的《日本动词手册》和《日本形容词和副词手册》，开发一个日语动词变位器和去变位器。
+ * [closewords](https://github.com/otoneko1102/closewords) - 从单词组中搜索最相似的单词的日语（包括汉字）库
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1036,6 +1040,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - 使用R进行自然语言处理和文本分析的练习
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 用Python解决“自然语言处理100道题目2025”
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 《主题模型》（机器学习专业系列）笔记
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

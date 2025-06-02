@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了705個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1890個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了707個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1910個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,10 +16,13 @@
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 菫 完全離線的日文鍵盤應用程式
+**JavaScript**
+ * [closewords](https://github.com/otoneko1102/closewords) - 從單詞群中搜尋最相似的單詞的日語（包含漢字）庫。
 
-_Updated on May 27, 2025_
+**Tutorial**
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『主題模型』(機器學習專業系列)的筆記
+
+_Updated on Jun 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -590,6 +593,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [kana2ipa](https://github.com/amanoese/kana2ipa) - 將「ひらがな」或「カタカナ」轉換為日語發音時的音標(IPA)的指令
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 免費使用的中等品質文字朗讀軟體，VOICEVOX的編輯器
  * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - 根據神谷多恵子的《日本動詞手冊》和《日本形容詞和副詞手冊》，開發一個日語動詞變化器和去變化器。
+ * [closewords](https://github.com/otoneko1102/closewords) - 從單詞群中搜尋最相似的單詞的日語（包含漢字）庫。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1043,6 +1047,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - R進行自然語言處理和文本分析的練習
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 用Python解决「自然语言处理100道练习 2025」
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『主題模型』(機器學習專業系列)的筆記
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
