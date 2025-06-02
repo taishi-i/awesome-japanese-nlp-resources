@@ -1735,6 +1735,7 @@ Resources
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Rによる自然言語処理・テキスト分析の練習
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 「言語処理100本ノック 2025」をPythonで解く
+ * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1765,6 +1766,7 @@ Resources
 |[nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuiseki/nlp2025-tutorial-2?style=social)|
 |[nlp100v2025](https://github.com/upura/nlp100v2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2025?style=social)|
 |[public-annotations](https://github.com/manga109/public-annotations)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/manga109/public-annotations?style=social)|
+|[topic-models-ao](https://github.com/anemptyarchive/topic-models-ao)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/anemptyarchive/topic-models-ao?style=social)|
 
 
 ## Research summary
