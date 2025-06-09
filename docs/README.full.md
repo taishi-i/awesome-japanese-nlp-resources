@@ -1739,7 +1739,7 @@ Resources
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 「言語処理100本ノック 2025」をPythonで解く
  * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
- * [slp2025](https://github.com/ryota-komatsu/slp2025) -音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
+ * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
 
 
 |Name|downloads/week|total downloads|stars|
