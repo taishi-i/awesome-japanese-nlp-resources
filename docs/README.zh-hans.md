@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了708个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1931个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了709个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1953个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,10 +18,10 @@
 
 ## 🎉 The latest additions
 
-**Tutorial**
- * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音学研讨会2025教程“多模态大规模语言模型入门”资料
+**Corpus**
+ * [kokorochat](https://github.com/uec-inabalab/kokorochat) - 通过角色扮演收集的日语咨询对话数据集
 
-_Updated on Jun 10, 2025_
+_Updated on Jun 18, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -870,8 +870,11 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 这个仓库包含了日英双语聊天语料库BPersona-chat，该语料库已发表在AACL-IJCNLP 2022的Eval4NLP 2022研讨会上的论文《聊天翻译错误检测以协助跨语言交流》中。
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本日常对话语料库，或日本语日常対話コーパス，是一个高质量的多轮对话数据集，包含五个主题的日常对话：日常生活，学校，旅行，健康和娱乐。
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM构建用的日语聊天数据集
+ * [kokorochat](https://github.com/uec-inabalab/kokorochat) - 通过角色扮演收集的日语咨询对话数据集
+
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
 
 ### Others
 

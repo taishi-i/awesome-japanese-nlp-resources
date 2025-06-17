@@ -8,8 +8,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了708個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了1931個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了709個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了1953個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,10 +17,10 @@
 
 ## 🎉 The latest additions
 
-**Tutorial**
- * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音學研討會2025教程「多模式大規模語言模型入門」資料
+**Corpus**
+ * [kokorochat](https://github.com/uec-inabalab/kokorochat) - 透過角色扮演收集的日語諮詢對話數據集
 
-_Updated on Jun 10, 2025_
+_Updated on Jun 18, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -874,8 +874,11 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) - 這個存儲庫包含了在AACL-IJCNLP 2022的Eval4NLP 2022研討會上發表的論文《Chat Translation Error Detection for Assisting Cross-lingual Communications》中所發布的日英雙語聊天語料庫BPersona-chat。
  * [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) - 日本語日常対話コーパス是一個高品質的多輪對話數據集，包含五個主題的日常對話：生活、學校、旅行、健康和娛樂。
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用的日本語聊天資料集
+ * [kokorochat](https://github.com/uec-inabalab/kokorochat) - 透過角色扮演收集的日語諮詢對話數據集
+
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
+
 
 ### Others
 

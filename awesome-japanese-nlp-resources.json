@@ -6560,6 +6560,18 @@
                     "zh-hant": "LLM構築用的日本語聊天資料集"
                 }
             },
+            "https://github.com/uec-inabalab/kokorochat": {
+                "sub_category": "Dialog corpus",
+                "repository_name": "kokorochat",
+                "user_name": "uec-inabalab",
+                "description": "ロールプレイで収集した日本語のカウンセリング対話データセット",
+                "multilingual_descriptions": {
+                    "en": "Counseling dialogue dataset collected through role-playing in Japanese",
+                    "ja": "ロールプレイで収集した日本語のカウンセリング対話データセット",
+                    "zh-hans": "通过角色扮演收集的日语咨询对话数据集",
+                    "zh-hant": "透過角色扮演收集的日語諮詢對話數據集"
+                }
+            },
             "https://github.com/megagonlabs/jrte-corpus": {
                 "sub_category": null,
                 "repository_name": "jrte-corpus",
@@ -8384,18 +8396,6 @@
                     "ja": "『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート",
                     "zh-hans": "《主题模型》（机器学习专业系列）笔记",
                     "zh-hant": "『主題模型』(機器學習專業系列)的筆記"
-                }
-            },
-            "https://github.com/ryota-komatsu/slp2025": {
-                "sub_category": null,
-                "repository_name": "slp2025",
-                "user_name": "ryota-komatsu",
-                "description": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
-                "multilingual_descriptions": {
-                    "en": "Sound Studies Symposium 2025 Tutorial \"Introduction to Multimodal Large-Scale Language Models\" Materials",
-                    "ja": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
-                    "zh-hans": "音学研讨会2025教程“多模态大规模语言模型入门”资料",
-                    "zh-hant": "音學研討會2025教程「多模式大規模語言模型入門」資料"
                 }
             }
         },
