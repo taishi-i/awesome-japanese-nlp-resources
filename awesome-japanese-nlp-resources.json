@@ -3325,6 +3325,18 @@
                     "zh-hans": "简单的Python API，用于读取Manga109的注释数据",
                     "zh-hant": "簡單的Python API，用於讀取Manga109的標註數據"
                 }
+            },
+            "https://github.com/route250/fastrtc-jp": {
+                "sub_category": null,
+                "repository_name": "fastrtc-jp",
+                "user_name": "route250",
+                "description": "fastrtc用の日本語TTSとSTT追加キット",
+                "multilingual_descriptions": {
+                    "en": "Japanese TTS and STT add-on kit for fastrtc",
+                    "ja": "fastrtc用の日本語TTSとSTT追加キット",
+                    "zh-hans": "为fastrtc添加日语TTS和STT套件",
+                    "zh-hant": "為fastrtc添加日文TTS和STT套件"
+                }
             }
         },
         "C++": {
