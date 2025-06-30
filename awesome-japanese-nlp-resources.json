@@ -8409,6 +8409,18 @@
                     "zh-hans": "《主题模型》（机器学习专业系列）笔记",
                     "zh-hant": "『主題模型』(機器學習專業系列)的筆記"
                 }
+            },
+            "https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai": {
+                "sub_category": null,
+                "repository_name": "book_impress_it-basic-education-ai",
+                "user_name": "liber-craft-co-ltd",
+                "description": "インプレス出版「IT基礎教養 自然言語処理＆画像解析」",
+                "multilingual_descriptions": {
+                    "en": "Impress Corporation \"IT Fundamentals: Natural Language Processing & Image Analysis\"",
+                    "ja": "インプレス出版「IT基礎教養 自然言語処理＆画像解析」",
+                    "zh-hans": "印象出版社“IT基础教养 自然语言处理＆图像分析”",
+                    "zh-hant": "印象出版社「IT基礎教養 自然語言處理＆圖像分析」"
+                }
             }
         },
         "Research summary": {
