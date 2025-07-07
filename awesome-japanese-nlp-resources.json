@@ -4291,6 +4291,18 @@
                     "zh-hans": "从单词组中搜索最相似的单词的日语（包括汉字）库",
                     "zh-hant": "從單詞群中搜尋最相似的單詞的日語（包含漢字）庫。"
                 }
+            },
+            "https://github.com/cokice/japanese-analyzer": {
+                "sub_category": null,
+                "repository_name": "japanese-analyzer",
+                "user_name": "cokice",
+                "description": "Japanese Sentence Analyzer (日本語文章解析器)",
+                "multilingual_descriptions": {
+                    "en": "Japanese Sentence Analyzer (日本語文章解析器)",
+                    "ja": "日本語文章解析器",
+                    "zh-hans": "日语句子分析器 (日本語文章解析器)",
+                    "zh-hant": "日文句子分析器 (日本語文章解析器)"
+                }
             }
         },
         "Go": {
