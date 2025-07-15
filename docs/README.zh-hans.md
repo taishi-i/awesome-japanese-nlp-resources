@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了712个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1979个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了713个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了1997个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,10 +18,10 @@
 
 ## 🎉 The latest additions
 
-**JavaScript**
- * [japanese-analyzer](https://github.com/cokice/japanese-analyzer) - 日语句子分析器 (日本語文章解析器)
+**Python**
+ * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python编写的Whisper模型进行语音转文字工具
 
-_Updated on Jul 08, 2025_
+_Updated on Jul 15, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -436,6 +436,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 用于执行自动生成评估的Python工具
  * [manga109api](https://github.com/manga109/manga109api) - 简单的Python API，用于读取Manga109的注释数据
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - 为fastrtc添加日语TTS和STT套件
+ * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python编写的Whisper模型进行语音转文字工具
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
