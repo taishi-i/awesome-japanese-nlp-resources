@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [713 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [1997 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [714 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2010 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,10 +18,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Python**
- * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - Speech-to-text tool using Whisper model with Python
+**Tutorial**
+ * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - Source code used in the book "Practical Introduction to Generative AI Agents for Practical Use on the Field" (Kodansha Scientific Co., Ltd.)
 
-_Updated on Jul 15, 2025_
+_Updated on Jul 22, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1035,6 +1035,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - Notes on "Topic Model" (Machine Learning Professional Series)
  * [slp2025](https://github.com/ryota-komatsu/slp2025) -音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
  * [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) - Impress Corporation "IT Fundamentals: Natural Language Processing & Image Analysis"
+ * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - Source code used in the book "Practical Introduction to Generative AI Agents for Practical Use on the Field" (Kodansha Scientific Co., Ltd.)
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

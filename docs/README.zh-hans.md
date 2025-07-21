@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了713个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了1997个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了714个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2010个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,10 +18,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python编写的Whisper模型进行语音转文字工具
+**Tutorial**
+ * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码
 
-_Updated on Jul 15, 2025_
+_Updated on Jul 22, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1047,6 +1047,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 《主题模型》（机器学习专业系列）笔记
  * [slp2025](https://github.com/ryota-komatsu/slp2025) -音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
  * [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) - 印象出版社“IT基础教养 自然语言处理＆图像分析”
+ * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

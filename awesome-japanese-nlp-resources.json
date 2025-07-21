@@ -8445,6 +8445,18 @@
                     "zh-hans": "印象出版社“IT基础教养 自然语言处理＆图像分析”",
                     "zh-hant": "印象出版社「IT基礎教養 自然語言處理＆圖像分析」"
                 }
+            },
+            "https://github.com/masamasa59/genai-agent-advanced-book": {
+                "sub_category": null,
+                "repository_name": "genai-agent-advanced-book",
+                "user_name": "masamasa59",
+                "description": "書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード",
+                "multilingual_descriptions": {
+                    "en": "Source code used in the book \"Practical Introduction to Generative AI Agents for Practical Use on the Field\" (Kodansha Scientific Co., Ltd.)",
+                    "ja": "書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード",
+                    "zh-hans": "书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码",
+                    "zh-hant": "書籍「現場中應用的生成AI代理人實踐入門」（講談社科學社）中使用的源代碼"
+                }
             }
         },
         "Research summary": {
