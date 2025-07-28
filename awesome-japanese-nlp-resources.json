@@ -3349,6 +3349,18 @@
                     "zh-hans": "使用Python编写的Whisper模型进行语音转文字工具",
                     "zh-hant": "使用Python的Whisper模型進行語音轉文字工具"
                 }
+            },
+            "https://github.com/u-masao/pocket-researcher": {
+                "sub_category": null,
+                "repository_name": "pocket-researcher",
+                "user_name": "u-masao",
+                "description": "LLMを活用した自律調査エージェント。手軽に情報収集、概要把握。",
+                "multilingual_descriptions": {
+                    "en": "Autonomous investigation agent utilizing LLM. Easily collect information and grasp an overview.",
+                    "ja": "LLMを活用した自律調査エージェント。手軽に情報収集、概要把握。",
+                    "zh-hans": "利用LLM的自主调查代理。轻松收集信息，了解概要。",
+                    "zh-hant": "利用LLM的自律調查代理人。輕鬆收集信息，了解概要。"
+                }
             }
         },
         "C++": {
@@ -6245,6 +6257,18 @@
                     "zh-hans": "紫罗兰 完全离线的日语键盘应用程序",
                     "zh-hant": "菫 完全離線的日文鍵盤應用程式"
                 }
+            },
+            "https://github.com/a-hamdi/japanesearabic": {
+                "sub_category": null,
+                "repository_name": "japanesearabic",
+                "user_name": "a-hamdi",
+                "description": "JapaneseArabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)",
+                "multilingual_descriptions": {
+                    "en": "Japanese-Arabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)",
+                    "ja": "日本語アラビア語辞書（ヨミタン）",
+                    "zh-hans": "日语阿拉伯语词典（日本語・アラビア語辞書）约米坦",
+                    "zh-hant": "日本語・アラビア語辞書 (Yomitan) قاموس اللغة اليابانية والعربية"
+                }
             }
         },
         "Corpus": {
@@ -8130,6 +8154,18 @@
                     "ja": "ランダムな日本人の名前と住所ジェネレーター",
                     "zh-hans": "随机日本姓名和地址生成器",
                     "zh-hant": "隨機日本姓名和地址生成器"
+                }
+            },
+            "https://github.com/sbintuitions/safety-boundary-test": {
+                "sub_category": null,
+                "repository_name": "safety-boundary-test",
+                "user_name": "sbintuitions",
+                "description": "日本語言語モデルの安全性の振る舞いを評価するテストセット",
+                "multilingual_descriptions": {
+                    "en": "Test set to evaluate the safety behavior of Japanese language models",
+                    "ja": "日本語言語モデルの安全性の振る舞いを評価するテストセット",
+                    "zh-hans": "评估日语语言模型安全性行为的测试集",
+                    "zh-hant": "評估日語語言模型安全性行為的測試集"
                 }
             }
         },

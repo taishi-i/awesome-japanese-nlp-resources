@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了714个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2010个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了717个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2020个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,10 +18,16 @@
 
 ## 🎉 The latest additions
 
-**Tutorial**
- * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码
+**Python**
+ * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - 利用LLM的自主调查代理。轻松收集信息，了解概要。
 
-_Updated on Jul 22, 2025_
+**Dictionary and IME**
+ * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日语阿拉伯语词典（日本語・アラビア語辞書）约米坦
+
+**Corpus**
+ * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 评估日语语言模型安全性行为的测试集
+
+_Updated on Jul 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -437,6 +443,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [manga109api](https://github.com/manga109/manga109api) - 简单的Python API，用于读取Manga109的注释数据
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - 为fastrtc添加日语TTS和STT套件
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python编写的Whisper模型进行语音转文字工具
+ * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - 利用LLM的自主调查代理。轻松收集信息，了解概要。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -819,10 +826,10 @@ JMdict日语-英语词典项目的Web前端，支持学习列表！
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 紫罗兰 完全离线的日语键盘应用程序
+ * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日语阿拉伯语词典（日本語・アラビア語辞書）约米坦
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
-
 
 
 ## Corpus
@@ -1012,6 +1019,7 @@ COMET-ATOMIC ja
 在AAAI21年会上介绍的《全自动漫画翻译》论文中介绍的数据集
  * [public-annotations](https://github.com/manga109/public-annotations) - Manga109数据集的各种注释
  * [gimei](https://github.com/willnet/gimei) - 随机日本姓名和地址生成器
+ * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 评估日语语言模型安全性行为的测试集
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [714 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2010 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [717 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2020 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,10 +18,16 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Tutorial**
- * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - Source code used in the book "Practical Introduction to Generative AI Agents for Practical Use on the Field" (Kodansha Scientific Co., Ltd.)
+**Python**
+ * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - Autonomous investigation agent utilizing LLM. Easily collect information and grasp an overview.
 
-_Updated on Jul 22, 2025_
+**Dictionary and IME**
+ * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - Japanese-Arabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
+
+**Corpus**
+ * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - Test set to evaluate the safety behavior of Japanese language models
+
+_Updated on Jul 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -433,6 +439,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [manga109api](https://github.com/manga109/manga109api) - Simple python API to read annotation data of Manga109
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - Japanese TTS and STT add-on kit for fastrtc
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - Speech-to-text tool using Whisper model with Python
+ * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - Autonomous investigation agent utilizing LLM. Easily collect information and grasp an overview.
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -811,10 +818,10 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [sumibi](https://github.com/kiyoka/sumibi) - Japanese input method powered by ChatGPT API
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - Extracting only personal names from dictionary data, formatting it into JSON format where the reading (in katakana) is the key and the candidate characters are stored in a list.
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - Violet - a completely offline Japanese keyboard app
+ * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - Japanese-Arabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
-
 
 
 ## Corpus
@@ -1000,6 +1007,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) - Dataset introduced in the paper Towards Fully Automated Manga Translation presented in AAAI21
  * [public-annotations](https://github.com/manga109/public-annotations) - Various annotations of Manga109 dataset
  * [gimei](https://github.com/willnet/gimei) - random Japanese name and address generator
+ * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - Test set to evaluate the safety behavior of Japanese language models
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
