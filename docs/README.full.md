@@ -564,6 +564,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [manga109api](https://github.com/manga109/manga109api) - Simple python API to read annotation data of Manga109
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - fastrtc用の日本語TTSとSTT追加キット
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - Pythonを使用したWhisperモデルによる音声文字起こしツール
+ * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - LLMを活用した自律調査エージェント。手軽に情報収集、概要把握。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -730,6 +731,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[manga109api](https://github.com/manga109/manga109api)|[![Downloads](https://pepy.tech/badge/manga109api/week)](https://pepy.tech/project/manga109api)|[![Downloads](https://pepy.tech/badge/manga109api)](https://pepy.tech/project/manga109api)|![GitHub Repo stars](https://img.shields.io/github/stars/manga109/manga109api?style=social)|
 |[fastrtc-jp](https://github.com/route250/fastrtc-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/route250/fastrtc-jp?style=social)|
 |[whisper-transcription](https://github.com/fumifumi0831/whisper-transcription)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fumifumi0831/whisper-transcription?style=social)|
+|[pocket-researcher](https://github.com/u-masao/pocket-researcher)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/u-masao/pocket-researcher?style=social)|
 
 
 ## C++
