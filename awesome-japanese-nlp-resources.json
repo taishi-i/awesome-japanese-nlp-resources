@@ -914,6 +914,18 @@
                     "zh-hant": "用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例\n用於日語語言（Hugging Face）資源的調整編碼器和編碼器-解碼器變壓器的示例"
                 }
             },
+            "https://github.com/lychee1223/novelanalysisbyner": {
+                "sub_category": "Named entity recognition",
+                "repository_name": "novelanalysisbyner",
+                "user_name": "lychee1223",
+                "description": "BERTのfine-tuningによる固有表現抽出",
+                "multilingual_descriptions": {
+                    "en": "Named entity extraction using BERT fine-tuning",
+                    "ja": "BERTのファインチューニングによる固有表現抽出",
+                    "zh-hans": "BERT模型微调用于命名实体识别",
+                    "zh-hant": "透過BERT的微調進行專有名詞提取"
+                }
+            },
             "https://github.com/kha-white/manga-ocr": {
                 "sub_category": "OCR",
                 "repository_name": "manga-ocr",
@@ -8492,6 +8504,18 @@
                     "ja": "書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード",
                     "zh-hans": "书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码",
                     "zh-hant": "書籍「現場中應用的生成AI代理人實踐入門」（講談社科學社）中使用的源代碼"
+                }
+            },
+            "https://github.com/tomonari-masada/course2024-nlp": {
+                "sub_category": null,
+                "repository_name": "course2024-nlp",
+                "user_name": "tomonari-masada",
+                "description": "2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論",
+                "multilingual_descriptions": {
+                    "en": "2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing",
+                    "ja": "2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論",
+                    "zh-hans": "2024年 立教大学研究生院 人工智能科学研究专业 自然语言处理专题",
+                    "zh-hant": "2024年度 立教大學大學院 人工智能科學研究科 自然語言處理特論"
                 }
             }
         },

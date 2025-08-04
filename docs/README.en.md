@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [717 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2020 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [719 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2035 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -19,15 +19,12 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Python**
- * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - Autonomous investigation agent utilizing LLM. Easily collect information and grasp an overview.
+ * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - Named entity extraction using BERT fine-tuning
 
-**Dictionary and IME**
- * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - Japanese-Arabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
+**Tutorial**
+ * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing
 
-**Corpus**
- * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - Test set to evaluate the safety behavior of Japanese language models
-
-_Updated on Jul 29, 2025_
+_Updated on Aug 05, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -210,6 +207,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
  * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - Program for fine-tuning Japanese named entity recognition using BERT
  * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - Examples to finetune encoder-only and encoder-decoder transformers for Japanese language (Hugging Face) Resources
+ * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - Named entity extraction using BERT fine-tuning
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1044,6 +1042,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [slp2025](https://github.com/ryota-komatsu/slp2025) -音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
  * [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) - Impress Corporation "IT Fundamentals: Natural Language Processing & Image Analysis"
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - Source code used in the book "Practical Introduction to Generative AI Agents for Practical Use on the Field" (Kodansha Scientific Co., Ltd.)
+ * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
