@@ -285,6 +285,7 @@ _Updated on Jul 29, 2025_
  * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp, A python module for geotagging Japanese texts.
  * [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) - BERTによる日本語固有表現抽出のファインチューニング用プログラム
  * [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) - Examples to finetune encoder-only and encoder-decoder transformers for Japanese language (Hugging Face) Resources
+ * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - BERTのfine-tuningによる固有表現抽出
 
 
 |Name|downloads/week|total downloads|stars|
@@ -297,6 +298,7 @@ _Updated on Jul 29, 2025_
 |[pygeonlp](https://github.com/geonlp-platform/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp/week)](https://pepy.tech/project/pygeonlp)|[![Downloads](https://pepy.tech/badge/pygeonlp)](https://pepy.tech/project/pygeonlp)|![GitHub Repo stars](https://img.shields.io/github/stars/geonlp-platform/pygeonlp?style=social)|
 |[bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jurabiinc/bert-ner-japanese?style=social)|
 |[huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tsmatz/huggingface-finetune-japanese?style=social)|
+|[novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lychee1223/novelanalysisbyner?style=social)|
 
 
 ### OCR
