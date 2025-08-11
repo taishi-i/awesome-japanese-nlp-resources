@@ -8179,6 +8179,18 @@
                     "zh-hans": "评估日语语言模型安全性行为的测试集",
                     "zh-hant": "評估日語語言模型安全性行為的測試集"
                 }
+            },
+            "https://github.com/ObakeConstructs/j-ono-data": {
+                "sub_category": null,
+                "repository_name": "j-ono-data",
+                "user_name": "ObakeConstructs",
+                "description": "A simple, open-source collection of Japanese onomatopoeic and mimetic sound words in JSON format. With manga samples.",
+                "multilingual_descriptions": {
+                    "en": "A simple, open-source collection of Japanese onomatopoeic and mimetic sound words in JSON format. With manga samples.",
+                    "ja": "JSON形式で収録された、シンプルでオープンソースな日本語の擬音語や擬態語のコレクション。マンガのサンプル付き。",
+                    "zh-hans": "一个简单的、开源的日语拟声词和拟态词的收集，以JSON格式呈现。附带漫画示例。",
+                    "zh-hant": "一個簡單的、開源的日語擬聲詞和擬音詞聲音詞彙的JSON格式收集。附帶漫畫示例。"
+                }
             }
         },
         "Tutorial": {

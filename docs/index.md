@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [719件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [2035 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [720件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [2039 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,13 +17,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - BERTのファインチューニングによる固有表現抽出
+**Corpus**
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - JSON形式で収録された、シンプルでオープンソースな日本語の擬音語や擬態語のコレクション。マンガのサンプル付き。
 
-**Tutorial**
- * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論
-
-_Updated on Aug 05, 2025_
+_Updated on Aug 12, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1610,6 +1607,7 @@ AAAI21で発表された「Towards Fully Automated Manga Translation」論文で
  * [public-annotations](https://github.com/manga109/public-annotations) - Manga109データセットのさまざまな注釈
  * [gimei](https://github.com/willnet/gimei) - ランダムな日本人の名前と住所ジェネレーター
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 日本語言語モデルの安全性の振る舞いを評価するテストセット
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - JSON形式で収録された、シンプルでオープンソースな日本語の擬音語や擬態語のコレクション。マンガのサンプル付き。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1742,6 +1740,7 @@ AAAI21で発表された「Towards Fully Automated Manga Translation」論文で
 |[open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mantra-inc/open-mantra-dataset?style=social)|
 |[gimei](https://github.com/willnet/gimei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/willnet/gimei?style=social)|
 |[safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/safety-boundary-test?style=social)|
+|[j-ono-data](https://github.com/ObakeConstructs/j-ono-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ObakeConstructs/j-ono-data?style=social)|
 
 
 ## Tutorial

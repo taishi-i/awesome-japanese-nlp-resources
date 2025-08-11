@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了719个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2035个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了720个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2039个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,13 +18,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - BERT模型微调用于命名实体识别
+**Corpus**
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - 一个简单的、开源的日语拟声词和拟态词的收集，以JSON格式呈现。附带漫画示例。
 
-**Tutorial**
- * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年 立教大学研究生院 人工智能科学研究专业 自然语言处理专题
-
-_Updated on Aug 05, 2025_
+_Updated on Aug 12, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1018,6 +1015,7 @@ COMET-ATOMIC ja
  * [public-annotations](https://github.com/manga109/public-annotations) - Manga109数据集的各种注释
  * [gimei](https://github.com/willnet/gimei) - 随机日本姓名和地址生成器
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 评估日语语言模型安全性行为的测试集
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - 一个简单的、开源的日语拟声词和拟态词的收集，以JSON格式呈现。附带漫画示例。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

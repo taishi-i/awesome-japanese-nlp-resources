@@ -8,8 +8,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了719個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了2035個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了720個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了2039個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,13 +17,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - 透過BERT的微調進行專有名詞提取
+**Corpus**
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - 一個簡單的、開源的日語擬聲詞和擬音詞聲音詞彙的JSON格式收集。附帶漫畫示例。
 
-**Tutorial**
- * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大學大學院 人工智能科學研究科 自然語言處理特論
-
-_Updated on Aug 05, 2025_
+_Updated on Aug 12, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1025,6 +1022,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [public-annotations](https://github.com/manga109/public-annotations) - Manga109數據集的各種註釋
  * [gimei](https://github.com/willnet/gimei) - 隨機日本姓名和地址生成器
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 評估日語語言模型安全性行為的測試集
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - 一個簡單的、開源的日語擬聲詞和擬音詞聲音詞彙的JSON格式收集。附帶漫畫示例。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

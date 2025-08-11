@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [719 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2035 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [720 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2039 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,13 +18,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Python**
- * [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) - Named entity extraction using BERT fine-tuning
+**Corpus**
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - A simple, open-source collection of Japanese onomatopoeic and mimetic sound words in JSON format. With manga samples.
 
-**Tutorial**
- * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing
-
-_Updated on Aug 05, 2025_
+_Updated on Aug 12, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1006,6 +1003,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [public-annotations](https://github.com/manga109/public-annotations) - Various annotations of Manga109 dataset
  * [gimei](https://github.com/willnet/gimei) - random Japanese name and address generator
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - Test set to evaluate the safety behavior of Japanese language models
+ * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - A simple, open-source collection of Japanese onomatopoeic and mimetic sound words in JSON format. With manga samples.
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
