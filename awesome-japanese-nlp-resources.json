@@ -6281,6 +6281,18 @@
                     "zh-hans": "日语阿拉伯语词典（日本語・アラビア語辞書）约米坦",
                     "zh-hant": "日本語・アラビア語辞書 (Yomitan) قاموس اللغة اليابانية والعربية"
                 }
+            },
+            "https://github.com/makotoga/o-dic": {
+                "sub_category": null,
+                "repository_name": "o-dic",
+                "user_name": "makotoga",
+                "description": "沖縄辞書",
+                "multilingual_descriptions": {
+                    "en": "Okinawa Dictionary",
+                    "ja": "沖縄辞書",
+                    "zh-hans": "冲绳字典",
+                    "zh-hant": "沖繩辭書"
+                }
             }
         },
         "Corpus": {
