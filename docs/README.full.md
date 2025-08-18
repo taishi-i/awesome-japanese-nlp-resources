@@ -1298,6 +1298,7 @@ Resources
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - JapaneseArabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
+ * [o-dic](https://github.com/makotoga/o-dic) - 沖縄辞書
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1372,6 +1373,7 @@ Resources
 |[jinmei-dict](https://github.com/s1r-j/jinmei-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s1r-j/jinmei-dict?style=social)|
 |[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
 |[japanesearabic](https://github.com/a-hamdi/japanesearabic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/a-hamdi/japanesearabic?style=social)|
+|[o-dic](https://github.com/makotoga/o-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makotoga/o-dic?style=social)|
 
 
 ## Corpus
