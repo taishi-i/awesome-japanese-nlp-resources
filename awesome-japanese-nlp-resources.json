@@ -1454,6 +1454,18 @@
                     "zh-hant": "燕子項目 大規模語言模型 評估腳本"
                 }
             },
+            "https://github.com/swallow-llm/swallow-evaluation-instruct": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "swallow-evaluation-instruct",
+                "user_name": "swallow-llm",
+                "description": "Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク",
+                "multilingual_descriptions": {
+                    "en": "Swallow Project Post-learning Large-scale Language Model Evaluation Framework",
+                    "ja": "Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク",
+                    "zh-hans": "燕子项目 后续学习完成的大规模语言模型 评估框架",
+                    "zh-hant": "燕子項目 事後學習完成的大規模語言模型 評估框架"
+                }
+            },
             "https://github.com/rskmoi/namedivider-python": {
                 "sub_category": null,
                 "repository_name": "namedivider-python",
