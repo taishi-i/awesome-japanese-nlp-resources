@@ -6305,6 +6305,18 @@
                     "zh-hans": "冲绳字典",
                     "zh-hant": "沖繩辭書"
                 }
+            },
+            "https://github.com/uasi/skk-emoji-jisyo": {
+                "sub_category": null,
+                "repository_name": "skk-emoji-jisyo",
+                "user_name": "uasi",
+                "description": "SKK 絵文字辞書",
+                "multilingual_descriptions": {
+                    "en": "SKK Emoji Dictionary",
+                    "ja": "SKK 絵文字辞書",
+                    "zh-hans": "SKK表情符号词典",
+                    "zh-hant": "SKK 繪文字辭書"
+                }
             }
         },
         "Corpus": {

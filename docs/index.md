@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [722件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [2071 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [723件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [2079 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,10 +17,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク
+**Dictionary and IME**
+ * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
 
-_Updated on Aug 26, 2025_
+_Updated on Sep 02, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1313,6 +1313,7 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日本語アラビア語辞書（ヨミタン）
  * [o-dic](https://github.com/makotoga/o-dic) - 沖縄辞書
+ * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1388,6 +1389,7 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
 |[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
 |[japanesearabic](https://github.com/a-hamdi/japanesearabic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/a-hamdi/japanesearabic?style=social)|
 |[o-dic](https://github.com/makotoga/o-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makotoga/o-dic?style=social)|
+|[skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uasi/skk-emoji-jisyo?style=social)|
 
 
 ## Corpus

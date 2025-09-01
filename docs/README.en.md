@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [722 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2071 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [723 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2079 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,10 +18,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Python**
- * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - Swallow Project Post-learning Large-scale Language Model Evaluation Framework
+**Dictionary and IME**
+ * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK Emoji Dictionary
 
-_Updated on Aug 26, 2025_
+_Updated on Sep 02, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -816,6 +816,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - Violet - a completely offline Japanese keyboard app
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - Japanese-Arabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
  * [o-dic](https://github.com/makotoga/o-dic) - Okinawa Dictionary
+ * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK Emoji Dictionary
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
