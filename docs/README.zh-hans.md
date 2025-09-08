@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了723个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2079个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了724个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2087个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -18,10 +18,10 @@
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK表情符号词典
+**Corpus**
+ * [kanji](https://github.com/sylhare/kanji) - 要学习的日本汉字部首列表
 
-_Updated on Sep 02, 2025_
+_Updated on Sep 09, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1019,6 +1019,7 @@ COMET-ATOMIC ja
  * [gimei](https://github.com/willnet/gimei) - 随机日本姓名和地址生成器
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 评估日语语言模型安全性行为的测试集
  * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - 一个简单的、开源的日语拟声词和拟态词的收集，以JSON格式呈现。附带漫画示例。
+ * [kanji](https://github.com/sylhare/kanji) - 要学习的日本汉字部首列表
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

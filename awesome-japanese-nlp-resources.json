@@ -8227,6 +8227,18 @@
                     "zh-hans": "一个简单的、开源的日语拟声词和拟态词的收集，以JSON格式呈现。附带漫画示例。",
                     "zh-hant": "一個簡單的、開源的日語擬聲詞和擬音詞聲音詞彙的JSON格式收集。附帶漫畫示例。"
                 }
+            },
+            "https://github.com/sylhare/kanji": {
+                "sub_category": null,
+                "repository_name": "kanji",
+                "user_name": "sylhare",
+                "description": "List of japanese kanji radicals to learn",
+                "multilingual_descriptions": {
+                    "en": "List of Japanese Kanji Radicals to Learn",
+                    "ja": "学習すべき日本語の漢字部首のリスト",
+                    "zh-hans": "要学习的日本汉字部首列表",
+                    "zh-hant": "要學習的日本漢字部首列表"
+                }
             }
         },
         "Tutorial": {
