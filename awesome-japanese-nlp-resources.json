@@ -8577,6 +8577,18 @@
                     "zh-hans": "2024年 立教大学研究生院 人工智能科学研究专业 自然语言处理专题",
                     "zh-hant": "2024年度 立教大學大學院 人工智能科學研究科 自然語言處理特論"
                 }
+            },
+            "https://github.com/yoheikikuta/support-genai-book": {
+                "sub_category": null,
+                "repository_name": "support-genai-book",
+                "user_name": "yoheikikuta",
+                "description": "原論文から解き明かす生成AI（技術評論社）のサポートページです",
+                "multilingual_descriptions": {
+                    "en": "This is the support page for \"Generating AI Unraveled from the Original Paper\" (published by Gijutsu-Hyohron Co., Ltd.).",
+                    "ja": "原論文から解き明かす生成AI（技術評論社）のサポートページです",
+                    "zh-hans": "这是从原论文中解读出来的生成人工智能（技术评论社）的支持页面。",
+                    "zh-hant": "從原論文中揭示的生成人工智慧（技術評論社）的支援頁面。"
+                }
             }
         },
         "Research summary": {
