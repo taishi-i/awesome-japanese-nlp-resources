@@ -3678,6 +3678,18 @@
                     "zh-hant": "日本的地址分割成都道府県/市區町村/町名/其他的程式庫"
                 }
             },
+            "https://github.com/yosina-lib/yosina": {
+                "sub_category": "Converter",
+                "repository_name": "yosina",
+                "user_name": "yosina-lib",
+                "description": "",
+                "multilingual_descriptions": {
+                    "en": "Yosina is a transliteration library deals with the letters and symbols used in Japanese writing.",
+                    "ja": "Yosinaは、日本語の文章で使用される文字や記号を取り扱う転写ライブラリです。",
+                    "zh-hans": "Yosina是一个转译库，处理日本书写中使用的字母和符号。",
+                    "zh-hant": "Yosina 是一個處理日文書寫中使用的字母和符號的音譯庫。"
+                }
+            },
             "https://github.com/lindera-morphology/lindera-tantivy": {
                 "sub_category": "Search engine library",
                 "repository_name": "lindera-tantivy",
