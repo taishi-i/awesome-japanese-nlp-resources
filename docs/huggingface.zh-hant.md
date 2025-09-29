@@ -18,37 +18,23 @@ Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-n
 **Models**
 4 models have been added.
 
-- [mmnga/K2-Think-gguf](https://huggingface.co/mmnga/K2-Think-gguf)
-- [llm-jp/llm-jp-3-440m](https://huggingface.co/llm-jp/llm-jp-3-440m)
-- [Kotajiro/anzu-qwen-lora](https://huggingface.co/Kotajiro/anzu-qwen-lora)
-- [NandemoGHS/Anime-Llasa-3B](https://huggingface.co/NandemoGHS/Anime-Llasa-3B)
-
-
-**Datasets**
-9 datasets have been added.
-
-- [malaysia-ai/Emilia-YODAS-Voice-Conversion](https://huggingface.co/datasets/malaysia-ai/Emilia-YODAS-Voice-Conversion)
-- [sbintuitions/WildGuardTestJP](https://huggingface.co/datasets/sbintuitions/WildGuardTestJP)
-- [ce-lery/merged-corpus](https://huggingface.co/datasets/ce-lery/merged-corpus)
-- [Nexdata/200_Hours_Japanese_Spontaneous_Dialogue_Dataset_Smartphone_Multi-Stream_Audio](https://huggingface.co/datasets/Nexdata/200_Hours_Japanese_Spontaneous_Dialogue_Dataset_Smartphone_Multi-Stream_Audio)
-- [APTO-001/japanese-reasoning-dataset-sample](https://huggingface.co/datasets/APTO-001/japanese-reasoning-dataset-sample)
-- [kogi-jwu/sakuraeval](https://huggingface.co/datasets/kogi-jwu/sakuraeval)
-- [Taise228/SOBACO](https://huggingface.co/datasets/Taise228/SOBACO)
-- [amaurygau/ClipCJK_Gen](https://huggingface.co/datasets/amaurygau/ClipCJK_Gen)
-- [neoai-inc/Japanese-RAG-Generator-Benchmark](https://huggingface.co/datasets/neoai-inc/Japanese-RAG-Generator-Benchmark)
+- [prj-beatrice/japanese-hubert-base-phoneme-ctc-v3](https://huggingface.co/prj-beatrice/japanese-hubert-base-phoneme-ctc-v3)
+- [stockmark/Stockmark-2-100B-Instruct](https://huggingface.co/stockmark/Stockmark-2-100B-Instruct)
+- [dahara1/gemma-3-4b-it-qat-japanese-imatrix](https://huggingface.co/dahara1/gemma-3-4b-it-qat-japanese-imatrix)
+- [Aratako/Japanese-Novel-Reward-310m-v2](https://huggingface.co/Aratako/Japanese-Novel-Reward-310m-v2)
 
 
 ## Models
 
-This list is sorted by downloads as of September 23, 2025.
-1460 models are listed.
+This list is sorted by downloads as of September 29, 2025.
+1464 models are listed.
 
 - [tsmatz/xlm-roberta-ner-japanese](https://huggingface.co/tsmatz/xlm-roberta-ner-japanese)
   - 這個模型是 xlm-roberta-base 的微調版本（預先訓練的跨語言 RobertaModel），專門訓練以進行命名實體識別（NER）標記分類的工作。
   - Downloads: 895,827
 - [jonatasgrosman/wav2vec2-large-xlsr-53-japanese](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese)
   - 對於日語語音識別進行了微調的 XLSR-53 大型模型在日文上使用了 Common Voice 6.1、CSS10 和 JSUT 的訓練和驗證數據集來微調 facebook/wav2vec2-large-xlsr-53。使用這個模型時，確保您的語音輸入的採樣率為 16kHz。
-  - Downloads: 538,027
+  - Downloads: 509,119
 - [retrieva-jp/amber-large](https://huggingface.co/retrieva-jp/amber-large)
   - RetrievaEmbedding-01：琥珀（AMBER）AMBER（Adaptive Multitask Bilingual Embedding Representations）是由Retrieva, Inc.培訓的文本嵌入模型。
   - Downloads: 435,709
@@ -64,9 +50,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [tohoku-nlp/bert-base-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2)
   - BERT base日文（採用字元級別分詞並進行全詞遮罩，擁有jawiki-20200831模型）這是一個在日文文本上預先訓練的BERT模型。
   - Downloads: 161,563
-- [cl-nagoya/ruri-v3-310m](https://huggingface.co/cl-nagoya/ruri-v3-310m)
-  - Ruri：日文通用文本嵌入 Ruri v3 是建立在 ModernBERT-Ja 之上的通用日文文本嵌入模型。
-  - Downloads: 129,415
 - [tohoku-nlp/bert-base-japanese-char](https://huggingface.co/tohoku-nlp/bert-base-japanese-char)
   - 這是一個在日文文本上預先訓練的 BERT 基礎模型（採用字元分詞）。
   - Downloads: 127,312
@@ -75,7 +58,10 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 125,810
 - [kha-white/manga-ocr-base](https://huggingface.co/kha-white/manga-ocr-base)
   - Manga OCR 日文文本的光學字符識別，主要專注於日本漫畫。
-  - Downloads: 111,261
+  - Downloads: 112,222
+- [cl-nagoya/ruri-v3-310m](https://huggingface.co/cl-nagoya/ruri-v3-310m)
+  - Ruri：日文通用文本嵌入 Ruri v3 是建立在 ModernBERT-Ja 之上的通用日文文本嵌入模型。
+  - Downloads: 102,968
 - [rinna/japanese-clip-vit-b-16](https://huggingface.co/rinna/japanese-clip-vit-b-16)
   - 這是由rinna Co.訓練的日文CLIP（對比語言-圖像預訓練）模型。
   - Downloads: 82,097
@@ -88,9 +74,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [setu4993/LaBSE](https://huggingface.co/setu4993/LaBSE)
   - LaBSE 模型描述LaBSE（Language-agnostic BERT Sentence Encoder）是一種基於 BERT 的模型，用於 109 種語言的句子嵌入訓練。
   - Downloads: 55,519
-- [megagonlabs/transformers-ud-japanese-electra-base-ginza-510](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza-510)
-  - 這是在 mC4 中提取的約 2 億日文句子上進行預訓練的 ELECTRA 模型，並在 UD_Japanese_BCCWJ r2.8 上由 spaCy v3 進行了微調。基礎預訓練模型為 megagonlabs/transformers-ud-japanese-electra-base-discriminator。
-  - Downloads: 55,457
 - [hotchpotch/japanese-reranker-xsmall-v2](https://huggingface.co/hotchpotch/japanese-reranker-xsmall-v2)
   - hotchpotch/japanese-reranker-xsmall-v2 是一個非常小而快速的日文重新排序模型系列(v2)。
   - Downloads: 54,788
@@ -100,6 +83,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [staka/fugumt-ja-en](https://huggingface.co/staka/fugumt-ja-en)
   - FuguMT -> 河豚MT
   - Downloads: 52,451
+- [megagonlabs/transformers-ud-japanese-electra-base-ginza-510](https://huggingface.co/megagonlabs/transformers-ud-japanese-electra-base-ginza-510)
+  - 這是在 mC4 中提取的約 2 億日文句子上進行預訓練的 ELECTRA 模型，並在 UD_Japanese_BCCWJ r2.8 上由 spaCy v3 進行了微調。基礎預訓練模型為 megagonlabs/transformers-ud-japanese-electra-base-discriminator。
+  - Downloads: 48,322
 - [sonoisa/sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2)
   - 這是一個日文句子-BERT模型。
   - Downloads: 47,817
@@ -120,7 +106,7 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 40,810
 - [sonoisa/sentence-bert-base-ja-mean-tokens](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens)
   - 這是一個日本句子-BERT模型。
-  - Downloads: 37,805
+  - Downloads: 39,357
 - [ku-nlp/deberta-v2-base-japanese](https://huggingface.co/ku-nlp/deberta-v2-base-japanese)
   - 日本DeBERTa V2 baseModel的模型說明書
   - Downloads: 35,873
@@ -132,7 +118,7 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 33,123
 - [pfnet/plamo-2-translate](https://huggingface.co/pfnet/plamo-2-translate)
   - PLaMo翻譯模型是由Preferred Networks開發的針對翻譯專用的大規模語言模型。
-  - Downloads: 32,841
+  - Downloads: 27,559
 - [line-corporation/line-distilbert-base-japanese](https://huggingface.co/line-corporation/line-distilbert-base-japanese)
   - LINE DistilBERTLINE DistilBERT
   - Downloads: 27,021
@@ -184,15 +170,12 @@ This list is sorted by downloads as of September 23, 2025.
 - [tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1)
   - 我們的Swallow模型經過了來自Llama 3家族持續的預訓練，主要新增了日語資料。
   - Downloads: 12,397
-- [kotoba-tech/kotoba-whisper-v2.2](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.2)
-  - Kotoba-Whisper-v2.2是一款基於kotoba-tech/kotoba-whisper-v2.0的日文ASR模型，並將額外的後處理堆棧集成為流水線。
-  - Downloads: 12,387
 - [cl-nagoya/ruri-small](https://huggingface.co/cl-nagoya/ruri-small)
   - Ruri: 日文一般文本嵌入用法直接使用（句子轉換器）
   - Downloads: 11,754
-- [elyza/ELYZA-japanese-Llama-2-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-instruct)
-  - ELYZA-日本-美洲驼-2-7b 模型描述 ELYZA-日本-美洲驼-2-7b
-  - Downloads: 11,492
+- [kotoba-tech/kotoba-whisper-v2.2](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.2)
+  - Kotoba-Whisper-v2.2是一款基於kotoba-tech/kotoba-whisper-v2.0的日文ASR模型，並將額外的後處理堆棧集成為流水線。
+  - Downloads: 11,083
 - [tohoku-nlp/bert-base-japanese-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-v2)
   - BERT基本日語模型（使用unidic-lite與整詞遮蔽功能，jawiki-20200831）這是在日語文本上預訓練的BERT模型。
   - Downloads: 10,796
@@ -208,6 +191,12 @@ This list is sorted by downloads as of September 23, 2025.
 - [cl-nagoya/ruri-large](https://huggingface.co/cl-nagoya/ruri-large)
   - 瑠璃：日本將軍文本嵌入的使用方法（Sentence Transformers）
   - Downloads: 10,070
+- [rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)
+  - 這個存儲庫提供了一個擁有36億個參數的日文GPT-NeoX模型。
+  - Downloads: 9,831
+- [kotoba-tech/kotoba-whisper-v2.0](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0)
+  - 言語耳語（v2.0）
+  - Downloads: 9,810
 - [mmnga/Llama-3-70B-japanese-suzume-vector-v0.1](https://huggingface.co/mmnga/Llama-3-70B-japanese-suzume-vector-v0.1)
   - 模型ID實驗模型的模型卡片。
   - Downloads: 9,775
@@ -217,6 +206,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5)
   - Llama 3.1 Swallow - 使用Llama构建 Llama 3.1 Swallow 是一系列大语言模型（8B，70B），是通过在Meta Llama 3.1模型上持续预训练而创建的。
   - Downloads: 9,461
+- [elyza/ELYZA-japanese-Llama-2-7b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-instruct)
+  - ELYZA-日本-美洲驼-2-7b 模型描述 ELYZA-日本-美洲驼-2-7b
+  - Downloads: 8,974
 - [ku-nlp/deberta-v2-tiny-japanese](https://huggingface.co/ku-nlp/deberta-v2-tiny-japanese)
   - 這是一個日語 DeBERTa V2 迷你模型卡，預先在日本維基百科、CC-100 的日本部分以及 OSCAR 的日本部分上進行了預訓練。使用方法：您可以通過以下方式使用這個模型進行遮罩語言建模：from transformers import AutoTokenizer, AutoModelForMaskedLMtokenizer = AutoTokenizer.from_pretrained('ku-nlp/deberta-v2-tiny-japanese
   - Downloads: 8,583
@@ -226,9 +218,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [aixsatoshi/Meta-Llama-3.1-8B-Instruct-plus-Swallow](https://huggingface.co/aixsatoshi/Meta-Llama-3.1-8B-Instruct-plus-Swallow)
   - Swallow-8B是經過額外的日語持續預先學習的結果，使得它的日語非常流暢，是Llama-3的衍生模型。
   - Downloads: 8,064
-- [rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)
-  - 這個存儲庫提供了一個擁有36億個參數的日文GPT-NeoX模型。
-  - Downloads: 7,687
 - [elyza/ELYZA-japanese-Llama-2-13b-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-instruct)
   - ELYZA-japanese-Llama-2-13b模型說明ELYZA-japanese-Llama-2-13b 是基於Llama 2模型，進行了額外的預先學習以擴展日語能力的模型。
   - Downloads: 7,445
@@ -241,9 +230,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [llm-book/bert-base-japanese-v3-jsts](https://huggingface.co/llm-book/bert-base-japanese-v3-jsts)
   - "bert-base-japanese-v3-jsts" 是在《大規模言語モデル入門》第5章中介紹的（意義相似度計算）模型。
   - Downloads: 6,296
-- [reazon-research/reazonspeech-nemo-v2](https://huggingface.co/reazon-research/reazonspeech-nemo-v2)
-  - reazonspeech-nemo-v2 是一个在 ReazonSpeech v2.0 语料库上训练的自动语音识别模型。
-  - Downloads: 6,183
 - [hotchpotch/japanese-reranker-cross-encoder-small-v1](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-small-v1)
   - hotchpotch/japanese-reranker-cross-encoder-small-v1是使用日文進行訓練的重新排名器（CrossEncoder）系列。
   - Downloads: 6,056
@@ -258,7 +244,7 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 5,677
 - [Ultralytics/YOLO11](https://huggingface.co/Ultralytics/YOLO11)
   - Ultralytics YOLOv5 是一種尖端的先進模型，基於之前 YOLO 版本的成功，引入了新功能和改進，以進一步提高性能和靈活性。
-  - Downloads: 5,407
+  - Downloads: 5,629
 - [ku-nlp/deberta-v2-tiny-japanese-char-wwm](https://huggingface.co/ku-nlp/deberta-v2-tiny-japanese-char-wwm)
   - 這是一個日文 DeBERTa V2 迷你模型，使用日本維基百科、CC-100 的日文部分以及 OSCAR 的日文部分進行預訓練。此模型使用字符級切詞和整詞遮罩進行訓練。
   - Downloads: 5,311
@@ -283,6 +269,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/Llama-3.3-70B-Instruct-gguf](https://huggingface.co/mmnga/Llama-3.3-70B-Instruct-gguf)
   - Llama-3.3-70B-Instruct-gguf 是 meta-llama 公開的 Llama-3.3-70B-Instruct 的 gguf 格式轉換版。
   - Downloads: 4,835
+- [reazon-research/reazonspeech-nemo-v2](https://huggingface.co/reazon-research/reazonspeech-nemo-v2)
+  - reazonspeech-nemo-v2 是一个在 ReazonSpeech v2.0 语料库上训练的自动语音识别模型。
+  - Downloads: 4,734
 - [sbintuitions/sarashina2.2-3b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-3b-instruct-v0.1)
   - sbintuitions/sarashina2.2-3b-instruct-v0.1 模型摘要
   - Downloads: 4,651
@@ -291,10 +280,13 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 4,589
 - [sonoisa/t5-base-japanese](https://huggingface.co/sonoisa/t5-base-japanese)
   - 這是一個在日本語語料庫上預訓練的T5（Text-to-Text Transfer Transformer）模型。
-  - Downloads: 4,528
+  - Downloads: 4,456
 - [rinna/gemma-2-baku-2b](https://huggingface.co/rinna/gemma-2-baku-2b)
   - 金瑪 2 巴庫 2B (rinna/gemma-2-baku-2b)
   - Downloads: 4,384
+- [mmnga/K2-Think-gguf](https://huggingface.co/mmnga/K2-Think-gguf)
+  - K2-Think-gguf LLM360 提供了 K2-Think 的 gguf 格式轉換版。
+  - Downloads: 4,272
 - [rinna/japanese-gpt2-small](https://huggingface.co/rinna/japanese-gpt2-small)
   - 這個資料庫提供了一個小型的日文 GPT-2 模型。
   - Downloads: 4,256
@@ -304,24 +296,18 @@ This list is sorted by downloads as of September 23, 2025.
 - [llm-jp/llm-jp-3-172b-beta2-instruct2](https://huggingface.co/llm-jp/llm-jp-3-172b-beta2-instruct2)
   - 「LLM-jp-3 172B beta2」 使用條款 這些使用條款（以下稱為「本條款」）是由大學共同利用機構法人信息・系統研究機構國立信息學研究所（以下稱為「提供者」）按其開發成果公開的大規模語言模型「LLM-jp-3 172
   - Downloads: 4,219
+- [SkelterLabsInc/bert-base-japanese-jaquad](https://huggingface.co/SkelterLabsInc/bert-base-japanese-jaquad)
+  - 基於JaQuAD微調的日文問答模型。關於預訓練模型的詳細資訊，請參考BERT base Japanese。
+  - Downloads: 4,205
 - [mmnga/AXCXEPT-phi-4-deepseek-R1K-RL-EZO-gguf](https://huggingface.co/mmnga/AXCXEPT-phi-4-deepseek-R1K-RL-EZO-gguf)
   - AXCXEPT-phi-4-deepseek-R1K-RL-EZO-gguf 是 AXCXEPT 先生提供的 phi-4-deepseek-R1K-RL-EZO 的 gguf 格式轉換版本。
   - Downloads: 4,108
-- [mmnga/K2-Think-gguf](https://huggingface.co/mmnga/K2-Think-gguf)
-  - K2-Think-gguf LLM360 提供了 K2-Think 的 gguf 格式轉換版。
-  - Downloads: 4,028
 - [rinna/bilingual-gpt-neox-4b](https://huggingface.co/rinna/bilingual-gpt-neox-4b)
   - 這個存儲庫提供了一個擁有38億參數的英日雙語GPT-NeoX模型。
   - Downloads: 3,994
 - [reazon-research/japanese-wav2vec2-base-rs35kh](https://huggingface.co/reazon-research/japanese-wav2vec2-base-rs35kh)
   - 日語-wav2vec2-base-rs35kh 這個模型是在大型日語ASR語料庫ReazonSpeech v2.0上微調的wav2vec 2.0基礎模型。
   - Downloads: 3,939
-- [elyza/Llama-3-ELYZA-JP-8B-GGUF](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B-GGUF)
-  - Llama-3-ELYZA-JP-8B-GGUF模型描述Llama-3-ELYZA-JP-8B是由ELYZA公司訓練的大型語言模型。基於meta-llama/Meta-Llama-3-8B-Instruct，通過額外的預訓練和指導調整進行了進一步的強化，以供日文使用。
-  - Downloads: 3,923
-- [kotoba-tech/kotoba-whisper-v2.0](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0)
-  - 言語耳語（v2.0）
-  - Downloads: 3,874
 - [mmnga/deepseek-r1-distill-qwen2.5-bakeneko-32b-gguf](https://huggingface.co/mmnga/deepseek-r1-distill-qwen2.5-bakeneko-32b-gguf)
   - rinna小姐公開的deepseek-r1-distill-qwen2.5-bakeneko-32b的gguf格式轉換版。
   - Downloads: 3,795
@@ -337,15 +323,15 @@ This list is sorted by downloads as of September 23, 2025.
 - [sbintuitions/sarashina2.2-0.5b-instruct-v0.1](https://huggingface.co/sbintuitions/sarashina2.2-0.5b-instruct-v0.1)
   - sbintuitions/sarashina2.2-0.5b-instruct-v0.1  模型摘要
   - Downloads: 3,273
-- [line-corporation/japanese-large-lm-3.6b](https://huggingface.co/line-corporation/japanese-large-lm-3.6b)
-  - 這個資料庫提供一個由LINE公司訓練的擁有3.6B參數的日文語言模型。
-  - Downloads: 3,212
 - [rinna/youri-7b](https://huggingface.co/rinna/youri-7b)
   - 我們對 llama2-7b 不斷進行預訓練，使用了包含日語和英語資料集混合的 40B tokens。
   - Downloads: 3,036
 - [mmnga/Llama-3.1-70B-Japanese-Instruct-2407-gguf](https://huggingface.co/mmnga/Llama-3.1-70B-Japanese-Instruct-2407-gguf)
   - Llama-3.1-70B-Japanese-Instruct-2407-ggufcyberagent所發佈的Llama-3.1-70B-Japanese-Instruct-2407的gguf格式轉換版。
   - Downloads: 3,004
+- [elyza/Llama-3-ELYZA-JP-8B-GGUF](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B-GGUF)
+  - Llama-3-ELYZA-JP-8B-GGUF模型描述Llama-3-ELYZA-JP-8B是由ELYZA公司訓練的大型語言模型。基於meta-llama/Meta-Llama-3-8B-Instruct，通過額外的預訓練和指導調整進行了進一步的強化，以供日文使用。
+  - Downloads: 2,955
 - [classla/xlm-roberta-base-multilingual-text-genre-classifier](https://huggingface.co/classla/xlm-roberta-base-multilingual-text-genre-classifier)
   - X-GENRE 分類器 - 多語言文本風格分類器，基於 xlm-roberta-base 模型，並在三個風格數據集的組合上進行微調：斯洛維尼亞 GINCO 數據集（Kuzman 等人）。
   - Downloads: 2,946
@@ -397,9 +383,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [tokyotech-llm/Swallow-7b-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-instruct-hf)
   - Swallow我們的Swallow模型已經在Llama 2家族的持續預訓練中進行改進，主要是添加了日語數據。
   - Downloads: 2,647
-- [dartags/DanbotNL-2408-260M](https://huggingface.co/dartags/DanbotNL-2408-260M)
-  - DanbotNL 2408 260M 是一個翻譯機器人，能將自然語言翻譯成Danbooru標籤。
-  - Downloads: 2,639
 - [tokyotech-llm/Swallow-70b-instruct-hf](https://huggingface.co/tokyotech-llm/Swallow-70b-instruct-hf)
   - 燕子 我們的燕子模型已經不斷從Llama 2家族中接受預訓練，主要是通過添加日語數據。
   - Downloads: 2,606
@@ -418,6 +401,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.2](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.2)
   - 3.1 駱馬吞嚥 - 基於駱馬構建 3.1 駱馬吞嚥是一系列大型語言模型（8B, 70B），通過對 Meta 駱馬 3.1 模型進行持續預訓練而構建。
   - Downloads: 2,505
+- [line-corporation/japanese-large-lm-3.6b](https://huggingface.co/line-corporation/japanese-large-lm-3.6b)
+  - 這個資料庫提供一個由LINE公司訓練的擁有3.6B參數的日文語言模型。
+  - Downloads: 2,490
 - [stabilityai/japanese-stablelm-instruct-beta-70b](https://huggingface.co/stabilityai/japanese-stablelm-instruct-beta-70b)
   - 日本-StableLM-Instruct-Beta-70B這個可愛的機器人穿著和服，用一支筆書寫書法——Stable Diffusion XLModel 說明japanese-stablelm-instruct-beta-70b 是一個具有 70B 個參數的僅解碼語言模型，基於日本-StableLM-Base-Beta-70B，並在 Databricks Dolly-15k、Anthropic HH 和其他
   - Downloads: 2,488
@@ -430,6 +416,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [cyberagent/open-calm-large](https://huggingface.co/cyberagent/open-calm-large)
   - OpenCALM-Large模型介紹OpenCALM是一套僅解碼器的語言模型套件，是在日本數據集上預先訓練的，由開發。
   - Downloads: 2,462
+- [kotoba-tech/kotoba-whisper-bilingual-v1.0](https://huggingface.co/kotoba-tech/kotoba-whisper-bilingual-v1.0)
+  - 言葉-Whisper-雙語（v1.0）
+  - Downloads: 2,443
 - [stabilityai/japanese-stablelm-base-beta-70b](https://huggingface.co/stabilityai/japanese-stablelm-base-beta-70b)
   - 日本穩定語言模型基礎版Beta-70B一隻穿着和服的可愛機器人以一支筆書寫書法 — 穩定擴散XL模型描述japanese-stablelm-base-beta-70b 是一個擁有70億參數的僅解碼語言模型，以Llama-2-70b為基礎，在各種日語資料上
   - Downloads: 2,443
@@ -460,9 +449,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [Rakuten/RakutenAI-7B-chat](https://huggingface.co/Rakuten/RakutenAI-7B-chat)
   - 樂天AI-7B-聊天模型描述 樂天AI-7B是一個系統性的計劃，將最新技術引入日本LLM世界。
   - Downloads: 2,275
-- [SkelterLabsInc/bert-base-japanese-jaquad](https://huggingface.co/SkelterLabsInc/bert-base-japanese-jaquad)
-  - 基於JaQuAD微調的日文問答模型。關於預訓練模型的詳細資訊，請參考BERT base Japanese。
-  - Downloads: 2,260
+- [sbintuitions/sarashina-embedding-v2-1b](https://huggingface.co/sbintuitions/sarashina-embedding-v2-1b)
+  - Sarashina-Embedding-v2-1B 日本語的說明文件 "Sarashina-Embedding-v2-1B" 是一個基於日本語 LLM "Sarashina2.2-1B" 的日本語文本嵌入模型。
+  - Downloads: 2,273
 - [cyberagent/Llama-3.1-70B-Japanese-Instruct-2407](https://huggingface.co/cyberagent/Llama-3.1-70B-Japanese-Instruct-2407)
   - Llama-3.1-70B-Japanese-Instruct-2407模型描述：這是基於meta-llama/Meta-Llama-3.1-70B-Instruct的日本持續預訓練模型。
   - Downloads: 2,250
@@ -487,9 +476,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [izumi-lab/deberta-v2-base-japanese](https://huggingface.co/izumi-lab/deberta-v2-base-japanese)
   - 這是一個在日本文本上預訓練的DeBERTaV2模型。
   - Downloads: 2,167
-- [sbintuitions/sarashina-embedding-v2-1b](https://huggingface.co/sbintuitions/sarashina-embedding-v2-1b)
-  - Sarashina-Embedding-v2-1B 日本語的說明文件 "Sarashina-Embedding-v2-1B" 是一個基於日本語 LLM "Sarashina2.2-1B" 的日本語文本嵌入模型。
-  - Downloads: 2,164
 - [stockmark/stockmark-13b](https://huggingface.co/stockmark/stockmark-13b)
   - Stockmark-13b是一個具有130億個參數的LLM，是基於約2200億個標記的日文語料庫從頭訓練而成的。
   - Downloads: 2,132
@@ -520,9 +506,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [cyberagent/open-calm-1b](https://huggingface.co/cyberagent/open-calm-1b)
   - OpenCALM-1B模型描述OpenCALM是由CyberAgent, Inc.开发的一系列仅解码器语言模型，预先在日本数据集上进行训练。
   - Downloads: 2,000
-- [tokyotech-llm/Llama-3.3-Swallow-70B-v0.4](https://huggingface.co/tokyotech-llm/Llama-3.3-Swallow-70B-v0.4)
-  - 3.3燕駝 - 使用燕駝建造 3.3燕駝是一個大型語言模型（70B），通過對 Meta 燕駝 3.3 模型進行持續預訓練來建造。
-  - Downloads: 1,967
 - [Rakuten/RakutenAI-2.0-8x7B-instruct](https://huggingface.co/Rakuten/RakutenAI-2.0-8x7B-instruct)
   - 樂天AI-2.0-8x7B-instruct 模型描述 樂天AI-2.0-8x7B-instruct 是樂天AI-2.0-8x7B 的加強變種，旨在突破日語大型語言模型（LLMs）的極限。
   - Downloads: 1,950
@@ -550,9 +533,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [rinna/japanese-gpt-neox-3.6b-instruction-ppo](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-ppo)
   - 這個資料庫提供了一個擁有36億參數的日語GPT-NeoX模型。
   - Downloads: 1,842
-- [kotoba-tech/kotoba-whisper-bilingual-v1.0](https://huggingface.co/kotoba-tech/kotoba-whisper-bilingual-v1.0)
-  - 言葉-Whisper-雙語（v1.0）
-  - Downloads: 1,828
 - [tokyotech-llm/Llama-3.1-Swallow-8B-v0.5](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-v0.5)
   - Llama 3.1 Swallow v0.5 - 使用 Llama 构建 Llama 3.1 Swallow v0.5 是一个庞大的语言模型（8B），通过对 Meta Llama 3.1 模型进行持续预训练而建立的。
   - Downloads: 1,771
@@ -595,6 +575,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [Aratako/Qwen3-30B-A3B-ERP-v0.1-GGUF](https://huggingface.co/Aratako/Qwen3-30B-A3B-ERP-v0.1-GGUF)
   - Qwen3-30B-A3B-ERP-v0.1-GGUF 是 Aratako/Qwen3-30B-A3B-ERP-v0.1 的GGUF量子化模型。
   - Downloads: 1,634
+- [mmnga/plamo-2-translate-gguf](https://huggingface.co/mmnga/plamo-2-translate-gguf)
+  - plamo-2-translate-gguf pfnet 公開的 plamo-2-translate 的 gguf 格式轉換版本。
+  - Downloads: 1,625
 - [line-corporation/japanese-large-lm-1.7b-instruction-sft](https://huggingface.co/line-corporation/japanese-large-lm-1.7b-instruction-sft)
   - 這個存儲庫提供了一個由 LINE 公司進行微調和訓練的包含 17 億參數的日語語言模型。
   - Downloads: 1,619
@@ -604,6 +587,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [dahara1/gemma-3-12b-it-qat-japanese-imatrix](https://huggingface.co/dahara1/gemma-3-12b-it-qat-japanese-imatrix)
   - 這是使用包含大量日文的imatrix對 google/gemma-3-12b-it-qat-q4_0-unquantized 進行量子化的模型。
   - Downloads: 1,587
+- [colorfulscoop/sbert-base-ja](https://huggingface.co/colorfulscoop/sbert-base-ja)
+  - 這個資料庫包含了一個針對日文的基礎句子BERT模型。
+  - Downloads: 1,586
 - [nlp-waseda/roberta_jtruthfulqa](https://huggingface.co/nlp-waseda/roberta_jtruthfulqa)
   - 對Waseda RoBERTa進行微調，以評估在JTruthfulQA上生成的答案。
   - Downloads: 1,586
@@ -685,6 +671,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [llm-jp/llm-jp-13b-instruct-full-dolly_en-dolly_ja-ichikara_003_001-oasst_en-oasst_ja-v1.1](https://huggingface.co/llm-jp/llm-jp-13b-instruct-full-dolly_en-dolly_ja-ichikara_003_001-oasst_en-oasst_ja-v1.1)
   - llm-jp-13b-instruct-full-dolly_en-dolly_ja-ichikara_003_001-oasst_en-oasst_ja-v1.1翻譯為：llm-jp-13b-instruct-full-dolly_en-dolly_ja-ichikara_003_001-oasst_en-oasst_ja-v1.1
   - Downloads: 1,468
+- [tokyotech-llm/Llama-3.3-Swallow-70B-v0.4](https://huggingface.co/tokyotech-llm/Llama-3.3-Swallow-70B-v0.4)
+  - 3.3燕駝 - 使用燕駝建造 3.3燕駝是一個大型語言模型（70B），通過對 Meta 燕駝 3.3 模型進行持續預訓練來建造。
+  - Downloads: 1,458
 - [rinna/bilingual-gpt-neox-4b-instruction-ppo](https://huggingface.co/rinna/bilingual-gpt-neox-4b-instruction-ppo)
   - 這個存儲庫提供了一個擁有38億參數的英日雙語GPT-NeoX模型。
   - Downloads: 1,453
@@ -700,9 +689,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [stockmark/stockmark-13b-instruct](https://huggingface.co/stockmark/stockmark-13b-instruct)
   - Stockmark-13b-instruct 是 Stockmark-13b 的指令調整版，是一個擁有 130 億個參數的日本語大型語言模型。
   - Downloads: 1,438
-- [stockmark/stockmark-100b](https://huggingface.co/stockmark/stockmark-100b)
-  - Stockmark-100b 是基於約 9100 億令牌的日語和英語語料庫從零開始預先訓練的 1000 億參數 LLM。
-  - Downloads: 1,434
 - [Kotajiro/fuduki_mix](https://huggingface.co/Kotajiro/fuduki_mix)
   - 本模型在「CreativeML Open RAIL++-M」的範圍內授權。
   - Downloads: 1,431
@@ -715,6 +701,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [tokyotech-llm/Swallow-7b-plus-hf](https://huggingface.co/tokyotech-llm/Swallow-7b-plus-hf)
   - 燕子我们的燕子模型已经经历了持续的Llama 2家族的预训练，主要是通过添加日语数据。
   - Downloads: 1,423
+- [stockmark/stockmark-100b](https://huggingface.co/stockmark/stockmark-100b)
+  - Stockmark-100b 是基於約 9100 億令牌的日語和英語語料庫從零開始預先訓練的 1000 億參數 LLM。
+  - Downloads: 1,419
 - [llm-jp/llm-jp-3-13b-instruct](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct)
   - 這個資料庫提供了由日本國立情報學研究所大型語言模型研發中心開發的大型語言模型。
   - Downloads: 1,418
@@ -723,9 +712,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 1,411
 - [kit-nlp/bert-base-japanese-sentiment-irony](https://huggingface.co/kit-nlp/bert-base-japanese-sentiment-irony)
   - 這是一個針對日本語進行情感分析的 BERT Base 模型，此外還進行了微調以自動檢測諷刺。
-  - Downloads: 1,410
-- [colorfulscoop/sbert-base-ja](https://huggingface.co/colorfulscoop/sbert-base-ja)
-  - 這個資料庫包含了一個針對日文的基礎句子BERT模型。
   - Downloads: 1,410
 - [tokyotech-llm/Swallow-13b-hf](https://huggingface.co/tokyotech-llm/Swallow-13b-hf)
   - 燕子 我們的燕子模型一直受到來自Llama 2家族的持續預訓練，主要是通過添加日語數據。
@@ -775,9 +761,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [abeja/gpt2-large-japanese](https://huggingface.co/abeja/gpt2-large-japanese)
   - 這個存儲庫提供了一個大型的日文GPT-2模型。
   - Downloads: 1,290
-- [OrionStarAI/Orion-14B-Base](https://huggingface.co/OrionStarAI/Orion-14B-Base)
-  - 獵戶座14B🌐英文 | 🇨🇳中文 | 🇯🇵日文 | 🇰🇷韓文🤗
-  - Downloads: 1,276
 - [Rakuten/RakutenAI-7B-instruct](https://huggingface.co/Rakuten/RakutenAI-7B-instruct)
   - 樂天AI-7B-instruct 模型描述 樂天AI-7B是一個系統性的計畫，將最新技術引入日本LLM世界。
   - Downloads: 1,258
@@ -793,6 +776,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3)
   - Llama 3.1 Swallow - 以Llama构建 Llama 3.1 Swallow 是一系列大型语言模型（8B，70B），通过在Meta Llama 3.1模型上持续预训练而构建。
   - Downloads: 1,232
+- [NandemoGHS/Anime-Llasa-3B](https://huggingface.co/NandemoGHS/Anime-Llasa-3B)
+  - 動畫-Llasa-3B 概觀 這是動畫-Llasa-3B，一個針對日語微調的文本轉語音（TTS）模型。
+  - Downloads: 1,223
 - [tohoku-nlp/bert-base-japanese-char-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-whole-word-masking)
   - 這是在日文文字上預先訓練的BERT基礎模型（使用字符分詞，啟用了全詞遮罩）。
   - Downloads: 1,217
@@ -832,18 +818,15 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/ABEJA-QwQ32b-Reasoning-Japanese-v1.0-gguf](https://huggingface.co/mmnga/ABEJA-QwQ32b-Reasoning-Japanese-v1.0-gguf)
   - ABEJA-QwQ32b-Reasoning-Japanese-v1.0-gguf 是由 Abeja 公開的 ABEJA-QwQ32b-Reasoning-Japanese-v1.0 的 gguf 格式轉換版。
   - Downloads: 1,112
-- [mmnga/plamo-2-translate-gguf](https://huggingface.co/mmnga/plamo-2-translate-gguf)
-  - plamo-2-translate-gguf pfnet 公開的 plamo-2-translate 的 gguf 格式轉換版本。
-  - Downloads: 1,108
 - [shisa-ai/shisa-v2-qwen2.5-32b](https://huggingface.co/shisa-ai/shisa-v2-qwen2.5-32b)
   - 獅子狗V2是一個包含雙語日語和英語（JA/EN）的產品系列。
   - Downloads: 1,107
 - [2121-8/canary-tts-0.5b](https://huggingface.co/2121-8/canary-tts-0.5b)
   - 這是基於 Canary-TTS-0.5B sarashina2.2‑0.5b‑instruct‑v0.1 的 TTS 模型。
   - Downloads: 1,105
-- [colorfulscoop/gpt2-small-ja](https://huggingface.co/colorfulscoop/gpt2-small-ja)
-  - GPT-2小型日文模型這個存儲庫包含了在日文維基百科數據集上訓練的GPT2-small模型。
-  - Downloads: 1,096
+- [OrionStarAI/Orion-14B-Base](https://huggingface.co/OrionStarAI/Orion-14B-Base)
+  - 獵戶座14B🌐英文 | 🇨🇳中文 | 🇯🇵日文 | 🇰🇷韓文🤗
+  - Downloads: 1,099
 - [nlp-waseda/gpt2-small-japanese](https://huggingface.co/nlp-waseda/gpt2-small-japanese)
   - 該模型是日文 GPT-2，在日文維基百科和 CC-100 上預訓練。預期用途和限制您可以使用原始模型進行文本生成，或對其進行微調以進行下游任務。
   - Downloads: 1,094
@@ -895,6 +878,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/Llama-3-ELYZA-JP-8B-gguf](https://huggingface.co/mmnga/Llama-3-ELYZA-JP-8B-gguf)
   - Llama-3-ELYZA-JP-8B-ggufelyza所公開的Llama-3-ELYZA-JP-8B的gguf格式轉換版本。
   - Downloads: 1,008
+- [colorfulscoop/gpt2-small-ja](https://huggingface.co/colorfulscoop/gpt2-small-ja)
+  - GPT-2小型日文模型這個存儲庫包含了在日文維基百科數據集上訓練的GPT2-small模型。
+  - Downloads: 999
 - [llm-jp/llm-jp-3-13b-instruct3](https://huggingface.co/llm-jp/llm-jp-3-13b-instruct3)
   - LLM-jp-3-13b-instruct3 LLM-jp-3 是由國立情報學研究所大型語言模型研發中心開發的一系列大型語言模型。
   - Downloads: 999
@@ -1006,6 +992,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/r1-1776-distill-llama-70b-gguf](https://huggingface.co/mmnga/r1-1776-distill-llama-70b-gguf)
   - r1-1776-distill-llama-70b-gguf perplexity-ai has released the gguf format conversion version of r1-1776-distill-llama-70b that they have published.
   - Downloads: 754
+- [nlp-waseda/roberta-base-japanese](https://huggingface.co/nlp-waseda/roberta-base-japanese)
+  - 這是一個在日文維基百科和CC-100日文部分預訓練的日語RoBERTa基本模型。如何使用：您可以按照以下步驟使用這個模型進行遮罩語言建模：pythonfrom transformers import AutoTokenizer, AutoModelForMaskedLMtokenizer = AutoTokenizer.from_pretrained("nlp-waseda/roberta-base-japanese")
+  - Downloads: 749
 - [cardiffnlp/tweet-topic-large-multilingual](https://huggingface.co/cardiffnlp/tweet-topic-large-multilingual)
   - 這個模型基於 cardiffnlp/twitter-xlm-roberta-large-2022 語言模型，並進行了微調，用於英語、西班牙語、日語和希臘語的多標籤主題分類。
   - Downloads: 745
@@ -1018,6 +1007,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [Aratako/calm3-22b-RP-GGUF](https://huggingface.co/Aratako/calm3-22b-RP-GGUF)
   - calm3-22b-RP-GGUF 概要這是Aratako/calm3-22b-RP的量子化完成版GGUF。
   - Downloads: 731
+- [LiquidAI/LFM2-350M-ENJP-MT](https://huggingface.co/LiquidAI/LFM2-350M-ENJP-MT)
+  - 遊樂場 Leap LFM2-350M-ENJP-MT 根據 LFM2-350M 模型，此檢查點經過微調，用於近實時的短至中長文本雙向日英翻譯。
+  - Downloads: 730
 - [QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF](https://huggingface.co/QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF)
   - QuantFactory/Mistral-Nemo-Japanese-Instruct-2408-GGUF 這是使用 llama.cpp 創建的 cyberagent/Mistral-Nemo-Japanese-Instruct-2408 的量子化版本。原始模型卡 Mistral-Nemo-Japanese-Instruct-2408 模型描述。
   - Downloads: 727
@@ -1036,6 +1028,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [taishi-i/nagisa_bert](https://huggingface.co/taishi-i/nagisa_bert)
   - 針對nagisa的BERT模型。
   - Downloads: 717
+- [dartags/DanbotNL-2408-260M](https://huggingface.co/dartags/DanbotNL-2408-260M)
+  - DanbotNL 2408 260M 是一個翻譯機器人，能將自然語言翻譯成Danbooru標籤。
+  - Downloads: 715
 - [hotchpotch/japanese-reranker-base-v2](https://huggingface.co/hotchpotch/japanese-reranker-base-v2)
   - hotchpotch/japanese-reranker-base-v2 是日語重新排序基礎模型系列(v2)。
   - Downloads: 715
@@ -1171,9 +1166,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/tokyotech-llm-Swallow-13b-instruct-v0.1-gguf](https://huggingface.co/mmnga/tokyotech-llm-Swallow-13b-instruct-v0.1-gguf)
   - 東工大-LLM-Swallow-13b-instruct-v0.1-gguf東工大-LLM先生公開了Swallow-13b-instruct-v0.1的gguf格式轉換版。
   - Downloads: 541
-- [nlp-waseda/roberta-base-japanese](https://huggingface.co/nlp-waseda/roberta-base-japanese)
-  - 這是一個在日文維基百科和CC-100日文部分預訓練的日語RoBERTa基本模型。如何使用：您可以按照以下步驟使用這個模型進行遮罩語言建模：pythonfrom transformers import AutoTokenizer, AutoModelForMaskedLMtokenizer = AutoTokenizer.from_pretrained("nlp-waseda/roberta-base-japanese")
-  - Downloads: 541
 - [tsmatz/mt5_summarize_japanese](https://huggingface.co/tsmatz/mt5_summarize_japanese)
   - 這個模型是針對日本語摘要訓練的 google/mt5-small 的微調版本。
   - Downloads: 539
@@ -1201,9 +1193,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/pfnet-Llama3-Preferred-MedSwallow-70B-gguf](https://huggingface.co/mmnga/pfnet-Llama3-Preferred-MedSwallow-70B-gguf)
   - pfnet-Llama3-Preferred-MedSwallow-70B-ggufpfnet在公開的Llama3-Preferred-MedSwallow-70B的gguf格式轉換版本。
   - Downloads: 503
-- [LiquidAI/LFM2-350M-ENJP-MT](https://huggingface.co/LiquidAI/LFM2-350M-ENJP-MT)
-  - 遊樂場 Leap LFM2-350M-ENJP-MT 根據 LFM2-350M 模型，此檢查點經過微調，用於近實時的短至中長文本雙向日英翻譯。
-  - Downloads: 500
 - [mmnga/sarashina2.2-3b-instruct-v0.1-gguf](https://huggingface.co/mmnga/sarashina2.2-3b-instruct-v0.1-gguf)
   - sarashina2.2-3b-instruct-v0.1-gguf sbintuitions 先生發佈了 sarashina2.2-3b-instruct-v0.1 的 gguf 格式轉換版。
   - Downloads: 500
@@ -1213,9 +1202,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/HODACHI-Borea-Phi-3.5-mini-Instruct-Jp-gguf](https://huggingface.co/mmnga/HODACHI-Borea-Phi-3.5-mini-Instruct-Jp-gguf)
   - HODACHI-Borea-Phi-3.5-mini-Instruct-Jp-gguf是由HODACHI公開的Borea-Phi-3.5-mini-Instruct-Jp的gguf格式轉換版本。
   - Downloads: 498
-- [tohoku-nlp/bert-large-japanese](https://huggingface.co/tohoku-nlp/bert-large-japanese)
-  - BERT 大型日語模型（採用unidic-lite全詞遮罩，jawiki-20200831）這是一個在日語文本上預先訓練的BERT模型。
-  - Downloads: 495
+- [Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition](https://huggingface.co/Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition)
+  - 這僅限（私人）演示使用。
+  - Downloads: 491
 - [pfnet/plamo-13b-instruct-nc](https://huggingface.co/pfnet/plamo-13b-instruct-nc)
   - PLaMo-13B-Instruct-NC模型描述PLaMo-13B-Instruct-NC是一個非商業指示微調模型，建立在PLaMo-13B文本生成模型的8192上下文長度版本之上。
   - Downloads: 491
@@ -1291,6 +1280,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/datagemma-rag-27b-it-gguf](https://huggingface.co/mmnga/datagemma-rag-27b-it-gguf)
   - datagemma-rag-27b-it-gguf 是谷歌公開的 datagemma-rag-27b-it 的 gguf 格式轉換版。
   - Downloads: 424
+- [tohoku-nlp/bert-large-japanese](https://huggingface.co/tohoku-nlp/bert-large-japanese)
+  - BERT 大型日語模型（採用unidic-lite全詞遮罩，jawiki-20200831）這是一個在日語文本上預先訓練的BERT模型。
+  - Downloads: 422
 - [ku-nlp/deberta-v2-large-japanese](https://huggingface.co/ku-nlp/deberta-v2-large-japanese)
   - 日文 DeBERTa V2 大型模型的模型卡片模型描述此為在日文維基百科、CC-100 日文部分以及 OSCAR 日文部分上預訓練的日文 DeBERTa V2 大型模型。如何使用您可以像下面這樣使用此模型進行遮蔽語言建模：from transformers import AutoTokenizer, AutoModelForMaskedLMtokenizer = AutoTokenizer.from_pretrained('ku-nlp/de
   - Downloads: 421
@@ -1330,9 +1322,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [alfredplpl/gemma-2-2b-jpn-it-gguf](https://huggingface.co/alfredplpl/gemma-2-2b-jpn-it-gguf)
   - 模型卡 - gemma-2-2b-jpn-it-gguf 這是Google公司的gemma-2-2b-jpn-it量子化版本。
   - Downloads: 390
-- [Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition](https://huggingface.co/Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition)
-  - 這僅限（私人）演示使用。
-  - Downloads: 389
 - [elyza/ELYZA-japanese-CodeLlama-7b](https://huggingface.co/elyza/ELYZA-japanese-CodeLlama-7b)
   - ELYZA-japanese-CodeLlama-7b 模型描述ELYZA-japanese-CodeLlama-7b 是基於 Code Llama 模型，為了擴展日語能力而進行了額外的預訓練的模型。
   - Downloads: 381
@@ -1348,9 +1337,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [sbintuitions/modernbert-ja-70m](https://huggingface.co/sbintuitions/modernbert-ja-70m)
   - ModernBERT-Ja-70M 這個存儲庫提供了由SB Intuitions訓練的日本現代BERT。
   - Downloads: 366
-- [r-g2-2024/Llama-3.1-70B-Instruct-multimodal-JP-Graph-v0.1](https://huggingface.co/r-g2-2024/Llama-3.1-70B-Instruct-multimodal-JP-Graph-v0.1)
-  - Llama-3.1-70B-Instruct-multimodal-JP-Graph - 由 Llama 創建 Llama-3.1-70B-Instruct-multimodal-JP-Graph 是一個日本大視覺語言模型。
-  - Downloads: 364
 - [QuantFactory/Llama3.1-ArrowSE-v0.4-GGUF](https://huggingface.co/QuantFactory/Llama3.1-ArrowSE-v0.4-GGUF)
   - QuantFactory/Llama3.1-ArrowSE-v0.4-GGUF這是使用llama.cpp創建的DataPilot/Llama3.1-ArrowSE-v0.4的量化版本原始模型卡摘要。這個模型是基於llama3.1-8B-instruct，在Mergekit和Fine-tuning的幫助下，旨在提高其日本性能而創建的。
   - Downloads: 354
@@ -1423,9 +1409,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [mradermacher/DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Japanese-GGUF)
   - 關於 https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese 模型的靜態量化權重/矩陣似乎目前（由我）無法取得。
   - Downloads: 309
-- [izumi-lab/bert-small-japanese](https://huggingface.co/izumi-lab/bert-small-japanese)
-  - 這是一個在日語文本上預訓練的小型 BERT 模型。
-  - Downloads: 305
 - [TFMC/Japanese-Starling-ChatV-7B-GGUF](https://huggingface.co/TFMC/Japanese-Starling-ChatV-7B-GGUF)
   - "Japanese-Starling-ChatV-7B-GGUFGGUF" 譯作 "日本寿带鸟-聊天V-7B"。"Japanese-Starling-ChatV-7B" 是一款日本聊天模型，建立在 "chatntq-ja-7b-v1.0" 之上，最初基于 Mistral-7B-v0.1。我將從 "Starling-LM-7B-beta" 的權重中減去 Mistral-7B-v0.
   - Downloads: 299
@@ -1486,8 +1469,8 @@ This list is sorted by downloads as of September 23, 2025.
 - [weblab-GENIAC/Tanuki-8x8B-dpo-v1.0](https://huggingface.co/weblab-GENIAC/Tanuki-8x8B-dpo-v1.0)
   - 狸-8x8B-dpo-v1.0 模型說明：狸-8x8B是一個大規模的語言模型，是通過全新的方式預先訓練了約1.7T token的8x8B參數（總參數約47B，活躍參數約13B）。
   - Downloads: 258
-- [sonoisa/vl-t5-base-japanese](https://huggingface.co/sonoisa/vl-t5-base-japanese)
-  - 這是一個在日本語語料庫上預先學習的 VL-T5（通過文本生成統一視覺與語言任務）模型。
+- [izumi-lab/bert-small-japanese](https://huggingface.co/izumi-lab/bert-small-japanese)
+  - 這是一個在日語文本上預訓練的小型 BERT 模型。
   - Downloads: 256
 - [mradermacher/Japanese-Receipt-VL-3B-JSON-GGUF](https://huggingface.co/mradermacher/Japanese-Receipt-VL-3B-JSON-GGUF)
   - 關於 https://huggingface.co/sabaridsnfuji/Japanese-Receipt-VL-3B-JSON 的靜態量化資訊。欲獲得方便的總覽和下載清單，請前往我們的模型頁面查看此模型。
@@ -1516,6 +1499,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/llm-jp-3.1-13b-instruct4-gguf](https://huggingface.co/mmnga/llm-jp-3.1-13b-instruct4-gguf)
   - llm-jp-3.1-13b-instruct4-gguf 是由 llm-jp 公開的 llm-jp-3.1-13b-instruct4 的 gguf 格式轉換版本。
   - Downloads: 236
+- [megagonlabs/t5-base-japanese-web](https://huggingface.co/megagonlabs/t5-base-japanese-web)
+  - t5-base-japanese-web（带有Byte-fallback，32K）描述megagonlabs/t5-base-japanese-web是预先在日本网络文本上进行训练的T5（文本到文本转换转换器）模型。
+  - Downloads: 234
 - [webbigdata/VoiceCore](https://huggingface.co/webbigdata/VoiceCore)
   - VoiceCore - 次世代 日本語語音 AI 代理模型
   - Downloads: 231
@@ -1654,12 +1640,12 @@ This list is sorted by downloads as of September 23, 2025.
 - [vumichien/wav2vec2-large-xlsr-japanese](https://huggingface.co/vumichien/wav2vec2-large-xlsr-japanese)
   - 將 facebook/wav2vec2-large-xlsr-53 以 Common Voice 及 University of Tokyo JSUT 的 Saruwatari-lab 日文語音語料庫進行微調，獲得 Wav2Vec2-Large-XLSR-53-JapaneseFine-tuned 模型。請使用此模型時，確保輸入的語音樣本採樣頻率為 16kHz。
   - Downloads: 172
-- [megagonlabs/t5-base-japanese-web](https://huggingface.co/megagonlabs/t5-base-japanese-web)
-  - t5-base-japanese-web（带有Byte-fallback，32K）描述megagonlabs/t5-base-japanese-web是预先在日本网络文本上进行训练的T5（文本到文本转换转换器）模型。
-  - Downloads: 172
 - [mmnga/Llama-3.1-70B-Instruct-gguf](https://huggingface.co/mmnga/Llama-3.1-70B-Instruct-gguf)
   - Llama-3.1-70B-Instruct-ggufmeta-這是由llamaさん公開的Meta-Llama-3.1-70B-Instruct的gguf格式轉換版本。
   - Downloads: 170
+- [prj-beatrice/japanese-hubert-base-phoneme-ctc-v3](https://huggingface.co/prj-beatrice/japanese-hubert-base-phoneme-ctc-v3)
+  - japanese-hubert-base-phoneme-ctc-v3 rinna/japanese-hubert-base 是一個在 CTC 模型下進行日文音素認識微調的模型。
+  - Downloads: 166
 - [sazyou-roukaku/LittleStepMix](https://huggingface.co/sazyou-roukaku/LittleStepMix)
   - 許可證：CreativeML Open RAIL-M 附加版權：sazyou_roukaku（TwitterID @sazyou_roukaku）截至2023年6月25日。 這個模型在『CreativeML Open RAIL-M』中，其許可證並未改變。
   - Downloads: 166
@@ -1789,6 +1775,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [mmnga/YuisekinAIEvol-Mistral-7B-ja-math-v0.1.1-gguf](https://huggingface.co/mmnga/YuisekinAIEvol-Mistral-7B-ja-math-v0.1.1-gguf)
   - YuisekinAIEvol-Mistral-7B-ja-math-v0.1.1-ggufyuiseki先生所公開的YuisekinAIEvol-Mistral-7B-ja-math-v0.1.1的gguf格式轉換版。
   - Downloads: 128
+- [cinmodel/electra-small-japanese-discriminator](https://huggingface.co/cinmodel/electra-small-japanese-discriminator)
+  - 日本提供一個日本ELECTRA-Small模型，如電子書"ELECTRA：預訓練文本編碼器作為鑑別器而非生成器"中所描述的。
+  - Downloads: 127
 - [cl-nagoya/ruri-v3-pt-30m](https://huggingface.co/cl-nagoya/ruri-v3-pt-30m)
   - 瑠璃：日文通用文字嵌入 ⚠
   - Downloads: 127
@@ -1798,9 +1787,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [ssanjay22/japanese_partner](https://huggingface.co/ssanjay22/japanese_partner)
   - 開發者：SANJAY S 授權：MIT 微調自模型：Meta's LLAMA 3.2（3B）
   - Downloads: 124
-- [NTQAI/wav2vec2-large-japanese](https://huggingface.co/NTQAI/wav2vec2-large-japanese)
-  - Wav2Vec2-Large-JapaneseFine-tuned facebook/wav2vec2-large-xlsr-53 在Common Voice、JSUT、TEDxJP和其他一些數據上對日語進行了微調。
-  - Downloads: 123
 - [EQUES/MedLLama3-JP-v2](https://huggingface.co/EQUES/MedLLama3-JP-v2)
   - Llama3基礎的日語醫療LLM MedLlama3-JP這個模型是由Llama3的持續學習所建立，包含了4種LLM的合併模型。
   - Downloads: 122
@@ -1825,6 +1811,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [stabilityai/japanese-stable-diffusion-xl](https://huggingface.co/stabilityai/japanese-stable-diffusion-xl)
   - 通過下載、使用或分發此模型的任何部分或元素，您同意受《許可協議》文件中描述的協議限制。
   - Downloads: 116
+- [NTQAI/wav2vec2-large-japanese](https://huggingface.co/NTQAI/wav2vec2-large-japanese)
+  - Wav2Vec2-Large-JapaneseFine-tuned facebook/wav2vec2-large-xlsr-53 在Common Voice、JSUT、TEDxJP和其他一些數據上對日語進行了微調。
+  - Downloads: 114
 - [cardiffnlp/tweet-topic-base-multilingual](https://huggingface.co/cardiffnlp/tweet-topic-base-multilingual)
   - 這個模型是基於 cardiffnlp/twitter-xlm-roberta-base 語言模型，在約 1.98 億多語言推文上進行了訓練，並進行了英語、西班牙語、日語和希臘語的多標籤主題分類微調。
   - Downloads: 114
@@ -1846,17 +1835,20 @@ This list is sorted by downloads as of September 23, 2025.
 - [Aratako/Oumuamua-7b-RP-GGUF](https://huggingface.co/Aratako/Oumuamua-7b-RP-GGUF)
   - 忍者-v1-RP-表現-GGUF概述Aratako/Oumuamua-7b-RP 的量子化版本。
   - Downloads: 111
+- [r-g2-2024/Llama-3.1-70B-Instruct-multimodal-JP-Graph-v0.1](https://huggingface.co/r-g2-2024/Llama-3.1-70B-Instruct-multimodal-JP-Graph-v0.1)
+  - Llama-3.1-70B-Instruct-multimodal-JP-Graph - 由 Llama 創建 Llama-3.1-70B-Instruct-multimodal-JP-Graph 是一個日本大視覺語言模型。
+  - Downloads: 110
 - [tokyotech-llm/Gemma-2-Llama-Swallow-9b-pt-v0.1](https://huggingface.co/tokyotech-llm/Gemma-2-Llama-Swallow-9b-pt-v0.1)
   - Gemma-2-Llama-Swallow Gemma-2-Llama-Swallow 系列是通过对 gemma-2 模型进行持续预训练构建的。
   - Downloads: 110
+- [sonoisa/vl-t5-base-japanese](https://huggingface.co/sonoisa/vl-t5-base-japanese)
+  - 這是一個在日本語語料庫上預先學習的 VL-T5（通過文本生成統一視覺與語言任務）模型。
+  - Downloads: 109
 - [MIL-UT/Asagi-2B](https://huggingface.co/MIL-UT/Asagi-2B)
   - 模型詳情 模型描述 這個存儲庫提供了Asagi-2B，一個大規模的日本視覺與語言模型（VLM）。
   - Downloads: 109
 - [Ivydata/whisper-small-japanese](https://huggingface.co/Ivydata/whisper-small-japanese)
   - 使用whisper-small 微調日語低語模型進行語音識別，透過 Common Voice、JVS 和 JSUT 進行微調 openai/whisper-small。在使用此模型時，請確保您的語音輸入採樣率為 16kHz。
-  - Downloads: 108
-- [mmnga/ELYZA-japanese-CodeLlama-7b-gguf](https://huggingface.co/mmnga/ELYZA-japanese-CodeLlama-7b-gguf)
-  - ELYZA-japanese-CodeLlama-7b-gguf是ELYZA出版的ELYZA-japanese-CodeLlama-7b-instruct的gguf格式轉換版本。
   - Downloads: 108
 - [Superd4/lasttest](https://huggingface.co/Superd4/lasttest)
   - 漫畫 OCR：日文文字的光學字符識別，主要集中在日本漫畫領域。
@@ -1864,9 +1856,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [QuantFactory/llama-3-youko-8b-GGUF](https://huggingface.co/QuantFactory/llama-3-youko-8b-GGUF)
   - 這是使用 llama.cpp 創建的 rinna/llama-3-youko-8b 的量化版本模型描述概述我們對來自日語和英語數據集混合的 22B tokens 進行 meta-llama/Meta-Llama-3-8B 的持續預訓練。
   - Downloads: 108
-- [ken11/albert-base-japanese-v1](https://huggingface.co/ken11/albert-base-japanese-v1)
-  - albert-base-japanese-v1是預先訓練過的ALBERT模型，用於日語。如何使用微調這個模型這個模型是預先訓練過的模型，基本上預期用於針對各種任務進行微調。填充掩碼在這個模型中，Tokenizer使用了Sentencepiece，所以在使用時，必須處理[MASK]
-  - Downloads: 107
 - [ybelkada/japanese-roberta-question-answering](https://huggingface.co/ybelkada/japanese-roberta-question-answering)
   - RoBERTa基本版日文 - JaQuAD描述一個在JaQuAD上微調過的日文問答模型。有關預訓練模型的詳細資訊，請參考RoBERTa基本版日文。
   - Downloads: 107
@@ -1888,6 +1877,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [llm-book/bert-base-japanese-v3-jcommonsenseqa](https://huggingface.co/llm-book/bert-base-japanese-v3-jcommonsenseqa)
   - bert-base-japanese-v3-jcommonsenseqa是「大规模语言模型入门」第5章介绍的(多项选择式问答)模型。
   - Downloads: 101
+- [ken11/albert-base-japanese-v1](https://huggingface.co/ken11/albert-base-japanese-v1)
+  - albert-base-japanese-v1是預先訓練過的ALBERT模型，用於日語。如何使用微調這個模型這個模型是預先訓練過的模型，基本上預期用於針對各種任務進行微調。填充掩碼在這個模型中，Tokenizer使用了Sentencepiece，所以在使用時，必須處理[MASK]
+  - Downloads: 100
 - [alfredplpl/llm-jp-3-1.8b-instruct-gguf](https://huggingface.co/alfredplpl/llm-jp-3-1.8b-instruct-gguf)
   - llm-jp-3-1.8b-instruct-gguf的模型卡。這些是對LLM-jp先生的llm-jp-3-1.8b-instruct進行量子化的過程。
   - Downloads: 100
@@ -1909,9 +1901,15 @@ This list is sorted by downloads as of September 23, 2025.
 - [cl-nagoya/ruri-reranker-small](https://huggingface.co/cl-nagoya/ruri-reranker-small)
   - 碧-Reranker：日本通用的Reranker用途直接使用（句子轉換器）
   - Downloads: 94
+- [mmnga/ELYZA-japanese-CodeLlama-7b-gguf](https://huggingface.co/mmnga/ELYZA-japanese-CodeLlama-7b-gguf)
+  - ELYZA-japanese-CodeLlama-7b-gguf是ELYZA出版的ELYZA-japanese-CodeLlama-7b-instruct的gguf格式轉換版本。
+  - Downloads: 93
 - [mmnga/tokyotech-llm-Swallow-70b-instruct-v0.1-gguf](https://huggingface.co/mmnga/tokyotech-llm-Swallow-70b-instruct-v0.1-gguf)
   - 東京工業大学-碩士專業法律學位- Swallow-70b-instruct-v0.1-指導-v0.1-gguftokyotech-llm先生公開的Swallow-70b-instruct-v0.1的gguf格式轉換版本。
   - Downloads: 93
+- [sonoisa/t5-base-japanese-title-generation](https://huggingface.co/sonoisa/t5-base-japanese-title-generation)
+  - 從文章生成標題的模型SEE: https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44
+  - Downloads: 91
 - [mradermacher/Japanese-Starling-ChatV-7B-GGUF](https://huggingface.co/mradermacher/Japanese-Starling-ChatV-7B-GGUF)
   - 有关https://huggingface.co/TFMC/Japanese-Starling-ChatV-7B权重/矩阵量化的静态数量，可在https://huggingface.co/mradermacher/Japanese-Starling-ChatV-7B-i1-GGUF获取。如果您不确定如何使用GGUF文件，请参考TheBloke的其中一个README获取更多详细信息，包括如何连接多部分文件。
   - Downloads: 91
@@ -1969,15 +1967,15 @@ This list is sorted by downloads as of September 23, 2025.
 - [team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-AWQ](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0-AWQ)
   - 狸-8x8B-dpo-v1.0-AWQ 是在 GENIAC 松尾研 LLM 開發項目中開發的 LLM，是 weblab-GENIAC/Tanuki-8x8B-dpo-v1.0 的 AWQ 4 位元量子化模型。
   - Downloads: 82
+- [stockmark/Stockmark-2-100B-Instruct](https://huggingface.co/stockmark/Stockmark-2-100B-Instruct)
+  - Stockmark-2-100B-Instruct 模型描述 Stockmark-2-100B-Instruct 是一個由頭開始打造的擁有 1000 億參數的大型語言模型，特別專注於日語。
+  - Downloads: 81
 - [studio-ousia/luke-japanese-base](https://huggingface.co/studio-ousia/luke-japanese-base)
   - luke-japaneseluke-japanese 是 LUKE（具有知識增強嵌入的語言理解）的日本版本，它是預先訓練的知識增強情境化字詞和實體表示。
   - Downloads: 81
 - [Aratako/Ninja-v1-RP-expressive-v2-GGUF](https://huggingface.co/Aratako/Ninja-v1-RP-expressive-v2-GGUF)
   - Ninja-v1-RP-expressive-GGUF 概要 Aratako/Ninja-v1-RP-expressive-v2 的量子化版 GGUF。
   - Downloads: 81
-- [ken11/bert-japanese-ner](https://huggingface.co/ken11/bert-japanese-ner)
-  - 這個模型是由京都大學黒橋・褚・村脇研究室基於釋出的BERT日語預訓練模型，針對日語固有表現抽取任務進行調整，並利用stockmark有限公司釋出的ner-wikipedia-dataset進行微調的結果。
-  - Downloads: 80
 - [Atotti/miipher-2-HuBERT-HiFi-GAN-v0.1](https://huggingface.co/Atotti/miipher-2-HuBERT-HiFi-GAN-v0.1)
   - 語音增強模型。這個模型是使用日語和英語進行小規模訓練的語音增強模型。
   - Downloads: 80
@@ -1987,12 +1985,15 @@ This list is sorted by downloads as of September 23, 2025.
 - [mm/japanese-e5-mistral-7b_slerp_gguf](https://huggingface.co/mm/japanese-e5-mistral-7b_slerp_gguf)
   - 日文 E5 Mixtral 7B Slerp GGUFGGUF 轉換 oshizo/japanese-e5-mistral-7b_slerp 可用格式：Q2_K.gguf、Q3_K.gguf、Q4_K.gguf、Q5_K.gguf、Q6_K.gguf、Q8_0.gguf、F16.gguf 使用需求：llama-cpp-python from functools import partial import numpy as np from llama_cpp import Llama max_length = 512 model = Llama.from_pretrained(repo_id="mm/japanese-e5
   - Downloads: 80
+- [sonoisa/t5-qiita-title-generation](https://huggingface.co/sonoisa/t5-qiita-title-generation)
+  - 從文章生成標題的模型參考：https://qiita.com/sonoisa/items/30876467ad5a8a81821f
+  - Downloads: 79
 - [OrionStarAI/Orion-14B-Chat-RAG](https://huggingface.co/OrionStarAI/Orion-14B-Chat-RAG)
   - 獵戶座-14B🌐英文 | 🇨🇳中文 | 🇯🇵日本語 | 🇰🇷韓文🤗
   - Downloads: 79
-- [sonoisa/t5-qiita-title-generation](https://huggingface.co/sonoisa/t5-qiita-title-generation)
-  - 從文章生成標題的模型參考：https://qiita.com/sonoisa/items/30876467ad5a8a81821f
-  - Downloads: 77
+- [dahara1/gemma-3-4b-it-qat-japanese-imatrix](https://huggingface.co/dahara1/gemma-3-4b-it-qat-japanese-imatrix)
+  - 這是使用 iMatrix 對 google/gemma-3-4b-it-qat-q4_0-unquantized 模型進行量化處理，其中包含了許多日語。
+  - Downloads: 75
 - [akiFQC/bert-base-japanese-v3_nli-jsnli](https://huggingface.co/akiFQC/bert-base-japanese-v3_nli-jsnli)
   - 考虑到 JNLI 评估结果，我们建议在日语自然语言推理中使用 akiFQC/bert-base-japanese-v3_nli-jsnli-jnli-jsick。
   - Downloads: 75
@@ -2011,9 +2012,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [keitokei1994/Llama-3-ELYZA-sqlcoder-2x8B-GGUF](https://huggingface.co/keitokei1994/Llama-3-ELYZA-sqlcoder-2x8B-GGUF)
   - 模特兒說明（下面是英文解釋。）
   - Downloads: 74
-- [cinmodel/electra-small-japanese-discriminator](https://huggingface.co/cinmodel/electra-small-japanese-discriminator)
-  - 日本提供一個日本ELECTRA-Small模型，如電子書"ELECTRA：預訓練文本編碼器作為鑑別器而非生成器"中所描述的。
-  - Downloads: 73
 - [stabilityai/japanese-instructblip-alpha](https://huggingface.co/stabilityai/japanese-instructblip-alpha)
   - Japanese InstructBLIP Alpha模型詳細Japanese InstructBLIP Alpha是一個視覺語言指示跟隨模型，可以為輸入圖像生成日語描述，並可選擇性地加入輸入文本，例如問題。
   - Downloads: 72
@@ -2038,6 +2036,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [kenyano/Llama3-ELAINE-medLLM-instruct-8B_v0.1](https://huggingface.co/kenyano/Llama3-ELAINE-medLLM-instruct-8B_v0.1)
   - ELAINE-medllm - 使用 Llama3-8B ELAINE（英語-日語-中文）搭建-
   - Downloads: 70
+- [ken11/bert-japanese-ner](https://huggingface.co/ken11/bert-japanese-ner)
+  - 這個模型是由京都大學黒橋・褚・村脇研究室基於釋出的BERT日語預訓練模型，針對日語固有表現抽取任務進行調整，並利用stockmark有限公司釋出的ner-wikipedia-dataset進行微調的結果。
+  - Downloads: 68
 - [Local-Novel-LLM-project/Ocuteus-v1-gguf](https://huggingface.co/Local-Novel-LLM-project/Ocuteus-v1-gguf)
   - 這是Ocuteus的GGUF版本。
   - Downloads: 68
@@ -2050,14 +2051,14 @@ This list is sorted by downloads as of September 23, 2025.
 - [MCZK/Vecteus-V2-7B-GGUF](https://huggingface.co/MCZK/Vecteus-V2-7B-GGUF)
   - Local-Novel-LLM-project 様的 Vecteus-V2-7B 已轉換為 GGUF 格式。
   - Downloads: 68
+- [KoichiYasuoka/bert-base-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-upos)
+  - 這是一個在日文維基百科文本上預訓練的BERT模型，用於詞性標註和依存分析，源自於bert-base-japanese-char-extended模型。
+  - Downloads: 67
 - [hakuhodo-tech/japanese-clip-vit-h-14-bert-wider](https://huggingface.co/hakuhodo-tech/japanese-clip-vit-h-14-bert-wider)
   - 日本語 CLIP ViT-H/14 (更寬)目錄概覽使用模型細節評估限制與偏見引用參見聯繫資訊概覽開發者：HAKUHODO Technologies Inc.模型類型：對比性語言-圖像預訓練模型語言：日本語授權：CC BY-NC-SA 4.0這裡介紹了
   - Downloads: 67
 - [mmnga/Qwen1.5-110B-Chat-gguf](https://huggingface.co/mmnga/Qwen1.5-110B-Chat-gguf)
   - Qwen1.5-110B-Chat-gguf 是 Qwen 公開的 gguf 格式轉換版Qwen1.5-110B-Chat。
-  - Downloads: 66
-- [sonoisa/t5-base-japanese-title-generation](https://huggingface.co/sonoisa/t5-base-japanese-title-generation)
-  - 從文章生成標題的模型SEE: https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44
   - Downloads: 66
 - [yamatazen/Shisa-v2-Mistral-Nemo-12B-Abliterated](https://huggingface.co/yamatazen/Shisa-v2-Mistral-Nemo-12B-Abliterated)
   - 這是使用 mergekit 建立的預先訓練語言模型的合併。
@@ -2097,9 +2098,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 62
 - [Aratako/c4ai-command-r-v01-japanese-instruct-GGUF](https://huggingface.co/Aratako/c4ai-command-r-v01-japanese-instruct-GGUF)
   - c4ai-command-r-v01-japanese-instruct-GGUF概要是Aratako/c4ai-command-r-v01-japanese-instruct的已量子化GGUF版本。
-  - Downloads: 61
-- [KoichiYasuoka/bert-base-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-upos)
-  - 這是一個在日文維基百科文本上預訓練的BERT模型，用於詞性標註和依存分析，源自於bert-base-japanese-char-extended模型。
   - Downloads: 61
 - [LoneWolfgang/bert-for-japanese-twitter](https://huggingface.co/LoneWolfgang/bert-for-japanese-twitter)
   - BERT用於日本Twitter這是為日本Twitter製作的基本BERT模型。
@@ -2254,6 +2252,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [cl-nagoya/ruri-reranker-stage1-large](https://huggingface.co/cl-nagoya/ruri-reranker-stage1-large)
   - 瑠璃-重新排名器：日本將軍重新排名器使用指南（句子轉換器）
   - Downloads: 48
+- [AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana)
+  - 這個模型是在MOZILLA-FOUNDATION/COMMON_VOICE_8_0 - JA數據集上對facebook/wav2vec2-xls-r-1b進行微調的版本。
+  - Downloads: 47
 - [nitky/Llama-3.3-SuperSwallow-70B-Instruct-v0.1](https://huggingface.co/nitky/Llama-3.3-SuperSwallow-70B-Instruct-v0.1)
   - Llama-3.3-SuperSwallow-70B-Instruct-v0.1 這是使用 mergekit 創建的預訓練語言模型的合併。
   - Downloads: 47
@@ -2329,17 +2330,14 @@ This list is sorted by downloads as of September 23, 2025.
 - [keitokei1994/swallow-3-8B-sqlcoder-2x8B-GGUF](https://huggingface.co/keitokei1994/swallow-3-8B-sqlcoder-2x8B-GGUF)
   - 模特兒的說明 (下面附有英文解釋。)
   - Downloads: 41
+- [alfredplpl/Llama-3-8B-Instruct-Ja](https://huggingface.co/alfredplpl/Llama-3-8B-Instruct-Ja)
+  - 這個存儲庫是為了將 Llama 3 翻譯為日語而建立的模型存儲庫。
+  - Downloads: 40
 - [mmnga/SakanaAI-EvoLLM-JP-A-v1-7B-gguf](https://huggingface.co/mmnga/SakanaAI-EvoLLM-JP-A-v1-7B-gguf)
   - SakanaAI-EvoLLM-JP-A-v1-7B-gguf 是由 SakanaAI 公開的 EvoLLM-JP-A-v1-7B 的 gguf 格式轉換版本。
   - Downloads: 40
 - [Fugaku-LLM/Fugaku-LLM-13B-instruct](https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct)
   - Fugaku-LLM 使用條款：本使用條款（以下稱為「本條款」）由富士通株式會社、國立研究發展法人理化學研究所、國立大學法人東京工業大學、國立大學法人東北大學、株式會社CyberAgent、國立大學法人東海國立大
-  - Downloads: 40
-- [sonoisa/t5-base-japanese-question-generation](https://huggingface.co/sonoisa/t5-base-japanese-question-generation)
-  - 回答和回答將出現的段落提供給模型，它將生成問題https://github.com/sonoisa/deep-question-generation。這個模型的製作步驟概述將SQuAD 1.1翻譯成日語，並進行數據清理（有效數據約一半）。
-  - Downloads: 40
-- [sonoisa/t5-base-japanese-article-generation](https://huggingface.co/sonoisa/t5-base-japanese-article-generation)
-  - 從標題生成文章內容的模型連結: https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44
   - Downloads: 40
 - [megagonlabs/electra-base-japanese-discriminator](https://huggingface.co/megagonlabs/electra-base-japanese-discriminator)
   - 日本传统Electra基础鉴别器（SudachiTra-WordPiece，mC4日本）-
@@ -2350,6 +2348,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [sarulab-speech/hubert-base-jtube](https://huggingface.co/sarulab-speech/hubert-base-jtube)
   - 此存儲庫提供了在JTubeSpeech語料庫上訓練的hubert-base模型的模型權重。往下滾動查看模型使用FAQ。
   - Downloads: 39
+- [Local-Novel-LLM-project/Vecteus-v1-abliterated](https://huggingface.co/Local-Novel-LLM-project/Vecteus-v1-abliterated)
+  - Vecteus 是一個高性能的日本語大規模語言模型。
+  - Downloads: 38
 - [rinna/nekomata-7b-gguf](https://huggingface.co/rinna/nekomata-7b-gguf)
   - rinna/nekomata-7b-gguf概述該模型是rinna/nekomata-7b的GGUF版本。
   - Downloads: 38
@@ -2374,6 +2375,12 @@ This list is sorted by downloads as of September 23, 2025.
 - [llm-jp/llm-jp-3-172b-alpha1](https://huggingface.co/llm-jp/llm-jp-3-172b-alpha1)
   - llm-jp-3-172b-alpha1 -> llm-jp-3-172b-alpha1
   - Downloads: 37
+- [Aratako/Japanese-Novel-Reward-310m-v2](https://huggingface.co/Aratako/Japanese-Novel-Reward-310m-v2)
+  - 這個模型是通過對 sbintuitions/modernbert-ja-310m 進行微調而建立的，用於評估日本小說品質的 Reward 模型。
+  - Downloads: 36
+- [sonoisa/t5-base-japanese-article-generation](https://huggingface.co/sonoisa/t5-base-japanese-article-generation)
+  - 從標題生成文章內容的模型連結: https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44
+  - Downloads: 36
 - [Hemlok/REV-Mix](https://huggingface.co/Hemlok/REV-Mix)
   - ◆REV-Mix是一款名為“革命”的模型。
   - Downloads: 36
@@ -2428,9 +2435,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [KoichiYasuoka/llm-jp-1.3b-upos](https://huggingface.co/KoichiYasuoka/llm-jp-1.3b-upos)
   - llm-jp-1.3b-upos 模型描述
   - Downloads: 34
-- [hajime9652/xlnet-japanese](https://huggingface.co/hajime9652/xlnet-japanese)
-  - XLNet-japaneseModel描述该模型需要Mecab和senetencepiece结合XLNetTokenizer一起使用。
-  - Downloads: 33
 - [nu-dialogue/j-moshi](https://huggingface.co/nu-dialogue/j-moshi)
   - J-Moshi：一個日本語的全雙工口語對話系統。
   - Downloads: 33
@@ -2445,9 +2449,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 32
 - [AIBunCho/japanese-novel-gpt-j-6b](https://huggingface.co/AIBunCho/japanese-novel-gpt-j-6b)
   - AIBunCho/japanese-novel-gpt-j-6b 是所使用的模型。
-  - Downloads: 32
-- [Local-Novel-LLM-project/Vecteus-v1-abliterated](https://huggingface.co/Local-Novel-LLM-project/Vecteus-v1-abliterated)
-  - Vecteus 是一個高性能的日本語大規模語言模型。
   - Downloads: 32
 - [MIL-UT/Asagi-14B](https://huggingface.co/MIL-UT/Asagi-14B)
   - 模型詳情 模型描述
@@ -2539,18 +2540,12 @@ This list is sorted by downloads as of September 23, 2025.
 - [OrionStarAI/Orion-14B-LongChat](https://huggingface.co/OrionStarAI/Orion-14B-LongChat)
   - Orion-14B🌐英文 | 🇨🇳中文 | 🇯🇵日文 | 🇰🇷韓文🤗
   - Downloads: 28
-- [microsoft/unihanlm-base](https://huggingface.co/microsoft/unihanlm-base)
-  - 對於粗細中日語言模型的預訓練，採用Unihan數據庫。模型描述中文和日文共享許多具有類似表層形態的字符。
-  - Downloads: 28
 - [Aratako/sarashina2.2-3b-RP-v0.1](https://huggingface.co/Aratako/sarashina2.2-3b-RP-v0.1)
   - sarashina2.2-3b-RP-v0.1 GGUF版是以sbintuitions/sarashina2.2-3b-instruct-v0.1為基礎，針對角色扮演進行微調的模型。
   - Downloads: 28
 - [Respair/Hibiki_ASR_Phonemizer_v0.2](https://huggingface.co/Respair/Hibiki_ASR_Phonemizer_v0.2)
   - Hibiki ASR Phonemizer 這個模型是一個音素級語音識別網絡，原本是根據不同的日本數據集在 openai/whisper-large-v3 的精煉版本上進行調整的。
   - Downloads: 28
-- [NandemoGHS/Anime-Llasa-3B](https://huggingface.co/NandemoGHS/Anime-Llasa-3B)
-  - 動畫-Llasa-3B 概觀 這是動畫-Llasa-3B，一個針對日語微調的文本轉語音（TTS）模型。
-  - Downloads: 27
 - [natsusakiyomi/AnzuMix](https://huggingface.co/natsusakiyomi/AnzuMix)
   - AnzuMixSeriesVAE沒有內臟！絕對不能被說有內臟！！！！
   - Downloads: 27
@@ -2581,14 +2576,17 @@ This list is sorted by downloads as of September 23, 2025.
 - [masato12/bert-base-japanese-v3-jsts-with-tokenizer](https://huggingface.co/masato12/bert-base-japanese-v3-jsts-with-tokenizer)
   - bert-base-japanese-v3-jsts是在《大规模语言模型入门》第5章中介绍的(意义相似度计算)模型。
   - Downloads: 27
+- [sonoisa/t5-base-japanese-question-generation](https://huggingface.co/sonoisa/t5-base-japanese-question-generation)
+  - 回答和回答將出現的段落提供給模型，它將生成問題https://github.com/sonoisa/deep-question-generation。這個模型的製作步驟概述將SQuAD 1.1翻譯成日語，並進行數據清理（有效數據約一半）。
+  - Downloads: 26
+- [AndrewMcDowell/wav2vec2-xls-r-300m-japanese](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-300m-japanese)
+  - 這個模型是在MOZILLA-FOUNDATION/COMMON_VOICE_8_0 - JA數據集上對facebook/wav2vec2-xls-r-300m進行微調的版本。
+  - Downloads: 26
 - [akiFQC/bert-base-japanese-v3_nli-jsnli-jnli-jsick](https://huggingface.co/akiFQC/bert-base-japanese-v3_nli-jsnli-jnli-jsick)
   - Cross-Encoder 用於日語自然語言推理（NLI）這個模型是使用 SentenceTransformers 的 Cross-Encoder 類別訓練的。
   - Downloads: 26
 - [ku-accms/bert-base-japanese-ssuw](https://huggingface.co/ku-accms/bert-base-japanese-ssuw)
   - 這是一個針對超短單元詞（SSUW）的預訓練日文 BERT 基礎模型。
-  - Downloads: 26
-- [clu-ling/whisper-large-v2-japanese-5k-steps](https://huggingface.co/clu-ling/whisper-large-v2-japanese-5k-steps)
-  - 這個模型是在日本CommonVoice數據集（v11）上對openai/whisper-large-v2進行微調的版本。
   - Downloads: 26
 - [sociocom/MedNER-CR-JA](https://huggingface.co/sociocom/MedNER-CR-JA)
   - 這是一個用於日本醫療文件命名實體識別的模型。
@@ -2608,6 +2606,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [owner203/japanese-llama-3-8b-instruct-v2-gguf](https://huggingface.co/owner203/japanese-llama-3-8b-instruct-v2-gguf)
   - 日文-LLaMA-3-8B-指示-v2-GGUF是日文-LLaMA-3-8B-指示-v2的GGUF格式。
   - Downloads: 26
+- [clu-ling/whisper-large-v2-japanese-5k-steps](https://huggingface.co/clu-ling/whisper-large-v2-japanese-5k-steps)
+  - 這個模型是在日本CommonVoice數據集（v11）上對openai/whisper-large-v2進行微調的版本。
+  - Downloads: 25
 - [alabnii/jmedroberta-base-sentencepiece-vocab50000](https://huggingface.co/alabnii/jmedroberta-base-sentencepiece-vocab50000)
   - 模型描述這是一個日本 RoBERTa 基礎模型，是在由日本科學技術機構（JST）收集的醫學科學學術文章上預訓練的。
   - Downloads: 25
@@ -2653,9 +2654,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [doc2query/msmarco-japanese-mt5-base-v1](https://huggingface.co/doc2query/msmarco-japanese-mt5-base-v1)
   - 這是基於 mT5（也稱為 docT5query）的 doc2query 模型。
   - Downloads: 24
-- [ayousanz/piper-plus-base](https://huggingface.co/ayousanz/piper-plus-base)
-  - 日本語事前學習模型-piper-plus 是一個從頭開始訓練約100小時的日本語專用事前學習模型，使用日本語數據集。
-  - Downloads: 24
 - [takuyadayo/ozisan](https://huggingface.co/takuyadayo/ozisan)
   - 🌟 Ojisan構文轉換模型（GRPO + Unsloth + LoRA）這個專案是為了創建和訓練將文章轉換成「おじさん構文」的日語模型而設計的程式碼。
   - Downloads: 24
@@ -2677,6 +2675,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-AWQ](https://huggingface.co/team-hatakeyama-phase2/Tanuki-8B-dpo-v1.0-4k-AWQ)
   - 狸-8B-dpo-v1.0-4k-AWQ 概要 GENIAC 松尾研 LLM 開發項目中所開發的LLM，即 weblab-GENIAC/Tanuki-8B-dpo-v1.0-4k 的 AWQ 4 位元量化模型。
   - Downloads: 24
+- [hajime9652/xlnet-japanese](https://huggingface.co/hajime9652/xlnet-japanese)
+  - XLNet-japaneseModel描述该模型需要Mecab和senetencepiece结合XLNetTokenizer一起使用。
+  - Downloads: 23
 - [OrionStarAI/Orion-14B-Chat-Int4](https://huggingface.co/OrionStarAI/Orion-14B-Chat-Int4)
   - 獵戶座-14B🌐英文 | 🇨🇳中文 | 🇯🇵日本語 | 🇰🇷韓文🤗
   - Downloads: 23
@@ -2722,9 +2723,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [Itbanque/whisper-ja-zh-base](https://huggingface.co/Itbanque/whisper-ja-zh-base)
   - 日語到中文翻譯的低語調微調
   - Downloads: 22
-- [alfredplpl/Llama-3-8B-Instruct-Ja](https://huggingface.co/alfredplpl/Llama-3-8B-Instruct-Ja)
-  - 這個存儲庫是為了將 Llama 3 翻譯為日語而建立的模型存儲庫。
-  - Downloads: 22
 - [Mizuiro-sakura/luke-japanese-large-finetuned-ner](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-finetuned-ner)
   - 這個模型是在luke-japanese-large模型基礎上進行微調，以用於命名實體識別（NER）的版本。
   - Downloads: 22
@@ -2746,8 +2744,8 @@ This list is sorted by downloads as of September 23, 2025.
 - [Akimite/Qwen2-7b-Instruct-Boku-v2](https://huggingface.co/Akimite/Qwen2-7b-Instruct-Boku-v2)
   - 實驗模型。
   - Downloads: 22
-- [KoichiYasuoka/bert-base-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-base-japanese-char-extended)
-  - 基於bert-base-japanese-char-extended模型
+- [spacy/ja_core_news_trf](https://huggingface.co/spacy/ja_core_news_trf)
+  - 詳細資訊: https://spacy.io/models/ja#ja_core_news_trf 日語變壓器流程 (Transformer(name='cl-tohoku/bert-base-japanese-char-v2', piece_encoder='char', stride=160, type='bert', width=768, window=216, vocab_size=6144)).
   - Downloads: 21
 - [slplab/wav2vec2-xls-r-300m-japanese-hiragana](https://huggingface.co/slplab/wav2vec2-xls-r-300m-japanese-hiragana)
   - Wav2Vec2-XLS-R-300M-Japanese-HiraganaFine-tuned facebook/wav2vec2-xls-r-300m 在日文平假名字符上使用 Common Voice 和 JSUT 进行微调。句子输出不包含词边界。
@@ -2763,9 +2761,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 21
 - [line-corporation/japanese-large-lm-3.6b-instruction-sft-8bit-1g-actorder_True](https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft-8bit-1g-actorder_True)
   - 這個存儲庫提供了由LINE公司微調並訓練的具有3.6B個參數的日語語言量化模型。
-  - Downloads: 21
-- [AndrewMcDowell/wav2vec2-xls-r-300m-japanese](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-300m-japanese)
-  - 這個模型是在MOZILLA-FOUNDATION/COMMON_VOICE_8_0 - JA數據集上對facebook/wav2vec2-xls-r-300m進行微調的版本。
   - Downloads: 21
 - [nlp-waseda/bigbird-base-japanese](https://huggingface.co/nlp-waseda/bigbird-base-japanese)
   - nlp-waseda/bigbird-base-japanese 模型描述這是一個在日文維基百科、CC-100 日文部分和 OSACR 日文部分預訓練的日文 BigBird 基底模型。如何使用您可以按照以下方式為遮蔽語言建模使用此模型：from transformers import AutoTokenizer, AutoModelForMaskedLMtokenizer = AutoTokenizer.from_pretrained("nlp-waseda/bigbird-base-japanese")
@@ -2809,6 +2804,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [nitky/Oumuamua-7b-instruct](https://huggingface.co/nitky/Oumuamua-7b-instruct)
   - 這是使用 mergekit 創建的預先訓練語言模型合併的結果。輸出示例 [INST] &lt;&lt;SYS&gt;&gt; あなたは日本語を話す優秀なアシスタントです。
   - Downloads: 21
+- [KoichiYasuoka/bert-base-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-base-japanese-char-extended)
+  - 基於bert-base-japanese-char-extended模型
+  - Downloads: 20
 - [mmnga/line-corp-japanese-large-lm-3.6b-instruction-sft-gguf](https://huggingface.co/mmnga/line-corp-japanese-large-lm-3.6b-instruction-sft-gguf)
   - line-corporation發佈的japanese-large-lm-3.6b-instruction-sft是gguf轉換版本。
   - Downloads: 20
@@ -2947,6 +2945,9 @@ This list is sorted by downloads as of September 23, 2025.
 - [hibikaze/tiny_mixtral_ja_with_tokenizer](https://huggingface.co/hibikaze/tiny_mixtral_ja_with_tokenizer)
   - 275.86M的mixtral是在日語數據集上進行預訓練的模型。從transformers庫中導入AutoTokenizer和AutoModelForCausalLM，模型可以通過以下方式加載：model = AutoModelForCausalLM.from_pretrained("if001/tiny_mixtral_ja")
   - Downloads: 19
+- [ayousanz/piper-plus-base](https://huggingface.co/ayousanz/piper-plus-base)
+  - 日本語事前學習模型-piper-plus 是一個從頭開始訓練約100小時的日本語專用事前學習模型，使用日本語數據集。
+  - Downloads: 18
 - [ThePioneer/MoeDiffusionPlusPlus](https://huggingface.co/ThePioneer/MoeDiffusionPlusPlus)
   - V1 = MoeDiffusion 1.0 + (HassanBlend 1.5 - VMix03) * 0.2V2 = MoeDiffusion 0.6：HassanBlend 1.5 0.2：VMix03：0.2有傳言稱，混合中可能包含NAI洩漏或Insta系列模型，因此不建議使用NAI洩漏反對・Insta系列模型反對。為了展現出理
   - Downloads: 18
@@ -2955,9 +2956,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 18
 - [HPLT/hplt_bert_base_ja](https://huggingface.co/HPLT/hplt_bert_base_ja)
   - HPLT Bert是為日文訓練的編碼器模型之一，這是HPLT項目的首個版本之一。
-  - Downloads: 18
-- [KoichiYasuoka/bert-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-luw-upos)
-  - bert-base-japanese-luw-uposModel 表示 BERT 日本語語境下的大型統一模型。
   - Downloads: 18
 - [rinna/bilingual-gpt-neox-4b-8k](https://huggingface.co/rinna/bilingual-gpt-neox-4b-8k)
   - bilingual-gpt-neox-4b-8k概觀通知：此模型需要transformers&gt;=4.31.0才能正常工作。
@@ -3091,12 +3089,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [KoichiYasuoka/gpt2-small-japanese-upos](https://huggingface.co/KoichiYasuoka/gpt2-small-japanese-upos)
   - 該模型是一個用於詞性標記和依存分析的GPT-2模型，衍生自gpt2-small-japanese-char。
   - Downloads: 17
-- [NovelAI/genji-jp](https://huggingface.co/NovelAI/genji-jp)
-  - 請查看我們的部落格文章，以獲取更多詳細資訊、範例、評估等內容：部落格文章模型描述Genji-JP 6B是一個在我們的日本故事敘述資料集上微調的模型，是基於EleutherAI的GPT-J 6B模型。
-  - Downloads: 16
-- [izumi-lab/bert-small-japanese-fin](https://huggingface.co/izumi-lab/bert-small-japanese-fin)
-  - 這是一個在日文文本上預訓練過的 BERT 模型。
-  - Downloads: 16
 - [thefrigidliquidation/nllb-jaen-1.3B-lightnovels](https://huggingface.co/thefrigidliquidation/nllb-jaen-1.3B-lightnovels)
   - NLLB 1.3B 在日語到英語輕小說翻譯上進行了微調。這個模型是針對日語到英語翻譯的輕小說和網絡小說進行了微調。
   - Downloads: 16
@@ -3105,9 +3097,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 16
 - [Mizuiro-sakura/luke-japanese-large-finetuned-QA](https://huggingface.co/Mizuiro-sakura/luke-japanese-large-finetuned-QA)
   - 這個模型是通過對luke-japanese-large-lite進行微調來用於問答任務的產物。
-  - Downloads: 16
-- [KoichiYasuoka/bert-large-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-upos)
-  - 這是一個在日文維基百科文本上進行_POS標記和依存分析預訓練的BERT模型，源自於bert-large-japanese-char-extended。
   - Downloads: 16
 - [sonoisa/sentence-t5-base-ja-mean-tokens](https://huggingface.co/sonoisa/sentence-t5-base-ja-mean-tokens)
   - 這是一個日文字-T5模型。
@@ -3199,11 +3188,11 @@ This list is sorted by downloads as of September 23, 2025.
 - [KoichiYasuoka/gpt2-large-japanese-ud-causal](https://huggingface.co/KoichiYasuoka/gpt2-large-japanese-ud-causal)
   - gpt2-large-japanese-ud-causal 模型描述
   - Downloads: 16
+- [NovelAI/genji-jp](https://huggingface.co/NovelAI/genji-jp)
+  - 請查看我們的部落格文章，以獲取更多詳細資訊、範例、評估等內容：部落格文章模型描述Genji-JP 6B是一個在我們的日本故事敘述資料集上微調的模型，是基於EleutherAI的GPT-J 6B模型。
+  - Downloads: 15
 - [qqpann/wav2vec2-large-xlsr-japanese-0325-1200](https://huggingface.co/qqpann/wav2vec2-large-xlsr-japanese-0325-1200)
   - Wav2Vec2-Large-XLSR-53-{語言} #待辦事項: 請用您的{語言}替換語言，例如
-  - Downloads: 15
-- [spacy/ja_core_news_trf](https://huggingface.co/spacy/ja_core_news_trf)
-  - 詳細資訊: https://spacy.io/models/ja#ja_core_news_trf 日語變壓器流程 (Transformer(name='cl-tohoku/bert-base-japanese-char-v2', piece_encoder='char', stride=160, type='bert', width=768, window=216, vocab_size=6144)).
   - Downloads: 15
 - [NilanE/tinyllama-en_ja-translation-v2](https://huggingface.co/NilanE/tinyllama-en_ja-translation-v2)
   - 基於tinyllama的正在進行中的長文本日英翻譯模型。
@@ -3217,17 +3206,11 @@ This list is sorted by downloads as of September 23, 2025.
 - [Aruno/Bloom-JP-160m](https://huggingface.co/Aruno/Bloom-JP-160m)
   - 在日本語語料庫上進行訓練的 Bloom 模型。
   - Downloads: 15
-- [colorfulscoop/bert-base-ja](https://huggingface.co/colorfulscoop/bert-base-ja)
-  - BERT基本日文模型這個存儲庫包含一個在日本維基百科數據集上訓練的BERT基本模型。
-  - Downloads: 15
 - [KoichiYasuoka/bert-large-japanese-char-extended](https://huggingface.co/KoichiYasuoka/bert-large-japanese-char-extended)
   - 這是一個在日文維基百科文本上預訓練的BERT模型，衍生自bert-large-japanese-char。
   - Downloads: 15
 - [KoichiYasuoka/bert-base-japanese-unidic-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-unidic-luw-upos)
   - bert-base-japanese-unidic-luw-uposModel 轉換為繁體中文為「日文 Bert 基礎單位辭典 Luw Upos 模型」。
-  - Downloads: 15
-- [cinmodel/electra-small-japanese-generator](https://huggingface.co/cinmodel/electra-small-japanese-generator)
-  - 日本 ELECTRA-small 我們提供一個日本 ELECTRA-Small 模型，如 ELECTRA：使用文本編碼器作為鑑別器而不是生成器 的 文章中所描述的。
   - Downloads: 15
 - [LoneStriker/shisa-7b-v1-4.0bpw-h6-exl2](https://huggingface.co/LoneStriker/shisa-7b-v1-4.0bpw-h6-exl2)
   - 獅子座 7B（shisa-7b-v1）
@@ -3352,12 +3335,6 @@ This list is sorted by downloads as of September 23, 2025.
 - [KoichiYasuoka/gpt2-medium-japanese-unidic-upos](https://huggingface.co/KoichiYasuoka/gpt2-medium-japanese-unidic-upos)
   - gpt2-medium-japanese-unidic-upos 模型描述
   - Downloads: 15
-- [AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana](https://huggingface.co/AndrewMcDowell/wav2vec2-xls-r-1b-japanese-hiragana-katakana)
-  - 這個模型是在MOZILLA-FOUNDATION/COMMON_VOICE_8_0 - JA數據集上對facebook/wav2vec2-xls-r-1b進行微調的版本。
-  - Downloads: 14
-- [naclbit/gpt-j-japanese-6.8b](https://huggingface.co/naclbit/gpt-j-japanese-6.8b)
-  - 這個預訓練模型還在持續進行中！
-  - Downloads: 14
 - [ken11/albert-base-japanese-v1-with-japanese-tokenizer](https://huggingface.co/ken11/albert-base-japanese-v1-with-japanese-tokenizer)
   - 此為使用日本語事前訓練的ALBERT模型，使用了名為BertJapaneseTokenizer的Tokenizer。與albert-base-japanese-v1相比，此模型的分詞處理更為方便。如何使用Fine-Tuning：該模型為預訓練模型，基本上預計用於不同任務的Fine-Tuning。對於PyTorch的Fill-Mask：從transformers中導入
   - Downloads: 14
@@ -3544,14 +3521,17 @@ This list is sorted by downloads as of September 23, 2025.
 - [mpasila/Llama-3-Nymeria-ELYZA-8B](https://huggingface.co/mpasila/Llama-3-Nymeria-ELYZA-8B)
   - Llama-3-Nymeria-ELYZA-8B 是 Llama 3 模型和一般 RP 模型之間的實驗合併，該模型已通過持續的日文數據預訓練，以查看其保留日語能力和 RP 能力的情況。
   - Downloads: 14
-- [Helsinki-NLP/opus-mt-ja-he](https://huggingface.co/Helsinki-NLP/opus-mt-ja-he)
-  - jpn-heb來源群組：日文目標群組：希伯來語OPUS 自述：jpn-heb模型：transformer-align來源語言：jpn_Hani jpn_Hira jpn_Kana目標語言：希伯來語模型：transformer-align前處理：正規化 + SentencePiece（spm32k，spm32k）
-  - Downloads: 13
 - [KoichiYasuoka/roberta-small-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-luw-upos)
   - 羅伯塔-小-日文-盧瓦-Universal Part-of-Speech 模型
   - Downloads: 13
-- [hiroshi-matsuda-rit/ja_gsd_bert_wwm_unidic_lite](https://huggingface.co/hiroshi-matsuda-rit/ja_gsd_bert_wwm_unidic_lite)
-  - 日本語のTransformerモデル（bert-base）パイプライン。
+- [naclbit/gpt-j-japanese-6.8b](https://huggingface.co/naclbit/gpt-j-japanese-6.8b)
+  - 這個預訓練模型還在持續進行中！
+  - Downloads: 13
+- [KoichiYasuoka/bert-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-base-japanese-luw-upos)
+  - bert-base-japanese-luw-uposModel 表示 BERT 日本語語境下的大型統一模型。
+  - Downloads: 13
+- [cinmodel/electra-small-japanese-generator](https://huggingface.co/cinmodel/electra-small-japanese-generator)
+  - 日本 ELECTRA-small 我們提供一個日本 ELECTRA-Small 模型，如 ELECTRA：使用文本編碼器作為鑑別器而不是生成器 的 文章中所描述的。
   - Downloads: 13
 - [ptaszynski/yacis-electra-small-japanese](https://huggingface.co/ptaszynski/yacis-electra-small-japanese)
   - 這是 ELECTRA Small 模型，是為日本語而預訓練，在 YACIS 部落格語料庫中有 3.54 億個句子 / 56 億個單詞的資料。
@@ -3585,12 +3565,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 13
 - [astremo/JAINU](https://huggingface.co/astremo/JAINU)
   - JAINU 模型（T5 微調模型）是一個日本 - 阿伊努語機器翻譯模型。
-  - Downloads: 13
-- [KoichiYasuoka/bert-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-luw-upos)
-  - 波特大型日语LUW-词性标注模型
-  - Downloads: 13
-- [KoichiYasuoka/roberta-small-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-aozora)
-  - 羅伯塔-小型-日文-青空模型描述：這是一個使用日文LUW分詞器預訓練在青空文庫文本上的羅伯塔模型。
   - Downloads: 13
 - [izumi-lab/electra-base-japanese-generator](https://huggingface.co/izumi-lab/electra-base-japanese-generator)
   - ELECTRA基於日文的生成器這是一個在日文文本上預訓練的ELECTRA模型。
@@ -3796,8 +3770,20 @@ This list is sorted by downloads as of September 23, 2025.
 - [Akimite/Gemma2-9B-it-Boku-v1](https://huggingface.co/Akimite/Gemma2-9B-it-Boku-v1)
   - 實驗模型。
   - Downloads: 13
-- [Helsinki-NLP/opus-mt-ja-ms](https://huggingface.co/Helsinki-NLP/opus-mt-ja-ms)
-  - jpn-msa來源組：日語目標組：馬來語（概括語言）OPUS自述：jpn-msa模型：轉換對齊源語言：日語日語漢 日語平假名 日語假名目標語言：印尼 文籟姆拉丁字母
+- [KoichiYasuoka/bert-large-japanese-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-upos)
+  - 這是一個在日文維基百科文本上進行_POS標記和依存分析預訓練的BERT模型，源自於bert-large-japanese-char-extended。
+  - Downloads: 12
+- [colorfulscoop/bert-base-ja](https://huggingface.co/colorfulscoop/bert-base-ja)
+  - BERT基本日文模型這個存儲庫包含一個在日本維基百科數據集上訓練的BERT基本模型。
+  - Downloads: 12
+- [microsoft/unihanlm-base](https://huggingface.co/microsoft/unihanlm-base)
+  - 對於粗細中日語言模型的預訓練，採用Unihan數據庫。模型描述中文和日文共享許多具有類似表層形態的字符。
+  - Downloads: 12
+- [hiroshi-matsuda-rit/ja_gsd_bert_wwm_unidic_lite](https://huggingface.co/hiroshi-matsuda-rit/ja_gsd_bert_wwm_unidic_lite)
+  - 日本語のTransformerモデル（bert-base）パイプライン。
+  - Downloads: 12
+- [izumi-lab/bert-small-japanese-fin](https://huggingface.co/izumi-lab/bert-small-japanese-fin)
+  - 這是一個在日文文本上預訓練過的 BERT 模型。
   - Downloads: 12
 - [kit-nlp/transformers-ud-japanese-electra-base-discriminator-cyberbullying](https://huggingface.co/kit-nlp/transformers-ud-japanese-electra-base-discriminator-cyberbullying)
   - 這是一個針對日文的 ELECTRA 基本模型，用於自動偵測網路霸凌。
@@ -4048,11 +4034,29 @@ This list is sorted by downloads as of September 23, 2025.
 - [keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF](https://huggingface.co/keitokei1994/Llama-3.1-70B-EZO-1.1-it-GGUF)
   - 拉马-3.1-70B-EZO-1.1-it-ggufHODACHI先生公开的HODACHI/Llama-3.1-70B-EZO-1.1-it的gguf版本。
   - Downloads: 12
-- [izumi-lab/electra-small-paper-japanese-fin-generator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-fin-generator)
-  - ELECTRA是一個小型的日文金融生成器。這是一個在日語文本上預先訓練的ELECTRA模型。
+- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1)
+  - Heron BLIP Japanese StableLM 轉換為繁體中文為：「蜆鳥BLIP日本穩定LM」
+  - Downloads: 11
+- [Helsinki-NLP/opus-mt-ja-he](https://huggingface.co/Helsinki-NLP/opus-mt-ja-he)
+  - jpn-heb來源群組：日文目標群組：希伯來語OPUS 自述：jpn-heb模型：transformer-align來源語言：jpn_Hani jpn_Hira jpn_Kana目標語言：希伯來語模型：transformer-align前處理：正規化 + SentencePiece（spm32k，spm32k）
+  - Downloads: 11
+- [Helsinki-NLP/opus-mt-ja-ms](https://huggingface.co/Helsinki-NLP/opus-mt-ja-ms)
+  - jpn-msa來源組：日語目標組：馬來語（概括語言）OPUS自述：jpn-msa模型：轉換對齊源語言：日語日語漢 日語平假名 日語假名目標語言：印尼 文籟姆拉丁字母
+  - Downloads: 11
+- [KoichiYasuoka/roberta-small-japanese-aozora](https://huggingface.co/KoichiYasuoka/roberta-small-japanese-aozora)
+  - 羅伯塔-小型-日文-青空模型描述：這是一個使用日文LUW分詞器預訓練在青空文庫文本上的羅伯塔模型。
+  - Downloads: 11
+- [KoichiYasuoka/roberta-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-luw-upos)
+  - roberta-base-japanese-luw-uposModel -> 羅伯塔基底日語-luw-upos 模型
+  - Downloads: 11
+- [KoichiYasuoka/bert-large-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/bert-large-japanese-luw-upos)
+  - 波特大型日语LUW-词性标注模型
   - Downloads: 11
 - [izumi-lab/electra-small-japanese-fin-discriminator](https://huggingface.co/izumi-lab/electra-small-japanese-fin-discriminator)
   - 儀電小型日本金融辨識器這是一個在日本語文本上預訓練的ELECTRA模型。
+  - Downloads: 11
+- [izumi-lab/electra-small-paper-japanese-fin-generator](https://huggingface.co/izumi-lab/electra-small-paper-japanese-fin-generator)
+  - ELECTRA是一個小型的日文金融生成器。這是一個在日語文本上預先訓練的ELECTRA模型。
   - Downloads: 11
 - [vitouphy/wav2vec2-xls-r-300m-japanese](https://huggingface.co/vitouphy/wav2vec2-xls-r-300m-japanese)
   - 這個模型是用來將音頻轉錄成平假名，這是日語的一種文字格式。
@@ -4065,9 +4069,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 11
 - [hitachi-nlp/bert-base-japanese_sudachi-bpe](https://huggingface.co/hitachi-nlp/bert-base-japanese_sudachi-bpe)
   - 日本語BERT-base（Sudachi + BPE）如何加載分詞器請從我們的 GitHub 存儲庫下載Sudachi + BPE 的字典文件。
-  - Downloads: 11
-- [turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1)
-  - Heron BLIP Japanese StableLM 轉換為繁體中文為：「蜆鳥BLIP日本穩定LM」
   - Downloads: 11
 - [wolf4032/bert-japanese-token-classification-search-local-cuisine](https://huggingface.co/wolf4032/bert-japanese-token-classification-search-local-cuisine)
   - 為模型ID為料理查詢提問文，提取關鍵字作為查找用固有表達式的模型卡明細模型描述，例如輸入"東京的肉料理，春季食用，使用雞肉做的料理"一文將提取"東京 → 都道府県/地區(AREA)"、"肉料理 → 種類(TYPE)"、"春
@@ -4170,9 +4171,6 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 11
 - [snu-nia-12/wav2vec2-xls-r-300m_nia12_phone-hiragana_japanese](https://huggingface.co/snu-nia-12/wav2vec2-xls-r-300m_nia12_phone-hiragana_japanese)
   - Wav2Vec2-XLS-R-300M-Japanese-HiraganaFine-tuned 是在 JSUT、JVS、Common Voice 和內部數據集上使用 Facebook/wav2vec2-xls-r-300m 進行日文平假名字元的微調。
-  - Downloads: 11
-- [KoichiYasuoka/roberta-base-japanese-luw-upos](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-luw-upos)
-  - roberta-base-japanese-luw-uposModel -> 羅伯塔基底日語-luw-upos 模型
   - Downloads: 11
 - [Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1-GGUF](https://huggingface.co/Aratako/ELYZA-japanese-Llama-2-MoE-2x13B-v0.1-GGUF)
   - ELYZA - 日本 - 娾-2-MoE-2x13B-v0.1-GGUF 概要Aratako/ELYZA - 日本 - 娾-2-MoE-2x13B-v0.1 的量子化済み GGUF 版本。
@@ -4425,7 +4423,7 @@ This list is sorted by downloads as of September 23, 2025.
   - Downloads: 11
 ## Datasets
 
-This list is sorted by downloads as of September 23, 2025.
+This list is sorted by downloads as of September 29, 2025.
 651 datasets are listed.
 
 - [KakologArchives/KakologArchives](https://huggingface.co/datasets/KakologArchives/KakologArchives)
