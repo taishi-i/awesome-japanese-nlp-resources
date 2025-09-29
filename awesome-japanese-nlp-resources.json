@@ -3682,7 +3682,7 @@
                 "sub_category": "Converter",
                 "repository_name": "yosina",
                 "user_name": "yosina-lib",
-                "description": "",
+                "description": "Yosina is a transliteration library deals with the letters and symbols used in Japanese writing.",
                 "multilingual_descriptions": {
                     "en": "Yosina is a transliteration library deals with the letters and symbols used in Japanese writing.",
                     "ja": "Yosinaは、日本語の文章で使用される文字や記号を取り扱う転写ライブラリです。",

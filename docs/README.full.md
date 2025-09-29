@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [726 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2111 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [727 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2115 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,10 +18,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Rust**
- * [yosina](https://github.com/yosina-lib/yosina) - Yosina is a transliteration library deals with the letters and symbols used in Japanese writing.
+**Tutorial**
+ * [practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja) - 本リポジトリはオライリー・ジャパン発行書籍『実践 自然言語処理』のサポートサイトです。
 
-_Updated on Sep 23, 2025_
+_Updated on Sep 30, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1771,7 +1771,6 @@ Resources
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
- * [practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja) - 本リポジトリはオライリー・ジャパン発行書籍『実践 自然言語処理』のサポートサイトです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1808,7 +1807,6 @@ Resources
 |[genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masamasa59/genai-agent-advanced-book?style=social)|
 |[course2024-nlp](https://github.com/tomonari-masada/course2024-nlp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomonari-masada/course2024-nlp?style=social)|
 |[support-genai-book](https://github.com/yoheikikuta/support-genai-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoheikikuta/support-genai-book?style=social)|
-|[practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/oreilly-japan/practical-nlp-ja?style=social)|
 
 
 ## Research summary
