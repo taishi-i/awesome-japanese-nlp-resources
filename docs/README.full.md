@@ -1771,6 +1771,7 @@ Resources
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
+ * [practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja) - 本リポジトリはオライリー・ジャパン発行書籍『実践 自然言語処理』のサポートサイトです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1807,6 +1808,7 @@ Resources
 |[genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masamasa59/genai-agent-advanced-book?style=social)|
 |[course2024-nlp](https://github.com/tomonari-masada/course2024-nlp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomonari-masada/course2024-nlp?style=social)|
 |[support-genai-book](https://github.com/yoheikikuta/support-genai-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoheikikuta/support-genai-book?style=social)|
+|[practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/oreilly-japan/practical-nlp-ja?style=social)|
 
 
 ## Research summary
