@@ -1094,6 +1094,18 @@
                     "zh-hant": "一個簡單的漫畫OCR（日本傳統和日本垂直）"
                 }
             },
+            "https://github.com/yoshino/jp-ocr-evaluation": {
+                "sub_category": "OCR",
+                "repository_name": "jp-ocr-evaluation",
+                "user_name": "yoshino",
+                "description": "日本語の文章画像に対するOCRの性能を評価",
+                "multilingual_descriptions": {
+                    "en": "Evaluate the performance of OCR on Japanese text images.",
+                    "ja": "日本語の文章画像に対するOCRの性能を評価",
+                    "zh-hans": "评估对日语文章图像的OCR性能",
+                    "zh-hant": "評估對日語文章圖像的OCR性能"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -8250,6 +8262,18 @@
                     "ja": "学習すべき日本語の漢字部首のリスト",
                     "zh-hans": "要学习的日本汉字部首列表",
                     "zh-hant": "要學習的日本漢字部首列表"
+                }
+            },
+            "https://github.com/language-media-lab/jethics": {
+                "sub_category": null,
+                "repository_name": "jethics",
+                "user_name": "language-media-lab",
+                "description": "日本語道徳理解度評価用データセットJETHICSの概説ページ (to be update)",
+                "multilingual_descriptions": {
+                    "en": "Overview page of the Japanese Ethical Understanding Evaluation Dataset JETHICS (to be updated)",
+                    "ja": "日本語道徳理解度評価用データセットJETHICSの概説ページ (to be update)",
+                    "zh-hans": "日本语道德理解度评价用数据集JETHICS的概述页面（待更新）",
+                    "zh-hant": "日本語道徳理解度評価用數據集JETHICS的概述頁面（待更新）"
                 }
             }
         },

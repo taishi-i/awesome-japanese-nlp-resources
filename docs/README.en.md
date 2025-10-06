@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [727 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2115 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [729 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2120 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,10 +18,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Tutorial**
- * [practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja) - This repository is a support site for the O'Reilly Japan publication "Practical Natural Language Processing."
+**Python**
+ * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - Evaluate the performance of OCR on Japanese text images.
 
-_Updated on Sep 30, 2025_
+**Corpus**
+ * [jethics](https://github.com/language-media-lab/jethics) - Overview page of the Japanese Ethical Understanding Evaluation Dataset JETHICS (to be updated)
+
+_Updated on Oct 07, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -226,6 +229,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - Japanese OCR with CenterNet
  * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - A simple OCR for manga (Japanese traditional and Japanese vertical)
+ * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - Evaluate the performance of OCR on Japanese text images.
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1009,6 +1013,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - Test set to evaluate the safety behavior of Japanese language models
  * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - A simple, open-source collection of Japanese onomatopoeic and mimetic sound words in JSON format. With manga samples.
  * [kanji](https://github.com/sylhare/kanji) - List of Japanese Kanji Radicals to Learn
+ * [jethics](https://github.com/language-media-lab/jethics) - Overview page of the Japanese Ethical Understanding Evaluation Dataset JETHICS (to be updated)
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

@@ -8,8 +8,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了727個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了2115個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了729個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了2120個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,10 +17,13 @@
 
 ## 🎉 The latest additions
 
-**Tutorial**
- * [practical-nlp-ja](https://github.com/oreilly-japan/practical-nlp-ja) - 本存儲庫是O'Reilly Japan出版的書籍《實踐 自然語言處理》的支援網站。
+**Python**
+ * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 評估對日語文章圖像的OCR性能
 
-_Updated on Sep 30, 2025_
+**Corpus**
+ * [jethics](https://github.com/language-media-lab/jethics) - 日本語道徳理解度評価用數據集JETHICS的概述頁面（待更新）
+
+_Updated on Oct 07, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -227,6 +230,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku是一個專為日語設計的AI驅動的文件圖像分析套件。
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - 使用CenterNet的日文OCR
  * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 一個簡單的漫畫OCR（日本傳統和日本垂直）
+ * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 評估對日語文章圖像的OCR性能
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
@@ -1028,6 +1032,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
  * [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) - 評估日語語言模型安全性行為的測試集
  * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - 一個簡單的、開源的日語擬聲詞和擬音詞聲音詞彙的JSON格式收集。附帶漫畫示例。
  * [kanji](https://github.com/sylhare/kanji) - 要學習的日本漢字部首列表
+ * [jethics](https://github.com/language-media-lab/jethics) - 日本語道徳理解度評価用數據集JETHICS的概述頁面（待更新）
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
