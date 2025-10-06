@@ -311,6 +311,7 @@ _Updated on Sep 30, 2025_
  * [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - Japanese OCR with CenterNet
  * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - A simple OCR for manga (Japanese traditional and Japanese vertical)
+ * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 日本語の文章画像に対するOCRの性能を評価
 
 
 |Name|downloads/week|total downloads|stars|
@@ -329,6 +330,7 @@ _Updated on Sep 30, 2025_
 |[yomitoku](https://github.com/kotaro-kinoshita/yomitoku)|[![Downloads](https://pepy.tech/badge/yomitoku/week)](https://pepy.tech/project/yomitoku)|[![Downloads](https://pepy.tech/badge/yomitoku)](https://pepy.tech/project/yomitoku)|![GitHub Repo stars](https://img.shields.io/github/stars/kotaro-kinoshita/yomitoku?style=social)|
 |[findtextcenternet](https://github.com/lithium0003/findtextcenternet)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/findtextcenternet?style=social)|
 |[simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yisusdev2005/simple-ocr-for-manga?style=social)|
+|[jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoshino/jp-ocr-evaluation?style=social)|
 
 
 ### Tool for pretrained models
