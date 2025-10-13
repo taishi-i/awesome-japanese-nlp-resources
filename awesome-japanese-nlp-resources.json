@@ -3397,6 +3397,30 @@
                     "zh-hans": "利用LLM的自主调查代理。轻松收集信息，了解概要。",
                     "zh-hant": "利用LLM的自律調查代理人。輕鬆收集信息，了解概要。"
                 }
+            },
+            "https://github.com/webbigdata-jp/jtransbench": {
+                "sub_category": null,
+                "repository_name": "jtransbench",
+                "user_name": "webbigdata-jp",
+                "description": "A tool to easily benchmark Japanese translation skills",
+                "multilingual_descriptions": {
+                    "en": "A tool to easily benchmark Japanese translation skills",
+                    "ja": "日本語翻訳スキルを簡単にベンチマークするためのツール",
+                    "zh-hans": "一个方便测试日语翻译能力的工具",
+                    "zh-hant": "一個方便測試日文翻譯能力的工具"
+                }
+            },
+            "https://github.com/zuntan03/easyllasa": {
+                "sub_category": null,
+                "repository_name": "easyllasa",
+                "user_name": "zuntan03",
+                "description": "EasyLlasa は 5～15秒の日本語音声と日本語テキストから日本語音声を生成する TSTS (TextSpeechToSpeech) です。",
+                "multilingual_descriptions": {
+                    "en": "EasyLlasa is a TSTS (TextSpeechToSpeech) that generates Japanese speech from Japanese text and Japanese voice of 5-15 seconds.",
+                    "ja": "EasyLlasa は 5～15秒の日本語音声と日本語テキストから日本語音声を生成する TSTS (TextSpeechToSpeech) です。",
+                    "zh-hans": "EasyLlasa是一种从5到15秒的日语音频和日语文本生成日语音频的TSTS（文本语音转换）工具。",
+                    "zh-hant": "EasyLlasa 是一個從5到15秒的日語音頻和日語文本生成日語音頻的TSTS（TextSpeechToSpeech）。"
+                }
             }
         },
         "C++": {

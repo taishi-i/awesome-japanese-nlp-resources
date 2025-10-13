@@ -8,8 +8,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了729個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了2120個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了731個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了2129個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,12 +18,10 @@
 ## 🎉 The latest additions
 
 **Python**
- * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 評估對日語文章圖像的OCR性能
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 一個方便測試日文翻譯能力的工具
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa 是一個從5到15秒的日語音頻和日語文本生成日語音頻的TSTS（TextSpeechToSpeech）。
 
-**Corpus**
- * [jethics](https://github.com/language-media-lab/jethics) - 日本語道徳理解度評価用數據集JETHICS的概述頁面（待更新）
-
-_Updated on Oct 07, 2025_
+_Updated on Oct 14, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -445,6 +443,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - 為fastrtc添加日文TTS和STT套件
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python的Whisper模型進行語音轉文字工具
  * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - 利用LLM的自律調查代理人。輕鬆收集信息，了解概要。
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 一個方便測試日文翻譯能力的工具
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa 是一個從5到15秒的日語音頻和日語文本生成日語音頻的TSTS（TextSpeechToSpeech）。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了729个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2120个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了731个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2129个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -19,12 +19,10 @@
 ## 🎉 The latest additions
 
 **Python**
- * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 评估对日语文章图像的OCR性能
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 一个方便测试日语翻译能力的工具
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa是一种从5到15秒的日语音频和日语文本生成日语音频的TSTS（文本语音转换）工具。
 
-**Corpus**
- * [jethics](https://github.com/language-media-lab/jethics) - 日本语道德理解度评价用数据集JETHICS的概述页面（待更新）
-
-_Updated on Oct 07, 2025_
+_Updated on Oct 14, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -444,6 +442,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - 为fastrtc添加日语TTS和STT套件
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python编写的Whisper模型进行语音转文字工具
  * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - 利用LLM的自主调查代理。轻松收集信息，了解概要。
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 一个方便测试日语翻译能力的工具
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa是一种从5到15秒的日语音频和日语文本生成日语音频的TSTS（文本语音转换）工具。
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

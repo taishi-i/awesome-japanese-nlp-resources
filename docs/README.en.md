@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [729 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2120 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [731 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2129 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -19,12 +19,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Python**
- * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - Evaluate the performance of OCR on Japanese text images.
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - A tool to easily benchmark Japanese translation skills
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa is a TSTS (TextSpeechToSpeech) that generates Japanese speech from Japanese text and Japanese voice of 5-15 seconds.
 
-**Corpus**
- * [jethics](https://github.com/language-media-lab/jethics) - Overview page of the Japanese Ethical Understanding Evaluation Dataset JETHICS (to be updated)
-
-_Updated on Oct 07, 2025_
+_Updated on Oct 14, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -440,6 +438,8 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - Japanese TTS and STT add-on kit for fastrtc
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - Speech-to-text tool using Whisper model with Python
  * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - Autonomous investigation agent utilizing LLM. Easily collect information and grasp an overview.
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - A tool to easily benchmark Japanese translation skills
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa is a TSTS (TextSpeechToSpeech) that generates Japanese speech from Japanese text and Japanese voice of 5-15 seconds.
 
 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).

@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [729件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [2120 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [731件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [2129 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,12 +18,10 @@
 ## 🎉 The latest additions
 
 **Python**
- * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 日本語の文章画像に対するOCRの性能を評価
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 日本語翻訳スキルを簡単にベンチマークするためのツール
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa は 5～15秒の日本語音声と日本語テキストから日本語音声を生成する TSTS (TextSpeechToSpeech) です。
 
-**Corpus**
- * [jethics](https://github.com/language-media-lab/jethics) - 日本語道徳理解度評価用データセットJETHICSの概説ページ (to be update)
-
-_Updated on Oct 07, 2025_
+_Updated on Oct 14, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -581,6 +579,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - fastrtc用の日本語TTSとSTT追加キット
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - Pythonを使用したWhisperモデルによる音声文字起こしツール
  * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - LLMを活用した自律調査エージェント。手軽に情報収集、概要把握。
+ * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 日本語翻訳スキルを簡単にベンチマークするためのツール
+ * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa は 5～15秒の日本語音声と日本語テキストから日本語音声を生成する TSTS (TextSpeechToSpeech) です。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -748,6 +748,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[fastrtc-jp](https://github.com/route250/fastrtc-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/route250/fastrtc-jp?style=social)|
 |[whisper-transcription](https://github.com/fumifumi0831/whisper-transcription)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fumifumi0831/whisper-transcription?style=social)|
 |[pocket-researcher](https://github.com/u-masao/pocket-researcher)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/u-masao/pocket-researcher?style=social)|
+|[jtransbench](https://github.com/webbigdata-jp/jtransbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/webbigdata-jp/jtransbench?style=social)|
+|[easyllasa](https://github.com/zuntan03/easyllasa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easyllasa?style=social)|
 
 
 ## C++
