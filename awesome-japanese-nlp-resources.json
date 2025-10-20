@@ -722,6 +722,18 @@
                     "zh-hant": "日本語句子分割工具比較"
                 }
             },
+            "https://github.com/hotchpotch/fast-bunkai": {
+                "sub_category": "Sentence spliter",
+                "repository_name": "fast-bunkai",
+                "user_name": "hotchpotch",
+                "description": "Japanese sentence splitting(日本語文境界判定器), 40–250× faster via a Rust-accelerated Python library with near-perfect API compatibility with megagonlabs/bunkai.",
+                "multilingual_descriptions": {
+                    "en": "Japanese sentence splitting(日本語文境界判定器), 40–250× faster via a Rust-accelerated Python library with near-perfect API compatibility with megagonlabs/bunkai.",
+                    "ja": "日本語文境界判定器、Rustで高速化されたPythonライブラリを使用して、megagonlabs/bunkaiとほぼ完全なAPI互換性を持つ40〜250倍速くなりました。",
+                    "zh-hans": "通过一个由Rust加速的Python库，日本语句子分割速度提高了40-250倍，几乎完全兼容megagonlabs/bunkai的API。",
+                    "zh-hant": "通過一個使用Rust加速的Python庫，日本語文境界判定器的處理速度提高了40-250倍，並且與megagonlabs/bunkai具有幾乎完美的API兼容性。"
+                }
+            },
             "https://github.com/ikegami-yukino/oseti": {
                 "sub_category": "Sentiment analysis",
                 "repository_name": "oseti",
