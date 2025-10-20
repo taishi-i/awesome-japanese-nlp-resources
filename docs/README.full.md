@@ -224,6 +224,7 @@ _Updated on Oct 14, 2025_
  * [hasami](https://github.com/mkartawijaya/hasami) - A tool to perform sentence segmentation on Japanese text
  * [kuzukiri](https://github.com/alinear-corp/kuzukiri) - Japanese Text Segmenter for Python written in Rust
  * [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) - Comparison of Japanese Sentence Segmentation Tools
+ * [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) - Japanese sentence splitting(日本語文境界判定器), 40–250× faster via a Rust-accelerated Python library with near-perfect API compatibility with megagonlabs/bunkai.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -236,6 +237,7 @@ _Updated on Oct 14, 2025_
 |[hasami](https://github.com/mkartawijaya/hasami)|[![Downloads](https://static.pepy.tech/badge/hasami/week)](https://pepy.tech/project/hasami)|[![Downloads](https://static.pepy.tech/badge/hasami)](https://pepy.tech/project/hasami)|![GitHub Repo stars](https://img.shields.io/github/stars/mkartawijaya/hasami?style=social)|
 |[kuzukiri](https://github.com/alinear-corp/kuzukiri)|[![Downloads](https://static.pepy.tech/badge/kuzukiri/week)](https://pepy.tech/project/kuzukiri)|[![Downloads](https://static.pepy.tech/badge/kuzukiri)](https://pepy.tech/project/kuzukiri)|![GitHub Repo stars](https://img.shields.io/github/stars/alinear-corp/kuzukiri?style=social)|
 |[ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hkiyomaru/ja-senter-benchmark?style=social)|
+|[fast-bunkai](https://github.com/hotchpotch/fast-bunkai)|[![Downloads](https://pepy.tech/badge/fast-bunkai/week)](https://pepy.tech/project/fast-bunkai)|[![Downloads](https://pepy.tech/badge/fast-bunkai)](https://pepy.tech/project/fast-bunkai)|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/fast-bunkai?style=social)|
 
 
 ### Sentiment analysis
