@@ -3433,6 +3433,18 @@
                     "zh-hans": "EasyLlasa是一种从5到15秒的日语音频和日语文本生成日语音频的TSTS（文本语音转换）工具。",
                     "zh-hant": "EasyLlasa 是一個從5到15秒的日語音頻和日語文本生成日語音頻的TSTS（TextSpeechToSpeech）。"
                 }
+            },
+            "https://github.com/digital-go-jp/kanjikana-model": {
+                "sub_category": null,
+                "repository_name": "kanjikana-model",
+                "user_name": "digital-go-jp",
+                "description": "氏名漢字カナ突合モデル",
+                "multilingual_descriptions": {
+                    "en": "Name Kanji Kana Matching Model",
+                    "ja": "氏名漢字カナ突合モデル",
+                    "zh-hans": "姓名汉字假名对照模型",
+                    "zh-hant": "姓名漢字假名對照模型"
+                }
             }
         },
         "C++": {

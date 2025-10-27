@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [732件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [2131 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [733件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [2136 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,9 +18,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) - 日本語文境界判定器、Rustで高速化されたPythonライブラリを使用して、megagonlabs/bunkaiとほぼ完全なAPI互換性を持つ40〜250倍速くなりました。
+ * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
 
-_Updated on Oct 21, 2025_
+_Updated on Oct 28, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -582,6 +582,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [pocket-researcher](https://github.com/u-masao/pocket-researcher) - LLMを活用した自律調査エージェント。手軽に情報収集、概要把握。
  * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - 日本語翻訳スキルを簡単にベンチマークするためのツール
  * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa は 5～15秒の日本語音声と日本語テキストから日本語音声を生成する TSTS (TextSpeechToSpeech) です。
+ * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -751,6 +752,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[pocket-researcher](https://github.com/u-masao/pocket-researcher)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/u-masao/pocket-researcher?style=social)|
 |[jtransbench](https://github.com/webbigdata-jp/jtransbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/webbigdata-jp/jtransbench?style=social)|
 |[easyllasa](https://github.com/zuntan03/easyllasa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easyllasa?style=social)|
+|[kanjikana-model](https://github.com/digital-go-jp/kanjikana-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/kanjikana-model?style=social)|
 
 
 ## C++
