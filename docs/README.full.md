@@ -21,7 +21,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 **Python**
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
 
-_Updated on Oct 28, 2025_
+_Updated on Oct 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -78,6 +78,7 @@ _Updated on Oct 28, 2025_
 ## Python library
 
 ### Morphology analysis
+Libraries that split Japanese text into words or morphemes and assign part-of-speech and base forms
 
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6* and above are developed as Sudachi.rs.
  * [Janome](https://github.com/mocobeta/janome) - Japanese morphological analysis engine written in pure Python
@@ -118,6 +119,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Parsing
+Libraries that analyze syntactic and dependency structures of Japanese sentences
 
  * [ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies
  * [cabocha](https://github.com/ikegami-yukino/cabocha) - Yet Another Japanese Dependency Structure Analyzer
@@ -150,6 +152,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Converter
+Libraries that convert between character types such as kana, romaji, and full-width/half-width forms
 
  * [pykakasi](https://github.com/miurahr/pykakasi) - Lightweight converter from Japanese Kana-kanji sentences into Kana-Roman.
  * [cutlet](https://github.com/polm/cutlet) - Japanese to romaji converter in Python
@@ -190,6 +193,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Preprocessor
+Libraries that normalize and clean text before analysis
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - Japanese text normalizer for mecab-neologd
  * [jaconv](https://github.com/ikegami-yukino/jaconv) - Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, and Zenkaku
@@ -214,6 +218,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Sentence spliter
+Libraries that automatically detect sentence boundaries and split text
 
  * [Bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
  * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - Japanese Sentence Breaker
@@ -240,6 +245,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Sentiment analysis
+Libraries that detect emotions or polarity in text
 
  * [oseti](https://github.com/ikegami-yukino/oseti) - Dictionary based Sentiment Analysis for Japanese
  * [negapoji](https://github.com/liaoziyang/negapoji) - Japanese negative positive classification.日本語文書のネガポジを判定。
@@ -256,6 +262,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Machine translation
+Libraries that automatically translate text between languages
 
  * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
  * [JASS](https://github.com/Mao-KU/JASS) - JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation (LREC2020) & Linguistically Driven Multi-Task Pre-Training for Low-Resource Neural Machine Translation (ACM TALLIP)
@@ -272,6 +279,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Named entity recognition
+Libraries that extract names of people, places, and organizations from text
 
  * [namaco](https://github.com/chakki-works/namaco) - Character Based Named Entity Recognition.
  * [entitypedia](https://github.com/chakki-works/entitypedia) - Entitypedia is an Extended Named Entity Dictionary from Wikipedia.
@@ -298,6 +306,7 @@ _Updated on Oct 28, 2025_
 
 
 ### OCR
+Libraries that recognize and extract text from images
 
  * [Manga OCR](https://github.com/kha-white/manga-ocr) - About Optical character recognition for Japanese text, with the main focus being Japanese manga
  * [mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
@@ -336,6 +345,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Tool for pretrained models
+Libraries that utilize pretrained models to improve accuracy and efficiency
 
  * [JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE: Japanese General Language Understanding Evaluation
  * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - Use custom tokenizers in spacy-transformers
@@ -408,6 +418,7 @@ _Updated on Oct 28, 2025_
 
 
 ### Others
+General-purpose tools supporting Japanese language processing
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - A tool for dividing the Japanese full name into a family name and a given name.
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - A curated list of resources dedicated to Python libraries of NLP for Japanese
@@ -751,6 +762,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 ## C++
 
 ### Morphology analysis
+High-performance libraries for Japanese morphological analysis
 
  * [mecab](https://github.com/taku910/mecab) - Yet another Japanese morphological analyzer
  * [jumanpp](https://github.com/ku-nlp/jumanpp) - Juman++ (a Morphological Analyzer Toolkit)
@@ -764,6 +776,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[kytea](https://github.com/neubig/kytea)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neubig/kytea?style=social)|
 
 ### Parsing
+Libraries for dependency and syntactic parsing of Japanese sentences
 
  * [cabocha](https://github.com/taku910/cabocha) - Yet Another Japanese Dependency Structure Analyzer
  * [knp](https://github.com/ku-nlp/knp) - A Japanese Parser
@@ -775,6 +788,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[knp](https://github.com/ku-nlp/knp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/knp?style=social)|
 
 ### Others
+Other Japanese NLP and text processing libraries
 
  * [jsc](https://github.com/yohokuno/jsc) - Joint source channel model for Japanese Kana Kanji conversion, Chinese pinyin input and CJE mixed input.
  * [aquaskk](https://github.com/codefirst/aquaskk) - An input method without morphological analysis.
@@ -797,6 +811,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 ## Rust crate
 
 ### Morphology analysis
+Fast Japanese morphological analysis crates written in Rust
 
  * [lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto: Very Accelerated POintwise pREdicTion based TOkenizer
@@ -821,6 +836,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 
 ### Converter
+Crates for script and character conversion in Japanese text
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - Utility library for checking and converting between Japanese characters - Hiragana, Katakana - and Romaji
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - A Rust library to convert Japanese Half-width-kana[半角ｶﾅ] and Wide-alphanumeric[全角英数] into normal ones
@@ -841,6 +857,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 
 ### Search engine library
+Libraries for Japanese full-text search and indexing
 
  * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Lindera tokenizer for Tantivy.
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - A Tantivy tokenizer using Vibrato.
@@ -853,6 +870,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 
 ### Others
+Supplementary crates for Japanese text and IME processing
 
  * [daachorse](https://github.com/daac-tools/daachorse) - A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
@@ -899,6 +917,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 ## JavaScript
 
 ### Morphology analysis
+Japanese morphological analysis libraries for browser and Node.js
 
  * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - JavaScript implementation of Japanese morphological analyzer
  * [rakutenma](https://github.com/rakuten-nlp/rakutenma) -  Rakuten MA - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript.
@@ -918,6 +937,7 @@ Resources
 
 
 ### Converter
+Libraries for converting Japanese scripts and readings
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuromoji morphological analyzer for kuroshiro.
@@ -952,6 +972,7 @@ Resources
 
 
 ### Others
+Other libraries for Japanese NLP in JavaScript
 
  * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime
  * [yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
@@ -998,6 +1019,7 @@ Resources
 ## Go
 
 ### Morphology analysis
+Lightweight Japanese morphological analysis libraries in Go
 
  * [kagome](https://github.com/ikawaha/kagome) - Self-contained Japanese Morphological Analyzer written in pure Go
 
@@ -1008,6 +1030,7 @@ Resources
 
 
 ### Others
+Additional Go-based Japanese text processing libraries
 
  * [ojosama](https://github.com/jiro4989/ojosama) - テキストを壱百満天原サロメお嬢様風の口調に変換します
  * [nihongo](https://github.com/gojp/nihongo) - Japanese Dictionary
@@ -1034,6 +1057,7 @@ Resources
 ## Java
 
 ### Morphology analysis
+Japanese morphological analysis and dictionary management libraries
 
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
@@ -1050,6 +1074,7 @@ Resources
 
 
 ### Others
+Java libraries for Japanese NLP and OCR
 
  * [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) - Java library for identifying Japanese characters from images
  * [jakaroma](https://github.com/nicolas-raoul/jakaroma) - Java library and command-line tool to transliterate Japanese kanji to romaji (Latin alphabet)
@@ -1078,6 +1103,7 @@ Resources
 ## Pretrained model
 
 ### Word2Vec
+Models that convert words into numeric vectors to capture semantic similarity
 
  * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - Word2vec (word to vectors) approach for Japanese language using Gensim and Mecab.
  * [chiVe](https://github.com/WorksApplications/chiVe) - Japanese word embedding with Sudachi and NWJC
@@ -1102,6 +1128,7 @@ Resources
 
 
 ### Transformer based models
+Models that use self-attention to understand context and perform advanced language tasks
 
  * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - BERT models for Japanese text.
  * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - Code for producing Japanese pretrained models provided by rinna Co., Ltd.
@@ -1395,6 +1422,7 @@ Resources
 ## Corpus
 
 ### Part-of-speech tagging / Named entity recognition
+Corpora annotated with part-of-speech tags and named entities
 
  * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - Wikipediaを用いた日本語の固有表現抽出データセット
  * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - Japanese IOB2 tagged corpus for Named Entity Recognition.
@@ -1420,6 +1448,7 @@ Resources
 
 
 ### Parallel corpus
+Bilingual corpora containing aligned sentences for translation tasks
 
  * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k English-Japanese Parallel Corpus for Machine Translation Benchmark.
  * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - A Web Crawled Corpus for Japanese-Chinese NMT
@@ -1454,6 +1483,7 @@ Resources
 
 
 ### Dialog corpus
+Collections of conversation data for training dialogue systems
 
  * [JMRD](https://github.com/ku-nlp/JMRD) - Japanese Movie Recommendation Dialogue dataset
  * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - おーぷん2ちゃんねるをクロールして作成した対話コーパス
@@ -1480,6 +1510,7 @@ Resources
 
 
 ### Others
+Corpora for tasks such as question answering or entailment recognition
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - Japanese Realistic Textual Entailment Corpus (NLP 2020, LREC 2020)
  * [kanji-data](https://github.com/davidluzgouveia/kanji-data) - A JSON kanji dataset with updated JLPT levels and WaniKani information

@@ -21,7 +21,7 @@
 **Python**
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 姓名汉字假名对照模型
 
-_Updated on Oct 28, 2025_
+_Updated on Oct 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -78,6 +78,7 @@ _Updated on Oct 28, 2025_
 ## Python library
 
 ### Morphology analysis
+将日语文本分词并标注词性和原形的库
 
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6及以上版本已经开发为Sudachi.rs。
  * [Janome](https://github.com/mocobeta/janome) - 用纯Python编写的日语形态分析引擎
@@ -101,6 +102,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Parsing
+分析日语句法和依存结构的库
 
  * [ginza](https://github.com/megagonlabs/ginza) - 一个基于通用依存关系的spaCy框架的日语NLP库。
  * [cabocha](https://github.com/ikegami-yukino/cabocha) - 另一个日语依存结构分析器
@@ -120,6 +122,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Converter
+在假名、罗马字与全角半角之间转换的库
 
  * [pykakasi](https://github.com/miurahr/pykakasi) - 将日语假名汉字句子转换为假名罗马字的轻量级转换器。
  * [cutlet](https://github.com/polm/cutlet) - Python中的日语转罗马字转换器
@@ -143,6 +146,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Preprocessor
+在分析前进行文本规范化与清理的库
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - 针对mecab-neologd的日语文本规范化工具
  * [jaconv](https://github.com/ikegami-yukino/jaconv) - 纯Python日语字符互转器，支持平假名、片假名、半角和全角。
@@ -158,6 +162,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Sentence spliter
+自动检测句子边界并分割文本的库
 
  * [Bunkai](https://github.com/megagonlabs/bunkai) - 日语文本句子边界消歧工具
  * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - 日语句子分割器
@@ -174,6 +179,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Sentiment analysis
+分析文本情感和情绪极性的库
 
  * [oseti](https://github.com/ikegami-yukino/oseti) - 基于词典的日语情感分析
  * [negapoji](https://github.com/liaoziyang/negapoji) - 日语文档的负面和正面分类判断。
@@ -185,6 +191,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Machine translation
+在不同语言之间自动翻译文本的库
 
  * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - JParaCrawl预训练神经机器翻译（NMT）模型的示例用法。
  * [JASS](https://github.com/Mao-KU/JASS) - JASS：面向日本特定序列到序列预训练的神经机器翻译（LREC2020）和基于语言驱动的多任务预训练的低资源神经机器翻译（ACM TALLIP）。
@@ -196,6 +203,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Named entity recognition
+从文本中提取人名、地名和组织名的库
 
  * [namaco](https://github.com/chakki-works/namaco) - 基于字符的命名实体识别。
  * [entitypedia](https://github.com/chakki-works/entitypedia) - Entitypedia是来自维基百科的扩展命名实体词典。
@@ -212,6 +220,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### OCR
+从图像中识别文字并转换为文本的库
 
  * [Manga OCR](https://github.com/kha-white/manga-ocr) - 关于日文文本的光学字符识别，主要关注于日本漫画。
  * [mokuro](https://github.com/kha-white/mokuro) - 在浏览器中阅读日本漫画，可选择文本。
@@ -234,6 +243,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Tool for pretrained models
+利用预训练模型提升精度与效率的库
 
  * [JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE：日本通用语言理解评估
  * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - 在spacy-transformers中使用自定义分词器
@@ -275,6 +285,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Others
+支持日语处理的其他通用库
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 一个将日本全名分成姓和名的工具。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 一个精选的资源列表，专门介绍用于日语自然语言处理的Python库。
@@ -453,6 +464,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## C++
 
 ### Morphology analysis
+高性能的日语形态素分析库
 
  * [mecab](https://github.com/taku910/mecab) - 又一个日语形态分析器
  * [jumanpp](https://github.com/ku-nlp/jumanpp) - Juman++（一个形态分析工具包）
@@ -462,6 +474,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Parsing
+用于日语句法与依存分析的库
 
  * [cabocha](https://github.com/taku910/cabocha) - 另一个日语依存结构分析器
  * [knp](https://github.com/ku-nlp/knp) - 一个日语解析器
@@ -470,6 +483,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer to [this page](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md).
 
 ### Others
+其他与日语NLP相关的库
 
  * [jsc](https://github.com/yohokuno/jsc) - 联合源通道模型用于日语假名汉字转换、汉语拼音输入和CJE混合输入。
  * [aquaskk](https://github.com/codefirst/aquaskk) - 没有形态分析的输入法。
@@ -485,6 +499,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## Rust crate
 
 ### Morphology analysis
+用Rust实现的日语形态素分析包
 
  * [lindera](https://github.com/lindera-morphology/lindera) - 一个形态分析库。
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto：基于点预测的加速分词器
@@ -500,6 +515,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Converter
+用于日语文字与表记转换的包
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 用于检查和转换日语字符（平假名、片假名和罗马字）的实用程序库。
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 一个 Rust 库，用于将日语半角假名和全角英数字转换为普通字符。
@@ -513,6 +529,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Search engine library
+用于日语全文检索与索引的库
 
  * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Tantivy 的 Lindera 分词器。
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - 使用Vibrato的Tantivy分词器。
@@ -522,6 +539,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Others
+其他与日语文字和输入法处理相关的包
 
  * [daachorse](https://github.com/daac-tools/daachorse) - 使用Rust中的紧凑双数组数据结构快速实现Aho-Corasick算法。
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - 高效地找到所有相似文档的配对
@@ -550,6 +568,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## JavaScript
 
 ### Morphology analysis
+可在浏览器或Node.js进行日语形态素分析的库
 
  * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - 日语形态分析器的JavaScript实现
  * [rakutenma](https://github.com/rakuten-nlp/rakutenma) - Rakuten MA - 用纯JavaScript编写的中文和日文形态分析器（词分割器+词性标注器）。
@@ -563,6 +582,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Converter
+用于日语表记与读音转换的库
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - 日语语言库，可将日语句子转换为平假名、片假名或罗马字，并支持振假名和送假名模式。
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuroshiro 的 Kuromoji 形态分析器。
@@ -583,6 +603,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Others
+其他与日语NLP相关的JavaScript库
 
  * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本动漫的原始数据
  * [yomichan](https://github.com/FooSoft/yomichan) - Chrome和Firefox的日语弹出式词典扩展。
@@ -610,6 +631,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## Go
 
 ### Morphology analysis
+用Go实现的轻量日语形态素分析库
 
  * [kagome](https://github.com/ikawaha/kagome) - 用纯Go编写的自包含日语形态分析器
 
@@ -618,6 +640,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Others
+其他基于Go的日语文本处理库
 
  * [ojosama](https://github.com/jiro4989/ojosama) - 将文本转换为百万天原萨洛梅小姐风格的口吻。
  * [nihongo](https://github.com/gojp/nihongo) - 日语词典
@@ -635,6 +658,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## Java
 
 ### Morphology analysis
+用于日语形态素分析和词典管理的库
 
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromoji是一个自包含且非常易于使用的日语形态分析器，专为搜索而设计。
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
@@ -646,6 +670,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Others
+支持日语NLP与OCR的Java库
 
  * [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) - 用于从图像中识别日语字符的Java库
  * [jakaroma](https://github.com/nicolas-raoul/jakaroma) - 将日语汉字转换为罗马字（拉丁字母）的Java库和命令行工具。
@@ -664,6 +689,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## Pretrained model
 
 ### Word2Vec
+将词语转换为向量以学习语义关系的模型
 
  * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - 使用Gensim和Mecab的Word2vec（单词到向量）方法来处理日语。
  * [chiVe](https://github.com/WorksApplications/chiVe) - 使用Sudachi和NWJC的日语词嵌入
@@ -679,6 +705,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Transformer based models
+使用自注意机制理解上下文并执行高级语言任务的模型
 
  * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - 用于日语文本的BERT模型。
  * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - rinna有限公司提供的生成日语预训练模型的代码。
@@ -839,6 +866,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 ## Corpus
 
 ### Part-of-speech tagging / Named entity recognition
+带有词性和命名实体标注的日语语料库
 
  * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - 使用维基百科进行日语专有名词提取的数据集
  * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - 用于命名实体识别的日语IOB2标记语料库。
@@ -854,6 +882,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Parallel corpus
+包含对齐句子的多语平行语料库
 
  * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k英日平行语料库，用于机器翻译基准测试。
  * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - 一个用于日中机器翻译的网络爬取语料库
@@ -875,6 +904,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Dialog corpus
+用于训练对话系统的会话语料集
 
  * [JMRD](https://github.com/ku-nlp/JMRD) - 日本电影推荐对话数据集
  * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - 使用爬虫程序从2ch论坛抓取并创建的对话语料库
@@ -891,6 +921,7 @@ To check the statistics table (GitHub stars ⭐ / Downloads 📥), please refer 
 
 
 ### Others
+用于问答或语义推理等任务的日语数据集
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - 日本现实文本蕴含语料库（NLP 2020，LREC 2020）
  * [kanji-data](https://github.com/davidluzgouveia/kanji-data) - 一个带有更新的JLPT级别和WaniKani信息的JSON汉字数据集。

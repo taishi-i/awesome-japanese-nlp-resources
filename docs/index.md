@@ -20,7 +20,7 @@
 **Python**
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
 
-_Updated on Oct 28, 2025_
+_Updated on Oct 29, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
