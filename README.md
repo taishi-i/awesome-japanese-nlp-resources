@@ -718,6 +718,7 @@ Models that use self-attention to understand context and perform advanced langua
 
 
 ## ChatGPT
+Resources for using ChatGPT and APIs for Japanese dialogue and text generation
 
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - AITuberの基礎となる部分を開発しています
@@ -748,6 +749,7 @@ Models that use self-attention to understand context and perform advanced langua
 
 
 ## Dictionary and IME
+Resources for Japanese dictionaries and input method editors (IME)
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - A Japanese accent dictionary generator
@@ -1019,6 +1021,7 @@ Corpora for tasks such as question answering or entailment recognition
 
 
 ## Tutorial
+Guides and tutorials for learning Japanese NLP tools and techniques
 
  * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCy tutorial in English and Japanese. spacy-transformers, BERT, GiNZA.
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - Tutorial to train fastText with Japanese corpus
@@ -1056,6 +1059,7 @@ Corpora for tasks such as question answering or entailment recognition
 
 
 ## Research summary
+Summaries of studies and papers in Japanese NLP research
 
  * [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - A list of pre-trained BERT models for Japanese with word/subword tokenization + vocabulary construction algorithm information
  * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 文法誤り訂正に関する日本語文献を収集・分類するためのリポジトリ

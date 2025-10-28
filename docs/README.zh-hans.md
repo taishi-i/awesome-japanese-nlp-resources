@@ -723,6 +723,7 @@ Resources
 
 
 ## ChatGPT
+Resources for using ChatGPT and APIs for Japanese dialogue and text generation
 
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - 使用ChatGPT程序，可以在VRChat上进行聊天。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - 我们正在开发AITuber的基础部分。
@@ -754,6 +755,7 @@ ChatGPT和Copilot等各种生成AI用的“日本语”提示的示例
 
 
 ## Dictionary and IME
+Resources for Japanese dictionaries and input method editors (IME)
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 基于网络语言资源的新词典，适用于mecab-ipadic。
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 一个日语口音词典生成器
@@ -1031,6 +1033,7 @@ COMET-ATOMIC ja
 
 
 ## Tutorial
+Guides and tutorials for learning Japanese NLP tools and techniques
 
  * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCy教程（英文和日文）。spacy-transformers、BERT、GiNZA。
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 使用日语语料库训练fastText的教程
@@ -1068,6 +1071,7 @@ COMET-ATOMIC ja
 
 
 ## Research summary
+Summaries of studies and papers in Japanese NLP research
 
  * [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 一个预训练的BERT模型列表，包括日语的单词/子词分词和词汇构建算法信息。
  * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 收集和分类有关日语文法错误修正的文献的存储库。
