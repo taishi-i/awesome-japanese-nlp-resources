@@ -727,7 +727,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
 
 
 ## ChatGPT
-Resources for using ChatGPT and APIs for Japanese dialogue and text generation
+ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うためのリソース
 
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - AITuberの基礎となる部分を開発しています
@@ -758,7 +758,7 @@ Resources for using ChatGPT and APIs for Japanese dialogue and text generation
 
 
 ## Dictionary and IME
-Resources for Japanese dictionaries and input method editors (IME)
+日本語辞書や入力メソッドエディタに関するリソース
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 「mecab-ipadic」に基づくウェブ上の言語リソースに基づく新語辞典
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 日本語アクセント辞書ジェネレーター
@@ -1036,7 +1036,7 @@ AAAI21で発表された「Towards Fully Automated Manga Translation」論文で
 
 
 ## Tutorial
-Guides and tutorials for learning Japanese NLP tools and techniques
+日本語自然言語処理のツールや技術を学ぶためのチュートリアル
 
  * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCyチュートリアルの英語版と日本語版。spacy-transformers、BERT、GiNZA。
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 日本語コーパスを使用してfastTextをトレーニングするチュートリアル
@@ -1074,7 +1074,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 
 
 ## Research summary
-Summaries of studies and papers in Japanese NLP research
+日本語自然言語処理に関する研究成果や論文をまとめた資料
 
  * [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 日本語の事前学習済みBERTモデルのリストと、単語/サブワードトークン化+語彙構築アルゴリズム情報。
  * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 文法誤り訂正に関する日本語文献を収集・分類するためのリポジトリ
