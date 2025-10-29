@@ -20,7 +20,7 @@
 **Python**
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
 
-_Updated on Oct 29, 2025_
+_Updated on Oct 30, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -77,6 +77,7 @@ _Updated on Oct 29, 2025_
 ## Python library
 
 ### Morphology analysis
+日本語を単語や形態素に分割し品詞や原形を付与するライブラリ
 
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6以上はSudachi.rsとして開発されています。
  * [Janome](https://github.com/mocobeta/janome) - 純粋なPythonで書かれた日本語形態素解析エンジン
@@ -117,6 +118,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Parsing
+文の構造や依存関係を解析して文法関係を明らかにするライブラリ
 
  * [ginza](https://github.com/megagonlabs/ginza) - ユニバーサル依存関係に基づくspaCyフレームワークを使用した日本語NLPライブラリ
  * [cabocha](https://github.com/ikegami-yukino/cabocha) - もう一つの日本語依存構造解析ツール
@@ -149,6 +151,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Converter
+仮名ローマ字や全半角など文字や表記を変換するライブラリ
 
  * [pykakasi](https://github.com/miurahr/pykakasi) - 日本語の仮名漢字文から仮名ローマ字文に変換する軽量コンバーター。
  * [cutlet](https://github.com/polm/cutlet) - Pythonでの日本語からローマ字への変換ツール
@@ -191,6 +194,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Preprocessor
+テキストを正規化し解析に適した形に整えるライブラリ
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - mecab-neologd用の日本語テキスト正規化ツール
  * [jaconv](https://github.com/ikegami-yukino/jaconv) - ひらがな、カタカナ、半角、全角のための純粋なPython日本語文字相互変換器
@@ -215,6 +219,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Sentence spliter
+文章を文ごとに自動で分割するライブラリ
 
  * [Bunkai](https://github.com/megagonlabs/bunkai) - 日本語テキストの文境界曖昧性解消ツール (にほんごぶんきょうかいはんていき)
  * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - 日本語の文分割器
@@ -241,6 +246,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Sentiment analysis
+文に含まれる感情や評価を判定するライブラリ
 
  * [oseti](https://github.com/ikegami-yukino/oseti) - 日本語の辞書ベースの感情分析
  * [negapoji](https://github.com/liaoziyang/negapoji) - 日本語のネガティブ・ポジティブの分類。日本語の文章のネガティブ・ポジティブを判定します。
@@ -257,6 +263,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Machine translation
+異なる言語間で文章を自動翻訳するライブラリ
 
  * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - JParaCrawlの事前学習済みニューラル機械翻訳（NMT）モデルの使用例。
  * [JASS](https://github.com/Mao-KU/JASS) - JASS：ニューラル機械翻訳のための日本語固有のシーケンス・トゥ・シーケンス事前学習（LREC2020）＆言語学的に駆動された低リソースニューラル機械翻訳のためのマルチタスク事前学習（ACM TALLIP）
@@ -273,6 +280,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Named entity recognition
+文から人名地名組織名などの固有表現を抽出するライブラリ
 
  * [namaco](https://github.com/chakki-works/namaco) - 文字ベースの固有表現認識。
  * [entitypedia](https://github.com/chakki-works/entitypedia) - Entitypediaは、Wikipediaからの拡張された固有名詞辞書です。
@@ -299,6 +307,7 @@ _Updated on Oct 29, 2025_
 
 
 ### OCR
+画像から文字を読み取りテキスト化するライブラリ
 
  * [Manga OCR](https://github.com/kha-white/manga-ocr) - 日本語のマンガを中心に、光学文字認識についての説明。
  * [mokuro](https://github.com/kha-white/mokuro) - ブラウザ内で選択可能なテキストで日本のマンガを読む。
@@ -337,6 +346,7 @@ _Updated on Oct 29, 2025_
 
 
 ### Tool for pretrained models
+事前学習済みモデルを活用して精度を高めるライブラリ
 
  * [JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE：日本語一般言語理解評価
  * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - spacy-transformersでカスタムトークナイザーを使用する
@@ -410,6 +420,7 @@ llm-lora-分類
 
 
 ### Others
+日本語処理を補助するその他の汎用ライブラリ
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 日本のフルネームを姓と名に分けるためのツール。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 日本語の自然言語処理のPythonライブラリに特化したリソースの厳選リスト
@@ -758,6 +769,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 ## C++
 
 ### Morphology analysis
+高速な日本語形態素解析を行うライブラリ
 
  * [mecab](https://github.com/taku910/mecab) - もう一つの日本語形態素解析器
  * [jumanpp](https://github.com/ku-nlp/jumanpp) - Juman++（形態素解析ツールキット）
@@ -771,6 +783,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[kytea](https://github.com/neubig/kytea)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neubig/kytea?style=social)|
 
 ### Parsing
+日本語の文法構造や係り受けを解析するライブラリ
 
  * [cabocha](https://github.com/taku910/cabocha) - もう一つの日本語依存構造解析ツール
  * [knp](https://github.com/ku-nlp/knp) - 日本語パーサー
@@ -782,6 +795,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[knp](https://github.com/ku-nlp/knp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/knp?style=social)|
 
 ### Others
+その他の日本語NLP関連ライブラリ
 
  * [jsc](https://github.com/yohokuno/jsc) - 日本語の仮名漢字変換、中国語のピンイン入力、CJE混合入力のための共通ソースチャネルモデル。
  * [aquaskk](https://github.com/codefirst/aquaskk) - 形態素解析を行わない入力方法。
@@ -804,6 +818,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 ## Rust crate
 
 ### Morphology analysis
+Rustで実装された日本語形態素解析ライブラリ
 
  * [lindera](https://github.com/lindera-morphology/lindera) - 形態素解析ライブラリ。
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto：非常に加速されたポイントワイズ予測に基づくトークナイザー
@@ -828,6 +843,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 
 
 ### Converter
+日本語の文字や仮名を変換するライブラリ
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 日本語の文字（ひらがな、カタカナ）とローマ字の間の変換とチェックを行うためのユーティリティライブラリ。
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 日本語の半角カナと全角英数字を通常の文字に変換するためのRustライブラリ
@@ -848,6 +864,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 
 
 ### Search engine library
+日本語全文検索のためのライブラリ
 
  * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Tantivy用のLinderaトークナイザー。
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - Vibratoを使用したTantivyトークナイザー。
@@ -860,6 +877,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 
 
 ### Others
+日本語処理やIMEを扱う補助ライブラリ
 
  * [daachorse](https://github.com/daac-tools/daachorse) - Rustでコンパクトなダブル配列データ構造を使用したAho-Corasickアルゴリズムの高速実装。
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - 効率的な時間とメモリを使って、類似したドキュメントのすべてのペアを見つける。
@@ -907,6 +925,7 @@ Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラ�
 ## JavaScript
 
 ### Morphology analysis
+ブラウザやNode.jsで日本語形態素解析を行うライブラリ
 
  * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - 日本語形態素解析器のJavaScript実装
  * [rakutenma](https://github.com/rakuten-nlp/rakutenma) - 日本語と中国語の形態素解析器（単語分割器+品詞タガー）である「楽天MA」は、純粋にJavaScriptで書かれています。
@@ -926,6 +945,7 @@ Resources
 
 
 ### Converter
+日本語の表記や発音を変換するライブラリ
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - ふりがなと送り仮名モードに対応した、日本語の文章をひらがな、カタカナ、ローマ字に変換するための日本語言語ライブラリ。
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 黒白のためのKuromoji形態素解析器。
@@ -960,6 +980,7 @@ Resources
 
 
 ### Others
+日本語NLPを扱うその他のJavaScriptライブラリ
 
  * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本のアニメの生データ
  * [yomichan](https://github.com/FooSoft/yomichan) - ChromeとFirefox用の日本語ポップアップ辞書拡張機能。
@@ -1006,6 +1027,7 @@ Resources
 ## Go
 
 ### Morphology analysis
+Goで日本語形態素解析を行う軽量ライブラリ
 
  * [kagome](https://github.com/ikawaha/kagome) - 純粋なGoで書かれた自己完結型の日本語形態素解析器
 
@@ -1016,6 +1038,7 @@ Resources
 
 
 ### Others
+日本語処理を支援する追加ライブラリ
 
  * [ojosama](https://github.com/jiro4989/ojosama) - テキストを壱百満天原サロメお嬢様風の口調に変換します
  * [nihongo](https://github.com/gojp/nihongo) - 日本語辞書
@@ -1042,6 +1065,7 @@ Resources
 ## Java
 
 ### Morphology analysis
+日本語形態素解析と辞書管理を行うライブラリ
 
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromojiは、検索用に設計された自己完結型で非常に使いやすい日本語形態素解析器です。
  * [Sudachi](https://github.com/WorksApplications/Sudachi) -　A Japanese Tokenizer for Business
@@ -1058,6 +1082,7 @@ Resources
 
 
 ### Others
+自然言語処理やOCRを支援するJavaライブラリ
 
  * [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) - 画像から日本語文字を識別するためのJavaライブラリ
  * [jakaroma](https://github.com/nicolas-raoul/jakaroma) - 日本語の漢字をローマ字（ラテンアルファベット）に変換するためのJavaライブラリとコマンドラインツール。
@@ -1086,6 +1111,7 @@ Resources
 ## Pretrained model
 
 ### Word2Vec
+単語を数値ベクトルに変換して意味的関係を学習するモデル
 
  * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - GensimとMecabを使用した日本語のWord2vec（単語からベクトルへのアプローチ）手法。
  * [chiVe](https://github.com/WorksApplications/chiVe) - SudachiとNWJCを使用した日本語の単語埋め込み。
@@ -1110,6 +1136,7 @@ Resources
 
 
 ### Transformer based models
+自己注意機構で文脈を理解し高度な言語処理を行うモデル
 
  * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - 日本語テキスト用のBERTモデル。
  * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - りんな株式会社が提供する日本語事前学習モデルのコードを入力してください。
@@ -1193,6 +1220,7 @@ Resources
 
 
 ## ChatGPT
+ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うためのリソース
 
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - AITuberの基礎となる部分を開発しています
@@ -1249,6 +1277,7 @@ Resources
 
 
 ## Dictionary and IME
+日本語辞書や入力メソッドエディタに関するリソース
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 「mecab-ipadic」に基づくウェブ上の言語リソースに基づく新語辞典
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 日本語アクセント辞書ジェネレーター
@@ -1407,6 +1436,7 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
 ## Corpus
 
 ### Part-of-speech tagging / Named entity recognition
+品詞や固有表現のラベルが付与された日本語コーパス
 
  * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - Wikipediaを用いた日本語の固有表現抽出データセット
  * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - 固有表現認識のための日本語IOB2タグ付きコーパス。
@@ -1432,6 +1462,7 @@ JMdict日本語英語辞書プロジェクトのWebフロントエンド、学�
 
 
 ### Parallel corpus
+多言語の対応文を収録した翻訳用データセット
 
  * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 機械翻訳ベンチマーク用の50k英日並列コーパス。
  * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - 日中NMTのためのWebクロールされたコーパス
@@ -1467,6 +1498,7 @@ EnJaEL：En-Jaパラレルエンティティリンキングデータセット（
 
 
 ### Dialog corpus
+会話データを収集して対話モデルの学習に利用するコーパス
 
  * [JMRD](https://github.com/ku-nlp/JMRD) - 日本映画のおすすめ対話データセット
  * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - おーぷん2ちゃんねるをクロールして作成した対話コーパス
@@ -1493,6 +1525,7 @@ EnJaEL：En-Jaパラレルエンティティリンキングデータセット（
 
 
 ### Others
+質問応答や含意認識など特定タスク向けの日本語データセット
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - 日本の現実的なテキスト推論コーパス（NLP 2020、LREC 2020）
  * [kanji-data](https://github.com/davidluzgouveia/kanji-data) - 更新されたJLPTレベルとWaniKani情報を含むJSON漢字データセット
@@ -1766,6 +1799,7 @@ AAAI21で発表された「Towards Fully Automated Manga Translation」論文で
 
 
 ## Tutorial
+日本語自然言語処理のツールや技術を学ぶためのチュートリアル
 
  * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCyチュートリアルの英語版と日本語版。spacy-transformers、BERT、GiNZA。
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 日本語コーパスを使用してfastTextをトレーニングするチュートリアル
@@ -1837,6 +1871,7 @@ AAAI21で発表された「Towards Fully Automated Manga Translation」論文で
 
 
 ## Research summary
+日本語自然言語処理に関する研究成果や論文をまとめた資料
 
  * [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) - 日本語の事前学習済みBERTモデルのリストと、単語/サブワードトークン化+語彙構築アルゴリズム情報。
  * [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) - 文法誤り訂正に関する日本語文献を収集・分類するためのリポジトリ
