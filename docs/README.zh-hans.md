@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了733个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2136个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了734个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2140个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -19,9 +19,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 姓名汉字假名对照模型
+ * [Mecari](https://github.com/zbller/Mecari) - Mecari（基于图神经网络的日语形态分析）
 
-_Updated on Oct 29, 2025_
+_Updated on Nov 04, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -96,6 +96,7 @@ _Updated on Oct 29, 2025_
  * [rhoknp](https://github.com/ku-nlp/rhoknp) - 又一个Python绑定Juman++/KNP
  * [python-vibrato](https://github.com/daac-tools/python-vibrato) - 基于维特比算法的加速分词器（Python封装）
  * [jagger-python](https://github.com/lighttransport/jagger-python) - Python绑定Jagger（基于模式的日语形态分析器的C++实现）
+ * [Mecari](https://github.com/zbller/Mecari) - Mecari（基于图神经网络的日语形态分析）
 
 
 

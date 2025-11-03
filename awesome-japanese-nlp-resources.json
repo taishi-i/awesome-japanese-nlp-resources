@@ -194,6 +194,18 @@
                     "zh-hant": "Jagger的Python綁定（基於模式的日語形態分析器的C++實現）"
                 }
             },
+            "https://github.com/zbller/Mecari": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "Mecari",
+                "user_name": "zbller",
+                "description": "Mecari (Japanese Morphological Analysis with Graph Neural Networks)",
+                "multilingual_descriptions": {
+                    "en": "Mecari (Japanese Morphological Analysis with Graph Neural Networks)",
+                    "ja": "Mecari（グラフニューラルネットワークを用いた日本語形態素解析）",
+                    "zh-hans": "Mecari（基于图神经网络的日语形态分析）",
+                    "zh-hant": "Mecari（使用图神经网络进行日语形态分析）"
+                }
+            },
             "https://github.com/megagonlabs/ginza": {
                 "sub_category": "Parsing",
                 "repository_name": "ginza",

@@ -8,8 +8,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了733個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了2136個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了734個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了2140個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,9 +18,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 姓名漢字假名對照模型
+ * [Mecari](https://github.com/zbller/Mecari) - Mecari（使用图神经网络进行日语形态分析）
 
-_Updated on Oct 29, 2025_
+_Updated on Nov 04, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -95,6 +95,7 @@ _Updated on Oct 29, 2025_
  * [rhoknp](https://github.com/ku-nlp/rhoknp) - 又一個 Juman++/KNP 的 Python 綁定程式
  * [python-vibrato](https://github.com/daac-tools/python-vibrato) - 基於維特比算法的加速分詞器（Python封裝）
  * [jagger-python](https://github.com/lighttransport/jagger-python) - Jagger的Python綁定（基於模式的日語形態分析器的C++實現）
+ * [Mecari](https://github.com/zbller/Mecari) - Mecari（使用图神经网络进行日语形态分析）
 
 
 
