@@ -8,8 +8,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了734個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了2140個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了736個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了2144個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,9 +18,12 @@
 ## 🎉 The latest additions
 
 **Python**
- * [Mecari](https://github.com/zbller/Mecari) - Mecari（使用图神经网络进行日语形态分析）
+ * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - 使用本地執行的plamo-2-translate模型進行翻譯的命令行界面。
 
-_Updated on Nov 04, 2025_
+**Rust**
+ * [yomine](https://github.com/mcgrizzz/yomine) - 一個旨在幫助語言學習者挖掘新單詞和表達方式的日語詞彙挖掘工具。
+
+_Updated on Nov 11, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -192,6 +195,7 @@ _Updated on Nov 04, 2025_
  * [JASS](https://github.com/Mao-KU/JASS) - JASS：針對日本特定序列的序列到序列預訓練，用於神經機器翻譯（LREC2020）和基於語言學的多任務預訓練，用於低資源神經機器翻譯（ACM TALLIP）。
  * [PheMT](https://github.com/cl-tohoku/PheMT) - 一個針對日英機器翻譯韌性的現象級評估數據集。該數據集基於MTNT數據集，並附加了四種語言現象的註釋；專有名詞、縮寫名詞、口語表達和變體。COLING 2020。
  * [VISA](https://github.com/ku-nlp/VISA) - 一個用於視覺場景感知機器翻譯的模糊字幕數據集
+ * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - 使用本地執行的plamo-2-translate模型進行翻譯的命令行界面。
 
 
 
@@ -546,6 +550,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jisho](https://github.com/eagleflo/jisho) - Jisho 是一個提供日英詞典的 CLI 工具和 Rust 函式庫。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 從英文單字推測讀音的程式庫。
  * [koharu](https://github.com/mayocream/koharu) - 使用Rust编写的带有LLM的自动漫画翻译工具。
+ * [yomine](https://github.com/mcgrizzz/yomine) - 一個旨在幫助語言學習者挖掘新單詞和表達方式的日語詞彙挖掘工具。
 
 
 

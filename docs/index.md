@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [734件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [2140 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [736件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [2144 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,9 +18,12 @@
 ## 🎉 The latest additions
 
 **Python**
- * [Mecari](https://github.com/zbller/Mecari) - Mecari（グラフニューラルネットワークを用いた日本語形態素解析）
+ * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - ローカル実行を使用したplamo-2-translateモデルを利用した翻訳のためのコマンドラインインターフェース。
 
-_Updated on Nov 04, 2025_
+**Rust**
+ * [yomine](https://github.com/mcgrizzz/yomine) - 言語学習者が新しい単語や表現を見つけるのを手助けするために設計された日本語語彙マイニングツール。
+
+_Updated on Nov 11, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -271,6 +274,7 @@ _Updated on Nov 04, 2025_
  * [JASS](https://github.com/Mao-KU/JASS) - JASS：ニューラル機械翻訳のための日本語固有のシーケンス・トゥ・シーケンス事前学習（LREC2020）＆言語学的に駆動された低リソースニューラル機械翻訳のためのマルチタスク事前学習（ACM TALLIP）
  * [PheMT](https://github.com/cl-tohoku/PheMT) - 日英機械翻訳の堅牢性に関する現象別評価データセット。このデータセットは、MTNTデータセットをベースに、固有名詞、略語、口語表現、および変異形の4つの言語現象の追加注釈を含んでいます。COLING 2020。
  * [VISA](https://github.com/ku-nlp/VISA) - 視覚シーンに関する機械翻訳のための曖昧な字幕データセット
+ * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - ローカル実行を使用したplamo-2-translateモデルを利用した翻訳のためのコマンドラインインターフェース。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -279,6 +283,7 @@ _Updated on Nov 04, 2025_
 |[JASS](https://github.com/Mao-KU/JASS)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Mao-KU/JASS?style=social)|
 |[PheMT](https://github.com/cl-tohoku/PheMT)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cl-tohoku/PheMT?style=social)|
 |[VISA](https://github.com/ku-nlp/VISA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/VISA?style=social)|
+|[plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet/plamo-translate-cli?style=social)|
 
 
 ### Named entity recognition
@@ -900,6 +905,7 @@ Rustで実装された日本語形態素解析ライブラリ
 Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
  * [koharu](https://github.com/mayocream/koharu) - Rustで書かれたLLMを使用した自動漫画翻訳ツール。
+ * [yomine](https://github.com/mcgrizzz/yomine) - 言語学習者が新しい単語や表現を見つけるのを手助けするために設計された日本語語彙マイニングツール。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -922,6 +928,7 @@ Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラ�
 |[jisho](https://github.com/eagleflo/jisho)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/eagleflo/jisho?style=social)|
 |[kanalizer](https://github.com/voicevox/kanalizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/voicevox/kanalizer?style=social)|
 |[koharu](https://github.com/mayocream/koharu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayocream/koharu?style=social)|
+|[yomine](https://github.com/mcgrizzz/yomine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mcgrizzz/yomine?style=social)|
 
 
 ## JavaScript

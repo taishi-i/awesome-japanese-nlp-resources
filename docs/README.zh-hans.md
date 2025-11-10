@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了734个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2140个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了736个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2144个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -19,9 +19,12 @@
 ## 🎉 The latest additions
 
 **Python**
- * [Mecari](https://github.com/zbller/Mecari) - Mecari（基于图神经网络的日语形态分析）
+ * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - 使用本地执行的plamo-2-translate模型进行翻译的命令行界面。
 
-_Updated on Nov 04, 2025_
+**Rust**
+ * [yomine](https://github.com/mcgrizzz/yomine) - 一个日语词汇挖掘工具，旨在帮助语言学习者挖掘新单词和表达方式。
+
+_Updated on Nov 11, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -192,6 +195,7 @@ _Updated on Nov 04, 2025_
  * [JASS](https://github.com/Mao-KU/JASS) - JASS：面向日本特定序列到序列预训练的神经机器翻译（LREC2020）和基于语言驱动的多任务预训练的低资源神经机器翻译（ACM TALLIP）。
  * [PheMT](https://github.com/cl-tohoku/PheMT) - 一份针对日英机器翻译鲁棒性的现象级评估数据集。该数据集基于MTNT数据集，额外注释了四种语言现象：专有名词、缩写名词、口语表达和变体。COLING 2020。
  * [VISA](https://github.com/ku-nlp/VISA) - 一份用于视觉场景感知机器翻译的模糊字幕数据集
+ * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - 使用本地执行的plamo-2-translate模型进行翻译的命令行界面。
 
 
 
@@ -544,6 +548,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jisho](https://github.com/eagleflo/jisho) - Jisho是一个提供日语-英语词典的CLI工具和Rust库。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 从英语单词推测发音的库。
  * [koharu](https://github.com/mayocream/koharu) - 使用Rust编写的带有LLM的自动漫画翻译工具。
+ * [yomine](https://github.com/mcgrizzz/yomine) - 一个日语词汇挖掘工具，旨在帮助语言学习者挖掘新单词和表达方式。
 
 
 

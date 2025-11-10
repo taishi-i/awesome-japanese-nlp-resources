@@ -842,6 +842,18 @@
                     "zh-hant": "一個用於視覺場景感知機器翻譯的模糊字幕數據集"
                 }
             },
+            "https://github.com/pfnet/plamo-translate-cli": {
+                "sub_category": "Machine translation",
+                "repository_name": "plamo-translate-cli",
+                "user_name": "pfnet",
+                "description": "A command-line interface for translation using the plamo-2-translate model with local execution.",
+                "multilingual_descriptions": {
+                    "en": "A command-line interface for translation using the plamo-2-translate model with local execution.",
+                    "ja": "ローカル実行を使用したplamo-2-translateモデルを利用した翻訳のためのコマンドラインインターフェース。",
+                    "zh-hans": "使用本地执行的plamo-2-translate模型进行翻译的命令行界面。",
+                    "zh-hant": "使用本地執行的plamo-2-translate模型進行翻譯的命令行界面。"
+                }
+            },
             "https://github.com/chakki-works/namaco": {
                 "sub_category": "Named entity recognition",
                 "repository_name": "namaco",
@@ -4000,6 +4012,18 @@
                     "ja": "Rustで書かれたLLMを使用した自動漫画翻訳ツール。",
                     "zh-hans": "使用Rust编写的带有LLM的自动漫画翻译工具。",
                     "zh-hant": "使用Rust编写的带有LLM的自动漫画翻译工具。"
+                }
+            },
+            "https://github.com/mcgrizzz/yomine": {
+                "sub_category": null,
+                "repository_name": "yomine",
+                "user_name": "mcgrizzz",
+                "description": "A Japanese vocabulary mining tool designed to help language learners mine new words and expressions.",
+                "multilingual_descriptions": {
+                    "en": "A Japanese vocabulary mining tool designed to help language learners mine new words and expressions.",
+                    "ja": "言語学習者が新しい単語や表現を見つけるのを手助けするために設計された日本語語彙マイニングツール。",
+                    "zh-hans": "一个日语词汇挖掘工具，旨在帮助语言学习者挖掘新单词和表达方式。",
+                    "zh-hant": "一個旨在幫助語言學習者挖掘新單詞和表達方式的日語詞彙挖掘工具。"
                 }
             }
         },
