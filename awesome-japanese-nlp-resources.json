@@ -3469,6 +3469,18 @@
                     "zh-hans": "姓名汉字假名对照模型",
                     "zh-hant": "姓名漢字假名對照模型"
                 }
+            },
+            "https://github.com/tb-yasu/deep-openreview-research-ja": {
+                "sub_category": null,
+                "repository_name": "deep-openreview-research-ja",
+                "user_name": "tb-yasu",
+                "description": "OpenReview論文を自動で発見・分析する日本語対応AIエージェント",
+                "multilingual_descriptions": {
+                    "en": "Automatically discover and analyze OpenReview papers with Japanese-compatible AI agents.",
+                    "ja": "OpenReview論文を自動で発見・分析する日本語対応AIエージェント",
+                    "zh-hans": "使用OpenReview自动发现和分析论文的日语AI代理程序",
+                    "zh-hant": "使用OpenReview論文自動發現和分析的日語AI代理程式"
+                }
             }
         },
         "C++": {
