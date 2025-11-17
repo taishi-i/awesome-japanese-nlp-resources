@@ -594,6 +594,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jtransbench](https://github.com/webbigdata-jp/jtransbench) - A tool to easily benchmark Japanese translation skills
  * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa は 5～15秒の日本語音声と日本語テキストから日本語音声を生成する TSTS (TextSpeechToSpeech) です。
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
+ * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - OpenReview論文を自動で発見・分析する日本語対応AIエージェント
 
 
 |Name|downloads/week|total downloads|stars|
@@ -764,6 +765,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[jtransbench](https://github.com/webbigdata-jp/jtransbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/webbigdata-jp/jtransbench?style=social)|
 |[easyllasa](https://github.com/zuntan03/easyllasa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuntan03/easyllasa?style=social)|
 |[kanjikana-model](https://github.com/digital-go-jp/kanjikana-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/kanjikana-model?style=social)|
+|[deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tb-yasu/deep-openreview-research-ja?style=social)|
 
 
 ## C++
