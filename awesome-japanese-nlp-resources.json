@@ -3481,6 +3481,18 @@
                     "zh-hans": "使用OpenReview自动发现和分析论文的日语AI代理程序",
                     "zh-hant": "使用OpenReview論文自動發現和分析的日語AI代理程式"
                 }
+            },
+            "https://github.com/shewiiii/pitchbench": {
+                "sub_category": null,
+                "repository_name": "pitchbench",
+                "user_name": "shewiiii",
+                "description": "Experimental Japanese pitch accent based LLM Benchmark",
+                "multilingual_descriptions": {
+                    "en": "Experimental Japanese pitch accent based LLM Benchmark",
+                    "ja": "実験的な日本語ピッチアクセントに基づくLLMベンチマーク",
+                    "zh-hans": "实验性的基于日语声调的LLM基准",
+                    "zh-hant": "實驗性的基於日語聲調的LLM基準"
+                }
             }
         },
         "C++": {

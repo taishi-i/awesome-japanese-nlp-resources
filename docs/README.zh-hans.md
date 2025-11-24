@@ -8,8 +8,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了737个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了2145个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
+- [列出了738个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了2149个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 
@@ -19,9 +19,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - 使用OpenReview自动发现和分析论文的日语AI代理程序
+ * [pitchbench](https://github.com/shewiiii/pitchbench) - 实验性的基于日语声调的LLM基准
 
-_Updated on Nov 18, 2025_
+_Updated on Nov 25, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -449,6 +449,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [easyllasa](https://github.com/zuntan03/easyllasa) - EasyLlasa是一种从5到15秒的日语音频和日语文本生成日语音频的TSTS（文本语音转换）工具。
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 姓名汉字假名对照模型
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - 使用OpenReview自动发现和分析论文的日语AI代理程序
+ * [pitchbench](https://github.com/shewiiii/pitchbench) - 实验性的基于日语声调的LLM基准
 
 
 
