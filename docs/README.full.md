@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [738 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2149 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [739 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [2152 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -19,9 +19,9 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Python**
- * [pitchbench](https://github.com/shewiiii/pitchbench) - Experimental Japanese pitch accent based LLM Benchmark
+ * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
 
-_Updated on Nov 25, 2025_
+_Updated on Dec 02, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -593,7 +593,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - OpenReview論文を自動で発見・分析する日本語対応AIエージェント
  * [pitchbench](https://github.com/shewiiii/pitchbench) - Experimental Japanese pitch accent based LLM Benchmark
- * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
 
 
 |Name|downloads/week|total downloads|stars|
@@ -766,7 +765,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[kanjikana-model](https://github.com/digital-go-jp/kanjikana-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/kanjikana-model?style=social)|
 |[deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tb-yasu/deep-openreview-research-ja?style=social)|
 |[pitchbench](https://github.com/shewiiii/pitchbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shewiiii/pitchbench?style=social)|
-|[mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuofanf/mini-transformer-from-scratch?style=social)|
 
 
 ## C++
