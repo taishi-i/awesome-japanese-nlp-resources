@@ -453,6 +453,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 氏名漢字カナ突合モデル
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - OpenReview論文を自動で発見・分析する日本語対応AIエージェント
  * [pitchbench](https://github.com/shewiiii/pitchbench) - 実験的な日本語ピッチアクセントに基づくLLMベンチマーク
+ * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - ゼロから日本語への英語変換器
 
 
 

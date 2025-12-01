@@ -3493,6 +3493,18 @@
                     "zh-hans": "实验性的基于日语声调的LLM基准",
                     "zh-hant": "實驗性的基於日語聲調的LLM基準"
                 }
+            },
+            "https://github.com/zuofanf/mini-transformer-from-scratch": {
+                "sub_category": null,
+                "repository_name": "mini-transformer-from-scratch",
+                "user_name": "zuofanf",
+                "description": "English to Japanese Transformer from scratch",
+                "multilingual_descriptions": {
+                    "en": "English to Japanese Transformer from scratch",
+                    "ja": "ゼロから日本語への英語変換器",
+                    "zh-hans": "从头开始的英语到日语转换器",
+                    "zh-hant": "從頭開始的英文到日文轉換器"
+                }
             }
         },
         "C++": {

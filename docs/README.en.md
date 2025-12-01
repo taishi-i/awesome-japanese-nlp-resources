@@ -446,6 +446,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - Name Kanji Kana Matching Model
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - Automatically discover and analyze OpenReview papers with Japanese-compatible AI agents.
  * [pitchbench](https://github.com/shewiiii/pitchbench) - Experimental Japanese pitch accent based LLM Benchmark
+ * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
 
 
 

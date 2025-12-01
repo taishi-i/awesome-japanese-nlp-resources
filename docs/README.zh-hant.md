@@ -451,6 +451,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) - 姓名漢字假名對照模型
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - 使用OpenReview論文自動發現和分析的日語AI代理程式
  * [pitchbench](https://github.com/shewiiii/pitchbench) - 實驗性的基於日語聲調的LLM基準
+ * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - 從頭開始的英文到日文轉換器
 
 
 
