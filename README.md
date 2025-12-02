@@ -101,23 +101,23 @@ Libraries that split Japanese text into words or morphemes and assign part-of-sp
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [SudachiPy](https://github.com/WorksApplications/SudachiPy) | 📥 451k/week | 📦 55M total | ⭐ 418 stars |
-| 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 36k/week | 📦 11M total | ⭐ 898 stars |
-| 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 248k/week | 📦 32M total | ⭐ 576 stars |
-| 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 4k/week | 📦 587k total | ⭐ 265 stars |
-| 🔗 [fugashi](https://github.com/polm/fugashi) | 📥 101k/week | 📦 11M total | ⭐ 489 stars |
-| 🔗 [nagisa](https://github.com/taishi-i/nagisa) | 📥 26k/week | 📦 7M total | ⭐ 408 stars |
-| 🔗 [pyknp](https://github.com/ku-nlp/pyknp) | 📥 917/week | 📦 3M total | ⭐ 92 stars |
-| 🔗 [Mykytea-python](https://github.com/chezou/Mykytea-python) | 📥 2k/week | 📦 541k total | ⭐ 36 stars |
-| 🔗 [konoha](https://github.com/himkt/konoha) | 📥 20k/week | 📦 5M total | ⭐ 260 stars |
-| 🔗 [natto-py](https://github.com/buruzaemon/natto-py) | 📥 407k/week | 📦 28M total | ⭐ 95 stars |
-| 🔗 [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) | 📥 18/week | 📦 26k total | ⭐ 23 stars |
-| 🔗 [python-vaporetto](https://github.com/daac-tools/python-vaporetto) | 📥 193/week | 📦 169k total | ⭐ 20 stars |
-| 🔗 [dango](https://github.com/mkartawijaya/dango) | 📥 44/week | 📦 25k total | ⭐ 20 stars |
-| 🔗 [rhoknp](https://github.com/ku-nlp/rhoknp) | 📥 7k/week | 📦 895k total | ⭐ 36 stars |
-| 🔗 [python-vibrato](https://github.com/daac-tools/python-vibrato) | 📥 127/week | 📦 112k total | ⭐ 43 stars |
-| 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 606/week | 📦 278k total | ⭐ 12 stars |
-| 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 35 stars |
+| 🔗 [SudachiPy](https://github.com/WorksApplications/SudachiPy) | 📥 451k | 📦 55M | ⭐ 418 |
+| 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 36k | 📦 11M | ⭐ 898 |
+| 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 248k | 📦 32M | ⭐ 576 |
+| 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 4k | 📦 587k | ⭐ 265 |
+| 🔗 [fugashi](https://github.com/polm/fugashi) | 📥 101k | 📦 11M | ⭐ 489 |
+| 🔗 [nagisa](https://github.com/taishi-i/nagisa) | 📥 26k | 📦 7M | ⭐ 408 |
+| 🔗 [pyknp](https://github.com/ku-nlp/pyknp) | 📥 917 | 📦 3M | ⭐ 92 |
+| 🔗 [Mykytea-python](https://github.com/chezou/Mykytea-python) | 📥 2k | 📦 541k | ⭐ 36 |
+| 🔗 [konoha](https://github.com/himkt/konoha) | 📥 20k | 📦 5M | ⭐ 260 |
+| 🔗 [natto-py](https://github.com/buruzaemon/natto-py) | 📥 407k | 📦 28M | ⭐ 95 |
+| 🔗 [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) | 📥 18 | 📦 26k | ⭐ 23 |
+| 🔗 [python-vaporetto](https://github.com/daac-tools/python-vaporetto) | 📥 193 | 📦 169k | ⭐ 20 |
+| 🔗 [dango](https://github.com/mkartawijaya/dango) | 📥 44 | 📦 25k | ⭐ 20 |
+| 🔗 [rhoknp](https://github.com/ku-nlp/rhoknp) | 📥 7k | 📦 895k | ⭐ 36 |
+| 🔗 [python-vibrato](https://github.com/daac-tools/python-vibrato) | 📥 127 | 📦 112k | ⭐ 43 |
+| 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 606 | 📦 278k | ⭐ 12 |
+| 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 35 |
 
 
 ### Parsing
@@ -139,18 +139,18 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [ginza](https://github.com/megagonlabs/ginza) | 📥 10k/week | 📦 2M total | ⭐ 823 stars |
-| 🔗 [cabocha](https://github.com/ikegami-yukino/cabocha/tree/master/python) | 📥 55/week | 📦 53k total | ⭐ 7 stars |
-| 🔗 [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) | 📥 330/week | 📦 319k total | ⭐ 37 stars |
-| 🔗 [camphr](https://github.com/PKSHATechnology-Research/camphr) | 📥 390/week | 📦 262k total | ⭐ 338 stars |
-| 🔗 [SuPar-UniDic](https://github.com/KoichiYasuoka/SuParUniDic) | 📥 406/week | 📦 115k total | ⭐ 20 stars |
-| 🔗 [depccg](https://github.com/masashi-y/depccg) | 📥 50/week | 📦 44k total | ⭐ 98 stars |
-| 🔗 [bertknp](https://github.com/ku-nlp/bertknp) | - | - | ⭐ 23 stars |
-| 🔗 [esupar](https://github.com/KoichiYasuoka/esupar) | 📥 226/week | 📦 159k total | ⭐ 52 stars |
-| 🔗 [yomikata](https://github.com/passaglia/yomikata) | 📥 7/week | 📦 49k total | ⭐ 31 stars |
-| 🔗 [jdepp-python](https://github.com/lighttransport/jdepp-python) | 📥 616/week | 📦 264k total | ⭐ 4 stars |
-| 🔗 [lightblue](https://github.com/daisukebekki/lightblue) | - | - | ⭐ 26 stars |
-| 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 stars |
+| 🔗 [ginza](https://github.com/megagonlabs/ginza) | 📥 10k | 📦 2M | ⭐ 823 |
+| 🔗 [cabocha](https://github.com/ikegami-yukino/cabocha/tree/master/python) | 📥 55 | 📦 53k | ⭐ 7 |
+| 🔗 [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) | 📥 330 | 📦 319k | ⭐ 37 |
+| 🔗 [camphr](https://github.com/PKSHATechnology-Research/camphr) | 📥 390 | 📦 262k | ⭐ 338 |
+| 🔗 [SuPar-UniDic](https://github.com/KoichiYasuoka/SuParUniDic) | 📥 406 | 📦 115k | ⭐ 20 |
+| 🔗 [depccg](https://github.com/masashi-y/depccg) | 📥 50 | 📦 44k | ⭐ 98 |
+| 🔗 [bertknp](https://github.com/ku-nlp/bertknp) | - | - | ⭐ 23 |
+| 🔗 [esupar](https://github.com/KoichiYasuoka/esupar) | 📥 226 | 📦 159k | ⭐ 52 |
+| 🔗 [yomikata](https://github.com/passaglia/yomikata) | 📥 7 | 📦 49k | ⭐ 31 |
+| 🔗 [jdepp-python](https://github.com/lighttransport/jdepp-python) | 📥 616 | 📦 264k | ⭐ 4 |
+| 🔗 [lightblue](https://github.com/daisukebekki/lightblue) | - | - | ⭐ 26 |
+| 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 |
 
 
 ### Converter
@@ -176,22 +176,22 @@ Libraries that convert between character types such as kana, romaji, and full-wi
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [pykakasi](https://github.com/miurahr/pykakasi) | 📥 246k/week | 📦 25M total | ⭐ 442 stars |
-| 🔗 [cutlet](https://github.com/polm/cutlet) | 📥 13k/week | 📦 1M total | ⭐ 365 stars |
-| 🔗 [alphabet2kana](https://github.com/shihono/alphabet2kana) | 📥 212/week | 📦 53k total | ⭐ 14 stars |
-| 🔗 [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) | - | - | ⭐ 49 stars |
-| 🔗 [mozcpy](https://github.com/ikegami-yukino/mozcpy) | 📥 130/week | 📦 10k total | ⭐ 46 stars |
-| 🔗 [jamorasep](https://github.com/tachi-hi/jamorasep) | 📥 64/week | 📦 8k total | ⭐ 10 stars |
-| 🔗 [text2phoneme](https://github.com/korguchi/text2phoneme) | - | - | ⭐ 13 stars |
-| 🔗 [jntajis-python](https://github.com/opencollector/jntajis-python) | 📥 214/week | 📦 100k total | ⭐ 21 stars |
-| 🔗 [wiredify](https://github.com/eggplants/wiredify) | 📥 6/week | 📦 6k total | ⭐ 3 stars |
-| 🔗 [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) | 📥 19/week | 📦 4k total | ⭐ 7 stars |
-| 🔗 [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) | 📥 31/week | 📦 13k total | ⭐ 8 stars |
-| 🔗 [Jusho](https://github.com/nagataaaas/Jusho) | 📥 273/week | 📦 49k total | ⭐ 11 stars |
-| 🔗 [yurenizer](https://github.com/sea-turt1e/yurenizer) | 📥 24/week | 📦 16k total | ⭐ 4 stars |
-| 🔗 [e2k](https://github.com/Patchethium/e2k) | 📥 104/week | 📦 16k total | ⭐ 15 stars |
-| 🔗 [alkana.py](https://github.com/zomysan/alkana.py) | - | - | ⭐ 33 stars |
-| 🔗 [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) | - | - | ⭐ 4 stars |
+| 🔗 [pykakasi](https://github.com/miurahr/pykakasi) | 📥 246k | 📦 25M | ⭐ 442 |
+| 🔗 [cutlet](https://github.com/polm/cutlet) | 📥 13k | 📦 1M | ⭐ 365 |
+| 🔗 [alphabet2kana](https://github.com/shihono/alphabet2kana) | 📥 212 | 📦 53k | ⭐ 14 |
+| 🔗 [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) | - | - | ⭐ 49 |
+| 🔗 [mozcpy](https://github.com/ikegami-yukino/mozcpy) | 📥 130 | 📦 10k | ⭐ 46 |
+| 🔗 [jamorasep](https://github.com/tachi-hi/jamorasep) | 📥 64 | 📦 8k | ⭐ 10 |
+| 🔗 [text2phoneme](https://github.com/korguchi/text2phoneme) | - | - | ⭐ 13 |
+| 🔗 [jntajis-python](https://github.com/opencollector/jntajis-python) | 📥 214 | 📦 100k | ⭐ 21 |
+| 🔗 [wiredify](https://github.com/eggplants/wiredify) | 📥 6 | 📦 6k | ⭐ 3 |
+| 🔗 [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) | 📥 19 | 📦 4k | ⭐ 7 |
+| 🔗 [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) | 📥 31 | 📦 13k | ⭐ 8 |
+| 🔗 [Jusho](https://github.com/nagataaaas/Jusho) | 📥 273 | 📦 49k | ⭐ 11 |
+| 🔗 [yurenizer](https://github.com/sea-turt1e/yurenizer) | 📥 24 | 📦 16k | ⭐ 4 |
+| 🔗 [e2k](https://github.com/Patchethium/e2k) | 📥 104 | 📦 16k | ⭐ 15 |
+| 🔗 [alkana.py](https://github.com/zomysan/alkana.py) | - | - | ⭐ 33 |
+| 🔗 [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) | - | - | ⭐ 4 |
 
 
 ### Preprocessor
@@ -209,14 +209,14 @@ Libraries that normalize and clean text before analysis
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [neologdn](https://github.com/ikegami-yukino/neologdn) | 📥 8k/week | 📦 1M total | ⭐ 287 stars |
-| 🔗 [jaconv](https://github.com/ikegami-yukino/jaconv) | 📥 393k/week | 📦 54M total | ⭐ 336 stars |
-| 🔗 [mojimoji](https://github.com/studio-ousia/mojimoji) | 📥 51k/week | 📦 10M total | ⭐ 150 stars |
-| 🔗 [text-cleaning](https://github.com/ku-nlp/text-cleaning) | - | - | ⭐ 12 stars |
-| 🔗 [HojiChar](https://github.com/HojiChar/HojiChar) | 📥 3k/week | 📦 583k total | ⭐ 124 stars |
-| 🔗 [utsuho](https://github.com/juno-rmks/utsuho) | 📥 62/week | 📦 17k total | ⭐ 4 stars |
-| 🔗 [python-habachen](https://github.com/Hizuru3/python-habachen) | 📥 4k/week | 📦 2M total | ⭐ 6 stars |
-| 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 143/week | 📦 29k total | ⭐ 6 stars |
+| 🔗 [neologdn](https://github.com/ikegami-yukino/neologdn) | 📥 8k | 📦 1M | ⭐ 287 |
+| 🔗 [jaconv](https://github.com/ikegami-yukino/jaconv) | 📥 393k | 📦 54M | ⭐ 336 |
+| 🔗 [mojimoji](https://github.com/studio-ousia/mojimoji) | 📥 51k | 📦 10M | ⭐ 150 |
+| 🔗 [text-cleaning](https://github.com/ku-nlp/text-cleaning) | - | - | ⭐ 12 |
+| 🔗 [HojiChar](https://github.com/HojiChar/HojiChar) | 📥 3k | 📦 583k | ⭐ 124 |
+| 🔗 [utsuho](https://github.com/juno-rmks/utsuho) | 📥 62 | 📦 17k | ⭐ 4 |
+| 🔗 [python-habachen](https://github.com/Hizuru3/python-habachen) | 📥 4k | 📦 2M | ⭐ 6 |
+| 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 143 | 📦 29k | ⭐ 6 |
 
 
 ### Sentence spliter
@@ -235,15 +235,15 @@ Libraries that automatically detect sentence boundaries and split text
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [bunkai](https://github.com/megagonlabs/bunkai) | 📥 378/week | 📦 101k total | ⭐ 199 stars |
-| 🔗 [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) | 📥 11/week | 📦 5k total | ⭐ 14 stars |
-| 🔗 [sengiri](https://github.com/ikegami-yukino/sengiri) | 📥 311/week | 📦 135k total | ⭐ 24 stars |
-| 🔗 [budoux](https://github.com/google/budoux) | 📥 5k/week | 📦 320k total | ⭐ 1.5k stars |
-| 🔗 [ja_sentence_segmenter](https://github.com/wwwcojp/ja_sentence_segmenter) | 📥 844/week | 📦 162k total | ⭐ 73 stars |
-| 🔗 [hasami](https://github.com/mkartawijaya/hasami) | 📥 62/week | 📦 34k total | ⭐ 6 stars |
-| 🔗 [kuzukiri](https://github.com/alinear-corp/kuzukiri) | 📥 47/week | 📦 26k total | ⭐ 6 stars |
-| 🔗 [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) | - | - | ⭐ 9 stars |
-| 🔗 [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) | 📥 64/week | 📦 1k total | ⭐ 62 stars |
+| 🔗 [bunkai](https://github.com/megagonlabs/bunkai) | 📥 378 | 📦 101k | ⭐ 199 |
+| 🔗 [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) | 📥 11 | 📦 5k | ⭐ 14 |
+| 🔗 [sengiri](https://github.com/ikegami-yukino/sengiri) | 📥 311 | 📦 135k | ⭐ 24 |
+| 🔗 [budoux](https://github.com/google/budoux) | 📥 5k | 📦 320k | ⭐ 1.5k |
+| 🔗 [ja_sentence_segmenter](https://github.com/wwwcojp/ja_sentence_segmenter) | 📥 844 | 📦 162k | ⭐ 73 |
+| 🔗 [hasami](https://github.com/mkartawijaya/hasami) | 📥 62 | 📦 34k | ⭐ 6 |
+| 🔗 [kuzukiri](https://github.com/alinear-corp/kuzukiri) | 📥 47 | 📦 26k | ⭐ 6 |
+| 🔗 [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) | - | - | ⭐ 9 |
+| 🔗 [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) | 📥 64 | 📦 1k | ⭐ 62 |
 
 
 ### Sentiment analysis
@@ -257,10 +257,10 @@ Libraries that detect emotions or polarity in text
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [oseti](https://github.com/ikegami-yukino/oseti) | 📥 157/week | 📦 163k total | ⭐ 96 stars |
-| 🔗 [negapoji](https://github.com/liaoziyang/negapoji) | - | - | ⭐ 151 stars |
-| 🔗 [pymlask](https://github.com/ikegami-yukino/pymlask) | 📥 50/week | 📦 65k total | ⭐ 115 stars |
-| 🔗 [asari](https://github.com/Hironsan/asari) | 📥 88/week | 📦 77k total | ⭐ 152 stars |
+| 🔗 [oseti](https://github.com/ikegami-yukino/oseti) | 📥 157 | 📦 163k | ⭐ 96 |
+| 🔗 [negapoji](https://github.com/liaoziyang/negapoji) | - | - | ⭐ 151 |
+| 🔗 [pymlask](https://github.com/ikegami-yukino/pymlask) | 📥 50 | 📦 65k | ⭐ 115 |
+| 🔗 [asari](https://github.com/Hironsan/asari) | 📥 88 | 📦 77k | ⭐ 152 |
 
 
 ### Machine translation
@@ -275,11 +275,11 @@ Libraries that automatically translate text between languages
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) | - | - | ⭐ 105 stars |
-| 🔗 [JASS](https://github.com/Mao-KU/JASS) | - | - | ⭐ 16 stars |
-| 🔗 [PheMT](https://github.com/cl-tohoku/PheMT) | - | - | ⭐ 17 stars |
-| 🔗 [VISA](https://github.com/ku-nlp/VISA) | - | - | ⭐ 14 stars |
-| 🔗 [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) | - | - | ⭐ 304 stars |
+| 🔗 [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) | - | - | ⭐ 105 |
+| 🔗 [JASS](https://github.com/Mao-KU/JASS) | - | - | ⭐ 16 |
+| 🔗 [PheMT](https://github.com/cl-tohoku/PheMT) | - | - | ⭐ 17 |
+| 🔗 [VISA](https://github.com/ku-nlp/VISA) | - | - | ⭐ 14 |
+| 🔗 [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) | - | - | ⭐ 304 |
 
 
 ### Named entity recognition
@@ -298,15 +298,15 @@ Libraries that extract names of people, places, and organizations from text
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [namaco](https://github.com/chakki-works/namaco) | - | - | ⭐ 40 stars |
-| 🔗 [entitypedia](https://github.com/chakki-works/entitypedia) | - | - | ⭐ 13 stars |
-| 🔗 [noyaki](https://github.com/ken11/noyaki) | 📥 314/week | 📦 18k total | ⭐ 5 stars |
-| 🔗 [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) | - | - | ⭐ 11 stars |
-| 🔗 [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) | - | - | ⭐ 1 stars |
-| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 243/week | 📦 18k total | ⭐ 22 stars |
-| 🔗 [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) | - | - | ⭐ 4 stars |
-| 🔗 [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) | - | - | ⭐ 16 stars |
-| 🔗 [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) | - | - | ⭐ 2 stars |
+| 🔗 [namaco](https://github.com/chakki-works/namaco) | - | - | ⭐ 40 |
+| 🔗 [entitypedia](https://github.com/chakki-works/entitypedia) | - | - | ⭐ 13 |
+| 🔗 [noyaki](https://github.com/ken11/noyaki) | 📥 314 | 📦 18k | ⭐ 5 |
+| 🔗 [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) | - | - | ⭐ 11 |
+| 🔗 [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) | - | - | ⭐ 1 |
+| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 243 | 📦 18k | ⭐ 22 |
+| 🔗 [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) | - | - | ⭐ 4 |
+| 🔗 [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) | - | - | ⭐ 16 |
+| 🔗 [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) | - | - | ⭐ 2 |
 
 
 ### OCR
@@ -331,21 +331,21 @@ Libraries that recognize and extract text from images
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [manga-ocr](https://github.com/kha-white/manga-ocr) | 📥 2k/week | 📦 206k total | ⭐ 2.4k stars |
-| 🔗 [mokuro](https://github.com/kha-white/mokuro) | 📥 468/week | 📦 82k total | ⭐ 1.4k stars |
-| 🔗 [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) | - | - | ⭐ 38 stars |
-| 🔗 [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) | - | - | ⭐ 243 stars |
-| 🔗 [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) | - | - | ⭐ 564 stars |
-| 🔗 [donut](https://github.com/clovaai/donut) | 📥 495/week | 📦 191k total | ⭐ 6.7k stars |
-| 🔗 [JMTrans](https://github.com/ttop32/JMTrans) | - | - | ⭐ 88 stars |
-| 🔗 [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) | - | - | ⭐ 152 stars |
-| 🔗 [text_recognition](https://github.com/ndl-lab/text_recognition) | - | - | ⭐ 8 stars |
-| 🔗 [Poricom](https://github.com/blueaxis/Poricom) | - | - | ⭐ 405 stars |
-| 🔗 [owocr](https://github.com/aurorawright/owocr) | - | - | ⭐ 122 stars |
-| 🔗 [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) | 📥 1k/week | 📦 56k total | ⭐ 1.2k stars |
-| 🔗 [findtextcenternet](https://github.com/lithium0003/findtextcenternet) | - | - | ⭐ 54 stars |
-| 🔗 [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-fogi-manga) | - | - | ⭐ 6 stars |
-| 🔗 [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) | - | - | ⭐ 1 stars |
+| 🔗 [manga-ocr](https://github.com/kha-white/manga-ocr) | 📥 2k | 📦 206k | ⭐ 2.4k |
+| 🔗 [mokuro](https://github.com/kha-white/mokuro) | 📥 468 | 📦 82k | ⭐ 1.4k |
+| 🔗 [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) | - | - | ⭐ 38 |
+| 🔗 [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) | - | - | ⭐ 243 |
+| 🔗 [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) | - | - | ⭐ 564 |
+| 🔗 [donut](https://github.com/clovaai/donut) | 📥 495 | 📦 191k | ⭐ 6.7k |
+| 🔗 [JMTrans](https://github.com/ttop32/JMTrans) | - | - | ⭐ 88 |
+| 🔗 [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) | - | - | ⭐ 152 |
+| 🔗 [text_recognition](https://github.com/ndl-lab/text_recognition) | - | - | ⭐ 8 |
+| 🔗 [Poricom](https://github.com/blueaxis/Poricom) | - | - | ⭐ 405 |
+| 🔗 [owocr](https://github.com/aurorawright/owocr) | - | - | ⭐ 122 |
+| 🔗 [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) | 📥 1k | 📦 56k | ⭐ 1.2k |
+| 🔗 [findtextcenternet](https://github.com/lithium0003/findtextcenternet) | - | - | ⭐ 54 |
+| 🔗 [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-fogi-manga) | - | - | ⭐ 6 |
+| 🔗 [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) | - | - | ⭐ 1 |
 
 
 ### Tool for pretrained models
@@ -387,38 +387,38 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 328 stars |
-| 🔗 [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) | 📥 708/week | 📦 156k total | ⭐ 16 stars |
-| 🔗 [t5_japanese_dialogue_generation](https://github.com/Jinyamyzk/t5_japanese_dialogue_generation) | - | - | ⭐ 3 stars |
-| 🔗 [japanese_text_classification](https://github.com/Masao-Taketani/japanese_text_classification) | - | - | ⭐ 9 stars |
-| 🔗 [Japanese-BERT-Sentiment-Analyzer](https://github.com/izuna385/Japanese-BERT-Sentiment-Analyzer) | - | - | ⭐ 2 stars |
-| 🔗 [jmlm_scoring](https://github.com/minhpqn/jmlm_scoring) | - | - | ⭐ 5 stars |
-| 🔗 [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) | 📥 25/week | 📦 19k total | ⭐ 12 stars |
-| 🔗 [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) | - | - | ⭐ 12 stars |
-| 🔗 [gector-ja](https://github.com/jonnyli1125/gector-ja) | - | - | ⭐ 19 stars |
-| 🔗 [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) | - | - | ⭐ 41 stars |
-| 🔗 [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) | - | - | ⭐ 41 stars |
-| 🔗 [transformer-copy](https://github.com/youichiro/transformer-copy) | - | - | ⭐ 29 stars |
-| 🔗 [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) | - | - | ⭐ repo not found stars |
-| 🔗 [nagisa_bert](https://github.com/taishi-i/nagisa_bert) | 📥 27/week | 📦 53k total | ⭐ 4 stars |
-| 🔗 [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) | - | - | ⭐ repo not found stars |
-| 🔗 [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) | - | - | ⭐ 17 stars |
-| 🔗 [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) | 📥 88/week | 📦 26k total | ⭐ 5 stars |
-| 🔗 [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) | - | - | ⭐ 154 stars |
-| 🔗 [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) | - | - | ⭐ 6 stars |
-| 🔗 [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) | - | - | ⭐ 1 stars |
-| 🔗 [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) | - | - | ⭐ 97 stars |
-| 🔗 [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) | - | - | ⭐ 154 stars |
-| 🔗 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) | - | - | ⭐ 18 stars |
-| 🔗 [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) | - | - | ⭐ 40 stars |
-| 🔗 [japanese-llm-ranking](https://github.com/yuzu-ai/japanese-llm-ranking) | - | - | ⭐ 50 stars |
-| 🔗 [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) | - | - | ⭐ 140 stars |
-| 🔗 [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) | - | - | ⭐ 62 stars |
-| 🔗 [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) | - | - | ⭐ 43 stars |
-| 🔗 [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) | - | - | ⭐ 76 stars |
-| 🔗 [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) | - | - | ⭐ 33 stars |
-| 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 22 stars |
-| 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 23 stars |
+| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 328 |
+| 🔗 [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) | 📥 708 | 📦 156k | ⭐ 16 |
+| 🔗 [t5_japanese_dialogue_generation](https://github.com/Jinyamyzk/t5_japanese_dialogue_generation) | - | - | ⭐ 3 |
+| 🔗 [japanese_text_classification](https://github.com/Masao-Taketani/japanese_text_classification) | - | - | ⭐ 9 |
+| 🔗 [Japanese-BERT-Sentiment-Analyzer](https://github.com/izuna385/Japanese-BERT-Sentiment-Analyzer) | - | - | ⭐ 2 |
+| 🔗 [jmlm_scoring](https://github.com/minhpqn/jmlm_scoring) | - | - | ⭐ 5 |
+| 🔗 [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) | 📥 25 | 📦 19k | ⭐ 12 |
+| 🔗 [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) | - | - | ⭐ 12 |
+| 🔗 [gector-ja](https://github.com/jonnyli1125/gector-ja) | - | - | ⭐ 19 |
+| 🔗 [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) | - | - | ⭐ 41 |
+| 🔗 [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) | - | - | ⭐ 41 |
+| 🔗 [transformer-copy](https://github.com/youichiro/transformer-copy) | - | - | ⭐ 29 |
+| 🔗 [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) | - | - | ⭐ repo not found |
+| 🔗 [nagisa_bert](https://github.com/taishi-i/nagisa_bert) | 📥 27 | 📦 53k | ⭐ 4 |
+| 🔗 [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) | - | - | ⭐ repo not found |
+| 🔗 [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) | - | - | ⭐ 17 |
+| 🔗 [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) | 📥 88 | 📦 26k | ⭐ 5 |
+| 🔗 [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) | - | - | ⭐ 154 |
+| 🔗 [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) | - | - | ⭐ 6 |
+| 🔗 [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) | - | - | ⭐ 1 |
+| 🔗 [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) | - | - | ⭐ 97 |
+| 🔗 [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) | - | - | ⭐ 154 |
+| 🔗 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) | - | - | ⭐ 18 |
+| 🔗 [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) | - | - | ⭐ 40 |
+| 🔗 [japanese-llm-ranking](https://github.com/yuzu-ai/japanese-llm-ranking) | - | - | ⭐ 50 |
+| 🔗 [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) | - | - | ⭐ 140 |
+| 🔗 [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) | - | - | ⭐ 62 |
+| 🔗 [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) | - | - | ⭐ 43 |
+| 🔗 [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) | - | - | ⭐ 76 |
+| 🔗 [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) | - | - | ⭐ 33 |
+| 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 22 |
+| 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 23 |
 
 
 ### Others
@@ -598,175 +598,175 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [namedivider-python](https://github.com/rskmoi/namedivider-python) | 📥 709/week | 📦 73k total | ⭐ 251 stars |
-| 🔗 [asa-python](https://github.com/ikegami-yukino/asa-python) | 📥 20/week | 📦 30k total | ⭐ 11 stars |
-| 🔗 [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) | - | - | ⭐ 22 stars |
-| 🔗 [toiro](https://github.com/taishi-i/toiro) | 📥 93/week | 📦 25k total | ⭐ 120 stars |
-| 🔗 [ja-timex](https://github.com/yagays/ja-timex) | 📥 327/week | 📦 84k total | ⭐ 140 stars |
-| 🔗 [JapaneseTokenizers](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers) | - | - | ⭐ 138 stars |
-| 🔗 [daaja](https://github.com/kajyuuen/daaja) | 📥 24/week | 📦 24k total | ⭐ 64 stars |
-| 🔗 [accel-brain-code](https://github.com/accel-brain/accel-brain-code) | 📥 244/week | 📦 145k total | ⭐ 320 stars |
-| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 328 stars |
-| 🔗 [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) | 📥 855/week | 📦 41k total | ⭐ 10 stars |
-| 🔗 [nlplot](https://github.com/takapy0210/nlplot) | 📥 227/week | 📦 105k total | ⭐ 240 stars |
-| 🔗 [rake-ja](https://github.com/kanjirz50/rake-ja) | - | - | ⭐ 21 stars |
-| 🔗 [jel](https://github.com/izuna385/jel) | 📥 10/week | 📦 7k total | ⭐ 11 stars |
-| 🔗 [MedNER-J](https://github.com/sociocom/MedNER-J) | - | - | ⭐ 18 stars |
-| 🔗 [zunda-python](https://github.com/ikegami-yukino/zunda-python) | 📥 4/week | 📦 6k total | ⭐ 10 stars |
-| 🔗 [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) | - | - | ⭐ 16 stars |
-| 🔗 [showcase](https://github.com/cl-tohoku/showcase) | 📥 6/week | 📦 7k total | ⭐ 6 stars |
-| 🔗 [darts-clone-python](https://github.com/rixwew/darts-clone-python) | 📥 3k/week | 📦 9M total | ⭐ 20 stars |
-| 🔗 [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) | - | - | ⭐ 3 stars |
-| 🔗 [desuwa](https://github.com/megagonlabs/desuwa) | 📥 11/week | 📦 10k total | ⭐ 6 stars |
-| 🔗 [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) | - | - | ⭐ 278 stars |
-| 🔗 [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) | - | - | ⭐ 65 stars |
-| 🔗 [Japanese_nlp_scripts](https://github.com/olsgaard/Japanese_nlp_scripts) | - | - | ⭐ 26 stars |
-| 🔗 [DNorm-J](https://github.com/sociocom/DNorm-J) | - | - | ⭐ 9 stars |
-| 🔗 [pyknp-eventgraph](https://github.com/ku-nlp/pyknp-eventgraph) | 📥 111/week | 📦 64k total | ⭐ 9 stars |
-| 🔗 [ishi](https://github.com/ku-nlp/ishi) | 📥 7/week | 📦 6k total | ⭐ 2 stars |
-| 🔗 [python-npylm](https://github.com/musyoku/python-npylm) | - | - | ⭐ 34 stars |
-| 🔗 [python-npycrf](https://github.com/musyoku/python-npycrf) | - | - | ⭐ 11 stars |
-| 🔗 [unsupervised-pos-tagging](https://github.com/musyoku/unsupervised-pos-tagging) | - | - | ⭐ 16 stars |
-| 🔗 [negima](https://github.com/cocodrips/negima) | 📥 10/week | 📦 16k total | ⭐ 14 stars |
-| 🔗 [YouyakuMan](https://github.com/neilctwu/YouyakuMan) | - | - | ⭐ 52 stars |
-| 🔗 [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) | 📥 578/week | 📦 2M total | ⭐ 21 stars |
-| 🔗 [kantan](https://github.com/itayperl/kantan) | - | - | ⭐ 8 stars |
-| 🔗 [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) | - | - | ⭐ 40 stars |
-| 🔗 [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) | - | - | ⭐ 10 stars |
-| 🔗 [chirptext](https://github.com/letuananh/chirptext) | 📥 581/week | 📦 183k total | ⭐ 6 stars |
-| 🔗 [yubin](https://github.com/alvations/yubin) | 📥 1/week | 📦 3k total | ⭐ 3 stars |
-| 🔗 [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) | 📥 31/week | 📦 23k total | ⭐ 6 stars |
-| 🔗 [japanese2phoneme](https://github.com/iory/japanese2phoneme) | 📥 7/week | 📦 4k total | ⭐ 1 stars |
-| 🔗 [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) | - | - | ⭐ 1 stars |
-| 🔗 [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) | - | - | ⭐ 11 stars |
-| 🔗 [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) | - | - | ⭐ 8 stars |
-| 🔗 [JLM](https://github.com/jiali-ms/JLM) | - | - | ⭐ 111 stars |
-| 🔗 [NTM](https://github.com/m3yrin/NTM) | - | - | ⭐ 13 stars |
-| 🔗 [EN-JP-ML-Lexicon](https://github.com/Machine-Learning-Tokyo/EN-JP-ML-Lexicon) | - | - | ⭐ 40 stars |
-| 🔗 [text-generation](https://github.com/discus0434/text-generation) | - | - | ⭐ 19 stars |
-| 🔗 [chainer_nic](https://github.com/yuyay/chainer_nic) | - | - | ⭐ 17 stars |
-| 🔗 [unihan-lm](https://github.com/JetRunner/unihan-lm) | - | - | ⭐ 2 stars |
-| 🔗 [mbart-finetuning](https://github.com/ken11/mbart-finetuning) | - | - | ⭐ 3 stars |
-| 🔗 [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) | - | - | ⭐ 46 stars |
-| 🔗 [TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker) | - | - | ⭐ 72 stars |
-| 🔗 [Grongish](https://github.com/shogo82148/Grongish) | - | - | ⭐ 25 stars |
-| 🔗 [WordCloud-Japanese](https://github.com/aocattleya/WordCloud-Japanese) | - | - | ⭐ 9 stars |
-| 🔗 [snark](https://github.com/hiraokusky/snark) | - | - | ⭐ 10 stars |
-| 🔗 [toEmoji](https://github.com/mkan0141/toEmoji) | - | - | ⭐ 4 stars |
-| 🔗 [termextract](https://github.com/kanjirz50/termextract) | - | - | ⭐ 18 stars |
-| 🔗 [JDT-with-KenLM-scoring](https://github.com/TUT-SLP-lab/JDT-with-KenLM-scoring) | - | - | ⭐ 1 stars |
-| 🔗 [mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model) | - | - | ⭐ 6 stars |
-| 🔗 [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) | - | - | ⭐ 5 stars |
-| 🔗 [Ngram-language-model](https://github.com/KentoW/Ngram-language-model) | - | - | ⭐ 5 stars |
-| 🔗 [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) | - | - | ⭐ 69 stars |
-| 🔗 [neural_ime](https://github.com/yohokuno/neural_ime) | - | - | ⭐ 67 stars |
-| 🔗 [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) | - | - | ⭐ 178 stars |
-| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 142k/week | 📦 168k total | ⭐ repo not found stars |
-| 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 56/week | 📦 29k total | ⭐ 7 stars |
-| 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 21/week | 📦 11k total | ⭐ 28 stars |
-| 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 44/week | 📦 19k total | ⭐ 12 stars |
-| 🔗 [jageocoder](https://github.com/t-sagara/jageocoder) | 📥 2k/week | 📦 268k total | ⭐ 89 stars |
-| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 243/week | 📦 18k total | ⭐ 22 stars |
-| 🔗 [nksnd](https://github.com/yoriyuki/nksnd) | - | - | ⭐ 26 stars |
-| 🔗 [JaMIE](https://github.com/racerandom/JaMIE) | - | - | ⭐ 9 stars |
-| 🔗 [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) | - | - | ⭐ 49 stars |
-| 🔗 [minimal-search-engine](https://github.com/GINK03/minimal-search-engine) | - | - | ⭐ 19 stars |
-| 🔗 [5ch-analysis](https://github.com/GINK03/5ch-analysis) | - | - | ⭐ 73 stars |
-| 🔗 [tweet_extructor](https://github.com/tatHi/tweet_extructor) | - | - | ⭐ 3 stars |
-| 🔗 [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) | - | - | ⭐ 2 stars |
-| 🔗 [jinf](https://github.com/hkiyomaru/jinf) | 📥 608/week | 📦 52k total | ⭐ 4 stars |
-| 🔗 [kwja](https://github.com/ku-nlp/kwja) | 📥 344/week | 📦 52k total | ⭐ 137 stars |
-| 🔗 [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) | - | - | ⭐ 6 stars |
-| 🔗 [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) | - | - | ⭐ 12 stars |
-| 🔗 [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) | - | - | ⭐ 2 stars |
-| 🔗 [cihai](https://github.com/cihai/cihai) | 📥 464/week | 📦 202k total | ⭐ 94 stars |
-| 🔗 [marine](https://github.com/6gsn/marine) | 📥 208/week | 📦 13k total | ⭐ 35 stars |
-| 🔗 [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) | - | - | ⭐ 32 stars |
-| 🔗 [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) | - | - | ⭐ repo not found stars |
-| 🔗 [radicalchar](https://github.com/yamamaya/radicalchar) | - | - | ⭐ 7 stars |
-| 🔗 [akaza](https://github.com/tokuhirom/akaza) | - | - | ⭐ 223 stars |
-| 🔗 [posuto](https://github.com/polm/posuto) | 📥 4k/week | 📦 601k total | ⭐ 220 stars |
-| 🔗 [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) | - | - | ⭐ 269 stars |
-| 🔗 [ibus-hiragana](https://github.com/esrille/ibus-hiragana) | - | - | ⭐ 77 stars |
-| 🔗 [furiganapad](https://github.com/esrille/furiganapad) | - | - | ⭐ 18 stars |
-| 🔗 [chikkarpy](https://github.com/WorksApplications/chikkarpy) | 📥 344/week | 📦 50k total | ⭐ 55 stars |
-| 🔗 [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) | - | - | ⭐ 36 stars |
-| 🔗 [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) | - | - | ⭐ 183 stars |
-| 🔗 [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) | - | - | ⭐ 63 stars |
-| 🔗 [shuwa](https://github.com/google/shuwa) | - | - | ⭐ 143 stars |
-| 🔗 [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) | - | - | ⭐ 5 stars |
-| 🔗 [tra-fugu](https://github.com/tos-kamiya/tra-fugu) | - | - | ⭐ 6 stars |
-| 🔗 [fugumt](https://github.com/s-taka/fugumt) | - | - | ⭐ 63 stars |
-| 🔗 [JaSPICE](https://github.com/keio-smilab23/JaSPICE) | 📥 5/week | 📦 2k total | ⭐ 9 stars |
-| 🔗 [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) | - | - | ⭐ 48 stars |
-| 🔗 [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) | 📥 7k/week | 📦 1M total | ⭐ 240 stars |
-| 🔗 [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) | 📥 7/week | 📦 7k total | ⭐ 24 stars |
-| 🔗 [N46Whisper](https://github.com/Ayanaminn/N46Whisper) | - | - | ⭐ 1.7k stars |
-| 🔗 [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) | - | - | ⭐ 17 stars |
-| 🔗 [pdf-translator](https://github.com/discus0434/pdf-translator) | - | - | ⭐ 331 stars |
-| 🔗 [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) | - | - | ⭐ 1 stars |
-| 🔗 [mozc-devices](https://github.com/google/mozc-devices) | - | - | ⭐ 2.7k stars |
-| 🔗 [natsume](https://github.com/faruzan0820/natsume) | 📥 0/week | 📦 3k total | ⭐ repo not found stars |
-| 🔗 [vits-japros-webui](https://github.com/litagin02/vits-japros-webui) | - | - | ⭐ 42 stars |
-| 🔗 [ja-law-parser](https://github.com/takuyaa/ja-law-parser) | - | - | ⭐ 25 stars |
-| 🔗 [dictation-kit](https://github.com/julius-speech/dictation-kit) | - | - | ⭐ 163 stars |
-| 🔗 [julius4seg](https://github.com/Hiroshiba/julius4seg) | - | - | ⭐ 7 stars |
-| 🔗 [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) | - | - | ⭐ 1.6k stars |
-| 🔗 [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) | - | - | ⭐ 63 stars |
-| 🔗 [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) | - | - | ⭐ 10 stars |
-| 🔗 [bertjsc](https://github.com/er-ri/bertjsc) | - | - | ⭐ 13 stars |
-| 🔗 [llm-leaderboard](https://github.com/wandb/llm-leaderboard) | - | - | ⭐ 90 stars |
-| 🔗 [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) | - | - | ⭐ 17 stars |
-| 🔗 [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) | - | - | ⭐ 13 stars |
-| 🔗 [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) | - | - | ⭐ 11 stars |
-| 🔗 [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) | - | - | ⭐ 69 stars |
-| 🔗 [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) | - | - | ⭐ repo not found stars |
-| 🔗 [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) | - | - | ⭐ 16 stars |
-| 🔗 [t5-japanese](https://github.com/sonoisa/t5-japanese) | - | - | ⭐ 116 stars |
-| 🔗 [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) | - | - | ⭐ 5 stars |
-| 🔗 [jmteb](https://github.com/sbintuitions/jmteb) | - | - | ⭐ 77 stars |
-| 🔗 [pydomino](https://github.com/dwangomediavillage/pydomino) | - | - | ⭐ 34 stars |
-| 🔗 [easynovelassistant](https://github.com/zuntan03/easynovelassistant) | - | - | ⭐ 206 stars |
-| 🔗 [clip-japanese](https://github.com/sonoisa/clip-japanese) | - | - | ⭐ 13 stars |
-| 🔗 [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) | - | - | ⭐ 43 stars |
-| 🔗 [deep-question-generation](https://github.com/sonoisa/deep-question-generation) | - | - | ⭐ 12 stars |
-| 🔗 [magpie-nemotron](https://github.com/aratako/magpie-nemotron) | - | - | ⭐ 7 stars |
-| 🔗 [qlora_ja](https://github.com/sosuke115/qlora_ja) | - | - | ⭐ 1 stars |
-| 🔗 [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) | - | - | ⭐ 26 stars |
-| 🔗 [shisa-v2](https://github.com/shisa-ai/shisa-v2) | - | - | ⭐ 28 stars |
-| 🔗 [llm-translator](https://github.com/hpprc/llm-translator) | - | - | ⭐ 20 stars |
-| 🔗 [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) | - | - | ⭐ 9 stars |
-| 🔗 [rag-japanese](https://github.com/akimfromparis/rag-japanese) | - | - | ⭐ 10 stars |
-| 🔗 [monaka](https://github.com/komiya-lab/monaka) | - | - | ⭐ 3 stars |
-| 🔗 [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) | - | - | ⭐ 3 stars |
-| 🔗 [substring-word-finder](https://github.com/toufu-24/substring-word-finder) | - | - | ⭐ 4 stars |
-| 🔗 [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) | - | - | ⭐ 6 stars |
-| 🔗 [text2dataset](https://github.com/llm-jp/text2dataset) | - | - | ⭐ 24 stars |
-| 🔗 [mecab-web-api](https://github.com/bungoume/mecab-web-api) | - | - | ⭐ 40 stars |
-| 🔗 [mecab_controller](https://github.com/ajatt-tools/mecab_controller) | - | - | ⭐ 17 stars |
-| 🔗 [vits](https://github.com/zassou65535/vits) | - | - | ⭐ 91 stars |
-| 🔗 [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) | - | - | ⭐ 48 stars |
-| 🔗 [kudasai](https://github.com/bikatr7/kudasai) | - | - | ⭐ 26 stars |
-| 🔗 [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) | - | - | ⭐ 2 stars |
-| 🔗 [add-dictionary](https://github.com/massao000/add-dictionary) | - | - | ⭐ 3 stars |
-| 🔗 [j-moshi](https://github.com/nu-dialogue/j-moshi) | - | - | ⭐ 283 stars |
-| 🔗 [jatts](https://github.com/unilight/jatts) | - | - | ⭐ 44 stars |
-| 🔗 [tsukasa-speech](https://github.com/respaired/tsukasa-speech) | - | - | ⭐ 59 stars |
-| 🔗 [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) | - | - | ⭐ 2 stars |
-| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 33 stars |
-| 🔗 [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) | - | - | ⭐ 1 stars |
-| 🔗 [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) | - | - | ⭐ 39 stars |
-| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 33 stars |
-| 🔗 [manga109api](https://github.com/manga109/manga109api) | 📥 83/week | 📦 44k total | ⭐ 127 stars |
-| 🔗 [fastrtc-jp](https://github.com/route250/fastrtc-jp) | - | - | ⭐ 4 stars |
-| 🔗 [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) | - | - | ⭐ 14 stars |
-| 🔗 [pocket-researcher](https://github.com/u-masao/pocket-researcher) | - | - | ⭐ 11 stars |
-| 🔗 [jtransbench](https://github.com/webbigdata-jp/jtransbench) | - | - | ⭐ 12 stars |
-| 🔗 [easyllasa](https://github.com/zuntan03/easyllasa) | - | - | ⭐ 21 stars |
-| 🔗 [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) | - | - | ⭐ 106 stars |
-| 🔗 [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) | - | - | ⭐ 11 stars |
-| 🔗 [pitchbench](https://github.com/shewiiii/pitchbench) | - | - | ⭐ 1 stars |
-| 🔗 [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) | - | - | ⭐ 2 stars |
+| 🔗 [namedivider-python](https://github.com/rskmoi/namedivider-python) | 📥 709 | 📦 73k | ⭐ 251 |
+| 🔗 [asa-python](https://github.com/ikegami-yukino/asa-python) | 📥 20 | 📦 30k | ⭐ 11 |
+| 🔗 [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) | - | - | ⭐ 22 |
+| 🔗 [toiro](https://github.com/taishi-i/toiro) | 📥 93 | 📦 25k | ⭐ 120 |
+| 🔗 [ja-timex](https://github.com/yagays/ja-timex) | 📥 327 | 📦 84k | ⭐ 140 |
+| 🔗 [JapaneseTokenizers](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers) | - | - | ⭐ 138 |
+| 🔗 [daaja](https://github.com/kajyuuen/daaja) | 📥 24 | 📦 24k | ⭐ 64 |
+| 🔗 [accel-brain-code](https://github.com/accel-brain/accel-brain-code) | 📥 244 | 📦 145k | ⭐ 320 |
+| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 328 |
+| 🔗 [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) | 📥 855 | 📦 41k | ⭐ 10 |
+| 🔗 [nlplot](https://github.com/takapy0210/nlplot) | 📥 227 | 📦 105k | ⭐ 240 |
+| 🔗 [rake-ja](https://github.com/kanjirz50/rake-ja) | - | - | ⭐ 21 |
+| 🔗 [jel](https://github.com/izuna385/jel) | 📥 10 | 📦 7k | ⭐ 11 |
+| 🔗 [MedNER-J](https://github.com/sociocom/MedNER-J) | - | - | ⭐ 18 |
+| 🔗 [zunda-python](https://github.com/ikegami-yukino/zunda-python) | 📥 4 | 📦 6k | ⭐ 10 |
+| 🔗 [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) | - | - | ⭐ 16 |
+| 🔗 [showcase](https://github.com/cl-tohoku/showcase) | 📥 6 | 📦 7k | ⭐ 6 |
+| 🔗 [darts-clone-python](https://github.com/rixwew/darts-clone-python) | 📥 3k | 📦 9M | ⭐ 20 |
+| 🔗 [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) | - | - | ⭐ 3 |
+| 🔗 [desuwa](https://github.com/megagonlabs/desuwa) | 📥 11 | 📦 10k | ⭐ 6 |
+| 🔗 [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) | - | - | ⭐ 278 |
+| 🔗 [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) | - | - | ⭐ 65 |
+| 🔗 [Japanese_nlp_scripts](https://github.com/olsgaard/Japanese_nlp_scripts) | - | - | ⭐ 26 |
+| 🔗 [DNorm-J](https://github.com/sociocom/DNorm-J) | - | - | ⭐ 9 |
+| 🔗 [pyknp-eventgraph](https://github.com/ku-nlp/pyknp-eventgraph) | 📥 111 | 📦 64k | ⭐ 9 |
+| 🔗 [ishi](https://github.com/ku-nlp/ishi) | 📥 7 | 📦 6k | ⭐ 2 |
+| 🔗 [python-npylm](https://github.com/musyoku/python-npylm) | - | - | ⭐ 34 |
+| 🔗 [python-npycrf](https://github.com/musyoku/python-npycrf) | - | - | ⭐ 11 |
+| 🔗 [unsupervised-pos-tagging](https://github.com/musyoku/unsupervised-pos-tagging) | - | - | ⭐ 16 |
+| 🔗 [negima](https://github.com/cocodrips/negima) | 📥 10 | 📦 16k | ⭐ 14 |
+| 🔗 [YouyakuMan](https://github.com/neilctwu/YouyakuMan) | - | - | ⭐ 52 |
+| 🔗 [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) | 📥 578 | 📦 2M | ⭐ 21 |
+| 🔗 [kantan](https://github.com/itayperl/kantan) | - | - | ⭐ 8 |
+| 🔗 [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) | - | - | ⭐ 40 |
+| 🔗 [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) | - | - | ⭐ 10 |
+| 🔗 [chirptext](https://github.com/letuananh/chirptext) | 📥 581 | 📦 183k | ⭐ 6 |
+| 🔗 [yubin](https://github.com/alvations/yubin) | 📥 1 | 📦 3k | ⭐ 3 |
+| 🔗 [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) | 📥 31 | 📦 23k | ⭐ 6 |
+| 🔗 [japanese2phoneme](https://github.com/iory/japanese2phoneme) | 📥 7 | 📦 4k | ⭐ 1 |
+| 🔗 [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) | - | - | ⭐ 1 |
+| 🔗 [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) | - | - | ⭐ 11 |
+| 🔗 [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) | - | - | ⭐ 8 |
+| 🔗 [JLM](https://github.com/jiali-ms/JLM) | - | - | ⭐ 111 |
+| 🔗 [NTM](https://github.com/m3yrin/NTM) | - | - | ⭐ 13 |
+| 🔗 [EN-JP-ML-Lexicon](https://github.com/Machine-Learning-Tokyo/EN-JP-ML-Lexicon) | - | - | ⭐ 40 |
+| 🔗 [text-generation](https://github.com/discus0434/text-generation) | - | - | ⭐ 19 |
+| 🔗 [chainer_nic](https://github.com/yuyay/chainer_nic) | - | - | ⭐ 17 |
+| 🔗 [unihan-lm](https://github.com/JetRunner/unihan-lm) | - | - | ⭐ 2 |
+| 🔗 [mbart-finetuning](https://github.com/ken11/mbart-finetuning) | - | - | ⭐ 3 |
+| 🔗 [xvector_jtubespeech](https://github.com/sarulab-speech/xvector_jtubespeech) | - | - | ⭐ 46 |
+| 🔗 [TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker) | - | - | ⭐ 72 |
+| 🔗 [Grongish](https://github.com/shogo82148/Grongish) | - | - | ⭐ 25 |
+| 🔗 [WordCloud-Japanese](https://github.com/aocattleya/WordCloud-Japanese) | - | - | ⭐ 9 |
+| 🔗 [snark](https://github.com/hiraokusky/snark) | - | - | ⭐ 10 |
+| 🔗 [toEmoji](https://github.com/mkan0141/toEmoji) | - | - | ⭐ 4 |
+| 🔗 [termextract](https://github.com/kanjirz50/termextract) | - | - | ⭐ 18 |
+| 🔗 [JDT-with-KenLM-scoring](https://github.com/TUT-SLP-lab/JDT-with-KenLM-scoring) | - | - | ⭐ 1 |
+| 🔗 [mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model) | - | - | ⭐ 6 |
+| 🔗 [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) | - | - | ⭐ 5 |
+| 🔗 [Ngram-language-model](https://github.com/KentoW/Ngram-language-model) | - | - | ⭐ 5 |
+| 🔗 [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) | - | - | ⭐ 69 |
+| 🔗 [neural_ime](https://github.com/yohokuno/neural_ime) | - | - | ⭐ 67 |
+| 🔗 [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) | - | - | ⭐ 178 |
+| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 142k | 📦 168k | ⭐ repo not found |
+| 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 56 | 📦 29k | ⭐ 7 |
+| 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 21 | 📦 11k | ⭐ 28 |
+| 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 44 | 📦 19k | ⭐ 12 |
+| 🔗 [jageocoder](https://github.com/t-sagara/jageocoder) | 📥 2k | 📦 268k | ⭐ 89 |
+| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 243 | 📦 18k | ⭐ 22 |
+| 🔗 [nksnd](https://github.com/yoriyuki/nksnd) | - | - | ⭐ 26 |
+| 🔗 [JaMIE](https://github.com/racerandom/JaMIE) | - | - | ⭐ 9 |
+| 🔗 [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) | - | - | ⭐ 49 |
+| 🔗 [minimal-search-engine](https://github.com/GINK03/minimal-search-engine) | - | - | ⭐ 19 |
+| 🔗 [5ch-analysis](https://github.com/GINK03/5ch-analysis) | - | - | ⭐ 73 |
+| 🔗 [tweet_extructor](https://github.com/tatHi/tweet_extructor) | - | - | ⭐ 3 |
+| 🔗 [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) | - | - | ⭐ 2 |
+| 🔗 [jinf](https://github.com/hkiyomaru/jinf) | 📥 608 | 📦 52k | ⭐ 4 |
+| 🔗 [kwja](https://github.com/ku-nlp/kwja) | 📥 344 | 📦 52k | ⭐ 137 |
+| 🔗 [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) | - | - | ⭐ 6 |
+| 🔗 [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) | - | - | ⭐ 12 |
+| 🔗 [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) | - | - | ⭐ 2 |
+| 🔗 [cihai](https://github.com/cihai/cihai) | 📥 464 | 📦 202k | ⭐ 94 |
+| 🔗 [marine](https://github.com/6gsn/marine) | 📥 208 | 📦 13k | ⭐ 35 |
+| 🔗 [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) | - | - | ⭐ 32 |
+| 🔗 [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) | - | - | ⭐ repo not found |
+| 🔗 [radicalchar](https://github.com/yamamaya/radicalchar) | - | - | ⭐ 7 |
+| 🔗 [akaza](https://github.com/tokuhirom/akaza) | - | - | ⭐ 223 |
+| 🔗 [posuto](https://github.com/polm/posuto) | 📥 4k | 📦 601k | ⭐ 220 |
+| 🔗 [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) | - | - | ⭐ 269 |
+| 🔗 [ibus-hiragana](https://github.com/esrille/ibus-hiragana) | - | - | ⭐ 77 |
+| 🔗 [furiganapad](https://github.com/esrille/furiganapad) | - | - | ⭐ 18 |
+| 🔗 [chikkarpy](https://github.com/WorksApplications/chikkarpy) | 📥 344 | 📦 50k | ⭐ 55 |
+| 🔗 [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) | - | - | ⭐ 36 |
+| 🔗 [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) | - | - | ⭐ 183 |
+| 🔗 [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) | - | - | ⭐ 63 |
+| 🔗 [shuwa](https://github.com/google/shuwa) | - | - | ⭐ 143 |
+| 🔗 [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) | - | - | ⭐ 5 |
+| 🔗 [tra-fugu](https://github.com/tos-kamiya/tra-fugu) | - | - | ⭐ 6 |
+| 🔗 [fugumt](https://github.com/s-taka/fugumt) | - | - | ⭐ 63 |
+| 🔗 [JaSPICE](https://github.com/keio-smilab23/JaSPICE) | 📥 5 | 📦 2k | ⭐ 9 |
+| 🔗 [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) | - | - | ⭐ 48 |
+| 🔗 [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) | 📥 7k | 📦 1M | ⭐ 240 |
+| 🔗 [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) | 📥 7 | 📦 7k | ⭐ 24 |
+| 🔗 [N46Whisper](https://github.com/Ayanaminn/N46Whisper) | - | - | ⭐ 1.7k |
+| 🔗 [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) | - | - | ⭐ 17 |
+| 🔗 [pdf-translator](https://github.com/discus0434/pdf-translator) | - | - | ⭐ 331 |
+| 🔗 [japanese_qa_demo_with_haystack_and_es](https://github.com/Shingo-Kamata/japanese_qa_demo_with_haystack_and_es) | - | - | ⭐ 1 |
+| 🔗 [mozc-devices](https://github.com/google/mozc-devices) | - | - | ⭐ 2.7k |
+| 🔗 [natsume](https://github.com/faruzan0820/natsume) | 📥 0 | 📦 3k | ⭐ repo not found |
+| 🔗 [vits-japros-webui](https://github.com/litagin02/vits-japros-webui) | - | - | ⭐ 42 |
+| 🔗 [ja-law-parser](https://github.com/takuyaa/ja-law-parser) | - | - | ⭐ 25 |
+| 🔗 [dictation-kit](https://github.com/julius-speech/dictation-kit) | - | - | ⭐ 163 |
+| 🔗 [julius4seg](https://github.com/Hiroshiba/julius4seg) | - | - | ⭐ 7 |
+| 🔗 [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) | - | - | ⭐ 1.6k |
+| 🔗 [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) | - | - | ⭐ 63 |
+| 🔗 [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) | - | - | ⭐ 10 |
+| 🔗 [bertjsc](https://github.com/er-ri/bertjsc) | - | - | ⭐ 13 |
+| 🔗 [llm-leaderboard](https://github.com/wandb/llm-leaderboard) | - | - | ⭐ 90 |
+| 🔗 [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) | - | - | ⭐ 17 |
+| 🔗 [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) | - | - | ⭐ 13 |
+| 🔗 [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) | - | - | ⭐ 11 |
+| 🔗 [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) | - | - | ⭐ 69 |
+| 🔗 [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) | - | - | ⭐ repo not found |
+| 🔗 [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) | - | - | ⭐ 16 |
+| 🔗 [t5-japanese](https://github.com/sonoisa/t5-japanese) | - | - | ⭐ 116 |
+| 🔗 [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) | - | - | ⭐ 5 |
+| 🔗 [jmteb](https://github.com/sbintuitions/jmteb) | - | - | ⭐ 77 |
+| 🔗 [pydomino](https://github.com/dwangomediavillage/pydomino) | - | - | ⭐ 34 |
+| 🔗 [easynovelassistant](https://github.com/zuntan03/easynovelassistant) | - | - | ⭐ 206 |
+| 🔗 [clip-japanese](https://github.com/sonoisa/clip-japanese) | - | - | ⭐ 13 |
+| 🔗 [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) | - | - | ⭐ 43 |
+| 🔗 [deep-question-generation](https://github.com/sonoisa/deep-question-generation) | - | - | ⭐ 12 |
+| 🔗 [magpie-nemotron](https://github.com/aratako/magpie-nemotron) | - | - | ⭐ 7 |
+| 🔗 [qlora_ja](https://github.com/sosuke115/qlora_ja) | - | - | ⭐ 1 |
+| 🔗 [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) | - | - | ⭐ 26 |
+| 🔗 [shisa-v2](https://github.com/shisa-ai/shisa-v2) | - | - | ⭐ 28 |
+| 🔗 [llm-translator](https://github.com/hpprc/llm-translator) | - | - | ⭐ 20 |
+| 🔗 [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) | - | - | ⭐ 9 |
+| 🔗 [rag-japanese](https://github.com/akimfromparis/rag-japanese) | - | - | ⭐ 10 |
+| 🔗 [monaka](https://github.com/komiya-lab/monaka) | - | - | ⭐ 3 |
+| 🔗 [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) | - | - | ⭐ 3 |
+| 🔗 [substring-word-finder](https://github.com/toufu-24/substring-word-finder) | - | - | ⭐ 4 |
+| 🔗 [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) | - | - | ⭐ 6 |
+| 🔗 [text2dataset](https://github.com/llm-jp/text2dataset) | - | - | ⭐ 24 |
+| 🔗 [mecab-web-api](https://github.com/bungoume/mecab-web-api) | - | - | ⭐ 40 |
+| 🔗 [mecab_controller](https://github.com/ajatt-tools/mecab_controller) | - | - | ⭐ 17 |
+| 🔗 [vits](https://github.com/zassou65535/vits) | - | - | ⭐ 91 |
+| 🔗 [akari_chatgpt_bot](https://github.com/akarigroup/akari_chatgpt_bot) | - | - | ⭐ 48 |
+| 🔗 [kudasai](https://github.com/bikatr7/kudasai) | - | - | ⭐ 26 |
+| 🔗 [mecab-visualizer](https://github.com/sophiefy/mecab-visualizer) | - | - | ⭐ 2 |
+| 🔗 [add-dictionary](https://github.com/massao000/add-dictionary) | - | - | ⭐ 3 |
+| 🔗 [j-moshi](https://github.com/nu-dialogue/j-moshi) | - | - | ⭐ 283 |
+| 🔗 [jatts](https://github.com/unilight/jatts) | - | - | ⭐ 44 |
+| 🔗 [tsukasa-speech](https://github.com/respaired/tsukasa-speech) | - | - | ⭐ 59 |
+| 🔗 [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) | - | - | ⭐ 2 |
+| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 33 |
+| 🔗 [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) | - | - | ⭐ 1 |
+| 🔗 [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) | - | - | ⭐ 39 |
+| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 33 |
+| 🔗 [manga109api](https://github.com/manga109/manga109api) | 📥 83 | 📦 44k | ⭐ 127 |
+| 🔗 [fastrtc-jp](https://github.com/route250/fastrtc-jp) | - | - | ⭐ 4 |
+| 🔗 [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) | - | - | ⭐ 14 |
+| 🔗 [pocket-researcher](https://github.com/u-masao/pocket-researcher) | - | - | ⭐ 11 |
+| 🔗 [jtransbench](https://github.com/webbigdata-jp/jtransbench) | - | - | ⭐ 12 |
+| 🔗 [easyllasa](https://github.com/zuntan03/easyllasa) | - | - | ⭐ 21 |
+| 🔗 [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) | - | - | ⭐ 106 |
+| 🔗 [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) | - | - | ⭐ 11 |
+| 🔗 [pitchbench](https://github.com/shewiiii/pitchbench) | - | - | ⭐ 1 |
+| 🔗 [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) | - | - | ⭐ 2 |
 
 
 ## C++
@@ -781,9 +781,9 @@ High-performance libraries for Japanese morphological analysis
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [mecab](https://github.com/taku910/mecab) | - | - | ⭐ 1.1k stars |
-| 🔗 [jumanpp](https://github.com/ku-nlp/jumanpp) | - | - | ⭐ 402 stars |
-| 🔗 [kytea](https://github.com/neubig/kytea) | - | - | ⭐ 211 stars |
+| 🔗 [mecab](https://github.com/taku910/mecab) | - | - | ⭐ 1.1k |
+| 🔗 [jumanpp](https://github.com/ku-nlp/jumanpp) | - | - | ⭐ 402 |
+| 🔗 [kytea](https://github.com/neubig/kytea) | - | - | ⭐ 211 |
 
 ### Parsing
 Libraries for dependency and syntactic parsing of Japanese sentences
@@ -794,8 +794,8 @@ Libraries for dependency and syntactic parsing of Japanese sentences
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [cabocha](https://github.com/taku910/cabocha) | - | - | ⭐ 117 stars |
-| 🔗 [knp](https://github.com/ku-nlp/knp) | - | - | ⭐ 33 stars |
+| 🔗 [cabocha](https://github.com/taku910/cabocha) | - | - | ⭐ 117 |
+| 🔗 [knp](https://github.com/ku-nlp/knp) | - | - | ⭐ 33 |
 
 ### Others
 Other Japanese NLP and text processing libraries
@@ -810,12 +810,12 @@ Other Japanese NLP and text processing libraries
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [jsc](https://github.com/yohokuno/jsc) | - | - | ⭐ 15 stars |
-| 🔗 [aquaskk](https://github.com/codefirst/aquaskk) | - | - | ⭐ 365 stars |
-| 🔗 [mozc](https://github.com/google/mozc) | - | - | ⭐ 2.8k stars |
-| 🔗 [trimatch](https://github.com/tuem/trimatch) | - | - | ⭐ 2 stars |
-| 🔗 [resembla](https://github.com/tuem/resembla) | - | - | ⭐ 73 stars |
-| 🔗 [corvusskk](https://github.com/nathancorvussolis/corvusskk) | - | - | ⭐ 346 stars |
+| 🔗 [jsc](https://github.com/yohokuno/jsc) | - | - | ⭐ 15 |
+| 🔗 [aquaskk](https://github.com/codefirst/aquaskk) | - | - | ⭐ 365 |
+| 🔗 [mozc](https://github.com/google/mozc) | - | - | ⭐ 2.8k |
+| 🔗 [trimatch](https://github.com/tuem/trimatch) | - | - | ⭐ 2 |
+| 🔗 [resembla](https://github.com/tuem/resembla) | - | - | ⭐ 73 |
+| 🔗 [corvusskk](https://github.com/nathancorvussolis/corvusskk) | - | - | ⭐ 346 |
 
 
 ## Rust crate
@@ -835,14 +835,14 @@ Fast Japanese morphological analysis crates written in Rust
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [lindera](https://github.com/lindera-morphology/lindera) | - | 📦 728k total | ⭐ 545 stars |
-| 🔗 [vaporetto](https://github.com/daac-tools/vaporetto) | - | 📦 144k total | ⭐ 248 stars |
-| 🔗 [goya](https://github.com/Leko/goya) | - | 📦 11k total | ⭐ 81 stars |
-| 🔗 [vibrato](https://github.com/daac-tools/vibrato) | - | 📦 48k total | ⭐ 386 stars |
-| 🔗 [yoin](https://github.com/agatan/yoin) | - | 📦 2.9k total | ⭐ 26 stars |
-| 🔗 [mecab-rs](https://github.com/tsurai/mecab-rs) | - | 📦 38k total | ⭐ 65 stars |
-| 🔗 [awabi](https://github.com/nakagami/awabi) | - | 📦 24k total | ⭐ 11 stars |
-| 🔗 [kanpyo](https://github.com/togatoga/kanpyo) | - | 📦 2.5k total | ⭐ 106 stars |
+| 🔗 [lindera](https://github.com/lindera-morphology/lindera) | - | 📦 728k | ⭐ 545 |
+| 🔗 [vaporetto](https://github.com/daac-tools/vaporetto) | - | 📦 144k | ⭐ 248 |
+| 🔗 [goya](https://github.com/Leko/goya) | - | 📦 11k | ⭐ 81 |
+| 🔗 [vibrato](https://github.com/daac-tools/vibrato) | - | 📦 48k | ⭐ 386 |
+| 🔗 [yoin](https://github.com/agatan/yoin) | - | 📦 2.9k | ⭐ 26 |
+| 🔗 [mecab-rs](https://github.com/tsurai/mecab-rs) | - | 📦 38k | ⭐ 65 |
+| 🔗 [awabi](https://github.com/nakagami/awabi) | - | 📦 24k | ⭐ 11 |
+| 🔗 [kanpyo](https://github.com/togatoga/kanpyo) | - | 📦 2.5k | ⭐ 106 |
 
 
 ### Converter
@@ -858,12 +858,12 @@ Crates for script and character conversion in Japanese text
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) | - | 📦 240k total | ⭐ 85 stars |
-| 🔗 [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) | - | 📦 59k total | ⭐ 19 stars |
-| 🔗 [kana](https://github.com/gbrlsnchs/kana) | - | - | ⭐ 11 stars |
-| 🔗 [kanaria](https://github.com/samunohito/kanaria) | - | - | ⭐ 21 stars |
-| 🔗 [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) | - | - | ⭐ 9 stars |
-| 🔗 [yosina](https://github.com/yosina-lib/yosina) | - | - | ⭐ 20 stars |
+| 🔗 [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) | - | 📦 240k | ⭐ 85 |
+| 🔗 [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) | - | 📦 59k | ⭐ 19 |
+| 🔗 [kana](https://github.com/gbrlsnchs/kana) | - | - | ⭐ 11 |
+| 🔗 [kanaria](https://github.com/samunohito/kanaria) | - | - | ⭐ 21 |
+| 🔗 [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) | - | - | ⭐ 9 |
+| 🔗 [yosina](https://github.com/yosina-lib/yosina) | - | - | ⭐ 20 |
 
 
 ### Search engine library
@@ -875,8 +875,8 @@ Libraries for Japanese full-text search and indexing
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) | - | 📦 140k total | ⭐ 65 stars |
-| 🔗 [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) | - | 📦 1.5k total | ⭐ 3 stars |
+| 🔗 [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) | - | 📦 140k | ⭐ 65 |
+| 🔗 [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) | - | 📦 1.5k | ⭐ 3 |
 
 
 ### Others
@@ -905,25 +905,25 @@ Supplementary crates for Japanese text and IME processing
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [daachorse](https://github.com/daac-tools/daachorse) | - | 📦 600k total | ⭐ 236 stars |
-| 🔗 [find-simdoc](https://github.com/legalforce-research/find-simdoc) | - | 📦 29k total | ⭐ 62 stars |
-| 🔗 [crawdad](https://github.com/daac-tools/crawdad) | - | 📦 52k total | ⭐ 36 stars |
-| 🔗 [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) | - | - | ⭐ 4 stars |
-| 🔗 [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) | - | - | ⭐ 3 stars |
-| 🔗 [vime](https://github.com/algon-320/vime) | - | - | ⭐ 231 stars |
-| 🔗 [voicevox_core](https://github.com/VOICEVOX/voicevox_core) | - | - | ⭐ 1k stars |
-| 🔗 [akaza](https://github.com/akaza-im/akaza) | - | - | ⭐ 223 stars |
-| 🔗 [Jotoba](https://github.com/WeDontPanic/Jotoba) | - | - | ⭐ 194 stars |
-| 🔗 [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) | - | - | ⭐ 55 stars |
-| 🔗 [niinii](https://github.com/Netdex/niinii) | - | - | ⭐ 14 stars |
-| 🔗 [cskk](https://github.com/naokiri/cskk) | - | - | ⭐ 78 stars |
-| 🔗 [japanki](https://github.com/tysonwu/japanki) | - | - | ⭐ 3 stars |
-| 🔗 [jpreprocess](https://github.com/jpreprocess/jpreprocess) | - | - | ⭐ 49 stars |
-| 🔗 [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) | - | - | ⭐ 5 stars |
-| 🔗 [jisho](https://github.com/eagleflo/jisho) | - | - | ⭐ 17 stars |
-| 🔗 [kanalizer](https://github.com/voicevox/kanalizer) | - | - | ⭐ 23 stars |
-| 🔗 [koharu](https://github.com/mayocream/koharu) | - | - | ⭐ 233 stars |
-| 🔗 [yomine](https://github.com/mcgrizzz/yomine) | - | - | ⭐ 28 stars |
+| 🔗 [daachorse](https://github.com/daac-tools/daachorse) | - | 📦 600k | ⭐ 236 |
+| 🔗 [find-simdoc](https://github.com/legalforce-research/find-simdoc) | - | 📦 29k | ⭐ 62 |
+| 🔗 [crawdad](https://github.com/daac-tools/crawdad) | - | 📦 52k | ⭐ 36 |
+| 🔗 [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) | - | - | ⭐ 4 |
+| 🔗 [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) | - | - | ⭐ 3 |
+| 🔗 [vime](https://github.com/algon-320/vime) | - | - | ⭐ 231 |
+| 🔗 [voicevox_core](https://github.com/VOICEVOX/voicevox_core) | - | - | ⭐ 1k |
+| 🔗 [akaza](https://github.com/akaza-im/akaza) | - | - | ⭐ 223 |
+| 🔗 [Jotoba](https://github.com/WeDontPanic/Jotoba) | - | - | ⭐ 194 |
+| 🔗 [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) | - | - | ⭐ 55 |
+| 🔗 [niinii](https://github.com/Netdex/niinii) | - | - | ⭐ 14 |
+| 🔗 [cskk](https://github.com/naokiri/cskk) | - | - | ⭐ 78 |
+| 🔗 [japanki](https://github.com/tysonwu/japanki) | - | - | ⭐ 3 |
+| 🔗 [jpreprocess](https://github.com/jpreprocess/jpreprocess) | - | - | ⭐ 49 |
+| 🔗 [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) | - | - | ⭐ 5 |
+| 🔗 [jisho](https://github.com/eagleflo/jisho) | - | - | ⭐ 17 |
+| 🔗 [kanalizer](https://github.com/voicevox/kanalizer) | - | - | ⭐ 23 |
+| 🔗 [koharu](https://github.com/mayocream/koharu) | - | - | ⭐ 233 |
+| 🔗 [yomine](https://github.com/mcgrizzz/yomine) | - | - | ⭐ 28 |
 
 
 ## JavaScript
@@ -941,11 +941,11 @@ Resources
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [kuromoji.js](https://github.com/takuyaa/kuromoji.js) | 📥 125k/week/week | 📦 7.2M total | ⭐ 945 stars |
-| 🔗 [rakutenma](https://github.com/rakuten-nlp/rakutenma) | 📥 5/week/week | 📦 1k total | ⭐ 472 stars |
-| 🔗 [node-mecab-ya](https://github.com/golbin/mecab-ya) | 📥 124/week/week | 📦 6.5k total | ⭐ 110 stars |
-| 🔗 [juman-bin](https://github.com/thammin/juman-bin) | 📥 3/week/week | 📦 371 total | ⭐ 3 stars |
-| 🔗 [node-mecab-async](https://github.com/hecomi/node-mecab-async) | 📥 5.3k/week/week | 📦 357k total | ⭐ 103 stars |
+| 🔗 [kuromoji.js](https://github.com/takuyaa/kuromoji.js) | 📥 125k/week | 📦 7.2M | ⭐ 945 |
+| 🔗 [rakutenma](https://github.com/rakuten-nlp/rakutenma) | 📥 5/week | 📦 1k | ⭐ 472 |
+| 🔗 [node-mecab-ya](https://github.com/golbin/mecab-ya) | 📥 124/week | 📦 6.5k | ⭐ 110 |
+| 🔗 [juman-bin](https://github.com/thammin/juman-bin) | 📥 3/week | 📦 371 | ⭐ 3 |
+| 🔗 [node-mecab-async](https://github.com/hecomi/node-mecab-async) | 📥 5.3k/week | 📦 357k | ⭐ 103 |
 
 
 ### Converter
@@ -968,19 +968,19 @@ Libraries for converting Japanese scripts and readings
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [kuroshiro](https://github.com/hexenq/kuroshiro) | 📥 7.8k/week/week | 📦 290k total | ⭐ 932 stars |
-| 🔗 [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) | 📥 7.4k/week/week | 📦 270k total | ⭐ 67 stars |
-| 🔗 [hepburn](https://github.com/lovell/hepburn) | 📥 61k/week/week | 📦 2.6M total | ⭐ 135 stars |
-| 🔗 [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) | 📥 36k/week/week | 📦 2M total | ⭐ 59 stars |
-| 🔗 [jslingua](https://github.com/kariminf/jslingua) | 📥 78/week/week | 📦 7k total | ⭐ 51 stars |
-| 🔗 [WanaKana](https://github.com/WaniKani/WanaKana) | 📥 34k/week/week | 📦 1.9M total | ⭐ 883 stars |
-| 🔗 [node-romaji-name](https://github.com/jeresig/node-romaji-name) | 📥 625/week/week | 📦 9.5k total | ⭐ 41 stars |
-| 🔗 [kyujitai.js](https://github.com/hakatashi/kyujitai.js) | 📥 19/week/week | 📦 1.2k total | ⭐ 22 stars |
-| 🔗 [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) | - | - | ⭐ 938 stars |
-| 🔗 [jaconv](https://github.com/kazuhikoarase/jaconv) | - | - | ⭐ 84 stars |
-| 🔗 [romaji-conv](https://github.com/koozaki/romaji-conv) | - | - | ⭐ 26 stars |
-| 🔗 [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) | - | - | ⭐ 65 stars |
-| 🔗 [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) | - | - | ⭐ 2 stars |
+| 🔗 [kuroshiro](https://github.com/hexenq/kuroshiro) | 📥 7.8k/week | 📦 290k | ⭐ 932 |
+| 🔗 [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) | 📥 7.4k/week | 📦 270k | ⭐ 67 |
+| 🔗 [hepburn](https://github.com/lovell/hepburn) | 📥 61k/week | 📦 2.6M | ⭐ 135 |
+| 🔗 [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) | 📥 36k/week | 📦 2M | ⭐ 59 |
+| 🔗 [jslingua](https://github.com/kariminf/jslingua) | 📥 78/week | 📦 7k | ⭐ 51 |
+| 🔗 [WanaKana](https://github.com/WaniKani/WanaKana) | 📥 34k/week | 📦 1.9M | ⭐ 883 |
+| 🔗 [node-romaji-name](https://github.com/jeresig/node-romaji-name) | 📥 625/week | 📦 9.5k | ⭐ 41 |
+| 🔗 [kyujitai.js](https://github.com/hakatashi/kyujitai.js) | 📥 19/week | 📦 1.2k | ⭐ 22 |
+| 🔗 [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) | - | - | ⭐ 938 |
+| 🔗 [jaconv](https://github.com/kazuhikoarase/jaconv) | - | - | ⭐ 84 |
+| 🔗 [romaji-conv](https://github.com/koozaki/romaji-conv) | - | - | ⭐ 26 |
+| 🔗 [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) | - | - | ⭐ 65 |
+| 🔗 [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) | - | - | ⭐ 2 |
 
 
 ### Others
@@ -1008,24 +1008,24 @@ Other libraries for Japanese NLP in JavaScript
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [bangumi-data](https://github.com/bangumi-data/bangumi-data) | 📥 578/week/week | 📦 63k total | ⭐ 575 stars |
-| 🔗 [yomichan](https://github.com/FooSoft/yomichan) | - | - | ⭐ 1.1k stars |
-| 🔗 [proofreading-tool](https://github.com/gecko655/proofreading-tool) | - | - | ⭐ 86 stars |
-| 🔗 [kanjigrid](https://github.com/minosvasilias/kanjigrid) | - | - | ⭐ 43 stars |
-| 🔗 [japanese-toolkit](https://github.com/echamudi/japanese-toolkit) | - | - | ⭐ 60 stars |
-| 🔗 [analyze-desumasu-dearu](https://github.com/textlint-ja/analyze-desumasu-dearu) | 📥 81k/week/week | 📦 4.5M total | ⭐ 18 stars |
-| 🔗 [hatsuon](https://github.com/DJTB/hatsuon) | 📥 24/week/week | 📦 1k total | ⭐ 34 stars |
-| 🔗 [sentiment_ja_js](https://github.com/otodn/sentiment_ja_js) | - | - | ⭐ 10 stars |
-| 🔗 [mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed) | 📥 104/week/week | 📦 5.4k total | ⭐ 8 stars |
-| 🔗 [Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day) | 📥 2/week/week | 📦 309 total | ⭐ repo not found stars |
-| 🔗 [oskim](https://github.com/esrille/oskim) | - | - | ⭐ 2 stars |
-| 🔗 [tweetMapping](https://github.com/wtnv-lab/tweetMapping) | - | - | ⭐ 25 stars |
-| 🔗 [pitch-accent](https://github.com/shirakaba/pitch-accent) | 📥 0/week/week | 📦 85 total | ⭐ 2 stars |
-| 🔗 [kana2ipa](https://github.com/amanoese/kana2ipa) | - | - | ⭐ 16 stars |
-| 🔗 [voicevox](https://github.com/VOICEVOX/voicevox) | - | - | ⭐ 3k stars |
-| 🔗 [kamiya-codec](https://github.com/fasiha/kamiya-codec) | - | - | ⭐ 17 stars |
-| 🔗 [closewords](https://github.com/otoneko1102/closewords) | - | - | ⭐ 1 stars |
-| 🔗 [japanese-analyzer](https://github.com/cokice/japanese-analyzer) | - | - | ⭐ 582 stars |
+| 🔗 [bangumi-data](https://github.com/bangumi-data/bangumi-data) | 📥 578/week | 📦 63k | ⭐ 575 |
+| 🔗 [yomichan](https://github.com/FooSoft/yomichan) | - | - | ⭐ 1.1k |
+| 🔗 [proofreading-tool](https://github.com/gecko655/proofreading-tool) | - | - | ⭐ 86 |
+| 🔗 [kanjigrid](https://github.com/minosvasilias/kanjigrid) | - | - | ⭐ 43 |
+| 🔗 [japanese-toolkit](https://github.com/echamudi/japanese-toolkit) | - | - | ⭐ 60 |
+| 🔗 [analyze-desumasu-dearu](https://github.com/textlint-ja/analyze-desumasu-dearu) | 📥 81k/week | 📦 4.5M | ⭐ 18 |
+| 🔗 [hatsuon](https://github.com/DJTB/hatsuon) | 📥 24/week | 📦 1k | ⭐ 34 |
+| 🔗 [sentiment_ja_js](https://github.com/otodn/sentiment_ja_js) | - | - | ⭐ 10 |
+| 🔗 [mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed) | 📥 104/week | 📦 5.4k | ⭐ 8 |
+| 🔗 [Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day) | 📥 2/week | 📦 309 | ⭐ repo not found |
+| 🔗 [oskim](https://github.com/esrille/oskim) | - | - | ⭐ 2 |
+| 🔗 [tweetMapping](https://github.com/wtnv-lab/tweetMapping) | - | - | ⭐ 25 |
+| 🔗 [pitch-accent](https://github.com/shirakaba/pitch-accent) | 📥 0/week | 📦 85 | ⭐ 2 |
+| 🔗 [kana2ipa](https://github.com/amanoese/kana2ipa) | - | - | ⭐ 16 |
+| 🔗 [voicevox](https://github.com/VOICEVOX/voicevox) | - | - | ⭐ 3k |
+| 🔗 [kamiya-codec](https://github.com/fasiha/kamiya-codec) | - | - | ⭐ 17 |
+| 🔗 [closewords](https://github.com/otoneko1102/closewords) | - | - | ⭐ 1 |
+| 🔗 [japanese-analyzer](https://github.com/cokice/japanese-analyzer) | - | - | ⭐ 582 |
 
 
 ## Go
@@ -1038,7 +1038,7 @@ Lightweight Japanese morphological analysis libraries in Go
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [kagome](https://github.com/ikawaha/kagome) | - | - | ⭐ 915 stars |
+| 🔗 [kagome](https://github.com/ikawaha/kagome) | - | - | ⭐ 915 |
 
 
 ### Others
@@ -1056,14 +1056,14 @@ Additional Go-based Japanese text processing libraries
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [ojosama](https://github.com/jiro4989/ojosama) | - | - | ⭐ 385 stars |
-| 🔗 [nihongo](https://github.com/gojp/nihongo) | - | - | ⭐ 81 stars |
-| 🔗 [yomichan-import](https://github.com/FooSoft/yomichan-import) | - | - | ⭐ 85 stars |
-| 🔗 [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) | - | - | ⭐ 29 stars |
-| 🔗 [go-kakasi](https://github.com/sarumaj/go-kakasi) | - | - | ⭐ 6 stars |
-| 🔗 [go-moji](https://github.com/ktnyt/go-moji) | - | - | ⭐ 20 stars |
-| 🔗 [ojichat](https://github.com/greymd/ojichat) | - | - | ⭐ 1.3k stars |
-| 🔗 [name](https://github.com/kuniwak/name) | - | - | ⭐ 10 stars |
+| 🔗 [ojosama](https://github.com/jiro4989/ojosama) | - | - | ⭐ 385 |
+| 🔗 [nihongo](https://github.com/gojp/nihongo) | - | - | ⭐ 81 |
+| 🔗 [yomichan-import](https://github.com/FooSoft/yomichan-import) | - | - | ⭐ 85 |
+| 🔗 [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) | - | - | ⭐ 29 |
+| 🔗 [go-kakasi](https://github.com/sarumaj/go-kakasi) | - | - | ⭐ 6 |
+| 🔗 [go-moji](https://github.com/ktnyt/go-moji) | - | - | ⭐ 20 |
+| 🔗 [ojichat](https://github.com/greymd/ojichat) | - | - | ⭐ 1.3k |
+| 🔗 [name](https://github.com/kuniwak/name) | - | - | ⭐ 10 |
 
 
 ## Java
@@ -1079,10 +1079,10 @@ Japanese morphological analysis and dictionary management libraries
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [kuromoji](https://github.com/atilika/kuromoji) | - | - | ⭐ 1k stars |
-| 🔗 [Sudachi](https://github.com/WorksApplications/Sudachi) | - | - | ⭐ 913 stars |
-| 🔗 [SudachiDict](https://github.com/WorksApplications/SudachiDict) | - | - | ⭐ 269 stars |
-| 🔗 [meval](https://github.com/teru-oka-1933/meval) | - | - | ⭐ 7 stars |
+| 🔗 [kuromoji](https://github.com/atilika/kuromoji) | - | - | ⭐ 1k |
+| 🔗 [Sudachi](https://github.com/WorksApplications/Sudachi) | - | - | ⭐ 913 |
+| 🔗 [SudachiDict](https://github.com/WorksApplications/SudachiDict) | - | - | ⭐ 269 |
+| 🔗 [meval](https://github.com/teru-oka-1933/meval) | - | - | ⭐ 7 |
 
 
 ### Others
@@ -1101,15 +1101,15 @@ Java libraries for Japanese NLP and OCR
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) | - | - | ⭐ 202 stars |
-| 🔗 [jakaroma](https://github.com/nicolas-raoul/jakaroma) | - | - | ⭐ 67 stars |
-| 🔗 [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) | - | - | ⭐ 55 stars |
-| 🔗 [Kamite](https://github.com/fauu/Kamite) | - | - | ⭐ 128 stars |
-| 🔗 [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) | - | - | ⭐ 38 stars |
-| 🔗 [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) | - | - | ⭐ 29 stars |
-| 🔗 [moji4j](https://github.com/andree-surya/moji4j) | - | - | ⭐ 33 stars |
-| 🔗 [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) | - | - | ⭐ 4 stars |
-| 🔗 [elasticsearch-sudachi](https://github.com/worksapplications/elasticsearch-sudachi) | - | - | ⭐ 216 stars |
+| 🔗 [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) | - | - | ⭐ 202 |
+| 🔗 [jakaroma](https://github.com/nicolas-raoul/jakaroma) | - | - | ⭐ 67 |
+| 🔗 [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) | - | - | ⭐ 55 |
+| 🔗 [Kamite](https://github.com/fauu/Kamite) | - | - | ⭐ 128 |
+| 🔗 [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) | - | - | ⭐ 38 |
+| 🔗 [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) | - | - | ⭐ 29 |
+| 🔗 [moji4j](https://github.com/andree-surya/moji4j) | - | - | ⭐ 33 |
+| 🔗 [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) | - | - | ⭐ 4 |
+| 🔗 [elasticsearch-sudachi](https://github.com/worksapplications/elasticsearch-sudachi) | - | - | ⭐ 216 |
 
 
 ## Pretrained model
@@ -1129,14 +1129,14 @@ Models that convert words into numeric vectors to capture semantic similarity
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) | - | - | ⭐ 86 stars |
-| 🔗 [chiVe](https://github.com/WorksApplications/chiVe) | - | - | ⭐ 168 stars |
-| 🔗 [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) | - | - | ⭐ 5 stars |
-| 🔗 [embedrank](https://github.com/yagays/embedrank) | - | - | ⭐ 48 stars |
-| 🔗 [aovec](https://github.com/eggplants/aovec) | 📥 81/week | 📦 78k total | ⭐ 3 stars |
-| 🔗 [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) | - | - | ⭐ 8 stars |
-| 🔗 [jawikivec](https://github.com/wikiwikification/jawikivec) | - | - | ⭐ 2 stars |
-| 🔗 [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) | - | - | ⭐ 11 stars |
+| 🔗 [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) | - | - | ⭐ 86 |
+| 🔗 [chiVe](https://github.com/WorksApplications/chiVe) | - | - | ⭐ 168 |
+| 🔗 [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) | - | - | ⭐ 5 |
+| 🔗 [embedrank](https://github.com/yagays/embedrank) | - | - | ⭐ 48 |
+| 🔗 [aovec](https://github.com/eggplants/aovec) | 📥 81 | 📦 78k | ⭐ 3 |
+| 🔗 [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) | - | - | ⭐ 8 |
+| 🔗 [jawikivec](https://github.com/wikiwikification/jawikivec) | - | - | ⭐ 2 |
+| 🔗 [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) | - | - | ⭐ 11 |
 
 
 ### Transformer based models
@@ -1183,43 +1183,43 @@ Models that use self-attention to understand context and perform advanced langua
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [bert-japanese](https://github.com/cl-tohoku/bert-japanese) | - | - | ⭐ 539 stars |
-| 🔗 [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) | - | - | ⭐ repo not found stars |
-| 🔗 [bert-japanese](https://github.com/yoheikikuta/bert-japanese) | - | - | ⭐ 498 stars |
-| 🔗 [SudachiTra](https://github.com/WorksApplications/SudachiTra) | 📥 586/week | 📦 151k total | ⭐ 79 stars |
-| 🔗 [japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) | - | - | ⭐ 244 stars |
-| 🔗 [shiba](https://github.com/octanove/shiba) | 📥 24/week | 📦 7k total | ⭐ 89 stars |
-| 🔗 [Dialog](https://github.com/reppy4620/Dialog) | - | - | ⭐ 73 stars |
-| 🔗 [language-pretraining](https://github.com/retarfi/language-pretraining) | - | - | ⭐ 50 stars |
-| 🔗 [medbertjp](https://github.com/ou-medinfo/medbertjp) | - | - | ⭐ 12 stars |
-| 🔗 [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) | - | - | ⭐ 23 stars |
-| 🔗 [t5-japanese](https://github.com/megagonlabs/t5-japanese) | - | - | ⭐ 40 stars |
-| 🔗 [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) | - | - | ⭐ 35 stars |
-| 🔗 [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) | - | - | ⭐ 73 stars |
-| 🔗 [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) | - | - | ⭐ 23 stars |
-| 🔗 [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) | - | - | ⭐ 16 stars |
-| 🔗 [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) | - | - | ⭐ 40 stars |
-| 🔗 [sbert-ja](https://github.com/colorfulscoop/sbert-ja) | - | - | ⭐ 11 stars |
-| 🔗 [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) | - | - | ⭐ 7 stars |
-| 🔗 [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) | - | - | ⭐ 323 stars |
-| 🔗 [text2text-japanese](https://github.com/tanreinama/text2text-japanese) | - | - | ⭐ 33 stars |
-| 🔗 [gpt-ja](https://github.com/colorfulscoop/gpt-ja) | - | - | ⭐ 3 stars |
-| 🔗 [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) | - | - | ⭐ 1 stars |
-| 🔗 [albert-japanese](https://github.com/alinear-corp/albert-japanese) | - | - | ⭐ 33 stars |
-| 🔗 [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) | - | - | ⭐ 115 stars |
-| 🔗 [DistilBERT-base-jp](https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp) | - | - | ⭐ 161 stars |
-| 🔗 [bert](https://github.com/informatix-inc/bert) | - | - | ⭐ 28 stars |
-| 🔗 [Laboro-DistilBERT-Japanese](https://github.com/laboroai/Laboro-DistilBERT-Japanese) | - | - | ⭐ 16 stars |
-| 🔗 [luke](https://github.com/studio-ousia/luke) | - | - | ⭐ 728 stars |
-| 🔗 [GPTSAN](https://github.com/tanreinama/GPTSAN) | - | - | ⭐ 118 stars |
-| 🔗 [japanese-clip](https://github.com/rinnakk/japanese-clip) | - | - | ⭐ repo not found stars |
-| 🔗 [AcademicBART](https://github.com/EhimeNLP/AcademicBART) | - | - | ⭐ 2 stars |
-| 🔗 [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) | - | - | ⭐ 9 stars |
-| 🔗 [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) | - | - | ⭐ 46 stars |
-| 🔗 [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) | - | - | ⭐ 141 stars |
-| 🔗 [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) | - | - | ⭐ 13 stars |
-| 🔗 [japanese-llama-experiment](https://github.com/lighttransport/japanese-llama-experiment) | - | - | ⭐ 54 stars |
-| 🔗 [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) | - | - | ⭐ 37 stars |
+| 🔗 [bert-japanese](https://github.com/cl-tohoku/bert-japanese) | - | - | ⭐ 539 |
+| 🔗 [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) | - | - | ⭐ repo not found |
+| 🔗 [bert-japanese](https://github.com/yoheikikuta/bert-japanese) | - | - | ⭐ 498 |
+| 🔗 [SudachiTra](https://github.com/WorksApplications/SudachiTra) | 📥 586 | 📦 151k | ⭐ 79 |
+| 🔗 [japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) | - | - | ⭐ 244 |
+| 🔗 [shiba](https://github.com/octanove/shiba) | 📥 24 | 📦 7k | ⭐ 89 |
+| 🔗 [Dialog](https://github.com/reppy4620/Dialog) | - | - | ⭐ 73 |
+| 🔗 [language-pretraining](https://github.com/retarfi/language-pretraining) | - | - | ⭐ 50 |
+| 🔗 [medbertjp](https://github.com/ou-medinfo/medbertjp) | - | - | ⭐ 12 |
+| 🔗 [ILYS-aoba-chatbot](https://github.com/cl-tohoku/ILYS-aoba-chatbot) | - | - | ⭐ 23 |
+| 🔗 [t5-japanese](https://github.com/megagonlabs/t5-japanese) | - | - | ⭐ 40 |
+| 🔗 [pytorch_bert_japanese](https://github.com/yagays/pytorch_bert_japanese) | - | - | ⭐ 35 |
+| 🔗 [Laboro-BERT-Japanese](https://github.com/laboroai/Laboro-BERT-Japanese) | - | - | ⭐ 73 |
+| 🔗 [RoBERTa-japanese](https://github.com/tanreinama/RoBERTa-japanese) | - | - | ⭐ 23 |
+| 🔗 [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) | - | - | ⭐ 16 |
+| 🔗 [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) | - | - | ⭐ 40 |
+| 🔗 [sbert-ja](https://github.com/colorfulscoop/sbert-ja) | - | - | ⭐ 11 |
+| 🔗 [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) | - | - | ⭐ 7 |
+| 🔗 [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) | - | - | ⭐ 323 |
+| 🔗 [text2text-japanese](https://github.com/tanreinama/text2text-japanese) | - | - | ⭐ 33 |
+| 🔗 [gpt-ja](https://github.com/colorfulscoop/gpt-ja) | - | - | ⭐ 3 |
+| 🔗 [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) | - | - | ⭐ 1 |
+| 🔗 [albert-japanese](https://github.com/alinear-corp/albert-japanese) | - | - | ⭐ 33 |
+| 🔗 [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) | - | - | ⭐ 115 |
+| 🔗 [DistilBERT-base-jp](https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp) | - | - | ⭐ 161 |
+| 🔗 [bert](https://github.com/informatix-inc/bert) | - | - | ⭐ 28 |
+| 🔗 [Laboro-DistilBERT-Japanese](https://github.com/laboroai/Laboro-DistilBERT-Japanese) | - | - | ⭐ 16 |
+| 🔗 [luke](https://github.com/studio-ousia/luke) | - | - | ⭐ 728 |
+| 🔗 [GPTSAN](https://github.com/tanreinama/GPTSAN) | - | - | ⭐ 118 |
+| 🔗 [japanese-clip](https://github.com/rinnakk/japanese-clip) | - | - | ⭐ repo not found |
+| 🔗 [AcademicBART](https://github.com/EhimeNLP/AcademicBART) | - | - | ⭐ 2 |
+| 🔗 [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) | - | - | ⭐ 9 |
+| 🔗 [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) | - | - | ⭐ 46 |
+| 🔗 [Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) | - | - | ⭐ 141 |
+| 🔗 [albert-japanese-tinysegmenter](https://github.com/nknytk/albert-japanese-tinysegmenter) | - | - | ⭐ 13 |
+| 🔗 [japanese-llama-experiment](https://github.com/lighttransport/japanese-llama-experiment) | - | - | ⭐ 54 |
+| 🔗 [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) | - | - | ⭐ 37 |
 
 
 ## ChatGPT
@@ -1253,30 +1253,30 @@ Resources for using ChatGPT and APIs for Japanese dialogue and text generation
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) | - | - | ⭐ 15 stars |
-| 🔗 [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) | - | - | ⭐ 5 stars |
-| 🔗 [wanna](https://github.com/hirokidaichi/wanna) | 📥 7/week | 📦 19k total | ⭐ 142 stars |
-| 🔗 [ChatdollKit](https://github.com/uezo/ChatdollKit) | - | - | ⭐ 1.1k stars |
-| 🔗 [ChuanhuChatGPTJapanese](https://github.com/gyokuro33/ChuanhuChatGPTJapanese) | - | - | ⭐ 1 stars |
-| 🔗 [AISisterAIChan](https://github.com/manju-summoner/AISisterAIChan) | - | - | ⭐ 26 stars |
-| 🔗 [vrchatbot](https://github.com/Geson-anko/vrchatbot) | - | - | ⭐ 28 stars |
-| 🔗 [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) | - | - | ⭐ 63 stars |
-| 🔗 [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) | - | - | ⭐ 15 stars |
-| 🔗 [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) | - | - | ⭐ 1 stars |
-| 🔗 [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) | - | - | ⭐ 46 stars |
-| 🔗 [chatvrm](https://github.com/pixiv/chatvrm) | - | - | ⭐ 799 stars |
-| 🔗 [sftly-replace](https://github.com/kmizu/sftly-replace) | - | - | ⭐ 4 stars |
-| 🔗 [summarize_arxv](https://github.com/rkmt/summarize_arxv) | - | - | ⭐ 173 stars |
-| 🔗 [aiavatarkit](https://github.com/uezo/aiavatarkit) | - | - | ⭐ 449 stars |
-| 🔗 [pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution) | - | - | ⭐ repo not found stars |
-| 🔗 [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) | - | - | ⭐ 280 stars |
-| 🔗 [character_chat](https://github.com/mutaguchi/character_chat) | - | - | ⭐ 16 stars |
-| 🔗 [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) | - | - | ⭐ 63 stars |
-| 🔗 [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) | - | - | ⭐ 390 stars |
-| 🔗 [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) | - | - | ⭐ 6 stars |
-| 🔗 [IgakuQA](https://github.com/jungokasai/IgakuQA) | - | - | ⭐ 48 stars |
-| 🔗 [japagen](https://github.com/retrieva/japagen) | - | - | ⭐ 1 stars |
-| 🔗 [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) | - | - | ⭐ 390 stars |
+| 🔗 [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) | - | - | ⭐ 15 |
+| 🔗 [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) | - | - | ⭐ 5 |
+| 🔗 [wanna](https://github.com/hirokidaichi/wanna) | 📥 7 | 📦 19k | ⭐ 142 |
+| 🔗 [ChatdollKit](https://github.com/uezo/ChatdollKit) | - | - | ⭐ 1.1k |
+| 🔗 [ChuanhuChatGPTJapanese](https://github.com/gyokuro33/ChuanhuChatGPTJapanese) | - | - | ⭐ 1 |
+| 🔗 [AISisterAIChan](https://github.com/manju-summoner/AISisterAIChan) | - | - | ⭐ 26 |
+| 🔗 [vrchatbot](https://github.com/Geson-anko/vrchatbot) | - | - | ⭐ 28 |
+| 🔗 [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) | - | - | ⭐ 63 |
+| 🔗 [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) | - | - | ⭐ 15 |
+| 🔗 [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) | - | - | ⭐ 1 |
+| 🔗 [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) | - | - | ⭐ 46 |
+| 🔗 [chatvrm](https://github.com/pixiv/chatvrm) | - | - | ⭐ 799 |
+| 🔗 [sftly-replace](https://github.com/kmizu/sftly-replace) | - | - | ⭐ 4 |
+| 🔗 [summarize_arxv](https://github.com/rkmt/summarize_arxv) | - | - | ⭐ 173 |
+| 🔗 [aiavatarkit](https://github.com/uezo/aiavatarkit) | - | - | ⭐ 449 |
+| 🔗 [pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution) | - | - | ⭐ repo not found |
+| 🔗 [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) | - | - | ⭐ 280 |
+| 🔗 [character_chat](https://github.com/mutaguchi/character_chat) | - | - | ⭐ 16 |
+| 🔗 [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) | - | - | ⭐ 63 |
+| 🔗 [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) | - | - | ⭐ 390 |
+| 🔗 [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) | - | - | ⭐ 6 |
+| 🔗 [IgakuQA](https://github.com/jungokasai/IgakuQA) | - | - | ⭐ 48 |
+| 🔗 [japagen](https://github.com/retrieva/japagen) | - | - | ⭐ 1 |
+| 🔗 [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) | - | - | ⭐ 390 |
 
 
 ## Dictionary and IME
@@ -1359,78 +1359,78 @@ Resources for Japanese dictionaries and input method editors (IME)
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) | - | - | ⭐ 2.8k stars |
-| 🔗 [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) | - | - | ⭐ 120 stars |
-| 🔗 [jamdict](https://github.com/neocl/jamdict) | 📥 147/week | 📦 48k total | ⭐ 156 stars |
-| 🔗 [unidic-py](https://github.com/polm/unidic-py) | 📥 81k/week | 📦 8M total | ⭐ 106 stars |
-| 🔗 [Japanese-Company-Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon) | - | - | ⭐ 100 stars |
-| 🔗 [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) | - | - | ⭐ 7 stars |
-| 🔗 [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) | - | - | ⭐ 56 stars |
-| 🔗 [JIWC-Dictionary](https://github.com/sociocom/JIWC-Dictionary) | - | - | ⭐ 40 stars |
-| 🔗 [JumanDIC](https://github.com/ku-nlp/JumanDIC) | - | - | ⭐ 4 stars |
-| 🔗 [ipadic-py](https://github.com/polm/ipadic-py) | 📥 63k/week | 📦 6M total | ⭐ 24 stars |
-| 🔗 [unidic-lite](https://github.com/polm/unidic-lite) | 📥 76k/week | 📦 8M total | ⭐ 48 stars |
-| 🔗 [emoji-ime-dictionary](https://github.com/peaceiris/emoji-ime-dictionary) | - | - | ⭐ 365 stars |
-| 🔗 [google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary) | - | - | ⭐ 96 stars |
-| 🔗 [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) | - | - | ⭐ 79 stars |
-| 🔗 [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) | - | - | ⭐ 55 stars |
-| 🔗 [emoticon](https://github.com/tiwanari/emoticon) | - | - | ⭐ 43 stars |
-| 🔗 [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) | - | - | ⭐ 10 stars |
-| 🔗 [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) | - | - | ⭐ 2 stars |
-| 🔗 [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) | - | - | ⭐ 34 stars |
-| 🔗 [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) | - | - | ⭐ 0 stars |
-| 🔗 [EJDict](https://github.com/kujirahand/EJDict) | - | - | ⭐ 229 stars |
-| 🔗 [Ayashiy-Nipongo-Dic](https://github.com/Rinrin0413/Ayashiy-Nipongo-Dic) | - | - | ⭐ 26 stars |
-| 🔗 [genshin-dict](https://github.com/kotofurumiya/genshin-dict) | - | - | ⭐ 118 stars |
-| 🔗 [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) | - | - | ⭐ 305 stars |
-| 🔗 [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) | - | - | ⭐ 66 stars |
-| 🔗 [mh-dict-jp](https://github.com/utubo/mh-dict-jp) | - | - | ⭐ 4 stars |
-| 🔗 [jitenbot](https://github.com/stephenmk/jitenbot) | - | - | ⭐ repo not found stars |
-| 🔗 [mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd) | - | - | ⭐ 86 stars |
-| 🔗 [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) | - | - | ⭐ 24 stars |
-| 🔗 [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) | - | - | ⭐ 211 stars |
-| 🔗 [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) | - | - | ⭐ 109 stars |
-| 🔗 [Jitendex](https://github.com/stephenmk/Jitendex) | - | - | ⭐ 416 stars |
-| 🔗 [jiten](https://github.com/obfusk/jiten) | - | - | ⭐ 122 stars |
-| 🔗 [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) | - | - | ⭐ 41 stars |
-| 🔗 [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) | - | - | ⭐ 4 stars |
-| 🔗 [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) | - | - | ⭐ 651 stars |
-| 🔗 [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) | - | - | ⭐ 72 stars |
-| 🔗 [jisyo](https://github.com/skk-dict/jisyo) | - | - | ⭐ 26 stars |
-| 🔗 [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) | - | - | ⭐ 29 stars |
-| 🔗 [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) | - | - | ⭐ 7 stars |
-| 🔗 [cl-skkserv](https://github.com/tani/cl-skkserv) | - | - | ⭐ 31 stars |
-| 🔗 [anthy](https://github.com/xorgy/anthy) | - | - | ⭐ 2 stars |
-| 🔗 [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) | - | - | ⭐ 36 stars |
-| 🔗 [azooKey](https://github.com/ensan-hcl/azooKey) | - | - | ⭐ 527 stars |
-| 🔗 [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) | - | - | ⭐ 650 stars |
-| 🔗 [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) | - | - | ⭐ 135 stars |
-| 🔗 [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) | - | - | ⭐ 20 stars |
-| 🔗 [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) | - | - | ⭐ 121 stars |
-| 🔗 [libkkc](https://github.com/ueno/libkkc) | - | - | ⭐ 111 stars |
-| 🔗 [libskk](https://github.com/ueno/libskk) | - | - | ⭐ 94 stars |
-| 🔗 [kanayomi-dict](https://github.com/warihima/kanayomi-dict) | - | - | ⭐ repo not found stars |
-| 🔗 [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) | - | - | ⭐ 107 stars |
-| 🔗 [wlsp-classical](https://github.com/yocjyet/wlsp-classical) | - | - | ⭐ 2 stars |
-| 🔗 [kanji-dict](https://github.com/marmooo/kanji-dict) | - | - | ⭐ 5 stars |
-| 🔗 [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) | - | - | ⭐ 11 stars |
-| 🔗 [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) | - | - | ⭐ 4 stars |
-| 🔗 [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) | - | - | ⭐ 6 stars |
-| 🔗 [ichiran](https://github.com/tshatrov/ichiran) | - | - | ⭐ 375 stars |
-| 🔗 [mikan](https://github.com/mojyack/mikan) | - | - | ⭐ 24 stars |
-| 🔗 [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) | - | - | ⭐ 9 stars |
-| 🔗 [jisho-open](https://github.com/hlorenzi/jisho-open) | - | - | ⭐ 56 stars |
-| 🔗 [macskk](https://github.com/mtgto/macskk) | - | - | ⭐ 237 stars |
-| 🔗 [nandoku](https://github.com/marmooo/nandoku) | - | - | ⭐ 1 stars |
-| 🔗 [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) | - | - | ⭐ 2 stars |
-| 🔗 [anthywl](https://github.com/tadeokondrak/anthywl) | - | - | ⭐ 33 stars |
-| 🔗 [sekka](https://github.com/kiyoka/sekka) | - | - | ⭐ 24 stars |
-| 🔗 [sumibi](https://github.com/kiyoka/sumibi) | - | - | ⭐ 32 stars |
-| 🔗 [jinmei-dict](https://github.com/s1r-j/jinmei-dict) | - | - | ⭐ 5 stars |
-| 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 183 stars |
-| 🔗 [japanesearabic](https://github.com/a-hamdi/japanesearabic) | - | - | ⭐ 16 stars |
-| 🔗 [o-dic](https://github.com/makotoga/o-dic) | - | - | ⭐ 5 stars |
-| 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 139 stars |
+| 🔗 [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) | - | - | ⭐ 2.8k |
+| 🔗 [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) | - | - | ⭐ 120 |
+| 🔗 [jamdict](https://github.com/neocl/jamdict) | 📥 147 | 📦 48k | ⭐ 156 |
+| 🔗 [unidic-py](https://github.com/polm/unidic-py) | 📥 81k | 📦 8M | ⭐ 106 |
+| 🔗 [Japanese-Company-Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon) | - | - | ⭐ 100 |
+| 🔗 [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) | - | - | ⭐ 7 |
+| 🔗 [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) | - | - | ⭐ 56 |
+| 🔗 [JIWC-Dictionary](https://github.com/sociocom/JIWC-Dictionary) | - | - | ⭐ 40 |
+| 🔗 [JumanDIC](https://github.com/ku-nlp/JumanDIC) | - | - | ⭐ 4 |
+| 🔗 [ipadic-py](https://github.com/polm/ipadic-py) | 📥 63k | 📦 6M | ⭐ 24 |
+| 🔗 [unidic-lite](https://github.com/polm/unidic-lite) | 📥 76k | 📦 8M | ⭐ 48 |
+| 🔗 [emoji-ime-dictionary](https://github.com/peaceiris/emoji-ime-dictionary) | - | - | ⭐ 365 |
+| 🔗 [google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary) | - | - | ⭐ 96 |
+| 🔗 [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) | - | - | ⭐ 79 |
+| 🔗 [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) | - | - | ⭐ 55 |
+| 🔗 [emoticon](https://github.com/tiwanari/emoticon) | - | - | ⭐ 43 |
+| 🔗 [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) | - | - | ⭐ 10 |
+| 🔗 [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) | - | - | ⭐ 2 |
+| 🔗 [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) | - | - | ⭐ 34 |
+| 🔗 [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) | - | - | ⭐ 0 |
+| 🔗 [EJDict](https://github.com/kujirahand/EJDict) | - | - | ⭐ 229 |
+| 🔗 [Ayashiy-Nipongo-Dic](https://github.com/Rinrin0413/Ayashiy-Nipongo-Dic) | - | - | ⭐ 26 |
+| 🔗 [genshin-dict](https://github.com/kotofurumiya/genshin-dict) | - | - | ⭐ 118 |
+| 🔗 [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) | - | - | ⭐ 305 |
+| 🔗 [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) | - | - | ⭐ 66 |
+| 🔗 [mh-dict-jp](https://github.com/utubo/mh-dict-jp) | - | - | ⭐ 4 |
+| 🔗 [jitenbot](https://github.com/stephenmk/jitenbot) | - | - | ⭐ repo not found |
+| 🔗 [mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd) | - | - | ⭐ 86 |
+| 🔗 [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) | - | - | ⭐ 24 |
+| 🔗 [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) | - | - | ⭐ 211 |
+| 🔗 [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) | - | - | ⭐ 109 |
+| 🔗 [Jitendex](https://github.com/stephenmk/Jitendex) | - | - | ⭐ 416 |
+| 🔗 [jiten](https://github.com/obfusk/jiten) | - | - | ⭐ 122 |
+| 🔗 [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) | - | - | ⭐ 41 |
+| 🔗 [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) | - | - | ⭐ 4 |
+| 🔗 [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) | - | - | ⭐ 651 |
+| 🔗 [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) | - | - | ⭐ 72 |
+| 🔗 [jisyo](https://github.com/skk-dict/jisyo) | - | - | ⭐ 26 |
+| 🔗 [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) | - | - | ⭐ 29 |
+| 🔗 [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) | - | - | ⭐ 7 |
+| 🔗 [cl-skkserv](https://github.com/tani/cl-skkserv) | - | - | ⭐ 31 |
+| 🔗 [anthy](https://github.com/xorgy/anthy) | - | - | ⭐ 2 |
+| 🔗 [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) | - | - | ⭐ 36 |
+| 🔗 [azooKey](https://github.com/ensan-hcl/azooKey) | - | - | ⭐ 527 |
+| 🔗 [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) | - | - | ⭐ 650 |
+| 🔗 [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) | - | - | ⭐ 135 |
+| 🔗 [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) | - | - | ⭐ 20 |
+| 🔗 [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) | - | - | ⭐ 121 |
+| 🔗 [libkkc](https://github.com/ueno/libkkc) | - | - | ⭐ 111 |
+| 🔗 [libskk](https://github.com/ueno/libskk) | - | - | ⭐ 94 |
+| 🔗 [kanayomi-dict](https://github.com/warihima/kanayomi-dict) | - | - | ⭐ repo not found |
+| 🔗 [cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) | - | - | ⭐ 107 |
+| 🔗 [wlsp-classical](https://github.com/yocjyet/wlsp-classical) | - | - | ⭐ 2 |
+| 🔗 [kanji-dict](https://github.com/marmooo/kanji-dict) | - | - | ⭐ 5 |
+| 🔗 [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) | - | - | ⭐ 11 |
+| 🔗 [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) | - | - | ⭐ 4 |
+| 🔗 [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) | - | - | ⭐ 6 |
+| 🔗 [ichiran](https://github.com/tshatrov/ichiran) | - | - | ⭐ 375 |
+| 🔗 [mikan](https://github.com/mojyack/mikan) | - | - | ⭐ 24 |
+| 🔗 [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) | - | - | ⭐ 9 |
+| 🔗 [jisho-open](https://github.com/hlorenzi/jisho-open) | - | - | ⭐ 56 |
+| 🔗 [macskk](https://github.com/mtgto/macskk) | - | - | ⭐ 237 |
+| 🔗 [nandoku](https://github.com/marmooo/nandoku) | - | - | ⭐ 1 |
+| 🔗 [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) | - | - | ⭐ 2 |
+| 🔗 [anthywl](https://github.com/tadeokondrak/anthywl) | - | - | ⭐ 33 |
+| 🔗 [sekka](https://github.com/kiyoka/sekka) | - | - | ⭐ 24 |
+| 🔗 [sumibi](https://github.com/kiyoka/sumibi) | - | - | ⭐ 32 |
+| 🔗 [jinmei-dict](https://github.com/s1r-j/jinmei-dict) | - | - | ⭐ 5 |
+| 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 183 |
+| 🔗 [japanesearabic](https://github.com/a-hamdi/japanesearabic) | - | - | ⭐ 16 |
+| 🔗 [o-dic](https://github.com/makotoga/o-dic) | - | - | ⭐ 5 |
+| 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 139 |
 
 
 ## Corpus
@@ -1450,15 +1450,15 @@ Corpora annotated with part-of-speech tags and named entities
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) | - | - | ⭐ 142 stars |
-| 🔗 [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) | - | - | ⭐ 61 stars |
-| 🔗 [TwitterCorpus](https://github.com/tmu-nlp/TwitterCorpus) | - | - | ⭐ 21 stars |
-| 🔗 [UD_Japanese-PUD](https://github.com/megagonlabs/UD_Japanese-PUD) | - | - | ⭐ 0 stars |
-| 🔗 [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) | - | - | ⭐ 28 stars |
-| 🔗 [KWDLC](https://github.com/ku-nlp/KWDLC) | - | - | ⭐ 83 stars |
-| 🔗 [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) | - | - | ⭐ 18 stars |
-| 🔗 [anthy](https://github.com/netsphere-labs/anthy) | - | - | ⭐ 14 stars |
-| 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 3 stars |
+| 🔗 [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) | - | - | ⭐ 142 |
+| 🔗 [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) | - | - | ⭐ 61 |
+| 🔗 [TwitterCorpus](https://github.com/tmu-nlp/TwitterCorpus) | - | - | ⭐ 21 |
+| 🔗 [UD_Japanese-PUD](https://github.com/megagonlabs/UD_Japanese-PUD) | - | - | ⭐ 0 |
+| 🔗 [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) | - | - | ⭐ 28 |
+| 🔗 [KWDLC](https://github.com/ku-nlp/KWDLC) | - | - | ⭐ 83 |
+| 🔗 [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) | - | - | ⭐ 18 |
+| 🔗 [anthy](https://github.com/netsphere-labs/anthy) | - | - | ⭐ 14 |
+| 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 3 |
 
 
 ### Parallel corpus
@@ -1481,19 +1481,19 @@ Bilingual corpora containing aligned sentences for translation tasks
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [small_parallel_enja](https://github.com/odashi/small_parallel_enja) | - | - | ⭐ 97 stars |
-| 🔗 [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) | - | - | ⭐ 14 stars |
-| 🔗 [CourseraParallelCorpusMining](https://github.com/shyyhs/CourseraParallelCorpusMining) | - | - | ⭐ 15 stars |
-| 🔗 [JESC](https://github.com/rpryzant/JESC) | - | - | ⭐ 87 stars |
-| 🔗 [AMI-Meeting-Parallel-Corpus](https://github.com/tsuruoka-lab/AMI-Meeting-Parallel-Corpus) | - | - | ⭐ 11 stars |
-| 🔗 [giant_ja-en_parallel_corpus](https://github.com/DayuanJiang/giant_ja-en_parallel_corpus) | - | - | ⭐ 5 stars |
-| 🔗 [jesc_small](https://github.com/yusugomori/jesc_small) | - | - | ⭐ 3 stars |
-| 🔗 [graded-enja-corpus](https://github.com/marmooo/graded-enja-corpus) | - | - | ⭐ 6 stars |
-| 🔗 [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) | - | - | ⭐ 142 stars |
-| 🔗 [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) | - | - | ⭐ 18 stars |
-| 🔗 [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) | - | - | ⭐ 4 stars |
-| 🔗 [matcha](https://github.com/ehimenlp/matcha) | - | - | ⭐ 6 stars |
-| 🔗 [en-ja-el](https://github.com/shigashiyama/en-ja-el) | - | - | ⭐ 1 stars |
+| 🔗 [small_parallel_enja](https://github.com/odashi/small_parallel_enja) | - | - | ⭐ 97 |
+| 🔗 [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) | - | - | ⭐ 14 |
+| 🔗 [CourseraParallelCorpusMining](https://github.com/shyyhs/CourseraParallelCorpusMining) | - | - | ⭐ 15 |
+| 🔗 [JESC](https://github.com/rpryzant/JESC) | - | - | ⭐ 87 |
+| 🔗 [AMI-Meeting-Parallel-Corpus](https://github.com/tsuruoka-lab/AMI-Meeting-Parallel-Corpus) | - | - | ⭐ 11 |
+| 🔗 [giant_ja-en_parallel_corpus](https://github.com/DayuanJiang/giant_ja-en_parallel_corpus) | - | - | ⭐ 5 |
+| 🔗 [jesc_small](https://github.com/yusugomori/jesc_small) | - | - | ⭐ 3 |
+| 🔗 [graded-enja-corpus](https://github.com/marmooo/graded-enja-corpus) | - | - | ⭐ 6 |
+| 🔗 [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) | - | - | ⭐ 142 |
+| 🔗 [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) | - | - | ⭐ 18 |
+| 🔗 [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) | - | - | ⭐ 4 |
+| 🔗 [matcha](https://github.com/ehimenlp/matcha) | - | - | ⭐ 6 |
+| 🔗 [en-ja-el](https://github.com/shigashiyama/en-ja-el) | - | - | ⭐ 1 |
 
 
 ### Dialog corpus
@@ -1512,15 +1512,15 @@ Collections of conversation data for training dialogue systems
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [JMRD](https://github.com/ku-nlp/JMRD) | - | - | ⭐ 28 stars |
-| 🔗 [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) | - | - | ⭐ 99 stars |
-| 🔗 [BSD](https://github.com/tsuruoka-lab/BSD) | - | - | ⭐ 71 stars |
-| 🔗 [asdc](https://github.com/megagonlabs/asdc) | - | - | ⭐ 25 stars |
-| 🔗 [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) | - | - | ⭐ 3 stars |
-| 🔗 [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) | - | - | ⭐ 5 stars |
-| 🔗 [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) | - | - | ⭐ 54 stars |
-| 🔗 [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) | - | - | ⭐ 86 stars |
-| 🔗 [kokorochat](https://github.com/uec-inabalab/kokorochat) | - | - | ⭐ 15 stars |
+| 🔗 [JMRD](https://github.com/ku-nlp/JMRD) | - | - | ⭐ 28 |
+| 🔗 [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) | - | - | ⭐ 99 |
+| 🔗 [BSD](https://github.com/tsuruoka-lab/BSD) | - | - | ⭐ 71 |
+| 🔗 [asdc](https://github.com/megagonlabs/asdc) | - | - | ⭐ 25 |
+| 🔗 [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) | - | - | ⭐ 3 |
+| 🔗 [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) | - | - | ⭐ 5 |
+| 🔗 [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) | - | - | ⭐ 54 |
+| 🔗 [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) | - | - | ⭐ 86 |
+| 🔗 [kokorochat](https://github.com/uec-inabalab/kokorochat) | - | - | ⭐ 15 |
 
 
 ### Others
@@ -1662,137 +1662,137 @@ Corpora for tasks such as question answering or entailment recognition
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) | - | - | ⭐ 77 stars |
-| 🔗 [kanji-data](https://github.com/davidluzgouveia/kanji-data) | - | - | ⭐ 192 stars |
-| 🔗 [JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) | - | - | ⭐ 102 stars |
-| 🔗 [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) | - | - | ⭐ 32 stars |
-| 🔗 [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) | - | - | ⭐ 141 stars |
-| 🔗 [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) | - | - | ⭐ 108 stars |
-| 🔗 [JaNLI](https://github.com/verypluming/JaNLI) | - | - | ⭐ 17 stars |
-| 🔗 [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) | - | - | ⭐ 18 stars |
-| 🔗 [emoji-ja](https://github.com/yagays/emoji-ja) | - | - | ⭐ 82 stars |
-| 🔗 [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) | - | - | ⭐ 35 stars |
-| 🔗 [ja.text8](https://github.com/Hironsan/ja.text8) | - | - | ⭐ 111 stars |
-| 🔗 [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) | - | - | ⭐ 31 stars |
-| 🔗 [japanese](https://github.com/hingston/japanese) | - | - | ⭐ 82 stars |
-| 🔗 [kanji-frequency](https://github.com/scriptin/kanji-frequency) | - | - | ⭐ 152 stars |
-| 🔗 [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) | - | - | ⭐ 24 stars |
-| 🔗 [CoARiJ](https://github.com/chakki-works/CoARiJ) | - | - | ⭐ 94 stars |
-| 🔗 [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) | - | - | ⭐ 26 stars |
-| 🔗 [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) | - | - | ⭐ 5 stars |
-| 🔗 [wikipedia-utils](https://github.com/singletongue/wikipedia-utils) | - | - | ⭐ 78 stars |
-| 🔗 [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) | - | - | ⭐ 197 stars |
-| 🔗 [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) | - | - | ⭐ 104 stars |
-| 🔗 [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) | - | - | ⭐ 173 stars |
-| 🔗 [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) | - | - | ⭐ 90 stars |
-| 🔗 [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) | - | - | ⭐ 6 stars |
-| 🔗 [speechBSD](https://github.com/ku-nlp/speechBSD) | - | - | ⭐ 3 stars |
-| 🔗 [ita-corpus](https://github.com/mmorise/ita-corpus) | - | - | ⭐ 216 stars |
-| 🔗 [rohan4600](https://github.com/mmorise/rohan4600) | - | - | ⭐ 64 stars |
-| 🔗 [anlp-jp-history](https://github.com/whym/anlp-jp-history) | - | - | ⭐ 3 stars |
-| 🔗 [keigo_transfer_task](https://github.com/cl-tohoku/keigo_transfer_task) | - | - | ⭐ 21 stars |
-| 🔗 [loanwords_gairaigo](https://github.com/jamesohortle/loanwords_gairaigo) | - | - | ⭐ 19 stars |
-| 🔗 [jawikicorpus](https://github.com/wikiwikification/jawikicorpus) | - | - | ⭐ 4 stars |
-| 🔗 [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) | - | - | ⭐ 6 stars |
-| 🔗 [wrime](https://github.com/ids-cv/wrime) | - | - | ⭐ 172 stars |
-| 🔗 [jtubespeech](https://github.com/sarulab-speech/jtubespeech) | - | - | ⭐ 228 stars |
-| 🔗 [WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList) | - | - | ⭐ 2 stars |
-| 🔗 [kokkosho_data](https://github.com/rindybell/kokkosho_data) | - | - | ⭐ 1 stars |
-| 🔗 [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) | - | - | ⭐ 74 stars |
-| 🔗 [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) | - | - | ⭐ 28 stars |
-| 🔗 [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) | - | - | ⭐ 31 stars |
-| 🔗 [hirakanadic](https://github.com/po3rin/hirakanadic) | 📥 21/week | 📦 13k total | ⭐ 7 stars |
-| 🔗 [animedb](https://github.com/anilogia/animedb) | - | - | ⭐ 330 stars |
-| 🔗 [security_words](https://github.com/SaitoLab/security_words) | - | - | ⭐ 27 stars |
-| 🔗 [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) | - | - | ⭐ 3 stars |
-| 🔗 [honkoku-data](https://github.com/yuta1984/honkoku-data) | - | - | ⭐ 17 stars |
-| 🔗 [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) | - | - | ⭐ 36 stars |
-| 🔗 [engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) | - | - | ⭐ 1.8k stars |
-| 🔗 [JSICK](https://github.com/verypluming/JSICK) | - | - | ⭐ 45 stars |
-| 🔗 [phishurl-list](https://github.com/JPCERTCC/phishurl-list) | - | - | ⭐ 195 stars |
-| 🔗 [jcms](https://github.com/shigashiyama/jcms) | - | - | ⭐ 9 stars |
-| 🔗 [aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) | - | - | ⭐ 82 stars |
-| 🔗 [friendly_JA-Corpus](https://github.com/astremo/friendly_JA-Corpus) | - | - | ⭐ repo not found stars |
-| 🔗 [topokanji](https://github.com/scriptin/topokanji) | - | - | ⭐ 196 stars |
-| 🔗 [isbn4groups](https://github.com/uribo/isbn4groups) | - | - | ⭐ 1 stars |
-| 🔗 [NMeCab](https://github.com/komutan/NMeCab) | - | - | ⭐ 96 stars |
-| 🔗 [ndlngramdata](https://github.com/ndl-lab/ndlngramdata) | - | - | ⭐ 14 stars |
-| 🔗 [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) | - | - | ⭐ 3 stars |
-| 🔗 [data_set](https://github.com/japanese-law-analysis/data_set) | - | - | ⭐ 42 stars |
-| 🔗 [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) | - | - | ⭐ 4 stars |
-| 🔗 [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) | - | - | ⭐ 16 stars |
-| 🔗 [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) | - | - | ⭐ 175 stars |
-| 🔗 [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) | - | - | ⭐ 13 stars |
-| 🔗 [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) | - | - | ⭐ 2 stars |
-| 🔗 [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) | - | - | ⭐ 12 stars |
-| 🔗 [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) | - | - | ⭐ 15 stars |
-| 🔗 [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) | - | - | ⭐ 31 stars |
-| 🔗 [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) | - | - | ⭐ 6 stars |
-| 🔗 [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) | - | - | ⭐ 21 stars |
-| 🔗 [camera](https://github.com/CyberAgentAILab/camera) | - | - | ⭐ 26 stars |
-| 🔗 [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) | - | - | ⭐ 20 stars |
-| 🔗 [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) | - | - | ⭐ repo not found stars |
-| 🔗 [copa-japanese](https://github.com/nlp-titech/copa-japanese) | - | - | ⭐ 1 stars |
-| 🔗 [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) | - | - | ⭐ 10 stars |
-| 🔗 [ProSub](https://github.com/matbahasa/ProSub) | - | - | ⭐ 5 stars |
-| 🔗 [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) | - | - | ⭐ 15 stars |
-| 🔗 [ramendb](https://github.com/nuko-yokohama/ramendb) | - | - | ⭐ 7 stars |
-| 🔗 [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) | - | - | ⭐ 3 stars |
-| 🔗 [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) | - | - | ⭐ 0 stars |
-| 🔗 [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) | - | - | ⭐ 88 stars |
-| 🔗 [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) | - | - | ⭐ 0 stars |
-| 🔗 [meconaudio](https://github.com/elith-co-jp/meconaudio) | - | - | ⭐ 9 stars |
-| 🔗 [japanese-addresses](https://github.com/geolonia/japanese-addresses) | - | - | ⭐ 748 stars |
-| 🔗 [aozorasearch](https://github.com/myokoym/aozorasearch) | - | - | ⭐ 21 stars |
-| 🔗 [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) | - | - | ⭐ 43 stars |
-| 🔗 [alpaca_ja](https://github.com/shi3z/alpaca_ja) | - | - | ⭐ 86 stars |
-| 🔗 [instruction_ja](https://github.com/megagonlabs/instruction_ja) | - | - | ⭐ 24 stars |
-| 🔗 [japanese-family-names](https://github.com/siikamiika/japanese-family-names) | - | - | ⭐ 17 stars |
-| 🔗 [kanji-data-media](https://github.com/kanjialive/kanji-data-media) | - | - | ⭐ 395 stars |
-| 🔗 [reazonspeech](https://github.com/reazon-research/reazonspeech) | - | - | ⭐ 339 stars |
-| 🔗 [huriganacorpus-aozora](https://github.com/ndl-lab/huriganacorpus-aozora) | - | - | ⭐ 17 stars |
-| 🔗 [koniwa](https://github.com/koniwa/koniwa) | - | - | ⭐ 54 stars |
-| 🔗 [JMMLU](https://github.com/nlp-waseda/JMMLU) | - | - | ⭐ 38 stars |
-| 🔗 [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) | - | - | ⭐ 41 stars |
-| 🔗 [jqara](https://github.com/hotchpotch/jqara) | - | - | ⭐ 37 stars |
-| 🔗 [jemhopqa](https://github.com/aiishii/jemhopqa) | - | - | ⭐ 29 stars |
-| 🔗 [jacred](https://github.com/youmima/jacred) | - | - | ⭐ 7 stars |
-| 🔗 [jades](https://github.com/naist-nlp/jades) | - | - | ⭐ 0 stars |
-| 🔗 [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) | - | - | ⭐ 24 stars |
-| 🔗 [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) | - | - | ⭐ 16 stars |
-| 🔗 [jacwir](https://github.com/hotchpotch/jacwir) | - | - | ⭐ 8 stars |
-| 🔗 [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) | - | - | ⭐ 3 stars |
-| 🔗 [j-unimorph](https://github.com/cl-tohoku/j-unimorph) | - | - | ⭐ 7 stars |
-| 🔗 [GazeVQA](https://github.com/riken-grp/GazeVQA) | - | - | ⭐ 0 stars |
-| 🔗 [J-CRe3](https://github.com/riken-grp/J-CRe3) | - | - | ⭐ 9 stars |
-| 🔗 [jmed-llm](https://github.com/sociocom/jmed-llm) | - | - | ⭐ 53 stars |
-| 🔗 [lawtext](https://github.com/yamachig/lawtext) | - | - | ⭐ 89 stars |
-| 🔗 [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) | - | - | ⭐ 14 stars |
-| 🔗 [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) | - | - | ⭐ 2 stars |
-| 🔗 [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) | - | - | ⭐ 1 stars |
-| 🔗 [JSeM](https://github.com/DaisukeBekki/JSeM) | - | - | ⭐ 13 stars |
-| 🔗 [niilc-qa](https://github.com/mynlp/niilc-qa) | - | - | ⭐ 18 stars |
-| 🔗 [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) | - | - | ⭐ 5 stars |
-| 🔗 [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) | - | - | ⭐ 11 stars |
-| 🔗 [elaws-history](https://github.com/kissge/elaws-history) | - | - | ⭐ 4 stars |
-| 🔗 [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) | - | - | ⭐ 15 stars |
-| 🔗 [hdic](https://github.com/shikeda/hdic) | - | - | ⭐ 40 stars |
-| 🔗 [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) | - | - | ⭐ 150 stars |
-| 🔗 [kanji-data](https://github.com/mimneko/kanji-data) | - | - | ⭐ 8 stars |
-| 🔗 [openchj-genji](https://github.com/togiso/openchj-genji) | - | - | ⭐ 2 stars |
-| 🔗 [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) | - | - | ⭐ 1 stars |
-| 🔗 [Jamp_sp](https://github.com/ynklab/Jamp_sp) | - | - | ⭐ 0 stars |
-| 🔗 [jnli-neg](https://github.com/asahi-y/jnli-neg) | - | - | ⭐ 0 stars |
-| 🔗 [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) | - | - | ⭐ 5 stars |
-| 🔗 [jalecon](https://github.com/naist-nlp/jalecon) | - | - | ⭐ 5 stars |
-| 🔗 [multils-japanese](https://github.com/naist-nlp/multils-japanese) | - | - | ⭐ 0 stars |
-| 🔗 [nwjc](https://github.com/masayu-a/nwjc) | - | - | ⭐ 10 stars |
-| 🔗 [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) | - | - | ⭐ 195 stars |
-| 🔗 [gimei](https://github.com/willnet/gimei) | - | - | ⭐ 424 stars |
-| 🔗 [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) | - | - | ⭐ 9 stars |
-| 🔗 [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) | - | - | ⭐ 6 stars |
-| 🔗 [kanji](https://github.com/sylhare/kanji) | - | - | ⭐ 28 stars |
-| 🔗 [jethics](https://github.com/language-media-lab/jethics) | - | - | ⭐ 2 stars |
+| 🔗 [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) | - | - | ⭐ 77 |
+| 🔗 [kanji-data](https://github.com/davidluzgouveia/kanji-data) | - | - | ⭐ 192 |
+| 🔗 [JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) | - | - | ⭐ 102 |
+| 🔗 [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) | - | - | ⭐ 32 |
+| 🔗 [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) | - | - | ⭐ 141 |
+| 🔗 [JaQuAD](https://github.com/SkelterLabsInc/JaQuAD) | - | - | ⭐ 108 |
+| 🔗 [JaNLI](https://github.com/verypluming/JaNLI) | - | - | ⭐ 17 |
+| 🔗 [ebe-dataset](https://github.com/megagonlabs/ebe-dataset) | - | - | ⭐ 18 |
+| 🔗 [emoji-ja](https://github.com/yagays/emoji-ja) | - | - | ⭐ 82 |
+| 🔗 [nayose-wikipedia-ja](https://github.com/yagays/nayose-wikipedia-ja) | - | - | ⭐ 35 |
+| 🔗 [ja.text8](https://github.com/Hironsan/ja.text8) | - | - | ⭐ 111 |
+| 🔗 [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) | - | - | ⭐ 31 |
+| 🔗 [japanese](https://github.com/hingston/japanese) | - | - | ⭐ 82 |
+| 🔗 [kanji-frequency](https://github.com/scriptin/kanji-frequency) | - | - | ⭐ 152 |
+| 🔗 [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) | - | - | ⭐ 24 |
+| 🔗 [CoARiJ](https://github.com/chakki-works/CoARiJ) | - | - | ⭐ 94 |
+| 🔗 [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) | - | - | ⭐ 26 |
+| 🔗 [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) | - | - | ⭐ 5 |
+| 🔗 [wikipedia-utils](https://github.com/singletongue/wikipedia-utils) | - | - | ⭐ 78 |
+| 🔗 [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) | - | - | ⭐ 197 |
+| 🔗 [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) | - | - | ⭐ 104 |
+| 🔗 [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) | - | - | ⭐ 173 |
+| 🔗 [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) | - | - | ⭐ 90 |
+| 🔗 [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) | - | - | ⭐ 6 |
+| 🔗 [speechBSD](https://github.com/ku-nlp/speechBSD) | - | - | ⭐ 3 |
+| 🔗 [ita-corpus](https://github.com/mmorise/ita-corpus) | - | - | ⭐ 216 |
+| 🔗 [rohan4600](https://github.com/mmorise/rohan4600) | - | - | ⭐ 64 |
+| 🔗 [anlp-jp-history](https://github.com/whym/anlp-jp-history) | - | - | ⭐ 3 |
+| 🔗 [keigo_transfer_task](https://github.com/cl-tohoku/keigo_transfer_task) | - | - | ⭐ 21 |
+| 🔗 [loanwords_gairaigo](https://github.com/jamesohortle/loanwords_gairaigo) | - | - | ⭐ 19 |
+| 🔗 [jawikicorpus](https://github.com/wikiwikification/jawikicorpus) | - | - | ⭐ 4 |
+| 🔗 [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) | - | - | ⭐ 6 |
+| 🔗 [wrime](https://github.com/ids-cv/wrime) | - | - | ⭐ 172 |
+| 🔗 [jtubespeech](https://github.com/sarulab-speech/jtubespeech) | - | - | ⭐ 228 |
+| 🔗 [WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList) | - | - | ⭐ 2 |
+| 🔗 [kokkosho_data](https://github.com/rindybell/kokkosho_data) | - | - | ⭐ 1 |
+| 🔗 [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) | - | - | ⭐ 74 |
+| 🔗 [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) | - | - | ⭐ 28 |
+| 🔗 [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) | - | - | ⭐ 31 |
+| 🔗 [hirakanadic](https://github.com/po3rin/hirakanadic) | 📥 21 | 📦 13k | ⭐ 7 |
+| 🔗 [animedb](https://github.com/anilogia/animedb) | - | - | ⭐ 330 |
+| 🔗 [security_words](https://github.com/SaitoLab/security_words) | - | - | ⭐ 27 |
+| 🔗 [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) | - | - | ⭐ 3 |
+| 🔗 [honkoku-data](https://github.com/yuta1984/honkoku-data) | - | - | ⭐ 17 |
+| 🔗 [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) | - | - | ⭐ 36 |
+| 🔗 [engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) | - | - | ⭐ 1.8k |
+| 🔗 [JSICK](https://github.com/verypluming/JSICK) | - | - | ⭐ 45 |
+| 🔗 [phishurl-list](https://github.com/JPCERTCC/phishurl-list) | - | - | ⭐ 195 |
+| 🔗 [jcms](https://github.com/shigashiyama/jcms) | - | - | ⭐ 9 |
+| 🔗 [aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) | - | - | ⭐ 82 |
+| 🔗 [friendly_JA-Corpus](https://github.com/astremo/friendly_JA-Corpus) | - | - | ⭐ repo not found |
+| 🔗 [topokanji](https://github.com/scriptin/topokanji) | - | - | ⭐ 196 |
+| 🔗 [isbn4groups](https://github.com/uribo/isbn4groups) | - | - | ⭐ 1 |
+| 🔗 [NMeCab](https://github.com/komutan/NMeCab) | - | - | ⭐ 96 |
+| 🔗 [ndlngramdata](https://github.com/ndl-lab/ndlngramdata) | - | - | ⭐ 14 |
+| 🔗 [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) | - | - | ⭐ 3 |
+| 🔗 [data_set](https://github.com/japanese-law-analysis/data_set) | - | - | ⭐ 42 |
+| 🔗 [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) | - | - | ⭐ 4 |
+| 🔗 [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) | - | - | ⭐ 16 |
+| 🔗 [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) | - | - | ⭐ 175 |
+| 🔗 [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) | - | - | ⭐ 13 |
+| 🔗 [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) | - | - | ⭐ 2 |
+| 🔗 [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) | - | - | ⭐ 12 |
+| 🔗 [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) | - | - | ⭐ 15 |
+| 🔗 [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) | - | - | ⭐ 31 |
+| 🔗 [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) | - | - | ⭐ 6 |
+| 🔗 [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) | - | - | ⭐ 21 |
+| 🔗 [camera](https://github.com/CyberAgentAILab/camera) | - | - | ⭐ 26 |
+| 🔗 [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) | - | - | ⭐ 20 |
+| 🔗 [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) | - | - | ⭐ repo not found |
+| 🔗 [copa-japanese](https://github.com/nlp-titech/copa-japanese) | - | - | ⭐ 1 |
+| 🔗 [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) | - | - | ⭐ 10 |
+| 🔗 [ProSub](https://github.com/matbahasa/ProSub) | - | - | ⭐ 5 |
+| 🔗 [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) | - | - | ⭐ 15 |
+| 🔗 [ramendb](https://github.com/nuko-yokohama/ramendb) | - | - | ⭐ 7 |
+| 🔗 [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) | - | - | ⭐ 3 |
+| 🔗 [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) | - | - | ⭐ 0 |
+| 🔗 [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) | - | - | ⭐ 88 |
+| 🔗 [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) | - | - | ⭐ 0 |
+| 🔗 [meconaudio](https://github.com/elith-co-jp/meconaudio) | - | - | ⭐ 9 |
+| 🔗 [japanese-addresses](https://github.com/geolonia/japanese-addresses) | - | - | ⭐ 748 |
+| 🔗 [aozorasearch](https://github.com/myokoym/aozorasearch) | - | - | ⭐ 21 |
+| 🔗 [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) | - | - | ⭐ 43 |
+| 🔗 [alpaca_ja](https://github.com/shi3z/alpaca_ja) | - | - | ⭐ 86 |
+| 🔗 [instruction_ja](https://github.com/megagonlabs/instruction_ja) | - | - | ⭐ 24 |
+| 🔗 [japanese-family-names](https://github.com/siikamiika/japanese-family-names) | - | - | ⭐ 17 |
+| 🔗 [kanji-data-media](https://github.com/kanjialive/kanji-data-media) | - | - | ⭐ 395 |
+| 🔗 [reazonspeech](https://github.com/reazon-research/reazonspeech) | - | - | ⭐ 339 |
+| 🔗 [huriganacorpus-aozora](https://github.com/ndl-lab/huriganacorpus-aozora) | - | - | ⭐ 17 |
+| 🔗 [koniwa](https://github.com/koniwa/koniwa) | - | - | ⭐ 54 |
+| 🔗 [JMMLU](https://github.com/nlp-waseda/JMMLU) | - | - | ⭐ 38 |
+| 🔗 [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) | - | - | ⭐ 41 |
+| 🔗 [jqara](https://github.com/hotchpotch/jqara) | - | - | ⭐ 37 |
+| 🔗 [jemhopqa](https://github.com/aiishii/jemhopqa) | - | - | ⭐ 29 |
+| 🔗 [jacred](https://github.com/youmima/jacred) | - | - | ⭐ 7 |
+| 🔗 [jades](https://github.com/naist-nlp/jades) | - | - | ⭐ 0 |
+| 🔗 [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) | - | - | ⭐ 24 |
+| 🔗 [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) | - | - | ⭐ 16 |
+| 🔗 [jacwir](https://github.com/hotchpotch/jacwir) | - | - | ⭐ 8 |
+| 🔗 [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) | - | - | ⭐ 3 |
+| 🔗 [j-unimorph](https://github.com/cl-tohoku/j-unimorph) | - | - | ⭐ 7 |
+| 🔗 [GazeVQA](https://github.com/riken-grp/GazeVQA) | - | - | ⭐ 0 |
+| 🔗 [J-CRe3](https://github.com/riken-grp/J-CRe3) | - | - | ⭐ 9 |
+| 🔗 [jmed-llm](https://github.com/sociocom/jmed-llm) | - | - | ⭐ 53 |
+| 🔗 [lawtext](https://github.com/yamachig/lawtext) | - | - | ⭐ 89 |
+| 🔗 [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) | - | - | ⭐ 14 |
+| 🔗 [japanesetopicwsd](https://github.com/nut-jnlp/japanesetopicwsd) | - | - | ⭐ 2 |
+| 🔗 [temporalNLI_dataset](https://github.com/tomo-vv/temporalNLI_dataset) | - | - | ⭐ 1 |
+| 🔗 [JSeM](https://github.com/DaisukeBekki/JSeM) | - | - | ⭐ 13 |
+| 🔗 [niilc-qa](https://github.com/mynlp/niilc-qa) | - | - | ⭐ 18 |
+| 🔗 [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) | - | - | ⭐ 5 |
+| 🔗 [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) | - | - | ⭐ 11 |
+| 🔗 [elaws-history](https://github.com/kissge/elaws-history) | - | - | ⭐ 4 |
+| 🔗 [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) | - | - | ⭐ 15 |
+| 🔗 [hdic](https://github.com/shikeda/hdic) | - | - | ⭐ 40 |
+| 🔗 [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) | - | - | ⭐ 150 |
+| 🔗 [kanji-data](https://github.com/mimneko/kanji-data) | - | - | ⭐ 8 |
+| 🔗 [openchj-genji](https://github.com/togiso/openchj-genji) | - | - | ⭐ 2 |
+| 🔗 [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) | - | - | ⭐ 1 |
+| 🔗 [Jamp_sp](https://github.com/ynklab/Jamp_sp) | - | - | ⭐ 0 |
+| 🔗 [jnli-neg](https://github.com/asahi-y/jnli-neg) | - | - | ⭐ 0 |
+| 🔗 [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) | - | - | ⭐ 5 |
+| 🔗 [jalecon](https://github.com/naist-nlp/jalecon) | - | - | ⭐ 5 |
+| 🔗 [multils-japanese](https://github.com/naist-nlp/multils-japanese) | - | - | ⭐ 0 |
+| 🔗 [nwjc](https://github.com/masayu-a/nwjc) | - | - | ⭐ 10 |
+| 🔗 [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) | - | - | ⭐ 195 |
+| 🔗 [gimei](https://github.com/willnet/gimei) | - | - | ⭐ 424 |
+| 🔗 [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) | - | - | ⭐ 9 |
+| 🔗 [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) | - | - | ⭐ 6 |
+| 🔗 [kanji](https://github.com/sylhare/kanji) | - | - | ⭐ 28 |
+| 🔗 [jethics](https://github.com/language-media-lab/jethics) | - | - | ⭐ 2 |
 
 
 ## Tutorial
@@ -1833,38 +1833,38 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) | - | - | ⭐ 63 stars |
-| 🔗 [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) | - | - | ⭐ 205 stars |
-| 🔗 [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) | - | - | ⭐ 5 stars |
-| 🔗 [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) | - | - | ⭐ 5 stars |
-| 🔗 [ginza-examples](https://github.com/poyo46/ginza-examples) | - | - | ⭐ 16 stars |
-| 🔗 [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) | - | - | ⭐ 0 stars |
-| 🔗 [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) | - | - | ⭐ 29 stars |
-| 🔗 [bert-book](https://github.com/stockmarkteam/bert-book) | - | - | ⭐ 263 stars |
-| 🔗 [janome-tutorial](https://github.com/mocobeta/janome-tutorial) | - | - | ⭐ 31 stars |
-| 🔗 [handson-language-models](https://github.com/hnishi/handson-language-models) | - | - | ⭐ 3 stars |
-| 🔗 [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) | - | - | ⭐ 6 stars |
-| 🔗 [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) | - | - | ⭐ 142 stars |
-| 🔗 [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) | - | - | ⭐ 236 stars |
-| 🔗 [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) | - | - | ⭐ 10 stars |
-| 🔗 [llm-book](https://github.com/ghmagazine/llm-book) | - | - | ⭐ 447 stars |
-| 🔗 [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) | - | - | ⭐ 112 stars |
-| 🔗 [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) | - | - | ⭐ 3 stars |
-| 🔗 [nlpbook](https://github.com/mamorlis/nlpbook) | - | - | ⭐ 14 stars |
-| 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ 22 stars |
-| 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 30 stars |
-| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found stars |
-| 🔗 [nlp100v2020](https://github.com/upura/nlp100v2020) | - | - | ⭐ 91 stars |
-| 🔗 [textmining-ja](https://github.com/paithiov909/textmining-ja) | - | - | ⭐ 3 stars |
-| 🔗 [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) | - | - | ⭐ 17 stars |
-| 🔗 [nlp100v2025](https://github.com/upura/nlp100v2025) | - | - | ⭐ 91 stars |
-| 🔗 [public-annotations](https://github.com/manga109/public-annotations) | - | - | ⭐ 12 stars |
-| 🔗 [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) | - | - | ⭐ 4 stars |
-| 🔗 [slp2025](https://github.com/ryota-komatsu/slp2025) | - | - | ⭐ 60 stars |
-| 🔗 [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) | - | - | ⭐ 4 stars |
-| 🔗 [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) | - | - | ⭐ 165 stars |
-| 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found stars |
-| 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 80 stars |
+| 🔗 [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) | - | - | ⭐ 63 |
+| 🔗 [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) | - | - | ⭐ 205 |
+| 🔗 [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) | - | - | ⭐ 5 |
+| 🔗 [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) | - | - | ⭐ 5 |
+| 🔗 [ginza-examples](https://github.com/poyo46/ginza-examples) | - | - | ⭐ 16 |
+| 🔗 [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) | - | - | ⭐ 0 |
+| 🔗 [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) | - | - | ⭐ 29 |
+| 🔗 [bert-book](https://github.com/stockmarkteam/bert-book) | - | - | ⭐ 263 |
+| 🔗 [janome-tutorial](https://github.com/mocobeta/janome-tutorial) | - | - | ⭐ 31 |
+| 🔗 [handson-language-models](https://github.com/hnishi/handson-language-models) | - | - | ⭐ 3 |
+| 🔗 [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) | - | - | ⭐ 6 |
+| 🔗 [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) | - | - | ⭐ 142 |
+| 🔗 [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) | - | - | ⭐ 236 |
+| 🔗 [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) | - | - | ⭐ 10 |
+| 🔗 [llm-book](https://github.com/ghmagazine/llm-book) | - | - | ⭐ 447 |
+| 🔗 [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) | - | - | ⭐ 112 |
+| 🔗 [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) | - | - | ⭐ 3 |
+| 🔗 [nlpbook](https://github.com/mamorlis/nlpbook) | - | - | ⭐ 14 |
+| 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ 22 |
+| 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 30 |
+| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found |
+| 🔗 [nlp100v2020](https://github.com/upura/nlp100v2020) | - | - | ⭐ 91 |
+| 🔗 [textmining-ja](https://github.com/paithiov909/textmining-ja) | - | - | ⭐ 3 |
+| 🔗 [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) | - | - | ⭐ 17 |
+| 🔗 [nlp100v2025](https://github.com/upura/nlp100v2025) | - | - | ⭐ 91 |
+| 🔗 [public-annotations](https://github.com/manga109/public-annotations) | - | - | ⭐ 12 |
+| 🔗 [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) | - | - | ⭐ 4 |
+| 🔗 [slp2025](https://github.com/ryota-komatsu/slp2025) | - | - | ⭐ 60 |
+| 🔗 [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) | - | - | ⭐ 4 |
+| 🔗 [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) | - | - | ⭐ 165 |
+| 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found |
+| 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 80 |
 
 
 ## Research summary
@@ -1880,12 +1880,12 @@ Summaries of studies and papers in Japanese NLP research
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-| 🔗 [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) | - | - | ⭐ 131 stars |
-| 🔗 [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) | - | - | ⭐ 11 stars |
-| 🔗 [dataset-list](https://github.com/ikegami-yukino/dataset-list) | - | - | ⭐ 117 stars |
-| 🔗 [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) | - | - | ⭐ 188 stars |
-| 🔗 [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) | - | - | ⭐ 117 stars |
-| 🔗 [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) | - | - | ⭐ 1.3k stars |
+| 🔗 [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) | - | - | ⭐ 131 |
+| 🔗 [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) | - | - | ⭐ 11 |
+| 🔗 [dataset-list](https://github.com/ikegami-yukino/dataset-list) | - | - | ⭐ 117 |
+| 🔗 [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) | - | - | ⭐ 188 |
+| 🔗 [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) | - | - | ⭐ 117 |
+| 🔗 [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) | - | - | ⭐ 1.3k |
 
 
 ## Reference
