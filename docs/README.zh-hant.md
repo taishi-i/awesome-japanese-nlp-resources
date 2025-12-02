@@ -20,7 +20,7 @@
 **Python**
  * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - 從頭開始的英文到日文轉換器
 
-_Updated on Dec 02, 2025_
+_Updated on Dec 03, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
