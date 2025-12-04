@@ -21,7 +21,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 **Python**
  * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
 
-_Updated on Dec 03, 2025_
+_Updated on Dec 05, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
