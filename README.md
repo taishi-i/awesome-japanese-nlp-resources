@@ -100,7 +100,7 @@ Libraries that split Japanese text into words or morphemes and assign part-of-sp
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [SudachiPy](https://github.com/WorksApplications/SudachiPy) | 📥 441k | 📦 55M | ⭐ 418 | 🔴 october 2022|
 | 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 35k | 📦 11M | ⭐ 899 | 🟢 october|
 | 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 253k | 📦 32M | ⭐ 576 | 🟢 november|
@@ -138,7 +138,7 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [ginza](https://github.com/megagonlabs/ginza) | 📥 9k | 📦 2M | ⭐ 824 | 🔴 march 2024|
 | 🔗 [cabocha](https://github.com/ikegami-yukino/cabocha/tree/master/python) | 📥 57 | 📦 53k | ⭐ 7 | 🔴 august 2022|
 | 🔗 [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) | 📥 541 | 📦 319k | ⭐ 37 | 🔴 november 2024|
@@ -175,7 +175,7 @@ Libraries that convert between character types such as kana, romaji, and full-wi
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [pykakasi](https://github.com/miurahr/pykakasi) | 📥 242k | 📦 25M | ⭐ 443 | 🔴 july 2022|
 | 🔗 [cutlet](https://github.com/polm/cutlet) | 📥 13k | 📦 1M | ⭐ 365 | 🟡 june|
 | 🔗 [alphabet2kana](https://github.com/shihono/alphabet2kana) | 📥 198 | 📦 53k | ⭐ 14 | 🟢 october|
@@ -208,7 +208,7 @@ Libraries that normalize and clean text before analysis
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [neologdn](https://github.com/ikegami-yukino/neologdn) | 📥 16k | 📦 1M | ⭐ 287 | 🔴 last tuesday|
 | 🔗 [jaconv](https://github.com/ikegami-yukino/jaconv) | 📥 435k | 📦 54M | ⭐ 336 | 🔴 last tuesday|
 | 🔗 [mojimoji](https://github.com/studio-ousia/mojimoji) | 📥 51k | 📦 10M | ⭐ 151 | 🔴 january 2024|
@@ -234,7 +234,7 @@ Libraries that automatically detect sentence boundaries and split text
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [bunkai](https://github.com/megagonlabs/bunkai) | 📥 345 | 📦 101k | ⭐ 199 | 🔴 august 2023|
 | 🔗 [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) | 📥 8 | 📦 5k | ⭐ 14 | 🔴 february 2021|
 | 🔗 [sengiri](https://github.com/ikegami-yukino/sengiri) | 📥 324 | 📦 135k | ⭐ 24 | 🟢 november|
@@ -256,7 +256,7 @@ Libraries that detect emotions or polarity in text
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [oseti](https://github.com/ikegami-yukino/oseti) | 📥 160 | 📦 163k | ⭐ 96 | 🟡 august|
 | 🔗 [negapoji](https://github.com/liaoziyang/negapoji) | - | - | ⭐ 151 | 🔴 august 2017|
 | 🔗 [pymlask](https://github.com/ikegami-yukino/pymlask) | 📥 48 | 📦 65k | ⭐ 115 | 🔴 july 2024|
@@ -274,7 +274,7 @@ Libraries that automatically translate text between languages
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) | - | - | ⭐ 105 | 🔴 april 2021|
 | 🔗 [JASS](https://github.com/Mao-KU/JASS) | - | - | ⭐ 16 | 🔴 january 2022|
 | 🔗 [PheMT](https://github.com/cl-tohoku/PheMT) | - | - | ⭐ 17 | 🔴 february 2021|
@@ -297,7 +297,7 @@ Libraries that extract names of people, places, and organizations from text
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [namaco](https://github.com/chakki-works/namaco) | - | - | ⭐ 40 | 🔴 february 2018|
 | 🔗 [entitypedia](https://github.com/chakki-works/entitypedia) | - | - | ⭐ 13 | 🔴 december 2018|
 | 🔗 [noyaki](https://github.com/ken11/noyaki) | 📥 254 | 📦 18k | ⭐ 5 | 🔴 august 2022|
@@ -330,7 +330,7 @@ Libraries that recognize and extract text from images
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [manga-ocr](https://github.com/kha-white/manga-ocr) | 📥 2k | 📦 206k | ⭐ 2.4k | 🟡 june|
 | 🔗 [mokuro](https://github.com/kha-white/mokuro) | 📥 484 | 📦 82k | ⭐ 1.4k | 🟡 june|
 | 🔗 [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) | - | - | ⭐ 38 | 🔴 april 2022|
@@ -386,7 +386,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 328 | 🟡 march|
 | 🔗 [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) | 📥 2k | 📦 158k | ⭐ 16 | 🔴 august 2022|
 | 🔗 [t5_japanese_dialogue_generation](https://github.com/Jinyamyzk/t5_japanese_dialogue_generation) | - | - | ⭐ 3 | 🔴 november 2021|
@@ -597,7 +597,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [namedivider-python](https://github.com/rskmoi/namedivider-python) | 📥 662 | 📦 73k | ⭐ 251 | 🟢 november|
 | 🔗 [asa-python](https://github.com/ikegami-yukino/asa-python) | 📥 20 | 📦 30k | ⭐ 11 | 🔴 february 2019|
 | 🔗 [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) | - | - | ⭐ 22 | 🔴 january 2020|
@@ -780,7 +780,7 @@ High-performance libraries for Japanese morphological analysis
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [mecab](https://github.com/taku910/mecab) | - | - | ⭐ 1.1k | 🟡 february|
 | 🔗 [jumanpp](https://github.com/ku-nlp/jumanpp) | - | - | ⭐ 402 | 🔴 march 2023|
 | 🔗 [kytea](https://github.com/neubig/kytea) | - | - | ⭐ 211 | 🔴 april 2020|
@@ -793,7 +793,7 @@ Libraries for dependency and syntactic parsing of Japanese sentences
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [cabocha](https://github.com/taku910/cabocha) | - | - | ⭐ 118 | 🟡 february|
 | 🔗 [knp](https://github.com/ku-nlp/knp) | - | - | ⭐ 33 | 🔴 november 2023|
 
@@ -809,7 +809,7 @@ Other Japanese NLP and text processing libraries
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [jsc](https://github.com/yohokuno/jsc) | - | - | ⭐ 15 | 🔴 december 2012|
 | 🔗 [aquaskk](https://github.com/codefirst/aquaskk) | - | - | ⭐ 365 | 🔴 july 2023|
 | 🔗 [mozc](https://github.com/google/mozc) | - | - | ⭐ 2.8k | 🟢 november|
@@ -834,7 +834,7 @@ Fast Japanese morphological analysis crates written in Rust
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [lindera](https://github.com/lindera-morphology/lindera) | - | 📦 731k | ⭐ 546 | 🟢 october|
 | 🔗 [vaporetto](https://github.com/daac-tools/vaporetto) | - | 📦 145k | ⭐ 248 | 🟢 november|
 | 🔗 [goya](https://github.com/Leko/goya) | - | 📦 11k | ⭐ 81 | 🔴 december 2021|
@@ -857,7 +857,7 @@ Crates for script and character conversion in Japanese text
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) | - | 📦 242k | ⭐ 85 | 🟡 march|
 | 🔗 [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) | - | 📦 59k | ⭐ 19 | 🔴 april 2020|
 | 🔗 [kana](https://github.com/gbrlsnchs/kana) | - | - | ⭐ 11 | 🔴 january 2023|
@@ -874,7 +874,7 @@ Libraries for Japanese full-text search and indexing
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) | - | 📦 141k | ⭐ 65 | 🟢 october|
 | 🔗 [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) | - | 📦 1.5k | ⭐ 3 | 🔴 january 2023|
 
@@ -904,7 +904,7 @@ Supplementary crates for Japanese text and IME processing
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [daachorse](https://github.com/daac-tools/daachorse) | - | 📦 601k | ⭐ 236 | 🟡 june|
 | 🔗 [find-simdoc](https://github.com/legalforce-research/find-simdoc) | - | 📦 29k | ⭐ 62 | 🟡 march|
 | 🔗 [crawdad](https://github.com/daac-tools/crawdad) | - | 📦 52k | ⭐ 36 | 🟡 january|
@@ -940,7 +940,7 @@ Resources
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [kuromoji.js](https://github.com/takuyaa/kuromoji.js) | 📥 126k/week | 📦 7.2M | ⭐ 945 | 🔴 november 2018|
 | 🔗 [rakutenma](https://github.com/rakuten-nlp/rakutenma) | 📥 7/week | 📦 1k | ⭐ 472 | 🔴 january 2015|
 | 🔗 [node-mecab-ya](https://github.com/golbin/mecab-ya) | 📥 137/week | 📦 6.5k | ⭐ 110 | 🔴 repo not found|
@@ -967,7 +967,7 @@ Libraries for converting Japanese scripts and readings
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [kuroshiro](https://github.com/hexenq/kuroshiro) | 📥 7.9k/week | 📦 290k | ⭐ 932 | 🔴 june 2021|
 | 🔗 [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) | 📥 7.5k/week | 📦 270k | ⭐ 67 | 🔴 august 2018|
 | 🔗 [hepburn](https://github.com/lovell/hepburn) | 📥 58k/week | 📦 2.6M | ⭐ 135 | 🟢 september|
@@ -1007,7 +1007,7 @@ Other libraries for Japanese NLP in JavaScript
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [bangumi-data](https://github.com/bangumi-data/bangumi-data) | 📥 580/week | 📦 63k | ⭐ 575 | 🔴 last monday|
 | 🔗 [yomichan](https://github.com/FooSoft/yomichan) | - | - | ⭐ 1.1k | 🔴 february 2023|
 | 🔗 [proofreading-tool](https://github.com/gecko655/proofreading-tool) | - | - | ⭐ 86 | 🟢 october|
@@ -1037,7 +1037,7 @@ Lightweight Japanese morphological analysis libraries in Go
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [kagome](https://github.com/ikawaha/kagome) | - | - | ⭐ 915 | 🔴 last tuesday|
 
 
@@ -1055,7 +1055,7 @@ Additional Go-based Japanese text processing libraries
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [ojosama](https://github.com/jiro4989/ojosama) | - | - | ⭐ 385 | 🟢 november|
 | 🔗 [nihongo](https://github.com/gojp/nihongo) | - | - | ⭐ 81 | 🔴 february 2024|
 | 🔗 [yomichan-import](https://github.com/FooSoft/yomichan-import) | - | - | ⭐ 85 | 🔴 february 2023|
@@ -1078,7 +1078,7 @@ Japanese morphological analysis and dictionary management libraries
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [kuromoji](https://github.com/atilika/kuromoji) | - | - | ⭐ 1k | 🔴 september 2019|
 | 🔗 [Sudachi](https://github.com/WorksApplications/Sudachi) | - | - | ⭐ 913 | 🔴 november 2024|
 | 🔗 [SudachiDict](https://github.com/WorksApplications/SudachiDict) | - | - | ⭐ 269 | 🟢 november|
@@ -1100,7 +1100,7 @@ Java libraries for Japanese NLP and OCR
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) | - | - | ⭐ 202 | 🔴 may 2021|
 | 🔗 [jakaroma](https://github.com/nicolas-raoul/jakaroma) | - | - | ⭐ 67 | 🟡 june|
 | 🔗 [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) | - | - | ⭐ 55 | 🔴 april 2016|
@@ -1128,7 +1128,7 @@ Models that convert words into numeric vectors to capture semantic similarity
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) | - | - | ⭐ 86 | 🔴 august 2020|
 | 🔗 [chiVe](https://github.com/WorksApplications/chiVe) | - | - | ⭐ 168 | 🔴 march 2024|
 | 🔗 [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) | - | - | ⭐ 5 | 🔴 october 2019|
@@ -1182,7 +1182,7 @@ Models that use self-attention to understand context and perform advanced langua
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [bert-japanese](https://github.com/cl-tohoku/bert-japanese) | - | - | ⭐ 539 | 🔴 march 2024|
 | 🔗 [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [bert-japanese](https://github.com/yoheikikuta/bert-japanese) | - | - | ⭐ 498 | 🔴 february 2021|
@@ -1252,7 +1252,7 @@ Resources for using ChatGPT and APIs for Japanese dialogue and text generation
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) | - | - | ⭐ 15 | 🔴 march 2023|
 | 🔗 [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) | - | - | ⭐ 5 | 🔴 march 2023|
 | 🔗 [wanna](https://github.com/hirokidaichi/wanna) | 📥 29 | 📦 19k | ⭐ 142 | 🔴 april 2023|
@@ -1358,7 +1358,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) | - | - | ⭐ 2.8k | 🔴 september 2020|
 | 🔗 [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) | - | - | ⭐ 120 | 🔴 march 2024|
 | 🔗 [jamdict](https://github.com/neocl/jamdict) | 📥 139 | 📦 48k | ⭐ 156 | 🔴 june 2021|
@@ -1449,7 +1449,7 @@ Corpora annotated with part-of-speech tags and named entities
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) | - | - | ⭐ 142 | 🔴 september 2023|
 | 🔗 [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) | - | - | ⭐ 61 | 🔴 february 2020|
 | 🔗 [TwitterCorpus](https://github.com/tmu-nlp/TwitterCorpus) | - | - | ⭐ 21 | 🔴 march 2016|
@@ -1480,7 +1480,7 @@ Bilingual corpora containing aligned sentences for translation tasks
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [small_parallel_enja](https://github.com/odashi/small_parallel_enja) | - | - | ⭐ 97 | 🔴 september 2019|
 | 🔗 [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) | - | - | ⭐ 14 | 🔴 september 2023|
 | 🔗 [CourseraParallelCorpusMining](https://github.com/shyyhs/CourseraParallelCorpusMining) | - | - | ⭐ 15 | 🔴 august 2024|
@@ -1511,7 +1511,7 @@ Collections of conversation data for training dialogue systems
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [JMRD](https://github.com/ku-nlp/JMRD) | - | - | ⭐ 28 | 🔴 july 2022|
 | 🔗 [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) | - | - | ⭐ 99 | 🔴 june 2021|
 | 🔗 [BSD](https://github.com/tsuruoka-lab/BSD) | - | - | ⭐ 71 | 🔴 november 2021|
@@ -1661,7 +1661,7 @@ Corpora for tasks such as question answering or entailment recognition
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) | - | - | ⭐ 77 | 🔴 june 2023|
 | 🔗 [kanji-data](https://github.com/davidluzgouveia/kanji-data) | - | - | ⭐ 193 | 🔴 december 2019|
 | 🔗 [JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) | - | - | ⭐ 102 | 🔴 december 2021|
@@ -1832,7 +1832,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) | - | - | ⭐ 63 | 🔴 january 2020|
 | 🔗 [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) | - | - | ⭐ 205 | 🔴 september 2016|
 | 🔗 [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) | - | - | ⭐ 5 | 🔴 may 2022|
@@ -1879,7 +1879,7 @@ Summaries of studies and papers in Japanese NLP research
 
 
 |Name|downloads/week|total downloads|stars|last commit|
--|-|-|-
+-|-|-|-|-
 | 🔗 [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) | - | - | ⭐ 131 | 🔴 march 2023|
 | 🔗 [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) | - | - | ⭐ 11 | 🟡 april|
 | 🔗 [dataset-list](https://github.com/ikegami-yukino/dataset-list) | - | - | ⭐ 117 | 🔴 july 2024|
