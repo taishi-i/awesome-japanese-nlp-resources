@@ -594,6 +594,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - OpenReview論文を自動で発見・分析する日本語対応AIエージェント
  * [pitchbench](https://github.com/shewiiii/pitchbench) - Experimental Japanese pitch accent based LLM Benchmark
  * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
+ * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
 
 
 |Name|downloads/week|total downloads|stars|
@@ -767,6 +768,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tb-yasu/deep-openreview-research-ja?style=social)|
 |[pitchbench](https://github.com/shewiiii/pitchbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shewiiii/pitchbench?style=social)|
 |[mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuofanf/mini-transformer-from-scratch?style=social)|
+|[vv_core_inference](https://github.com/hiroshiba/vv_core_inference)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshiba/vv_core_inference?style=social)|
 
 
 ## C++
