@@ -327,6 +327,7 @@ Libraries that recognize and extract text from images
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - Japanese OCR with CenterNet
  * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - A simple OCR for manga (Japanese traditional and Japanese vertical)
  * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 日本語の文章画像に対するOCRの性能を評価
+ * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -346,6 +347,7 @@ Libraries that recognize and extract text from images
 |[findtextcenternet](https://github.com/lithium0003/findtextcenternet)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/findtextcenternet?style=social)|
 |[simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-fogi-manga)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yisusdev2005/simple-ocr-for-manga?style=social)|
 |[jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoshino/jp-ocr-evaluation?style=social)|
+|[paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060?style=social)|
 
 
 ### Tool for pretrained models
