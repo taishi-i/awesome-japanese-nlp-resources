@@ -8,7 +8,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了739个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了743个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 - [列出了2152个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -19,9 +19,13 @@
 ## 🎉 The latest additions
 
 **Python**
- * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - 从头开始的英语到日语转换器
+ * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOX核心中使用的深度学习模型推理代码
+ * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - 在Manga109s数据集上对PaddleOCR-VL进行微调，用于日本漫画文本识别。基础模型在漫画中垂直日文文本阅读顺序方面存在困难。经过微调后，模型能正确处理漫画特定的文本布局。
 
-_Updated on Dec 05, 2025_
+**Tutorial**
+ * [ir100](https://github.com/ir100/ir100) - 信息检索100个关键点
+
+_Updated on Dec 09, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -231,6 +235,7 @@ _Updated on Dec 05, 2025_
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - 使用CenterNet的日语OCR
  * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - 一个简单的漫画OCR（日本传统和日本竖排）
  * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - 评估对日语文章图像的OCR性能
+ * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - 在Manga109s数据集上对PaddleOCR-VL进行微调，用于日本漫画文本识别。基础模型在漫画中垂直日文文本阅读顺序方面存在困难。经过微调后，模型能正确处理漫画特定的文本布局。
 
 
 
@@ -451,6 +456,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - 使用OpenReview自动发现和分析论文的日语AI代理程序
  * [pitchbench](https://github.com/shewiiii/pitchbench) - 实验性的基于日语声调的LLM基准
  * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - 从头开始的英语到日语转换器
+ * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOX核心中使用的深度学习模型推理代码
 
 
 
@@ -1072,6 +1078,7 @@ COMET-ATOMIC ja
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年 立教大学研究生院 人工智能科学研究专业 自然语言处理专题
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 这是从原论文中解读出来的生成人工智能（技术评论社）的支持页面。
+ * [ir100](https://github.com/ir100/ir100) - 信息检索100个关键点
 
 
 

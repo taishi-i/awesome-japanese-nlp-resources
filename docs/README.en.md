@@ -8,7 +8,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [739 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [743 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [2152 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
@@ -19,9 +19,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Python**
- * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
+ * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - Inference code of the deep learning model used in the core of VOICEVOX
+ * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.
 
-_Updated on Dec 05, 2025_
+**Tutorial**
+ * [ir100](https://github.com/ir100/ir100) - Information Retrieval 100 Knockouts
+
+_Updated on Dec 09, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -231,6 +235,7 @@ Libraries that recognize and extract text from images
  * [findtextcenternet](https://github.com/lithium0003/findtextcenternet) - Japanese OCR with CenterNet
  * [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) - A simple OCR for manga (Japanese traditional and Japanese vertical)
  * [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) - Evaluate the performance of OCR on Japanese text images.
+ * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.
 
 
 
@@ -447,6 +452,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) - Automatically discover and analyze OpenReview papers with Japanese-compatible AI agents.
  * [pitchbench](https://github.com/shewiiii/pitchbench) - Experimental Japanese pitch accent based LLM Benchmark
  * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - English to Japanese Transformer from scratch
+ * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - Inference code of the deep learning model used in the core of VOICEVOX
 
 
 
@@ -1060,6 +1066,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - Source code used in the book "Practical Introduction to Generative AI Agents for Practical Use on the Field" (Kodansha Scientific Co., Ltd.)
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - This is the support page for "Generating AI Unraveled from the Original Paper" (published by Gijutsu-Hyohron Co., Ltd.).
+ * [ir100](https://github.com/ir100/ir100) - Information Retrieval 100 Knockouts
 
 
 

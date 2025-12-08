@@ -1142,6 +1142,18 @@
                     "zh-hant": "評估對日語文章圖像的OCR性能"
                 }
             },
+            "https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060": {
+                "sub_category": "OCR",
+                "repository_name": "paddleocr-vl-sft-for-japanese-manga-on-rtx-3060",
+                "user_name": "openvino-book",
+                "description": "Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.",
+                "multilingual_descriptions": {
+                    "en": "Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.",
+                    "ja": "日本の漫画テキスト認識のために、Manga109sデータセットでPaddleOCR-VLを微調整します。ベースモデルは漫画内の縦書き日本語テキストの読み順に苦労しています。微調整後、モデルは漫画固有のテキストレイアウトを正しく処理します。",
+                    "zh-hans": "在Manga109s数据集上对PaddleOCR-VL进行微调，用于日本漫画文本识别。基础模型在漫画中垂直日文文本阅读顺序方面存在困难。经过微调后，模型能正确处理漫画特定的文本布局。",
+                    "zh-hant": "對Manga109s數據集上的PaddleOCR-VL進行微調，以用於日本漫畫文本識別。基礎模型在漫畫中垂直日文文本的閱讀順序方面存在困難。經過微調後，模型能夠正確處理漫畫特定的文本布局。"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -3504,6 +3516,18 @@
                     "ja": "ゼロから日本語への英語変換器",
                     "zh-hans": "从头开始的英语到日语转换器",
                     "zh-hant": "從頭開始的英文到日文轉換器"
+                }
+            },
+            "https://github.com/hiroshiba/vv_core_inference": {
+                "sub_category": null,
+                "repository_name": "vv_core_inference",
+                "user_name": "hiroshiba",
+                "description": "VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード",
+                "multilingual_descriptions": {
+                    "en": "Inference code of the deep learning model used in the core of VOICEVOX",
+                    "ja": "VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード",
+                    "zh-hans": "VOICEVOX核心中使用的深度学习模型推理代码",
+                    "zh-hant": "在VOICEVOX核心中使用的深度學習模型推論代碼"
                 }
             }
         },
@@ -8744,6 +8768,18 @@
                     "ja": "原論文から解き明かす生成AI（技術評論社）のサポートページです",
                     "zh-hans": "这是从原论文中解读出来的生成人工智能（技术评论社）的支持页面。",
                     "zh-hant": "從原論文中揭示的生成人工智慧（技術評論社）的支援頁面。"
+                }
+            },
+            "https://github.com/ir100/ir100": {
+                "sub_category": null,
+                "repository_name": "ir100",
+                "user_name": "ir100",
+                "description": "情報検索100本ノック",
+                "multilingual_descriptions": {
+                    "en": "Information Retrieval 100 Knockouts",
+                    "ja": "情報検索100本ノック",
+                    "zh-hans": "信息检索100个关键点",
+                    "zh-hant": "情報檢索100本敲門"
                 }
             }
         },
