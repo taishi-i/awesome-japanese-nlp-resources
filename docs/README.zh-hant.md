@@ -405,7 +405,6 @@ Mecab + NEologd + Docker + Python3
  * [bertjsc](https://github.com/er-ri/bertjsc) - 使用BERT（遮罩語言模型）的日語拼寫錯誤修正器。基於BERT的日語校正。
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - 日本任務的llm評估項目
  * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - 關於JGLUE的培訓和評估腳本，這是一個日語理解基準的項目。
-Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 使用在日本數據集上預訓練的模型，修改LAVIS的BLIP2 Q-former。
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - 將維基百科的日文句子轉換為各種日文嵌入和faiss索引的腳本等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 探索日本SimCSE

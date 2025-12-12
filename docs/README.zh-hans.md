@@ -404,7 +404,6 @@ https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
  * [bertjsc](https://github.com/er-ri/bertjsc) - 使用BERT（遮蔽语言模型）的日语拼写错误校正器。基于BERT的日语校正器。
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - 日本任务的llm评估项目
  * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - 关于JGLUE的培训和评估脚本，这是一个日语理解基准测试。
-Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 使用在日本数据集上预训练的模型来修改LAVIS的BLIP2 Q-former。
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - wikipedia 日本语的文本转换为各种日本语嵌入和faiss索引的脚本等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 探索日本SimCSE

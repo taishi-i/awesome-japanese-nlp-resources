@@ -399,8 +399,7 @@ General-purpose tools supporting Japanese language processing
  * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - Open source RAG with Llama Index for Japanese LLM in low resource settting
  * [bertjsc](https://github.com/er-ri/bertjsc) - Japanese Spelling Error Corrector using BERT(Masked-Language Model). BERTに基づいて日本語校正
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - Project of llm evaluation to Japanese tasks
- * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
-Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
+ * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - Modifying LAVIS' BLIP2 Q-former with models pretrained on Japanese datasets.
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - Exploring Japanese SimCSE

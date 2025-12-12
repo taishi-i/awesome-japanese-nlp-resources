@@ -550,8 +550,7 @@ llm-lora-分類
  * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - 日本の低資源設定での日本語LLM用のオープンソースRAGとLlama Index
  * [bertjsc](https://github.com/er-ri/bertjsc) - BERTを使用した日本語スペルエラー修正ツール
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - 日本のタスクのLLM評価プロジェクト
- * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して
-JGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。
+ * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - 日本語理解ベンチマーク JGLUE のトレーニングおよび評価スクリプト
 Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 日本のデータセットで事前学習されたモデルを使用して、LAVISのBLIP2 Q-formerを修正します。
 LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモデルを用いて修正します。
