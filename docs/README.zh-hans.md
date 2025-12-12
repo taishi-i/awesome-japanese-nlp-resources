@@ -1656,7 +1656,7 @@ https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
  * [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) - 谷歌 vs DeepL
  * [matcha](https://github.com/ehimenlp/matcha) - 从日本旅游网站MATCHA的文章中，我们构建了一个用于简化日语文本的数据集。
  * [en-ja-el](https://github.com/shigashiyama/en-ja-el) - EnJaEL：En-Ja平行实体链接数据集（版本1.0）
-EnJaEL：En-Ja平行实体链接数据集（版本1.0）
+
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [small_parallel_enja](https://github.com/odashi/small_parallel_enja) | - | - | ⭐ 97 | 🔴 september 2019|
