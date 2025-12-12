@@ -1998,7 +1998,7 @@
                 "sub_category": null,
                 "repository_name": "aozora_classification",
                 "user_name": "shibuiwilliam",
-                "description": "About",
+                "description": "This project aims to classify Japanese sentence to how well similar to some Japanese classical writers, such as Soseki Natsume, Ogai Mori, Ryunosuke Akutagawa and so on.",
                 "multilingual_descriptions": {
                     "en": "About",
                     "ja": "約について",
@@ -3529,6 +3529,30 @@
                     "zh-hans": "VOICEVOX核心中使用的深度学习模型推理代码",
                     "zh-hant": "在VOICEVOX核心中使用的深度學習模型推論代碼"
                 }
+            },
+            "https://github.com/tsukumijima/pyopenjtalk-plus": {
+                "sub_category": null,
+                "repository_name": "pyopenjtalk-plus",
+                "user_name": "tsukumijima",
+                "description": "pyopenjtalk-plus: A Python wrapper for OpenJTalk with additional improvements",
+                "multilingual_descriptions": {
+                    "en": "pyopenjtalk-plus: A Python wrapper for OpenJTalk with additional improvements",
+                    "ja": "pyopenjtalk-plus: 追加の改善を加えたOpenJTalkのPythonラッパー",
+                    "zh-hans": "pyopenjtalk-plus：一个带有额外改进的OpenJTalk的Python封装器",
+                    "zh-hant": "pyopenjtalk-plus：一個帶有額外改進的OpenJTalk的Python封裝器"
+                }
+            },
+            "https://github.com/phkhanhtrinh23/japanese_spelling_correction": {
+                "sub_category": null,
+                "repository_name": "japanese_spelling_correction",
+                "user_name": "phkhanhtrinh23",
+                "description": "Japanese Spelling Correction",
+                "multilingual_descriptions": {
+                    "en": "Japanese Spelling Correction",
+                    "ja": "日本語のスペル修正",
+                    "zh-hans": "日语拼写纠正",
+                    "zh-hant": "日文拼寫校正"
+                }
             }
         },
         "C++": {
@@ -3566,6 +3590,18 @@
                     "ja": "京都テキスト分析ツールキット：単語分割や発音推定などに使用されます。",
                     "zh-hans": "京都文本分析工具包，用于词语分割和发音估计等。",
                     "zh-hant": "京都文本分析工具箱，可用於詞語分割和發音估計等。"
+                }
+            },
+            "https://github.com/ku-nlp/juman": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "juman",
+                "user_name": "ku-nlp",
+                "description": "Japanese Morphological Analysis System JUMAN",
+                "multilingual_descriptions": {
+                    "en": "Japanese Morphological Analysis System JUMAN",
+                    "ja": "日本語形態素解析システムJUMAN",
+                    "zh-hans": "日本语形态分析系统JUMAN",
+                    "zh-hant": "日本語形態素解析システム JUMAN"
                 }
             },
             "https://github.com/taku910/cabocha": {

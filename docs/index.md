@@ -8,7 +8,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [743件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [746件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [2152 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -18,13 +18,13 @@
 ## 🎉 The latest additions
 
 **Python**
- * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
- * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - 日本の漫画テキスト認識のために、Manga109sデータセットでPaddleOCR-VLを微調整します。ベースモデルは漫画内の縦書き日本語テキストの読み順に苦労しています。微調整後、モデルは漫画固有のテキストレイアウトを正しく処理します。
+ * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: 追加の改善を加えたOpenJTalkのPythonラッパー
+ * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - 日本語のスペル修正
 
-**Tutorial**
- * [ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
+**C++**
+ * [juman](https://github.com/ku-nlp/juman) - 日本語形態素解析システムJUMAN
 
-_Updated on Dec 09, 2025_
+_Updated on Dec 12, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -471,7 +471,7 @@ llm-lora-分類
  * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日本語ウィキペディアクリーナー
  * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 日本語を音素に変換するためのPythonライブラリ。
  * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - このリポジトリには、「感情に基づくテキスト分類のための日本語トークナイザーの実験的評価」に関連するコードが含まれています。
- * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - このプロジェクトの目的は、日本語の文章を夏目漱石、森鴎外、芥川龍之介などの日本の古典作家の文章とどの程度類似しているかを分類することです。b
+ * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - 約について
  * [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) - 青空文庫からプレーンテキストまたはトークン化されたテキストファイルを生成します。
  * [JLM](https://github.com/jiali-ms/JLM) - 日本語や中国語のような大語彙言語に対応した高速なLSTM言語モデル
  * [NTM](https://github.com/m3yrin/NTM) - 日本語記事のニューラルトピックモデリングのテスト
@@ -550,7 +550,8 @@ llm-lora-分類
  * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - 日本の低資源設定での日本語LLM用のオープンソースRAGとLlama Index
  * [bertjsc](https://github.com/er-ri/bertjsc) - BERTを使用した日本語スペルエラー修正ツール
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - 日本のタスクのLLM評価プロジェクト
- * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - 日本語理解ベンチマーク JGLUE のトレーニングおよび評価スクリプト
+ * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して
+JGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。
 Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 日本のデータセットで事前学習されたモデルを使用して、LAVISのBLIP2 Q-formerを修正します。
 LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモデルを用いて修正します。
@@ -606,6 +607,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [pitchbench](https://github.com/shewiiii/pitchbench) - 実験的な日本語ピッチアクセントに基づくLLMベンチマーク
  * [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) - ゼロから日本語への英語変換器
  * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
+ * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: 追加の改善を加えたOpenJTalkのPythonラッパー
+ * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - 日本語のスペル修正
 
 
 |Name|downloads/week|total downloads|stars|
@@ -780,6 +783,8 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[pitchbench](https://github.com/shewiiii/pitchbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shewiiii/pitchbench?style=social)|
 |[mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuofanf/mini-transformer-from-scratch?style=social)|
 |[vv_core_inference](https://github.com/hiroshiba/vv_core_inference)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshiba/vv_core_inference?style=social)|
+|[pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus/week)](https://pepy.tech/project/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus)](https://pepy.tech/project/pyopenjtalk-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/pyopenjtalk-plus?style=social)|
+|[japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/phkhanhtrinh23/japanese_spelling_correction?style=social)|
 
 
 ## C++
@@ -790,6 +795,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
  * [mecab](https://github.com/taku910/mecab) - もう一つの日本語形態素解析器
  * [jumanpp](https://github.com/ku-nlp/jumanpp) - Juman++（形態素解析ツールキット）
  * [kytea](https://github.com/neubig/kytea) - 京都テキスト分析ツールキット：単語分割や発音推定などに使用されます。
+ * [juman](https://github.com/ku-nlp/juman) - 日本語形態素解析システムJUMAN
 
 
 |Name|downloads/week|total downloads|stars|
@@ -797,6 +803,7 @@ LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモ�
 |[mecab](https://github.com/taku910/mecab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/taku910/mecab?style=social)|
 |[jumanpp](https://github.com/ku-nlp/jumanpp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/jumanpp?style=social)|
 |[kytea](https://github.com/neubig/kytea)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neubig/kytea?style=social)|
+|[juman](https://github.com/ku-nlp/juman)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/juman?style=social)|
 
 ### Parsing
 日本語の文法構造や係り受けを解析するライブラリ
