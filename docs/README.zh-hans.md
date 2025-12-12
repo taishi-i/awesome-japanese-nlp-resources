@@ -325,8 +325,7 @@ https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
  * [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) - 日语维基百科清理工具
  * [japanese2phoneme](https://github.com/iory/japanese2phoneme) - 一个将日语转换为音素的Python库。
  * [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) - 这个代码库包含与“基于情感的文本分类的日语分词器的实验评估”相关的代码。
- * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - 关于
-This project aims to classify Japanese sentence to how well similar to some Japanese classical writers, such as Soseki Natsume, Ogai Mori, Ryunosuke Akutagawa and so on.
+ * [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) - 本项目旨在对日语句子进行分类，以判断其与夏目漱石、森鸥外、芥川龙之介等日本古典作家的作品的相似程度。
  * [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) - 从青空文库生成纯文本或标记化文本文件。
  * [JLM](https://github.com/jiali-ms/JLM) - 一个快速的LSTM语言模型，适用于日语和中文等大词汇语言。
  * [NTM](https://github.com/m3yrin/NTM) - 日本文章的神经主题建模测试
@@ -566,7 +565,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 
  * [kuromoji.js](https://github.com/takuyaa/kuromoji.js) - 日语形态分析器的JavaScript实现
  * [rakutenma](https://github.com/rakuten-nlp/rakutenma) - Rakuten MA - 用纯JavaScript编写的中文和日文形态分析器（词分割器+词性标注器）。
-Resources
  * [node-mecab-ya](https://github.com/golbin/node-mecab-ya) - 又一个用于nodejs的mecab包装器
  * [juman-bin](https://github.com/thammin/juman-bin) - 一个用户可扩展的日语形态学分析器。日本语形态学分析系统。
  * [node-mecab-async](https://github.com/hecomi/node-mecab-async) - 使用MeCab的异步日语形态分析器。
