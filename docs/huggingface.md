@@ -9,9 +9,14 @@
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 This page lists Japanese NLP-specific models and datasets available on Hugging Face. Currently, it includes 207 models and 43 datasets.
 
+_Updated on Dec 15, 2025_
+
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
 ## Contents
+ * [Ranking](#Ranking)
+   * [Models](#models-ranking)
+   * [Datasets](#datasets-ranking)
  * [Models](#Models)
    * [text-generation](#text-generation)
    * [fill-mask](#fill-mask)
@@ -29,6 +34,58 @@ This page lists Japanese NLP-specific models and datasets available on Hugging F
    * [audio-to-audio](#audio-to-audio)
    * [Others](#Others)
  * [Datasets](#Datasets)
+
+## Ranking
+
+### Models {#models-ranking}
+
+| # | Model | Downloads | Likes | Category |
+|---|-------|-----------|-------|----------|
+| 1 | [wav2vec2-large-xlsr-53-japanese](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese) | 📥 6M | ⭐ 44 | automatic-speech-recognition |
+| 2 | [japanese-cloob-vit-b-16](https://huggingface.co/rinna/japanese-cloob-vit-b-16) | 📥 767k | ⭐ 13 | feature-extraction |
+| 3 | [xlm-roberta-ner-japanese](https://huggingface.co/tsmatz/xlm-roberta-ner-japanese) | 📥 540k | ⭐ 25 | token-classification |
+| 4 | [ruri-base](https://huggingface.co/cl-nagoya/ruri-base) | 📥 354k | ⭐ 11 | sentence-similarity |
+| 5 | [bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking) | 📥 245k | ⭐ 70 | fill-mask |
+| 6 | [japanese-gpt-neox-small](https://huggingface.co/rinna/japanese-gpt-neox-small) | 📥 217k | ⭐ 15 | text-generation |
+| 7 | [manga-ocr-base](https://huggingface.co/kha-white/manga-ocr-base) | 📥 184k | ⭐ 158 | image-to-text |
+| 8 | [ruri-v3-310m](https://huggingface.co/cl-nagoya/ruri-v3-310m) | 📥 159k | ⭐ 56 | sentence-similarity |
+| 9 | [bert-base-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2) | 📥 131k | ⭐ 6 | fill-mask |
+| 10 | [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) | 📥 114k | ⭐ 1 | Others |
+| 11 | [opus-mt-ja-en](https://huggingface.co/Helsinki-NLP/opus-mt-ja-en) | 📥 113k | ⭐ 66 | translation |
+| 12 | [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) | 📥 106k | ⭐ 2 | Others |
+| 13 | [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) | 📥 102k | ⭐ 10 | Others |
+| 14 | [bert-base-japanese-char](https://huggingface.co/tohoku-nlp/bert-base-japanese-char) | 📥 101k | ⭐ 8 | fill-mask |
+| 15 | [vntl-llama3-8b-v2-gguf](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf) | 📥 88k | ⭐ 8 | translation |
+| 16 | [bert-base-japanese](https://huggingface.co/tohoku-nlp/bert-base-japanese) | 📥 76k | ⭐ 38 | fill-mask |
+| 17 | [GLuCoSE-base-ja](https://huggingface.co/pkshatech/GLuCoSE-base-ja) | 📥 73k | ⭐ 33 | sentence-similarity |
+| 18 | [bert-large-japanese-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-v2) | 📥 71k | ⭐ 13 | Others |
+| 19 | [llm-jp-3.1-1.8b](https://huggingface.co/llm-jp/llm-jp-3.1-1.8b) | 📥 59k | ⭐ 8 | text-generation |
+| 20 | [sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2) | 📥 55k | ⭐ 50 | feature-extraction |
+
+### Datasets {#datasets-ranking}
+
+| # | Dataset | Downloads | Likes |
+|---|---------|-----------|-------|
+| 1 | [KakologArchives](https://huggingface.co/datasets/KakologArchives/KakologArchives) | 📥 56k | ⭐ 17 |
+| 2 | [ASMR-Archive-Processed](https://huggingface.co/datasets/OmniAICreator/ASMR-Archive-Processed) | 📥 31k | ⭐ 37 |
+| 3 | [Cauldron-JA](https://huggingface.co/datasets/turing-motors/Cauldron-JA) | 📥 10k | ⭐ 8 |
+| 4 | [JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench) | 📥 7k | ⭐ 8 |
+| 5 | [fineweb-2-edu-japanese](https://huggingface.co/datasets/hotchpotch/fineweb-2-edu-japanese) | 📥 5k | ⭐ 22 |
+| 6 | [KokushiMD-10](https://huggingface.co/datasets/humanalysis-square/KokushiMD-10) | 📥 5k | ⭐ 5 |
+| 7 | [JMTEB](https://huggingface.co/datasets/sbintuitions/JMTEB) | 📥 4k | ⭐ 18 |
+| 8 | [Galgame-VisualNovel-Reupload](https://huggingface.co/datasets/joujiboi/Galgame-VisualNovel-Reupload) | 📥 4k | ⭐ 24 |
+| 9 | [EliteVoiceProject](https://huggingface.co/datasets/Elite35P-Server/EliteVoiceProject) | 📥 2k | ⭐ 12 |
+| 10 | [qg_jaquad](https://huggingface.co/datasets/lmqg/qg_jaquad) | 📥 1k | ⭐ 5 |
+| 11 | [japanese-anime-speech](https://huggingface.co/datasets/joujiboi/japanese-anime-speech) | 📥 1k | ⭐ 134 |
+| 12 | [MOMIJI](https://huggingface.co/datasets/turing-motors/MOMIJI) | 📥 1k | ⭐ 20 |
+| 13 | [Galgame_Speech_ASR_16kHz](https://huggingface.co/datasets/litagin/Galgame_Speech_ASR_16kHz) | 📥 1k | ⭐ 37 |
+| 14 | [reazon-speech-v2-denoised](https://huggingface.co/datasets/litagin/reazon-speech-v2-denoised) | 📥 1k | ⭐ 15 |
+| 15 | [Japanese-Eroge-Voice](https://huggingface.co/datasets/NandemoGHS/Japanese-Eroge-Voice) | 📥 1k | ⭐ 23 |
+| 16 | [wiki40b_ja](https://huggingface.co/datasets/fujiki/wiki40b_ja) | 📥 1k | ⭐ 4 |
+| 17 | [japanese2010](https://huggingface.co/datasets/hatakeyama-llm-team/japanese2010) | 📥 1k | ⭐ 3 |
+| 18 | [rakuda-questions](https://huggingface.co/datasets/yuzuai/rakuda-questions) | 📥 992 | ⭐ 8 |
+| 19 | [japanese-photos](https://huggingface.co/datasets/ThePioneer/japanese-photos) | 📥 955 | ⭐ 31 |
+| 20 | [ogiri-bokete](https://huggingface.co/datasets/YANS-official/ogiri-bokete) | 📥 895 | ⭐ 2 |
 
 ## Models
 ### text-generation
