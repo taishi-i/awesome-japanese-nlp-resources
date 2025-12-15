@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [746 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [2152 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [749 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [250 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -19,13 +19,12 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Python**
- * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: A Python wrapper for OpenJTalk with additional improvements
- * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - Japanese Spelling Correction
+ * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - A lightweight OCR model for Japanese text, especially in Manga
 
 **C++**
- * [juman](https://github.com/ku-nlp/juman) - Japanese Morphological Analysis System JUMAN
+ * [mozuku](https://github.com/t3tra-dev/mozuku) - 日本語文章の解析・校正を行う LSP サーバー。
 
-_Updated on Dec 12, 2025_
+_Updated on Dec 16, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -604,7 +603,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
  * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: A Python wrapper for OpenJTalk with additional improvements
  * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - Japanese Spelling Correction
- * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - Japanese Spelling Correction
 
 
 |Name|downloads/week|total downloads|stars|
@@ -780,7 +778,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zuofanf/mini-transformer-from-scratch?style=social)|
 |[vv_core_inference](https://github.com/hiroshiba/vv_core_inference)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshiba/vv_core_inference?style=social)|
 |[pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus/week)](https://pepy.tech/project/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus)](https://pepy.tech/project/pyopenjtalk-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/pyopenjtalk-plus?style=social)|
-|[japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/phkhanhtrinh23/japanese_spelling_correction?style=social)|
 |[japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/phkhanhtrinh23/japanese_spelling_correction?style=social)|
 
 

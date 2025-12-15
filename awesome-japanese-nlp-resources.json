@@ -1154,6 +1154,18 @@
                     "zh-hant": "對Manga109s數據集上的PaddleOCR-VL進行微調，以用於日本漫畫文本識別。基礎模型在漫畫中垂直日文文本的閱讀順序方面存在困難。經過微調後，模型能夠正確處理漫畫特定的文本布局。"
                 }
             },
+            "https://github.com/gnurt2041/MangaOCR": {
+                "sub_category": "OCR",
+                "repository_name": "MangaOCR",
+                "user_name": "gnurt2041",
+                "description": "A lightweight OCR model for Japanese text, especially in Manga",
+                "multilingual_descriptions": {
+                    "en": "A lightweight OCR model for Japanese text, especially in Manga",
+                    "ja": "日本語テキスト用の軽量なOCRモデル、特にマンガ向け",
+                    "zh-hans": "一个轻量级的OCR模型，特别适用于日文文本，尤其是漫画。",
+                    "zh-hant": "一個針對日文文本的輕量級OCR模型，特別適用於漫畫。"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -3698,6 +3710,18 @@
                     "ja": "▽▼ Windows用のSKK風日本語入力エディタ",
                     "zh-hans": "▽▼ 适用于Windows的类似SKK的日语输入法编辑器",
                     "zh-hant": "▽▼ Windows 的 SKK-like 日文輸入法編輯器"
+                }
+            },
+            "https://github.com/t3tra-dev/mozuku": {
+                "sub_category": null,
+                "repository_name": "mozuku",
+                "user_name": "t3tra-dev",
+                "description": "日本語文章の解析・校正を行う LSP サーバー。",
+                "multilingual_descriptions": {
+                    "en": "LSP server that performs analysis and proofreading of Japanese text.",
+                    "ja": "日本語文章の解析・校正を行う LSP サーバー。",
+                    "zh-hans": "进行日语文章分析和校正的LSP服务器。",
+                    "zh-hant": "進行日文文章的分析和校對的LSP伺服器。"
                 }
             }
         },
