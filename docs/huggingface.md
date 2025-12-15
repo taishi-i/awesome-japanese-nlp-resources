@@ -9,7 +9,7 @@
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 This page lists Japanese NLP-specific models and datasets available on Hugging Face. Currently, it includes 207 models and 43 datasets.
 
-_Updated on Dec 15, 2025_
+_Updated on Dec 16, 2025_
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
@@ -37,7 +37,7 @@ _Updated on Dec 15, 2025_
 
 ## Ranking
 
-### [Models](#models-ranking)
+### Models-ranking
 
 | # | Model | Downloads | Likes | Category |
 |---|-------|-----------|-------|----------|
@@ -62,7 +62,7 @@ _Updated on Dec 15, 2025_
 | 19 | [llm-jp-3.1-1.8b](https://huggingface.co/llm-jp/llm-jp-3.1-1.8b) | 📥 59k | ⭐ 8 | text-generation |
 | 20 | [sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2) | 📥 55k | ⭐ 50 | feature-extraction |
 
-### [Datasets](#datasets-ranking)
+### Datasets-ranking
 
 | # | Dataset | Downloads | Likes |
 |---|---------|-----------|-------|

@@ -9,7 +9,7 @@
 專門收錄日語NLP相關的Python函式庫、LLM、詞典和語料庫資源的精選列表。
 本頁面列出了Hugging Face上可用的日語NLP專用模型和資料集。目前包含207個模型和43個資料集。
 
-_更新於2025年12月15日_
+_更新於2025年12月16日_
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
@@ -37,7 +37,7 @@ _更新於2025年12月15日_
 
 ## Ranking
 
-### [Models](#models-ranking)
+### Models-ranking
 
 | # | 模型名稱 | Downloads | Likes | 類別 |
 |---|-------|-----------|-------|----------|
@@ -62,7 +62,7 @@ _更新於2025年12月15日_
 | 19 | [llm-jp-3.1-1.8b](https://huggingface.co/llm-jp/llm-jp-3.1-1.8b) | 📥 59k | ⭐ 8 | text-generation |
 | 20 | [sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2) | 📥 55k | ⭐ 50 | feature-extraction |
 
-### [Datasets](#datasets-ranking)
+### Datasets-ranking
 
 | # | 資料集名稱 | Downloads | Likes |
 |---|---------|-----------|-------|

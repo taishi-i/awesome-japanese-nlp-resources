@@ -9,7 +9,7 @@
 日本語向けのNLPに関する、Pythonライブラリ、LLM、辞書、コーパスに特化したリソースを厳選してまとめた一覧です。
 このページでは、Hugging Faceで利用可能な日本語NLP特化のモデルとデータセットを掲載しています。現在、207件のモデルと43件のデータセットが含まれています。
 
-_2025年12月15日更新_
+_2025年12月16日更新_
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 
@@ -37,7 +37,7 @@ _2025年12月15日更新_
 
 ## Ranking
 
-### [Models](#models-ranking)
+### Models-ranking
 
 | # | モデル名 | Downloads | Likes | カテゴリ |
 |---|-------|-----------|-------|----------|
@@ -62,7 +62,7 @@ _2025年12月15日更新_
 | 19 | [llm-jp-3.1-1.8b](https://huggingface.co/llm-jp/llm-jp-3.1-1.8b) | 📥 59k | ⭐ 8 | text-generation |
 | 20 | [sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2) | 📥 55k | ⭐ 50 | feature-extraction |
 
-### [Datasets](#datasets-ranking)
+### Datasets-ranking
 
 | # | データセット名 | Downloads | Likes |
 |---|---------|-----------|-------|
