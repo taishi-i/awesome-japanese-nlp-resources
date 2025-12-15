@@ -32,12 +32,12 @@ _更新于2025年12月15日_
    * [question-answering](#question-answering)
    * [image-text-to-text](#image-text-to-text)
    * [audio-to-audio](#audio-to-audio)
-   * [Others](#Others)
+   * [others](#others)
  * [Datasets](#Datasets)
 
 ## Ranking
 
-### Models {#models-ranking}
+### [Models](#models-ranking)
 
 | # | 模型名称 | Downloads | Likes | 类别 |
 |---|-------|-----------|-------|----------|
@@ -50,19 +50,19 @@ _更新于2025年12月15日_
 | 7 | [manga-ocr-base](https://huggingface.co/kha-white/manga-ocr-base) | 📥 184k | ⭐ 158 | image-to-text |
 | 8 | [ruri-v3-310m](https://huggingface.co/cl-nagoya/ruri-v3-310m) | 📥 159k | ⭐ 56 | sentence-similarity |
 | 9 | [bert-base-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2) | 📥 131k | ⭐ 6 | fill-mask |
-| 10 | [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) | 📥 114k | ⭐ 1 | Others |
+| 10 | [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) | 📥 114k | ⭐ 1 | others |
 | 11 | [opus-mt-ja-en](https://huggingface.co/Helsinki-NLP/opus-mt-ja-en) | 📥 113k | ⭐ 66 | translation |
-| 12 | [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) | 📥 106k | ⭐ 2 | Others |
-| 13 | [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) | 📥 102k | ⭐ 10 | Others |
+| 12 | [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) | 📥 106k | ⭐ 2 | others |
+| 13 | [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) | 📥 102k | ⭐ 10 | others |
 | 14 | [bert-base-japanese-char](https://huggingface.co/tohoku-nlp/bert-base-japanese-char) | 📥 101k | ⭐ 8 | fill-mask |
 | 15 | [vntl-llama3-8b-v2-gguf](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf) | 📥 88k | ⭐ 8 | translation |
 | 16 | [bert-base-japanese](https://huggingface.co/tohoku-nlp/bert-base-japanese) | 📥 76k | ⭐ 38 | fill-mask |
 | 17 | [GLuCoSE-base-ja](https://huggingface.co/pkshatech/GLuCoSE-base-ja) | 📥 73k | ⭐ 33 | sentence-similarity |
-| 18 | [bert-large-japanese-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-v2) | 📥 71k | ⭐ 13 | Others |
+| 18 | [bert-large-japanese-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-v2) | 📥 71k | ⭐ 13 | others |
 | 19 | [llm-jp-3.1-1.8b](https://huggingface.co/llm-jp/llm-jp-3.1-1.8b) | 📥 59k | ⭐ 8 | text-generation |
 | 20 | [sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2) | 📥 55k | ⭐ 50 | feature-extraction |
 
-### Datasets {#datasets-ranking}
+### [Datasets](#datasets-ranking)
 
 | # | 数据集名称 | Downloads | Likes |
 |---|---------|-----------|-------|
@@ -285,7 +285,7 @@ _更新于2025年12月15日_
 ### audio-to-audio
  * [Anime-XCodec2-44.1kHz-v2](https://huggingface.co/NandemoGHS/Anime-XCodec2-44.1kHz-v2) - 📥 1k / ⭐ 9 / Anime‑XCodec2‑44.1kHz‑v2 是 Anime‑XCodec2 的仅解码器上采样扩展，使用新的上采样层和 RMS loss 将 16 kHz 的日语语音 token 转换为 44.1 kHz 高保真音频，同时保持原始编码器、码本和 token 集不变。
 
-### Others
+### others
  * [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) - 📥 114k / ⭐ 1 / gguf 格式的 CyberAgent 的 open-calm-3b 模型变体，基于 llama.cpp 的 mmnga-dev 分支构建，附带示例用法，并警告未来 gptneox 集成可能破坏兼容性。
  * [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) - 📥 106k / ⭐ 2 / 一个 GGUF 格式的 CyberAgent 的 open‑calm‑7b 模型转换，适用于 llama.cpp，目前在测试分支，可能与未来基于 GPT‑NeoX 的更新不兼容。
  * [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) - 📥 102k / ⭐ 10 / 一个 BERT‑base 日语模型（12 层，768 维隐藏状态，12 头），使用 Unidic‑2.1.2 的词级分词预训练，随后进行字符级分词和整词掩码，在日语 CC‑100 语料库和 2023 年维基百科上训练，得到 7027‑token 词表。

@@ -32,12 +32,12 @@ _Updated on Dec 15, 2025_
    * [question-answering](#question-answering)
    * [image-text-to-text](#image-text-to-text)
    * [audio-to-audio](#audio-to-audio)
-   * [Others](#Others)
+   * [others](#others)
  * [Datasets](#Datasets)
 
 ## Ranking
 
-### Models {#models-ranking}
+### [Models](#models-ranking)
 
 | # | Model | Downloads | Likes | Category |
 |---|-------|-----------|-------|----------|
@@ -50,19 +50,19 @@ _Updated on Dec 15, 2025_
 | 7 | [manga-ocr-base](https://huggingface.co/kha-white/manga-ocr-base) | 📥 184k | ⭐ 158 | image-to-text |
 | 8 | [ruri-v3-310m](https://huggingface.co/cl-nagoya/ruri-v3-310m) | 📥 159k | ⭐ 56 | sentence-similarity |
 | 9 | [bert-base-japanese-char-v2](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2) | 📥 131k | ⭐ 6 | fill-mask |
-| 10 | [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) | 📥 114k | ⭐ 1 | Others |
+| 10 | [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) | 📥 114k | ⭐ 1 | others |
 | 11 | [opus-mt-ja-en](https://huggingface.co/Helsinki-NLP/opus-mt-ja-en) | 📥 113k | ⭐ 66 | translation |
-| 12 | [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) | 📥 106k | ⭐ 2 | Others |
-| 13 | [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) | 📥 102k | ⭐ 10 | Others |
+| 12 | [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) | 📥 106k | ⭐ 2 | others |
+| 13 | [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) | 📥 102k | ⭐ 10 | others |
 | 14 | [bert-base-japanese-char](https://huggingface.co/tohoku-nlp/bert-base-japanese-char) | 📥 101k | ⭐ 8 | fill-mask |
 | 15 | [vntl-llama3-8b-v2-gguf](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf) | 📥 88k | ⭐ 8 | translation |
 | 16 | [bert-base-japanese](https://huggingface.co/tohoku-nlp/bert-base-japanese) | 📥 76k | ⭐ 38 | fill-mask |
 | 17 | [GLuCoSE-base-ja](https://huggingface.co/pkshatech/GLuCoSE-base-ja) | 📥 73k | ⭐ 33 | sentence-similarity |
-| 18 | [bert-large-japanese-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-v2) | 📥 71k | ⭐ 13 | Others |
+| 18 | [bert-large-japanese-v2](https://huggingface.co/tohoku-nlp/bert-large-japanese-v2) | 📥 71k | ⭐ 13 | others |
 | 19 | [llm-jp-3.1-1.8b](https://huggingface.co/llm-jp/llm-jp-3.1-1.8b) | 📥 59k | ⭐ 8 | text-generation |
 | 20 | [sentence-bert-base-ja-mean-tokens-v2](https://huggingface.co/sonoisa/sentence-bert-base-ja-mean-tokens-v2) | 📥 55k | ⭐ 50 | feature-extraction |
 
-### Datasets {#datasets-ranking}
+### [Datasets](#datasets-ranking)
 
 | # | Dataset | Downloads | Likes |
 |---|---------|-----------|-------|
@@ -285,7 +285,7 @@ _Updated on Dec 15, 2025_
 ### audio-to-audio
  * [Anime-XCodec2-44.1kHz-v2](https://huggingface.co/NandemoGHS/Anime-XCodec2-44.1kHz-v2) - 📥 1k / ⭐ 9 / Anime‑XCodec2‑44.1kHz‑v2 is a decoder‑only, upsampling extension of Anime‑XCodec2 that converts 16 kHz Japanese speech tokens into 44.1 kHz high‑fidelity audio using new upsampling layers and RMS loss, while keeping the original encoder, codebook, and token set unchanged.
 
-### Others
+### others
  * [cyberagent-open-calm-3b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-3b-gguf) - 📥 114k / ⭐ 1 / A gguf-format variant of CyberAgent’s open‑calm‑3b model, built on the mmnga‑dev branch of llama.cpp with example usage and a warning that future gptneox integration may break compatibility.
  * [cyberagent-open-calm-7b-gguf](https://huggingface.co/mmnga/cyberagent-open-calm-7b-gguf) - 📥 106k / ⭐ 2 / A GGUF‑formatted conversion of CyberAgent’s open‑calm‑7b model for llama.cpp, currently in a test branch and possibly incompatible with future GPT‑NeoX‑based updates.
  * [bert-base-japanese-char-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v3) - 📥 102k / ⭐ 10 / A BERT‑base Japanese model (12 layers, 768‑dim hidden states, 12 heads) pretrained with Unidic‑2.1.2 word‑level tokenization followed by character‑level tokenization and whole‑word masking on the Japanese CC‑100 corpus and 2023 Wikipedia, yielding a 7027‑token vocabulary.
