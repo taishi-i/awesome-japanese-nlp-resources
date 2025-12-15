@@ -819,6 +819,7 @@ Other Japanese NLP and text processing libraries
  * [trimatch](https://github.com/tuem/trimatch) - Trimatch: An (Exact|Prefix|Approximate) String Matching Library
  * [resembla](https://github.com/tuem/resembla) - Resembla: Word-based Japanese similar sentence search library
  * [corvusskk](https://github.com/nathancorvussolis/corvusskk) - ▽▼ SKK-like Japanese Input Method Editor for Windows
+ * [mozuku](https://github.com/t3tra-dev/mozuku) - 日本語文章の解析・校正を行う LSP サーバー。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -829,6 +830,7 @@ Other Japanese NLP and text processing libraries
 |[trimatch](https://github.com/tuem/trimatch)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tuem/trimatch?style=social)|
 |[resembla](https://github.com/tuem/resembla)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tuem/resembla?style=social)|
 |[corvusskk](https://github.com/nathancorvussolis/corvusskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nathancorvussolis/corvusskk?style=social)|
+|[mozuku](https://github.com/t3tra-dev/mozuku)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t3tra-dev/mozuku?style=social)|
 
 
 ## Rust crate
