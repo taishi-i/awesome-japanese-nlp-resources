@@ -604,8 +604,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
  * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: A Python wrapper for OpenJTalk with additional improvements
  * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - Japanese Spelling Correction
- * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - 
- Japanese Spelling Correction
+ * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - Japanese Spelling Correction
 
 
 |Name|downloads/week|total downloads|stars|
