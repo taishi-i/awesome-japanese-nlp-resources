@@ -1676,6 +1676,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [waon](https://github.com/llm-jp/waon) - WAON: Large-Scale and High-Quality Japanese Image-Text Dataset for Vision-Language Models
  * [kuci](https://github.com/ku-nlp/kuci) - Kyoto University Commonsense Inference dataset (KUCI)
  * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
+ * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - Japanese word list from JLPT vocabulary
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1813,6 +1814,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jethics](https://github.com/language-media-lab/jethics)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/language-media-lab/jethics?style=social)|
 |[waon](https://github.com/llm-jp/waon)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/waon?style=social)|
 |[kuci](https://github.com/ku-nlp/kuci)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/kuci?style=social)|
+|[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
 |[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
 
 
