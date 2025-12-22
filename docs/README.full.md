@@ -1677,6 +1677,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [kuci](https://github.com/ku-nlp/kuci) - Kyoto University Commonsense Inference dataset (KUCI)
  * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
  * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - Japanese word list from JLPT vocabulary
+ * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字画像データセット(平仮名73文字版)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1816,6 +1817,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[kuci](https://github.com/ku-nlp/kuci)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/kuci?style=social)|
 |[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
 |[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
+|[hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/hiragana_mojigazo?style=social)|
 
 
 ## Tutorial
