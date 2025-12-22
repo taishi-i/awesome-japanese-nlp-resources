@@ -175,6 +175,7 @@ Libraries that convert between character types such as kana, romaji, and full-wi
  * [e2k](https://github.com/Patchethium/e2k) - A tool for automatic English to Katakana conversion
  * [alkana.py](https://github.com/zomysan/alkana.py) - A tool to get the katakana reading of an alphabetical string.
  * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 英語文字列をカタカナに変換するプログラム
+ * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - Kanji Converter to Hiragana, Katakana, Roman alphabet.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -195,6 +196,7 @@ Libraries that convert between character types such as kana, romaji, and full-wi
 |[e2k](https://github.com/Patchethium/e2k)|[![Downloads](https://pepy.tech/badge/e2k/week)](https://pepy.tech/project/e2k)|[![Downloads](https://pepy.tech/badge/e2k)](https://pepy.tech/project/e2k)|![GitHub Repo stars](https://img.shields.io/github/stars/Patchethium/e2k?style=social)|
 |[alkana.py](https://github.com/zomysan/alkana.py)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zomysan/alkana.py?style=social)|
 |[englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/actlaboratory/englishtokanaconverter?style=social)|
+|[kanjiconv](https://github.com/sea-turt1e/kanjiconv)|[![Downloads](https://pepy.tech/badge/kanjiconv/week)](https://pepy.tech/project/kanjiconv)|[![Downloads](https://pepy.tech/badge/kanjiconv)](https://pepy.tech/project/kanjiconv)|![GitHub Repo stars](https://img.shields.io/github/stars/sea-turt1e/kanjiconv?style=social)|
 
 
 ### Preprocessor
