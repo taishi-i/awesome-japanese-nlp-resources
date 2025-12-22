@@ -542,6 +542,18 @@
                     "zh-hant": "將英文文字轉換為片假名的程式"
                 }
             },
+            "https://github.com/sea-turt1e/kanjiconv": {
+                "sub_category": "Converter",
+                "repository_name": "kanjiconv",
+                "user_name": "sea-turt1e",
+                "description": "Kanji Converter to Hiragana, Katakana, Roman alphabet.",
+                "multilingual_descriptions": {
+                    "en": "Kanji Converter to Hiragana, Katakana, Roman alphabet.",
+                    "ja": "漢字変換器へひらがな、カタカナ、ローマ字。",
+                    "zh-hans": "汉字转换器到平假名、片假名、罗马字母。",
+                    "zh-hant": "漢字轉換器到平假名、片假名、羅馬字母。"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -3564,6 +3576,18 @@
                     "ja": "日本語のスペル修正",
                     "zh-hans": "日语拼写纠正",
                     "zh-hant": "日文拼寫校正"
+                }
+            },
+            "https://github.com/shibuiwilliam/py-kaomoji": {
+                "sub_category": null,
+                "repository_name": "py-kaomoji",
+                "user_name": "shibuiwilliam",
+                "description": "python kaomoji",
+                "multilingual_descriptions": {
+                    "en": "Python kaomoji",
+                    "ja": "python 顔文字",
+                    "zh-hans": "Python 表情符号",
+                    "zh-hant": "Python 顔文字"
                 }
             }
         },
@@ -8478,6 +8502,54 @@
                     "ja": "日本語道徳理解度評価用データセットJETHICSの概説ページ (to be update)",
                     "zh-hans": "日本语道德理解度评价用数据集JETHICS的概述页面（待更新）",
                     "zh-hant": "日本語道徳理解度評価用數據集JETHICS的概述頁面（待更新）"
+                }
+            },
+            "https://github.com/llm-jp/waon": {
+                "sub_category": null,
+                "repository_name": "waon",
+                "user_name": "llm-jp",
+                "description": "WAON: Large-Scale and High-Quality Japanese Image-Text Dataset for Vision-Language Models",
+                "multilingual_descriptions": {
+                    "en": "WAON: Large-Scale and High-Quality Japanese Image-Text Dataset for Vision-Language Models",
+                    "ja": "WAON：ビジョン言語モデル向けの大規模で高品質な日本語画像テキストデータセット",
+                    "zh-hans": "WAON：用于视觉语言模型的大规模高质量日本图像文本数据集",
+                    "zh-hant": "WAON：用於視覺語言模型的大規模高質量日本圖像文本數據集"
+                }
+            },
+            "https://github.com/ku-nlp/kuci": {
+                "sub_category": null,
+                "repository_name": "kuci",
+                "user_name": "ku-nlp",
+                "description": "Kyoto University Commonsense Inference dataset (KUCI)",
+                "multilingual_descriptions": {
+                    "en": "Kyoto University Commonsense Inference dataset (KUCI)",
+                    "ja": "京都大学コモンセンス推論データセット（KUCI）",
+                    "zh-hans": "京都大学常识推理数据集（KUCI）",
+                    "zh-hant": "京都大學常識推理數據集（KUCI）"
+                }
+            },
+            "https://github.com/t-sagara/japanese-address-testdata": {
+                "sub_category": null,
+                "repository_name": "japanese-address-testdata",
+                "user_name": "t-sagara",
+                "description": "Japanese word list from JLPT vocabulary",
+                "multilingual_descriptions": {
+                    "en": "Test dataset of difficult-to-parse Japanese addresses",
+                    "ja": "解析が難しい日本の住所のテストデータセット",
+                    "zh-hans": "日本地址解析困难的测试数据集",
+                    "zh-hant": "解析困難的日本地址測試數據集"
+                }
+            },
+            "https://github.com/ndl-lab/hiragana_mojigazo": {
+                "sub_category": null,
+                "repository_name": "hiragana_mojigazo",
+                "user_name": "ndl-lab",
+                "description": "文字画像データセット(平仮名73文字版)",
+                "multilingual_descriptions": {
+                    "en": "Text image dataset (Hiragana 73 characters version)",
+                    "ja": "文字画像データセット(平仮名73文字版)",
+                    "zh-hans": "文字图像数据集（平假名73个字符版）",
+                    "zh-hant": "文字圖像數據集（平假名73個字符版）"
                 }
             }
         },

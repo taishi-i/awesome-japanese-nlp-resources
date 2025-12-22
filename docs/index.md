@@ -8,7 +8,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [749件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [756件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [250 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -18,12 +18,17 @@
 ## 🎉 The latest additions
 
 **Python**
- * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - 日本語テキスト用の軽量なOCRモデル、特にマンガ向け
+ * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - 漢字変換器へひらがな、カタカナ、ローマ字。
+ * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - python 顔文字
 
-**C++**
- * [mozuku](https://github.com/t3tra-dev/mozuku) - 日本語文章の解析・校正を行う LSP サーバー。
+**Corpus**
+ * [waon](https://github.com/llm-jp/waon) - WAON：ビジョン言語モデル向けの大規模で高品質な日本語画像テキストデータセット
+ * [kuci](https://github.com/ku-nlp/kuci) - 京都大学コモンセンス推論データセット（KUCI）
+ * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
+ * [jlpt-word-list](https://github.com/elzup/jlpt-word-list) - JLPT語彙からの日本語単語リスト
+ * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字画像データセット(平仮名73文字版)
 
-_Updated on Dec 16, 2025_
+_Updated on Dec 23, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -174,6 +179,7 @@ _Updated on Dec 16, 2025_
  * [e2k](https://github.com/Patchethium/e2k) - 自動的な英語から片仮名への変換ツール
  * [alkana.py](https://github.com/zomysan/alkana.py) - アルファベット文字列のカタカナ読みを取得するツール。
  * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 英語文字列をカタカナに変換するプログラム
+ * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - 漢字変換器へひらがな、カタカナ、ローマ字。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -194,6 +200,7 @@ _Updated on Dec 16, 2025_
 |[e2k](https://github.com/Patchethium/e2k)|[![Downloads](https://pepy.tech/badge/e2k/week)](https://pepy.tech/project/e2k)|[![Downloads](https://pepy.tech/badge/e2k)](https://pepy.tech/project/e2k)|![GitHub Repo stars](https://img.shields.io/github/stars/Patchethium/e2k?style=social)|
 |[alkana.py](https://github.com/zomysan/alkana.py)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zomysan/alkana.py?style=social)|
 |[englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/actlaboratory/englishtokanaconverter?style=social)|
+|[kanjiconv](https://github.com/sea-turt1e/kanjiconv)|[![Downloads](https://pepy.tech/badge/kanjiconv/week)](https://pepy.tech/project/kanjiconv)|[![Downloads](https://pepy.tech/badge/kanjiconv)](https://pepy.tech/project/kanjiconv)|![GitHub Repo stars](https://img.shields.io/github/stars/sea-turt1e/kanjiconv?style=social)|
 
 
 ### Preprocessor
@@ -602,6 +609,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
  * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: 追加の改善を加えたOpenJTalkのPythonラッパー
  * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - 日本語のスペル修正
+ * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - python 顔文字
 
 
 |Name|downloads/week|total downloads|stars|
@@ -778,6 +786,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[vv_core_inference](https://github.com/hiroshiba/vv_core_inference)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshiba/vv_core_inference?style=social)|
 |[pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus/week)](https://pepy.tech/project/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus)](https://pepy.tech/project/pyopenjtalk-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/pyopenjtalk-plus?style=social)|
 |[japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/phkhanhtrinh23/japanese_spelling_correction?style=social)|
+|[py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji)|[![Downloads](https://pepy.tech/badge/py-kaomoji/week)](https://pepy.tech/project/py-kaomoji)|[![Downloads](https://pepy.tech/badge/py-kaomoji)](https://pepy.tech/project/py-kaomoji)|![GitHub Repo stars](https://img.shields.io/github/stars/shibuiwilliam/py-kaomoji?style=social)|
 
 
 ## C++
@@ -1672,6 +1681,11 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) - JSON形式で収録された、シンプルでオープンソースな日本語の擬音語や擬態語のコレクション。マンガのサンプル付き。
  * [kanji](https://github.com/sylhare/kanji) - 学習すべき日本語の漢字部首のリスト
  * [jethics](https://github.com/language-media-lab/jethics) - 日本語道徳理解度評価用データセットJETHICSの概説ページ (to be update)
+ * [waon](https://github.com/llm-jp/waon) - WAON：ビジョン言語モデル向けの大規模で高品質な日本語画像テキストデータセット
+ * [kuci](https://github.com/ku-nlp/kuci) - 京都大学コモンセンス推論データセット（KUCI）
+ * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
+ * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
+ * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字画像データセット(平仮名73文字版)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1807,6 +1821,11 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[j-ono-data](https://github.com/ObakeConstructs/j-ono-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ObakeConstructs/j-ono-data?style=social)|
 |[kanji](https://github.com/sylhare/kanji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sylhare/kanji?style=social)|
 |[jethics](https://github.com/language-media-lab/jethics)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/language-media-lab/jethics?style=social)|
+|[waon](https://github.com/llm-jp/waon)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/waon?style=social)|
+|[kuci](https://github.com/ku-nlp/kuci)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/kuci?style=social)|
+|[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
+|[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
+|[hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/hiragana_mojigazo?style=social)|
 
 
 ## Tutorial
