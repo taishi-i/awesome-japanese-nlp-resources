@@ -1674,6 +1674,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [kanji](https://github.com/sylhare/kanji) - List of japanese kanji radicals to learn
  * [jethics](https://github.com/language-media-lab/jethics) - 日本語道徳理解度評価用データセットJETHICSの概説ページ (to be update)
  * [waon](https://github.com/llm-jp/waon) - WAON: Large-Scale and High-Quality Japanese Image-Text Dataset for Vision-Language Models
+ * [kuci](https://github.com/ku-nlp/kuci) - Kyoto University Commonsense Inference dataset (KUCI)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1810,6 +1811,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[kanji](https://github.com/sylhare/kanji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sylhare/kanji?style=social)|
 |[jethics](https://github.com/language-media-lab/jethics)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/language-media-lab/jethics?style=social)|
 |[waon](https://github.com/llm-jp/waon)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/waon?style=social)|
+|[kuci](https://github.com/ku-nlp/kuci)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/kuci?style=social)|
 
 
 ## Tutorial
