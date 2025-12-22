@@ -605,6 +605,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) - VOICEVOXのコア内で用いられているディープラーニングモデルの推論コード
  * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus: A Python wrapper for OpenJTalk with additional improvements
  * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - Japanese Spelling Correction
+ * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - python kaomoji
 
 
 |Name|downloads/week|total downloads|stars|
@@ -781,6 +782,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[vv_core_inference](https://github.com/hiroshiba/vv_core_inference)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshiba/vv_core_inference?style=social)|
 |[pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus/week)](https://pepy.tech/project/pyopenjtalk-plus)|[![Downloads](https://pepy.tech/badge/pyopenjtalk-plus)](https://pepy.tech/project/pyopenjtalk-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/pyopenjtalk-plus?style=social)|
 |[japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/phkhanhtrinh23/japanese_spelling_correction?style=social)|
+|[py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji)|[![Downloads](https://pepy.tech/badge/py-kaomoji/week)](https://pepy.tech/project/py-kaomoji)|[![Downloads](https://pepy.tech/badge/py-kaomoji)](https://pepy.tech/project/py-kaomoji)|![GitHub Repo stars](https://img.shields.io/github/stars/shibuiwilliam/py-kaomoji?style=social)|
 
 
 ## C++
