@@ -1687,6 +1687,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
  * [jlpt-word-list](https://github.com/elzup/jlpt-word-list) - Japanese word list from JLPT vocabulary
  * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字画像データセット(平仮名73文字版)
+ * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1827,6 +1828,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-sagara/japanese-address-testdata?style=social)|
 |[jlpt-word-list](https://github.com/elzup/jlpt-word-list)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elzup/jlpt-word-list?style=social)|
 |[hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/hiragana_mojigazo?style=social)|
+|[lawqa_jp](https://github.com/digital-go-jp/lawqa_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/lawqa_jp?style=social)|
 
 
 ## Tutorial
