@@ -1694,6 +1694,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jlpt-word-list](https://github.com/elzup/jlpt-word-list) - Japanese word list from JLPT vocabulary
  * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字画像データセット(平仮名73文字版)
  * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
+ * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1835,6 +1836,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jlpt-word-list](https://github.com/elzup/jlpt-word-list)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elzup/jlpt-word-list?style=social)|
 |[hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/hiragana_mojigazo?style=social)|
 |[lawqa_jp](https://github.com/digital-go-jp/lawqa_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/lawqa_jp?style=social)|
+|[yjcaptions](https://github.com/yahoojapan/yjcaptions)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/yjcaptions?style=social)|
 
 
 ## Tutorial
