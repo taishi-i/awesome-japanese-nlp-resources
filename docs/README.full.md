@@ -613,6 +613,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - python kaomoji
  * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.
  * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
+ * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
 
 
 |Name|downloads/week|total downloads|stars|
@@ -792,6 +793,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji)|[![Downloads](https://pepy.tech/badge/py-kaomoji/week)](https://pepy.tech/project/py-kaomoji)|[![Downloads](https://pepy.tech/badge/py-kaomoji)](https://pepy.tech/project/py-kaomoji)|![GitHub Repo stars](https://img.shields.io/github/stars/shibuiwilliam/py-kaomoji?style=social)|
 |[llm-jp-vila](https://github.com/llm-jp/llm-jp-vila)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-vila?style=social)|
 |[kanjivg-radical](https://github.com/yagays/kanjivg-radical)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/kanjivg-radical?style=social)|
+|[japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HemingwayLee/japanese-wordnet-visualization?style=social)|
 
 
 ## C++
