@@ -3589,6 +3589,42 @@
                     "zh-hans": "Python 表情符号",
                     "zh-hant": "Python 顔文字"
                 }
+            },
+            "https://github.com/llm-jp/llm-jp-vila": {
+                "sub_category": null,
+                "repository_name": "llm-jp-vila",
+                "user_name": "llm-jp",
+                "description": "This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.",
+                "multilingual_descriptions": {
+                    "en": "This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.",
+                    "ja": "このリポジトリには、VILAリポジトリから変更されたllm-jp/llm-jp-3-vila-14bのトレーニングコードが含まれています。",
+                    "zh-hans": "这个存储库包含了用于训练llm-jp/llm-jp-3-vila-14b的代码，修改自VILA存储库。",
+                    "zh-hant": "這個存儲庫包含了用於訓練llm-jp/llm-jp-3-vila-14b的代碼，該代碼是從VILA存儲庫修改而來的。"
+                }
+            },
+            "https://github.com/yagays/kanjivg-radical": {
+                "sub_category": null,
+                "repository_name": "kanjivg-radical",
+                "user_name": "yagays",
+                "description": "kanjivg-radical",
+                "multilingual_descriptions": {
+                    "en": "KanjiVG Radical",
+                    "ja": "kanjivg-radical\n漢字VGラジカル",
+                    "zh-hans": "汉字VG-部首",
+                    "zh-hant": "漢字VG-部首"
+                }
+            },
+            "https://github.com/HemingwayLee/japanese-wordnet-visualization": {
+                "sub_category": null,
+                "repository_name": "japanese-wordnet-visualization",
+                "user_name": "HemingwayLee",
+                "description": "This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django",
+                "multilingual_descriptions": {
+                    "en": "This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django",
+                    "ja": "このプロジェクトは、Djangoで構築されたWebアプリケーションを使用して日本語ワードネットを可視化します。",
+                    "zh-hans": "这个项目使用Django构建的Web应用程序可视化日本语Wordnet（日本語ワードネット）。",
+                    "zh-hant": "這個項目使用Django建立的Web應用程式來視覺化日本語ワードネット。"
+                }
             }
         },
         "C++": {
@@ -8532,12 +8568,24 @@
                 "sub_category": null,
                 "repository_name": "japanese-address-testdata",
                 "user_name": "t-sagara",
-                "description": "Japanese word list from JLPT vocabulary",
+                "description": "解析が難しい日本の住所のテストデータセット",
                 "multilingual_descriptions": {
                     "en": "Test dataset of difficult-to-parse Japanese addresses",
                     "ja": "解析が難しい日本の住所のテストデータセット",
                     "zh-hans": "日本地址解析困难的测试数据集",
                     "zh-hant": "解析困難的日本地址測試數據集"
+                }
+            },
+            "https://github.com/elzup/jlpt-word-list": {
+                "sub_category": null,
+                "repository_name": "jlpt-word-list",
+                "user_name": "elzup",
+                "description": "Japanese word list from JLPT vocabulary",
+                "multilingual_descriptions": {
+                    "en": "Japanese word list from JLPT vocabulary",
+                    "ja": "JLPT語彙からの日本語単語リスト",
+                    "zh-hans": "JLPT词汇表中的日语单词列表",
+                    "zh-hant": "JLPT詞彙的日語單詞列表"
                 }
             },
             "https://github.com/ndl-lab/hiragana_mojigazo": {
@@ -8550,6 +8598,42 @@
                     "ja": "文字画像データセット(平仮名73文字版)",
                     "zh-hans": "文字图像数据集（平假名73个字符版）",
                     "zh-hant": "文字圖像數據集（平假名73個字符版）"
+                }
+            },
+            "https://github.com/digital-go-jp/lawqa_jp": {
+                "sub_category": null,
+                "repository_name": "lawqa_jp",
+                "user_name": "digital-go-jp",
+                "description": "日本の法令に関する多肢選択式QAデータセット",
+                "multilingual_descriptions": {
+                    "en": "Multiple-choice QA dataset on Japanese regulations",
+                    "ja": "日本の法令に関する多肢選択式QAデータセット",
+                    "zh-hans": "日本法律相关的多项选择问答数据集",
+                    "zh-hant": "日本的法令多項選擇問答數據集"
+                }
+            },
+            "https://github.com/yahoojapan/yjcaptions": {
+                "sub_category": null,
+                "repository_name": "yjcaptions",
+                "user_name": "yahoojapan",
+                "description": "YJ Captions 26k Dataset",
+                "multilingual_descriptions": {
+                    "en": "YJ Captions 26k Dataset",
+                    "ja": "YJキャプション26kデータセット",
+                    "zh-hans": "YJ字幕26k数据集",
+                    "zh-hant": "YJ字幕26k數據集"
+                }
+            },
+            "https://github.com/yahoojapan/ja-vg-vqa": {
+                "sub_category": null,
+                "repository_name": "ja-vg-vqa",
+                "user_name": "yahoojapan",
+                "description": "Japanese Visual Genome VQA dataset",
+                "multilingual_descriptions": {
+                    "en": "日本のビジュアルジェノムVQAデータセット",
+                    "ja": "日本のビジュアルジェノムVQAデータセット",
+                    "zh-hans": "日本视觉基因问答数据集",
+                    "zh-hant": "日本視覺基因組VQA數據集"
                 }
             }
         },

@@ -8,7 +8,7 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了756个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了762个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 - [列出了392个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 - [发布了一个工具，用于搜索大量仓库信息 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -18,18 +18,17 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - 汉字转换器到平假名、片假名、罗马字母。
- * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - Python 表情符号
-
 **Corpus**
- * [waon](https://github.com/llm-jp/waon) - WAON：用于视觉语言模型的大规模高质量日本图像文本数据集
- * [kuci](https://github.com/ku-nlp/kuci) - 京都大学常识推理数据集（KUCI）
- * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 日本地址解析困难的测试数据集
- * [jlpt-word-list](https://github.com/elzup/jlpt-word-list) - JLPT词汇表中的日语单词列表
- * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字图像数据集（平假名73个字符版）
+ * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本法律相关的多项选择问答数据集
+ * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ字幕26k数据集
+ * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - 日本视觉基因问答数据集
 
-_Updated on Dec 23, 2025_
+**Python**
+ * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - 这个存储库包含了用于训练llm-jp/llm-jp-3-vila-14b的代码，修改自VILA存储库。
+ * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - 汉字VG-部首
+ * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - 这个项目使用Django构建的Web应用程序可视化日本语Wordnet（日本語ワードネット）。
+
+_Updated on Dec 26, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -611,6 +610,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) - pyopenjtalk-plus：一个带有额外改进的OpenJTalk的Python封装器
  * [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) - 日语拼写纠正
  * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - Python 表情符号
+ * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - 这个存储库包含了用于训练llm-jp/llm-jp-3-vila-14b的代码，修改自VILA存储库。
+ * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - 汉字VG-部首
+ * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - 这个项目使用Django构建的Web应用程序可视化日本语Wordnet（日本語ワードネット）。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -788,6 +790,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) | 📥 3k | 📦 254k | ⭐ 55 | 🟢 november|
 | 🔗 [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) | - | - | ⭐ 14 | 🔴 september 2023|
 | 🔗 [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) | 📥 54 | 📦 37k | ⭐ 6 | 🔴 december 2018|
+| 🔗 [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) | - | - | ⭐ 10 | 🟡 august|
+| 🔗 [kanjivg-radical](https://github.com/yagays/kanjivg-radical) | - | - | ⭐ 104 | 🔴 august 2018|
+| 🔗 [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) | - | - | ⭐ 3 | 🔴 november 2022|
 
 
 ## C++
@@ -1685,8 +1690,11 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [waon](https://github.com/llm-jp/waon) - WAON：用于视觉语言模型的大规模高质量日本图像文本数据集
  * [kuci](https://github.com/ku-nlp/kuci) - 京都大学常识推理数据集（KUCI）
  * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 日本地址解析困难的测试数据集
- * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 日本地址解析困难的测试数据集
+ * [jlpt-word-list](https://github.com/elzup/jlpt-word-list) - JLPT词汇表中的日语单词列表
  * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字图像数据集（平假名73个字符版）
+ * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本法律相关的多项选择问答数据集
+ * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ字幕26k数据集
+ * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - 日本视觉基因问答数据集
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1825,8 +1833,11 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [waon](https://github.com/llm-jp/waon) | - | - | ⭐ 5 | 🟢 november|
 | 🔗 [kuci](https://github.com/ku-nlp/kuci) | - | - | ⭐ 5 | 🔴 february 2024|
 | 🔗 [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) | - | - | ⭐ 14 | 🔴 september 2023|
-| 🔗 [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) | - | - | ⭐ 14 | 🔴 september 2023|
+| 🔗 [jlpt-word-list](https://github.com/elzup/jlpt-word-list) | - | - | ⭐ 50 | 🔴 february 2022|
 | 🔗 [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) | - | - | ⭐ 18 | 🔴 april 2020|
+| 🔗 [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) | - | - | ⭐ 255 | 🟢 november|
+| 🔗 [yjcaptions](https://github.com/yahoojapan/yjcaptions) | - | - | ⭐ 61 | 🔴 november 2016|
+| 🔗 [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) | - | - | ⭐ 30 | 🔴 november 2018|
 
 
 ## Tutorial

@@ -8,7 +8,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [756 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [762 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [392 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
@@ -18,18 +18,17 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Python**
- * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - Kanji Converter to Hiragana, Katakana, Roman alphabet.
- * [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) - python kaomoji
-
 **Corpus**
- * [waon](https://github.com/llm-jp/waon) - WAON: Large-Scale and High-Quality Japanese Image-Text Dataset for Vision-Language Models
- * [kuci](https://github.com/ku-nlp/kuci) - Kyoto University Commonsense Inference dataset (KUCI)
- * [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) - 解析が難しい日本の住所のテストデータセット
- * [jlpt-word-list](https://github.com/elzup/jlpt-word-list) - Japanese word list from JLPT vocabulary
- * [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) - 文字画像データセット(平仮名73文字版)
+ * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
+ * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
+ * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
 
-_Updated on Dec 23, 2025_
+**Python**
+ * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.
+ * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
+ * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
+
+_Updated on Dec 26, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
