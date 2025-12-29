@@ -617,6 +617,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
  * [piper-plus](https://github.com/ayutaz/piper-plus) - Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.
  * [Japanera](https://github.com/nagataaaas/Japanera) - Easy Tools for Japanese Era System
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - Japanese Sentence Summarization with BERT
 
 
 |Name|downloads/week|total downloads|stars|
@@ -799,6 +800,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HemingwayLee/japanese-wordnet-visualization?style=social)|
 |[piper-plus](https://github.com/ayutaz/piper-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ayutaz/piper-plus?style=social)|
 |[Japanera](https://github.com/nagataaaas/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera/week)](https://pepy.tech/project/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera)](https://pepy.tech/project/Japanera)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Japanera?style=social)|
+|[bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iwasakiyuuki/bert-abstractive-text-summarization?style=social)|
 
 
 ## C++
