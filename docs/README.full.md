@@ -1711,6 +1711,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
  * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
  * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - A word frequency list derived from subtitles from Japanese drama, anime and films.
+ * [jconj](https://github.com/yamagoya/jconj) - A table-based Japanese word conjugator
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1856,6 +1857,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/ja-vg-vqa?style=social)|
 |[lawhub](https://github.com/lwhb/lawhub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lwhb/lawhub?style=social)|
 |[japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chriskempson/japanese-subtitles-word-kanji-frequency-lists?style=social)|
+|[jconj](https://github.com/yamagoya/jconj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamagoya/jconj?style=social)|
 
 
 ## Tutorial
