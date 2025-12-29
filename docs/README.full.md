@@ -398,6 +398,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - Japanese Vicuna QA Benchmark
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
  * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - pretrained doc2vec models on Japanese Wikipedia
 
 
 |Name|downloads/week|total downloads|stars|
@@ -434,6 +435,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
 |[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
 |[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 |[swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation-instruct?style=social)|
+|[pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/pretrained_doc2vec_ja?style=social)|
 
 
 ### Others
