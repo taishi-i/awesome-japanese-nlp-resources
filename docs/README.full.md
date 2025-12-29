@@ -1710,6 +1710,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
  * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
  * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - A word frequency list derived from subtitles from Japanese drama, anime and films.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1854,6 +1855,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[yjcaptions](https://github.com/yahoojapan/yjcaptions)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/yjcaptions?style=social)|
 |[ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/ja-vg-vqa?style=social)|
 |[lawhub](https://github.com/lwhb/lawhub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lwhb/lawhub?style=social)|
+|[japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chriskempson/japanese-subtitles-word-kanji-frequency-lists?style=social)|
 
 
 ## Tutorial
