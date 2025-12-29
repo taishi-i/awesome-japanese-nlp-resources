@@ -1716,6 +1716,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
  * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - A word frequency list derived from subtitles from Japanese drama, anime and films.
  * [jconj](https://github.com/yamagoya/jconj) - A table-based Japanese word conjugator
+ * [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) - Extracts personal names in Wikipedia Japanese.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1862,6 +1863,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[lawhub](https://github.com/lwhb/lawhub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lwhb/lawhub?style=social)|
 |[japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chriskempson/japanese-subtitles-word-kanji-frequency-lists?style=social)|
 |[jconj](https://github.com/yamagoya/jconj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamagoya/jconj?style=social)|
+|[extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-manabe/extract_jawp_names?style=social)|
 
 
 ## Tutorial
