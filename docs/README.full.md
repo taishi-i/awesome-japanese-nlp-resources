@@ -1398,6 +1398,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - JapaneseArabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
  * [o-dic](https://github.com/makotoga/o-dic) - 沖縄辞書
  * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - A personal name dictionary for Mozc.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1474,6 +1475,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[japanesearabic](https://github.com/a-hamdi/japanesearabic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/a-hamdi/japanesearabic?style=social)|
 |[o-dic](https://github.com/makotoga/o-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makotoga/o-dic?style=social)|
 |[skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uasi/skk-emoji-jisyo?style=social)|
+|[mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-personal-names?style=social)|
 
 
 ## Corpus
