@@ -1489,6 +1489,7 @@ Corpora annotated with part-of-speech tags and named entities
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - Kyoto University Web Document Leads Corpus
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - Annotated Fuman Kaitori Center Corpus
  * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - Long-unit-word version of UD_Japanese-GSD
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1502,6 +1503,7 @@ Corpora annotated with part-of-speech tags and named entities
 |[AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/AnnotatedFKCCorpus?style=social)|
 |[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 |[UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/UniversalDependencies/UD_Japanese-GSDLUW?style=social)|
+|[ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/universaldependencies/ud_japanese-bccwj?style=social)|
 
 
 ### Parallel corpus
