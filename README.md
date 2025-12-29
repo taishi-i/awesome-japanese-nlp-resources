@@ -8,7 +8,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [762 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [771 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [392 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
@@ -19,16 +19,26 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Corpus**
- * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
- * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
- * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
+ * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - A word frequency list derived from subtitles from Japanese drama, anime and films.
+ * [jconj](https://github.com/yamagoya/jconj) - A table-based Japanese word conjugator
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation.
 
 **Python**
- * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.
- * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
- * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): Easy converter between Kanji-Number and Integer
+ * [Japanera](https://github.com/nagataaaas/Japanera) - Easy Tools for Japanese Era System
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - Japanese Sentence Summarization with BERT
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - pretrained doc2vec models on Japanese Wikipedia
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - A repository of Japanese Phoneme-Level BERT
 
-_Updated on Dec 26, 2025_
+**JavaScript**
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
+
+**Dictionary and IME**
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - A personal name dictionary for Mozc.
+
+_Updated on Dec 30, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -180,6 +190,7 @@ Libraries that convert between character types such as kana, romaji, and full-wi
  * [alkana.py](https://github.com/zomysan/alkana.py) - A tool to get the katakana reading of an alphabetical string.
  * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 英語文字列をカタカナに変換するプログラム
  * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - Kanji Converter to Hiragana, Katakana, Roman alphabet.
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): Easy converter between Kanji-Number and Integer
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -201,6 +212,7 @@ Libraries that convert between character types such as kana, romaji, and full-wi
 | 🔗 [alkana.py](https://github.com/zomysan/alkana.py) | - | - | ⭐ 33 | 🔴 october 2021|
 | 🔗 [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) | - | - | ⭐ 4 | 🟢 december|
 | 🔗 [kanjiconv](https://github.com/sea-turt1e/kanjiconv) | 📥 120 | 📦 11k | ⭐ 16 | 🟢 october|
+| 🔗 [kanjize](https://github.com/nagataaaas/kanjize) | 📥 6k | 📦 1M | ⭐ 68 | 🟡 june|
 
 
 ### Preprocessor
@@ -396,6 +408,8 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - Japanese Vicuna QA Benchmark
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
  * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - pretrained doc2vec models on Japanese Wikipedia
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - A repository of Japanese Phoneme-Level BERT
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -432,6 +446,8 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
 | 🔗 [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) | - | - | ⭐ 33 | 🔴 june 2024|
 | 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 23 | 🟡 september|
 | 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 24 | 🟢 october|
+| 🔗 [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) | - | - | ⭐ 25 | 🔴 january 2019|
+| 🔗 [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) | - | - | ⭐ 22 | 🔴 december 2023|
 
 
 ### Others
@@ -613,6 +629,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.
  * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
  * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.
+ * [Japanera](https://github.com/nagataaaas/Japanera) - Easy Tools for Japanese Era System
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - Japanese Sentence Summarization with BERT
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -793,6 +812,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) | - | - | ⭐ 10 | 🟡 august|
 | 🔗 [kanjivg-radical](https://github.com/yagays/kanjivg-radical) | - | - | ⭐ 104 | 🔴 august 2018|
 | 🔗 [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) | - | - | ⭐ 3 | 🔴 november 2022|
+| 🔗 [piper-plus](https://github.com/ayutaz/piper-plus) | - | - | ⭐ 22 | 🟢 last saturday|
+| 🔗 [Japanera](https://github.com/nagataaaas/Japanera) | 📥 1k | 📦 328k | ⭐ 34 | 🟡 june|
+| 🔗 [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) | - | - | ⭐ 49 | 🔴 december 2019|
 
 
 ## C++
@@ -993,6 +1015,7 @@ Libraries for converting Japanese scripts and readings
  * [romaji-conv](https://github.com/koozaki/romaji-conv) - Convert romaji into hiragana
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国の住所データAPI
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - テキストの単語を絵文字に変換する
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1010,6 +1033,7 @@ Libraries for converting Japanese scripts and readings
 | 🔗 [romaji-conv](https://github.com/koozaki/romaji-conv) | - | - | ⭐ 26 | 🟢 december|
 | 🔗 [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) | - | - | ⭐ 65 | 🟡 january|
 | 🔗 [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) | - | - | ⭐ 2 | 🟢 november|
+| 🔗 [japanese.js](https://github.com/hakatashi/japanese.js) | - | - | ⭐ 167 | 🔴 august 2020|
 
 
 ### Others
@@ -1384,6 +1408,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - JapaneseArabic Dictionary (日本語・アラビア語辞書) قاموس اللغة اليابانية والعربية (Yomitan)
  * [o-dic](https://github.com/makotoga/o-dic) - 沖縄辞書
  * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - A personal name dictionary for Mozc.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1460,6 +1485,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 | 🔗 [japanesearabic](https://github.com/a-hamdi/japanesearabic) | - | - | ⭐ 16 | 🟡 may|
 | 🔗 [o-dic](https://github.com/makotoga/o-dic) | - | - | ⭐ 5 | 🟡 march|
 | 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 140 | 🟡 january|
+| 🔗 [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) | - | - | ⭐ 24 | 🟢 december|
 
 
 ## Corpus
@@ -1475,6 +1501,7 @@ Corpora annotated with part-of-speech tags and named entities
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - Kyoto University Web Document Leads Corpus
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - Annotated Fuman Kaitori Center Corpus
  * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - Long-unit-word version of UD_Japanese-GSD
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1488,6 +1515,7 @@ Corpora annotated with part-of-speech tags and named entities
 | 🔗 [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) | - | - | ⭐ 18 | 🔴 december 2023|
 | 🔗 [anthy](https://github.com/netsphere-labs/anthy) | - | - | ⭐ 14 | 🔴 february 2023|
 | 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 3 | 🟢 november|
+| 🔗 [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) | - | - | ⭐ 25 | 🟢 november|
 
 
 ### Parallel corpus
@@ -1695,6 +1723,10 @@ Corpora for tasks such as question answering or entailment recognition
  * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
  * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
  * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
+ * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - A word frequency list derived from subtitles from Japanese drama, anime and films.
+ * [jconj](https://github.com/yamagoya/jconj) - A table-based Japanese word conjugator
+ * [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) - Extracts personal names in Wikipedia Japanese.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1838,6 +1870,10 @@ Corpora for tasks such as question answering or entailment recognition
 | 🔗 [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) | - | - | ⭐ 255 | 🟢 november|
 | 🔗 [yjcaptions](https://github.com/yahoojapan/yjcaptions) | - | - | ⭐ 61 | 🔴 november 2016|
 | 🔗 [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) | - | - | ⭐ 30 | 🔴 november 2018|
+| 🔗 [lawhub](https://github.com/lwhb/lawhub) | - | - | ⭐ 151 | 🔴 november 2020|
+| 🔗 [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) | - | - | ⭐ 37 | 🔴 december 2023|
+| 🔗 [jconj](https://github.com/yamagoya/jconj) | - | - | ⭐ 35 | 🔴 may 2020|
+| 🔗 [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) | - | - | ⭐ 21 | 🔴 december 2022|
 
 
 ## Tutorial

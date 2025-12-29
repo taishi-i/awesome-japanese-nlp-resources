@@ -8,7 +8,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [762件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [771件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [392 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -18,17 +18,26 @@
 ## 🎉 The latest additions
 
 **Corpus**
- * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
- * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJキャプション26kデータセット
- * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - 日本のビジュアルジェノムVQAデータセット
+ * [lawhub](https://github.com/lwhb/lawhub) - テキスト形式で日本の法律を追跡するリポジトリ
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - 日本のドラマ、アニメ、映画の字幕から派生した単語の頻度リスト。
+ * [jconj](https://github.com/yamagoya/jconj) - テーブルベースの日本語単語活用プログラム
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - このUniversal Dependencies（UD）日本語ツリーバンクは、UDドキュメントに記載されているUD日本語規約の定義に基づいています。
 
 **Python**
- * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - このリポジトリには、VILAリポジトリから変更されたllm-jp/llm-jp-3-vila-14bのトレーニングコードが含まれています。
- * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
-漢字VGラジカル
- * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - このプロジェクトは、Djangoで構築されたWebアプリケーションを使用して日本語ワードネットを可視化します。
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - 日本語サポート、WebAssembly、マルチGPUトレーニング、品質向上を備えた強化されたパイパーTTS。
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): 漢字数字と整数の簡単な変換ツール
+ * [Japanera](https://github.com/nagataaaas/Japanera) - 日本の元号システムのための簡単なツール
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - BERTを使用した日本語文章要約
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - 日本語のWikipediaに事前学習されたdoc2vecモデル
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - 日本語音素レベルBERTのリポジトリ
 
-_Updated on Dec 26, 2025_
+**JavaScript**
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - 日本語テキスト処理のためのUtilコレクション。ひらがな化、カタカナ化、ローマ字化。
+
+**Dictionary and IME**
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - Mozc用の個人名辞書
+
+_Updated on Dec 30, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -180,6 +189,7 @@ _Updated on Dec 26, 2025_
  * [alkana.py](https://github.com/zomysan/alkana.py) - アルファベット文字列のカタカナ読みを取得するツール。
  * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 英語文字列をカタカナに変換するプログラム
  * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - 漢字変換器へひらがな、カタカナ、ローマ字。
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): 漢字数字と整数の簡単な変換ツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -201,6 +211,7 @@ _Updated on Dec 26, 2025_
 |[alkana.py](https://github.com/zomysan/alkana.py)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zomysan/alkana.py?style=social)|
 |[englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/actlaboratory/englishtokanaconverter?style=social)|
 |[kanjiconv](https://github.com/sea-turt1e/kanjiconv)|[![Downloads](https://pepy.tech/badge/kanjiconv/week)](https://pepy.tech/project/kanjiconv)|[![Downloads](https://pepy.tech/badge/kanjiconv)](https://pepy.tech/project/kanjiconv)|![GitHub Repo stars](https://img.shields.io/github/stars/sea-turt1e/kanjiconv?style=social)|
+|[kanjize](https://github.com/nagataaaas/kanjize)|[![Downloads](https://pepy.tech/badge/kanjize/week)](https://pepy.tech/project/kanjize)|[![Downloads](https://pepy.tech/badge/kanjize)](https://pepy.tech/project/kanjize)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/kanjize?style=social)|
 
 
 ### Preprocessor
@@ -396,6 +407,8 @@ _Updated on Dec 26, 2025_
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - 日本のビクーニャQAベンチマーク
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
  * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - 日本語のWikipediaに事前学習されたdoc2vecモデル
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - 日本語音素レベルBERTのリポジトリ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -432,6 +445,8 @@ _Updated on Dec 26, 2025_
 |[ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/ja-vicuna-qa-benchmark?style=social)|
 |[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 |[swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation-instruct?style=social)|
+|[pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/pretrained_doc2vec_ja?style=social)|
+|[pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kyamauchi1023/pl-bert-ja?style=social)|
 
 
 ### Others
@@ -613,6 +628,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - このリポジトリには、VILAリポジトリから変更されたllm-jp/llm-jp-3-vila-14bのトレーニングコードが含まれています。
  * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical漢字VGラジカル
  * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - このプロジェクトは、Djangoで構築されたWebアプリケーションを使用して日本語ワードネットを可視化します。
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - 日本語サポート、WebAssembly、マルチGPUトレーニング、品質向上を備えた強化されたパイパーTTS。
+ * [Japanera](https://github.com/nagataaaas/Japanera) - 日本の元号システムのための簡単なツール
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - BERTを使用した日本語文章要約
 
 
 |Name|downloads/week|total downloads|stars|
@@ -793,6 +811,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[llm-jp-vila](https://github.com/llm-jp/llm-jp-vila)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-vila?style=social)|
 |[kanjivg-radical](https://github.com/yagays/kanjivg-radical)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/kanjivg-radical?style=social)|
 |[japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HemingwayLee/japanese-wordnet-visualization?style=social)|
+|[piper-plus](https://github.com/ayutaz/piper-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ayutaz/piper-plus?style=social)|
+|[Japanera](https://github.com/nagataaaas/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera/week)](https://pepy.tech/project/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera)](https://pepy.tech/project/Japanera)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Japanera?style=social)|
+|[bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iwasakiyuuki/bert-abstractive-text-summarization?style=social)|
 
 
 ## C++
@@ -993,6 +1014,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [romaji-conv](https://github.com/koozaki/romaji-conv) - ローマ字をひらがなに変換する
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国の住所データAPI
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - テキストの単語を絵文字に変換する
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - 日本語テキスト処理のためのUtilコレクション。ひらがな化、カタカナ化、ローマ字化。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1010,6 +1032,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[romaji-conv](https://github.com/koozaki/romaji-conv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koozaki/romaji-conv?style=social)|
 |[japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses-v2?style=social)|
 |[jptext-to-emoji](https://github.com/elzup/jptext-to-emoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elzup/jptext-to-emoji?style=social)|
+|[japanese.js](https://github.com/hakatashi/japanese.js)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hakatashi/japanese.js?style=social)|
 
 
 ### Others
@@ -1384,6 +1407,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日本語アラビア語辞書（ヨミタン）
  * [o-dic](https://github.com/makotoga/o-dic) - 沖縄辞書
  * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - Mozc用の個人名辞書
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1460,6 +1484,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[japanesearabic](https://github.com/a-hamdi/japanesearabic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/a-hamdi/japanesearabic?style=social)|
 |[o-dic](https://github.com/makotoga/o-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makotoga/o-dic?style=social)|
 |[skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uasi/skk-emoji-jisyo?style=social)|
+|[mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-personal-names?style=social)|
 
 
 ## Corpus
@@ -1475,6 +1500,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大学ウェブドキュメントリードコーパス
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 注釈付きの普門買取センターのコーパス
  * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSDの長単位語バージョン
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - このUniversal Dependencies（UD）日本語ツリーバンクは、UDドキュメントに記載されているUD日本語規約の定義に基づいています。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1488,6 +1514,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/AnnotatedFKCCorpus?style=social)|
 |[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 |[UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/UniversalDependencies/UD_Japanese-GSDLUW?style=social)|
+|[ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/universaldependencies/ud_japanese-bccwj?style=social)|
 
 
 ### Parallel corpus
@@ -1695,6 +1722,10 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
  * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJキャプション26kデータセット
  * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - 日本のビジュアルジェノムVQAデータセット
+ * [lawhub](https://github.com/lwhb/lawhub) - テキスト形式で日本の法律を追跡するリポジトリ
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - 日本のドラマ、アニメ、映画の字幕から派生した単語の頻度リスト。
+ * [jconj](https://github.com/yamagoya/jconj) - テーブルベースの日本語単語活用プログラム
+ * [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) - Wikipedia日本語から個人名を抽出します。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1838,6 +1869,10 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[lawqa_jp](https://github.com/digital-go-jp/lawqa_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/lawqa_jp?style=social)|
 |[yjcaptions](https://github.com/yahoojapan/yjcaptions)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/yjcaptions?style=social)|
 |[ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/ja-vg-vqa?style=social)|
+|[lawhub](https://github.com/lwhb/lawhub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lwhb/lawhub?style=social)|
+|[japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/chriskempson/japanese-subtitles-word-kanji-frequency-lists?style=social)|
+|[jconj](https://github.com/yamagoya/jconj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamagoya/jconj?style=social)|
+|[extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-manabe/extract_jawp_names?style=social)|
 
 
 ## Tutorial

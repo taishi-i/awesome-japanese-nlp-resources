@@ -8,7 +8,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [762 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [771 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [392 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
@@ -19,16 +19,26 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Corpus**
- * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
- * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
- * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
+ * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - A word frequency list derived from subtitles from Japanese drama, anime and films.
+ * [jconj](https://github.com/yamagoya/jconj) - A table-based Japanese word conjugator
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation.
 
 **Python**
- * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.
- * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
- * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): Easy converter between Kanji-Number and Integer
+ * [Japanera](https://github.com/nagataaaas/Japanera) - Easy Tools for Japanese Era System
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - Japanese Sentence Summarization with BERT
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - pretrained doc2vec models on Japanese Wikipedia
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - A repository of Japanese Phoneme-Level BERT
 
-_Updated on Dec 26, 2025_
+**JavaScript**
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
+
+**Dictionary and IME**
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - A personal name dictionary for Mozc.
+
+_Updated on Dec 30, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

@@ -554,6 +554,18 @@
                     "zh-hant": "漢字轉換器到平假名、片假名、羅馬字母。"
                 }
             },
+            "https://github.com/nagataaaas/kanjize": {
+                "sub_category": "Converter",
+                "repository_name": "kanjize",
+                "user_name": "nagataaaas",
+                "description": "Kanjize(カンジャイズ): Easy converter between Kanji-Number and Integer",
+                "multilingual_descriptions": {
+                    "en": "Kanjize(カンジャイズ): Easy converter between Kanji-Number and Integer",
+                    "ja": "Kanjize(カンジャイズ): 漢字数字と整数の簡単な変換ツール",
+                    "zh-hans": "Kanjize(カンジャイズ): 汉字数字和整数之间的简易转换器",
+                    "zh-hant": "Kanjize(カンジャイズ): 簡單的漢字數字和整數轉換器"
+                }
+            },
             "https://github.com/ikegami-yukino/neologdn": {
                 "sub_category": "Preprocessor",
                 "repository_name": "neologdn",
@@ -1548,6 +1560,30 @@
                     "ja": "Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク",
                     "zh-hans": "燕子项目 后续学习完成的大规模语言模型 评估框架",
                     "zh-hant": "燕子項目 事後學習完成的大規模語言模型 評估框架"
+                }
+            },
+            "https://github.com/yagays/pretrained_doc2vec_ja": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "pretrained_doc2vec_ja",
+                "user_name": "yagays",
+                "description": "pretrained doc2vec models on Japanese Wikipedia",
+                "multilingual_descriptions": {
+                    "en": "pretrained doc2vec models on Japanese Wikipedia",
+                    "ja": "日本語のWikipediaに事前学習されたdoc2vecモデル",
+                    "zh-hans": "预训练的doc2vec模型在日语维基百科上",
+                    "zh-hant": "預先訓練在日本維基百科上的doc2vec模型"
+                }
+            },
+            "https://github.com/kyamauchi1023/pl-bert-ja": {
+                "sub_category": "Tool for pretrained models",
+                "repository_name": "pl-bert-ja",
+                "user_name": "kyamauchi1023",
+                "description": "A repository of Japanese Phoneme-Level BERT",
+                "multilingual_descriptions": {
+                    "en": "A repository of Japanese Phoneme-Level BERT",
+                    "ja": "日本語音素レベルBERTのリポジトリ",
+                    "zh-hans": "一个日语音素级别的BERT存储库",
+                    "zh-hant": "日語音素級別BERT的存儲庫"
                 }
             },
             "https://github.com/rskmoi/namedivider-python": {
@@ -3625,6 +3661,42 @@
                     "zh-hans": "这个项目使用Django构建的Web应用程序可视化日本语Wordnet（日本語ワードネット）。",
                     "zh-hant": "這個項目使用Django建立的Web應用程式來視覺化日本語ワードネット。"
                 }
+            },
+            "https://github.com/ayutaz/piper-plus": {
+                "sub_category": null,
+                "repository_name": "piper-plus",
+                "user_name": "ayutaz",
+                "description": "Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.",
+                "multilingual_descriptions": {
+                    "en": "Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.",
+                    "ja": "日本語サポート、WebAssembly、マルチGPUトレーニング、品質向上を備えた強化されたパイパーTTS。",
+                    "zh-hans": "增强版的Piper TTS支持日语，WebAssembly，多GPU训练和质量改进。",
+                    "zh-hant": "增強版的Piper TTS支援日語、WebAssembly、多GPU訓練和品質改進。"
+                }
+            },
+            "https://github.com/nagataaaas/Japanera": {
+                "sub_category": null,
+                "repository_name": "Japanera",
+                "user_name": "nagataaaas",
+                "description": "Easy Tools for Japanese Era System",
+                "multilingual_descriptions": {
+                    "en": "Easy Tools for Japanese Era System",
+                    "ja": "日本の元号システムのための簡単なツール",
+                    "zh-hans": "日本年号系统的简易工具",
+                    "zh-hant": "日本年代系統的簡易工具"
+                }
+            },
+            "https://github.com/iwasakiyuuki/bert-abstractive-text-summarization": {
+                "sub_category": null,
+                "repository_name": "bert-abstractive-text-summarization",
+                "user_name": "iwasakiyuuki",
+                "description": "Japanese Sentence Summarization with BERT",
+                "multilingual_descriptions": {
+                    "en": "Japanese Sentence Summarization with BERT",
+                    "ja": "BERTを使用した日本語文章要約",
+                    "zh-hans": "使用BERT进行日语句子总结",
+                    "zh-hant": "使用BERT进行日语句子摘要"
+                }
             }
         },
         "C++": {
@@ -4422,6 +4494,18 @@
                     "ja": "テキストの単語を絵文字に変換する",
                     "zh-hans": "将文本单词转换为表情符号",
                     "zh-hant": "將文字單詞轉換為表情符號"
+                }
+            },
+            "https://github.com/hakatashi/japanese.js": {
+                "sub_category": "Converter",
+                "repository_name": "japanese.js",
+                "user_name": "hakatashi",
+                "description": "Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.",
+                "multilingual_descriptions": {
+                    "en": "Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.",
+                    "ja": "日本語テキスト処理のためのUtilコレクション。ひらがな化、カタカナ化、ローマ字化。",
+                    "zh-hans": "用于日文文本处理的Util集合。进行平假名化、片假名化和罗马化处理。",
+                    "zh-hant": "用於日文文本處理的Util集合。將平假名化、片假名化和羅馬化。"
                 }
             },
             "https://github.com/bangumi-data/bangumi-data": {
@@ -6605,6 +6689,18 @@
                     "zh-hans": "SKK表情符号词典",
                     "zh-hant": "SKK 繪文字辭書"
                 }
+            },
+            "https://github.com/utuhiro78/mozcdic-ut-personal-names": {
+                "sub_category": null,
+                "repository_name": "mozcdic-ut-personal-names",
+                "user_name": "utuhiro78",
+                "description": "A personal name dictionary for Mozc.",
+                "multilingual_descriptions": {
+                    "en": "A personal name dictionary for Mozc.",
+                    "ja": "Mozc用の個人名辞書",
+                    "zh-hans": "一个适用于Mozc的个人姓名字典。",
+                    "zh-hant": "Mozc的個人姓名字典"
+                }
             }
         },
         "Corpus": {
@@ -6702,6 +6798,18 @@
                     "ja": "UD_Japanese-GSDの長単位語バージョン",
                     "zh-hans": "UD_Japanese-GSD的长单元词版本",
                     "zh-hant": "UD_Japanese-GSD的長單位詞版本"
+                }
+            },
+            "https://github.com/universaldependencies/ud_japanese-bccwj": {
+                "sub_category": "Part-of-speech tagging / Named entity recognition",
+                "repository_name": "ud_japanese-bccwj",
+                "user_name": "universaldependencies",
+                "description": "This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation.",
+                "multilingual_descriptions": {
+                    "en": "This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation.",
+                    "ja": "このUniversal Dependencies（UD）日本語ツリーバンクは、UDドキュメントに記載されているUD日本語規約の定義に基づいています。",
+                    "zh-hans": "这个Universal Dependencies (UD)日语树库是基于UD文档中描述的UD日语规范的定义。",
+                    "zh-hant": "這個通用依存關係（UD）日語樹庫是基於UD文檔中描述的UD日語慣例定義。"
                 }
             },
             "https://github.com/odashi/small_parallel_enja": {
@@ -8634,6 +8742,54 @@
                     "ja": "日本のビジュアルジェノムVQAデータセット",
                     "zh-hans": "日本视觉基因问答数据集",
                     "zh-hant": "日本視覺基因組VQA數據集"
+                }
+            },
+            "https://github.com/lwhb/lawhub": {
+                "sub_category": null,
+                "repository_name": "lawhub",
+                "user_name": "lwhb",
+                "description": "Repository to track Japanese Law in text format",
+                "multilingual_descriptions": {
+                    "en": "Repository to track Japanese Law in text format",
+                    "ja": "テキスト形式で日本の法律を追跡するリポジトリ",
+                    "zh-hans": "用文本格式跟踪日本法律的存储库",
+                    "zh-hant": "用文本格式跟踪日本法律的存储库"
+                }
+            },
+            "https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists": {
+                "sub_category": null,
+                "repository_name": "japanese-subtitles-word-kanji-frequency-lists",
+                "user_name": "chriskempson",
+                "description": "A word frequency list derived from subtitles from Japanese drama, anime and films.",
+                "multilingual_descriptions": {
+                    "en": "A word frequency list derived from subtitles from Japanese drama, anime and films.",
+                    "ja": "日本のドラマ、アニメ、映画の字幕から派生した単語の頻度リスト。",
+                    "zh-hans": "从日本戏剧、动漫和电影字幕中提取的词频列表。",
+                    "zh-hant": "從日本戲劇、動畫和電影字幕中提取的詞頻列表"
+                }
+            },
+            "https://github.com/yamagoya/jconj": {
+                "sub_category": null,
+                "repository_name": "jconj",
+                "user_name": "yamagoya",
+                "description": "A table-based Japanese word conjugator",
+                "multilingual_descriptions": {
+                    "en": "A table-based Japanese word conjugator",
+                    "ja": "テーブルベースの日本語単語活用プログラム",
+                    "zh-hans": "一个基于表格的日语词汇变位器",
+                    "zh-hant": "一個基於表格的日文詞彙變化器"
+                }
+            },
+            "https://github.com/hiroshi-manabe/extract_jawp_names": {
+                "sub_category": null,
+                "repository_name": "extract_jawp_names",
+                "user_name": "hiroshi-manabe",
+                "description": "Extracts personal names in Wikipedia Japanese.",
+                "multilingual_descriptions": {
+                    "en": "Extracts personal names in Wikipedia Japanese.",
+                    "ja": "Wikipedia日本語から個人名を抽出します。",
+                    "zh-hans": "提取维基百科日语中的个人姓名。",
+                    "zh-hant": "從維基百科日文中提取個人姓名。"
                 }
             }
         },

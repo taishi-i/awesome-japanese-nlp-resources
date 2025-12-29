@@ -8,7 +8,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了762個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了771個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
 - [列出了392個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 - [發布了一個搜索大量倉庫資訊的工具🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
@@ -18,16 +18,26 @@
 ## 🎉 The latest additions
 
 **Corpus**
- * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本的法令多項選擇問答數據集
- * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ字幕26k數據集
- * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - 日本視覺基因組VQA數據集
+ * [lawhub](https://github.com/lwhb/lawhub) - 用文本格式跟踪日本法律的存储库
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - 從日本戲劇、動畫和電影字幕中提取的詞頻列表
+ * [jconj](https://github.com/yamagoya/jconj) - 一個基於表格的日文詞彙變化器
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - 這個通用依存關係（UD）日語樹庫是基於UD文檔中描述的UD日語慣例定義。
 
 **Python**
- * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - 這個存儲庫包含了用於訓練llm-jp/llm-jp-3-vila-14b的代碼，該代碼是從VILA存儲庫修改而來的。
- * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - 漢字VG-部首
- * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - 這個項目使用Django建立的Web應用程式來視覺化日本語ワードネット。
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - 增強版的Piper TTS支援日語、WebAssembly、多GPU訓練和品質改進。
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): 簡單的漢字數字和整數轉換器
+ * [Japanera](https://github.com/nagataaaas/Japanera) - 日本年代系統的簡易工具
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - 使用BERT进行日语句子摘要
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - 預先訓練在日本維基百科上的doc2vec模型
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - 日語音素級別BERT的存儲庫
 
-_Updated on Dec 26, 2025_
+**JavaScript**
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - 用於日文文本處理的Util集合。將平假名化、片假名化和羅馬化。
+
+**Dictionary and IME**
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - Mozc的個人姓名字典
+
+_Updated on Dec 30, 2025_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -179,6 +189,7 @@ _Updated on Dec 26, 2025_
  * [alkana.py](https://github.com/zomysan/alkana.py) - 一個可以獲取字母串的片假名讀音的工具。
  * [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) - 將英文文字轉換為片假名的程式
  * [kanjiconv](https://github.com/sea-turt1e/kanjiconv) - 漢字轉換器到平假名、片假名、羅馬字母。
+ * [kanjize](https://github.com/nagataaaas/kanjize) - Kanjize(カンジャイズ): 簡單的漢字數字和整數轉換器
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -200,6 +211,7 @@ _Updated on Dec 26, 2025_
 | 🔗 [alkana.py](https://github.com/zomysan/alkana.py) | - | - | ⭐ 33 | 🔴 october 2021|
 | 🔗 [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) | - | - | ⭐ 4 | 🟢 december|
 | 🔗 [kanjiconv](https://github.com/sea-turt1e/kanjiconv) | 📥 120 | 📦 11k | ⭐ 16 | 🟢 october|
+| 🔗 [kanjize](https://github.com/nagataaaas/kanjize) | 📥 6k | 📦 1M | ⭐ 68 | 🟡 june|
 
 
 ### Preprocessor
@@ -395,6 +407,8 @@ _Updated on Dec 26, 2025_
  * [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) - 日本維卡尼亞QA基準
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - 燕子項目 大規模語言模型 評估腳本
  * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - 燕子項目 事後學習完成的大規模語言模型 評估框架
+ * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - 預先訓練在日本維基百科上的doc2vec模型
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - 日語音素級別BERT的存儲庫
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -431,6 +445,8 @@ _Updated on Dec 26, 2025_
 | 🔗 [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) | - | - | ⭐ 33 | 🔴 june 2024|
 | 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 23 | 🟡 september|
 | 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 24 | 🟢 october|
+| 🔗 [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) | - | - | ⭐ 25 | 🔴 january 2019|
+| 🔗 [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) | - | - | ⭐ 22 | 🔴 december 2023|
 
 
 ### Others
@@ -612,6 +628,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - 這個存儲庫包含了用於訓練llm-jp/llm-jp-3-vila-14b的代碼，該代碼是從VILA存儲庫修改而來的。
  * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - 漢字VG-部首
  * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - 這個項目使用Django建立的Web應用程式來視覺化日本語ワードネット。
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - 增強版的Piper TTS支援日語、WebAssembly、多GPU訓練和品質改進。
+ * [Japanera](https://github.com/nagataaaas/Japanera) - 日本年代系統的簡易工具
+ * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - 使用BERT进行日语句子摘要
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -792,6 +811,9 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) | - | - | ⭐ 10 | 🟡 august|
 | 🔗 [kanjivg-radical](https://github.com/yagays/kanjivg-radical) | - | - | ⭐ 104 | 🔴 august 2018|
 | 🔗 [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) | - | - | ⭐ 3 | 🔴 november 2022|
+| 🔗 [piper-plus](https://github.com/ayutaz/piper-plus) | - | - | ⭐ 22 | 🟢 last saturday|
+| 🔗 [Japanera](https://github.com/nagataaaas/Japanera) | 📥 1k | 📦 328k | ⭐ 34 | 🟡 june|
+| 🔗 [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) | - | - | ⭐ 49 | 🔴 december 2019|
 
 
 ## C++
@@ -992,6 +1014,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [romaji-conv](https://github.com/koozaki/romaji-conv) - 將羅馬字轉換為平假名
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全國的地址數據API
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - 將文字單詞轉換為表情符號
+ * [japanese.js](https://github.com/hakatashi/japanese.js) - 用於日文文本處理的Util集合。將平假名化、片假名化和羅馬化。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1009,6 +1032,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [romaji-conv](https://github.com/koozaki/romaji-conv) | - | - | ⭐ 26 | 🟢 december|
 | 🔗 [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) | - | - | ⭐ 65 | 🟡 january|
 | 🔗 [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) | - | - | ⭐ 2 | 🟢 november|
+| 🔗 [japanese.js](https://github.com/hakatashi/japanese.js) | - | - | ⭐ 167 | 🔴 august 2020|
 
 
 ### Others
@@ -1383,6 +1407,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日本語・アラビア語辞書 (Yomitan) قاموس اللغة اليابانية والعربية
  * [o-dic](https://github.com/makotoga/o-dic) - 沖繩辭書
  * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 繪文字辭書
+ * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - Mozc的個人姓名字典
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1459,6 +1484,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [japanesearabic](https://github.com/a-hamdi/japanesearabic) | - | - | ⭐ 16 | 🟡 may|
 | 🔗 [o-dic](https://github.com/makotoga/o-dic) | - | - | ⭐ 5 | 🟡 march|
 | 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 140 | 🟡 january|
+| 🔗 [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) | - | - | ⭐ 24 | 🟢 december|
 
 
 ## Corpus
@@ -1474,6 +1500,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [KWDLC](https://github.com/ku-nlp/KWDLC) - 京都大學網頁文件引導語料庫
  * [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) - 註釋版的富滿開取中心語料庫
  * [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) - UD_Japanese-GSD的長單位詞版本
+ * [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) - 這個通用依存關係（UD）日語樹庫是基於UD文檔中描述的UD日語慣例定義。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1487,6 +1514,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) | - | - | ⭐ 18 | 🔴 december 2023|
 | 🔗 [anthy](https://github.com/netsphere-labs/anthy) | - | - | ⭐ 14 | 🔴 february 2023|
 | 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 3 | 🟢 november|
+| 🔗 [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) | - | - | ⭐ 25 | 🟢 november|
 
 
 ### Parallel corpus
@@ -1694,6 +1722,10 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本的法令多項選擇問答數據集
  * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ字幕26k數據集
  * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - 日本視覺基因組VQA數據集
+ * [lawhub](https://github.com/lwhb/lawhub) - 用文本格式跟踪日本法律的存储库
+ * [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) - 從日本戲劇、動畫和電影字幕中提取的詞頻列表
+ * [jconj](https://github.com/yamagoya/jconj) - 一個基於表格的日文詞彙變化器
+ * [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) - 從維基百科日文中提取個人姓名。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1837,6 +1869,10 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 | 🔗 [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) | - | - | ⭐ 255 | 🟢 november|
 | 🔗 [yjcaptions](https://github.com/yahoojapan/yjcaptions) | - | - | ⭐ 61 | 🔴 november 2016|
 | 🔗 [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) | - | - | ⭐ 30 | 🔴 november 2018|
+| 🔗 [lawhub](https://github.com/lwhb/lawhub) | - | - | ⭐ 151 | 🔴 november 2020|
+| 🔗 [japanese-subtitles-word-kanji-frequency-lists](https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists) | - | - | ⭐ 37 | 🔴 december 2023|
+| 🔗 [jconj](https://github.com/yamagoya/jconj) | - | - | ⭐ 35 | 🔴 may 2020|
+| 🔗 [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) | - | - | ⭐ 21 | 🔴 december 2022|
 
 
 ## Tutorial
