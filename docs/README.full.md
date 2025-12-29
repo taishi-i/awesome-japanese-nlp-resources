@@ -613,6 +613,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) - This repository contains the code for training llm-jp/llm-jp-3-vila-14b, modified from VILA repository.
  * [kanjivg-radical](https://github.com/yagays/kanjivg-radical) - kanjivg-radical
  * [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) - This project visualizes the Japanese Wordnet (日本語ワードネット) with web application built by Django
+ * [piper-plus](https://github.com/ayutaz/piper-plus) - Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -793,6 +794,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[llm-jp-vila](https://github.com/llm-jp/llm-jp-vila)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-vila?style=social)|
 |[kanjivg-radical](https://github.com/yagays/kanjivg-radical)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/kanjivg-radical?style=social)|
 |[japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HemingwayLee/japanese-wordnet-visualization?style=social)|
+|[piper-plus](https://github.com/ayutaz/piper-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ayutaz/piper-plus?style=social)|
 
 
 ## C++
