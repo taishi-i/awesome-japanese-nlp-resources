@@ -399,6 +399,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
  * [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) - Swallowプロジェクト 大規模言語モデル 評価スクリプト
  * [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) - Swallowプロジェクト 事後学習ずみ大規模言語モデル 評価フレームワーク
  * [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) - pretrained doc2vec models on Japanese Wikipedia
+ * [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) - A repository of Japanese Phoneme-Level BERT
 
 
 |Name|downloads/week|total downloads|stars|
@@ -436,6 +437,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
 |[swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation?style=social)|
 |[swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/swallow-llm/swallow-evaluation-instruct?style=social)|
 |[pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/pretrained_doc2vec_ja?style=social)|
+|[pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kyamauchi1023/pl-bert-ja?style=social)|
 
 
 ### Others
