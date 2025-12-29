@@ -1709,6 +1709,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) - 日本の法令に関する多肢選択式QAデータセット
  * [yjcaptions](https://github.com/yahoojapan/yjcaptions) - YJ Captions 26k Dataset
  * [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) - Japanese Visual Genome VQA dataset
+ * [lawhub](https://github.com/lwhb/lawhub) - Repository to track Japanese Law in text format
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1852,6 +1853,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[lawqa_jp](https://github.com/digital-go-jp/lawqa_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/digital-go-jp/lawqa_jp?style=social)|
 |[yjcaptions](https://github.com/yahoojapan/yjcaptions)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/yjcaptions?style=social)|
 |[ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yahoojapan/ja-vg-vqa?style=social)|
+|[lawhub](https://github.com/lwhb/lawhub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lwhb/lawhub?style=social)|
 
 
 ## Tutorial
