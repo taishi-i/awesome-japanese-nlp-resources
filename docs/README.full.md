@@ -645,6 +645,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [yat](https://github.com/yagays/yat) - yat: Yet Another Tokenizer for Japanese NLP
  * [igakuqa119](https://github.com/docto-rin/igakuqa119) - Evaluating LLMs on the 119th Japanese Medical Licensing Examination
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers
+ * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig: Japanese-language Input-method using GPT-4
 
 
 |Name|downloads/week|total downloads|stars|
@@ -839,6 +840,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[yat](https://github.com/yagays/yat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/yat?style=social)|
 |[igakuqa119](https://github.com/docto-rin/igakuqa119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/docto-rin/igakuqa119?style=social)|
 |[japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koichiyasuoka/japanese-luw-tokenizer?style=social)|
+|[ibus-jig](https://github.com/y-koj/ibus-jig)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/y-koj/ibus-jig?style=social)|
 
 
 ## C++
