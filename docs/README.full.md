@@ -1413,6 +1413,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) - A personal name dictionary for Mozc.
  * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - A dictionary converted from SudachiDict for Mozc.
  * [nihongo](https://github.com/sph-mn/nihongo) - japanese language data and dictionary
+ * [kagome-dict](https://github.com/ikawaha/kagome-dict) - Dictionary Library for Kagome v2
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1492,6 +1493,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-personal-names?style=social)|
 |[mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-sudachidict?style=social)|
 |[nihongo](https://github.com/sph-mn/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sph-mn/nihongo?style=social)|
+|[kagome-dict](https://github.com/ikawaha/kagome-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome-dict?style=social)|
 
 
 ## Corpus
