@@ -981,6 +981,7 @@ Supplementary crates for Japanese text and IME processing
  * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
  * [koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
  * [yomine](https://github.com/mcgrizzz/yomine) - A Japanese vocabulary mining tool designed to help language learners mine new words and expressions.
+ * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - lightweight japanese ime written in rust
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1004,6 +1005,7 @@ Supplementary crates for Japanese text and IME processing
 |[kanalizer](https://github.com/voicevox/kanalizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/voicevox/kanalizer?style=social)|
 |[koharu](https://github.com/mayocream/koharu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayocream/koharu?style=social)|
 |[yomine](https://github.com/mcgrizzz/yomine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mcgrizzz/yomine?style=social)|
+|[matsuba](https://github.com/mrpicklepinosaur/matsuba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mrpicklepinosaur/matsuba?style=social)|
 
 
 ## JavaScript
