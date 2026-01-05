@@ -1737,6 +1737,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) - Extracts personal names in Wikipedia Japanese.
  * [cejc_yomichan_freq_dict](https://github.com/forsakeninfinity/cejc_yomichan_freq_dict) - Frequency dictionary for yomichan based on the Corpus of Everyday Japanese Conversation dataset
  * [wikidict-ja](https://github.com/open-dict-data/wikidict-ja) - Wikipedia Bilingual Reference Data (Japanese)
+ * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1886,6 +1887,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hiroshi-manabe/extract_jawp_names?style=social)|
 |[cejc_yomichan_freq_dict](https://github.com/forsakeninfinity/cejc_yomichan_freq_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/forsakeninfinity/cejc_yomichan_freq_dict?style=social)|
 |[wikidict-ja](https://github.com/open-dict-data/wikidict-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/open-dict-data/wikidict-ja?style=social)|
+|[ajimee-bench](https://github.com/azookey/ajimee-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azookey/ajimee-bench?style=social)|
 
 
 ## Tutorial
