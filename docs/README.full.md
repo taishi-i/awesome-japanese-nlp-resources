@@ -643,6 +643,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [marine-plus](https://github.com/tsukumijima/marine-plus) - MARINE : Multi-task leaRnIng-based JapaNese accent Estimation (Also supported Windows)
  * [ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark) - Compare the speed of various Japanese tokenizers in Python.
  * [yat](https://github.com/yagays/yat) - yat: Yet Another Tokenizer for Japanese NLP
+ * [igakuqa119](https://github.com/docto-rin/igakuqa119) - Evaluating LLMs on the 119th Japanese Medical Licensing Examination
 
 
 |Name|downloads/week|total downloads|stars|
@@ -835,6 +836,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[marine-plus](https://github.com/tsukumijima/marine-plus)|[![Downloads](https://pepy.tech/badge/marine-plus/week)](https://pepy.tech/project/marine-plus)|[![Downloads](https://pepy.tech/badge/marine-plus)](https://pepy.tech/project/marine-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/marine-plus?style=social)|
 |[ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/polm/ja-tokenizer-benchmark?style=social)|
 |[yat](https://github.com/yagays/yat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/yat?style=social)|
+|[igakuqa119](https://github.com/docto-rin/igakuqa119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/docto-rin/igakuqa119?style=social)|
 
 
 ## C++
