@@ -633,6 +633,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [Japanera](https://github.com/nagataaaas/Japanera) - Easy Tools for Japanese Era System
  * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - Japanese Sentence Summarization with BERT
  * [kyujipy](https://github.com/drturnon/kyujipy) - A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa
+ * [jitenbot](https://github.com/konstantindjairo/jitenbot) - Web crawler for creating personal copies of Japanese dictionaries
 
 
 |Name|downloads/week|total downloads|stars|
@@ -817,6 +818,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[Japanera](https://github.com/nagataaaas/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera/week)](https://pepy.tech/project/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera)](https://pepy.tech/project/Japanera)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Japanera?style=social)|
 |[bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iwasakiyuuki/bert-abstractive-text-summarization?style=social)|
 |[kyujipy](https://github.com/drturnon/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy/week)](https://pepy.tech/project/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy)](https://pepy.tech/project/kyujipy)|![GitHub Repo stars](https://img.shields.io/github/stars/drturnon/kyujipy?style=social)|
+|[jitenbot](https://github.com/konstantindjairo/jitenbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konstantindjairo/jitenbot?style=social)|
 
 
 ## C++
