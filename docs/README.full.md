@@ -640,6 +640,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) - VITS2 using Phoneme-Level Japanese BERT
  * [ndc_predictor](https://github.com/ndl-lab/ndc_predictor) - NDCPredictorの機械学習モデル（書誌情報から日本十進分類を推測するfastTextの学習済みモデル）
  * [pfmt-bench-fin-ja](https://github.com/pfnet-research/pfmt-bench-fin-ja) - pfmt-bench-fin-ja: Preferred Multi-turn Benchmark for Finance in Japanese
+ * [marine-plus](https://github.com/tsukumijima/marine-plus) - MARINE : Multi-task leaRnIng-based JapaNese accent Estimation (Also supported Windows)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -829,6 +830,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tonnetonne814/pl-bert-vits2?style=social)|
 |[ndc_predictor](https://github.com/ndl-lab/ndc_predictor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/ndc_predictor?style=social)|
 |[pfmt-bench-fin-ja](https://github.com/pfnet-research/pfmt-bench-fin-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/pfmt-bench-fin-ja?style=social)|
+|[marine-plus](https://github.com/tsukumijima/marine-plus)|[![Downloads](https://pepy.tech/badge/marine-plus/week)](https://pepy.tech/project/marine-plus)|[![Downloads](https://pepy.tech/badge/marine-plus)](https://pepy.tech/project/marine-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/marine-plus?style=social)|
 
 
 ## C++
