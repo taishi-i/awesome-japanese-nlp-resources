@@ -638,6 +638,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [jitenbot](https://github.com/konstantindjairo/jitenbot) - Web crawler for creating personal copies of Japanese dictionaries
  * [ja-icd10](https://github.com/yagays/ja-icd10) - ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ
  * [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) - VITS2 using Phoneme-Level Japanese BERT
+ * [ndc_predictor](https://github.com/ndl-lab/ndc_predictor) - NDCPredictorの機械学習モデル（書誌情報から日本十進分類を推測するfastTextの学習済みモデル）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -825,6 +826,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[jitenbot](https://github.com/konstantindjairo/jitenbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konstantindjairo/jitenbot?style=social)|
 |[ja-icd10](https://github.com/yagays/ja-icd10)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/ja-icd10?style=social)|
 |[pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tonnetonne814/pl-bert-vits2?style=social)|
+|[ndc_predictor](https://github.com/ndl-lab/ndc_predictor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/ndc_predictor?style=social)|
 
 
 ## C++
