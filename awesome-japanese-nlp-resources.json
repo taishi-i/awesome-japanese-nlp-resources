@@ -1190,6 +1190,18 @@
                     "zh-hant": "一個針對日文文本的輕量級OCR模型，特別適用於漫畫。"
                 }
             },
+            "https://github.com/rtr46/meikiocr": {
+                "sub_category": "OCR",
+                "repository_name": "meikiocr",
+                "user_name": "rtr46",
+                "description": "high-speed, high-accuracy, local ocr for japanese video games",
+                "multilingual_descriptions": {
+                    "en": "high-speed, high-accuracy, local ocr for japanese video games",
+                    "ja": "高速、高精度、日本のビデオゲーム向けのローカルOCR",
+                    "zh-hans": "高速、高精度、本地OCR用于日本电子游戏",
+                    "zh-hant": "高速、高精度、適用於日本視頻遊戲的本地OCR"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
@@ -3697,6 +3709,150 @@
                     "zh-hans": "使用BERT进行日语句子总结",
                     "zh-hant": "使用BERT进行日语句子摘要"
                 }
+            },
+            "https://github.com/drturnon/kyujipy": {
+                "sub_category": null,
+                "repository_name": "kyujipy",
+                "user_name": "drturnon",
+                "description": "A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa",
+                "multilingual_descriptions": {
+                    "en": "A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa",
+                    "ja": "新字体（Shinjitai）から旧字体（Kyujitai）へ、またはその逆に日本語テキストを変換するためのPythonライブラリ",
+                    "zh-hans": "一个Python库，用于将日文文本从新字体（新字体）转换为旧字体（旧字体）以及反之。",
+                    "zh-hant": "一個Python庫，用於將日文文本從新字體轉換為舊字體，反之亦然。"
+                }
+            },
+            "https://github.com/konstantindjairo/jitenbot": {
+                "sub_category": null,
+                "repository_name": "jitenbot",
+                "user_name": "konstantindjairo",
+                "description": "Web crawler for creating personal copies of Japanese dictionaries",
+                "multilingual_descriptions": {
+                    "en": "Web crawler for creating personal copies of Japanese dictionaries",
+                    "ja": "日本語辞書の個人用コピーを作成するためのWebクローラー",
+                    "zh-hans": "用于创建个人副本的网络爬虫日语词典",
+                    "zh-hant": "用於創建個人副本的網絡爬蟲日本字典"
+                }
+            },
+            "https://github.com/yagays/ja-icd10": {
+                "sub_category": null,
+                "repository_name": "ja-icd10",
+                "user_name": "yagays",
+                "description": "ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ",
+                "multilingual_descriptions": {
+                    "en": "Python package for handling Japanese information of ICD-10 international disease classification",
+                    "ja": "ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ",
+                    "zh-hans": "用于处理ICD-10国际疾病分类的日语信息的Python软件包",
+                    "zh-hant": "ICD-10 國際疾病分類的日本語資訊處理的Python套件"
+                }
+            },
+            "https://github.com/tonnetonne814/pl-bert-vits2": {
+                "sub_category": null,
+                "repository_name": "pl-bert-vits2",
+                "user_name": "tonnetonne814",
+                "description": "VITS2 using Phoneme-Level Japanese BERT",
+                "multilingual_descriptions": {
+                    "en": "VITS2 using Phoneme-Level Japanese BERT",
+                    "ja": "音素レベルの日本語BERTを使用したVITS2",
+                    "zh-hans": "VITS2使用音素级日语BERT",
+                    "zh-hant": "VITS2 使用音素級日語 BERT"
+                }
+            },
+            "https://github.com/ndl-lab/ndc_predictor": {
+                "sub_category": null,
+                "repository_name": "ndc_predictor",
+                "user_name": "ndl-lab",
+                "description": "NDCPredictorの機械学習モデル（書誌情報から日本十進分類を推測するfastTextの学習済みモデル）",
+                "multilingual_descriptions": {
+                    "en": "Machine learning model of NDCPredictor (pre-trained model of fastText that predicts Japanese Decimal Classification from bibliographic information)",
+                    "ja": "NDCPredictorの機械学習モデル（書誌情報から日本十進分類を推測するfastTextの学習済みモデル）",
+                    "zh-hans": "NDCPredictor的机器学习模型（从书目信息推测日本十进分类的fastText预训练模型）",
+                    "zh-hant": "NDCPredictor的機器學習模型（從書目信息推測日本十進分類的fastText預先訓練模型）"
+                }
+            },
+            "https://github.com/pfnet-research/pfmt-bench-fin-ja": {
+                "sub_category": null,
+                "repository_name": "pfmt-bench-fin-ja",
+                "user_name": "pfnet-research",
+                "description": "pfmt-bench-fin-ja: Preferred Multi-turn Benchmark for Finance in Japanese",
+                "multilingual_descriptions": {
+                    "en": "pfmt-bench-fin-ja: Preferred Multi-turn Benchmark for Finance in Japanese",
+                    "ja": "pfmt-bench-fin-ja: 日本語金融向けの優先マルチターンベンチマーク",
+                    "zh-hans": "pfmt-bench-fin-ja: 金融领域日语首选多轮对话基准测试",
+                    "zh-hant": "pfmt-bench-fin-ja: 日本金融領域的首選多輪基準"
+                }
+            },
+            "https://github.com/tsukumijima/marine-plus": {
+                "sub_category": null,
+                "repository_name": "marine-plus",
+                "user_name": "tsukumijima",
+                "description": "MARINE : Multi-task leaRnIng-based JapaNese accent Estimation (Also supported Windows)",
+                "multilingual_descriptions": {
+                    "en": "MARINE : Multi-task leaRnIng-based JapaNese accent Estimation (Also supported Windows)",
+                    "ja": "MARINE：マルチタスク学習ベースの日本語アクセント推定（Windowsもサポート）",
+                    "zh-hans": "MARINE：基于多任务学习的日本口音估计（也支持Windows）",
+                    "zh-hant": "MARINE：基於多任務學習的日本口音估計（也支援Windows）"
+                }
+            },
+            "https://github.com/polm/ja-tokenizer-benchmark": {
+                "sub_category": null,
+                "repository_name": "ja-tokenizer-benchmark",
+                "user_name": "polm",
+                "description": "Compare the speed of various Japanese tokenizers in Python.",
+                "multilingual_descriptions": {
+                    "en": "Compare the speed of various Japanese tokenizers in Python.",
+                    "ja": "Pythonでのさまざまな日本語トークナイザーの速度を比較してください。",
+                    "zh-hans": "比较Python中各种日本分词器的速度。",
+                    "zh-hant": "比較Python中各種日本語分詞器的速度。"
+                }
+            },
+            "https://github.com/yagays/yat": {
+                "sub_category": null,
+                "repository_name": "yat",
+                "user_name": "yagays",
+                "description": "yat: Yet Another Tokenizer for Japanese NLP",
+                "multilingual_descriptions": {
+                    "en": "yat: Yet Another Tokenizer for Japanese NLP",
+                    "ja": "yat：日本語NLPのためのもう1つのトークナイザー\nyat：日本語NLPのためのもう1つのトークナイザー",
+                    "zh-hans": "yat：又一个用于日语自然语言处理的分词器",
+                    "zh-hant": "yat：另一個用於日本自然語言處理的分詞器"
+                }
+            },
+            "https://github.com/docto-rin/igakuqa119": {
+                "sub_category": null,
+                "repository_name": "igakuqa119",
+                "user_name": "docto-rin",
+                "description": "Evaluating LLMs on the 119th Japanese Medical Licensing Examination",
+                "multilingual_descriptions": {
+                    "en": "Evaluating LLMs on the 119th Japanese Medical Licensing Examination",
+                    "ja": "第119回日本医師免許試験におけるLLMの評価",
+                    "zh-hans": "评估第119届日本医师执照考试上的LLMs",
+                    "zh-hant": "評估第119屆日本醫學執照考試上的LLMs"
+                }
+            },
+            "https://github.com/koichiyasuoka/japanese-luw-tokenizer": {
+                "sub_category": null,
+                "repository_name": "japanese-luw-tokenizer",
+                "user_name": "koichiyasuoka",
+                "description": "Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers",
+                "multilingual_descriptions": {
+                    "en": "Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers",
+                    "ja": "TransformersのRemBertTokenizerFastを使用した日本語長単位ワードトークナイザー",
+                    "zh-hans": "使用Transformers的RemBertTokenizerFast进行日语长单位词标记化。",
+                    "zh-hant": "使用Transformers的RemBertTokenizerFast進行日語長單位詞分詞器"
+                }
+            },
+            "https://github.com/y-koj/ibus-jig": {
+                "sub_category": null,
+                "repository_name": "ibus-jig",
+                "user_name": "y-koj",
+                "description": "ibus-jig: Japanese-language Input-method using GPT-4",
+                "multilingual_descriptions": {
+                    "en": "ibus-jig: Japanese-language Input-method using GPT-4",
+                    "ja": "入力: ibus-jig：GPT-4を使用した日本語入力法",
+                    "zh-hans": "ibus-jig：使用GPT-4的日语输入法",
+                    "zh-hant": "ibus-jig：使用GPT-4的日語輸入法"
+                }
             }
         },
         "C++": {
@@ -4026,6 +4182,18 @@
                     "zh-hant": "Yosina 是一個處理日文書寫中使用的字母和符號的音譯庫。"
                 }
             },
+            "https://github.com/europeanplaice/mojimoji-rs": {
+                "sub_category": "Converter",
+                "repository_name": "mojimoji-rs",
+                "user_name": "europeanplaice",
+                "description": "Rust implementation of a fast converter between Japanese hankaku and zenkaku characters, mojimoji.",
+                "multilingual_descriptions": {
+                    "en": "Rust implementation of a fast converter between Japanese hankaku and zenkaku characters, mojimoji.",
+                    "ja": "日本語半角と全角文字の高速変換を行うRust実装、mojimoji。",
+                    "zh-hans": "快速转换日文半角和全角字符的Rust实现，mojimoji。\nRust实现的快速转换器，可在日文半角和全角字符之间转换，mojimoji。",
+                    "zh-hant": "快速轉換日文半角和全角字符的Rust實現，mojimoji。\nRust實現的快速轉換器，可在日文半角和全角字符之間進行轉換，mojimoji。"
+                }
+            },
             "https://github.com/lindera-morphology/lindera-tantivy": {
                 "sub_category": "Search engine library",
                 "repository_name": "lindera-tantivy",
@@ -4276,6 +4444,18 @@
                     "ja": "言語学習者が新しい単語や表現を見つけるのを手助けするために設計された日本語語彙マイニングツール。",
                     "zh-hans": "一个日语词汇挖掘工具，旨在帮助语言学习者挖掘新单词和表达方式。",
                     "zh-hant": "一個旨在幫助語言學習者挖掘新單詞和表達方式的日語詞彙挖掘工具。"
+                }
+            },
+            "https://github.com/mrpicklepinosaur/matsuba": {
+                "sub_category": null,
+                "repository_name": "matsuba",
+                "user_name": "mrpicklepinosaur",
+                "description": "lightweight japanese ime written in rust",
+                "multilingual_descriptions": {
+                    "en": "lightweight japanese ime written in rust",
+                    "ja": "軽量な日本語IMEをRustで書かれました。",
+                    "zh-hans": "轻量级的用Rust编写的日语输入法",
+                    "zh-hant": "輕量級的日文輸入法，使用Rust語言編寫"
                 }
             }
         },
@@ -4722,6 +4902,18 @@
                     "ja": "日本語文章解析器",
                     "zh-hans": "日语句子分析器 (日本語文章解析器)",
                     "zh-hant": "日文句子分析器 (日本語文章解析器)"
+                }
+            },
+            "https://github.com/marvnc/japanese-furigana-normalize": {
+                "sub_category": null,
+                "repository_name": "japanese-furigana-normalize",
+                "user_name": "marvnc",
+                "description": "Normalize Japanese Furigana",
+                "multilingual_descriptions": {
+                    "en": "Standardize Japanese Furigana",
+                    "ja": "日本語のフリガナを正規化します。",
+                    "zh-hans": "规范化日语振假名",
+                    "zh-hant": "標準化日文振假名"
                 }
             }
         },
@@ -6700,6 +6892,42 @@
                     "ja": "Mozc用の個人名辞書",
                     "zh-hans": "一个适用于Mozc的个人姓名字典。",
                     "zh-hant": "Mozc的個人姓名字典"
+                }
+            },
+            "https://github.com/utuhiro78/mozcdic-ut-sudachidict": {
+                "sub_category": null,
+                "repository_name": "mozcdic-ut-sudachidict",
+                "user_name": "utuhiro78",
+                "description": "A dictionary converted from SudachiDict for Mozc.",
+                "multilingual_descriptions": {
+                    "en": "A dictionary converted from SudachiDict for Mozc.",
+                    "ja": "SudachiDictからMozc用に変換された辞書",
+                    "zh-hans": "一个从SudachiDict转换为Mozc的字典。",
+                    "zh-hant": "從SudachiDict轉換為Mozc的字典"
+                }
+            },
+            "https://github.com/sph-mn/nihongo": {
+                "sub_category": null,
+                "repository_name": "nihongo",
+                "user_name": "sph-mn",
+                "description": "japanese language data and dictionary",
+                "multilingual_descriptions": {
+                    "en": "日本語の言語データと辞書",
+                    "ja": "日本語の言語データと辞書",
+                    "zh-hans": "日语语言数据和词典",
+                    "zh-hant": "日語語言數據和詞典"
+                }
+            },
+            "https://github.com/ikawaha/kagome-dict": {
+                "sub_category": null,
+                "repository_name": "kagome-dict",
+                "user_name": "ikawaha",
+                "description": "Dictionary Library for Kagome v2",
+                "multilingual_descriptions": {
+                    "en": "Dictionary Library for Kagome v2",
+                    "ja": "かごめv2の辞書ライブラリ",
+                    "zh-hans": "Kagome v2 的字典库",
+                    "zh-hant": "Kagome v2 的字典库"
                 }
             }
         },
@@ -8790,6 +9018,66 @@
                     "ja": "Wikipedia日本語から個人名を抽出します。",
                     "zh-hans": "提取维基百科日语中的个人姓名。",
                     "zh-hant": "從維基百科日文中提取個人姓名。"
+                }
+            },
+            "https://github.com/forsakeninfinity/cejc_yomichan_freq_dict": {
+                "sub_category": null,
+                "repository_name": "cejc_yomichan_freq_dict",
+                "user_name": "forsakeninfinity",
+                "description": "Frequency dictionary for yomichan based on the Corpus of Everyday Japanese Conversation dataset",
+                "multilingual_descriptions": {
+                    "en": "Frequency dictionary for yomichan based on the Corpus of Everyday Japanese Conversation dataset",
+                    "ja": "日常日本会話データセットに基づいた読みちゃんの頻度辞書",
+                    "zh-hans": "基于日常日语会话语料库的yomichan频率词典",
+                    "zh-hant": "基於日常日語會話語料庫的yomichan頻率詞典"
+                }
+            },
+            "https://github.com/open-dict-data/wikidict-ja": {
+                "sub_category": null,
+                "repository_name": "wikidict-ja",
+                "user_name": "open-dict-data",
+                "description": "Wikipedia Bilingual Reference Data (Japanese)",
+                "multilingual_descriptions": {
+                    "en": "Wikipedia Bilingual Reference Data (English)",
+                    "ja": "ウィキペディアバイリンガルリファレンスデータ（日本語）",
+                    "zh-hans": "维基百科双语参考数据（日语）",
+                    "zh-hant": "維基百科雙語參考資料（日文）"
+                }
+            },
+            "https://github.com/azookey/ajimee-bench": {
+                "sub_category": null,
+                "repository_name": "ajimee-bench",
+                "user_name": "azookey",
+                "description": "AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)",
+                "multilingual_descriptions": {
+                    "en": "AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)",
+                    "ja": "AJIMEE-Bench（高度な日本語IME評価ベンチマーク）",
+                    "zh-hans": "AJIMEE-Bench（高级日语输入法评估基准）",
+                    "zh-hant": "AJIMEE-Bench（高級日語輸入法評估基準）"
+                }
+            },
+            "https://github.com/takamichi-lab/j-spaw": {
+                "sub_category": null,
+                "repository_name": "j-spaw",
+                "user_name": "takamichi-lab",
+                "description": "J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing",
+                "multilingual_descriptions": {
+                    "en": "J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing",
+                    "ja": "J-SpAW: スピーカー認証とアンチスプーフィングのための日本語音声コーパス",
+                    "zh-hans": "J-SpAW：用于说话人验证和防欺骗的日语语音语料库",
+                    "zh-hant": "J-SpAW：用於語音識別和防欺騙的日語語音語料庫"
+                }
+            },
+            "https://github.com/cyberagentailab/camera3": {
+                "sub_category": null,
+                "repository_name": "camera3",
+                "user_name": "cyberagentailab",
+                "description": "CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese",
+                "multilingual_descriptions": {
+                    "en": "CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese",
+                    "ja": "CAMERA3: 日本語における制御可能な広告テキスト生成の評価データセット",
+                    "zh-hans": "CAMERA3：一个用于可控广告文本生成的日语评估数据集",
+                    "zh-hant": "相機3：一個用於日文可控廣告文本生成的評估數據集"
                 }
             }
         },
