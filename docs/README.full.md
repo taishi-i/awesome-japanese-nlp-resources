@@ -637,6 +637,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [kyujipy](https://github.com/drturnon/kyujipy) - A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa
  * [jitenbot](https://github.com/konstantindjairo/jitenbot) - Web crawler for creating personal copies of Japanese dictionaries
  * [ja-icd10](https://github.com/yagays/ja-icd10) - ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ
+ * [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) - VITS2 using Phoneme-Level Japanese BERT
 
 
 |Name|downloads/week|total downloads|stars|
@@ -823,6 +824,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[kyujipy](https://github.com/drturnon/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy/week)](https://pepy.tech/project/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy)](https://pepy.tech/project/kyujipy)|![GitHub Repo stars](https://img.shields.io/github/stars/drturnon/kyujipy?style=social)|
 |[jitenbot](https://github.com/konstantindjairo/jitenbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konstantindjairo/jitenbot?style=social)|
 |[ja-icd10](https://github.com/yagays/ja-icd10)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/ja-icd10?style=social)|
+|[pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tonnetonne814/pl-bert-vits2?style=social)|
 
 
 ## C++
