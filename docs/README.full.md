@@ -1793,6 +1793,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - Japanese emotion corpus Tokushima Univ. A-2 Lab.
  * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
  * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
+ * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1950,6 +1951,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab?style=social)|
 |[osworld-jp](https://github.com/karakuri-ai/osworld-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/osworld-jp?style=social)|
 |[quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/quasi_japanese_reviews?style=social)|
+|[psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/psychiatry-clinical-notes?style=social)|
 
 
 ## Tutorial
