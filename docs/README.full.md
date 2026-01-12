@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [799 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [330 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [812 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [288 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -19,40 +19,27 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Corpus**
- * [camera3](https://github.com/cyberagentailab/camera3) - CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese
- * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)
- * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing
- * [wikidict-ja](https://github.com/open-dict-data/wikidict-ja) - Wikipedia Bilingual Reference Data (Japanese)
- * [cejc_yomichan_freq_dict](https://github.com/forsakeninfinity/cejc_yomichan_freq_dict) - Frequency dictionary for yomichan based on the Corpus of Everyday Japanese Conversation dataset
+ * [jgpqa](https://github.com/llm-jp/jgpqa) - Japanese translation of the GPQA dataset
+ * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
+ * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - Japanese emotion corpus Tokushima Univ. A-2 Lab.
+ * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
+ * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
+ * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
+ * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
+ * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - Japanese text-emoticon data.
 
 **Python**
- * [kyujipy](https://github.com/drturnon/kyujipy) - A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa
- * [jitenbot](https://github.com/konstantindjairo/jitenbot) - Web crawler for creating personal copies of Japanese dictionaries
- * [meikiocr](https://github.com/rtr46/meikiocr) - high-speed, high-accuracy, local ocr for japanese video games
- * [ja-icd10](https://github.com/yagays/ja-icd10) - ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ
- * [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) - VITS2 using Phoneme-Level Japanese BERT
- * [ndc_predictor](https://github.com/ndl-lab/ndc_predictor) - NDCPredictorの機械学習モデル（書誌情報から日本十進分類を推測するfastTextの学習済みモデル）
- * [pfmt-bench-fin-ja](https://github.com/pfnet-research/pfmt-bench-fin-ja) - pfmt-bench-fin-ja: Preferred Multi-turn Benchmark for Finance in Japanese
- * [marine-plus](https://github.com/tsukumijima/marine-plus) - MARINE : Multi-task leaRnIng-based JapaNese accent Estimation (Also supported Windows)
- * [ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark) - Compare the speed of various Japanese tokenizers in Python.
- * [yat](https://github.com/yagays/yat) - yat: Yet Another Tokenizer for Japanese NLP
- * [igakuqa119](https://github.com/docto-rin/igakuqa119) - Evaluating LLMs on the 119th Japanese Medical Licensing Examination
- * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers
- * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig: Japanese-language Input-method using GPT-4
-
-**JavaScript**
- * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - Normalize Japanese Furigana
+ * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.
+ * [jdeppy](https://github.com/matsurih/jdeppy) - Python wrapper for J.DepP, fast Japanese Dependency Parser
+ * [meikipop](https://github.com/rtr46/meikipop) - universal japanese ocr popup dictionary for windows, linux and macos
 
 **Dictionary and IME**
- * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - A dictionary converted from SudachiDict for Mozc.
- * [nihongo](https://github.com/sph-mn/nihongo) - japanese language data and dictionary
- * [kagome-dict](https://github.com/ikawaha/kagome-dict) - Dictionary Library for Kagome v2
+ * [canna](https://github.com/canna-input/canna) - Canna Japanese input system
 
-**Rust**
- * [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) - Rust implementation of a fast converter between Japanese hankaku and zenkaku characters, mojimoji.
- * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - lightweight japanese ime written in rust
+**Tutorial**
+  * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
 
-_Updated on Jan 06, 2026_
+_Updated on Jan 13, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -166,7 +153,6 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)
  * [lightblue](https://github.com/daisukebekki/lightblue) - A CCG parser for Japanese with DTS-representations
  * [natsume-simple](https://github.com/borh-lab/natsume-simple) - natsume-simpleは日本語の係り受け関係検索システム
- * [jdeppy](https://github.com/matsurih/jdeppy) - Python wrapper for J.DepP, fast Japanese Dependency Parser
 
 
 |Name|downloads/week|total downloads|stars|
@@ -183,7 +169,6 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
 |[jdepp-python](https://github.com/lighttransport/jdepp-python)|[![Downloads](https://pepy.tech/badge/jdepp/week)](https://pepy.tech/project/jdepp)|[![Downloads](https://pepy.tech/badge/jdepp)](https://pepy.tech/project/jdepp)|![GitHub Repo stars](https://img.shields.io/github/stars/lighttransport/jdepp-python?style=social)|
 |[lightblue](https://github.com/daisukebekki/lightblue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daisukebekki/lightblue?style=social)|
 |[natsume-simple](https://github.com/borh-lab/natsume-simple)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/borh-lab/natsume-simple?style=social)|
-|[jdeppy](https://github.com/matsurih/jdeppy)|[![Downloads](https://pepy.tech/badge/jdeppy/week)](https://pepy.tech/project/jdeppy)|[![Downloads](https://pepy.tech/badge/jdeppy)](https://pepy.tech/project/jdeppy)|![GitHub Repo stars](https://img.shields.io/github/stars/matsurih/jdeppy?style=social)|
 
 
 ### Converter
@@ -367,7 +352,6 @@ Libraries that recognize and extract text from images
  * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.
  * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - A lightweight OCR model for Japanese text, especially in Manga
  * [meikiocr](https://github.com/rtr46/meikiocr) - high-speed, high-accuracy, local ocr for japanese video games
- * [meikipop](https://github.com/rtr46/meikipop) - universal japanese ocr popup dictionary for windows, linux and macos
 
 
 |Name|downloads/week|total downloads|stars|
@@ -390,7 +374,6 @@ Libraries that recognize and extract text from images
 |[paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060?style=social)|
 |[MangaOCR](https://github.com/gnurt2041/MangaOCR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gnurt2041/MangaOCR?style=social)|
 |[meikiocr](https://github.com/rtr46/meikiocr)|[![Downloads](https://pepy.tech/badge/meikiocr/week)](https://pepy.tech/project/meikiocr)|[![Downloads](https://pepy.tech/badge/meikiocr)](https://pepy.tech/project/meikiocr)|![GitHub Repo stars](https://img.shields.io/github/stars/rtr46/meikiocr?style=social)|
-|[meikipop](https://github.com/rtr46/meikipop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rtr46/meikipop?style=social)|
 
 
 ### Tool for pretrained models
@@ -590,8 +573,7 @@ General-purpose tools supporting Japanese language processing
  * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - Open source RAG with Llama Index for Japanese LLM in low resource settting
  * [bertjsc](https://github.com/er-ri/bertjsc) - Japanese Spelling Error Corrector using BERT(Masked-Language Model). BERTに基づいて日本語校正
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - Project of llm evaluation to Japanese tasks
- * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - About
-Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
+ * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - Modifying LAVIS' BLIP2 Q-former with models pretrained on Japanese datasets.
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - Exploring Japanese SimCSE
@@ -664,7 +646,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [igakuqa119](https://github.com/docto-rin/igakuqa119) - Evaluating LLMs on the 119th Japanese Medical Licensing Examination
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig: Japanese-language Input-method using GPT-4
- * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -860,7 +841,6 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[igakuqa119](https://github.com/docto-rin/igakuqa119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/docto-rin/igakuqa119?style=social)|
 |[japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koichiyasuoka/japanese-luw-tokenizer?style=social)|
 |[ibus-jig](https://github.com/y-koj/ibus-jig)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/y-koj/ibus-jig?style=social)|
-|[jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter/week)](https://pepy.tech/project/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter)](https://pepy.tech/project/jp-stopword-filter)|![GitHub Repo stars](https://img.shields.io/github/stars/BrambleXu/jp-stopword-filter?style=social)|
 
 
 ## C++
@@ -1353,7 +1333,7 @@ Resources for using ChatGPT and APIs for Japanese dialogue and text generation
  * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - A Japanese Kanji Flashcard App built using Python and Langchain, enhanced with the intelligence of GPT-4.
  * [IgakuQA](https://github.com/jungokasai/IgakuQA) - Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations
  * [japagen](https://github.com/retrieva/japagen) - 日本語タスクにおけるLLMを用いた疑似学習データ生成の検討
-  * [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+ * [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1464,7 +1444,6 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - A dictionary converted from SudachiDict for Mozc.
  * [nihongo](https://github.com/sph-mn/nihongo) - japanese language data and dictionary
  * [kagome-dict](https://github.com/ikawaha/kagome-dict) - Dictionary Library for Kagome v2
- * [canna](https://github.com/canna-input/canna) - Canna Japanese input system
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1545,7 +1524,6 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-sudachidict?style=social)|
 |[nihongo](https://github.com/sph-mn/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sph-mn/nihongo?style=social)|
 |[kagome-dict](https://github.com/ikawaha/kagome-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome-dict?style=social)|
-|[canna](https://github.com/canna-input/canna)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/canna-input/canna?style=social)|
 
 
 ## Corpus
@@ -1792,14 +1770,6 @@ Corpora for tasks such as question answering or entailment recognition
  * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)
  * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing
  * [camera3](https://github.com/cyberagentailab/camera3) - CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese
- * [jgpqa](https://github.com/llm-jp/jgpqa) - Japanese translation of the GPQA dataset
- * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
- * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - Japanese emotion corpus Tokushima Univ. A-2 Lab.
- * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
- * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
- * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
- * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
- * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - Japanese text-emoticon data.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1952,14 +1922,6 @@ Corpora for tasks such as question answering or entailment recognition
 |[ajimee-bench](https://github.com/azookey/ajimee-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azookey/ajimee-bench?style=social)|
 |[j-spaw](https://github.com/takamichi-lab/j-spaw)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/j-spaw?style=social)|
 |[camera3](https://github.com/cyberagentailab/camera3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cyberagentailab/camera3?style=social)|
-|[jgpqa](https://github.com/llm-jp/jgpqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/jgpqa?style=social)|
-|[tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/tanaka-corpus-plus?style=social)|
-|[emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab?style=social)|
-|[osworld-jp](https://github.com/karakuri-ai/osworld-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/osworld-jp?style=social)|
-|[quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/quasi_japanese_reviews?style=social)|
-|[psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/psychiatry-clinical-notes?style=social)|
-|[merged-town-names](https://github.com/yuukitoriyama/merged-town-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukitoriyama/merged-town-names?style=social)|
-|[japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuroshiba-ginji/japanesetextemoticondata?style=social)|
 
 
 ## Tutorial
@@ -1997,7 +1959,6 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
  * [ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
- * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2035,7 +1996,6 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 |[course2024-nlp](https://github.com/tomonari-masada/course2024-nlp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomonari-masada/course2024-nlp?style=social)|
 |[support-genai-book](https://github.com/yoheikikuta/support-genai-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoheikikuta/support-genai-book?style=social)|
 |[ir100](https://github.com/ir100/ir100)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ir100/ir100?style=social)|
-|[kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sinchir0/kaggle_llm_book?style=social)|
 
 
 ## Research summary

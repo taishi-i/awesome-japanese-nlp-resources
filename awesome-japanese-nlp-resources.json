@@ -2994,7 +2994,7 @@
                 "sub_category": null,
                 "repository_name": "jglue-evaluation-scripts",
                 "user_name": "nobu-g",
-                "description": "About",
+                "description": "Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
                 "multilingual_descriptions": {
                     "en": "About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
                     "ja": "JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して\nJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。",

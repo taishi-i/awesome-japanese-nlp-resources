@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [799件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [330 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [812件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [288 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,41 +18,27 @@
 ## 🎉 The latest additions
 
 **Corpus**
- * [camera3](https://github.com/cyberagentailab/camera3) - CAMERA3: 日本語における制御可能な広告テキスト生成の評価データセット
- * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench（高度な日本語IME評価ベンチマーク）
- * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: スピーカー認証とアンチスプーフィングのための日本語音声コーパス
- * [wikidict-ja](https://github.com/open-dict-data/wikidict-ja) - ウィキペディアバイリンガルリファレンスデータ（日本語）
- * [cejc_yomichan_freq_dict](https://github.com/forsakeninfinity/cejc_yomichan_freq_dict) - 日常日本会話データセットに基づいた読みちゃんの頻度辞書
+ * [jgpqa](https://github.com/llm-jp/jgpqa) - GPQAデータセットの日本語翻訳
+ * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
+ * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - 日本の感情コーパス 徳島大学 A-2 研究室
+ * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
+ * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
+ * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
+ * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
+ * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - 日本語のテキスト絵文字データ。
 
 **Python**
- * [kyujipy](https://github.com/drturnon/kyujipy) - 新字体（Shinjitai）から旧字体（Kyujitai）へ、またはその逆に日本語テキストを変換するためのPythonライブラリ
- * [jitenbot](https://github.com/konstantindjairo/jitenbot) - 日本語辞書の個人用コピーを作成するためのWebクローラー
- * [meikiocr](https://github.com/rtr46/meikiocr) - 高速、高精度、日本のビデオゲーム向けのローカルOCR
- * [ja-icd10](https://github.com/yagays/ja-icd10) - ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ
- * [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) - 音素レベルの日本語BERTを使用したVITS2
- * [ndc_predictor](https://github.com/ndl-lab/ndc_predictor) - NDCPredictorの機械学習モデル（書誌情報から日本十進分類を推測するfastTextの学習済みモデル）
- * [pfmt-bench-fin-ja](https://github.com/pfnet-research/pfmt-bench-fin-ja) - pfmt-bench-fin-ja: 日本語金融向けの優先マルチターンベンチマーク
- * [marine-plus](https://github.com/tsukumijima/marine-plus) - MARINE：マルチタスク学習ベースの日本語アクセント推定（Windowsもサポート）
- * [ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark) - Pythonでのさまざまな日本語トークナイザーの速度を比較してください。
- * [yat](https://github.com/yagays/yat) - yat：日本語NLPのためのもう1つのトークナイザー
-yat：日本語NLPのためのもう1つのトークナイザー
- * [igakuqa119](https://github.com/docto-rin/igakuqa119) - 第119回日本医師免許試験におけるLLMの評価
- * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - TransformersのRemBertTokenizerFastを使用した日本語長単位ワードトークナイザー
- * [ibus-jig](https://github.com/y-koj/ibus-jig) - 入力: ibus-jig：GPT-4を使用した日本語入力法
-
-**JavaScript**
- * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - 日本語のフリガナを正規化します。
+ * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。
+ * [jdeppy](https://github.com/matsurih/jdeppy) - J.DepP用のPythonラッパー、高速日本語依存構造解析器
+ * [meikipop](https://github.com/rtr46/meikipop) - Windows、Linux、およびmacOS用のユニバーサル日本語OCRポップアップ辞書
 
 **Dictionary and IME**
- * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - SudachiDictからMozc用に変換された辞書
- * [nihongo](https://github.com/sph-mn/nihongo) - 日本語の言語データと辞書
- * [kagome-dict](https://github.com/ikawaha/kagome-dict) - かごめv2の辞書ライブラリ
+ * [canna](https://github.com/canna-input/canna) - カンナ日本語入力システム
 
-**Rust**
- * [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) - 日本語半角と全角文字の高速変換を行うRust実装、mojimoji。
- * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - 軽量な日本語IMEをRustで書かれました。
+**Tutorial**
+  * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
 
-_Updated on Jan 06, 2026_
+_Updated on Jan 13, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -587,7 +573,6 @@ _Updated on Jan 06, 2026_
  * [bertjsc](https://github.com/er-ri/bertjsc) - BERTを使用した日本語スペルエラー修正ツール
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - 日本のタスクのLLM評価プロジェクト
  * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関してJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。
-Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 日本のデータセットで事前学習されたモデルを使用して、LAVISのBLIP2 Q-formerを修正します。LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモデルを用いて修正します。
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 日本語のSimCSEを探索中
@@ -1347,7 +1332,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - PythonとLangchainを使用して構築された日本語漢字フラッシュカードアプリで、GPT-4の知能が強化されています。
  * [IgakuQA](https://github.com/jungokasai/IgakuQA) - 日本の医師免許試験におけるGPT-4とChatGPTの評価
  * [japagen](https://github.com/retrieva/japagen) - 日本語タスクにおけるLLMを用いた疑似学習データ生成の検討
-  * [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+ * [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
 
 
 |Name|downloads/week|total downloads|stars|
