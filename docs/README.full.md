@@ -1462,6 +1462,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - A dictionary converted from SudachiDict for Mozc.
  * [nihongo](https://github.com/sph-mn/nihongo) - japanese language data and dictionary
  * [kagome-dict](https://github.com/ikawaha/kagome-dict) - Dictionary Library for Kagome v2
+ * [canna](https://github.com/canna-input/canna) - Canna Japanese input system
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1542,6 +1543,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-sudachidict?style=social)|
 |[nihongo](https://github.com/sph-mn/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sph-mn/nihongo?style=social)|
 |[kagome-dict](https://github.com/ikawaha/kagome-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome-dict?style=social)|
+|[canna](https://github.com/canna-input/canna)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/canna-input/canna?style=social)|
 
 
 ## Corpus
