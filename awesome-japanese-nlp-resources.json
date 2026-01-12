@@ -350,6 +350,18 @@
                     "zh-hant": "natsume-simple是一個日語的依存關係搜索系統。"
                 }
             },
+            "https://github.com/matsurih/jdeppy": {
+                "sub_category": "Parsing",
+                "repository_name": "jdeppy",
+                "user_name": "matsurih",
+                "description": "Python wrapper for J.DepP, fast Japanese Dependency Parser",
+                "multilingual_descriptions": {
+                    "en": "Python wrapper for J.DepP, fast Japanese Dependency Parser",
+                    "ja": "J.DepP用のPythonラッパー、高速日本語依存構造解析器",
+                    "zh-hans": "Python封装器用于J.DepP，快速的日语依赖解析器",
+                    "zh-hant": "Python 封裝器用於 J.DepP，快速的日語依存分析器"
+                }
+            },
             "https://github.com/miurahr/pykakasi": {
                 "sub_category": "Converter",
                 "repository_name": "pykakasi",
@@ -1200,6 +1212,18 @@
                     "ja": "高速、高精度、日本のビデオゲーム向けのローカルOCR",
                     "zh-hans": "高速、高精度、本地OCR用于日本电子游戏",
                     "zh-hant": "高速、高精度、適用於日本視頻遊戲的本地OCR"
+                }
+            },
+            "https://github.com/rtr46/meikipop": {
+                "sub_category": "OCR",
+                "repository_name": "meikipop",
+                "user_name": "rtr46",
+                "description": "universal japanese ocr popup dictionary for windows, linux and macos",
+                "multilingual_descriptions": {
+                    "en": "universal japanese ocr popup dictionary for windows, linux and macos",
+                    "ja": "Windows、Linux、およびmacOS用のユニバーサル日本語OCRポップアップ辞書",
+                    "zh-hans": "通用日语OCR弹出式词典，适用于Windows、Linux和macOS",
+                    "zh-hant": "通用日語OCR彈出式字典，適用於Windows、Linux和macOS"
                 }
             },
             "https://github.com/yahoojapan/JGLUE": {
@@ -3852,6 +3876,18 @@
                     "ja": "入力: ibus-jig：GPT-4を使用した日本語入力法",
                     "zh-hans": "ibus-jig：使用GPT-4的日语输入法",
                     "zh-hant": "ibus-jig：使用GPT-4的日語輸入法"
+                }
+            },
+            "https://github.com/BrambleXu/jp-stopword-filter": {
+                "sub_category": null,
+                "repository_name": "jp-stopword-filter",
+                "user_name": "BrambleXu",
+                "description": "A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.",
+                "multilingual_descriptions": {
+                    "en": "A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.",
+                    "ja": "カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。",
+                    "zh-hans": "一个轻量级的Python库，旨在根据可定制的规则从日文文本中过滤停用词。",
+                    "zh-hant": "一個輕量級的Python庫，旨在根據可定制的規則從日文文本中過濾停用詞。"
                 }
             }
         },
@@ -6929,6 +6965,18 @@
                     "zh-hans": "Kagome v2 的字典库",
                     "zh-hant": "Kagome v2 的字典库"
                 }
+            },
+            "https://github.com/canna-input/canna": {
+                "sub_category": null,
+                "repository_name": "canna",
+                "user_name": "canna-input",
+                "description": "Canna Japanese input system",
+                "multilingual_descriptions": {
+                    "en": "Canna Japanese input system",
+                    "ja": "カンナ日本語入力システム",
+                    "zh-hans": "卡纳日本输入系统",
+                    "zh-hant": "干那日本輸入系統"
+                }
             }
         },
         "Corpus": {
@@ -9079,6 +9127,102 @@
                     "zh-hans": "CAMERA3：一个用于可控广告文本生成的日语评估数据集",
                     "zh-hant": "相機3：一個用於日文可控廣告文本生成的評估數據集"
                 }
+            },
+            "https://github.com/llm-jp/jgpqa": {
+                "sub_category": null,
+                "repository_name": "jgpqa",
+                "user_name": "llm-jp",
+                "description": "Japanese translation of the GPQA dataset",
+                "multilingual_descriptions": {
+                    "en": "Japanese translation of the GPQA dataset",
+                    "ja": "GPQAデータセットの日本語翻訳",
+                    "zh-hans": "GPQA数据集的日语翻译",
+                    "zh-hant": "GPQA數據集的日文翻譯"
+                }
+            },
+            "https://github.com/marmooo/tanaka-corpus-plus": {
+                "sub_category": null,
+                "repository_name": "tanaka-corpus-plus",
+                "user_name": "marmooo",
+                "description": "Tanaka Corpus のノイズを除去しています。",
+                "multilingual_descriptions": {
+                    "en": "Removing noise from the Tanaka Corpus.",
+                    "ja": "Tanaka Corpus のノイズを除去しています。",
+                    "zh-hans": "正在去除田中语料库中的噪音。",
+                    "zh-hant": "正在去除田中语料库的噪音。"
+                }
+            },
+            "https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab": {
+                "sub_category": null,
+                "repository_name": "emotioncorpusjapanesetokushimaa2lab",
+                "user_name": "kmatsu-tokudai",
+                "description": "Japanese emotion corpus Tokushima Univ. A-2 Lab.",
+                "multilingual_descriptions": {
+                    "en": "Japanese emotion corpus Tokushima Univ. A-2 Lab.",
+                    "ja": "日本の感情コーパス 徳島大学 A-2 研究室",
+                    "zh-hans": "日本情感语料库德岛大学A-2实验室。",
+                    "zh-hant": "日本情感語料庫德島大學A-2實驗室。"
+                }
+            },
+            "https://github.com/karakuri-ai/osworld-jp": {
+                "sub_category": null,
+                "repository_name": "osworld-jp",
+                "user_name": "karakuri-ai",
+                "description": "言語を考慮した評価のための、日本語版コンピュータユースベンチマーク",
+                "multilingual_descriptions": {
+                    "en": "Japanese Version Computer Use Benchmark for Language Consideration Evaluation",
+                    "ja": "言語を考慮した評価のための、日本語版コンピュータユースベンチマーク",
+                    "zh-hans": "用于考虑语言的评估的日语版计算机性能基准测试",
+                    "zh-hant": "為了考慮語言的評估，日語版電腦使用基準测试"
+                }
+            },
+            "https://github.com/megagonlabs/quasi_japanese_reviews": {
+                "sub_category": null,
+                "repository_name": "quasi_japanese_reviews",
+                "user_name": "megagonlabs",
+                "description": "Quasi Japanese Reviews (擬似レビューデータ)",
+                "multilingual_descriptions": {
+                    "en": "Quasi Japanese Reviews (Pseudo Review Data)",
+                    "ja": "Quasi Japanese Reviews (擬似レビューデータ)",
+                    "zh-hans": "准日本评论 (擬似评论数据)",
+                    "zh-hant": "擬似日本評論 (擬似レビューデータ)"
+                }
+            },
+            "https://github.com/sociocom/psychiatry-clinical-notes": {
+                "sub_category": null,
+                "repository_name": "psychiatry-clinical-notes",
+                "user_name": "sociocom",
+                "description": "精神科初診カルテ作成アンケート データセット",
+                "multilingual_descriptions": {
+                    "en": "Psychiatric initial consultation medical record creation questionnaire dataset",
+                    "ja": "精神科初診カルテ作成アンケート データセット",
+                    "zh-hans": "精神科初诊病历创建调查数据集",
+                    "zh-hant": "精神科初診病歷製作問卷數據集"
+                }
+            },
+            "https://github.com/yuukitoriyama/merged-town-names": {
+                "sub_category": null,
+                "repository_name": "merged-town-names",
+                "user_name": "yuukitoriyama",
+                "description": "市町村合併などにより消滅した旧地名と新地名の対応表",
+                "multilingual_descriptions": {
+                    "en": "Table of correspondence between old place names that have disappeared due to municipal mergers and new place names.",
+                    "ja": "市町村合併などにより消滅した旧地名と新地名の対応表",
+                    "zh-hans": "市镇村合并等导致消失的旧地名和新地名对照表",
+                    "zh-hant": "市鎮村合併等導致舊地名消失的舊地名與新地名對應表"
+                }
+            },
+            "https://github.com/kuroshiba-ginji/japanesetextemoticondata": {
+                "sub_category": null,
+                "repository_name": "japanesetextemoticondata",
+                "user_name": "kuroshiba-ginji",
+                "description": "Japanese text-emoticon data.",
+                "multilingual_descriptions": {
+                    "en": "Japanese text-emoticon data.",
+                    "ja": "日本語のテキスト絵文字データ。",
+                    "zh-hans": "日本文本表情数据。",
+                    "zh-hant": "日本文本表情符號數據。"
+                }
             }
         },
         "Tutorial": {
@@ -9440,6 +9584,18 @@
                     "ja": "情報検索100本ノック",
                     "zh-hans": "信息检索100个关键点",
                     "zh-hant": "情報檢索100本敲門"
+                }
+            },
+            "https://github.com/sinchir0/kaggle_llm_book": {
+                "sub_category": null,
+                "repository_name": "kaggle_llm_book",
+                "user_name": "sinchir0",
+                "description": "『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト",
+                "multilingual_descriptions": {
+                    "en": "Support site for \"Introduction to Large-scale Language Models with Kaggle - Practical Programming for Natural Language Processing\"",
+                    "ja": "『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト",
+                    "zh-hans": "《Kaggle开始大规模语言模型入门 - 自然语言处理实践编程》支持网站",
+                    "zh-hant": "支援網站：《Kaggle 開始大規模語言模型入門 ～自然語言處理〈實踐〉程式設計～》"
                 }
             }
         },

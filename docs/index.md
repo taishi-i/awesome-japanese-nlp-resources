@@ -152,6 +152,7 @@ _Updated on Jan 13, 2026_
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - J.DepPのPythonバインディング（日本語依存構造解析器のC++実装）
  * [lightblue](https://github.com/daisukebekki/lightblue) - DTS表現を使用した日本語のCCGパーサー
  * [natsume-simple](https://github.com/borh-lab/natsume-simple) - natsume-simpleは日本語の係り受け関係検索システム
+ * [jdeppy](https://github.com/matsurih/jdeppy) - J.DepP用のPythonラッパー、高速日本語依存構造解析器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -168,6 +169,7 @@ _Updated on Jan 13, 2026_
 |[jdepp-python](https://github.com/lighttransport/jdepp-python)|[![Downloads](https://pepy.tech/badge/jdepp/week)](https://pepy.tech/project/jdepp)|[![Downloads](https://pepy.tech/badge/jdepp)](https://pepy.tech/project/jdepp)|![GitHub Repo stars](https://img.shields.io/github/stars/lighttransport/jdepp-python?style=social)|
 |[lightblue](https://github.com/daisukebekki/lightblue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daisukebekki/lightblue?style=social)|
 |[natsume-simple](https://github.com/borh-lab/natsume-simple)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/borh-lab/natsume-simple?style=social)|
+|[jdeppy](https://github.com/matsurih/jdeppy)|[![Downloads](https://pepy.tech/badge/jdeppy/week)](https://pepy.tech/project/jdeppy)|[![Downloads](https://pepy.tech/badge/jdeppy)](https://pepy.tech/project/jdeppy)|![GitHub Repo stars](https://img.shields.io/github/stars/matsurih/jdeppy?style=social)|
 
 
 ### Converter
@@ -351,6 +353,7 @@ _Updated on Jan 13, 2026_
  * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - 日本の漫画テキスト認識のために、Manga109sデータセットでPaddleOCR-VLを微調整します。ベースモデルは漫画内の縦書き日本語テキストの読み順に苦労しています。微調整後、モデルは漫画固有のテキストレイアウトを正しく処理します。
  * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - 日本語テキスト用の軽量なOCRモデル、特にマンガ向け
  * [meikiocr](https://github.com/rtr46/meikiocr) - 高速、高精度、日本のビデオゲーム向けのローカルOCR
+ * [meikipop](https://github.com/rtr46/meikipop) - Windows、Linux、およびmacOS用のユニバーサル日本語OCRポップアップ辞書
 
 
 |Name|downloads/week|total downloads|stars|
@@ -373,6 +376,7 @@ _Updated on Jan 13, 2026_
 |[paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060?style=social)|
 |[MangaOCR](https://github.com/gnurt2041/MangaOCR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gnurt2041/MangaOCR?style=social)|
 |[meikiocr](https://github.com/rtr46/meikiocr)|[![Downloads](https://pepy.tech/badge/meikiocr/week)](https://pepy.tech/project/meikiocr)|[![Downloads](https://pepy.tech/badge/meikiocr)](https://pepy.tech/project/meikiocr)|![GitHub Repo stars](https://img.shields.io/github/stars/rtr46/meikiocr?style=social)|
+|[meikipop](https://github.com/rtr46/meikipop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rtr46/meikipop?style=social)|
 
 
 ### Tool for pretrained models
@@ -645,6 +649,7 @@ _Updated on Jan 13, 2026_
  * [igakuqa119](https://github.com/docto-rin/igakuqa119) - 第119回日本医師免許試験におけるLLMの評価
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - TransformersのRemBertTokenizerFastを使用した日本語長単位ワードトークナイザー
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - 入力: ibus-jig：GPT-4を使用した日本語入力法
+ * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -840,6 +845,7 @@ _Updated on Jan 13, 2026_
 |[igakuqa119](https://github.com/docto-rin/igakuqa119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/docto-rin/igakuqa119?style=social)|
 |[japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koichiyasuoka/japanese-luw-tokenizer?style=social)|
 |[ibus-jig](https://github.com/y-koj/ibus-jig)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/y-koj/ibus-jig?style=social)|
+|[jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter/week)](https://pepy.tech/project/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter)](https://pepy.tech/project/jp-stopword-filter)|![GitHub Repo stars](https://img.shields.io/github/stars/BrambleXu/jp-stopword-filter?style=social)|
 
 
 ## C++
@@ -1443,6 +1449,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - SudachiDictからMozc用に変換された辞書
  * [nihongo](https://github.com/sph-mn/nihongo) - 日本語の言語データと辞書
  * [kagome-dict](https://github.com/ikawaha/kagome-dict) - かごめv2の辞書ライブラリ
+ * [canna](https://github.com/canna-input/canna) - カンナ日本語入力システム
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1523,6 +1530,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-sudachidict?style=social)|
 |[nihongo](https://github.com/sph-mn/nihongo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sph-mn/nihongo?style=social)|
 |[kagome-dict](https://github.com/ikawaha/kagome-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ikawaha/kagome-dict?style=social)|
+|[canna](https://github.com/canna-input/canna)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/canna-input/canna?style=social)|
 
 
 ## Corpus
@@ -1769,6 +1777,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench（高度な日本語IME評価ベンチマーク）
  * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: スピーカー認証とアンチスプーフィングのための日本語音声コーパス
  * [camera3](https://github.com/cyberagentailab/camera3) - CAMERA3: 日本語における制御可能な広告テキスト生成の評価データセット
+ * [jgpqa](https://github.com/llm-jp/jgpqa) - GPQAデータセットの日本語翻訳
+ * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
+ * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - 日本の感情コーパス 徳島大学 A-2 研究室
+ * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
+ * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
+ * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
+ * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
+ * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - 日本語のテキスト絵文字データ。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1921,6 +1937,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[ajimee-bench](https://github.com/azookey/ajimee-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azookey/ajimee-bench?style=social)|
 |[j-spaw](https://github.com/takamichi-lab/j-spaw)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/j-spaw?style=social)|
 |[camera3](https://github.com/cyberagentailab/camera3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cyberagentailab/camera3?style=social)|
+|[jgpqa](https://github.com/llm-jp/jgpqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/jgpqa?style=social)|
+|[tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/tanaka-corpus-plus?style=social)|
+|[emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab?style=social)|
+|[osworld-jp](https://github.com/karakuri-ai/osworld-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/osworld-jp?style=social)|
+|[quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/quasi_japanese_reviews?style=social)|
+|[psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/psychiatry-clinical-notes?style=social)|
+|[merged-town-names](https://github.com/yuukitoriyama/merged-town-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukitoriyama/merged-town-names?style=social)|
+|[japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuroshiba-ginji/japanesetextemoticondata?style=social)|
 
 
 ## Tutorial
@@ -1958,6 +1982,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
  * [ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
+ * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1995,6 +2020,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[course2024-nlp](https://github.com/tomonari-masada/course2024-nlp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomonari-masada/course2024-nlp?style=social)|
 |[support-genai-book](https://github.com/yoheikikuta/support-genai-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoheikikuta/support-genai-book?style=social)|
 |[ir100](https://github.com/ir100/ir100)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ir100/ir100?style=social)|
+|[kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sinchir0/kaggle_llm_book?style=social)|
 
 
 ## Research summary

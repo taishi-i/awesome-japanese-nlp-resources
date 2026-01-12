@@ -153,6 +153,7 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)
  * [lightblue](https://github.com/daisukebekki/lightblue) - A CCG parser for Japanese with DTS-representations
  * [natsume-simple](https://github.com/borh-lab/natsume-simple) - natsume-simpleは日本語の係り受け関係検索システム
+ * [jdeppy](https://github.com/matsurih/jdeppy) - Python wrapper for J.DepP, fast Japanese Dependency Parser
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -169,6 +170,7 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
 | 🔗 [jdepp-python](https://github.com/lighttransport/jdepp-python) | 📥 441 | 📦 273k | ⭐ 4 | 🔴 february 2024|
 | 🔗 [lightblue](https://github.com/daisukebekki/lightblue) | - | - | ⭐ 26 | 🟢 last monday|
 | 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 | 🟡 february 2025|
+| 🔗 [jdeppy](https://github.com/matsurih/jdeppy) | 📥 6 | 📦 11k | ⭐ 3 | 🔴 february 2022|
 
 
 ### Converter
@@ -352,6 +354,7 @@ Libraries that recognize and extract text from images
  * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - Fine-tune PaddleOCR-VL on the Manga109s dataset for Japanese manga text recognition. The base model struggles with vertical Japanese text reading order in manga. After fine-tuning, the model correctly handles manga-specific text layouts.
  * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - A lightweight OCR model for Japanese text, especially in Manga
  * [meikiocr](https://github.com/rtr46/meikiocr) - high-speed, high-accuracy, local ocr for japanese video games
+ * [meikipop](https://github.com/rtr46/meikipop) - universal japanese ocr popup dictionary for windows, linux and macos
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -374,6 +377,7 @@ Libraries that recognize and extract text from images
 | 🔗 [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) | - | - | ⭐ 5 | 🟢 december 2025|
 | 🔗 [MangaOCR](https://github.com/gnurt2041/MangaOCR) | - | - | ⭐ 33 | 🔴 may 2024|
 | 🔗 [meikiocr](https://github.com/rtr46/meikiocr) | 📥 2k | 📦 10k | ⭐ 42 | 🟢 last tuesday|
+| 🔗 [meikipop](https://github.com/rtr46/meikipop) | - | - | ⭐ 165 | 🟢 last friday|
 
 
 ### Tool for pretrained models
@@ -646,6 +650,7 @@ General-purpose tools supporting Japanese language processing
  * [igakuqa119](https://github.com/docto-rin/igakuqa119) - Evaluating LLMs on the 119th Japanese Medical Licensing Examination
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig: Japanese-language Input-method using GPT-4
+ * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -841,6 +846,7 @@ General-purpose tools supporting Japanese language processing
 | 🔗 [igakuqa119](https://github.com/docto-rin/igakuqa119) | - | - | ⭐ 7 | 🟢 last wednesday|
 | 🔗 [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) | - | - | ⭐ 6 | 🔴 december 2021|
 | 🔗 [ibus-jig](https://github.com/y-koj/ibus-jig) | - | - | ⭐ 4 | 🔴 december 2023|
+| 🔗 [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) | 📥 21 | 📦 5k | ⭐ 3 | 🔴 november 2024|
 
 
 ## C++
@@ -1444,6 +1450,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - A dictionary converted from SudachiDict for Mozc.
  * [nihongo](https://github.com/sph-mn/nihongo) - japanese language data and dictionary
  * [kagome-dict](https://github.com/ikawaha/kagome-dict) - Dictionary Library for Kagome v2
+ * [canna](https://github.com/canna-input/canna) - Canna Japanese input system
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1524,6 +1531,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 | 🔗 [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) | - | - | ⭐ 20 | 🟢 november 2025|
 | 🔗 [nihongo](https://github.com/sph-mn/nihongo) | - | - | ⭐ 19 | 🟡 january 2025|
 | 🔗 [kagome-dict](https://github.com/ikawaha/kagome-dict) | - | - | ⭐ 15 | 🟢 january|
+| 🔗 [canna](https://github.com/canna-input/canna) | - | - | ⭐ 1 | 🟡 august 2025|
 
 
 ## Corpus
@@ -1770,6 +1778,14 @@ Corpora for tasks such as question answering or entailment recognition
  * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)
  * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing
  * [camera3](https://github.com/cyberagentailab/camera3) - CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese
+ * [jgpqa](https://github.com/llm-jp/jgpqa) - Japanese translation of the GPQA dataset
+ * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
+ * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - Japanese emotion corpus Tokushima Univ. A-2 Lab.
+ * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
+ * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
+ * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
+ * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
+ * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - Japanese text-emoticon data.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1922,6 +1938,14 @@ Corpora for tasks such as question answering or entailment recognition
 | 🔗 [ajimee-bench](https://github.com/azookey/ajimee-bench) | - | - | ⭐ 12 | 🟡 january 2025|
 | 🔗 [j-spaw](https://github.com/takamichi-lab/j-spaw) | - | - | ⭐ 5 | 🟡 august 2025|
 | 🔗 [camera3](https://github.com/cyberagentailab/camera3) | - | - | ⭐ 4 | 🔴 may 2024|
+| 🔗 [jgpqa](https://github.com/llm-jp/jgpqa) | - | - | ⭐ 2 | 🟡 september 2025|
+| 🔗 [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) | - | - | ⭐ 2 | 🔴 june 2021|
+| 🔗 [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) | - | - | ⭐ 2 | 🔴 september 2024|
+| 🔗 [osworld-jp](https://github.com/karakuri-ai/osworld-jp) | - | - | ⭐ 1 | 🟢 november 2025|
+| 🔗 [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) | - | - | ⭐ 1 | 🔴 july 2023|
+| 🔗 [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) | - | - | ⭐ 1 | 🟢 october 2025|
+| 🔗 [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) | - | - | ⭐ 1 | 🔴 may 2022|
+| 🔗 [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) | - | - | ⭐ 1 | 🔴 march 2021|
 
 
 ## Tutorial
@@ -1959,6 +1983,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
  * [ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
+ * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1996,6 +2021,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 | 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 84 | 🟢 january|
 | 🔗 [ir100](https://github.com/ir100/ir100) | - | - | ⭐ 93 | 🟢 december 2025|
+| 🔗 [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) | - | - | ⭐ 4 | 🟢 last wednesday|
 
 
 ## Research summary

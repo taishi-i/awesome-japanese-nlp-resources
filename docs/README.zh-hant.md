@@ -152,6 +152,7 @@ _Updated on Jan 13, 2026_
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - J.DepP的Python綁定（日本依存句法分析器的C++實現）
  * [lightblue](https://github.com/daisukebekki/lightblue) - 一個具有DTS表示的日語CCG解析器
  * [natsume-simple](https://github.com/borh-lab/natsume-simple) - natsume-simple是一個日語的依存關係搜索系統。
+ * [jdeppy](https://github.com/matsurih/jdeppy) - Python 封裝器用於 J.DepP，快速的日語依存分析器
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -168,6 +169,7 @@ _Updated on Jan 13, 2026_
 | 🔗 [jdepp-python](https://github.com/lighttransport/jdepp-python) | 📥 441 | 📦 273k | ⭐ 4 | 🔴 february 2024|
 | 🔗 [lightblue](https://github.com/daisukebekki/lightblue) | - | - | ⭐ 26 | 🟢 last monday|
 | 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 | 🟡 february 2025|
+| 🔗 [jdeppy](https://github.com/matsurih/jdeppy) | 📥 6 | 📦 11k | ⭐ 3 | 🔴 february 2022|
 
 
 ### Converter
@@ -351,6 +353,7 @@ _Updated on Jan 13, 2026_
  * [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) - 對Manga109s數據集上的PaddleOCR-VL進行微調，以用於日本漫畫文本識別。基礎模型在漫畫中垂直日文文本的閱讀順序方面存在困難。經過微調後，模型能夠正確處理漫畫特定的文本布局。
  * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - 一個針對日文文本的輕量級OCR模型，特別適用於漫畫。
  * [meikiocr](https://github.com/rtr46/meikiocr) - 高速、高精度、適用於日本視頻遊戲的本地OCR
+ * [meikipop](https://github.com/rtr46/meikipop) - 通用日語OCR彈出式字典，適用於Windows、Linux和macOS
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -373,6 +376,7 @@ _Updated on Jan 13, 2026_
 | 🔗 [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) | - | - | ⭐ 5 | 🟢 december 2025|
 | 🔗 [MangaOCR](https://github.com/gnurt2041/MangaOCR) | - | - | ⭐ 33 | 🔴 may 2024|
 | 🔗 [meikiocr](https://github.com/rtr46/meikiocr) | 📥 2k | 📦 10k | ⭐ 42 | 🟢 last tuesday|
+| 🔗 [meikipop](https://github.com/rtr46/meikipop) | - | - | ⭐ 165 | 🟢 last friday|
 
 
 ### Tool for pretrained models
@@ -645,6 +649,7 @@ _Updated on Jan 13, 2026_
  * [igakuqa119](https://github.com/docto-rin/igakuqa119) - 評估第119屆日本醫學執照考試上的LLMs
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - 使用Transformers的RemBertTokenizerFast進行日語長單位詞分詞器
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig：使用GPT-4的日語輸入法
+ * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - 一個輕量級的Python庫，旨在根據可定制的規則從日文文本中過濾停用詞。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -840,6 +845,7 @@ _Updated on Jan 13, 2026_
 | 🔗 [igakuqa119](https://github.com/docto-rin/igakuqa119) | - | - | ⭐ 7 | 🟢 last wednesday|
 | 🔗 [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) | - | - | ⭐ 6 | 🔴 december 2021|
 | 🔗 [ibus-jig](https://github.com/y-koj/ibus-jig) | - | - | ⭐ 4 | 🔴 december 2023|
+| 🔗 [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) | 📥 21 | 📦 5k | ⭐ 3 | 🔴 november 2024|
 
 
 ## C++
@@ -1443,6 +1449,7 @@ _Updated on Jan 13, 2026_
  * [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) - 從SudachiDict轉換為Mozc的字典
  * [nihongo](https://github.com/sph-mn/nihongo) - 日語語言數據和詞典
  * [kagome-dict](https://github.com/ikawaha/kagome-dict) - Kagome v2 的字典库
+ * [canna](https://github.com/canna-input/canna) - 干那日本輸入系統
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1523,6 +1530,7 @@ _Updated on Jan 13, 2026_
 | 🔗 [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) | - | - | ⭐ 20 | 🟢 november 2025|
 | 🔗 [nihongo](https://github.com/sph-mn/nihongo) | - | - | ⭐ 19 | 🟡 january 2025|
 | 🔗 [kagome-dict](https://github.com/ikawaha/kagome-dict) | - | - | ⭐ 15 | 🟢 january|
+| 🔗 [canna](https://github.com/canna-input/canna) | - | - | ⭐ 1 | 🟡 august 2025|
 
 
 ## Corpus
@@ -1769,6 +1777,14 @@ _Updated on Jan 13, 2026_
  * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench（高級日語輸入法評估基準）
  * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW：用於語音識別和防欺騙的日語語音語料庫
  * [camera3](https://github.com/cyberagentailab/camera3) - 相機3：一個用於日文可控廣告文本生成的評估數據集
+ * [jgpqa](https://github.com/llm-jp/jgpqa) - GPQA數據集的日文翻譯
+ * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - 正在去除田中语料库的噪音。
+ * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - 日本情感語料庫德島大學A-2實驗室。
+ * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 為了考慮語言的評估，日語版電腦使用基準测试
+ * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - 擬似日本評論 (擬似レビューデータ)
+ * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診病歷製作問卷數據集
+ * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市鎮村合併等導致舊地名消失的舊地名與新地名對應表
+ * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - 日本文本表情符號數據。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1921,6 +1937,14 @@ _Updated on Jan 13, 2026_
 | 🔗 [ajimee-bench](https://github.com/azookey/ajimee-bench) | - | - | ⭐ 12 | 🟡 january 2025|
 | 🔗 [j-spaw](https://github.com/takamichi-lab/j-spaw) | - | - | ⭐ 5 | 🟡 august 2025|
 | 🔗 [camera3](https://github.com/cyberagentailab/camera3) | - | - | ⭐ 4 | 🔴 may 2024|
+| 🔗 [jgpqa](https://github.com/llm-jp/jgpqa) | - | - | ⭐ 2 | 🟡 september 2025|
+| 🔗 [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) | - | - | ⭐ 2 | 🔴 june 2021|
+| 🔗 [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) | - | - | ⭐ 2 | 🔴 september 2024|
+| 🔗 [osworld-jp](https://github.com/karakuri-ai/osworld-jp) | - | - | ⭐ 1 | 🟢 november 2025|
+| 🔗 [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) | - | - | ⭐ 1 | 🔴 july 2023|
+| 🔗 [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) | - | - | ⭐ 1 | 🟢 october 2025|
+| 🔗 [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) | - | - | ⭐ 1 | 🔴 may 2022|
+| 🔗 [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) | - | - | ⭐ 1 | 🔴 march 2021|
 
 
 ## Tutorial
@@ -1958,6 +1982,7 @@ _Updated on Jan 13, 2026_
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大學大學院 人工智能科學研究科 自然語言處理特論
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 從原論文中揭示的生成人工智慧（技術評論社）的支援頁面。
  * [ir100](https://github.com/ir100/ir100) - 情報檢索100本敲門
+ * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 支援網站：《Kaggle 開始大規模語言模型入門 ～自然語言處理〈實踐〉程式設計～》
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1995,6 +2020,7 @@ _Updated on Jan 13, 2026_
 | 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 84 | 🟢 january|
 | 🔗 [ir100](https://github.com/ir100/ir100) | - | - | ⭐ 93 | 🟢 december 2025|
+| 🔗 [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) | - | - | ⭐ 4 | 🟢 last wednesday|
 
 
 ## Research summary
