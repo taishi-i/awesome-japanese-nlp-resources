@@ -1788,6 +1788,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [ajimee-bench](https://github.com/azookey/ajimee-bench) - AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)
  * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing
  * [camera3](https://github.com/cyberagentailab/camera3) - CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese
+ * [jgpqa](https://github.com/llm-jp/jgpqa) - Japanese translation of the GPQA dataset
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1940,6 +1941,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[ajimee-bench](https://github.com/azookey/ajimee-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azookey/ajimee-bench?style=social)|
 |[j-spaw](https://github.com/takamichi-lab/j-spaw)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/j-spaw?style=social)|
 |[camera3](https://github.com/cyberagentailab/camera3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cyberagentailab/camera3?style=social)|
+|[jgpqa](https://github.com/llm-jp/jgpqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/jgpqa?style=social)|
 
 
 ## Tutorial
