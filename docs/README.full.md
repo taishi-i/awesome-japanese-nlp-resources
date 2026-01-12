@@ -660,6 +660,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
  * [igakuqa119](https://github.com/docto-rin/igakuqa119) - Evaluating LLMs on the 119th Japanese Medical Licensing Examination
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - Japanese Long-Unit-Word Tokenizer with RemBertTokenizerFast of Transformers
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig: Japanese-language Input-method using GPT-4
+ * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -855,6 +856,7 @@ Training and evaluation scripts for JGLUE, a Japanese language understanding ben
 |[igakuqa119](https://github.com/docto-rin/igakuqa119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/docto-rin/igakuqa119?style=social)|
 |[japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koichiyasuoka/japanese-luw-tokenizer?style=social)|
 |[ibus-jig](https://github.com/y-koj/ibus-jig)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/y-koj/ibus-jig?style=social)|
+|[jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter/week)](https://pepy.tech/project/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter)](https://pepy.tech/project/jp-stopword-filter)|![GitHub Repo stars](https://img.shields.io/github/stars/BrambleXu/jp-stopword-filter?style=social)|
 
 
 ## C++
