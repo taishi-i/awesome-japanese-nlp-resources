@@ -166,6 +166,7 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
  * [jdepp-python](https://github.com/lighttransport/jdepp-python) - Python binding for J.DepP(C++ implementation of Japanese Dependency Parsers)
  * [lightblue](https://github.com/daisukebekki/lightblue) - A CCG parser for Japanese with DTS-representations
  * [natsume-simple](https://github.com/borh-lab/natsume-simple) - natsume-simpleは日本語の係り受け関係検索システム
+ * [jdeppy](https://github.com/matsurih/jdeppy) - Python wrapper for J.DepP, fast Japanese Dependency Parser
 
 
 |Name|downloads/week|total downloads|stars|
@@ -182,6 +183,7 @@ Libraries that analyze syntactic and dependency structures of Japanese sentences
 |[jdepp-python](https://github.com/lighttransport/jdepp-python)|[![Downloads](https://pepy.tech/badge/jdepp/week)](https://pepy.tech/project/jdepp)|[![Downloads](https://pepy.tech/badge/jdepp)](https://pepy.tech/project/jdepp)|![GitHub Repo stars](https://img.shields.io/github/stars/lighttransport/jdepp-python?style=social)|
 |[lightblue](https://github.com/daisukebekki/lightblue)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/daisukebekki/lightblue?style=social)|
 |[natsume-simple](https://github.com/borh-lab/natsume-simple)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/borh-lab/natsume-simple?style=social)|
+|[jdeppy](https://github.com/matsurih/jdeppy)|[![Downloads](https://pepy.tech/badge/jdeppy/week)](https://pepy.tech/project/jdeppy)|[![Downloads](https://pepy.tech/badge/jdeppy)](https://pepy.tech/project/jdeppy)|![GitHub Repo stars](https://img.shields.io/github/stars/matsurih/jdeppy?style=social)|
 
 
 ### Converter
