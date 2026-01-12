@@ -1791,6 +1791,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jgpqa](https://github.com/llm-jp/jgpqa) - Japanese translation of the GPQA dataset
  * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
  * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - Japanese emotion corpus Tokushima Univ. A-2 Lab.
+ * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1946,6 +1947,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jgpqa](https://github.com/llm-jp/jgpqa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/jgpqa?style=social)|
 |[tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marmooo/tanaka-corpus-plus?style=social)|
 |[emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab?style=social)|
+|[osworld-jp](https://github.com/karakuri-ai/osworld-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/karakuri-ai/osworld-jp?style=social)|
 
 
 ## Tutorial
