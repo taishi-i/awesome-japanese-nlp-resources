@@ -9223,6 +9223,18 @@
                     "zh-hans": "日本文本表情数据。",
                     "zh-hant": "日本文本表情符號數據。"
                 }
+            },
+            "https://github.com/kishiyamat/mishearing-corpus": {
+                "sub_category": null,
+                "repository_name": "mishearing-corpus",
+                "user_name": "kishiyamat",
+                "description": "聞き間違えコーパス︱CSV＋Table Schema で約 1 万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actions で自動検証を行う日本語データセット",
+                "multilingual_descriptions": {
+                    "en": "聞き間違えコーパス︱CSV＋Table Schema で約 1 万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actions で自動検証を行う日本語データセット",
+                    "ja": "聞き間違えコーパス︱CSV＋テーブルスキーマで約1万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actionsで自動検証を行う日本語データセット",
+                    "zh-hans": "听错语料库︱CSV＋表模式 管理约1万条数据，使用VS Code＋pre-commit＋Frictionless＋GitHub Actions进行自动验证的日语数据集",
+                    "zh-hant": "聽錯誤語料庫︱CSV＋表格架構 約1萬條記錄，使用VS Code＋pre-commit＋Frictionless＋GitHub Actions進行自動驗證的日語數據集。"
+                }
             }
         },
         "Tutorial": {

@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [812件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [288 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [813件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [255 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,27 +18,9 @@
 ## 🎉 The latest additions
 
 **Corpus**
- * [jgpqa](https://github.com/llm-jp/jgpqa) - GPQAデータセットの日本語翻訳
- * [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) - Tanaka Corpus のノイズを除去しています。
- * [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) - 日本の感情コーパス 徳島大学 A-2 研究室
- * [osworld-jp](https://github.com/karakuri-ai/osworld-jp) - 言語を考慮した評価のための、日本語版コンピュータユースベンチマーク
- * [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) - Quasi Japanese Reviews (擬似レビューデータ)
- * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
- * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
- * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - 日本語のテキスト絵文字データ。
+ * [mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus) - 聞き間違えコーパス︱CSV＋テーブルスキーマで約1万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actionsで自動検証を行う日本語データセット
 
-**Python**
- * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。
- * [jdeppy](https://github.com/matsurih/jdeppy) - J.DepP用のPythonラッパー、高速日本語依存構造解析器
- * [meikipop](https://github.com/rtr46/meikipop) - Windows、Linux、およびmacOS用のユニバーサル日本語OCRポップアップ辞書
-
-**Dictionary and IME**
- * [canna](https://github.com/canna-input/canna) - カンナ日本語入力システム
-
-**Tutorial**
-  * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
-
-_Updated on Jan 13, 2026_
+_Updated on Jan 20, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1785,6 +1767,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) - 精神科初診カルテ作成アンケート データセット
  * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
  * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - 日本語のテキスト絵文字データ。
+ * [mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus) - 聞き間違えコーパス︱CSV＋テーブルスキーマで約1万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actionsで自動検証を行う日本語データセット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1945,6 +1928,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/psychiatry-clinical-notes?style=social)|
 |[merged-town-names](https://github.com/yuukitoriyama/merged-town-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukitoriyama/merged-town-names?style=social)|
 |[japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuroshiba-ginji/japanesetextemoticondata?style=social)|
+|[mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kishiyamat/mishearing-corpus?style=social)|
 
 
 ## Tutorial
