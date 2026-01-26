@@ -972,6 +972,7 @@ Supplementary crates for Japanese text and IME processing
  * [koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
  * [yomine](https://github.com/mcgrizzz/yomine) - A Japanese vocabulary mining tool designed to help language learners mine new words and expressions.
  * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - lightweight japanese ime written in rust
+ * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -996,6 +997,7 @@ Supplementary crates for Japanese text and IME processing
 |[koharu](https://github.com/mayocream/koharu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayocream/koharu?style=social)|
 |[yomine](https://github.com/mcgrizzz/yomine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mcgrizzz/yomine?style=social)|
 |[matsuba](https://github.com/mrpicklepinosaur/matsuba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mrpicklepinosaur/matsuba?style=social)|
+|[hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asutorufa/hujiang_dictionary?style=social)|
 
 
 ## JavaScript
