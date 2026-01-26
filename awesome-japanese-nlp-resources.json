@@ -3889,6 +3889,18 @@
                     "zh-hans": "一个轻量级的Python库，旨在根据可定制的规则从日文文本中过滤停用词。",
                     "zh-hant": "一個輕量級的Python庫，旨在根據可定制的規則從日文文本中過濾停用詞。"
                 }
+            },
+            "https://github.com/terallite/yasumail": {
+                "sub_category": null,
+                "repository_name": "yasumail",
+                "user_name": "terallite",
+                "description": "Synthetic Japanese business email generator for ML training data",
+                "multilingual_descriptions": {
+                    "en": "Synthetic Japanese business email generator for ML training data",
+                    "ja": "MLトレーニングデータ用の合成日本語ビジネスメールジェネレータ",
+                    "zh-hans": "用于机器学习训练数据的合成日本商务电子邮件生成器",
+                    "zh-hant": "用於機器學習訓練數據的合成日本商務電子郵件生成器"
+                }
             }
         },
         "C++": {
@@ -4492,6 +4504,18 @@
                     "ja": "軽量な日本語IMEをRustで書かれました。",
                     "zh-hans": "轻量级的用Rust编写的日语输入法",
                     "zh-hant": "輕量級的日文輸入法，使用Rust語言編寫"
+                }
+            },
+            "https://github.com/asutorufa/hujiang_dictionary": {
+                "sub_category": null,
+                "repository_name": "hujiang_dictionary",
+                "user_name": "asutorufa",
+                "description": "日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.",
+                "multilingual_descriptions": {
+                    "en": "日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.",
+                    "ja": "Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。",
+                    "zh-hans": "日本語辞書由Rust支持，支持Telegram机器人，AWS Lambda和Cloudflare Workers。支持LLM和搜索RAG。",
+                    "zh-hant": "由Rust製作的日本語辭典，支援Telegram機器人、AWS Lambda和Cloudflare Workers。支援LLM和搜索RAG。"
                 }
             }
         },
