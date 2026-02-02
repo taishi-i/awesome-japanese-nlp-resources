@@ -3901,6 +3901,18 @@
                     "zh-hans": "用于机器学习训练数据的合成日本商务电子邮件生成器",
                     "zh-hant": "用於機器學習訓練數據的合成日本商務電子郵件生成器"
                 }
+            },
+            "https://github.com/msr2903/himotoki": {
+                "sub_category": null,
+                "repository_name": "himotoki",
+                "user_name": "msr2903",
+                "description": "A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.",
+                "multilingual_descriptions": {
+                    "en": "A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.",
+                    "ja": "Pythonベースの日本語トークナイザー、辞書、形態素解析ツール、ローマ字変換ツール。言語学習用のJMDictに基づいています。",
+                    "zh-hans": "一个基于Python的日语分词器、词典、形态分析器和罗马化工具。基于JMDict用于语言学习。",
+                    "zh-hant": "一個基於Python的日文分詞器、詞典、形態分析器和羅馬拼音工具。基於JMDict用於語言學習。"
+                }
             }
         },
         "C++": {
@@ -7000,6 +7012,18 @@
                     "ja": "カンナ日本語入力システム",
                     "zh-hans": "卡纳日本输入系统",
                     "zh-hant": "干那日本輸入系統"
+                }
+            },
+            "https://github.com/nullponull/kansai-accent-dictionary": {
+                "sub_category": null,
+                "repository_name": "kansai-accent-dictionary",
+                "user_name": "nullponull",
+                "description": "4,615語を収録した日本語方言アクセント辞書",
+                "multilingual_descriptions": {
+                    "en": "Kansai Dialect Dictionary - A Japanese dialect accent dictionary containing 4,615 words.",
+                    "ja": "京阪式アクセント（関西弁）辞書 - 4,615語を収録した日本語方言アクセント辞書",
+                    "zh-hans": "京阪式口音（关西方言）词典 - 收录了4,615个日本方言口音词汇。",
+                    "zh-hant": "京阪式口音（關西方言）詞典 - 收錄了4,615個日本方言口音的詞彙"
                 }
             }
         },
