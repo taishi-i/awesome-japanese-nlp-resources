@@ -637,6 +637,7 @@ General-purpose tools supporting Japanese language processing
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - ibus-jig: Japanese-language Input-method using GPT-4
  * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.
  * [yasumail](https://github.com/terallite/yasumail) - Synthetic Japanese business email generator for ML training data
+ * [himotoki](https://github.com/msr2903/himotoki) - A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -834,6 +835,7 @@ General-purpose tools supporting Japanese language processing
 |[ibus-jig](https://github.com/y-koj/ibus-jig)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/y-koj/ibus-jig?style=social)|
 |[jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter/week)](https://pepy.tech/project/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter)](https://pepy.tech/project/jp-stopword-filter)|![GitHub Repo stars](https://img.shields.io/github/stars/BrambleXu/jp-stopword-filter?style=social)|
 |[yasumail](https://github.com/terallite/yasumail)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/terallite/yasumail?style=social)|
+|[himotoki](https://github.com/msr2903/himotoki)|[![Downloads](https://pepy.tech/badge/himotoki/week)](https://pepy.tech/project/himotoki)|[![Downloads](https://pepy.tech/badge/himotoki)](https://pepy.tech/project/himotoki)|![GitHub Repo stars](https://img.shields.io/github/stars/msr2903/himotoki?style=social)|
 
 
 ## C++
