@@ -1086,6 +1086,7 @@ Other libraries for Japanese NLP in JavaScript
  * [japanese-analyzer](https://github.com/cokice/japanese-analyzer) - Japanese Sentence Analyzer (日本語文章解析器)
  * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - Normalize Japanese Furigana
  * [yama](https://github.com/sapjax/yama) - acquire Japanese vocabulary on any website
+ * [kaitai](https://github.com/compile10/kaitai) - An application for analyzing Japanese sentence structure using AI. This tool visualizes how words and phrases relate to each other, showing grammatical relationships with interactive diagrams.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1110,6 +1111,7 @@ Other libraries for Japanese NLP in JavaScript
 |[japanese-analyzer](https://github.com/cokice/japanese-analyzer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cokice/japanese-analyzer?style=social)|
 |[japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/japanese-furigana-normalize?style=social)|
 |[yama](https://github.com/sapjax/yama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sapjax/yama?style=social)|
+|[kaitai](https://github.com/compile10/kaitai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/compile10/kaitai?style=social)|
 
 
 ## Go
