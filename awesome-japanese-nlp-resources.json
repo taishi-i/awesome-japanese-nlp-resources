@@ -4987,6 +4987,30 @@
                     "zh-hans": "规范化日语振假名",
                     "zh-hant": "標準化日文振假名"
                 }
+            },
+            "https://github.com/sapjax/yama": {
+                "sub_category": null,
+                "repository_name": "yama",
+                "user_name": "sapjax",
+                "description": "acquire Japanese vocabulary on any website",
+                "multilingual_descriptions": {
+                    "en": "acquire Japanese vocabulary on any website",
+                    "ja": "任意のウェブサイトで日本語の語彙を習得します。",
+                    "zh-hans": "在任何网站上获取日语词汇",
+                    "zh-hant": "在任何網站上學習日語詞彙"
+                }
+            },
+            "https://github.com/compile10/kaitai": {
+                "sub_category": null,
+                "repository_name": "kaitai",
+                "user_name": "compile10",
+                "description": "An application for analyzing Japanese sentence structure using AI. This tool visualizes how words and phrases relate to each other, showing grammatical relationships with interactive diagrams.",
+                "multilingual_descriptions": {
+                    "en": "An application for analyzing Japanese sentence structure using AI. This tool visualizes how words and phrases relate to each other, showing grammatical relationships with interactive diagrams.",
+                    "ja": "AIを使用して日本語の文章構造を分析するためのアプリケーションです。このツールは、単語やフレーズがどのように関連しているかを視覚化し、インタラクティブな図表で文法的な関係を示します。",
+                    "zh-hans": "一款利用人工智能分析日语句子结构的应用程序。这个工具可以将单词和短语之间的关系可视化，通过交互式图表展示语法关系。",
+                    "zh-hant": "一個使用人工智慧來分析日語句子結構的應用程式。這個工具可以將詞語和片語之間的關係可視化，並通過互動圖表展示語法關係。"
+                }
             }
         },
         "Go": {

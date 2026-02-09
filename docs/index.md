@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [817件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [237 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [819件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [240 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [リポジトリ情報を検索するツールをリリース 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,13 +17,11 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [himotoki](https://github.com/msr2903/himotoki) - Pythonベースの日本語トークナイザー、辞書、形態素解析ツール、ローマ字変換ツール。言語学習用のJMDictに基づいています。
+**JavaScript**
+ * [yama](https://github.com/sapjax/yama) - 任意のウェブサイトで日本語の語彙を習得します。
+ * [kaitai](https://github.com/compile10/kaitai) - AIを使用して日本語の文章構造を分析するためのアプリケーションです。このツールは、単語やフレーズがどのように関連しているかを視覚化し、インタラクティブな図表で文法的な関係を示します。
 
-**Dictionary and IME**
- * [kansai-accent-dictionary](https://github.com/nullponull/kansai-accent-dictionary) - 京阪式アクセント（関西弁）辞書 - 4,615語を収録した日本語方言アクセント辞書
-
-_Updated on Feb 03, 2026_
+_Updated on Feb 10, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1084,6 +1082,8 @@ Rustで実装された日本語形態素解析ライブラリ
  * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
  * [japanese-analyzer](https://github.com/cokice/japanese-analyzer) - 日本語文章解析器
  * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - 日本語のフリガナを正規化します。
+ * [yama](https://github.com/sapjax/yama) - 任意のウェブサイトで日本語の語彙を習得します。
+ * [kaitai](https://github.com/compile10/kaitai) - AIを使用して日本語の文章構造を分析するためのアプリケーションです。このツールは、単語やフレーズがどのように関連しているかを視覚化し、インタラクティブな図表で文法的な関係を示します。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1107,6 +1107,8 @@ Rustで実装された日本語形態素解析ライブラリ
 |[closewords](https://github.com/otoneko1102/closewords)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/otoneko1102/closewords?style=social)|
 |[japanese-analyzer](https://github.com/cokice/japanese-analyzer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cokice/japanese-analyzer?style=social)|
 |[japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/japanese-furigana-normalize?style=social)|
+|[yama](https://github.com/sapjax/yama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sapjax/yama?style=social)|
+|[kaitai](https://github.com/compile10/kaitai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/compile10/kaitai?style=social)|
 
 
 ## Go
