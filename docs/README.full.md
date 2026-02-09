@@ -1085,6 +1085,7 @@ Other libraries for Japanese NLP in JavaScript
  * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
  * [japanese-analyzer](https://github.com/cokice/japanese-analyzer) - Japanese Sentence Analyzer (日本語文章解析器)
  * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - Normalize Japanese Furigana
+ * [yama](https://github.com/sapjax/yama) - acquire Japanese vocabulary on any website
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1108,6 +1109,7 @@ Other libraries for Japanese NLP in JavaScript
 |[closewords](https://github.com/otoneko1102/closewords)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/otoneko1102/closewords?style=social)|
 |[japanese-analyzer](https://github.com/cokice/japanese-analyzer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cokice/japanese-analyzer?style=social)|
 |[japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/japanese-furigana-normalize?style=social)|
+|[yama](https://github.com/sapjax/yama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sapjax/yama?style=social)|
 
 
 ## Go
