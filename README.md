@@ -636,6 +636,7 @@ General-purpose tools supporting Japanese language processing
  * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.
  * [yasumail](https://github.com/terallite/yasumail) - Synthetic Japanese business email generator for ML training data
  * [himotoki](https://github.com/msr2903/himotoki) - A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.
+ * [edinet-mcp](https://github.com/ajtgjmdjp/edinet-mcp) - EDINET XBRL parsing library and MCP server for Japanese financial data.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -834,6 +835,7 @@ General-purpose tools supporting Japanese language processing
 | 🔗 [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) | 📥 36 | 📦 5k | ⭐ 3 | 🔴 november 2024|
 | 🔗 [yasumail](https://github.com/terallite/yasumail) | - | - | ⭐ 2 | 🟢 january|
 | 🔗 [himotoki](https://github.com/msr2903/himotoki) | 📥 434 | 📦 3k | ⭐ 2 | 🟢 yesterday|
+| 🔗 [edinet-mcp](https://github.com/ajtgjmdjp/edinet-mcp) | - | - | ⭐ 0 | 🟢 february|
 
 
 ## C++
@@ -1782,6 +1784,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) - 市町村合併などにより消滅した旧地名と新地名の対応表
  * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - Japanese text-emoticon data.
  * [mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus) - 聞き間違えコーパス︱CSV＋Table Schema で約 1 万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actions で自動検証を行う日本語データセット
+ * [jfinqa](https://github.com/ajtgjmdjp/jfinqa) - Japanese financial question answering benchmark with 1,000 questions from 68 listed companies.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1943,6 +1946,7 @@ Corpora for tasks such as question answering or entailment recognition
 | 🔗 [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) | - | - | ⭐ 1 | 🔴 may 2022|
 | 🔗 [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) | - | - | ⭐ 1 | 🔴 march 2021|
 | 🔗 [mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus) | - | - | ⭐ 1 | 🟢 january|
+| 🔗 [jfinqa](https://github.com/ajtgjmdjp/jfinqa) | - | - | ⭐ 0 | 🟢 february|
 
 
 ## Tutorial
