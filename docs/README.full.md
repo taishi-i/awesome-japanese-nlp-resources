@@ -1783,6 +1783,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) - Japanese text-emoticon data.
  * [mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus) - 聞き間違えコーパス︱CSV＋Table Schema で約 1 万件を管理し、VS Code＋pre-commit＋Frictionless＋GitHub Actions で自動検証を行う日本語データセット
  * [kotowaza](https://github.com/septn/kotowaza) - Structured JSON dataset of Japanese proverbs (kotowaza) with meanings in Indonesian & English, examples, JLPT levels, and tags.
+ * [selective-rag-kasensabo](https://github.com/tk-yasuno/selective-rag-kasensabo) - 建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1945,6 +1946,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuroshiba-ginji/japanesetextemoticondata?style=social)|
 |[mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kishiyamat/mishearing-corpus?style=social)|
 |[kotowaza](https://github.com/septn/kotowaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/septn/kotowaza?style=social)|
+|[selective-rag-kasensabo](https://github.com/tk-yasuno/selective-rag-kasensabo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tk-yasuno/selective-rag-kasensabo?style=social)|
 
 
 ## Tutorial
