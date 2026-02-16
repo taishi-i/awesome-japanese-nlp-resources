@@ -9307,6 +9307,30 @@
                     "zh-hans": "听错语料库︱CSV＋表模式 管理约1万条数据，使用VS Code＋pre-commit＋Frictionless＋GitHub Actions进行自动验证的日语数据集",
                     "zh-hant": "聽錯誤語料庫︱CSV＋表格架構 約1萬條記錄，使用VS Code＋pre-commit＋Frictionless＋GitHub Actions進行自動驗證的日語數據集。"
                 }
+            },
+            "https://github.com/septn/kotowaza": {
+                "sub_category": null,
+                "repository_name": "kotowaza",
+                "user_name": "septn",
+                "description": "Structured JSON dataset of Japanese proverbs (kotowaza) with meanings in Indonesian & English, examples, JLPT levels, and tags.",
+                "multilingual_descriptions": {
+                    "en": "Structured JSON dataset of Japanese proverbs (kotowaza) with meanings in Indonesian & English, examples, JLPT levels, and tags.",
+                    "ja": "日本のことわざ（ことわざ）の構造化されたJSONデータセット。インドネシア語と英語での意味、例、JLPTレベル、およびタグが含まれています。\n\n日本のことわざ（ことわざ）の構造化されたJSONデータセット。インドネシア語と英語での意味、例、JLPTレベル、およびタグが含まれています。",
+                    "zh-hans": "包含日语谚语（kotowaza）的结构化JSON数据集，其中包括印尼语和英语的含义、例子、JLPT级别和标签。\n包含日语谚语（kotowaza）的结构化JSON数据集，其中包括印尼语和英语的含义、例子、JLPT级别和标签。",
+                    "zh-hant": "結構化的JSON數據集，包含日本諺語（kotowaza）的印尼文和英文含義，例子，JLPT級別和標籤。\n結構化的JSON數據集，包含日本諺語（kotowaza）的印尼文和英文含義，例子，JLPT級別和標籤。"
+                }
+            },
+            "https://github.com/tk-yasuno/selective-rag-kasensabo": {
+                "sub_category": null,
+                "repository_name": "selective-rag-kasensabo",
+                "user_name": "tk-yasuno",
+                "description": "建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。",
+                "multilingual_descriptions": {
+                    "en": "This is a practical Agentic RAG system MVP that accurately automatically determines the expertise granularity (fine/coarse) of questions related to construction technology standards at 96% and selects the optimal RAG system (ColBERT/Naive). Four RAG systems were built targeting the technical standards of river sand control dams published in November 2025, and accuracy and speed were compared for 200 questions with different granularity of expertise.",
+                    "ja": "建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。",
+                    "zh-hans": "该实用的Agentic RAG系统的MVP能够以96%的准确率自动判定建设技术标准相关问题的专业性粒度（细/粗），并选择最佳的RAG系统（ColBERT/Naive）。针对2025年11月公布的河川防砂坝技术标准，构建了四种不同的RAG系统，并对200个不同专业性粒度的问题进行了精度和速度比较。",
+                    "zh-hant": "建設技術標準相關問題的專業性細度（細/粗）可自動判定96％準確，選擇最佳的RAG系統（ColBERT/Naive）的實用Agentic RAG系統MVP。該系統於2025年11月針對河川防砂壩技術標準建立了四個RAG系統，並對200個不同專業性細度的問題進行了準確度和速度比較。"
+                }
             }
         },
         "Tutorial": {
