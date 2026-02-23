@@ -5011,6 +5011,18 @@
                     "zh-hans": "一款利用人工智能分析日语句子结构的应用程序。这个工具可以将单词和短语之间的关系可视化，通过交互式图表展示语法关系。",
                     "zh-hant": "一個使用人工智慧來分析日語句子結構的應用程式。這個工具可以將詞語和片語之間的關係可視化，並通過互動圖表展示語法關係。"
                 }
+            },
+            "https://github.com/ln2058/tsukeru-furigana-converter": {
+                "sub_category": null,
+                "repository_name": "tsukeru-furigana-converter",
+                "user_name": "ln2058",
+                "description": "Browser extension (Chrome/Edge/Firefox) that injects furigana into Japanese webpages on-demand; includes dictionary tooltips, JLPT filtering, and vocab/Anki export.",
+                "multilingual_descriptions": {
+                    "en": "Browser extension (Chrome/Edge/Firefox) that injects furigana into Japanese webpages on-demand; includes dictionary tooltips, JLPT filtering, and vocab/Anki export.",
+                    "ja": "ブラウザ拡張機能（Chrome/Edge/Firefox）は、日本語のウェブページにフリガナを注入するもので、辞書のツールチップ、JLPTのフィルタリング、単語/Ankiのエクスポートを含んでいます。",
+                    "zh-hans": "浏览器扩展（Chrome/Edge/Firefox），可按需将振仮名注入日语网页；包括词典工具提示、JLPT过滤和词汇/Anki导出。",
+                    "zh-hant": "瀏覽器擴充功能（Chrome/Edge/Firefox），可按需將振假名注入日文網頁；包括詞典工具提示、JLPT篩選和詞彙/Anki導出。"
+                }
             }
         },
         "Go": {
@@ -7048,6 +7060,18 @@
                     "ja": "京阪式アクセント（関西弁）辞書 - 4,615語を収録した日本語方言アクセント辞書",
                     "zh-hans": "京阪式口音（关西方言）词典 - 收录了4,615个日本方言口音词汇。",
                     "zh-hant": "京阪式口音（關西方言）詞典 - 收錄了4,615個日本方言口音的詞彙"
+                }
+            },
+            "https://github.com/jitendex/jitendex": {
+                "sub_category": null,
+                "repository_name": "jitendex",
+                "user_name": "jitendex",
+                "description": "A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!",
+                "multilingual_descriptions": {
+                    "en": "A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!",
+                    "ja": "無料で、オフラインで、オープンライセンスの日本語から英語への辞書。毎月更新されます！",
+                    "zh-hans": "一个免费、离线和开放许可的日语到英语词典。每月更新！",
+                    "zh-hant": "一個免費、離線和開放授權的日語至英語詞典。每月更新！"
                 }
             }
         },

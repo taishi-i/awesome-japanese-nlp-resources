@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [823 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [237 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [825 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [244 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Released [a tool 🔎](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search) for searching through a large number of repository information
 
 
@@ -18,15 +18,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Python**
- * [edinet-mcp](https://github.com/ajtgjmdjp/edinet-mcp) - EDINET XBRL parsing library and MCP server for Japanese financial data.
+**JavaScript**
+ * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - Browser extension (Chrome/Edge/Firefox) that injects furigana into Japanese webpages on-demand; includes dictionary tooltips, JLPT filtering, and vocab/Anki export.
 
-**Corpus**
- * [jfinqa](https://github.com/ajtgjmdjp/jfinqa) - Japanese financial question answering benchmark with 1,000 questions from 68 listed companies.
- * [kotowaza](https://github.com/septn/kotowaza) - Structured JSON dataset of Japanese proverbs (kotowaza) with meanings in Indonesian & English, examples, JLPT levels, and tags.
- * [selective-rag-kasensabo](https://github.com/tk-yasuno/selective-rag-kasensabo) - 建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。
+**Dictionary and IME**
+ * [jitendex](https://github.com/jitendex/jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
 
-_Updated on Feb 17, 2026_
+_Updated on Feb 24, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
