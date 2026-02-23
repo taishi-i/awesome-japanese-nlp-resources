@@ -1089,6 +1089,7 @@ Other libraries for Japanese NLP in JavaScript
  * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - Normalize Japanese Furigana
  * [yama](https://github.com/sapjax/yama) - acquire Japanese vocabulary on any website
  * [kaitai](https://github.com/compile10/kaitai) - An application for analyzing Japanese sentence structure using AI. This tool visualizes how words and phrases relate to each other, showing grammatical relationships with interactive diagrams.
+ * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - Browser extension (Chrome/Edge/Firefox) that injects furigana into Japanese webpages on-demand; includes dictionary tooltips, JLPT filtering, and vocab/Anki export.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1114,6 +1115,7 @@ Other libraries for Japanese NLP in JavaScript
 |[japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/japanese-furigana-normalize?style=social)|
 |[yama](https://github.com/sapjax/yama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sapjax/yama?style=social)|
 |[kaitai](https://github.com/compile10/kaitai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/compile10/kaitai?style=social)|
+|[tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ln2058/tsukeru-furigana-converter?style=social)|
 
 
 ## Go
