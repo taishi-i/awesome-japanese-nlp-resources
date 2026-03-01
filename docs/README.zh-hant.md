@@ -10,7 +10,7 @@
 
 - [列出了827個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
 - [列出了259個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
-🎉 我們於2026年3月1日正式發布了日語NLP資源調查工具 [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/)！
+- 🎉 我們於2026年3月1日正式發布了日語NLP資源調查工具 [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/)！
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
