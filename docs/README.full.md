@@ -2072,3 +2072,4 @@ Summaries of studies and papers in Japanese NLP research
  * [bomin0624](https://github.com/bomin0624) - [twitter](https://twitter.com/bomin0624_c)
  * [passaglia](https://github.com/passaglia) - [twitter](https://twitter.com/SamPassaglia)
  * [sarumaj](https://github.com/sarumaj) - [github](https://github.com/sarumaj)
+ * [ln2058](https://github.com/ln2058) - [github](https://github.com/ln2058)
