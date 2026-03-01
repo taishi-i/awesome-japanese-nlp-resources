@@ -7073,6 +7073,18 @@
                     "zh-hans": "一个免费、离线和开放许可的日语到英语词典。每月更新！",
                     "zh-hant": "一個免費、離線和開放授權的日語至英語詞典。每月更新！"
                 }
+            },
+            "https://github.com/togatoga/karukan": {
+                "sub_category": null,
+                "repository_name": "karukan",
+                "user_name": "togatoga",
+                "description": "Japanese Input Method System for Linux, Neural Kana-Kanji Conversion Engine + fcitx5 IME",
+                "multilingual_descriptions": {
+                    "en": "Japanese Input Method System for Linux, Neural Kana-Kanji Conversion Engine + fcitx5 IME",
+                    "ja": "Linux向け日本語入力システム、ニューラル仮名漢字変換エンジン+fcitx5 IME",
+                    "zh-hans": "Linux的日语输入法系统，神经假名汉字转换引擎+fcitx5输入法。",
+                    "zh-hant": "Linux的日文輸入法系統，神經假名漢字轉換引擎 + fcitx5輸入法"
+                }
             }
         },
         "Corpus": {
@@ -9354,6 +9366,18 @@
                     "ja": "建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。",
                     "zh-hans": "该实用的Agentic RAG系统的MVP能够以96%的准确率自动判定建设技术标准相关问题的专业性粒度（细/粗），并选择最佳的RAG系统（ColBERT/Naive）。针对2025年11月公布的河川防砂坝技术标准，构建了四种不同的RAG系统，并对200个不同专业性粒度的问题进行了精度和速度比较。",
                     "zh-hant": "建設技術標準相關問題的專業性細度（細/粗）可自動判定96％準確，選擇最佳的RAG系統（ColBERT/Naive）的實用Agentic RAG系統MVP。該系統於2025年11月針對河川防砂壩技術標準建立了四個RAG系統，並對200個不同專業性細度的問題進行了準確度和速度比較。"
+                }
+            },
+            "https://github.com/naoto-iwase/jmle2026-bench": {
+                "sub_category": null,
+                "repository_name": "jmle2026-bench",
+                "user_name": "naoto-iwase",
+                "description": "LLM benchmark on the 120th Japanese Medical Licensing Examination (Feb 7-8, 2026)",
+                "multilingual_descriptions": {
+                    "en": "LLM benchmark on the 120th Japanese Medical Licensing Examination (Feb 7-8, 2026)",
+                    "ja": "2026年2月7日から8日に行われる第120回日本医師免許試験のLLMベンチマーク",
+                    "zh-hans": "2026年2月7日至8日第120届日本医师执照考试上的LLM基准",
+                    "zh-hant": "2026年2月7日至8日第120屆日本醫學執照考試的LLM基準"
                 }
             }
         },
