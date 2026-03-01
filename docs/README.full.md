@@ -1450,6 +1450,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [canna](https://github.com/canna-input/canna) - Canna Japanese input system
  * [kansai-accent-dictionary](https://github.com/nullponull/kansai-accent-dictionary) - 京阪式アクセント（関西弁）辞書 - 4,615語を収録した日本語方言アクセント辞書
  * [jitendex](https://github.com/jitendex/jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
+ * [karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, Neural Kana-Kanji Conversion Engine + fcitx5 IME
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1533,6 +1534,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[canna](https://github.com/canna-input/canna)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/canna-input/canna?style=social)|
 |[kansai-accent-dictionary](https://github.com/nullponull/kansai-accent-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nullponull/kansai-accent-dictionary?style=social)|
 |[jitendex](https://github.com/jitendex/jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jitendex/jitendex?style=social)|
+|[karukan](https://github.com/togatoga/karukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/karukan?style=social)|
 
 
 ## Corpus
