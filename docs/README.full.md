@@ -1793,6 +1793,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [kotowaza](https://github.com/septn/kotowaza) - Structured JSON dataset of Japanese proverbs (kotowaza) with meanings in Indonesian & English, examples, JLPT levels, and tags.
  * [selective-rag-kasensabo](https://github.com/tk-yasuno/selective-rag-kasensabo) - 建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。
  * [jmle2026-bench](https://github.com/naoto-iwase/jmle2026-bench) - LLM benchmark on the 120th Japanese Medical Licensing Examination (Feb 7-8, 2026)
+ * [JSTS-Neg](https://github.com/reiko-y/JSTS-Neg) - 否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1957,6 +1958,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[kotowaza](https://github.com/septn/kotowaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/septn/kotowaza?style=social)|
 |[selective-rag-kasensabo](https://github.com/tk-yasuno/selective-rag-kasensabo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tk-yasuno/selective-rag-kasensabo?style=social)|
 |[jmle2026-bench](https://github.com/naoto-iwase/jmle2026-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naoto-iwase/jmle2026-bench?style=social)|
+|[JSTS-Neg](https://github.com/reiko-y/JSTS-Neg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reiko-y/JSTS-Neg?style=social)|
 
 
 ## Tutorial
