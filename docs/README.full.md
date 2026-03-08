@@ -1451,6 +1451,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [kansai-accent-dictionary](https://github.com/nullponull/kansai-accent-dictionary) - 京阪式アクセント（関西弁）辞書 - 4,615語を収録した日本語方言アクセント辞書
  * [jitendex](https://github.com/jitendex/jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
  * [karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, Neural Kana-Kanji Conversion Engine + fcitx5 IME
+ * [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) - 嫉妬辞書（Shitto-Mania / Jealousy Dictionary）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1535,6 +1536,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[kansai-accent-dictionary](https://github.com/nullponull/kansai-accent-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nullponull/kansai-accent-dictionary?style=social)|
 |[jitendex](https://github.com/jitendex/jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jitendex/jitendex?style=social)|
 |[karukan](https://github.com/togatoga/karukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/karukan?style=social)|
+|[shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/junikematsu/shitto-mania-dic?style=social)|
 
 
 ## Corpus
