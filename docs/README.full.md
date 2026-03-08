@@ -1803,6 +1803,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [WLSP-antonym](https://github.com/masayu-a/WLSP-antonym) - Antonym relations for 'Word List by Semantic Principles (WLSP)'
  * [YouCook2-JP](https://github.com/nlab-mpg/YouCook2-JP) - Japanese translation of the YouCook2 dataset.
  * [E2U](https://github.com/sociocom/E2U) - つたわる化に関するデータ
+ * [annotation-2025](https://github.com/Tiny-Colony/annotation-2025) - このリポジトリは，テキストの「解釈」を人手とLLM出力で比較できるデータを公開するためのものです．
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1972,6 +1973,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[WLSP-antonym](https://github.com/masayu-a/WLSP-antonym)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/WLSP-antonym?style=social)|
 |[YouCook2-JP](https://github.com/nlab-mpg/YouCook2-JP)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlab-mpg/YouCook2-JP?style=social)|
 |[E2U](https://github.com/sociocom/E2U)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/E2U?style=social)|
+|[annotation-2025](https://github.com/Tiny-Colony/annotation-2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Tiny-Colony/annotation-2025?style=social)|
 
 
 ## Tutorial
