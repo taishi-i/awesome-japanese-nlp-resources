@@ -641,6 +641,7 @@ General-purpose tools supporting Japanese language processing
  * [diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit) - A toolkit for synthesizing filler-rich, short-utterance Japanese dialogue scripts for speech-based interaction using Large Language Models (LLMs) This project is designed to generate data in two phases: Seed Generation (metadata creation) and Dialogue Generation (script creation).
  * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - Evaluating Multimodal Large Language Models on Vertically Written Japanese Text
  * [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) - 本コードは，大規模言語モデル（LLM）の学習用コーパスから，個人情報の中でも特に配慮が求められる「要配慮個人情報」をフィルタリングするためのものです.
+ * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - Evaluating Multimodal Large Language Models on Vertically Written Japanese Text
 
 
 |Name|downloads/week|total downloads|stars|
@@ -842,6 +843,7 @@ General-purpose tools supporting Japanese language processing
 |[diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/diafill-toolkit?style=social)|
 |[eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/eval_vertical_ja?style=social)|
 |[jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matsuolab/jp-llm-corpus-pii-filter?style=social)|
+|[eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/eval_vertical_ja?style=social)|
 
 
 ## C++
