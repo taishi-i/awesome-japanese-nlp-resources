@@ -3913,6 +3913,42 @@
                     "zh-hans": "一个基于Python的日语分词器、词典、形态分析器和罗马化工具。基于JMDict用于语言学习。",
                     "zh-hant": "一個基於Python的日文分詞器、詞典、形態分析器和羅馬拼音工具。基於JMDict用於語言學習。"
                 }
+            },
+            "https://github.com/sbintuitions/diafill-toolkit": {
+                "sub_category": null,
+                "repository_name": "diafill-toolkit",
+                "user_name": "sbintuitions",
+                "description": "A toolkit for synthesizing filler-rich, short-utterance Japanese dialogue scripts for speech-based interaction using Large Language Models (LLMs) This project is designed to generate data in two phases: Seed Generation (metadata creation) and Dialogue Generation (script creation).",
+                "multilingual_descriptions": {
+                    "en": "A toolkit for synthesizing filler-rich, short-utterance Japanese dialogue scripts for speech-based interaction using Large Language Models (LLMs) This project is designed to generate data in two phases: Seed Generation (metadata creation) and Dialogue Generation (script creation).",
+                    "ja": "音声ベースのインタラクションに使用する、フィラー豊富で短い発話の日本語ダイアログスクリプトを合成するためのツールキット。このプロジェクトは、データを生成するために2つのフェーズで設計されています：シード生成（メタデータ作成）とダイアログ生成（スクリプト作成）。",
+                    "zh-hans": "用大型语言模型（LLMs）合成填充物丰富、短话语的日语对话脚本的工具包。该项目旨在通过两个阶段生成数据：种子生成（元数据创建）和对话生成（脚本创建）。",
+                    "zh-hant": "一個用於使用大型語言模型（LLMs）合成填充豐富、短發話的日語對話腳本的工具包。該項目旨在通過兩個階段生成數據：種子生成（元數據創建）和對話生成（腳本創建）。"
+                }
+            },
+            "https://github.com/llm-jp/eval_vertical_ja": {
+                "sub_category": null,
+                "repository_name": "eval_vertical_ja",
+                "user_name": "llm-jp",
+                "description": "Evaluating Multimodal Large Language Models on Vertically Written Japanese Text",
+                "multilingual_descriptions": {
+                    "en": "Evaluating Multimodal Large Language Models on Vertically Written Japanese Text",
+                    "ja": "縦書き日本語テキストにおけるマルチモーダル大規模言語モデルの評価",
+                    "zh-hans": "评估多模态大型语言模型在竖排日文文本上的表现",
+                    "zh-hant": "評估多模式大型語言模型對垂直書寫的日文文本進行評估"
+                }
+            },
+            "https://github.com/matsuolab/jp-llm-corpus-pii-filter": {
+                "sub_category": null,
+                "repository_name": "jp-llm-corpus-pii-filter",
+                "user_name": "matsuolab",
+                "description": "本コードは，大規模言語モデル（LLM）の学習用コーパスから，個人情報の中でも特に配慮が求められる「要配慮個人情報」をフィルタリングするためのものです.",
+                "multilingual_descriptions": {
+                    "en": "This code is for filtering \"sensitive personal information\" that requires special consideration, from the training corpus of a large-scale language model (LLM).",
+                    "ja": "本コードは，大規模言語モデル（LLM）の学習用コーパスから，個人情報の中でも特に配慮が求められる「要配慮個人情報」をフィルタリングするためのものです.",
+                    "zh-hans": "这段代码是用于从大规模语言模型（LLM）的训练语料库中过滤特别需要注意的个人信息，即“需要注意的个人信息”。",
+                    "zh-hant": "這段程式碼是為了從大型語言模型（LLM）的訓練語料庫中篩選出特別需要注意的個人資訊，也就是「要特別注意的個人資訊」。"
+                }
             }
         },
         "C++": {
@@ -7085,6 +7121,18 @@
                     "zh-hans": "Linux的日语输入法系统，神经假名汉字转换引擎+fcitx5输入法。",
                     "zh-hant": "Linux的日文輸入法系統，神經假名漢字轉換引擎 + fcitx5輸入法"
                 }
+            },
+            "https://github.com/junikematsu/shitto-mania-dic": {
+                "sub_category": null,
+                "repository_name": "shitto-mania-dic",
+                "user_name": "junikematsu",
+                "description": "嫉妬辞書（Shitto-Mania / Jealousy Dictionary）",
+                "multilingual_descriptions": {
+                    "en": "嫉妬辞書（Shitto-Mania / Jealousy Dictionary）",
+                    "ja": "嫉妬辞書（シットーマニア / ジェラシーディクショナリー）",
+                    "zh-hans": "嫉妒词典（Shitto-Mania / Jealousy Dictionary）",
+                    "zh-hant": "嫉妒辭典（Shitto-Mania / Jealousy Dictionary）"
+                }
             }
         },
         "Corpus": {
@@ -7458,6 +7506,42 @@
                     "ja": "ロールプレイで収集した日本語のカウンセリング対話データセット",
                     "zh-hans": "通过角色扮演收集的日语咨询对话数据集",
                     "zh-hant": "透過角色扮演收集的日語諮詢對話數據集"
+                }
+            },
+            "https://github.com/llm-jp/JMultiWOZ-TC": {
+                "sub_category": "Dialog corpus",
+                "repository_name": "JMultiWOZ-TC",
+                "user_name": "llm-jp",
+                "description": "マルチターン対話でのエージェントのfunction calling評価",
+                "multilingual_descriptions": {
+                    "en": "Evaluation of agent's function calling in multi-turn dialogue",
+                    "ja": "マルチターン対話でのエージェントのfunction calling評価",
+                    "zh-hans": "在多轮对话中评估代理的function calling",
+                    "zh-hant": "在多輪對話中評估代理人的function calling"
+                }
+            },
+            "https://github.com/EhimeNLP/HOTATE": {
+                "sub_category": "Dialog corpus",
+                "repository_name": "HOTATE",
+                "user_name": "EhimeNLP",
+                "description": "本音・建前付き日本語対話データセット",
+                "multilingual_descriptions": {
+                    "en": "Honne-tatemae Japanese dialogue dataset with true feelings and social facade",
+                    "ja": "本音・建前付き日本語対話データセット",
+                    "zh-hans": "本音・建前付き日本語对话数据集",
+                    "zh-hant": "本音・建前付き日本語對話數據集"
+                }
+            },
+            "https://github.com/UEC-InabaLab/ETCDataset": {
+                "sub_category": "Dialog corpus",
+                "repository_name": "ETCDataset",
+                "user_name": "UEC-InabaLab",
+                "description": "Emotion Transcription in Conversation Dataset は，対話中の各発話に対して話者自身が記述した心情文を含む，約1,000 件の対話からなる日本語対話データセットです．",
+                "multilingual_descriptions": {
+                    "en": "Emotion Transcription in Conversation Dataset は，対話中の各発話に対して話者自身が記述した心情文を含む，約1,000 件の対話からなる日本語対話データセットです．",
+                    "ja": "Emotion Transcription in Conversation Dataset は，対話中の各発話に対して話者自身が記述した心情文を含む，約1,000 件の対話からなる日本語対話データセットです．",
+                    "zh-hans": "情绪转录对话数据集包含了约1,000个对话，每个对话中包含了对话参与者自己描述的情绪文本。",
+                    "zh-hant": "情感轉錄對話數據集包含約1,000個對話，每個對話都包含對話者自己記錄的情感文。這是一個日語對話數據集。"
                 }
             },
             "https://github.com/megagonlabs/jrte-corpus": {
@@ -9378,6 +9462,102 @@
                     "ja": "2026年2月7日から8日に行われる第120回日本医師免許試験のLLMベンチマーク",
                     "zh-hans": "2026年2月7日至8日第120届日本医师执照考试上的LLM基准",
                     "zh-hant": "2026年2月7日至8日第120屆日本醫學執照考試的LLM基準"
+                }
+            },
+            "https://github.com/reiko-y/JSTS-Neg": {
+                "sub_category": null,
+                "repository_name": "JSTS-Neg",
+                "user_name": "reiko-y",
+                "description": "否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。",
+                "multilingual_descriptions": {
+                    "en": "This is a public repository for the Japanese Semantic Textual Similarity calculation dataset JSTS-Neg, which is used to evaluate negative comprehension ability. JSTS-Neg was created by extending the language inference dataset JSTS included in JGLUE.",
+                    "ja": "否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。",
+                    "zh-hans": "这是用于评估否定理解能力的日语意义相似度计算数据集JSTS-Neg的公开存储库。JSTS-Neg是通过扩展包含在JGLUE中的语言推理数据集JSTS而创建的。",
+                    "zh-hant": "這是用於評估否定理解能力的日語意義相似度計算數據集JSTS-Neg的公開存儲庫。JSTS-Neg是通過擴展包含在JGLUE中的語言推論數據集JSTS而創建的。"
+                }
+            },
+            "https://github.com/stockmarkteam/business-slide-questions": {
+                "sub_category": null,
+                "repository_name": "business-slide-questions",
+                "user_name": "stockmarkteam",
+                "description": "このリポジトリでは、ビジネス資料（スライド）を対象とした Visual Question Answering (VQA) ベンチマーク「BusinessSlideVQA」を提供しています。",
+                "multilingual_descriptions": {
+                    "en": "In this repository, we provide a Visual Question Answering (VQA) benchmark called \"BusinessSlideVQA\" targeting business documents (slides).",
+                    "ja": "このリポジトリでは、ビジネス資料（スライド）を対象とした Visual Question Answering (VQA) ベンチマーク「BusinessSlideVQA」を提供しています。",
+                    "zh-hans": "在这个存储库中，我们提供了针对商业资料（幻灯片）的视觉问答（VQA）基准测试“BusinessSlideVQA”。",
+                    "zh-hant": "在這個存儲庫中，我們提供了針對商業資料（幻燈片）的視覺問答（VQA）基準測試\"BusinessSlideVQA\"。"
+                }
+            },
+            "https://github.com/masayu-a/WLSP-antonym": {
+                "sub_category": null,
+                "repository_name": "WLSP-antonym",
+                "user_name": "masayu-a",
+                "description": "Antonym relations for 'Word List by Semantic Principles (WLSP)'",
+                "multilingual_descriptions": {
+                    "en": "Antonym relations for 'Word List by Semantic Principles (WLSP)'",
+                    "ja": "「意味原則による単語リスト（WLSP）」の反意語関係",
+                    "zh-hans": "根据语义原则的词汇列表（WLSP）的反义词关系",
+                    "zh-hant": "根據語義原則的詞彙列表（WLSP）的反義詞關係"
+                }
+            },
+            "https://github.com/nlab-mpg/YouCook2-JP": {
+                "sub_category": null,
+                "repository_name": "YouCook2-JP",
+                "user_name": "nlab-mpg",
+                "description": "Japanese translation of the YouCook2 dataset.",
+                "multilingual_descriptions": {
+                    "en": "Japanese translation of the YouCook2 dataset.",
+                    "ja": "YouCook2データセットの日本語翻訳。",
+                    "zh-hans": "YouCook2数据集的日语翻译。",
+                    "zh-hant": "YouCook2數據集的日文翻譯。"
+                }
+            },
+            "https://github.com/sociocom/E2U": {
+                "sub_category": null,
+                "repository_name": "E2U",
+                "user_name": "sociocom",
+                "description": "つたわる化に関するデータ",
+                "multilingual_descriptions": {
+                    "en": "Data on the spread of transformation",
+                    "ja": "つたわる化に関するデータ",
+                    "zh-hans": "传达关于变化的数据",
+                    "zh-hant": "傳播化相關數據"
+                }
+            },
+            "https://github.com/Tiny-Colony/annotation-2025": {
+                "sub_category": null,
+                "repository_name": "annotation-2025",
+                "user_name": "Tiny-Colony",
+                "description": "このリポジトリは，テキストの「解釈」を人手とLLM出力で比較できるデータを公開するためのものです．",
+                "multilingual_descriptions": {
+                    "en": "This repository is for releasing data that allows for comparing the \"interpretation\" of text between manual and LLM outputs.",
+                    "ja": "このリポジトリは，テキストの「解釈」を人手とLLM出力で比較できるデータを公開するためのものです．",
+                    "zh-hans": "这个存储库是为了公开可以比较人工和LLM输出的文本“解释”的数据。",
+                    "zh-hant": "這個存儲庫是為了公開可以比較人工和LLM輸出的文本“解釋”的數據。"
+                }
+            },
+            "https://github.com/nict-astrec-att/jhpt": {
+                "sub_category": null,
+                "repository_name": "jhpt",
+                "user_name": "nict-astrec-att",
+                "description": "歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．",
+                "multilingual_descriptions": {
+                    "en": "This is a parallel dataset that aligns original texts of historical Japanese language materials with modern language translations (reference translations) on a segment-by-segment basis. Please refer to the paper for more details.",
+                    "ja": "歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．",
+                    "zh-hans": "这是一个将历史日语资料的原文文本和现代语言翻译（参考翻译）文本按段落对应的对照数据集。详细信息请参阅论文。",
+                    "zh-hant": "歷史的日本語資料的原文文本和現代語翻譯（參照譯）文本已經按段落對應起來，形成對譯資料集。詳細內容請參考論文。"
+                }
+            },
+            "https://github.com/hancules/JBE-QA": {
+                "sub_category": null,
+                "repository_name": "JBE-QA",
+                "user_name": "hancules",
+                "description": "Japanese Bar Exam QA",
+                "multilingual_descriptions": {
+                    "en": "Japanese Bar Exam QA",
+                    "ja": "日本の司法試験のQ&A",
+                    "zh-hans": "日本司法考试问答",
+                    "zh-hant": "日本司法考试问答"
                 }
             }
         },

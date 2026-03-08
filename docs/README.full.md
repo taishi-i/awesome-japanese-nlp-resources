@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [827 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [259 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [841 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [258 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
 
@@ -18,13 +18,29 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Dictionary and IME**
- * [karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, Neural Kana-Kanji Conversion Engine + fcitx5 IME
-
 **Corpus**
- * [jmle2026-bench](https://github.com/naoto-iwase/jmle2026-bench) - LLM benchmark on the 120th Japanese Medical Licensing Examination (Feb 7-8, 2026)
+ * [JSTS-Neg](https://github.com/reiko-y/JSTS-Neg) - 否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。
+ * [JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC) - マルチターン対話でのエージェントのfunction calling評価
+ * [HOTATE](https://github.com/EhimeNLP/HOTATE) - 本音・建前付き日本語対話データセット
+ * [ETCDataset](https://github.com/UEC-InabaLab/ETCDataset) - Emotion Transcription in Conversation Dataset は，対話中の各発話に対して話者自身が記述した心情文を含む，約1,000 件の対話からなる日本語対話データセットです．
+ * [business-slide-questions](https://github.com/stockmarkteam/business-slide-questions) - このリポジトリでは、ビジネス資料（スライド）を対象とした Visual Question Answering (VQA) ベンチマーク「BusinessSlideVQA」を提供しています。
+ * [WLSP-antonym](https://github.com/masayu-a/WLSP-antonym) - Antonym relations for 'Word List by Semantic Principles (WLSP)'
+ * [YouCook2-JP](https://github.com/nlab-mpg/YouCook2-JP) - Japanese translation of the YouCook2 dataset.
+ * [E2U](https://github.com/sociocom/E2U) - つたわる化に関するデータ
+ * [annotation-2025](https://github.com/Tiny-Colony/annotation-2025) - このリポジトリは，テキストの「解釈」を人手とLLM出力で比較できるデータを公開するためのものです．
+ * [jhpt](https://github.com/nict-astrec-att/jhpt) - 歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．
+ * [JBE-QA](https://github.com/hancules/JBE-QA) - Japanese Bar Exam QA
 
-_Updated on Mar 01, 2026_
+**Python**
+ * [diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit) - A toolkit for synthesizing filler-rich, short-utterance Japanese dialogue scripts for speech-based interaction using Large Language Models (LLMs) This project is designed to generate data in two phases: Seed Generation (metadata creation) and Dialogue Generation (script creation).
+ * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - Evaluating Multimodal Large Language Models on Vertically Written Japanese Text
+ * [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) - 本コードは，大規模言語モデル（LLM）の学習用コーパスから，個人情報の中でも特に配慮が求められる「要配慮個人情報」をフィルタリングするためのものです.
+ * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - Evaluating Multimodal Large Language Models on Vertically Written Japanese Text
+
+**Dictionary and IME**
+ * [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) - 嫉妬辞書（Shitto-Mania / Jealousy Dictionary）
+
+_Updated on Mar 08, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
