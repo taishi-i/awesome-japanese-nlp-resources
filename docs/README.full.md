@@ -1615,6 +1615,7 @@ Collections of conversation data for training dialogue systems
  * [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) - LLM構築用の日本語チャットデータセット
  * [kokorochat](https://github.com/uec-inabalab/kokorochat) - ロールプレイで収集した日本語のカウンセリング対話データセット
  * [JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC) - マルチターン対話でのエージェントのfunction calling評価
+ * [HOTATE](https://github.com/EhimeNLP/HOTATE) - 本音・建前付き日本語対話データセット
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1629,6 +1630,7 @@ Collections of conversation data for training dialogue systems
 |[llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masanorihirano/llm-japanese-dataset?style=social)|
 |[kokorochat](https://github.com/uec-inabalab/kokorochat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uec-inabalab/kokorochat?style=social)|
 |[JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/JMultiWOZ-TC?style=social)|
+|[HOTATE](https://github.com/EhimeNLP/HOTATE)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/HOTATE?style=social)|
 
 
 ### Others
