@@ -1800,6 +1800,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jmle2026-bench](https://github.com/naoto-iwase/jmle2026-bench) - LLM benchmark on the 120th Japanese Medical Licensing Examination (Feb 7-8, 2026)
  * [JSTS-Neg](https://github.com/reiko-y/JSTS-Neg) - 否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。
  * [business-slide-questions](https://github.com/stockmarkteam/business-slide-questions) - このリポジトリでは、ビジネス資料（スライド）を対象とした Visual Question Answering (VQA) ベンチマーク「BusinessSlideVQA」を提供しています。
+ * [WLSP-antonym](https://github.com/masayu-a/WLSP-antonym) - Antonym relations for 'Word List by Semantic Principles (WLSP)'
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1966,6 +1967,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jmle2026-bench](https://github.com/naoto-iwase/jmle2026-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naoto-iwase/jmle2026-bench?style=social)|
 |[JSTS-Neg](https://github.com/reiko-y/JSTS-Neg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reiko-y/JSTS-Neg?style=social)|
 |[business-slide-questions](https://github.com/stockmarkteam/business-slide-questions)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stockmarkteam/business-slide-questions?style=social)|
+|[WLSP-antonym](https://github.com/masayu-a/WLSP-antonym)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/WLSP-antonym?style=social)|
 
 
 ## Tutorial
