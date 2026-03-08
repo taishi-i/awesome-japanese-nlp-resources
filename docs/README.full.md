@@ -1616,6 +1616,7 @@ Collections of conversation data for training dialogue systems
  * [kokorochat](https://github.com/uec-inabalab/kokorochat) - ロールプレイで収集した日本語のカウンセリング対話データセット
  * [JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC) - マルチターン対話でのエージェントのfunction calling評価
  * [HOTATE](https://github.com/EhimeNLP/HOTATE) - 本音・建前付き日本語対話データセット
+ * [ETCDataset](https://github.com/UEC-InabaLab/ETCDataset) - Emotion Transcription in Conversation Dataset は，対話中の各発話に対して話者自身が記述した心情文を含む，約1,000 件の対話からなる日本語対話データセットです．
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1631,7 +1632,7 @@ Collections of conversation data for training dialogue systems
 |[kokorochat](https://github.com/uec-inabalab/kokorochat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uec-inabalab/kokorochat?style=social)|
 |[JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/JMultiWOZ-TC?style=social)|
 |[HOTATE](https://github.com/EhimeNLP/HOTATE)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/HOTATE?style=social)|
-
+|[ETCDataset](https://github.com/UEC-InabaLab/ETCDataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/UEC-InabaLab/ETCDataset?style=social)|
 
 ### Others
 Corpora for tasks such as question answering or entailment recognition
