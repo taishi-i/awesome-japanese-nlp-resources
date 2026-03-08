@@ -1802,6 +1802,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [business-slide-questions](https://github.com/stockmarkteam/business-slide-questions) - このリポジトリでは、ビジネス資料（スライド）を対象とした Visual Question Answering (VQA) ベンチマーク「BusinessSlideVQA」を提供しています。
  * [WLSP-antonym](https://github.com/masayu-a/WLSP-antonym) - Antonym relations for 'Word List by Semantic Principles (WLSP)'
  * [YouCook2-JP](https://github.com/nlab-mpg/YouCook2-JP) - Japanese translation of the YouCook2 dataset.
+ * [E2U](https://github.com/sociocom/E2U) - つたわる化に関するデータ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1970,6 +1971,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[business-slide-questions](https://github.com/stockmarkteam/business-slide-questions)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stockmarkteam/business-slide-questions?style=social)|
 |[WLSP-antonym](https://github.com/masayu-a/WLSP-antonym)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/WLSP-antonym?style=social)|
 |[YouCook2-JP](https://github.com/nlab-mpg/YouCook2-JP)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlab-mpg/YouCook2-JP?style=social)|
+|[E2U](https://github.com/sociocom/E2U)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sociocom/E2U?style=social)|
 
 
 ## Tutorial
