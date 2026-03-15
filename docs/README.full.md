@@ -1832,6 +1832,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [annotation-2025](https://github.com/Tiny-Colony/annotation-2025) - このリポジトリは，テキストの「解釈」を人手とLLM出力で比較できるデータを公開するためのものです．
  * [jhpt](https://github.com/nict-astrec-att/jhpt) - 歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．
  * [JBE-QA](https://github.com/hancules/JBE-QA) - Japanese Bar Exam QA
+ * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2004,6 +2005,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[annotation-2025](https://github.com/Tiny-Colony/annotation-2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Tiny-Colony/annotation-2025?style=social)|
 |[jhpt](https://github.com/nict-astrec-att/jhpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nict-astrec-att/jhpt?style=social)|
 |[JBE-QA](https://github.com/hancules/JBE-QA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hancules/JBE-QA?style=social)|
+|[j-spaw](https://github.com/takamichi-lab/j-spaw)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/j-spaw?style=social)|
 
 
 ## Tutorial
