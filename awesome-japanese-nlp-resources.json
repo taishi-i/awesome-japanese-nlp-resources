@@ -3949,6 +3949,18 @@
                     "zh-hans": "这段代码是用于从大规模语言模型（LLM）的训练语料库中过滤特别需要注意的个人信息，即“需要注意的个人信息”。",
                     "zh-hant": "這段程式碼是為了從大型語言模型（LLM）的訓練語料庫中篩選出特別需要注意的個人資訊，也就是「要特別注意的個人資訊」。"
                 }
+            },
+            "https://github.com/ganbon/Novel2DialCorpus": {
+                "sub_category": null,
+                "repository_name": "Novel2DialCorpus",
+                "user_name": "ganbon",
+                "description": "小説テキストから雑談対話コーパスを構築する手法",
+                "multilingual_descriptions": {
+                    "en": "Method for constructing a casual conversation corpus from novel texts",
+                    "ja": "小説テキストから雑談対話コーパスを構築する手法",
+                    "zh-hans": "从小说文本中构建闲聊对话语料库的方法",
+                    "zh-hant": "從小說文本建立閒聊對話語料庫的方法"
+                }
             }
         },
         "C++": {
@@ -9540,7 +9552,7 @@
                 "sub_category": null,
                 "repository_name": "jhpt",
                 "user_name": "nict-astrec-att",
-                "description": "歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．",
+                "description": "歴史的日本語資料対訳データセット",
                 "multilingual_descriptions": {
                     "en": "This is a parallel dataset that aligns original texts of historical Japanese language materials with modern language translations (reference translations) on a segment-by-segment basis. Please refer to the paper for more details.",
                     "ja": "歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．",
@@ -9558,6 +9570,30 @@
                     "ja": "日本の司法試験のQ&A",
                     "zh-hans": "日本司法考试问答",
                     "zh-hant": "日本司法考试问答"
+                }
+            },
+            "https://github.com/EhimeNLP/JMedWiC": {
+                "sub_category": null,
+                "repository_name": "JMedWiC",
+                "user_name": "EhimeNLP",
+                "description": "マスク言語モデルを用いて擬似的な同義・非同義ペアを自動抽出し，人手による同義性アノテーションを通じてラベルを決定することで，日本語の医療分野における語義同一性判定データセットを構築しました．",
+                "multilingual_descriptions": {
+                    "en": "Using a masked language model, we automatically extracted pseudo-synonymous and non-synonymous pairs, and determined labels through manual synonym annotation to construct a dataset for determining word sense identity in the Japanese medical field.",
+                    "ja": "マスク言語モデルを用いて擬似的な同義・非同義ペアを自動抽出し，人手による同義性アノテーションを通じてラベルを決定することで，日本語の医療分野における語義同一性判定データセットを構築しました．",
+                    "zh-hans": "通过使用掩码语言模型自动提取伪同义和非同义对，并通过人工同义性标注确定标签，我们构建了日本医疗领域的词义一致性判定数据集。",
+                    "zh-hant": "利用遮罩語言模型自動提取虛擬的同義和非同義對，通過人工同義性標註來確定標籤，從而構建了日本醫療領域詞義一致性判定數據集。"
+                }
+            },
+            "https://github.com/0017-alt/Doppelganger-JC": {
+                "sub_category": null,
+                "repository_name": "Doppelganger-JC",
+                "user_name": "0017-alt",
+                "description": "This is a dataset benchmarking the misuse of cross-lingual homographs between Chinese and Japanese in LLMs.",
+                "multilingual_descriptions": {
+                    "en": "This is a dataset benchmarking the misuse of cross-lingual homographs between Chinese and Japanese in LLMs.",
+                    "ja": "これは、LLM（Large Language Model）における中国語と日本語の間でのクロスリンガルな同音異義語の誤用をベンチマークとしたデータセットです。",
+                    "zh-hans": "这是一个数据集，用于在LLMs中对比中日两种语言之间跨语言同形异义词的误用情况。",
+                    "zh-hant": "這是一個資料集，用於評估語言模型中中日跨語言同形異義詞的誤用情況。"
                 }
             }
         },
