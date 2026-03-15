@@ -1833,6 +1833,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jhpt](https://github.com/nict-astrec-att/jhpt) - 歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．
  * [JBE-QA](https://github.com/hancules/JBE-QA) - Japanese Bar Exam QA
  * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing
+ * [JMedWiC](https://github.com/EhimeNLP/JMedWiC) - マスク言語モデルを用いて擬似的な同義・非同義ペアを自動抽出し，人手による同義性アノテーションを通じてラベルを決定することで，日本語の医療分野における語義同一性判定データセットを構築しました．
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2006,6 +2007,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jhpt](https://github.com/nict-astrec-att/jhpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nict-astrec-att/jhpt?style=social)|
 |[JBE-QA](https://github.com/hancules/JBE-QA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hancules/JBE-QA?style=social)|
 |[j-spaw](https://github.com/takamichi-lab/j-spaw)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/j-spaw?style=social)|
+|[JMedWiC](https://github.com/EhimeNLP/JMedWiC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/JMedWiC?style=social)|
 
 
 ## Tutorial
