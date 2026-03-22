@@ -9595,6 +9595,30 @@
                     "zh-hans": "这是一个数据集，用于在LLMs中对比中日两种语言之间跨语言同形异义词的误用情况。",
                     "zh-hant": "這是一個資料集，用於評估語言模型中中日跨語言同形異義詞的誤用情況。"
                 }
+            },
+            "https://github.com/kuramitsulab/modelvista-3lang": {
+                "sub_category": null,
+                "repository_name": "modelvista-3lang",
+                "user_name": "kuramitsulab",
+                "description": "ソフトウェア図理解のためのVLM評価ベンチマーク（日本語・英語・韓国語対応）",
+                "multilingual_descriptions": {
+                    "en": "VLM Evaluation Benchmark for Understanding Software Diagrams (Japanese, English, Korean supported)",
+                    "ja": "ソフトウェア図理解のためのVLM評価ベンチマーク（日本語・英語・韓国語対応）",
+                    "zh-hans": "为了软件图理解的VLM评估基准（支持日语、英语、韩语）",
+                    "zh-hant": "軟體圖理解的VLM評估基準（日文、英文、韓文對應）"
+                }
+            },
+            "https://github.com/kufu/japanese-hr-niah": {
+                "sub_category": null,
+                "repository_name": "japanese-hr-niah",
+                "user_name": "kufu",
+                "description": "日本語人事労務ドメインにおけるロングコンテキストLLMの性能評価ベンチマーク",
+                "multilingual_descriptions": {
+                    "en": "Performance evaluation benchmark of Long Context LLM in the Japanese HR domain.",
+                    "ja": "日本語人事労務ドメインにおけるロングコンテキストLLMの性能評価ベンチマーク",
+                    "zh-hans": "在日本人事劳务领域中，LLM的性能评估基准",
+                    "zh-hant": "在日本語人事勞務領域中，LLM的性能評估基準的長篇內容Benchmark"
+                }
             }
         },
         "Tutorial": {
