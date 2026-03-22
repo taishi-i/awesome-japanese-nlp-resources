@@ -1827,6 +1827,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [JMedWiC](https://github.com/EhimeNLP/JMedWiC) - マスク言語モデルを用いて擬似的な同義・非同義ペアを自動抽出し，人手による同義性アノテーションを通じてラベルを決定することで，日本語の医療分野における語義同一性判定データセットを構築しました．
  * [jhpt](https://github.com/nict-astrec-att/jhpt) - 歴史的日本語資料対訳データセット
  * [Doppelganger-JC](https://github.com/0017-alt/Doppelganger-JC) - This is a dataset benchmarking the misuse of cross-lingual homographs between Chinese and Japanese in LLMs.
+ * [modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang) - ソフトウェア図理解のためのVLM評価ベンチマーク（日本語・英語・韓国語対応）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2003,6 +2004,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[JMedWiC](https://github.com/EhimeNLP/JMedWiC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/EhimeNLP/JMedWiC?style=social)|
 |[jhpt](https://github.com/nict-astrec-att/jhpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nict-astrec-att/jhpt?style=social)|
 |[Doppelganger-JC](https://github.com/0017-alt/Doppelganger-JC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0017-alt/Doppelganger-JC?style=social)|
+|[modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuramitsulab/modelvista-3lang?style=social)|
 
 
 ## Tutorial
