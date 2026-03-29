@@ -9619,6 +9619,18 @@
                     "zh-hans": "在日本人事劳务领域中，LLM的性能评估基准",
                     "zh-hant": "在日本語人事勞務領域中，LLM的性能評估基準的長篇內容Benchmark"
                 }
+            },
+            "https://github.com/kokubunken/nijl-manyoshutei": {
+                "sub_category": null,
+                "repository_name": "nijl-manyoshutei",
+                "user_name": "kokubunken",
+                "description": "本リポジトリでは、関西大学所蔵廣瀬本万葉集のTEI/XMLデータ等をCC-BYライセンスのもとで公開しています。",
+                "multilingual_descriptions": {
+                    "en": "In this repository, we are releasing TEI/XML data of the Hirose Hon Man'yoshu collection held by Kansai University under a CC-BY license.",
+                    "ja": "本リポジトリでは、関西大学所蔵廣瀬本万葉集のTEI/XMLデータ等をCC-BYライセンスのもとで公開しています。",
+                    "zh-hans": "在本存储库中，我们以CC-BY许可证发布了关西大学收藏的广濑本万叶集的TEI/XML数据等。",
+                    "zh-hant": "本存儲庫提供了關西大學所藏廣瀨本萬葉集的TEI/XML數據等，並在CC-BY許可下公開。"
+                }
             }
         },
         "Tutorial": {
