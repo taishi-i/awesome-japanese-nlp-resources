@@ -1822,6 +1822,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [Doppelganger-JC](https://github.com/0017-alt/Doppelganger-JC) - This is a dataset benchmarking the misuse of cross-lingual homographs between Chinese and Japanese in LLMs.
  * [modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang) - ソフトウェア図理解のためのVLM評価ベンチマーク（日本語・英語・韓国語対応）
  * [japanese-hr-niah](https://github.com/kufu/japanese-hr-niah) - 日本語人事労務ドメインにおけるロングコンテキストLLMの性能評価ベンチマーク
+ * [nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei) - 本リポジトリでは、関西大学所蔵廣瀬本万葉集のTEI/XMLデータ等をCC-BYライセンスのもとで公開しています。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2000,6 +2001,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[Doppelganger-JC](https://github.com/0017-alt/Doppelganger-JC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0017-alt/Doppelganger-JC?style=social)|
 |[modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuramitsulab/modelvista-3lang?style=social)|
 |[japanese-hr-niah](https://github.com/kufu/japanese-hr-niah)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kufu/japanese-hr-niah?style=social)|
+|[nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kokubunken/nijl-manyoshutei?style=social)|
 
 
 ## Tutorial
