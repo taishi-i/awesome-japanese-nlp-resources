@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [849 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [264 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [850 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [278 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
 
@@ -19,9 +19,9 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Corpus**
- * [nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei) - 本リポジトリでは、関西大学所蔵廣瀬本万葉集のTEI/XMLデータ等をCC-BYライセンスのもとで公開しています。
+ * [kamuskita](https://github.com/matbahasa/kamuskita) - マレー語勉強会で作っているオープンなマレー語・日本語辞典『みんなのマレー語辞典』
 
-_Updated on Mar 29, 2026_
+_Updated on Apr 06, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

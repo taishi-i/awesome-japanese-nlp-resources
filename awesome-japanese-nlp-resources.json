@@ -9631,6 +9631,18 @@
                     "zh-hans": "在本存储库中，我们以CC-BY许可证发布了关西大学收藏的广濑本万叶集的TEI/XML数据等。",
                     "zh-hant": "本存儲庫提供了關西大學所藏廣瀨本萬葉集的TEI/XML數據等，並在CC-BY許可下公開。"
                 }
+            },
+            "https://github.com/matbahasa/kamuskita": {
+                "sub_category": null,
+                "repository_name": "kamuskita",
+                "user_name": "matbahasa",
+                "description": "マレー語勉強会で作っているオープンなマレー語・日本語辞典『みんなのマレー語辞典』",
+                "multilingual_descriptions": {
+                    "en": "An open Malay-Japanese dictionary \"Everyone's Malay Dictionary\" being created at a Malay language study group.",
+                    "ja": "マレー語勉強会で作っているオープンなマレー語・日本語辞典『みんなのマレー語辞典』",
+                    "zh-hans": "在马来语学习会上制作的开放式马来语-日语词典《大家的马来语词典》",
+                    "zh-hant": "在馬來語學習會上製作的開放式馬來語-日語詞典『大家的馬來語詞典』"
+                }
             }
         },
         "Tutorial": {
