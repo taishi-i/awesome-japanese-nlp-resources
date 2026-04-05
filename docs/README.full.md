@@ -1822,6 +1822,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang) - ソフトウェア図理解のためのVLM評価ベンチマーク（日本語・英語・韓国語対応）
  * [japanese-hr-niah](https://github.com/kufu/japanese-hr-niah) - 日本語人事労務ドメインにおけるロングコンテキストLLMの性能評価ベンチマーク
  * [nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei) - 本リポジトリでは、関西大学所蔵廣瀬本万葉集のTEI/XMLデータ等をCC-BYライセンスのもとで公開しています。
+ * [kamuskita](https://github.com/matbahasa/kamuskita) - マレー語勉強会で作っているオープンなマレー語・日本語辞典『みんなのマレー語辞典』
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2001,6 +2002,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuramitsulab/modelvista-3lang?style=social)|
 |[japanese-hr-niah](https://github.com/kufu/japanese-hr-niah)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kufu/japanese-hr-niah?style=social)|
 |[nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kokubunken/nijl-manyoshutei?style=social)|
+|[kamuskita](https://github.com/matbahasa/kamuskita)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matbahasa/kamuskita?style=social)|
 
 
 ## Tutorial
