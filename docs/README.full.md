@@ -1461,6 +1461,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [jitendex](https://github.com/jitendex/jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
  * [karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, Neural Kana-Kanji Conversion Engine + fcitx5 IME
  * [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) - 嫉妬辞書（Shitto-Mania / Jealousy Dictionary）
+ * [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) - azooKey, Google 日本語入力用 DvorakJP ローマ字テーブル / DvorakJP Roman Table for azooKey, Google Japanese Input
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1546,6 +1547,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[jitendex](https://github.com/jitendex/jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jitendex/jitendex?style=social)|
 |[karukan](https://github.com/togatoga/karukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/karukan?style=social)|
 |[shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/junikematsu/shitto-mania-dic?style=social)|
+|[dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-roman-table?style=social)|
 
 
 ## Corpus
