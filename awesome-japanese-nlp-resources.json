@@ -4302,6 +4302,18 @@
                     "zh-hant": "快速轉換日文半角和全角字符的Rust實現，mojimoji。\nRust實現的快速轉換器，可在日文半角和全角字符之間進行轉換，mojimoji。"
                 }
             },
+            "https://github.com/o24s/haqumei": {
+                "sub_category": "Converter",
+                "repository_name": "haqumei",
+                "user_name": "o24s",
+                "description": "A Japanese Grapheme-to-Phoneme (G2P) library.",
+                "multilingual_descriptions": {
+                    "en": "A Japanese Grapheme-to-Phoneme (G2P) library.",
+                    "ja": "日本語のグラフェムから音素への変換（G2P）ライブラリ。",
+                    "zh-hans": "一个日语字形到音素（G2P）库。",
+                    "zh-hant": "一個日本的字形到音素（G2P）庫。"
+                }
+            },
             "https://github.com/lindera-morphology/lindera-tantivy": {
                 "sub_category": "Search engine library",
                 "repository_name": "lindera-tantivy",
@@ -7144,6 +7156,18 @@
                     "ja": "嫉妬辞書（シットーマニア / ジェラシーディクショナリー）",
                     "zh-hans": "嫉妒词典（Shitto-Mania / Jealousy Dictionary）",
                     "zh-hant": "嫉妒辭典（Shitto-Mania / Jealousy Dictionary）"
+                }
+            },
+            "https://github.com/shinespark/dvorakjp-roman-table": {
+                "sub_category": null,
+                "repository_name": "dvorakjp-roman-table",
+                "user_name": "shinespark",
+                "description": "azooKey, Google 日本語入力用 DvorakJP ローマ字テーブル / DvorakJP Roman Table for azooKey, Google Japanese Input",
+                "multilingual_descriptions": {
+                    "en": "azooKey, Google 日本語入力用 DvorakJP ローマ字テーブル / DvorakJP Roman Table for azooKey, Google Japanese Input",
+                    "ja": "azooKey、Google日本語入力用のDvorakJPローマ字テーブル / azooKey用のDvorakJPローマ字テーブル、Google日本語入力",
+                    "zh-hans": "azooKey，适用于Google日语输入的DvorakJP罗马字表/DvorakJP Roman Table for azooKey，Google日语输入",
+                    "zh-hant": "azooKey，Google 日本語輸入用 DvorakJP 羅馬字表 / azooKey，Google 日本語輸入用 DvorakJP 羅馬字表"
                 }
             }
         },
