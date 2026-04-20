@@ -645,6 +645,7 @@ General-purpose tools supporting Japanese language processing
  * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - Evaluating Multimodal Large Language Models on Vertically Written Japanese Text
  * [Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus) - 小説テキストから雑談対話コーパスを構築する手法
  * [OneCompression](https://github.com/FujitsuResearch/OneCompression) -  富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
+ * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - Translate text found within speech bubbles in manga images.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -849,6 +850,7 @@ General-purpose tools supporting Japanese language processing
 |[eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/eval_vertical_ja?style=social)|
 |[Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ganbon/Novel2DialCorpus?style=social)|
 |[OneCompression](https://github.com/FujitsuResearch/OneCompression)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/OneCompression?style=social)|
+|[manga-translator](https://github.com/georgescutelnicu/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/georgescutelnicu/manga-translator?style=social)|
 
 
 ## C++
