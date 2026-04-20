@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [852件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [297 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [854件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [304 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年3月1日、日本語NLPリソースのサーベイツール [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) をリリースしました！
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,13 +17,11 @@
 
 ## 🎉 The latest additions
 
-**Rust**
- * [haqumei](https://github.com/o24s/haqumei) - 日本語のグラフェムから音素への変換（G2P）ライブラリ。
+**Python**
+ * [OneCompression](https://github.com/FujitsuResearch/OneCompression) -  富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
+ * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - マンガ画像内の吹き出し内のテキストを翻訳してください。
 
-**Dictionary and IME**
- * [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) - azooKey、Google日本語入力用のDvorakJPローマ字テーブル / azooKey用のDvorakJPローマ字テーブル、Google日本語入力
-
-_Updated on Apr 12, 2026_
+_Updated on Apr 21, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -444,6 +442,7 @@ _Updated on Apr 12, 2026_
 ### Others
 日本語処理を補助するその他の汎用ライブラリ
 
+
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 日本のフルネームを姓と名に分けるためのツール。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 日本語の自然言語処理のPythonライブラリに特化したリソースの厳選リスト
  * [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) - python版日本語意味役割付与システム（ASA）
@@ -642,6 +641,8 @@ _Updated on Apr 12, 2026_
  * [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) - 本コードは，大規模言語モデル（LLM）の学習用コーパスから，個人情報の中でも特に配慮が求められる「要配慮個人情報」をフィルタリングするためのものです.
  * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - 縦書き日本語テキストにおけるマルチモーダル大規模言語モデルの評価
  * [Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus) - 小説テキストから雑談対話コーパスを構築する手法
+ * [OneCompression](https://github.com/FujitsuResearch/OneCompression) -  富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
+ * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - マンガ画像内の吹き出し内のテキストを翻訳してください。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -845,6 +846,8 @@ _Updated on Apr 12, 2026_
 |[jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matsuolab/jp-llm-corpus-pii-filter?style=social)|
 |[eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/eval_vertical_ja?style=social)|
 |[Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ganbon/Novel2DialCorpus?style=social)|
+|[OneCompression](https://github.com/FujitsuResearch/OneCompression)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/OneCompression?style=social)|
+|[manga-translator](https://github.com/georgescutelnicu/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/georgescutelnicu/manga-translator?style=social)|
 
 
 ## C++

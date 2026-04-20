@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [852 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [297 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [854 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [304 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
 
@@ -18,13 +18,11 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Rust**
- * [haqumei](https://github.com/o24s/haqumei) - A Japanese Grapheme-to-Phoneme (G2P) library.
+**Python**
+ * [OneCompression](https://github.com/FujitsuResearch/OneCompression) -  富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
+ * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - Translate text found within speech bubbles in manga images.
 
-**Dictionary and IME**
- * [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) - azooKey, Google 日本語入力用 DvorakJP ローマ字テーブル / DvorakJP Roman Table for azooKey, Google Japanese Input
-
-_Updated on Apr 12, 2026_
+_Updated on Apr 21, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

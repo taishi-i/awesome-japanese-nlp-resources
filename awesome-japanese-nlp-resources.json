@@ -3961,6 +3961,30 @@
                     "zh-hans": "从小说文本中构建闲聊对话语料库的方法",
                     "zh-hant": "從小說文本建立閒聊對話語料庫的方法"
                 }
+            },
+            "https://github.com/FujitsuResearch/OneCompression": {
+                "sub_category": null,
+                "repository_name": "OneCompression",
+                "user_name": "FujitsuResearch",
+                "description": "富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。",
+                "multilingual_descriptions": {
+                    "en": "Post-training quantization (PTQ) pipeline for LLM developed by Fujitsu Laboratories. Integrated QEP (NeurIPS 2025), ILP mixed precision, pre-rotation processing, and vLLM plugin. Paper: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).",
+                    "ja": " 富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。",
+                    "zh-hans": "富士通研究所推出的LLM后学习量子化（PTQ）管道。集成了QEP（NeurIPS 2025）、ILP混合精度、旋转前处理、vLLM插件。论文：[arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。",
+                    "zh-hant": "富士通研究所提供的 LLM 專用後訓練量子化（PTQ）流程。整合了QEP（NeurIPS 2025）、ILP混合精度、旋轉前處理、vLLM插件。論文：[arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。"
+                }
+            },
+            "https://github.com/georgescutelnicu/manga-translator": {
+                "sub_category": null,
+                "repository_name": "manga-translator",
+                "user_name": "georgescutelnicu",
+                "description": "Translate text found within speech bubbles in manga images.",
+                "multilingual_descriptions": {
+                    "en": "Translate text found within speech bubbles in manga images.",
+                    "ja": "マンガ画像内の吹き出し内のテキストを翻訳してください。",
+                    "zh-hans": "将漫画图片中的对话框内的文本翻译成简体中文。",
+                    "zh-hant": "將漫畫圖像中的對話框內文翻譯成繁體中文。"
+                }
             }
         },
         "C++": {
