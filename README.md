@@ -80,6 +80,8 @@ _Updated on Apr 12, 2026_
 
 ## Python library
 
+- [FujitsuResearch/OneCompression](https://github.com/FujitsuResearch/OneCompression) - 富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
+
 ### Morphology analysis
 Libraries that split Japanese text into words or morphemes and assign part-of-speech and base forms
 
