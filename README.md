@@ -1103,6 +1103,7 @@ Other libraries for Japanese NLP in JavaScript
  * [yama](https://github.com/sapjax/yama) - acquire Japanese vocabulary on any website
  * [kaitai](https://github.com/compile10/kaitai) - An application for analyzing Japanese sentence structure using AI. This tool visualizes how words and phrases relate to each other, showing grammatical relationships with interactive diagrams.
  * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - Browser extension (Chrome/Edge/Firefox) that injects furigana into Japanese webpages on-demand; includes dictionary tooltips, JLPT filtering, and vocab/Anki export.
+ * [techwell-inc-jp/shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) - AI-native REST API wrapping the Digital Agency's abr-geocoder for Japanese address normalization. Covers all 47 prefectures, returns structured components (prefecture/city/town/block/building/floor) plus postal code and coordinates. OpenAPI 3.1, GPTs Actions, Claude Tool Use, Function Calling ready. CC BY 4.0 attribution required on every response.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1129,6 +1130,7 @@ Other libraries for Japanese NLP in JavaScript
 | 🔗 [yama](https://github.com/sapjax/yama) | - | - | ⭐ 8 | 🟢 february|
 | 🔗 [kaitai](https://github.com/compile10/kaitai) | - | - | ⭐ 1 | 🟢 last tuesday|
 | 🔗 [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) | - | - | ⭐ 1 | 🟢 last wednesday|
+| 🔗 [techwell-inc-jp/shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) | - | - | ⭐ 0 | 🟢 today|
 
 
 ## Go
