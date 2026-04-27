@@ -645,6 +645,7 @@ General-purpose tools supporting Japanese language processing
  * [OneCompression](https://github.com/FujitsuResearch/OneCompression) -  富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
  * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - Translate text found within speech bubbles in manga images.
  * [shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) - Shirabe Address API — Japanese address normalization for AI agents (Cloudflare Workers + Fly.io NRT, abr-geocoder backed)
+ * [medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public) - 毎日PubMedから最新の循環器内科論文を自動収集・AI要約してGmailに届けるシステム
 
 
 |Name|downloads/week|total downloads|stars|
@@ -851,6 +852,7 @@ General-purpose tools supporting Japanese language processing
 |[OneCompression](https://github.com/FujitsuResearch/OneCompression)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/OneCompression?style=social)|
 |[manga-translator](https://github.com/georgescutelnicu/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/georgescutelnicu/manga-translator?style=social)|
 |[shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-address-api?style=social)|
+|[medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yush02084/medical-paper-summarizer-public?style=social)|
 
 
 ## C++
