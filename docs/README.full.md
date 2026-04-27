@@ -644,6 +644,7 @@ General-purpose tools supporting Japanese language processing
  * [Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus) - 小説テキストから雑談対話コーパスを構築する手法
  * [OneCompression](https://github.com/FujitsuResearch/OneCompression) -  富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
  * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - Translate text found within speech bubbles in manga images.
+ * [shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) - Shirabe Address API — Japanese address normalization for AI agents (Cloudflare Workers + Fly.io NRT, abr-geocoder backed)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -849,6 +850,7 @@ General-purpose tools supporting Japanese language processing
 |[Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ganbon/Novel2DialCorpus?style=social)|
 |[OneCompression](https://github.com/FujitsuResearch/OneCompression)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/OneCompression?style=social)|
 |[manga-translator](https://github.com/georgescutelnicu/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/georgescutelnicu/manga-translator?style=social)|
+|[shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-address-api?style=social)|
 
 
 ## C++
