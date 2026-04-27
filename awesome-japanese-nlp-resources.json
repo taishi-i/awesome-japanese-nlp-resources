@@ -3985,6 +3985,30 @@
                     "zh-hans": "将漫画图片中的对话框内的文本翻译成简体中文。",
                     "zh-hant": "將漫畫圖像中的對話框內文翻譯成繁體中文。"
                 }
+            },
+            "https://github.com/techwell-inc-jp/shirabe-address-api": {
+                "sub_category": null,
+                "repository_name": "shirabe-address-api",
+                "user_name": "techwell-inc-jp",
+                "description": "Shirabe Address API — Japanese address normalization for AI agents (Cloudflare Workers + Fly.io NRT, abr-geocoder backed)",
+                "multilingual_descriptions": {
+                    "en": "Shirabe Address API — Japanese address normalization for AI agents (Cloudflare Workers + Fly.io NRT, abr-geocoder backed)",
+                    "ja": "Shirabe Address API — AIエージェント向けの日本の住所正規化（Cloudflare Workers + Fly.io NRT、abr-geocoderバックアップ）\n調べるアドレスAPI",
+                    "zh-hans": "Shirabe地址API - 为AI代理进行日本地址规范化（Cloudflare Workers + Fly.io NRT，支持abr-geocoder）\nShirabe地址API - 为AI代理进行日本地址规范化（Cloudflare Workers + Fly.io NRT，支持abr-geocoder）",
+                    "zh-hant": "Shirabe地址API-用於AI代理的日本地址规范化（Cloudflare Workers + Fly.io NRT，支持abr-geocoder）"
+                }
+            },
+            "https://github.com/yush02084/medical-paper-summarizer-public": {
+                "sub_category": null,
+                "repository_name": "medical-paper-summarizer-public",
+                "user_name": "yush02084",
+                "description": "毎日PubMedから最新の循環器内科論文を自動収集・AI要約してGmailに届けるシステム",
+                "multilingual_descriptions": {
+                    "en": "A system that automatically collects and AI summarizes the latest cardiology papers from PubMed every day and delivers them to Gmail.",
+                    "ja": "毎日PubMedから最新の循環器内科論文を自動収集・AI要約してGmailに届けるシステム",
+                    "zh-hans": "每日从PubMed自动收集最新的心血管内科论文并进行AI摘要，发送至Gmail的系统",
+                    "zh-hant": "每日從PubMed自動收集最新的心臟內科論文並進行AI摘要，然後將其發送到Gmail的系統。"
+                }
             }
         },
         "C++": {
@@ -10064,6 +10088,18 @@
                     "ja": "『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト",
                     "zh-hans": "《Kaggle开始大规模语言模型入门 - 自然语言处理实践编程》支持网站",
                     "zh-hant": "支援網站：《Kaggle 開始大規模語言模型入門 ～自然語言處理〈實踐〉程式設計～》"
+                }
+            },
+            "https://github.com/takamichi-lab/nlp-lecture-keio": {
+                "sub_category": null,
+                "repository_name": "nlp-lecture-keio",
+                "user_name": "takamichi-lab",
+                "description": "慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」",
+                "multilingual_descriptions": {
+                    "en": "Keio University Faculty of Science and Technology Department of Information and Computer Science Lecture \"Natural Language Processing\"",
+                    "ja": "慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」",
+                    "zh-hans": "庆应义塾大学 理工学部 信息工程学科 讲义「自然语言处理」",
+                    "zh-hant": "慶應義塾大學 理工學部 資訊工程學科 課程「自然語言處理」"
                 }
             }
         },
