@@ -2055,6 +2055,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
  * [ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
  * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
+ * [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) - 慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2093,6 +2094,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 |[support-genai-book](https://github.com/yoheikikuta/support-genai-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoheikikuta/support-genai-book?style=social)|
 |[ir100](https://github.com/ir100/ir100)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ir100/ir100?style=social)|
 |[kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sinchir0/kaggle_llm_book?style=social)|
+|[nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/nlp-lecture-keio?style=social)|
 
 
 ## Research summary
