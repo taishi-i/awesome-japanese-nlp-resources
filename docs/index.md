@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [857件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [319 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [859件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [364 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年3月1日、日本語NLPリソースのサーベイツール [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) をリリースしました！
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -17,15 +17,11 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public) - 毎日PubMedから最新の循環器内科論文を自動収集・AI要約してGmailに届けるシステム
- * [shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) - Shirabe Address API — AIエージェント向けの日本の住所正規化（Cloudflare Workers + Fly.io NRT、abr-geocoderバックアップ）
-調べるアドレスAPI
+**Rust**
+ * [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) - SQLite FTS5 拡張機能による高速な日本語全文検索を🛥Vaporettoで実現
+ * [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) - 🛥VaporettoによるDuckDB拡張機能を使用した日本語全文検索
 
-**Tutorial**
- * [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) - 慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」
-
-_Updated on Apr 28, 2026_
+_Updated on May 05, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -968,12 +964,16 @@ Rustで実装された日本語形態素解析ライブラリ
 
  * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Tantivy用のLinderaトークナイザー。
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - Vibratoを使用したTantivyトークナイザー。
+ * [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) - SQLite FTS5 拡張機能による高速な日本語全文検索を🛥Vaporettoで実現
+ * [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) - 🛥VaporettoによるDuckDB拡張機能を使用した日本語全文検索
 
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy)|-|![Crates.io](https://img.shields.io/crates/d/lindera-tantivy)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera-tantivy?style=social)|
 |[tantivy-vibrato](https://github.com/akr4/tantivy-vibrato)|-|![Crates.io](https://img.shields.io/crates/d/tantivy-vibrato)|![GitHub Repo stars](https://img.shields.io/github/stars/akr4/tantivy-vibrato?style=social)|
+|[sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/sqlite-vaporetto?style=social)|
+|[duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/duckdb-vaporetto?style=social)|
 
 
 ### Others

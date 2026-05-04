@@ -4386,6 +4386,30 @@
                     "zh-hant": "使用 Vibrato 的 Tantivy 分詞器。"
                 }
             },
+            "https://github.com/hotchpotch/sqlite-vaporetto": {
+                "sub_category": "Search engine library",
+                "repository_name": "sqlite-vaporetto",
+                "user_name": "hotchpotch",
+                "description": "SQLite FTS5 extension for fast Japanese full-text search with 🛥Vaporetto / Vaporetto による高速な日本語全文検索を SQLite FTS5 で実現する拡張機能",
+                "multilingual_descriptions": {
+                    "en": "SQLite FTS5 extension for fast Japanese full-text search with 🛥Vaporetto / Vaporetto による高速な日本語全文検索を SQLite FTS5 で実現する拡張機能",
+                    "ja": "SQLite FTS5 拡張機能による高速な日本語全文検索を🛥Vaporettoで実現",
+                    "zh-hans": "使用SQLite FTS5扩展实现快速的日文全文搜索，带有🛥Vaporetto / Vaporetto",
+                    "zh-hant": "使用SQLite FTS5擴展實現快速的日文全文檢索，帶有🛥Vaporetto / Vaporetto"
+                }
+            },
+            "https://github.com/hotchpotch/duckdb-vaporetto": {
+                "sub_category": "Search engine library",
+                "repository_name": "duckdb-vaporetto",
+                "user_name": "hotchpotch",
+                "description": "DuckDB extension for Japanese full-text search with 🛥Vaporetto / Vaporetto による DuckDB + 日本語全文検索拡張機能",
+                "multilingual_descriptions": {
+                    "en": "DuckDB extension for Japanese full-text search with 🛥Vaporetto / Vaporetto による DuckDB + 日本語全文検索拡張機能",
+                    "ja": "🛥VaporettoによるDuckDB拡張機能を使用した日本語全文検索",
+                    "zh-hans": "DuckDB扩展功能，可实现日本全文搜索，使用🛥Vaporetto / Vaporetto による DuckDB + 日本語全文検索拡張機能",
+                    "zh-hant": "使用🛥Vaporetto的DuckDB擴展，支援日本語全文檢索功能。"
+                }
+            },
             "https://github.com/daac-tools/daachorse": {
                 "sub_category": null,
                 "repository_name": "daachorse",
