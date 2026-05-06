@@ -9,13 +9,13 @@ This plugin provides a single skill that searches across all categories of [awes
 **Inside Claude Code:**
 ```shell
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-/plugin install awesome-japanese-nlp-search@japanese-nlp-resources
+/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 ```
 
 **Via CLI:**
 ```bash
 claude plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-claude plugin install awesome-japanese-nlp-search@japanese-nlp-resources
+claude plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 ```
 
 ## Update
@@ -23,12 +23,12 @@ claude plugin install awesome-japanese-nlp-search@japanese-nlp-resources
 To get the latest data, run:
 
 ```shell
-/plugin update awesome-japanese-nlp-search@japanese-nlp-resources
+/plugin update awesome-japanese-nlp-search@awesome-japanese-nlp-search
 ```
 
 Or via CLI:
 ```bash
-claude plugin update awesome-japanese-nlp-search@japanese-nlp-resources
+claude plugin update awesome-japanese-nlp-search@awesome-japanese-nlp-search
 ```
 
 ## Usage

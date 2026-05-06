@@ -1,6 +1,6 @@
 {
   "$schema": "https://code.claude.com/schemas/marketplace.json",
-  "name": "japanese-nlp-resources",
+  "name": "awesome-japanese-nlp-search",
   "description": "Search tools for awesome-japanese-nlp-resources: find datasets, pretrained models, libraries, and tutorials for Japanese NLP",
   "owner": {
     "name": "taishi-i"

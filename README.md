@@ -21,18 +21,18 @@ Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.
 ```shell
 # Add the marketplace and install
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-/plugin install awesome-japanese-nlp-search@japanese-nlp-resources
+/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 
 # Search
 /awesome-japanese-nlp-search:search <query>
 ```
 
-Or run locally without installation by cloning this repository and launching Claude Code from the project root:
+Or install from a local clone:
 
 ```shell
 git clone https://github.com/taishi-i/awesome-japanese-nlp-resources
 cd awesome-japanese-nlp-resources
-claude
+claude plugin install ./plugins/awesome-japanese-nlp-search
 ```
 
 See [plugins/awesome-japanese-nlp-search](./plugins/awesome-japanese-nlp-search) for details.
