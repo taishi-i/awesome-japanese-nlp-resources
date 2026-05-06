@@ -1,0 +1,11 @@
+{
+  "name": "awesome-japanese-nlp-search",
+  "description": "Search 1,200+ Japanese NLP resources: libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources from awesome-japanese-nlp-resources",
+  "author": {
+    "name": "taishi-i"
+  },
+  "homepage": "https://github.com/taishi-i/awesome-japanese-nlp-resources",
+  "repository": "https://github.com/taishi-i/awesome-japanese-nlp-resources",
+  "license": "CC0-1.0",
+  "keywords": ["japanese", "nlp", "search", "datasets", "models", "libraries"]
+}
