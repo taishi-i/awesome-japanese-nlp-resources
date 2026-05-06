@@ -56,18 +56,28 @@ claude plugin update awesome-japanese-nlp-search@awesome-japanese-nlp-search
 /awesome-japanese-nlp-search:search sentence embedding huggingface
 ```
 
+## Ranking
+
+Search results are ranked by a combined score:
+
+1. **Text relevance** — keyword matches in name, description, subcategory, and category
+2. **Popularity** — GitHub stars (normalized) for libraries/models; Hugging Face downloads (normalized) for HF resources
+3. **Quality signal** — pre-computed activity score reflecting stars, downloads, and commit history
+4. **Claude re-ranking** — the final top-15 are re-ordered by Claude's semantic judgment (category fit, specificity, recency)
+
 ## Data coverage
 
-All data is bundled in the plugin and sourced from this repository.
+All data is bundled in the plugin and sourced from `awesome-japanese-nlp-resources-search.json`.
 
 | Category | Source | Count |
 |----------|--------|-------|
-| Libraries (Python, C++, Rust, JS, Go, Java) | GitHub | 450 |
-| Hugging Face models | huggingface.md | 208 |
-| Corpora / Datasets | GitHub | 208 |
-| Hugging Face datasets | huggingface.md | 156 |
-| Dictionaries / IME | GitHub | 83 |
-| Pretrained models | GitHub | 69 |
+| Python library | GitHub | 334 |
+| Corpus / Dataset | GitHub | 208 |
+| Hugging Face models | Hugging Face | 208 |
+| Hugging Face datasets | Hugging Face | 156 |
+| Dictionary and IME | GitHub | 83 |
+| Pretrained model / ChatGPT | GitHub | 69 |
+| JavaScript / Rust / C++ / Go / Java | GitHub | 116 |
 | Tutorials / Research summaries | GitHub | 38 |
 | **Total** | | **1,212** |
 
