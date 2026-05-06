@@ -18,6 +18,14 @@ claude plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 claude plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 ```
 
+**From a local clone:**
+```bash
+git clone https://github.com/taishi-i/awesome-japanese-nlp-resources
+cd awesome-japanese-nlp-resources
+claude plugin marketplace add ./.claude-plugin/marketplace.json
+claude plugin install awesome-japanese-nlp-search
+```
+
 ## Update
 
 To get the latest data, run:

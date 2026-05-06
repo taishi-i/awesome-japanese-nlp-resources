@@ -24,7 +24,7 @@ Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.
 /plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 
 # Search
-/awesome-japanese-nlp-search:search <query>
+/awesome-japanese-nlp-search:search Japanese LLM evaluation dataset
 ```
 
 Or install from a local clone:
@@ -32,7 +32,8 @@ Or install from a local clone:
 ```shell
 git clone https://github.com/taishi-i/awesome-japanese-nlp-resources
 cd awesome-japanese-nlp-resources
-claude plugin install ./plugins/awesome-japanese-nlp-search
+claude plugin marketplace add ./.claude-plugin/marketplace.json
+claude plugin install awesome-japanese-nlp-search
 ```
 
 See [plugins/awesome-japanese-nlp-search](./plugins/awesome-japanese-nlp-search) for details.
