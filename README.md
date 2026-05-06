@@ -12,6 +12,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 - Listed information on [364 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
+[English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 ## Claude Code Plugin
 
@@ -26,15 +27,20 @@ Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.
 /awesome-japanese-nlp-search:search <query>
 ```
 
+Or run locally without installation by cloning this repository and launching Claude Code from the project root:
+
+```shell
+git clone https://github.com/taishi-i/awesome-japanese-nlp-resources
+cd awesome-japanese-nlp-resources
+claude
+```
+
 See [plugins/awesome-japanese-nlp-search](./plugins/awesome-japanese-nlp-search) for details.
 
 For example, to find tutorials for beginners learning Japanese NLP:
 ```shell
 /awesome-japanese-nlp-search:search What tutorials are recommended for beginners learning Japanese NLP?
 ```
-
-
-[English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## 🎉 The latest additions
