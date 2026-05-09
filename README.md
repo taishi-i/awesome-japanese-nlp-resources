@@ -24,25 +24,17 @@ Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.
 /plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 /reload-plugins
 
-# [Search](Search)
-/awesome-japanese-nlp-search:search Japanese LLM evaluation dataset
-```
-
-Or install from a local clone:
-
-```shell
-git clone https://github.com/taishi-i/awesome-japanese-nlp-resources
-cd awesome-japanese-nlp-resources
-claude plugin marketplace add ./.claude-plugin/marketplace.json
-claude plugin install awesome-japanese-nlp-search
-```
-
-See [plugins/awesome-japanese-nlp-search](./plugins/awesome-japanese-nlp-search) for details.
-
-For example, to find tutorials for beginners learning Japanese NLP:
-```shell
+# Search
 /awesome-japanese-nlp-search:search What tutorials are recommended for beginners learning Japanese NLP?
 ```
+
+**Use-case Selection Guide** (example output):
+
+| Use case | Recommended | Popularity | Why |
+|---|---|---|---|
+| Learn modern NLP/LLM concepts from scratch | [llm-book](https://github.com/ghmagazine/llm-book) | ⭐387 | Most popular intro; covers LLMs end-to-end with practical Japanese code examples |
+| Build practical skills through exercises | [nlp100v2025](https://github.com/upura/nlp100v2025) | ⭐82 | Classic "100 Knock" challenge series; best way to learn by doing |
+| Learn BERT and transformer-based NLP | [bert-book](https://github.com/stockmarkteam/bert-book) | ⭐262 | Hands-on BERT programming with clear explanations for Japanese NLP beginners |
 
 
 ## 🎉 The latest additions

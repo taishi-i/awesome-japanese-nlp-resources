@@ -34,6 +34,10 @@ The data descriptions are in **English**, so always convert the query intent to 
 | 辞書・IME / dictionary | `dict`, `lexicon`, `ime` | `mecab`, `sudachi`, `mozc` |
 | コーパス・データセット / corpus | `corpus`, `dataset`, `annot` | *(rely on stems)* |
 | チュートリアル / learning | `tutorial`, `introduc`, `learn` | *(rely on stems)* |
+| OCR / 光学文字認識 | `ocr`, `optical character`, `recogni` | `manga-ocr`, `donut`, `tesseract` |
+| RAG / 検索拡張生成 | `retriev`, `rag`, `embed` | `ruri`, `glucose`, `faiss` |
+| ファインチューニング / fine-tuning | `fine-tun`, `finetun`, `lora`, `peft` | `lora`, `peft`, `qlora` |
+| ベンチマーク・評価 / benchmark | `benchmark`, `evaluat`, `jglue` | `llm-jp-eval`, `jglue`, `nejumi` |
 
 3. **Aim for 4–6 keywords.** Fewer miss items; more than 6 inflates low-quality partial matches.
 4. **If none of the above domains fit**, translate the query intent literally to English stems.
@@ -42,12 +46,12 @@ The data descriptions are in **English**, so always convert the query intent to 
 
 Run:
 ```
-find "${HOME}/.claude/plugins" "${PWD}" -type f -name "resources.json" -path "*awesome-japanese-nlp-search*" 2>/dev/null | head -1
+find "${HOME}/.claude/plugins" "${PWD}" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
 ```
 
-If empty, try:
+If empty, try with grep filter:
 ```
-find "${PWD}" -type f -name "resources.json" -path "*/data/*" 2>/dev/null | head -1
+find "${HOME}/.claude/plugins" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
 ```
 
 ### Step 3 — Search and score via Bash
@@ -57,7 +61,7 @@ find "${PWD}" -type f -name "resources.json" -path "*/data/*" 2>/dev/null | head
 Each item in the JSON array has:
 - `u`: GitHub or Hugging Face URL
 - `n`: repository/model name
-- `d`: English description
+- `d`: description (English for most items; some Japanese-only items have Japanese descriptions)
 - `c`: category (e.g. `Python library`, `HuggingFace Model (Text Generation)`, `Corpus`, `Tutorial`, ...)
 - `s`: subcategory / semantic labels (comma-separated)
 - `st`: GitHub star count (GitHub items only; absent or 0 otherwise)
@@ -93,23 +97,67 @@ for item in data:
         if kw in s:       text_score += 3
         if kw in c:       text_score += 2
 
-    if text_score == 0:
+    if text_score < 8:
         continue
 
     ns = item.get("ns") or 0
     nd = item.get("nd") or 0
     sc = item.get("sc") or 0
-    pop = (ns if ns else nd) * 0.8
+    pop = (ns if ns else nd) * 2.5
     qual = min(5, sc * 5 / 21)
     combined = text_score + pop + qual
 
     results.append((combined, text_score, item))
 
 results.sort(key=lambda x: -x[0])
+seen = {item['n'] for _, _, item in results}
+
+# Supplemental pass: surface high-popularity items from matching categories
+# that may have been missed because their descriptions are in Japanese.
+# Keys are stems to match against user keywords; values are category prefixes
+# (prefix match covers "HuggingFace Model (Text Generation)" etc.).
+CATEGORY_KEYWORDS = {
+    "tutorial": "Tutorial", "introduc": "Tutorial", "learn": "Tutorial",
+    "morpholog": "Python library", "segment": "Python library",
+    "mecab": "Python library", "janome": "Python library", "sudachi": "Python library",
+    "spacy": "Python library", "ginza": "Python library",
+    "corpus": "Corpus", "dataset": "Corpus",
+    "bert": "HuggingFace Model", "gpt": "HuggingFace Model",
+    "llm": "HuggingFace Model", "llama": "HuggingFace Model",
+    "pretrain": "HuggingFace Model", "embed": "HuggingFace Model",
+    "model": "Pretrained model",
+}
+supplement_cats = set()
+for kw in keywords:
+    for ck, cat in CATEGORY_KEYWORDS.items():
+        if ck in kw.lower():
+            supplement_cats.add(cat)
+
+if supplement_cats:
+    def cat_match(c):
+        return any(c == cat or c.startswith(cat + " ") for cat in supplement_cats)
+    extras = [
+        item for item in data
+        if cat_match(item.get("c", ""))
+        and (item.get("st", 0) or item.get("dl", 0))
+        and item["n"] not in seen
+    ]
+    extras.sort(key=lambda x: -max(x.get("ns") or 0, x.get("nd") or 0))
+    for item in extras[:5]:
+        ns = item.get("ns") or 0
+        nd = item.get("nd") or 0
+        sc = item.get("sc") or 0
+        # base 8 = category-match credit (same as the text_score threshold)
+        combined = 8 + max(ns, nd) * 2.5 + min(5, sc * 5 / 21)
+        results.append((combined, 0, item))
+        seen.add(item["n"])
+
+results.sort(key=lambda x: -x[0])
 for combined, text_score, item in results[:20]:
     st = item.get("st", 0) or 0
     dl = item.get("dl", 0) or 0
-    print(f"score={combined:.1f} text={text_score} st={st} dl={dl}")
+    flag = " [supplemental]" if text_score == 0 else ""
+    print(f"score={combined:.1f} text={text_score} st={st} dl={dl}{flag}")
     print(f"  n={item['n']}")
     print(f"  u={item['u']}")
     print(f"  c={item['c']}")
@@ -119,7 +167,7 @@ for combined, text_score, item in results[:20]:
 EOF
 ```
 
-This returns up to 20 candidates with their scores. Only matched items are output, keeping token usage minimal (~1K tokens vs ~64K for reading the full file).
+This returns up to 20 candidates. Items marked `[supplemental]` were added by the category-based pass to recover high-star resources whose descriptions are in Japanese. In Step 4, evaluate supplemental items on semantic fit before including them in the final list.
 
 ### Step 4 — Re-rank with your judgment
 
@@ -164,9 +212,8 @@ https://github.com/taishi-i/awesome-japanese-nlp-resources
 
 After the search results list, append a guide table that helps the user pick the right resource for their specific situation.
 
-**Match the table language to the query language** — if the query was in English, use English; if in Japanese, use Japanese; if in another language, use that language.
+**Match the section heading and table language to the query language** — translate the heading and column headers into the query language (e.g. Japanese query → Japanese heading and headers).
 
-English query example:
 ```
 ## Use-case Selection Guide
 
@@ -175,19 +222,10 @@ English query example:
 | ... | [name](url) | ⭐N or 📥N | short reason |
 ```
 
-Japanese query example:
-```
-## Use-case Selection Guide
-
-| ユースケース | おすすめ | 人気度 | 一言 |
-|---|---|---|---|
-| ... | [name](url) | ⭐N or 📥N | short reason |
-```
-
 **Rules:**
 - List **3–6 distinct use cases** derived from the top 10 results. Each row should represent a meaningfully different scenario (e.g., "fine-tune an LLM" vs "evaluate an LLM"), not just a restatement of the search query.
 - For each row, select the **single best resource** from the top 10 results.
 - **Popularity column**: use `⭐{st}` for GitHub stars, `📥{dl}` for HuggingFace downloads. If both are 0, omit.
-- **Why / 一言**: write a 10–15 word reason **in the same language as the query** explaining why this resource is the best fit for that use case. Do not copy the description verbatim. Focus on the practical benefit.
+- **Why**: write a 10–15 word reason in the query language explaining why this resource is the best fit for that use case. Do not copy the description verbatim. Focus on the practical benefit.
 - If two use cases would map to the same resource, merge them into one row or drop the weaker one.
 - If there are fewer than 3 meaningfully distinct use cases in the results, output as many rows as make sense (minimum 1).
