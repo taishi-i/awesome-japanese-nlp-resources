@@ -159,3 +159,35 @@ Description text here.
 
 If no results, suggest alternate keywords and link to:
 https://github.com/taishi-i/awesome-japanese-nlp-resources
+
+### Step 6 — Output use-case selection guide table
+
+After the search results list, append a guide table that helps the user pick the right resource for their specific situation.
+
+**Match the table language to the query language** — if the query was in English, use English; if in Japanese, use Japanese; if in another language, use that language.
+
+English query example:
+```
+## Use-case Selection Guide
+
+| Use case | Recommended | Popularity | Why |
+|---|---|---|---|
+| ... | [name](url) | ⭐N or 📥N | short reason |
+```
+
+Japanese query example:
+```
+## Use-case Selection Guide
+
+| ユースケース | おすすめ | 人気度 | 一言 |
+|---|---|---|---|
+| ... | [name](url) | ⭐N or 📥N | short reason |
+```
+
+**Rules:**
+- List **3–6 distinct use cases** derived from the top 10 results. Each row should represent a meaningfully different scenario (e.g., "fine-tune an LLM" vs "evaluate an LLM"), not just a restatement of the search query.
+- For each row, select the **single best resource** from the top 10 results.
+- **Popularity column**: use `⭐{st}` for GitHub stars, `📥{dl}` for HuggingFace downloads. If both are 0, omit.
+- **Why / 一言**: write a 10–15 word reason **in the same language as the query** explaining why this resource is the best fit for that use case. Do not copy the description verbatim. Focus on the practical benefit.
+- If two use cases would map to the same resource, merge them into one row or drop the weaker one.
+- If there are fewer than 3 meaningfully distinct use cases in the results, output as many rows as make sense (minimum 1).
