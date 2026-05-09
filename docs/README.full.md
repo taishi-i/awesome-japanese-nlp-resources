@@ -8,9 +8,31 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [859 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [364 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [860 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [371 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
+
+## Claude Code Plugin
+
+Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-search` plugin.
+
+```shell
+# Add the marketplace and install
+/plugin marketplace add taishi-i/awesome-japanese-nlp-resources
+/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/reload-plugins
+
+# Search
+/awesome-japanese-nlp-search:search What tutorials are recommended for beginners learning Japanese NLP?
+```
+
+**Use-case Selection Guide** (example output):
+
+| Use case | Recommended | Popularity | Why |
+|---|---|---|---|
+| Learn modern NLP/LLM concepts from scratch | [llm-book](https://github.com/ghmagazine/llm-book) | ⭐387 | Most popular intro; covers LLMs end-to-end with practical Japanese code examples |
+| Build practical skills through exercises | [nlp100v2025](https://github.com/upura/nlp100v2025) | ⭐82 | Classic "100 Knock" challenge series; best way to learn by doing |
+| Learn BERT and transformer-based NLP | [bert-book](https://github.com/stockmarkteam/bert-book) | ⭐262 | Hands-on BERT programming with clear explanations for Japanese NLP beginners |
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -18,11 +40,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## 🎉 The latest additions
 
-**Rust**
- * [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) - SQLite FTS5 extension for fast Japanese full-text search with 🛥Vaporetto / Vaporetto による高速な日本語全文検索を SQLite FTS5 で実現する拡張機能
- * [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) - DuckDB extension for Japanese full-text search with 🛥Vaporetto / Vaporetto による DuckDB + 日本語全文検索拡張機能
+**JavaScript**
+ * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - Sudachi's synonyms dictionary
 
-_Updated on May 05, 2026_
+_Updated on May 10, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

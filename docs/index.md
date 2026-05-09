@@ -8,20 +8,40 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [859件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [364 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [860件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [371 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年3月1日、日本語NLPリソースのサーベイツール [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) をリリースしました！
+
+## Claude Code プラグイン
+`awesome-japanese-nlp-search` プラグインを使用して、[Claude Code](https://claude.ai/code) から1,200以上の日本語NLPリソースを直接検索できます。
+
+```shell
+# マーケットプレイスを追加してインストール
+/plugin marketplace add taishi-i/awesome-japanese-nlp-resources
+/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/reload-plugins
+# 検索
+/awesome-japanese-nlp-search:search 日本語NLPを学ぶ初心者におすすめのチュートリアルは？
+```
+
+**ユースケース選択ガイド**（出力例）:
+
+| ユースケース | おすすめ | 人気度 | 理由 |
+|---|---|---|---|
+| 現代のNLP/LLMの概念をゼロから学ぶ | [llm-book](https://github.com/ghmagazine/llm-book) | ⭐387 | 最も人気の入門書。実践的な日本語コード例でLLMをエンドツーエンドで解説 |
+| 演習を通じて実践的なスキルを身につける | [nlp100v2025](https://github.com/upura/nlp100v2025) | ⭐82 | 定番「100本ノック」チャレンジシリーズ。実践で学ぶ最良の方法 |
+| BERTとTransformerベースのNLPを学ぶ | [bert-book](https://github.com/stockmarkteam/bert-book) | ⭐262 | 日本語NLP初心者向けにわかりやすい解説で実践的なBERTプログラミングを学べる |
+
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## 🎉 The latest additions
 
-**Rust**
- * [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) - SQLite FTS5 拡張機能による高速な日本語全文検索を🛥Vaporettoで実現
- * [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) - 🛥VaporettoによるDuckDB拡張機能を使用した日本語全文検索
+**JavaScript**
+ * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - すだちの類語辞典
 
-_Updated on May 05, 2026_
+_Updated on May 10, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1110,6 +1130,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [yama](https://github.com/sapjax/yama) - 任意のウェブサイトで日本語の語彙を習得します。
  * [kaitai](https://github.com/compile10/kaitai) - AIを使用して日本語の文章構造を分析するためのアプリケーションです。このツールは、単語やフレーズがどのように関連しているかを視覚化し、インタラクティブな図表で文法的な関係を示します。
  * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - ブラウザ拡張機能（Chrome/Edge/Firefox）は、日本語のウェブページにフリガナを注入するもので、辞書のツールチップ、JLPTのフィルタリング、単語/Ankiのエクスポートを含んでいます。
+ * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - すだちの類語辞典
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1136,6 +1157,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[yama](https://github.com/sapjax/yama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sapjax/yama?style=social)|
 |[kaitai](https://github.com/compile10/kaitai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/compile10/kaitai?style=social)|
 |[tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ln2058/tsukeru-furigana-converter?style=social)|
+|[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azu/sudachi-synonyms-dictionary?style=social)|
 
 
 ## Go

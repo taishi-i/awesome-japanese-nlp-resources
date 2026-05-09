@@ -5155,6 +5155,18 @@
                     "zh-hans": "浏览器扩展（Chrome/Edge/Firefox），可按需将振仮名注入日语网页；包括词典工具提示、JLPT过滤和词汇/Anki导出。",
                     "zh-hant": "瀏覽器擴充功能（Chrome/Edge/Firefox），可按需將振假名注入日文網頁；包括詞典工具提示、JLPT篩選和詞彙/Anki導出。"
                 }
+            },
+            "https://github.com/azu/sudachi-synonyms-dictionary": {
+                "sub_category": null,
+                "repository_name": "sudachi-synonyms-dictionary",
+                "user_name": "azu",
+                "description": "Sudachi's synonyms dictionary",
+                "multilingual_descriptions": {
+                    "en": "Sudachi's synonyms dictionary",
+                    "ja": "すだちの類語辞典",
+                    "zh-hans": "酸橙的同义词词典",
+                    "zh-hant": "酢橘的同義詞詞典"
+                }
             }
         },
         "Go": {
