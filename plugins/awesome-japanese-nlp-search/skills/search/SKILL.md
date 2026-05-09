@@ -12,15 +12,31 @@ The user's query is: "$ARGUMENTS"
 
 The data descriptions are in **English**, so always convert the query intent to English keywords before searching.
 
-Examples:
-| User query (any language) | English keywords to search |
-|---------------------------|---------------------------|
-| 日本語のNLPを勉強するためのリソース | tutorial, introduction, learning, NLP |
-| トークナイザーを探しています | tokenizer, morphology, segmentation |
-| 형태소 분석 (Korean) | morphology, tokenizer, segmentation |
-| BERTの日本語モデルが欲しい | BERT, japanese, pretrained, transformer |
-| what are good NER datasets? | named entity, NER, dataset, corpus |
-| mots japonais en vecteurs (French) | word2vec, embedding, word vectors |
+**Keyword rules — read before choosing keywords:**
+1. **Use stems, not full words.** Substring match is used, so `morpholog` catches "morphology", "morphological", "morphological analyzer". Other examples: `embed` → embedding/embeddings, `classif` → classification/classifier, `translat` → translation/translate, `generat` → generation/generative, `segment` → segmentation/segmenter, `recogni` → recognition/recognizer, `extract` → extraction/extractor, `retriev` → retrieval/retrieve.
+2. **Add domain-specific tool names.** When the query maps to a known NLP domain, include the well-known tool names present in the database:
+
+| Domain (Japanese query hint) | Stem keywords | Tool names to add |
+|---|---|---|
+| 形態素解析 / morphological analysis | `morpholog`, `segment` | `mecab`, `janome`, `sudachi`, `kytea`, `kuromoji`, `jumanpp`, `nagisa` |
+| 固有表現認識 / NER | `named entit`, `NER`, `recogni` | `ginza`, `spacy`, `knp` |
+| 係り受け解析 / dependency parsing | `depend`, `parse`, `syntax` | `cabocha`, `knp`, `ginza`, `spacy` |
+| 文章分類 / text classification | `classif`, `sentiment`, `categor` | `bert`, `fasttext` |
+| 感情分析 / sentiment analysis | `sentiment`, `emotion`, `opinion` | `oseti`, `wrime` |
+| 埋め込み / word vectors / embeddings | `embed`, `vector`, `represent` | `word2vec`, `fasttext`, `bert`, `sbert` |
+| 事前学習モデル / pretrained model | `pretrain`, `language model`, `bert`, `gpt` | `bert`, `gpt`, `llama`, `rinna`, `elyza`, `calm`, `swallow` |
+| テキスト生成 / text generation | `generat`, `language model` | `gpt`, `llm`, `llama`, `rinna`, `elyza` |
+| 機械翻訳 / machine translation | `translat`, `machine translation` | `opus`, `marian`, `fairseq` |
+| 音声認識 / speech recognition | `speech`, `recogni`, `audio`, `asr` | `whisper`, `julius`, `espnet` |
+| 音声合成 / text-to-speech | `speech`, `synthesis`, `tts` | `voicevox`, `espnet` |
+| 質問応答 / QA | `question`, `answer`, `qa` | `bert`, `t5` |
+| 要約 / summarization | `summari`, `abstract` | `bart`, `t5`, `pegasus` |
+| 辞書・IME / dictionary | `dict`, `lexicon`, `ime` | `mecab`, `sudachi`, `mozc` |
+| コーパス・データセット / corpus | `corpus`, `dataset`, `annot` | *(rely on stems)* |
+| チュートリアル / learning | `tutorial`, `introduc`, `learn` | *(rely on stems)* |
+
+3. **Aim for 4–6 keywords.** Fewer miss items; more than 6 inflates low-quality partial matches.
+4. **If none of the above domains fit**, translate the query intent literally to English stems.
 
 ### Step 2 — Locate the data file
 
@@ -34,11 +50,11 @@ If empty, try:
 find "${PWD}" -type f -name "resources.json" -path "*/data/*" 2>/dev/null | head -1
 ```
 
-### Step 3 — Read the file
+### Step 3 — Search and score via Bash
 
-Use the Read tool on the returned path.
+**Do NOT use the Read tool** — the file exceeds the Read tool's size limit and would consume ~64K tokens unnecessarily. Instead, run the scoring in a single Bash call using Python.
 
-The file is a JSON array of ~1,212 items. Each item has:
+Each item in the JSON array has:
 - `u`: GitHub or Hugging Face URL
 - `n`: repository/model name
 - `d`: English description
@@ -50,30 +66,62 @@ The file is a JSON array of ~1,212 items. Each item has:
 - `nd`: normalized download score 0–10 (log-scaled, HF items only)
 - `sc`: pre-computed quality score (higher = more popular/active)
 
-### Step 4 — Score candidates
+Run the following, substituting `KEYWORDS` with your English keywords list from Step 1:
 
-Using the English keywords from Step 1, compute a **combined score** for each item:
+```python
+python3 << 'EOF'
+import json
 
-**Text match score** (case-insensitive, per keyword):
-- Name (`n`) exact keyword match: +20 pts
-- Name (`n`) contains keyword: +10 pts
-- Description (`d`) contains keyword: +5 pts
-- Subcategory (`s`) contains keyword: +3 pts
-- Category (`c`) contains keyword: +2 pts
+with open("PATH_FROM_STEP2") as f:
+    data = json.load(f)
 
-**Popularity bonus** (added once per item, not per keyword):
-- GitHub items: `ns * 1.5` (e.g. ns=8 → +12 pts)
-- HF items: `nd * 1.5` (e.g. nd=9 → +13.5 pts)
+keywords = ["keyword1", "keyword2", "keyword3"]  # from Step 1
 
-**Quality bonus**: `min(5, sc * 5 / 21)`
+results = []
+for item in data:
+    n = item.get("n", "").lower()
+    d = item.get("d", "").lower()
+    s = item.get("s", "").lower()
+    c = item.get("c", "").lower()
 
-**Combined score = text_match + popularity_bonus + quality_bonus**
+    text_score = 0
+    for kw in keywords:
+        kw = kw.lower()
+        if n == kw:       text_score += 20
+        elif kw in n:     text_score += 10
+        if kw in d:       text_score += 5
+        if kw in s:       text_score += 3
+        if kw in c:       text_score += 2
 
-Exclude items with text_match = 0 (zero keyword hits).
+    if text_score == 0:
+        continue
 
-Collect the top **20** candidates sorted by combined score descending.
+    ns = item.get("ns") or 0
+    nd = item.get("nd") or 0
+    sc = item.get("sc") or 0
+    pop = (ns if ns else nd) * 0.8
+    qual = min(5, sc * 5 / 21)
+    combined = text_score + pop + qual
 
-### Step 5 — Re-rank with your judgment
+    results.append((combined, text_score, item))
+
+results.sort(key=lambda x: -x[0])
+for combined, text_score, item in results[:20]:
+    st = item.get("st", 0) or 0
+    dl = item.get("dl", 0) or 0
+    print(f"score={combined:.1f} text={text_score} st={st} dl={dl}")
+    print(f"  n={item['n']}")
+    print(f"  u={item['u']}")
+    print(f"  c={item['c']}")
+    print(f"  s={item.get('s','')}")
+    print(f"  d={item.get('d','')[:120]}")
+    print()
+EOF
+```
+
+This returns up to 20 candidates with their scores. Only matched items are output, keeping token usage minimal (~1K tokens vs ~64K for reading the full file).
+
+### Step 4 — Re-rank with your judgment
 
 You now have up to 20 candidates. Apply your semantic judgment to produce the final ordered list of up to **10** results.
 
@@ -88,9 +136,9 @@ Re-rank by evaluating each candidate on:
 4. **Specificity** — a resource specialized for the exact task beats a general one.
 5. **Recency signal** — when `sc` is significantly higher among otherwise-similar items, it usually reflects more recent activity; prefer those.
 
-Do not mechanically follow the combined score from Step 4 — use it as a starting point, then move items up or down based on the criteria above.
+Do not mechanically follow the combined score from Step 3 — use it as a starting point, then move items up or down based on the criteria above.
 
-### Step 6 — Format the output
+### Step 5 — Format the output
 
 Present the final re-ranked results:
 

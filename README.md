@@ -22,8 +22,9 @@ Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.
 # Add the marketplace and install
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/reload-plugins
 
-# Search
+# [Search](Search)
 /awesome-japanese-nlp-search:search Japanese LLM evaluation dataset
 ```
 
