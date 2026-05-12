@@ -1867,6 +1867,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei) - 本リポジトリでは、関西大学所蔵廣瀬本万葉集のTEI/XMLデータ等をCC-BYライセンスのもとで公開しています。
  * [kamuskita](https://github.com/matbahasa/kamuskita) - マレー語勉強会で作っているオープンなマレー語・日本語辞典『みんなのマレー語辞典』
  * [japanese-llm-benchmark](https://github.com/shi3z/japanese-llm-benchmark) - A benchmark tool for evaluating Japanese language capabilities of various LLMs.
+ * [EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench) - ICLR 2026 Evaluating the performance of LLMs on Japanese challenging financial tasks.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2048,6 +2049,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kokubunken/nijl-manyoshutei?style=social)|
 |[kamuskita](https://github.com/matbahasa/kamuskita)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matbahasa/kamuskita?style=social)|
 |[japanese-llm-benchmark](https://github.com/shi3z/japanese-llm-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shi3z/japanese-llm-benchmark?style=social)
+|[EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/EDINET-Bench?style=social)|
 
 
 ## Tutorial
