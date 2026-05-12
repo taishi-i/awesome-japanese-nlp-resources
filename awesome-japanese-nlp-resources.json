@@ -4410,6 +4410,18 @@
                     "zh-hant": "使用🛥Vaporetto的DuckDB擴展，支援日本語全文檢索功能。"
                 }
             },
+            "https://github.com/lindera/lindera-sqlite": {
+                "sub_category": "Search engine library",
+                "repository_name": "lindera-sqlite",
+                "user_name": "lindera",
+                "description": "Lindera for SQLite FTS5 extention",
+                "multilingual_descriptions": {
+                    "en": "Lindera for SQLite FTS5 extention",
+                    "ja": "SQLite FTS5拡張機能用のLindera",
+                    "zh-hans": "Lindera为SQLite FTS5扩展",
+                    "zh-hant": "Lindera for SQLite FTS5 擴展"
+                }
+            },
             "https://github.com/daac-tools/daachorse": {
                 "sub_category": null,
                 "repository_name": "daachorse",
@@ -9750,6 +9762,90 @@
                     "ja": "マレー語勉強会で作っているオープンなマレー語・日本語辞典『みんなのマレー語辞典』",
                     "zh-hans": "在马来语学习会上制作的开放式马来语-日语词典《大家的马来语词典》",
                     "zh-hant": "在馬來語學習會上製作的開放式馬來語-日語詞典『大家的馬來語詞典』"
+                }
+            },
+            "https://github.com/shi3z/japanese-llm-benchmark": {
+                "sub_category": null,
+                "repository_name": "japanese-llm-benchmark",
+                "user_name": "shi3z",
+                "description": "A benchmark tool for evaluating Japanese language capabilities of various LLMs.",
+                "multilingual_descriptions": {
+                    "en": "A benchmark tool for evaluating Japanese language capabilities of various LLMs.",
+                    "ja": "さまざまなLLMの日本語能力を評価するためのベンチマークツール。",
+                    "zh-hans": "用于评估各种LLM的日语语言能力的基准工具。",
+                    "zh-hant": "一個評估各種LLM的日語能力的基準工具。"
+                }
+            },
+            "https://github.com/SakanaAI/EDINET-Bench": {
+                "sub_category": null,
+                "repository_name": "EDINET-Bench",
+                "user_name": "SakanaAI",
+                "description": "ICLR 2026 Evaluating the performance of LLMs on Japanese challenging financial tasks.",
+                "multilingual_descriptions": {
+                    "en": "[ICLR 2026] Evaluating the performance of LLMs on Japanese challenging financial tasks.",
+                    "ja": "[ICLR 2026] 日本の難しい金融タスクにおけるLLMのパフォーマンス評価。",
+                    "zh-hans": "[ICLR 2026] 评估LLMs在日本具有挑战性的金融任务上的表现。",
+                    "zh-hant": "[ICLR 2026] 在日本具有挑戰性的金融任務上評估LLMs的表現。"
+                }
+            },
+            "https://github.com/CyberAgentAILab/LCTG-Bench": {
+                "sub_category": null,
+                "repository_name": "LCTG-Bench",
+                "user_name": "CyberAgentAILab",
+                "description": "LCTG Bench: LLM Controlled Text Generation Benchmark",
+                "multilingual_descriptions": {
+                    "en": "LCTG Bench: LLM Controlled Text Generation Benchmark",
+                    "ja": "LCTGベンチ：LLM制御テキスト生成ベンチマーク\nLCTGベンチ：LLM制御テキスト生成ベンチマーク",
+                    "zh-hans": "LCTG基准：LLM控制文本生成基准",
+                    "zh-hant": "LCTG 實驗台：LLM 控制文本生成基準测试"
+                }
+            },
+            "https://github.com/kaiidams/Kokoro-Speech-Dataset": {
+                "sub_category": null,
+                "repository_name": "Kokoro-Speech-Dataset",
+                "user_name": "kaiidams",
+                "description": "A public domain single speaker Japanese speech dataset",
+                "multilingual_descriptions": {
+                    "en": "A public domain single speaker Japanese speech dataset",
+                    "ja": "公共ドメインの単一話者日本語音声データセット",
+                    "zh-hans": "一个公共领域的单人日语演讲数据集",
+                    "zh-hant": "一個公共領域的單人日語演講數據集"
+                }
+            },
+            "https://github.com/riken-grp/LookVQA": {
+                "sub_category": null,
+                "repository_name": "LookVQA",
+                "user_name": "riken-grp",
+                "description": "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)",
+                "multilingual_descriptions": {
+                    "en": "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)",
+                    "ja": "曖昧な日本語の質問を明確にするための視線に基づいたビジュアル質問応答データセット（LREC-COLING 2024）",
+                    "zh-hans": "一个以凝视为基础的视觉问答数据集，用于澄清模糊的日语问题（LREC-COLING 2024）",
+                    "zh-hant": "一個針對澄清模糊日語問題的凝視導向視覺問答數據集（LREC-COLING 2024）"
+                }
+            },
+            "https://github.com/nlp-waseda/JTruthfulQA": {
+                "sub_category": null,
+                "repository_name": "JTruthfulQA",
+                "user_name": "nlp-waseda",
+                "description": "JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.",
+                "multilingual_descriptions": {
+                    "en": "JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.",
+                    "ja": "JTruthfulQAはTruthfulQA（Lin+、2022）の日本語版です。このデータセットは、元のTruthfulQAから翻訳されたものではなく、ゼロから構築されています。",
+                    "zh-hans": "JTruthfulQA是TruthfulQA的日本版本（Lin+，2022）。这个数据集并非是从原始的TruthfulQA翻译而来，而是从头开始构建的。",
+                    "zh-hant": "JTruthfulQA是TruthfulQA的日本版本（Lin+，2022）。這個數據集並非從原始的TruthfulQA翻譯而來，而是從頭開始建立的。"
+                }
+            },
+            "https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking": {
+                "sub_category": null,
+                "repository_name": "japanese-dataset-for-automated-fact-checking",
+                "user_name": "FujitsuResearch",
+                "description": "Japanese Dataset for Automated Fact-Checking: JAD-AFC",
+                "multilingual_descriptions": {
+                    "en": "Japanese Dataset for Automated Fact-Checking: JAD-AFC",
+                    "ja": "自動ファクトチェック用の日本語データセット：JAD-AFC",
+                    "zh-hans": "自动事实核查的日本数据集：JAD-AFC",
+                    "zh-hant": "自動事實核查的日本數據集：JAD-AFC"
                 }
             }
         },

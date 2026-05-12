@@ -8,25 +8,38 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [860 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [869 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [371 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
 ## Claude Code Plugin
 
-Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-search` plugin.
+Search, discover, and track Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-search` plugin.
 
 ```shell
 # Add the marketplace and install
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 /reload-plugins
+```
 
-# Search
+The plugin ships three skills:
+
+| Skill | Purpose |
+|---|---|
+| `/awesome-japanese-nlp-search:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-search:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
+| `/awesome-japanese-nlp-search:research-trends <topic>` | Survey the dataset + latest web research for a trend report |
+
+All skills detect the query language and respond in kind — English by default, Japanese when the query contains Japanese characters.
+
+**`search` example:**
+
+```shell
 /awesome-japanese-nlp-search:search What tutorials are recommended for beginners learning Japanese NLP?
 ```
 
-**Use-case Selection Guide** (example output):
+Output includes a **Use-case Selection Guide** table:
 
 | Use case | Recommended | Popularity | Why |
 |---|---|---|---|
@@ -35,15 +48,28 @@ Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.
 | Learn BERT and transformer-based NLP | [bert-book](https://github.com/stockmarkteam/bert-book) | ⭐262 | Hands-on BERT programming with clear explanations for Japanese NLP beginners |
 
 
+For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-search/README.md).
+
+
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 
 ## 🎉 The latest additions
 
-**JavaScript**
- * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - Sudachi's synonyms dictionary
+**Corpus**
+ * [japanese-llm-benchmark](https://github.com/shi3z/japanese-llm-benchmark) - A benchmark tool for evaluating Japanese language capabilities of various LLMs.
+ * [EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench) - [ICLR 2026] Evaluating the performance of LLMs on Japanese challenging financial tasks.
+ * [LCTG-Bench](https://github.com/CyberAgentAILab/LCTG-Bench) - LCTG Bench: LLM Controlled Text Generation Benchmark
+ * [Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset) - A public domain single speaker Japanese speech dataset
+ * [LookVQA](https://github.com/riken-grp/LookVQA) - A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)
+ * [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) - JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.
+ * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - Japanese Dataset for Automated Fact-Checking: JAD-AFC
+ * [llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench) - 日本語版longbench作成のため、jemhopデータセットを活用。
 
-_Updated on May 10, 2026_
+**Rust**
+ * [lindera-sqlite](https://github.com/lindera/lindera-sqlite) - Lindera for SQLite FTS5 extention
+
+_Updated on May 13, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
