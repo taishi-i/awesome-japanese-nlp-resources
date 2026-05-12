@@ -1872,6 +1872,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset) - A public domain single speaker Japanese speech dataset
  * [LookVQA](https://github.com/riken-grp/LookVQA) - A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)
  * [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) - JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.
+ * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - Japanese Dataset for Automated Fact-Checking: JAD-AFC
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2058,6 +2059,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaiidams/Kokoro-Speech-Dataset?style=social)|
 |[LookVQA](https://github.com/riken-grp/LookVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/LookVQA?style=social)|
 |[JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/JTruthfulQA?style=social)|
+|[japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/japanese-dataset-for-automated-fact-checking?style=social)|
 
 
 ## Tutorial
