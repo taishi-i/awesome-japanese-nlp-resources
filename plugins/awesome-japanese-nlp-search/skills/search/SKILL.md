@@ -6,6 +6,25 @@ Search the awesome-japanese-nlp-resources database for: "$ARGUMENTS"
 
 ## Instructions
 
+### Step 0 — Validate input
+
+If `$ARGUMENTS` is empty or blank, **stop immediately** and output:
+
+```
+使い方: /awesome-japanese-nlp-search:search <query>
+
+クエリ例:
+  /awesome-japanese-nlp-search:search 形態素解析
+  /awesome-japanese-nlp-search:search BERT
+  /awesome-japanese-nlp-search:search named entity recognition
+  /awesome-japanese-nlp-search:search text classification dataset
+  /awesome-japanese-nlp-search:search sentence embedding
+
+検索したいキーワードを引数に指定してください。
+```
+
+Do **not** proceed to Step 1 if `$ARGUMENTS` is empty.
+
 ### Step 1 — Interpret the query
 
 The user's query is: "$ARGUMENTS"
@@ -187,6 +206,12 @@ Re-rank by evaluating each candidate on:
 Do not mechanically follow the combined score from Step 3 — use it as a starting point, then move items up or down based on the criteria above.
 
 ### Step 5 — Format the output
+
+**Language detection rule (apply before writing any output):**
+- `$ARGUMENTS` contains Japanese characters (hiragana / katakana / kanji) → **Japanese**
+- Otherwise → **English** (default)
+
+Apply the detected language to all headings and prose.
 
 Present the final re-ranked results:
 
