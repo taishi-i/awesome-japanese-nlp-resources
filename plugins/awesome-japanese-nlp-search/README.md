@@ -1,8 +1,8 @@
 # awesome-japanese-nlp-search
 
-Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
+Search, discover, and track 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
 
-This plugin provides a single skill that searches across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
+This plugin ships three skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
 
 ## Install
 
@@ -39,26 +39,101 @@ Or via CLI:
 claude plugin update awesome-japanese-nlp-search@awesome-japanese-nlp-search
 ```
 
-## Usage
+## Skills
+
+This plugin ships three skills:
+
+| Command | Purpose |
+|---|---|
+| `/awesome-japanese-nlp-search:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-search:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
+| `/awesome-japanese-nlp-search:research-trends <topic>` | Survey the dataset + latest web research for a digestible trend report |
+
+---
+
+### `search` — query the bundled dataset
+
+Searches the bundled dataset by keyword or natural language query. Accepts any language — queries are internally translated to English stems for matching, then results are presented in the query language.
+
+After the results list, outputs a **use-case selection guide table** that maps common scenarios (fine-tuning, evaluation, building an app, etc.) to the single best resource for each.
 
 ```shell
 /awesome-japanese-nlp-search:search <query>
 ```
 
-### Examples
+Examples:
 
 ```shell
 /awesome-japanese-nlp-search:search tokenizer
 /awesome-japanese-nlp-search:search BERT
 /awesome-japanese-nlp-search:search named entity recognition
-/awesome-japanese-nlp-search:search morphology python
+/awesome-japanese-nlp-search:search 形態素解析
 /awesome-japanese-nlp-search:search text classification dataset
 /awesome-japanese-nlp-search:search sentence embedding huggingface
 ```
 
+---
+
+### `find-new-resources` — propose additions to the list
+
+Discovers GitHub repositories related to a topic that are **not** yet in `awesome-japanese-nlp-resources`. Uses WebSearch to surface candidates and WebFetch to verify each repo (stars, last-updated date, archived/fork status, Japanese NLP coverage). Low-quality repos (fewer than 3 stars **and** inactive for over 2 years) are automatically filtered out.
+
+Output is contribution-ready markdown — bullet lines match the existing README style and can be pasted directly into a PR.
+
+Calling with no argument runs a **general search for the latest Japanese NLP resources** added in 2025–2026.
+
+```shell
+/awesome-japanese-nlp-search:find-new-resources <topic>
+/awesome-japanese-nlp-search:find-new-resources          # general latest-resources scan
+```
+
+Examples:
+
+```shell
+/awesome-japanese-nlp-search:find-new-resources 形態素解析
+/awesome-japanese-nlp-search:find-new-resources japanese LLM fine-tuning
+/awesome-japanese-nlp-search:find-new-resources RAG 日本語
+/awesome-japanese-nlp-search:find-new-resources speech recognition
+```
+
+---
+
+### `research-trends` — trend report for a topic
+
+Combines the bundled dataset (current state) with live WebSearch (latest releases, papers, model launches) and produces a short scannable report (~600 words) with sections: Overview / Current resources / Latest trends / Key takeaways / References.
+
+Calling with no argument produces a **general overview of current Japanese NLP trends** across all sub-fields.
+
+```shell
+/awesome-japanese-nlp-search:research-trends <topic>
+/awesome-japanese-nlp-search:research-trends             # general trend overview
+```
+
+Examples:
+
+```shell
+/awesome-japanese-nlp-search:research-trends 日本語LLM
+/awesome-japanese-nlp-search:research-trends japanese embedding models
+/awesome-japanese-nlp-search:research-trends RAG 日本語
+/awesome-japanese-nlp-search:research-trends speech synthesis japanese
+```
+
+---
+
+## Output language
+
+All three skills detect the query language and respond in kind:
+
+| Query | Output language |
+|---|---|
+| Contains Japanese characters (hiragana / katakana / kanji) | Japanese |
+| English or empty | English (default) |
+
+Resource descriptions in `find-new-resources` bullet lines are always in English regardless of output language, matching the contribution style of the awesome list.
+
 ## Ranking
 
-Search results are ranked by a combined score:
+`search` results are ranked by a combined score:
 
 1. **Text relevance** — keyword matches in name, description, subcategory, and category
 2. **Popularity** — GitHub stars (normalized) for libraries/models; Hugging Face downloads (normalized) for HF resources

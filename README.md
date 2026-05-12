@@ -14,25 +14,47 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## Claude Code Plugin
 
-Search 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-search` plugin.
+Search, discover, and track Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-search` plugin.
 
 ```shell
 # Add the marketplace and install
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 /reload-plugins
+```
 
-# Search
+The plugin ships three skills:
+
+| Skill | Purpose |
+|---|---|
+| `/awesome-japanese-nlp-search:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-search:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
+| `/awesome-japanese-nlp-search:research-trends <topic>` | Survey the dataset + latest web research for a trend report |
+
+All skills detect the query language and respond in kind — English by default, Japanese when the query contains Japanese characters.
+
+**`search` example:**
+
+```shell
 /awesome-japanese-nlp-search:search What tutorials are recommended for beginners learning Japanese NLP?
 ```
 
-**Use-case Selection Guide** (example output):
+Output includes a **Use-case Selection Guide** table:
 
 | Use case | Recommended | Popularity | Why |
 |---|---|---|---|
 | Learn modern NLP/LLM concepts from scratch | [llm-book](https://github.com/ghmagazine/llm-book) | ⭐387 | Most popular intro; covers LLMs end-to-end with practical Japanese code examples |
 | Build practical skills through exercises | [nlp100v2025](https://github.com/upura/nlp100v2025) | ⭐82 | Classic "100 Knock" challenge series; best way to learn by doing |
 | Learn BERT and transformer-based NLP | [bert-book](https://github.com/stockmarkteam/bert-book) | ⭐262 | Hands-on BERT programming with clear explanations for Japanese NLP beginners |
+
+**`research-trends` example:**
+
+```shell
+/awesome-japanese-nlp-search:research-trends 日本語LLM
+/awesome-japanese-nlp-search:research-trends japanese embedding models
+```
+
+For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-search/README.md).
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
