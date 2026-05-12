@@ -988,6 +988,7 @@ Libraries for Japanese full-text search and indexing
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - A Tantivy tokenizer using Vibrato.
  * [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) - SQLite FTS5 extension for fast Japanese full-text search with 🛥Vaporetto / Vaporetto による高速な日本語全文検索を SQLite FTS5 で実現する拡張機能
  * [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) - DuckDB extension for Japanese full-text search with 🛥Vaporetto / Vaporetto による DuckDB + 日本語全文検索拡張機能
+ * [lindera-sqlite](https://github.com/lindera/lindera-sqlite) - Lindera for SQLite FTS5 extention
 
 
 |Name|downloads/week|total downloads|stars|
@@ -996,6 +997,7 @@ Libraries for Japanese full-text search and indexing
 |[tantivy-vibrato](https://github.com/akr4/tantivy-vibrato)|-|![Crates.io](https://img.shields.io/crates/d/tantivy-vibrato)|![GitHub Repo stars](https://img.shields.io/github/stars/akr4/tantivy-vibrato?style=social)|
 |[sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/sqlite-vaporetto?style=social)|
 |[duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/duckdb-vaporetto?style=social)|
+|[lindera-sqlite](https://github.com/lindera/lindera-sqlite)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/lindera/lindera-sqlite?style=social)|
 
 
 ### Others
