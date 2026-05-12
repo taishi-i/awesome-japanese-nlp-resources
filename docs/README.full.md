@@ -1870,6 +1870,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench) - ICLR 2026 Evaluating the performance of LLMs on Japanese challenging financial tasks.
  * [LCTG-Bench](https://github.com/CyberAgentAILab/LCTG-Bench) - LCTG Bench: LLM Controlled Text Generation Benchmark
  * [Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset) - A public domain single speaker Japanese speech dataset
+ * [LookVQA](https://github.com/riken-grp/LookVQA) - A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2054,6 +2055,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/EDINET-Bench?style=social)|
 |[LCTG-Bench](https://github.com/CyberAgentAILab/LCTG-Bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/LCTG-Bench?style=social)|
 |[Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaiidams/Kokoro-Speech-Dataset?style=social)|
+|[LookVQA](https://github.com/riken-grp/LookVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/LookVQA?style=social)|
 
 
 ## Tutorial
