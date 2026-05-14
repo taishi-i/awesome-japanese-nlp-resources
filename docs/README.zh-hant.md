@@ -1526,6 +1526,7 @@ _Updated on May 13, 2026_
  * [karukan](https://github.com/togatoga/karukan) - Linux的日文輸入法系統，神經假名漢字轉換引擎 + fcitx5輸入法
  * [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) - 嫉妒辭典（Shitto-Mania / Jealousy Dictionary）
  * [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) - azooKey，Google 日本語輸入用 DvorakJP 羅馬字表 / azooKey，Google 日本語輸入用 DvorakJP 羅馬字表
+ * [jmdict-fst](https://github.com/theGlenn/jmdict-fst) - 基於FST的精確/前綴/模糊/釋義搜尋、詞形還原、Rust核心，以及Swift/Kotlin/Flutter綁定的快速JMdict查詢引擎。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1612,6 +1613,7 @@ _Updated on May 13, 2026_
 | 🔗 [karukan](https://github.com/togatoga/karukan) | - | - | ⭐ 278 | 🟢 last saturday|
 | 🔗 [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) | - | - | ⭐ 0 | 🟢 march|
 | 🔗 [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) | - | - | ⭐ 56 | 🟢 february|
+| 🔗 [jmdict-fst](https://github.com/theGlenn/jmdict-fst) | - | - | ⭐ 3 | 🟢 today|
 
 
 ## Corpus
