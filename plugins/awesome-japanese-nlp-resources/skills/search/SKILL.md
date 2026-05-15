@@ -11,14 +11,14 @@ Search the awesome-japanese-nlp-resources database for: "$ARGUMENTS"
 If `$ARGUMENTS` is empty or blank, **stop immediately** and output:
 
 ```
-使い方: /awesome-japanese-nlp-search:search <query>
+使い方: /awesome-japanese-nlp-resources:search <query>
 
 クエリ例:
-  /awesome-japanese-nlp-search:search 形態素解析
-  /awesome-japanese-nlp-search:search BERT
-  /awesome-japanese-nlp-search:search named entity recognition
-  /awesome-japanese-nlp-search:search text classification dataset
-  /awesome-japanese-nlp-search:search sentence embedding
+  /awesome-japanese-nlp-resources:search 形態素解析
+  /awesome-japanese-nlp-resources:search BERT
+  /awesome-japanese-nlp-resources:search named entity recognition
+  /awesome-japanese-nlp-resources:search text classification dataset
+  /awesome-japanese-nlp-resources:search sentence embedding
 
 検索したいキーワードを引数に指定してください。
 ```

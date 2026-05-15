@@ -14,29 +14,30 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 ## Claude Code Plugin
 
-Search, discover, and track Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-search` plugin.
+Search, discover, and track Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-resources` plugin.
 
 ```shell
 # Add the marketplace and install
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
 ```
 
-The plugin ships three skills:
+The plugin ships four skills:
 
 | Skill | Purpose |
 |---|---|
-| `/awesome-japanese-nlp-search:search <query>` | Search the bundled 1,200+ resource dataset |
-| `/awesome-japanese-nlp-search:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
-| `/awesome-japanese-nlp-search:research-trends <topic>` | Survey the dataset + latest web research for a trend report |
+| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
+| `/awesome-japanese-nlp-resources:research-trends <topic>` | Survey the dataset + latest web research for a trend report |
+| `/awesome-japanese-nlp-resources:research-issues <topic>` | Investigate current challenges, limitations, and proposed solutions for a topic |
 
 All skills detect the query language and respond in kind — English by default, Japanese when the query contains Japanese characters.
 
 **`search` example:**
 
 ```shell
-/awesome-japanese-nlp-search:search What tutorials are recommended for beginners learning Japanese NLP?
+/awesome-japanese-nlp-resources:search What tutorials are recommended for beginners learning Japanese NLP?
 ```
 
 Output includes a **Use-case Selection Guide** table:
@@ -48,7 +49,7 @@ Output includes a **Use-case Selection Guide** table:
 | Learn BERT and transformer-based NLP | [bert-book](https://github.com/stockmarkteam/bert-book) | ⭐262 | Hands-on BERT programming with clear explanations for Japanese NLP beginners |
 
 
-For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-search/README.md).
+For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md).
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)

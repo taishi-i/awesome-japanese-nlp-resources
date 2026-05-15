@@ -258,7 +258,7 @@ awesome-japanese-nlp-resources に未収録の GitHub リポジトリ **N 件** 
 
   Suggestions:
   - Retry with different keywords: `<suggested keywords>`
-  - Check existing similar resources with `/awesome-japanese-nlp-search:search "$ARGUMENTS"`
+  - Check existing similar resources with `/awesome-japanese-nlp-resources:search "$ARGUMENTS"`
   ```
 
   Japanese:
@@ -269,7 +269,7 @@ awesome-japanese-nlp-resources に未収録の GitHub リポジトリ **N 件** 
 
   検討事項:
   - 別キーワードで再試行: `<suggested keywords>`
-  - 既存リスト内で類似カテゴリを `/awesome-japanese-nlp-search:search "$ARGUMENTS"` で確認
+  - 既存リスト内で類似カテゴリを `/awesome-japanese-nlp-resources:search "$ARGUMENTS"` で確認
   ```
 
 ### Step 9 — Sources

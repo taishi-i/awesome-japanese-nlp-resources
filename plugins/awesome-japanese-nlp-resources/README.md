@@ -1,21 +1,21 @@
-# awesome-japanese-nlp-search
+# awesome-japanese-nlp-resources
 
 Search, discover, and track 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
 
-This plugin ships three skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
+This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
 
 ## Install
 
 **Inside Claude Code:**
 ```shell
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 **Via CLI:**
 ```bash
 claude plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-claude plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+claude plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 **From a local clone:**
@@ -23,7 +23,7 @@ claude plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
 git clone https://github.com/taishi-i/awesome-japanese-nlp-resources
 cd awesome-japanese-nlp-resources
 claude plugin marketplace add ./.claude-plugin/marketplace.json
-claude plugin install awesome-japanese-nlp-search
+claude plugin install awesome-japanese-nlp-resources
 ```
 
 ## Update
@@ -31,23 +31,24 @@ claude plugin install awesome-japanese-nlp-search
 To get the latest data, run:
 
 ```shell
-/plugin update awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/plugin update awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 Or via CLI:
 ```bash
-claude plugin update awesome-japanese-nlp-search@awesome-japanese-nlp-search
+claude plugin update awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 ## Skills
 
-This plugin ships three skills:
+This plugin ships four skills:
 
 | Command | Purpose |
 |---|---|
-| `/awesome-japanese-nlp-search:search <query>` | Search the bundled 1,200+ resource dataset |
-| `/awesome-japanese-nlp-search:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
-| `/awesome-japanese-nlp-search:research-trends <topic>` | Survey the dataset + latest web research for a digestible trend report |
+| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
+| `/awesome-japanese-nlp-resources:research-trends <topic>` | Survey the dataset + latest web research for a digestible trend report |
+| `/awesome-japanese-nlp-resources:research-issues <topic>` | Investigate current challenges, limitations, and proposed solutions for a topic |
 
 ---
 
@@ -58,18 +59,18 @@ Searches the bundled dataset by keyword or natural language query. Accepts any l
 After the results list, outputs a **use-case selection guide table** that maps common scenarios (fine-tuning, evaluation, building an app, etc.) to the single best resource for each.
 
 ```shell
-/awesome-japanese-nlp-search:search <query>
+/awesome-japanese-nlp-resources:search <query>
 ```
 
 Examples:
 
 ```shell
-/awesome-japanese-nlp-search:search tokenizer
-/awesome-japanese-nlp-search:search BERT
-/awesome-japanese-nlp-search:search named entity recognition
-/awesome-japanese-nlp-search:search 形態素解析
-/awesome-japanese-nlp-search:search text classification dataset
-/awesome-japanese-nlp-search:search sentence embedding huggingface
+/awesome-japanese-nlp-resources:search tokenizer
+/awesome-japanese-nlp-resources:search BERT
+/awesome-japanese-nlp-resources:search named entity recognition
+/awesome-japanese-nlp-resources:search 形態素解析
+/awesome-japanese-nlp-resources:search text classification dataset
+/awesome-japanese-nlp-resources:search sentence embedding huggingface
 ```
 
 ---
@@ -83,17 +84,17 @@ Output is contribution-ready markdown — bullet lines match the existing README
 Calling with no argument runs a **general search for the latest Japanese NLP resources** added in 2025–2026.
 
 ```shell
-/awesome-japanese-nlp-search:find-new-resources <topic>
-/awesome-japanese-nlp-search:find-new-resources          # general latest-resources scan
+/awesome-japanese-nlp-resources:find-new-resources <topic>
+/awesome-japanese-nlp-resources:find-new-resources          # general latest-resources scan
 ```
 
 Examples:
 
 ```shell
-/awesome-japanese-nlp-search:find-new-resources 形態素解析
-/awesome-japanese-nlp-search:find-new-resources japanese LLM fine-tuning
-/awesome-japanese-nlp-search:find-new-resources RAG 日本語
-/awesome-japanese-nlp-search:find-new-resources speech recognition
+/awesome-japanese-nlp-resources:find-new-resources 形態素解析
+/awesome-japanese-nlp-resources:find-new-resources japanese LLM fine-tuning
+/awesome-japanese-nlp-resources:find-new-resources RAG 日本語
+/awesome-japanese-nlp-resources:find-new-resources speech recognition
 ```
 
 ---
@@ -105,24 +106,46 @@ Combines the bundled dataset (current state) with live WebSearch (latest release
 Calling with no argument produces a **general overview of current Japanese NLP trends** across all sub-fields.
 
 ```shell
-/awesome-japanese-nlp-search:research-trends <topic>
-/awesome-japanese-nlp-search:research-trends             # general trend overview
+/awesome-japanese-nlp-resources:research-trends <topic>
+/awesome-japanese-nlp-resources:research-trends             # general trend overview
 ```
 
 Examples:
 
 ```shell
-/awesome-japanese-nlp-search:research-trends 日本語LLM
-/awesome-japanese-nlp-search:research-trends japanese embedding models
-/awesome-japanese-nlp-search:research-trends RAG 日本語
-/awesome-japanese-nlp-search:research-trends speech synthesis japanese
+/awesome-japanese-nlp-resources:research-trends 日本語LLM
+/awesome-japanese-nlp-resources:research-trends japanese embedding models
+/awesome-japanese-nlp-resources:research-trends RAG 日本語
+/awesome-japanese-nlp-resources:research-trends speech synthesis japanese
+```
+
+---
+
+### `research-issues` — challenge report for a topic
+
+Combines the bundled dataset (what already exists) with live WebSearch (known challenges, limitations, ongoing efforts) and produces a short scannable report (~700 words) with sections: Overview / Current resources / Known challenges / Current efforts & proposed solutions / Key takeaways / References.
+
+Calling with no argument produces a **general overview of current Japanese NLP challenges** across all sub-fields.
+
+```shell
+/awesome-japanese-nlp-resources:research-issues <topic>
+/awesome-japanese-nlp-resources:research-issues             # general challenge overview
+```
+
+Examples:
+
+```shell
+/awesome-japanese-nlp-resources:research-issues 日本語LLM
+/awesome-japanese-nlp-resources:research-issues japanese embedding evaluation
+/awesome-japanese-nlp-resources:research-issues 形態素解析
+/awesome-japanese-nlp-resources:research-issues RAG 日本語
 ```
 
 ---
 
 ## Output language
 
-All three skills detect the query language and respond in kind:
+All four skills detect the query language and respond in kind:
 
 | Query | Output language |
 |---|---|

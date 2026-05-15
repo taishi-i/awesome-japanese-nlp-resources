@@ -1,17 +1,17 @@
 {
   "$schema": "https://code.claude.com/schemas/marketplace.json",
-  "name": "awesome-japanese-nlp-search",
+  "name": "awesome-japanese-nlp-resources",
   "description": "Search tools for awesome-japanese-nlp-resources: find datasets, pretrained models, libraries, and tutorials for Japanese NLP",
   "owner": {
     "name": "taishi-i"
   },
   "plugins": [
     {
-      "name": "awesome-japanese-nlp-search",
+      "name": "awesome-japanese-nlp-resources",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/taishi-i/awesome-japanese-nlp-resources",
-        "path": "plugins/awesome-japanese-nlp-search"
+        "path": "plugins/awesome-japanese-nlp-resources"
       },
       "description": "Search 800+ Japanese NLP resources: libraries (Python/Rust/JS/Go/Java), pretrained models, datasets/corpora, tutorials, and dictionaries",
       "author": {

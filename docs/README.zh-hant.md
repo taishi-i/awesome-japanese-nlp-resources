@@ -13,28 +13,29 @@
 - 🎉 我們於2026年3月1日正式發布了日語NLP資源調查工具 [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/)！
 
 ## Claude Code 外掛程式
-使用 `awesome-japanese-nlp-search` 外掛程式，直接從 [Claude Code](https://claude.ai/code) 搜尋、探索並追蹤日語 NLP 資源。
+使用 `awesome-japanese-nlp-resources` 外掛程式，直接從 [Claude Code](https://claude.ai/code) 搜尋、探索並追蹤日語 NLP 資源。
 
 ```shell
 # 新增市集並安裝
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
 ```
 
-此外掛程式內建三項技能：
+此外掛程式內建四項技能：
 
 | 技能 | 用途 |
 |---|---|
-| `/awesome-japanese-nlp-search:search <查詢>` | 搜尋內建的 1,200 多個資源資料集 |
-| `/awesome-japanese-nlp-search:find-new-resources <主題>` | 探索尚未收錄的 GitHub 儲存庫 — 貢獻輔助工具 |
-| `/awesome-japanese-nlp-search:research-trends <主題>` | 結合資料集與最新網路研究，產生趨勢報告 |
+| `/awesome-japanese-nlp-resources:search <查詢>` | 搜尋內建的 1,200 多個資源資料集 |
+| `/awesome-japanese-nlp-resources:find-new-resources <主題>` | 探索尚未收錄的 GitHub 儲存庫 — 貢獻輔助工具 |
+| `/awesome-japanese-nlp-resources:research-trends <主題>` | 結合資料集與最新網路研究，產生趨勢報告 |
+| `/awesome-japanese-nlp-resources:research-issues <主題>` | 調查該主題的現有挑戰、限制與已提出的解決方案 |
 
 所有技能均會自動偵測查詢語言並以相應語言回覆 — 預設為英語，查詢包含日語字元時則以日語回覆。
 
 **`search` 使用範例：**
 ```shell
-/awesome-japanese-nlp-search:search 有哪些教學資源推薦給學習日語 NLP 的初學者？
+/awesome-japanese-nlp-resources:search 有哪些教學資源推薦給學習日語 NLP 的初學者？
 ```
 
 輸出內容包含**使用情境選擇指南**表格：
@@ -47,7 +48,7 @@
 nese-nlp-search:research-trends japanese embedding models
 
 
-完整文件請參閱 [外掛程式 README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-search/README.md)。
+完整文件請參閱 [外掛程式 README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md)。
 
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)

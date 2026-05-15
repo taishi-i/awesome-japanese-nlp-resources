@@ -4,29 +4,29 @@ Your contributions are always welcome!
 
 ## Finding Resources to Add
 
-You can discover GitHub repositories not yet listed here using the `awesome-japanese-nlp-search` Claude Code plugin:
+You can discover GitHub repositories not yet listed here using the `awesome-japanese-nlp-resources` Claude Code plugin:
 
 ```shell
 # Install the plugin (one-time setup)
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
-/plugin install awesome-japanese-nlp-search@awesome-japanese-nlp-search
+/plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
 ```
 
 Then use the `find-new-resources` skill to search for addition candidates:
 
 ```shell
-/awesome-japanese-nlp-search:find-new-resources <topic>
+/awesome-japanese-nlp-resources:find-new-resources <topic>
 ```
 
 For example:
 
 ```shell
-/awesome-japanese-nlp-search:find-new-resources Japanese LLM
-/awesome-japanese-nlp-search:find-new-resources 日本語固有表現認識
+/awesome-japanese-nlp-resources:find-new-resources Japanese LLM
+/awesome-japanese-nlp-resources:find-new-resources 日本語固有表現認識
 ```
 
-The skill searches GitHub for repositories matching the topic and filters out ones already listed, making it easy to find new resources to contribute. For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-search/README.md).
+The skill searches GitHub for repositories matching the topic and filters out ones already listed, making it easy to find new resources to contribute. For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md).
 
 ## Guidelines
 

@@ -152,7 +152,7 @@ Limit WebFetch to **at most 3 calls** to keep latency in check.
 Combine signals:
 
 1. **Web items already in the dataset** — confirm the survey's top items remain relevant; note if anything new dethrones them.
-2. **Web items NOT in the dataset** — these are candidates the user could also surface via `/awesome-japanese-nlp-search:find-new-resources "$ARGUMENTS"`; mention this in section 4 of the output.
+2. **Web items NOT in the dataset** — these are candidates the user could also surface via `/awesome-japanese-nlp-resources:find-new-resources "$ARGUMENTS"`; mention this in section 4 of the output.
 3. **Directional signals** — write 2–4 specific observations about *where the field is heading*. Examples:
    - "Parameter-count growth: 1B → 7B → 70B for Japanese LLMs since 2024"
    - "Shift from encoder-only (BERT) to decoder-only (LLaMA-derived) base models"
@@ -202,7 +202,7 @@ Maturity comment: 1–2 sentences. Assessment of "mature / growing / sparse."
 - **Gaps**: important resources not yet in the list
   - <name> (https://...) — short reason
   - ... (if any)
-- **Next step**: run `/awesome-japanese-nlp-search:find-new-resources "$ARGUMENTS"` to get the full candidate list
+- **Next step**: run `/awesome-japanese-nlp-resources:find-new-resources "$ARGUMENTS"` to get the full candidate list
 
 ### 5. References
 (See the Sources section below)
@@ -245,7 +245,7 @@ Sources:
 - **ギャップ**: 既存リストに未収録の重要リソース
   - <name> (https://...) — 短い理由
   - ... (もしあれば)
-- **次の一手**: `/awesome-japanese-nlp-search:find-new-resources "$ARGUMENTS"` を実行すると候補一覧を取得できる
+- **次の一手**: `/awesome-japanese-nlp-resources:find-new-resources "$ARGUMENTS"` を実行すると候補一覧を取得できる
 
 ### 5. 参考リンク
 (下の Sources セクションを参照)
