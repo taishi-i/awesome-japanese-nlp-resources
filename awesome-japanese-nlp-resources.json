@@ -14,6 +14,18 @@
                     "zh-hant": "SudachiPy 0.6*及以上版本已開發為Sudachi.rs。"
                 }
             },
+            "https://github.com/WorksApplications/SudachiPy": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "SudachiPy",
+                "user_name": "WorksApplications",
+                "description": "Python version of Sudachi, a Japanese tokenizer.",
+                "multilingual_descriptions": {
+                    "en": "Python version of Sudachi, a Japanese tokenizer.",
+                    "ja": "日本語トークナイザーSudachiのPython版です。",
+                    "zh-hans": "Sudachi的Python版本，日语分词器。",
+                    "zh-hant": "Sudachi的Python版本，日語分詞器。"
+                }
+            },
             "https://github.com/mocobeta/janome": {
                 "sub_category": "Morphology analysis",
                 "repository_name": "janome",
@@ -5304,6 +5316,18 @@
                     "zh-hant": "Kuromoji是一個自包含且非常易於使用的日語形態分析器，專為搜索而設計。"
                 }
             },
+            "https://github.com/WorksApplications/Sudachi": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "Sudachi",
+                "user_name": "WorksApplications",
+                "description": "A Japanese Tokenizer for Business",
+                "multilingual_descriptions": {
+                    "en": "A Japanese Tokenizer for Business",
+                    "ja": "ビジネス向けの日本語トークナイザー",
+                    "zh-hans": "面向商业的日语分词器",
+                    "zh-hant": "面向商業的日語分詞器"
+                }
+            },
             "https://github.com/WorksApplications/SudachiDict": {
                 "sub_category": "Morphology analysis",
                 "repository_name": "SudachiDict",
@@ -9847,6 +9871,18 @@
                     "zh-hans": "自动事实核查的日本数据集：JAD-AFC",
                     "zh-hant": "自動事實核查的日本數據集：JAD-AFC"
                 }
+            },
+            "https://github.com/llm-jp/llm-jp-longbench": {
+                "sub_category": null,
+                "repository_name": "llm-jp-longbench",
+                "user_name": "llm-jp",
+                "description": "日本語版longbench作成のため、jemhopデータセットを活用。",
+                "multilingual_descriptions": {
+                    "en": "Utilizing the jemhop dataset to create a Japanese version of longbench.",
+                    "ja": "日本語版longbench作成のため、jemhopデータセットを活用。",
+                    "zh-hans": "利用jemhop数据集创建日语版longbench。",
+                    "zh-hant": "利用jemhop資料集建立日語版longbench。"
+                }
             }
         },
         "Tutorial": {
@@ -10066,6 +10102,18 @@
                     "zh-hant": "製作並學習正規表達式引擎"
                 }
             },
+            "https://github.com/hppRC/bert-classification-tutorial": {
+                "sub_category": null,
+                "repository_name": "bert-classification-tutorial",
+                "user_name": "hppRC",
+                "description": "【2023年版】BERTによるテキスト分類",
+                "multilingual_descriptions": {
+                    "en": "Text classification using BERT in the 2023 version",
+                    "ja": "【2023年版】BERTによるテキスト分類",
+                    "zh-hans": "【2023年版】基于BERT的文本分类",
+                    "zh-hant": "【2023年版】BERT進行文本分類"
+                }
+            },
             "https://github.com/hpprc/bert-classification-tutorial-2024": {
                 "sub_category": null,
                 "repository_name": "bert-classification-tutorial-2024",
@@ -10148,6 +10196,18 @@
                     "ja": "『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート",
                     "zh-hans": "《主题模型》（机器学习专业系列）笔记",
                     "zh-hant": "『主題模型』(機器學習專業系列)的筆記"
+                }
+            },
+            "https://github.com/ryota-komatsu/slp2025": {
+                "sub_category": null,
+                "repository_name": "slp2025",
+                "user_name": "ryota-komatsu",
+                "description": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
+                "multilingual_descriptions": {
+                    "en": "Materials for the Sound Symposium 2025 tutorial \"Introduction to Multimodal Large Language Models\"",
+                    "ja": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
+                    "zh-hans": "音学研讨会2025教程「多模态大规模语言模型入门」资料",
+                    "zh-hant": "音學研討會2025教程「多模態大規模語言模型入門」資料"
                 }
             },
             "https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai": {
