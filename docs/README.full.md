@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [869 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [371 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [872 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [402 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
 ## Claude Code Plugin
@@ -57,20 +57,16 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 
 ## 🎉 The latest additions
 
-**Corpus**
- * [japanese-llm-benchmark](https://github.com/shi3z/japanese-llm-benchmark) - A benchmark tool for evaluating Japanese language capabilities of various LLMs.
- * [EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench) - [ICLR 2026] Evaluating the performance of LLMs on Japanese challenging financial tasks.
- * [LCTG-Bench](https://github.com/CyberAgentAILab/LCTG-Bench) - LCTG Bench: LLM Controlled Text Generation Benchmark
- * [Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset) - A public domain single speaker Japanese speech dataset
- * [LookVQA](https://github.com/riken-grp/LookVQA) - A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)
- * [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) - JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.
- * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - Japanese Dataset for Automated Fact-Checking: JAD-AFC
- * [llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench) - 日本語版longbench作成のため、jemhopデータセットを活用。
-
 **Rust**
- * [lindera-sqlite](https://github.com/lindera/lindera-sqlite) - Lindera for SQLite FTS5 extention
+ * [mecrab](https://github.com/cool-japan/mecrab) - A pure Rust implementation of a morphological analyzer compatible with MeCab dictionaries (IPADIC format).
 
-_Updated on May 13, 2026_
+**Dictionary and IME**
+ * [mzimeja](https://github.com/katahiromz/mzimeja) - MZ-IME Japanese Input for Windows
+
+**Tutorial**
+ * [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) - Example scripts for LLM-jp-4 models
+
+_Updated on May 20, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

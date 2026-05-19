@@ -14,18 +14,6 @@
                     "zh-hant": "SudachiPy 0.6*及以上版本已開發為Sudachi.rs。"
                 }
             },
-            "https://github.com/WorksApplications/SudachiPy": {
-                "sub_category": "Morphology analysis",
-                "repository_name": "SudachiPy",
-                "user_name": "WorksApplications",
-                "description": "Python version of Sudachi, a Japanese tokenizer.",
-                "multilingual_descriptions": {
-                    "en": "Python version of Sudachi, a Japanese tokenizer.",
-                    "ja": "日本語トークナイザーSudachiのPython版です。",
-                    "zh-hans": "Sudachi的Python版本，日语分词器。",
-                    "zh-hant": "Sudachi的Python版本，日語分詞器。"
-                }
-            },
             "https://github.com/mocobeta/janome": {
                 "sub_category": "Morphology analysis",
                 "repository_name": "janome",
@@ -4278,6 +4266,18 @@
                     "zh-hant": "用Rust编写的日语形态分析器"
                 }
             },
+            "https://github.com/cool-japan/mecrab": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "mecrab",
+                "user_name": "cool-japan",
+                "description": "A pure Rust implementation of a morphological analyzer compatible with MeCab dictionaries (IPADIC format).",
+                "multilingual_descriptions": {
+                    "en": "A pure Rust implementation of a morphological analyzer compatible with MeCab dictionaries (IPADIC format).",
+                    "ja": "MeCab辞書（IPADIC形式）と互換性のある形態素解析器の純粋なRust実装。",
+                    "zh-hans": "一个纯Rust实现的形态分析器，与MeCab字典（IPADIC格式）兼容。",
+                    "zh-hant": "一個純Rust實現的形態分析器，與MeCab字典（IPADIC格式）兼容。"
+                }
+            },
             "https://github.com/PSeitz/wana_kana_rust": {
                 "sub_category": "Converter",
                 "repository_name": "wana_kana_rust",
@@ -5314,18 +5314,6 @@
                     "ja": "Kuromojiは、検索用に設計された自己完結型で非常に使いやすい日本語形態素解析器です。",
                     "zh-hans": "Kuromoji是一个自包含且非常易于使用的日语形态分析器，专为搜索而设计。",
                     "zh-hant": "Kuromoji是一個自包含且非常易於使用的日語形態分析器，專為搜索而設計。"
-                }
-            },
-            "https://github.com/WorksApplications/Sudachi": {
-                "sub_category": "Morphology analysis",
-                "repository_name": "Sudachi",
-                "user_name": "WorksApplications",
-                "description": "A Japanese Tokenizer for Business",
-                "multilingual_descriptions": {
-                    "en": "A Japanese Tokenizer for Business",
-                    "ja": "ビジネス向けの日本語トークナイザー",
-                    "zh-hans": "面向商业的日语分词器",
-                    "zh-hant": "面向商業的日語分詞器"
                 }
             },
             "https://github.com/WorksApplications/SudachiDict": {
@@ -7288,6 +7276,30 @@
                     "ja": "azooKey、Google日本語入力用のDvorakJPローマ字テーブル / azooKey用のDvorakJPローマ字テーブル、Google日本語入力",
                     "zh-hans": "azooKey，适用于Google日语输入的DvorakJP罗马字表/DvorakJP Roman Table for azooKey，Google日语输入",
                     "zh-hant": "azooKey，Google 日本語輸入用 DvorakJP 羅馬字表 / azooKey，Google 日本語輸入用 DvorakJP 羅馬字表"
+                }
+            },
+            "https://github.com/theGlenn/jmdict-fst": {
+                "sub_category": null,
+                "repository_name": "jmdict-fst",
+                "user_name": "theGlenn",
+                "description": "Fast JMdict lookup engine with FST-based exact/prefix/fuzzy/gloss search, deinflection, Rust core, and Swift/Kotlin/Flutter bindings.",
+                "multilingual_descriptions": {
+                    "en": "Fast JMdict lookup engine with FST-based exact/prefix/fuzzy/gloss search, deinflection, Rust core, and Swift/Kotlin/Flutter bindings.",
+                    "ja": "高速なJMdictルックアップエンジンで、FSTベースの完全/接頭辞/曖昧/用語検索、語尾変化、Rustコア、およびSwift/Kotlin/Flutterバインディングを備えています。",
+                    "zh-hans": "快速JMdict查找引擎，具有基于FST的精确/前缀/模糊/注释搜索，去词尾，Rust核心，以及Swift/Kotlin/Flutter绑定。",
+                    "zh-hant": "具有基于FST的精确/前缀/模糊/词义搜索、去屈折、Rust核心以及Swift/Kotlin/Flutter绑定的快速JMdict查找引擎。"
+                }
+            },
+            "https://github.com/katahiromz/mzimeja": {
+                "sub_category": null,
+                "repository_name": "mzimeja",
+                "user_name": "katahiromz",
+                "description": "MZ-IME Japanese Input for Windows",
+                "multilingual_descriptions": {
+                    "en": "MZ-IME Japanese Input for Windows",
+                    "ja": "Windows用のMZ-IME日本語入力",
+                    "zh-hans": "MZ-IME Windows版日文输入法",
+                    "zh-hant": "MZ-IME Windows 日文輸入法"
                 }
             }
         },
@@ -9871,18 +9883,6 @@
                     "zh-hans": "自动事实核查的日本数据集：JAD-AFC",
                     "zh-hant": "自動事實核查的日本數據集：JAD-AFC"
                 }
-            },
-            "https://github.com/llm-jp/llm-jp-longbench": {
-                "sub_category": null,
-                "repository_name": "llm-jp-longbench",
-                "user_name": "llm-jp",
-                "description": "日本語版longbench作成のため、jemhopデータセットを活用。",
-                "multilingual_descriptions": {
-                    "en": "Utilizing the jemhop dataset to create a Japanese version of longbench.",
-                    "ja": "日本語版longbench作成のため、jemhopデータセットを活用。",
-                    "zh-hans": "利用jemhop数据集创建日语版longbench。",
-                    "zh-hant": "利用jemhop資料集建立日語版longbench。"
-                }
             }
         },
         "Tutorial": {
@@ -10102,18 +10102,6 @@
                     "zh-hant": "製作並學習正規表達式引擎"
                 }
             },
-            "https://github.com/hppRC/bert-classification-tutorial": {
-                "sub_category": null,
-                "repository_name": "bert-classification-tutorial",
-                "user_name": "hppRC",
-                "description": "【2023年版】BERTによるテキスト分類",
-                "multilingual_descriptions": {
-                    "en": "Text classification using BERT in the 2023 version",
-                    "ja": "【2023年版】BERTによるテキスト分類",
-                    "zh-hans": "【2023年版】基于BERT的文本分类",
-                    "zh-hant": "【2023年版】BERT進行文本分類"
-                }
-            },
             "https://github.com/hpprc/bert-classification-tutorial-2024": {
                 "sub_category": null,
                 "repository_name": "bert-classification-tutorial-2024",
@@ -10198,18 +10186,6 @@
                     "zh-hant": "『主題模型』(機器學習專業系列)的筆記"
                 }
             },
-            "https://github.com/ryota-komatsu/slp2025": {
-                "sub_category": null,
-                "repository_name": "slp2025",
-                "user_name": "ryota-komatsu",
-                "description": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
-                "multilingual_descriptions": {
-                    "en": "Materials for the Sound Symposium 2025 tutorial \"Introduction to Multimodal Large Language Models\"",
-                    "ja": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
-                    "zh-hans": "音学研讨会2025教程「多模态大规模语言模型入门」资料",
-                    "zh-hant": "音學研討會2025教程「多模態大規模語言模型入門」資料"
-                }
-            },
             "https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai": {
                 "sub_category": null,
                 "repository_name": "book_impress_it-basic-education-ai",
@@ -10292,6 +10268,18 @@
                     "ja": "慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」",
                     "zh-hans": "庆应义塾大学 理工学部 信息工程学科 讲义「自然语言处理」",
                     "zh-hant": "慶應義塾大學 理工學部 資訊工程學科 課程「自然語言處理」"
+                }
+            },
+            "https://github.com/llm-jp/llm-jp-4-cookbook": {
+                "sub_category": null,
+                "repository_name": "llm-jp-4-cookbook",
+                "user_name": "llm-jp",
+                "description": "Example scripts for LLM-jp-4 models",
+                "multilingual_descriptions": {
+                    "en": "Example scripts for LLM-jp-4 models",
+                    "ja": "LLM-jp-4モデル用のサンプルスクリプト例",
+                    "zh-hans": "LLM-jp-4模型的示例脚本",
+                    "zh-hant": "LLM-jp-4 模型的示例腳本"
                 }
             }
         },
