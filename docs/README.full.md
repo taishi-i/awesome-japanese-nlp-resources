@@ -969,6 +969,7 @@ Fast Japanese morphological analysis crates written in Rust
  * [mecab-rs](https://github.com/tsurai/mecab-rs) - Safe Rust bindings for mecab a part-of-speech and morphological analyzer library
  * [awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
  * [kanpyo](https://github.com/togatoga/kanpyo) - Japanese Morphological Analyzer written in Rust
+ * [mecrab](https://github.com/cool-japan/mecrab) - A pure Rust implementation of a morphological analyzer compatible with MeCab dictionaries (IPADIC format).
 
 
 |Name|downloads/week|total downloads|stars|
@@ -981,6 +982,7 @@ Fast Japanese morphological analysis crates written in Rust
 |[mecab-rs](https://github.com/tsurai/mecab-rs)|-|![Crates.io](https://img.shields.io/crates/d/mecab)|![GitHub Repo stars](https://img.shields.io/github/stars/tsurai/mecab-rs?style=social)|
 |[awabi](https://github.com/nakagami/awabi)|-|![Crates.io](https://img.shields.io/crates/d/awabi)|![GitHub Repo stars](https://img.shields.io/github/stars/nakagami/awabi?style=social)|
 |[kanpyo](https://github.com/togatoga/kanpyo)|-|![Crates.io](https://img.shields.io/crates/d/kanpyo)|![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/kanpyo?style=social)|
+|[mecrab](https://github.com/cool-japan/mecrab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cool-japan/mecrab?style=social)|
 
 
 ### Converter
