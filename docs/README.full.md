@@ -1529,6 +1529,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) - 嫉妬辞書（Shitto-Mania / Jealousy Dictionary）
  * [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) - azooKey, Google 日本語入力用 DvorakJP ローマ字テーブル / DvorakJP Roman Table for azooKey, Google Japanese Input
  * [jmdict-fst](https://github.com/theGlenn/jmdict-fst) - Fast JMdict lookup engine with FST-based exact/prefix/fuzzy/gloss search, deinflection, Rust core, and Swift/Kotlin/Flutter bindings.
+ * [mzimeja](https://github.com/katahiromz/mzimeja) - MZ-IME Japanese Input for Windows
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1616,6 +1617,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/junikematsu/shitto-mania-dic?style=social)|
 |[dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-roman-table?style=social)|
 |[jmdict-fst](https://github.com/theGlenn/jmdict-fst)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/theGlenn/jmdict-fst?style=social)|
+|[mzimeja](https://github.com/katahiromz/mzimeja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/katahiromz/mzimeja?style=social)|
 
 
 ## Corpus
