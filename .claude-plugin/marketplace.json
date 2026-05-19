@@ -13,7 +13,7 @@
         "url": "https://github.com/taishi-i/awesome-japanese-nlp-resources",
         "path": "plugins/awesome-japanese-nlp-resources"
       },
-      "description": "Search 800+ Japanese NLP resources: libraries (Python/Rust/JS/Go/Java), pretrained models, datasets/corpora, tutorials, and dictionaries",
+      "description": "Search 1,200+ Japanese NLP resources: libraries (Python/Rust/JS/Go/Java), pretrained models, datasets/corpora, tutorials, and dictionaries",
       "author": {
         "name": "taishi-i"
       },

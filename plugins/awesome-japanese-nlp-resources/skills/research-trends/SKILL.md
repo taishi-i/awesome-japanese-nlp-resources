@@ -6,6 +6,19 @@ Research Japanese NLP trends for topic: "$ARGUMENTS" by combining the bundled da
 
 ## Instructions
 
+### Preamble — Establish the current date
+
+Before doing anything else, run this once and remember the values — every subsequent step that mentions a year, month, or report date refers to them:
+
+```bash
+echo "YEAR_NOW=$(date +%Y)"
+echo "YEAR_PREV=$(($(date +%Y) - 1))"
+echo "REPORT_DATE_EN=$(date '+%B %Y')"
+echo "REPORT_DATE_JP=$(date '+%Y年%-m月')"
+```
+
+Substitute these values everywhere this skill writes `${YEAR_NOW}`, `${YEAR_PREV}`, `${REPORT_DATE_EN}`, or `${REPORT_DATE_JP}` below. **Do not hardcode dates** — the skill must always reflect the current month.
+
 ### Step 0 — Handle empty input
 
 If `$ARGUMENTS` is empty or blank, treat it as a request for a **general overview of current Japanese NLP trends**. Use the following defaults for the rest of the steps:
@@ -14,12 +27,12 @@ If `$ARGUMENTS` is empty or blank, treat it as a request for a **general overvie
 - **Keywords for Step 1** (local dataset survey): `japanese nlp`, `llm`, `bert`, `embed`, `speech`, `morpholog`, `translat`
   — These broad keywords give a cross-category snapshot of the most popular resources
 - **WebSearch queries for Step 5**: cover multiple active sub-fields rather than one topic:
-  - `japanese NLP trends 2026 overview`
-  - `日本語 NLP 最新動向 2026`
-  - `japanese LLM embedding benchmark 2026 github`
-  - `日本語 自然言語処理 注目 モデル 2026`
-  - `huggingface japanese models trending 2026`
-- **Report title**: `## 📊 Japanese NLP Trend Report (as of May 2026)` instead of `## 📊 Trend Report for "$ARGUMENTS"` (use `## 📊 日本語NLP 全体トレンドレポート (2026年5月時点)` only when output language is Japanese)
+  - `japanese NLP trends ${YEAR_NOW} overview`
+  - `日本語 NLP 最新動向 ${YEAR_NOW}`
+  - `japanese LLM embedding benchmark ${YEAR_NOW} github`
+  - `日本語 自然言語処理 注目 モデル ${YEAR_NOW}`
+  - `huggingface japanese models trending ${YEAR_NOW}`
+- **Report title**: `## 📊 Japanese NLP Trend Report (as of ${REPORT_DATE_EN})` instead of `## 📊 Trend Report for "$ARGUMENTS"` (use `## 📊 日本語NLP 全体トレンドレポート (${REPORT_DATE_JP}時点)` only when output language is Japanese)
 - **Section 1 (Overview)**: write a broad 3–4 sentence overview covering the major active sub-fields (LLMs, embeddings/RAG, speech, morphological analysis, benchmarks)
 
 Then continue normally from Step 1 using the above defaults.
@@ -121,7 +134,7 @@ Before searching the web, decide what to look for. Based on the survey in Step 3
 
 - What's the dominant **architecture** in the top matches (BERT vs. GPT vs. T5 vs. LLaMA)?
 - What's the dominant **resource type** (libraries vs. models vs. corpora)?
-- Are the top items **recent (2024–2026)** or **older (pre-2023)**?
+- Are the top items **recent (within the last 2 years)** or **older (>3 years ago)**?
 - Is there an apparent **gap** (e.g., no recent multimodal models, no public benchmarks)?
 
 Use these angles to shape Step 5's queries.
@@ -130,14 +143,14 @@ Use these angles to shape Step 5's queries.
 
 Use **WebSearch + WebFetch only — do not use the `gh` CLI in this project.**
 
-Run **4–6 WebSearch queries**. Always include the year **2026** or **2025** to bias toward recency. Mix English and Japanese:
+Run **4–6 WebSearch queries**. Always include `${YEAR_NOW}` (and optionally `${YEAR_PREV}`) to bias toward recency. Mix English and Japanese:
 
-- `Japanese NLP <topic-en> 2026`
-- `日本語 <topic> 最新 モデル 2026`
-- `arxiv japanese <topic-en> 2025 2026`
+- `Japanese NLP <topic-en> ${YEAR_NOW}`
+- `日本語 <topic> 最新 モデル ${YEAR_NOW}`
+- `arxiv japanese <topic-en> ${YEAR_PREV} ${YEAR_NOW}`
 - `huggingface japanese <topic-en> new release`
-- `<topic-en> github trending japanese 2026`
-- Optional domain-specific: `<topic-en> jp benchmark 2026`, `日本語 <topic> 評価`
+- `<topic-en> github trending japanese ${YEAR_NOW}`
+- Optional domain-specific: `<topic-en> jp benchmark ${YEAR_NOW}`, `日本語 <topic> 評価`
 
 When a specific high-value URL surfaces (e.g. an arXiv abstract, a HuggingFace model card, a blog post announcing a release), use **WebFetch** to extract details:
 
@@ -172,7 +185,7 @@ Apply the detected language to all headings and prose.
 **English output template (default):**
 
 ```
-## 📊 Trend Report for "$ARGUMENTS" (as of May 2026)
+## 📊 Trend Report for "$ARGUMENTS" (as of ${REPORT_DATE_EN})
 
 ### 1. Overview
 2–3 sentence summary. "The current focus is X, the latest trend is Y, and the highlight is Z."
@@ -193,7 +206,7 @@ Maturity comment: 1–2 sentences. Assessment of "mature / growing / sparse."
 ### 3. Latest Trends (from the web)
 
 - **<date or year-month>** — <finding>. <URL>
-- **2026-03** — `XYZ-LLM-7B` released, achieves SOTA on Japanese JGLUE, N downloads on HuggingFace. https://huggingface.co/...
+- **YYYY-MM** — `XYZ-LLM-7B` released, achieves SOTA on Japanese JGLUE, N downloads on HuggingFace. https://huggingface.co/...
 - ... (3–6 items)
 
 ### 4. Key Takeaways
@@ -215,7 +228,7 @@ Sources:
 **Japanese output template (when query is in Japanese):**
 
 ```
-## 📊 "$ARGUMENTS" トレンドレポート (2026年5月時点)
+## 📊 "$ARGUMENTS" トレンドレポート (${REPORT_DATE_JP}時点)
 
 ### 1. 概要
 2–3 文の要約。「現状の中心は X、最新の動向は Y、注目は Z」のように端的に。
@@ -236,7 +249,7 @@ Sources:
 ### 3. 最新トレンド (Web より)
 
 - **<日付 or 年月>** — <発見事項>。<関連 URL>
-- **2026-03** — `XYZ-LLM-7B` 公開、日本語 JGLUE で SOTA、HuggingFace で N DL。 https://huggingface.co/...
+- **YYYY-MM** — `XYZ-LLM-7B` 公開、日本語 JGLUE で SOTA、HuggingFace で N DL。 https://huggingface.co/...
 - ... (3–6 項目)
 
 ### 4. 注目ポイント

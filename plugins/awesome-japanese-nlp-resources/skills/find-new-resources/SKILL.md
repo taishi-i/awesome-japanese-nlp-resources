@@ -6,17 +6,28 @@ Find new Japanese NLP GitHub repositories for topic: "$ARGUMENTS" that are not a
 
 ## Instructions
 
+### Preamble — Establish the current date
+
+Before doing anything else, run this once and remember the values — every step that mentions a year refers to them:
+
+```bash
+echo "YEAR_NOW=$(date +%Y)"
+echo "YEAR_PREV=$(($(date +%Y) - 1))"
+```
+
+Substitute these everywhere this skill writes `${YEAR_NOW}` or `${YEAR_PREV}` below. **Do not hardcode years** — the skill must always reflect the current year.
+
 ### Step 0 — Handle empty input
 
 If `$ARGUMENTS` is empty or blank, treat it as a **general search for the latest Japanese NLP resources**. Use the following default settings for the rest of the steps:
 
 - **Topic label** for output headings: "Latest Japanese NLP Resources" (use "最新の日本語NLPリソース" only when the user's query was written in Japanese)
 - **Keywords for Step 1**: `japanese nlp`, `日本語 nlp`, `japanese language processing`, `japanese machine learning`
-- **WebSearch queries for Step 4**: focus on recency — add "2025 2026" to every query, and include:
-  - `japanese NLP new library github 2026`
-  - `日本語 NLP 新しい ライブラリ github 2026`
-  - `awesome japanese nlp 2025 2026 new`
-  - `japanese natural language processing tool released 2025 2026`
+- **WebSearch queries for Step 4**: focus on recency — add `${YEAR_PREV} ${YEAR_NOW}` to every query, and include:
+  - `japanese NLP new library github ${YEAR_NOW}`
+  - `日本語 NLP 新しい ライブラリ github ${YEAR_NOW}`
+  - `awesome japanese nlp ${YEAR_PREV} ${YEAR_NOW} new`
+  - `japanese natural language processing tool released ${YEAR_PREV} ${YEAR_NOW}`
 - **Output heading**: "New Japanese NLP Resource Candidates" instead of `New candidates for "$ARGUMENTS"` (use "最近追加された日本語NLPリソース候補" only when the output language is Japanese)
 
 Then continue normally from Step 1 using the above defaults.
@@ -67,82 +78,96 @@ Save the path — call it `RESOURCES_PATH` below.
 
 ### Step 3 — Build the existing-URL set
 
-The plugin's `resources.json` may lag behind the repo's `README.md` — some entries exist only in the README. To avoid false "new resource" reports, supplement the JSON data with URLs extracted from the README when it is available locally.
+The plugin's `resources.json` may lag behind the repo's `README.md` — some entries exist only in the README. To avoid false "new resource" reports, prefer the pre-built `data/existing_urls.txt` (emitted by `build_data.py`) when present and fall back to a live README scan otherwise.
 
-Run the following Python block (substituting `RESOURCES_PATH`):
+Create a temporary file for the merged URL set (so concurrent runs don't clobber each other):
+
+```bash
+EXISTING_URLS_FILE=$(mktemp -t awesome_ja_nlp_urls.XXXXXX)
+```
+
+Then run the following Python block (substituting `RESOURCES_PATH` and `EXISTING_URLS_FILE`):
 
 ```python
 python3 << 'EOF'
 import json, re, os
 
-RESOURCES_PATH = "RESOURCES_PATH"  # substitute actual path from Step 2
+RESOURCES_PATH = "RESOURCES_PATH"          # from Step 2
+OUTPUT_PATH    = "EXISTING_URLS_FILE"      # from the mktemp above
 
-with open(RESOURCES_PATH) as f:
-    data = json.load(f)
+data_dir = os.path.dirname(os.path.abspath(RESOURCES_PATH))
+prebuilt = os.path.join(data_dir, "existing_urls.txt")
 
 urls = set()
+source = ""
 
-# Source 1: resources.json
-for item in data:
-    u = item.get("u", "").lower().rstrip("/")
-    if u:
+# Fast path: use pre-built existing_urls.txt if present
+if os.path.exists(prebuilt):
+    with open(prebuilt) as f:
+        urls = {line.strip().lower() for line in f if line.strip()}
+    source = f"pre-built {prebuilt}"
+
+# Fallback: derive from resources.json + walk to repo-root README.md
+if not urls:
+    with open(RESOURCES_PATH) as f:
+        data = json.load(f)
+    for item in data:
+        u = (item.get("u") or "").lower().rstrip("/")
+        if not u:
+            continue
         urls.add(u)
         if "github.com/" in u:
             parts = u.split("github.com/", 1)[1].split("/")
             if len(parts) >= 2:
                 urls.add(f"https://github.com/{parts[0]}/{parts[1]}".lower())
 
-count_json = len(urls)
+    count_json = len(urls)
+    try:
+        p = os.path.abspath(data_dir)
+        readme_files = []
+        for _ in range(6):
+            p = os.path.dirname(p)
+            readme = os.path.join(p, "README.md")
+            if os.path.exists(readme):
+                readme_files.append(readme)
+            if os.path.exists(os.path.join(p, "awesome-japanese-nlp-resources.json")):
+                break  # reached repo root
+        for readme in readme_files:
+            before = len(urls)
+            with open(readme) as f:
+                content = f.read()
+            for url in re.findall(r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", content):
+                urls.add(url.lower().rstrip("/"))
+            if len(urls) > before:
+                print(f"Supplemented {len(urls)-before} URLs from {readme}")
+    except Exception as e:
+        print(f"README.md scan skipped ({e}), using resources.json only")
+    source = f"derived ({count_json} from JSON, {len(urls)-count_json} from README walk)"
 
-# Source 2: collect ALL README.md files walking up from data/ to repo root.
-# Stopping at the first README is wrong — the plugin has its own README.md that
-# is found first but only contains plugin docs. We continue up until we find
-# the marker file (awesome-japanese-nlp-resources.json) which indicates repo root.
-try:
-    p = os.path.abspath(os.path.dirname(RESOURCES_PATH))
-    readme_files = []
-    for _ in range(6):
-        p = os.path.dirname(p)
-        readme = os.path.join(p, "README.md")
-        if os.path.exists(readme):
-            readme_files.append(readme)
-        if os.path.exists(os.path.join(p, "awesome-japanese-nlp-resources.json")):
-            break  # reached repo root
-
-    for readme in readme_files:
-        before = len(urls)
-        with open(readme) as f:
-            content = f.read()
-        for url in re.findall(r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", content):
-            u = url.lower().rstrip("/")
-            urls.add(u)
-        if len(urls) > before:
-            print(f"Supplemented {len(urls)-before} URLs from {readme}")
-except Exception as e:
-    print(f"README.md scan skipped ({e}), using resources.json only")
-
-with open("/tmp/awesome_ja_nlp_existing_urls.txt", "w") as f:
+with open(OUTPUT_PATH, "w") as f:
     f.write("\n".join(sorted(urls)))
-print(f"Loaded {len(urls)} existing URLs ({count_json} from resources.json, {len(urls)-count_json} from README.md files)")
+print(f"Loaded {len(urls)} existing URLs from {source} → {OUTPUT_PATH}")
 EOF
 ```
+
+Remember to clean up the temp file when the skill finishes (`rm -f "$EXISTING_URLS_FILE"`).
 
 ### Step 4 — Discover candidates via WebSearch
 
 Run **4–6 WebSearch queries** to find candidate GitHub repos. Mix English and Japanese; vary phrasing to widen coverage. **Do not use the `gh` CLI in this project — rely on WebSearch + WebFetch only.**
 
 - `<english-keyword> japanese site:github.com`
-- `japanese <english-keyword> 2026 site:github.com`
+- `japanese <english-keyword> ${YEAR_NOW} site:github.com`
 - `<topic> 日本語 github` (Japanese-side phrasing)
 - `awesome japanese <english-keyword>`
 - `<japanese-tool-name> github` (when a topic maps to known tool names like `mecab`, `sudachi`, `voicevox`)
-- Optional: `<english-keyword> japanese language model 2025` for LLM-flavored topics
+- Optional: `<english-keyword> japanese language model ${YEAR_PREV}` for LLM-flavored topics
 
 From each result, extract every URL matching `https://github.com/<owner>/<repo>` (ignore deeper paths like `/issues`, `/pull/`, `/blob/`, `/tree/`). Capture them into a candidate set, lowercased and with trailing slashes stripped.
 
 ### Step 5 — Filter against the existing dataset
 
-Drop any candidate URL whose lowercased form (or its `https://github.com/owner/repo` prefix) is in `/tmp/awesome_ja_nlp_existing_urls.txt`. Deduplicate by `owner/repo` pair.
+Drop any candidate URL whose lowercased form (or its `https://github.com/owner/repo` prefix) is in `$EXISTING_URLS_FILE` (the temp file from Step 3). Deduplicate by `owner/repo` pair.
 
 After filtering, you should have at most a few dozen unique candidates. If more than 20, prioritize those that appear in multiple WebSearch result sets (signal of relevance) and those with English keyword matches in the search-result title/snippet.
 
@@ -159,7 +184,7 @@ To keep latency manageable, **issue up to 5 WebFetch calls in parallel** (single
 From the WebFetch results, drop any candidate where:
 - `archived: true` or `fork: true`
 - The description / README does not mention Japanese / 日本語 / NLP
-- `stars < 3` AND `last_updated` is more than 24 months ago (before approximately 2024-05)
+- `stars < 3` AND `last_updated` is more than 24 months ago
 
 Keep the metadata for the survivors — you'll cite stars and last-updated date in the output.
 
@@ -201,7 +226,7 @@ Found **N** GitHub repositories not yet in awesome-japanese-nlp-resources.
 *(Search keywords: keyword1, keyword2, ...)*
 
 ### Python library
-* [repo-name](https://github.com/owner/repo) - One-line English description. (⭐ 123, last updated: 2026-04)
+* [repo-name](https://github.com/owner/repo) - One-line English description. (⭐ 123, last updated: YYYY-MM)
 * ...
 
 ### Corpus
@@ -227,7 +252,7 @@ awesome-japanese-nlp-resources に未収録の GitHub リポジトリ **N 件** 
 *(検索キーワード: keyword1, keyword2, ...)*
 
 ### Python library
-* [repo-name](https://github.com/owner/repo) - One-line English description. (⭐ 123, 最終更新: 2026-04)
+* [repo-name](https://github.com/owner/repo) - One-line English description. (⭐ 123, 最終更新: YYYY-MM)
 * ...
 
 ### Corpus

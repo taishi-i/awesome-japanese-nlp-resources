@@ -6,6 +6,19 @@ Research current challenges in Japanese NLP for topic: "$ARGUMENTS" by combining
 
 ## Instructions
 
+### Preamble — Establish the current date
+
+Before doing anything else, run this once and remember the values — every subsequent step that mentions a year, month, or report date refers to them:
+
+```bash
+echo "YEAR_NOW=$(date +%Y)"
+echo "YEAR_PREV=$(($(date +%Y) - 1))"
+echo "REPORT_DATE_EN=$(date '+%B %Y')"
+echo "REPORT_DATE_JP=$(date '+%Y年%-m月')"
+```
+
+Substitute these values everywhere this skill writes `${YEAR_NOW}`, `${YEAR_PREV}`, `${REPORT_DATE_EN}`, or `${REPORT_DATE_JP}` below. **Do not hardcode dates** — the skill must always reflect the current month.
+
 ### Step 0 — Handle empty input
 
 If `$ARGUMENTS` is empty or blank, treat it as a request for a **general overview of current Japanese NLP challenges**. Use the following defaults for the rest of the steps:
@@ -14,12 +27,12 @@ If `$ARGUMENTS` is empty or blank, treat it as a request for a **general overvie
 - **Keywords for Step 1** (local dataset survey): `japanese nlp`, `llm`, `evaluat`, `benchmark`, `embed`, `speech`, `morpholog`
   — These broad keywords give a cross-category snapshot for inferring coverage gaps
 - **WebSearch queries for Step 5**: cover challenge-language across multiple sub-fields:
-  - `japanese NLP challenges 2026 overview`
-  - `日本語 NLP 課題 2026`
-  - `japanese LLM limitations evaluation 2026`
-  - `日本語 自然言語処理 問題点 未解決 2026`
-  - `japanese NLP benchmark error analysis 2026`
-- **Report title**: `## 🔍 Japanese NLP Issue Report (as of May 2026)` instead of `## 🔍 Issue Report for "$ARGUMENTS"` (use `## 🔍 日本語NLP 現状の課題レポート (2026年5月時点)` only when output language is Japanese)
+  - `japanese NLP challenges ${YEAR_NOW} overview`
+  - `日本語 NLP 課題 ${YEAR_NOW}`
+  - `japanese LLM limitations evaluation ${YEAR_NOW}`
+  - `日本語 自然言語処理 問題点 未解決 ${YEAR_NOW}`
+  - `japanese NLP benchmark error analysis ${YEAR_NOW}`
+- **Report title**: `## 🔍 Japanese NLP Issue Report (as of ${REPORT_DATE_EN})` instead of `## 🔍 Issue Report for "$ARGUMENTS"` (use `## 🔍 日本語NLP 現状の課題レポート (${REPORT_DATE_JP}時点)` only when output language is Japanese)
 - **Section 1 (Overview)**: write a broad 3–4 sentence overview covering the most pressing challenges across active sub-fields (LLM evaluation, low-resource domains, embedding quality, speech, benchmarks)
 
 Then continue normally from Step 1 using the above defaults.
@@ -132,13 +145,13 @@ Use these angles to shape Step 5's queries.
 
 Use **WebSearch + WebFetch only — do not use the `gh` CLI in this project.**
 
-Run **4–6 WebSearch queries**, biased toward challenge-language. Always include the year **2026** or **2025** to bias toward recency. Mix English and Japanese:
+Run **4–6 WebSearch queries**, biased toward challenge-language. Always include `${YEAR_NOW}` (and optionally `${YEAR_PREV}`) to bias toward recency. Mix English and Japanese:
 
-- `Japanese NLP <topic-en> challenges 2026`
+- `Japanese NLP <topic-en> challenges ${YEAR_NOW}`
 - `Japanese NLP <topic-en> limitations`
-- `日本語 <topic> 課題 2026`
+- `日本語 <topic> 課題 ${YEAR_NOW}`
 - `日本語 <topic> 問題点 未解決`
-- `arxiv japanese <topic-en> 2025 2026 challenges`
+- `arxiv japanese <topic-en> ${YEAR_PREV} ${YEAR_NOW} challenges`
 - Optional: `<topic-en> japanese benchmark error analysis`, `<topic-en> japanese low-resource`
 
 When a specific high-value URL surfaces (e.g. arXiv abstract describing a failure mode, an evaluation paper, a position paper, a benchmark leaderboard with error analysis), use **WebFetch** to extract details:
@@ -171,7 +184,7 @@ Apply the detected language to all headings and prose.
 **English output template (default):**
 
 ```
-## 🔍 Issue Report for "$ARGUMENTS" (as of May 2026)
+## 🔍 Issue Report for "$ARGUMENTS" (as of ${REPORT_DATE_EN})
 
 ### 1. Overview
 2–3 sentences. "The main challenges in X are A, B, and C. Recent work tackled D; E remains open."
@@ -191,7 +204,7 @@ What's weak / missing: <comma-separated list of gap aspects>
 ### 3. Known Challenges (from the web)
 
 - **<date or year-month>** — <specific challenge>. <URL>
-- **2026-03** — Evaluation benchmarks still over-rely on translated GLUE tasks, missing Japanese-specific phenomena (honorifics, particles). https://arxiv.org/...
+- **YYYY-MM** — Evaluation benchmarks still over-rely on translated GLUE tasks, missing Japanese-specific phenomena (honorifics, particles). https://arxiv.org/...
 - ... (3–6 items)
 
 ### 4. Current Efforts & Proposed Solutions
@@ -219,7 +232,7 @@ Sources:
 **Japanese output template (when query is in Japanese):**
 
 ```
-## 🔍 "$ARGUMENTS" の課題レポート (2026年5月時点)
+## 🔍 "$ARGUMENTS" の課題レポート (${REPORT_DATE_JP}時点)
 
 ### 1. 概要
 2–3 文の要約。「主要な課題は X, Y, Z。最近 D は進展、E は未解決」のように端的に。
@@ -239,7 +252,7 @@ Sources:
 ### 3. 既知の課題 (Web より)
 
 - **<日付 or 年月>** — <具体的な課題>。<URL>
-- **2026-03** — 評価ベンチマークが翻訳版 GLUE 系に偏り、敬語・助詞など日本語固有現象を捉えきれていない。 https://arxiv.org/...
+- **YYYY-MM** — 評価ベンチマークが翻訳版 GLUE 系に偏り、敬語・助詞など日本語固有現象を捉えきれていない。 https://arxiv.org/...
 - ... (3–6 項目)
 
 ### 4. 現状の取り組み / 提案されている解決策
