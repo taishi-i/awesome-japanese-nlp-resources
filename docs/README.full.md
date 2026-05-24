@@ -2137,6 +2137,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
  * [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) - 慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」
  * [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) - Example scripts for LLM-jp-4 models
+ * [ttslearn](https://github.com/r9y9/ttslearn) - ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2177,6 +2178,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 |[kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sinchir0/kaggle_llm_book?style=social)|
 |[nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/nlp-lecture-keio?style=social)|
 |[llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-4-cookbook?style=social)|
+|[ttslearn](https://github.com/r9y9/ttslearn)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/ttslearn?style=social)|
 
 
 ## Research summary
