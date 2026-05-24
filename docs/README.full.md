@@ -692,6 +692,7 @@ General-purpose tools supporting Japanese language processing
  * [medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public) - 毎日PubMedから最新の循環器内科論文を自動収集・AI要約してGmailに届けるシステム
  * [Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control
  * [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) - Sarashina2.2-TTS is a Japanese-centric text-to-speech system built on a large language model, developed by SB Intuitions.
+ * [manga-translator](https://github.com/Detopall/manga-translator) - A manga translator created using Yolov8, manga_ocr and deep-translator.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -901,6 +902,7 @@ General-purpose tools supporting Japanese language processing
 |[medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yush02084/medical-paper-summarizer-public?style=social)|
 |[Irodori-TTS](https://github.com/Aratako/Irodori-TTS)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aratako/Irodori-TTS?style=social)|
 |[sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/sarashina2.2-tts?style=social)|
+|[manga-translator](https://github.com/Detopall/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Detopall/manga-translator?style=social)|
 
 
 ## C++
