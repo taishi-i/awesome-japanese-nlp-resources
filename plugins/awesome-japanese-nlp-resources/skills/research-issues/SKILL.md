@@ -1,5 +1,8 @@
 ---
 description: Investigate current challenges, limitations, and proposed solutions in Japanese NLP for a topic. Surveys the existing awesome-japanese-nlp-resources dataset to see what already exists, then web-researches known problems and ongoing efforts to produce a digestible issue report.
+when_to_use: "Use only when the user explicitly wants the challenges, limitations, or open problems of a Japanese NLP topic (this combines the bundled dataset with live web research). Trigger phrases include '日本語LLMの課題', '〜の問題点・限界', '未解決の論点', 'challenges in Japanese NER', 'limitations of Japanese embeddings'. For a simple lookup use the search skill; this one runs web research."
+argument-hint: [topic]
+allowed-tools: Bash WebSearch WebFetch
 ---
 
 Research current challenges in Japanese NLP for topic: "$ARGUMENTS" by combining the bundled dataset with the latest web information.
@@ -13,7 +16,7 @@ Before doing anything else, run this once and remember the values — every subs
 ```bash
 echo "YEAR_NOW=$(date +%Y)"
 echo "YEAR_PREV=$(($(date +%Y) - 1))"
-echo "REPORT_DATE_EN=$(date '+%B %Y')"
+echo "REPORT_DATE_EN=$(LC_TIME=C date '+%B %Y')"
 echo "REPORT_DATE_JP=$(date '+%Y年%-m月')"
 ```
 
@@ -51,16 +54,15 @@ Generate **two keyword sets**:
 
 ### Step 2 — Locate the data file
 
+The data file ships with the plugin. Resolve its path via `${CLAUDE_PLUGIN_ROOT}` (Claude Code substitutes this inline in skill content), falling back to a scoped search only if the install is unusual:
+
 ```bash
-find "${HOME}/.claude/plugins" "${PWD}" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
+RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
+[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
+echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
-If empty:
-```bash
-find "${HOME}/.claude/plugins" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
-```
-
-Save as `RESOURCES_PATH`.
+Save the resulting absolute path as `RESOURCES_PATH`.
 
 ### Step 3 — Survey existing resources (inline scoring)
 

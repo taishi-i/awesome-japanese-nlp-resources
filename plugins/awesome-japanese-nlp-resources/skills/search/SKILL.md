@@ -1,5 +1,8 @@
 ---
 description: Search all Japanese NLP resources (libraries, models, datasets, tutorials, dictionaries, Hugging Face). Accepts keywords or natural language questions in any language.
+when_to_use: "Use whenever the user asks which Japanese NLP resource to use, or wants to find one: tokenizers / morphological analyzers, BERT or LLM models, embeddings, NER, text classification, datasets / corpora, dictionaries, tutorials, or Hugging Face models. Trigger phrases include '日本語の形態素解析ライブラリ', 'おすすめの日本語tokenizer', '日本語BERTモデル', '日本語の感情分析データセット', '日本語LLM 一覧', 'which Japanese embedding model', 'Japanese NER library'."
+argument-hint: [query]
+allowed-tools: Bash
 ---
 
 Search the awesome-japanese-nlp-resources database for: "$ARGUMENTS"
@@ -76,15 +79,15 @@ The data descriptions are in **English**, so always convert the query intent to 
 
 ### Step 2 — Locate the data file
 
-Run:
-```
-find "${HOME}/.claude/plugins" "${PWD}" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
+The data file ships with the plugin. Resolve its path via `${CLAUDE_PLUGIN_ROOT}` (Claude Code substitutes this inline in skill content), falling back to a scoped search only if the install is unusual:
+
+```bash
+RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
+[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
+echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
-If empty, try with grep filter:
-```
-find "${HOME}/.claude/plugins" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
-```
+Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file.
 
 ### Step 3 — Search and score via Bash
 
@@ -108,7 +111,7 @@ Run the following, substituting `KEYWORDS` with your English keywords list from 
 python3 << 'EOF'
 import json
 
-with open("PATH_FROM_STEP2") as f:
+with open("RESOURCES_PATH") as f:    # absolute path from Step 2
     data = json.load(f)
 
 keywords = ["keyword1", "keyword2", "keyword3"]  # from Step 1

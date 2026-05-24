@@ -1,5 +1,8 @@
 ---
 description: Find Japanese NLP GitHub repositories that are NOT yet in awesome-japanese-nlp-resources. Suggests candidates to add for a given topic using WebSearch + WebFetch, then outputs contribution-ready markdown.
+when_to_use: "Use only when the user explicitly wants to discover Japanese NLP GitHub repositories NOT yet in awesome-japanese-nlp-resources, or to prepare a contribution. Trigger phrases include 'リストに無い新しい日本語NLP', 'awesome-japanese-nlpに追加できそうな', '最近公開された日本語NLPツール', 'find unlisted Japanese NLP repos', 'contribute a new resource'. For searching what already exists, use the search skill instead."
+argument-hint: [topic]
+allowed-tools: Bash WebSearch WebFetch
 ---
 
 Find new Japanese NLP GitHub repositories for topic: "$ARGUMENTS" that are not already in the awesome-japanese-nlp-resources list.
@@ -64,17 +67,15 @@ If none fits, translate the topic literally to English and add `japanese` / `日
 
 ### Step 2 — Locate the existing data file
 
-Run:
+The data file ships with the plugin. Resolve its path via `${CLAUDE_PLUGIN_ROOT}` (Claude Code substitutes this inline in skill content), falling back to a scoped search only if the install is unusual:
+
 ```bash
-find "${HOME}/.claude/plugins" "${PWD}" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
+RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
+[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
+echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
-If empty:
-```bash
-find "${HOME}/.claude/plugins" -type f -name "resources.json" 2>/dev/null | grep "awesome-japanese-nlp" | head -1
-```
-
-Save the path — call it `RESOURCES_PATH` below.
+Use the resulting absolute `RESOURCES_PATH` below.
 
 ### Step 3 — Build the existing-URL set
 
@@ -300,3 +301,5 @@ awesome-japanese-nlp-resources に未収録の GitHub リポジトリ **N 件** 
 ### Step 9 — Sources
 
 Append the `Sources:` section required by WebSearch — list the URLs of the WebSearch results you actually used.
+
+Finally, clean up the temp file: `rm -f "$EXISTING_URLS_FILE"`
