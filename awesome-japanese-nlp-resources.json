@@ -4009,6 +4009,42 @@
                     "zh-hans": "每日从PubMed自动收集最新的心血管内科论文并进行AI摘要，发送至Gmail的系统",
                     "zh-hant": "每日從PubMed自動收集最新的心臟內科論文並進行AI摘要，然後將其發送到Gmail的系統。"
                 }
+            },
+            "https://github.com/Aratako/Irodori-TTS": {
+                "sub_category": null,
+                "repository_name": "Irodori-TTS",
+                "user_name": "Aratako",
+                "description": "A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control",
+                "multilingual_descriptions": {
+                    "en": "A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control",
+                    "ja": "絵文字駆動スタイル制御を備えたフローマッチングベースのテキスト読み上げモデル",
+                    "zh-hans": "基于流匹配的文本到语音模型，带有表情符号驱动的风格控制",
+                    "zh-hant": "一個基於流匹配的文本轉語音模型，具有由表情符號驅動的風格控制。"
+                }
+            },
+            "https://github.com/sbintuitions/sarashina2.2-tts": {
+                "sub_category": null,
+                "repository_name": "sarashina2.2-tts",
+                "user_name": "sbintuitions",
+                "description": "Sarashina2.2-TTS is a Japanese-centric text-to-speech system built on a large language model, developed by SB Intuitions.",
+                "multilingual_descriptions": {
+                    "en": "Sarashina2.2-TTS is a Japanese-centric text-to-speech system built on a large language model, developed by SB Intuitions.",
+                    "ja": "Sarashina2.2-TTSは、SB Intuitionsによって開発された大規模な言語モデルをベースにした日本中心のテキスト読み上げシステムです。",
+                    "zh-hans": "Sarashina2.2-TTS是一个基于大型语言模型开发的日本中心的文本到语音系统，由SB Intuitions开发。",
+                    "zh-hant": "Sarashina2.2-TTS 是一個以日本為中心的文本轉語音系統，建立在一個大型語言模型上，由SB Intuitions開發。"
+                }
+            },
+            "https://github.com/Detopall/manga-translator": {
+                "sub_category": null,
+                "repository_name": "manga-translator",
+                "user_name": "Detopall",
+                "description": "A manga translator created using Yolov8, manga_ocr and deep-translator.",
+                "multilingual_descriptions": {
+                    "en": "A manga translator created using Yolov8, manga_ocr and deep-translator.",
+                    "ja": "Yolov8、manga_ocr、およびdeep-translatorを使用して作成されたマンガ翻訳者。",
+                    "zh-hans": "一个漫画翻译器，使用Yolov8、manga_ocr和deep-translator创建。",
+                    "zh-hant": "一位漫畫翻譯者使用Yolov8、manga_ocr和deep-translator創建。"
+                }
             }
         },
         "C++": {
@@ -10280,6 +10316,18 @@
                     "ja": "LLM-jp-4モデル用のサンプルスクリプト例",
                     "zh-hans": "LLM-jp-4模型的示例脚本",
                     "zh-hant": "LLM-jp-4 模型的示例腳本"
+                }
+            },
+            "https://github.com/r9y9/ttslearn": {
+                "sub_category": null,
+                "repository_name": "ttslearn",
+                "user_name": "r9y9",
+                "description": "ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)",
+                "multilingual_descriptions": {
+                    "en": "ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)",
+                    "ja": "Input: ttslearn: Library for Pythonで学ぶ音声合成 (Pythonによるテキスト読み上げ)\nOutput: ttslearn: Pythonのためのライブラリを使用して学ぶ音声合成 (Pythonによるテキスト読み上げ)",
+                    "zh-hans": "ttslearn: 用于Python的图书馆学习语音合成（使用Python进行文本转语音）",
+                    "zh-hant": "ttslearn: 使用Python學習的音訊合成程式庫 (Python中的文本轉語音)"
                 }
             }
         },

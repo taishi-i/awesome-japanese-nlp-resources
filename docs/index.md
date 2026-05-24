@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [872件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [402 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [876件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [407 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年3月1日、日本語NLPリソースのサーベイツール [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) をリリースしました！
 
 ## Claude Code プラグイン
@@ -56,16 +56,16 @@
 
 ## 🎉 The latest additions
 
-**Rust**
- * [mecrab](https://github.com/cool-japan/mecrab) - MeCab辞書（IPADIC形式）と互換性のある形態素解析器の純粋なRust実装。
-
-**Dictionary and IME**
- * [mzimeja](https://github.com/katahiromz/mzimeja) - Windows用のMZ-IME日本語入力
+**Python**
+ * [Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - 絵文字駆動スタイル制御を備えたフローマッチングベースのテキスト読み上げモデル
+ * [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) - Sarashina2.2-TTSは、SB Intuitionsによって開発された大規模な言語モデルをベースにした日本中心のテキスト読み上げシステムです。
+ * [manga-translator](https://github.com/Detopall/manga-translator) - Yolov8、manga_ocr、およびdeep-translatorを使用して作成されたマンガ翻訳者。
 
 **Tutorial**
- * [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) - LLM-jp-4モデル用のサンプルスクリプト例
+ * [ttslearn](https://github.com/r9y9/ttslearn) - Input: ttslearn: Library for Pythonで学ぶ音声合成 (Pythonによるテキスト読み上げ)
+Output: ttslearn: Pythonのためのライブラリを使用して学ぶ音声合成 (Pythonによるテキスト読み上げ)
 
-_Updated on May 20, 2026_
+_Updated on May 24, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
