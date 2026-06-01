@@ -830,6 +830,18 @@
                     "zh-hant": "使用Python實現的日語情感分析器。"
                 }
             },
+            "https://github.com/ekiyo55/kotobacore": {
+                "sub_category": "Sentiment analysis",
+                "repository_name": "kotobacore",
+                "user_name": "ekiyo55",
+                "description": "Japanese semantic understanding engine for LLM, RAG, SNS analysis, and AI agents ? dependency-free tokenizer + Plutchik emotion + intent + RAG keywords.",
+                "multilingual_descriptions": {
+                    "en": "Japanese semantic understanding engine for LLM, RAG, SNS analysis, and AI agents ? dependency-free tokenizer + Plutchik emotion + intent + RAG keywords.",
+                    "ja": "LLM、RAG、SNS分析、およびAIエージェント向けの日本語意味理解エンジン？ 依存関係のないトークナイザー+プラッチック感情+意図+RAGキーワード。",
+                    "zh-hans": "日本语义理解引擎，用于LLM、RAG、SNS分析和AI代理？无依赖的分词器+普鲁奇克情感+意图+RAG关键词。",
+                    "zh-hant": "日本語語義理解引擎，用於LLM、RAG、SNS分析和AI代理人？無依賴的分詞器+普魯奇克情感+意圖+RAG關鍵詞。"
+                }
+            },
             "https://github.com/MorinoseiMorizo/jparacrawl-finetune": {
                 "sub_category": "Machine translation",
                 "repository_name": "jparacrawl-finetune",
@@ -4044,6 +4056,18 @@
                     "ja": "Yolov8、manga_ocr、およびdeep-translatorを使用して作成されたマンガ翻訳者。",
                     "zh-hans": "一个漫画翻译器，使用Yolov8、manga_ocr和deep-translator创建。",
                     "zh-hant": "一位漫畫翻譯者使用Yolov8、manga_ocr和deep-translator創建。"
+                }
+            },
+            "https://github.com/shisa-ai/jp-tl-bench": {
+                "sub_category": null,
+                "repository_name": "jp-tl-bench",
+                "user_name": "shisa-ai",
+                "description": "Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation",
+                "multilingual_descriptions": {
+                    "en": "Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation",
+                    "ja": "双方向日本語-英語翻訳のためのアンカードペアワイズLLM評価",
+                    "zh-hans": "双向日英翻译的锚定成对LLM评估",
+                    "zh-hant": "錨定的成對LLM評估用於雙向日英翻譯"
                 }
             }
         },

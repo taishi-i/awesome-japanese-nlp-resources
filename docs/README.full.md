@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [876 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [407 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [878 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [370 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
 
 ## Claude Code Plugin
@@ -58,14 +58,10 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 ## 🎉 The latest additions
 
 **Python**
- * [Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control
- * [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) - Sarashina2.2-TTS is a Japanese-centric text-to-speech system built on a large language model, developed by SB Intuitions.
- * [manga-translator](https://github.com/Detopall/manga-translator) - A manga translator created using Yolov8, manga_ocr and deep-translator.
+ * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation
+ * [kotobacore](https://github.com/ekiyo55/kotobacore) - Japanese semantic understanding engine for LLM, RAG, SNS analysis, and AI agents ? dependency-free tokenizer + Plutchik emotion + intent + RAG keywords.
 
-**Tutorial**
- * [ttslearn](https://github.com/r9y9/ttslearn) - ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)
-
-_Updated on May 24, 2026_
+_Updated on Jun 02, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
