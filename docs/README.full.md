@@ -303,6 +303,7 @@ Libraries that detect emotions or polarity in text
  * [negapoji](https://github.com/liaoziyang/negapoji) - Japanese negative positive classification.日本語文書のネガポジを判定。
  * [pymlask](https://github.com/ikegami-yukino/pymlask) - Emotion analyzer for Japanese text
  * [asari](https://github.com/Hironsan/asari) - Japanese sentiment analyzer implemented in Python.
+ * [kotobacore](https://github.com/ekiyo55/kotobacore) - Japanese semantic understanding engine for LLM, RAG, SNS analysis, and AI agents ? dependency-free tokenizer + Plutchik emotion + intent + RAG keywords.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -311,6 +312,7 @@ Libraries that detect emotions or polarity in text
 |[negapoji](https://github.com/liaoziyang/negapoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liaoziyang/negapoji?style=social)|
 |[pymlask](https://github.com/ikegami-yukino/pymlask)|[![Downloads](https://static.pepy.tech/badge/pymlask/week)](https://pepy.tech/project/pymlask)|[![Downloads](https://static.pepy.tech/badge/pymlask)](https://pepy.tech/project/pymlask)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/pymlask?style=social)|
 |[asari](https://github.com/Hironsan/asari)|[![Downloads](https://static.pepy.tech/badge/asari/week)](https://pepy.tech/project/asari)|[![Downloads](https://static.pepy.tech/badge/asari)](https://pepy.tech/project/asari)|![GitHub Repo stars](https://img.shields.io/github/stars/Hironsan/asari?style=social)|
+|[kotobacore](https://github.com/ekiyo55/kotobacore)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ekiyo55/kotobacore?style=social)|
 
 
 ### Machine translation
