@@ -691,6 +691,9 @@ General-purpose tools supporting Japanese language processing
  * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - Translate text found within speech bubbles in manga images.
  * [shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) - Shirabe Address API — Japanese address normalization for AI agents (Cloudflare Workers + Fly.io NRT, abr-geocoder backed)
  * [medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public) - 毎日PubMedから最新の循環器内科論文を自動収集・AI要約してGmailに届けるシステム
+ * [Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control
+ * [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) - Sarashina2.2-TTS is a Japanese-centric text-to-speech system built on a large language model, developed by SB Intuitions.
+ * [manga-translator](https://github.com/Detopall/manga-translator) - A manga translator created using Yolov8, manga_ocr and deep-translator.
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation
 
 
@@ -899,6 +902,9 @@ General-purpose tools supporting Japanese language processing
 |[manga-translator](https://github.com/georgescutelnicu/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/georgescutelnicu/manga-translator?style=social)|
 |[shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-address-api?style=social)|
 |[medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yush02084/medical-paper-summarizer-public?style=social)|
+|[Irodori-TTS](https://github.com/Aratako/Irodori-TTS)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aratako/Irodori-TTS?style=social)|
+|[sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/sarashina2.2-tts?style=social)|
+|[manga-translator](https://github.com/Detopall/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Detopall/manga-translator?style=social)|
 |[jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/jp-tl-bench?style=social)|
 
 
@@ -2134,6 +2140,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) - 『Kaggle ではじめる大規模言語モデル入門　～自然言語処理〈実践〉プログラミング～』のサポートサイト
  * [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) - 慶応義塾大学 理工学部 情報工学科 講義「自然言語処理」
  * [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) - Example scripts for LLM-jp-4 models
+ * [ttslearn](https://github.com/r9y9/ttslearn) - ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2174,6 +2181,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 |[kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sinchir0/kaggle_llm_book?style=social)|
 |[nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/takamichi-lab/nlp-lecture-keio?style=social)|
 |[llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-4-cookbook?style=social)|
+|[ttslearn](https://github.com/r9y9/ttslearn)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/ttslearn?style=social)|
 
 
 ## Research summary
