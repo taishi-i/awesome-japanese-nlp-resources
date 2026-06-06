@@ -1492,11 +1492,11 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [cl-skkserv](https://github.com/tani/cl-skkserv) - Common LispによるSKK辞書サーバーとその拡張
  * [anthy](https://github.com/xorgy/anthy) - Anthy maintenance
  * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - Anthy Unicode - Another Anthy
- * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift
- * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - Japanese Input Method "azooKey" for Desktop, supporting macOS
+ * [azooKey](https://github.com/azooKey/azooKey) - azooKey is an open-source Japanese keyboard for iPhone and iPad, written in Swift and powered by its own kana-kanji conversion engine. It provides live conversion, flexible key layouts, and a clean SwiftUI interface for a smooth typing experience.
+ * [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) - azooKey-Desktop is an open-source Japanese input method for macOS, written in Swift and powered by the Zenzai neural kana-kanji converter. It provides live conversion, optional LLM-based “Magic Conversions”, and Tuner-backed personalization for a smooth, desktop typing experience.
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - Japanese input method for fcitx5, powered by azooKey engine
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT Place Name Dictionary is a dictionary converted from the Japan Post's ZIP code data for Mozc.
- * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - Kana-Kanji Conversion Module written in Swift
+ * [AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) - Kana-Kanji Conversion Module written in Swift, supporting Neural Kana-Kanji Conversion and other cool features.
  * [libkkc](https://github.com/ueno/libkkc) - Japanese Kana Kanji conversion input method library
  * [libskk](https://github.com/ueno/libskk) - Japanese SKK input method library
  * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式のユーザー辞書
@@ -1580,11 +1580,11 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[cl-skkserv](https://github.com/tani/cl-skkserv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tani/cl-skkserv?style=social)|
 |[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
 |[anthy-unicode](https://github.com/fujiwarat/anthy-unicode)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fujiwarat/anthy-unicode?style=social)|
-|[azooKey](https://github.com/ensan-hcl/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azooKey?style=social)|
-|[azookey-desktop](https://github.com/ensan-hcl/azookey-desktop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azookey-desktop?style=social)|
+|[azooKey](https://github.com/azooKey/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azooKey/azooKey?style=social)|
+|[azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azooKey/azooKey-Desktop?style=social)|
 |[fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/7ka-hiira/fcitx5-hazkey?style=social)|
 |[mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-place-names?style=social)|
-|[azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ensan-hcl/azookeykanakanjiconverter?style=social)|
+|[AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azooKey/AzooKeyKanaKanjiConverter?style=social)|
 |[libkkc](https://github.com/ueno/libkkc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ueno/libkkc?style=social)|
 |[libskk](https://github.com/ueno/libskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ueno/libskk?style=social)|
 |[kanayomi-dict](https://github.com/warihima/kanayomi-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/warihima/kanayomi-dict?style=social)|
