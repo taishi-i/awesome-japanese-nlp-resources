@@ -61,7 +61,7 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation
  * [kotobacore](https://github.com/ekiyo55/kotobacore) - Japanese semantic understanding engine for LLM, RAG, SNS analysis, and AI agents ? dependency-free tokenizer + Plutchik emotion + intent + RAG keywords.
 
-_Updated on Jun 02, 2026_
+_Updated on Jun 07, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

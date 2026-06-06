@@ -60,7 +60,7 @@
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - 双向日英翻译的锚定成对LLM评估
  * [kotobacore](https://github.com/ekiyo55/kotobacore) - 日本语义理解引擎，用于LLM、RAG、SNS分析和AI代理？无依赖的分词器+普鲁奇克情感+意图+RAG关键词。
 
-_Updated on Jun 02, 2026_
+_Updated on Jun 07, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1491,11 +1491,11 @@ _Updated on Jun 02, 2026_
  * [cl-skkserv](https://github.com/tani/cl-skkserv) - 使用Common Lisp构建的SKK词典服务器及其扩展
  * [anthy](https://github.com/xorgy/anthy) - 安蒂维护
  * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - 安蒂Unicode - 另一个安蒂
- * [azooKey](https://github.com/ensan-hcl/azooKey) - azooKey：一款完全使用Swift开发的日本键盘iOS应用程序
- * [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) - 日语输入法azooKey适用于桌面电脑，支持macOS。
+ * [azooKey](https://github.com/azooKey/azooKey) - azooKey是一个开源的日语键盘，适用于iPhone和iPad，使用Swift编写，并由自己的假名-汉字转换引擎驱动。它提供实时转换、灵活的键盘布局，以及清晰的SwiftUI界面，为用户提供流畅的打字体验。
+ * [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) - azooKey-Desktop是一个开源的日语输入法，适用于macOS系统，使用Swift编写，由Zenzai神经假名-汉字转换器提供支持。它提供实时转换，可选的基于LLM的“魔法转换”，以及由Tuner支持的个性化功能，为用户提供流畅的桌面打字体验。
  * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - 由azooKey引擎驱动的fcitx5日语输入法由azooKey引擎驱动的fcitx5日语输入法
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT地名词典是从日本邮政的邮政编码数据转换而来的词典，用于Mozc。
- * [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) - 用Swift编写的假名汉字转换模块
+ * [AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) - 使用Swift编写的假名汉字转换模块，支持神经假名汉字转换和其他酷炫功能。
  * [libkkc](https://github.com/ueno/libkkc) - 日文假名汉字转换输入法库
  * [libskk](https://github.com/ueno/libskk) - 日本SKK输入法库
  * [kanayomi-dict](https://github.com/warihima/kanayomi-dict) - openjtalk形式的用户词典
@@ -1579,11 +1579,11 @@ _Updated on Jun 02, 2026_
 | 🔗 [cl-skkserv](https://github.com/tani/cl-skkserv) | - | - | ⭐ 31 | 🔴 Unable to select next GitHub token from pool|
 | 🔗 [anthy](https://github.com/xorgy/anthy) | - | - | ⭐ 4 | 🔴 july 2013|
 | 🔗 [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) | - | - | ⭐ Unable to select next GitHub token from pool | 🟢 march|
-| 🔗 [azooKey](https://github.com/ensan-hcl/azooKey) | - | - | ⭐ 707 | 🟢 may|
-| 🔗 [azookey-desktop](https://github.com/ensan-hcl/azookey-desktop) | - | - | ⭐ Unable to select next GitHub token from pool | 🔴 Unable to select next GitHub token from pool|
+| 🔗 [azooKey](https://github.com/azooKey/azooKey) | - | - | ⭐ 710 | 🟢 may|
+| 🔗 [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) | - | - | ⭐ 927 | 🟢 may|
 | 🔗 [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) | - | - | ⭐ 199 | 🟡 february|
 | 🔗 [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) | - | - | ⭐ 23 | 🟢 may|
-| 🔗 [azookeykanakanjiconverter](https://github.com/ensan-hcl/azookeykanakanjiconverter) | - | - | ⭐ 148 | 🟢 may|
+| 🔗 [AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) | - | - | ⭐ 148 | 🟢 may|
 | 🔗 [libkkc](https://github.com/ueno/libkkc) | - | - | ⭐ 112 | 🔴 august 2024|
 | 🔗 [libskk](https://github.com/ueno/libskk) | - | - | ⭐ 101 | 🟢 april|
 | 🔗 [kanayomi-dict](https://github.com/warihima/kanayomi-dict) | - | - | ⭐ repo not found | 🔴 repo not found|

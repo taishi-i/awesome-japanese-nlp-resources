@@ -6870,28 +6870,28 @@
                     "zh-hant": "安西Unicode - 另一個安西"
                 }
             },
-            "https://github.com/ensan-hcl/azooKey": {
+            "https://github.com/azooKey/azooKey": {
                 "sub_category": null,
                 "repository_name": "azooKey",
-                "user_name": "ensan-hcl",
-                "description": "azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift",
+                "user_name": "azooKey",
+                "description": "azooKey is an open-source Japanese keyboard for iPhone and iPad, written in Swift and powered by its own kana-kanji conversion engine. It provides live conversion, flexible key layouts, and a clean SwiftUI interface for a smooth typing experience.",
                 "multilingual_descriptions": {
-                    "en": "azooKey: A Japanese Keyboard iOS Application Fully Developed in Swift",
-                    "ja": "Input: azooKey: Swiftで完全に開発された日本語キーボードiOSアプリケーション\nOutput: azooKey：Swiftで完全に開発された日本語キーボードiOSアプリ",
-                    "zh-hans": "azooKey：一款完全使用Swift开发的日本键盘iOS应用程序",
-                    "zh-hant": "azooKey：一個完全使用Swift開發的日本鍵盤iOS應用程式"
+                    "en": "azooKey is an open-source Japanese keyboard for iPhone and iPad, written in Swift and powered by its own kana-kanji conversion engine. It provides live conversion, flexible key layouts, and a clean SwiftUI interface for a smooth typing experience.",
+                    "ja": "azooKeyは、iPhoneとiPad向けのオープンソースの日本語キーボードで、Swiftで書かれており、独自のかな漢字変換エンジンによって動作します。リアルタイム変換、柔軟なキーレイアウト、そしてスムーズなタイピング体験のためのクリーンなSwiftUIインターフェースを提供します。",
+                    "zh-hans": "azooKey是一个开源的日语键盘，适用于iPhone和iPad，使用Swift编写，并由自己的假名-汉字转换引擎驱动。它提供实时转换、灵活的键盘布局，以及清晰的SwiftUI界面，为用户提供流畅的打字体验。",
+                    "zh-hant": "azooKey 是一個開源的日文鍵盤，適用於 iPhone 和 iPad，使用 Swift 編寫，並由其自己的假名漢字轉換引擎驅動。它提供即時轉換、靈活的鍵盤佈局，以及乾淨的 SwiftUI 介面，為使用者帶來流暢的打字體驗。"
                 }
             },
-            "https://github.com/ensan-hcl/azookey-desktop": {
+            "https://github.com/azooKey/azooKey-Desktop": {
                 "sub_category": null,
-                "repository_name": "azookey-desktop",
-                "user_name": "ensan-hcl",
-                "description": "Japanese Input Method \"azooKey\" for Desktop, supporting macOS",
+                "repository_name": "azooKey-Desktop",
+                "user_name": "azooKey",
+                "description": "azooKey-Desktop is an open-source Japanese input method for macOS, written in Swift and powered by the Zenzai neural kana-kanji converter. It provides live conversion, optional LLM-based “Magic Conversions”, and Tuner-backed personalization for a smooth, desktop typing experience.",
                 "multilingual_descriptions": {
-                    "en": "Japanese Input Method azooKey for Desktop, supporting macOS",
-                    "ja": "デスクトップ用の日本語入力メソッドazooKey、macOSをサポート",
-                    "zh-hans": "日语输入法azooKey适用于桌面电脑，支持macOS。",
-                    "zh-hant": "日文輸入法azooKey桌面版，支援macOS"
+                    "en": "azooKey-Desktop is an open-source Japanese input method for macOS, written in Swift and powered by the Zenzai neural kana-kanji converter. It provides live conversion, optional LLM-based “Magic Conversions”, and Tuner-backed personalization for a smooth, desktop typing experience.",
+                    "ja": "azooKey-Desktopは、macOS向けのオープンソースの日本語入力メソッドであり、Swiftで書かれており、Zenzaiニューラル仮名漢字変換エンジンによって動作します。ライブ変換、オプションのLLMベースの「マジック変換」、そしてTunerによるパーソナライゼーションを提供し、スムーズなデスクトップ入力体験を実現します。",
+                    "zh-hans": "azooKey-Desktop是一个开源的日语输入法，适用于macOS系统，使用Swift编写，由Zenzai神经假名-汉字转换器提供支持。它提供实时转换，可选的基于LLM的“魔法转换”，以及由Tuner支持的个性化功能，为用户提供流畅的桌面打字体验。",
+                    "zh-hant": "azooKey-Desktop 是一個開源的日文輸入法，適用於 macOS，使用 Swift 編寫，由 Zenzai 神經假名漢字轉換器提供支援。它提供即時轉換、可選的基於 LLM 的「魔法轉換」，以及 Tuner 支持的個性化功能，為流暢的桌面打字體驗提供支援。"
                 }
             },
             "https://github.com/7ka-hiira/fcitx5-hazkey": {
@@ -6918,16 +6918,16 @@
                     "zh-hant": "Mozc UT 地名字典是從日本郵政的郵遞區號數據轉換而來的字典。"
                 }
             },
-            "https://github.com/ensan-hcl/azookeykanakanjiconverter": {
+            "https://github.com/azooKey/AzooKeyKanaKanjiConverter": {
                 "sub_category": null,
-                "repository_name": "azookeykanakanjiconverter",
-                "user_name": "ensan-hcl",
-                "description": "Kana-Kanji Conversion Module written in Swift",
+                "repository_name": "AzooKeyKanaKanjiConverter",
+                "user_name": "azooKey",
+                "description": "Kana-Kanji Conversion Module written in Swift, supporting Neural Kana-Kanji Conversion and other cool features.",
                 "multilingual_descriptions": {
-                    "en": "Kana-Kanji Conversion Module written in Swift",
-                    "ja": "Swiftで書かれた仮名漢字変換モジュール",
-                    "zh-hans": "用Swift编写的假名汉字转换模块",
-                    "zh-hant": "使用Swift编写的假名-汉字转换模块"
+                    "en": "Kana-Kanji Conversion Module written in Swift, supporting Neural Kana-Kanji Conversion and other cool features.",
+                    "ja": "Swiftで書かれた仮名漢字変換モジュールで、ニューラル仮名漢字変換やその他のクールな機能をサポートしています。",
+                    "zh-hans": "使用Swift编写的假名汉字转换模块，支持神经假名汉字转换和其他酷炫功能。",
+                    "zh-hant": "使用Swift编写的假名汉字转换模块，支持神经假名汉字转换和其他酷炫功能。"
                 }
             },
             "https://github.com/ueno/libkkc": {
