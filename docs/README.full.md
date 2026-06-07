@@ -1056,6 +1056,7 @@ Supplementary crates for Japanese text and IME processing
  * [yomine](https://github.com/mcgrizzz/yomine) - A Japanese vocabulary mining tool designed to help language learners mine new words and expressions.
  * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - lightweight japanese ime written in rust
  * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
+ * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1081,6 +1082,7 @@ Supplementary crates for Japanese text and IME processing
 |[yomine](https://github.com/mcgrizzz/yomine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mcgrizzz/yomine?style=social)|
 |[matsuba](https://github.com/mrpicklepinosaur/matsuba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mrpicklepinosaur/matsuba?style=social)|
 |[hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asutorufa/hujiang_dictionary?style=social)|
+|[mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomokane/mecab-dic-converter?style=social)|
 
 
 ## JavaScript
