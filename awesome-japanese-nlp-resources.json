@@ -4069,6 +4069,18 @@
                     "zh-hans": "双向日英翻译的锚定成对LLM评估",
                     "zh-hant": "錨定的成對LLM評估用於雙向日英翻譯"
                 }
+            },
+            "https://github.com/kgmkm/novel2hermes_jp": {
+                "sub_category": null,
+                "repository_name": "novel2hermes_jp",
+                "user_name": "kgmkm",
+                "description": "メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md",
+                "multilingual_descriptions": {
+                    "en": "Utilizing the powerful memory function of hermes-agent and the external memory vecmemori, skills.md for planning/plotting/writing novels that can withstand long texts in Japanese search.",
+                    "ja": "メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md",
+                    "zh-hans": "利用强大的内存功能的hermes-agent和擅长日语搜索的外部内存vecmemori，以及用于策划/概念/撰写长篇小说的skills.md。",
+                    "zh-hant": "利用強大的記憶功能hermes-agent和專注於日語搜索的外部記憶vecmemori，以及skills.md，用於企劃/構思/撰寫能夠承受長篇小說的技巧。"
+                }
             }
         },
         "C++": {
@@ -4744,6 +4756,18 @@
                     "ja": "Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。",
                     "zh-hans": "日本語辞書由Rust支持，支持Telegram机器人，AWS Lambda和Cloudflare Workers。支持LLM和搜索RAG。",
                     "zh-hant": "由Rust製作的日本語辭典，支援Telegram機器人、AWS Lambda和Cloudflare Workers。支援LLM和搜索RAG。"
+                }
+            },
+            "https://github.com/tomokane/mecab-dic-converter": {
+                "sub_category": null,
+                "repository_name": "mecab-dic-converter",
+                "user_name": "tomokane",
+                "description": "MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。",
+                "multilingual_descriptions": {
+                    "en": "This is a Rust crate for reading, analyzing, and reconstructing precompiled dictionaries for MeCab, ultimately converting them into dictionaries that can be used with Mecab-compatible tokenizers like Vibrato and Lindera.",
+                    "ja": "MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。",
+                    "zh-hans": "这是一个用于读取MeCab预编译词典，进行解析和重建，最终转换为可用于Vibrato或Lindera等Mecab兼容tokenizer的字典的Rust crate。",
+                    "zh-hant": "這是一個用於讀取MeCab編譯好的詞典，進行解析和重構，最終轉換為可用於Vibrato或Lindera等Mecab兼容tokenizer的詞典的Rust crate。"
                 }
             }
         },

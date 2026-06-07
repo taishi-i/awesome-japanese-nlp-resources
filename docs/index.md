@@ -8,9 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [878件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [370 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
-- 🎉 2026年3月1日、日本語NLPリソースのサーベイツール [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) をリリースしました！
+- [881件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [352 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -57,8 +56,10 @@
 ## 🎉 The latest additions
 
 **Python**
- * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - 双方向日本語-英語翻訳のためのアンカードペアワイズLLM評価
- * [kotobacore](https://github.com/ekiyo55/kotobacore) - LLM、RAG、SNS分析、およびAIエージェント向けの日本語意味理解エンジン？ 依存関係のないトークナイザー+プラッチック感情+意図+RAGキーワード。
+ * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+
+**Rust**
+ * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
 
 _Updated on Jun 07, 2026_
 
@@ -690,6 +691,7 @@ _Updated on Jun 07, 2026_
  * [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) - Sarashina2.2-TTSは、SB Intuitionsによって開発された大規模な言語モデルをベースにした日本中心のテキスト読み上げシステムです。
  * [manga-translator](https://github.com/Detopall/manga-translator) - Yolov8、manga_ocr、およびdeep-translatorを使用して作成されたマンガ翻訳者。
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - 双方向日本語-英語翻訳のためのアンカードペアワイズLLM評価
+ * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
 
 
 |Name|downloads/week|total downloads|stars|
@@ -901,6 +903,7 @@ _Updated on Jun 07, 2026_
 |[sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/sarashina2.2-tts?style=social)|
 |[manga-translator](https://github.com/Detopall/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Detopall/manga-translator?style=social)|
 |[jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/jp-tl-bench?style=social)|
+|[novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2hermes_jp?style=social)|
 
 
 ## C++
@@ -1053,6 +1056,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [yomine](https://github.com/mcgrizzz/yomine) - 言語学習者が新しい単語や表現を見つけるのを手助けするために設計された日本語語彙マイニングツール。
  * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - 軽量な日本語IMEをRustで書かれました。
  * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。
+ * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1078,6 +1082,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[yomine](https://github.com/mcgrizzz/yomine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mcgrizzz/yomine?style=social)|
 |[matsuba](https://github.com/mrpicklepinosaur/matsuba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mrpicklepinosaur/matsuba?style=social)|
 |[hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asutorufa/hujiang_dictionary?style=social)|
+|[mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomokane/mecab-dic-converter?style=social)|
 
 
 ## JavaScript

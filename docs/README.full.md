@@ -8,9 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [878 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [370 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
-- 🎉 We are excited to announce the release of [awesome-japanese-nlp-survey](https://awesome-japanese-nlp-survey.vercel.app/) on March 1, 2026!
+- Listed information on [881 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [352 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
 
@@ -58,8 +57,10 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 ## 🎉 The latest additions
 
 **Python**
- * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation
- * [kotobacore](https://github.com/ekiyo55/kotobacore) - Japanese semantic understanding engine for LLM, RAG, SNS analysis, and AI agents ? dependency-free tokenizer + Plutchik emotion + intent + RAG keywords.
+ * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+
+**Rust**
+ * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
 
 _Updated on Jun 07, 2026_
 
