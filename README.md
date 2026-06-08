@@ -1420,6 +1420,7 @@ Resources for using ChatGPT and APIs for Japanese dialogue and text generation
  * [IgakuQA](https://github.com/jungokasai/IgakuQA) - Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations
  * [japagen](https://github.com/retrieva/japagen) - 日本語タスクにおけるLLMを用いた疑似学習データ生成の検討
  * [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+ * [TWZRD Agent Intel](https://intel.twzrd.xyz) - AI エージェントウォレットのトラストスコアリングと本人確認サービス。x402 マイクロペイメントを使った有料 API へのアクセス前に、自律型エージェントの身元を確認できます。Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 
 |Name|downloads/week|total downloads|stars|last commit|
