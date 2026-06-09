@@ -2,7 +2,7 @@
 
 Search, discover, and track 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
 
-This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
+This plugin ships five skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
 
 ## Install
 
@@ -41,11 +41,12 @@ claude plugin update awesome-japanese-nlp-resources@awesome-japanese-nlp-resourc
 
 ## Skills
 
-This plugin ships four skills:
+This plugin ships five skills:
 
 | Command | Purpose |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-resources:similar-resources <repo>` | Given a repo/tool, find ones that do the same or related processing |
 | `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | Survey the dataset + latest web research for a digestible trend report |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | Investigate current challenges, limitations, and proposed solutions for a topic |
@@ -71,6 +72,28 @@ Examples:
 /awesome-japanese-nlp-resources:search 形態素解析
 /awesome-japanese-nlp-resources:search text classification dataset
 /awesome-japanese-nlp-resources:search sentence embedding huggingface
+```
+
+---
+
+### `similar-resources` — find repositories like a given one
+
+Takes a **specific repository or tool** (GitHub URL, `owner/repo`, or a bare tool name) and finds others that do the **same or related processing**. It first mines the bundled dataset — scoring every entry by shared category, shared semantic labels (IDF-weighted so rare labels like *Sentiment Analysis* outweigh ubiquitous ones), and shared description terms — then uses WebSearch + WebFetch to surface **related repositories that are not yet in the list**, and re-ranks everything by functional closeness to the seed.
+
+Output is two tables — closest matches **already in** awesome-japanese-nlp-resources (from the dataset) and related repos found **on the web that aren't listed yet** — plus a short recommendation naming the single closest alternative. If the seed itself is not in the dataset, the skill characterizes it from the web and still returns the nearest cataloged tools.
+
+```shell
+/awesome-japanese-nlp-resources:similar-resources <github-url | owner/repo | tool-name>
+```
+
+Examples:
+
+```shell
+/awesome-japanese-nlp-resources:similar-resources mecab
+/awesome-japanese-nlp-resources:similar-resources fugashi
+/awesome-japanese-nlp-resources:similar-resources https://github.com/polm/cutlet
+/awesome-japanese-nlp-resources:similar-resources manga-ocr
+/awesome-japanese-nlp-resources:similar-resources oseti に似たツール
 ```
 
 ---
@@ -145,7 +168,7 @@ Examples:
 
 ## Output language
 
-All four skills detect the query language and respond in kind:
+All five skills detect the query language and respond in kind:
 
 | Query | Output language |
 |---|---|
@@ -164,6 +187,8 @@ Queries in other languages (Chinese, Korean, etc.) fall back to English output t
 2. **Popularity** — GitHub stars (normalized) for libraries/models; Hugging Face downloads (normalized) for HF resources
 3. **Quality signal** — pre-computed activity score reflecting stars, downloads, and commit history
 4. **Claude re-ranking** — the final top-15 are re-ordered by Claude's semantic judgment (category fit, specificity, recency)
+
+`similar-resources` ranks differently: it scores each candidate by **content similarity to the seed** — shared category, shared semantic labels (IDF-weighted), and shared description terms — then Claude re-ranks the merged local + web set by functional closeness to the seed.
 
 ## Data coverage
 

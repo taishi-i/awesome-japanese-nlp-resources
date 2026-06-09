@@ -22,11 +22,12 @@
 /reload-plugins
 ```
 
-该插件内置四项技能:
+该插件内置五项技能:
 
 | 技能 | 用途 |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 搜索内置的 1,200 多个资源数据集 |
+| `/awesome-japanese-nlp-resources:similar-resources <repo>` | 给定一个仓库/工具，查找执行相同或相关处理的仓库 |
 | `/awesome-japanese-nlp-resources:find-new-resources <topic>` | 发现尚未列入清单的 GitHub 仓库 — 贡献辅助工具 |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | 结合数据集与最新网络研究生成趋势报告 |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | 调查某一主题的现有挑战、局限性及提出的解决方案 |
