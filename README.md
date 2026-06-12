@@ -1915,6 +1915,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [LookVQA](https://github.com/riken-grp/LookVQA) - A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions (LREC-COLING 2024)
  * [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) - JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.
  * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - Japanese Dataset for Automated Fact-Checking: JAD-AFC
+ * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)
  |[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
 
 
