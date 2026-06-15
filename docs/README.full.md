@@ -694,6 +694,7 @@ General-purpose tools supporting Japanese language processing
  * [manga-translator](https://github.com/Detopall/manga-translator) - A manga translator created using Yolov8, manga_ocr and deep-translator.
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - Anchored Pairwise LLM Evaluation for Bidirectional Japanese-English Translation
  * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+ * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - Fine-tuning Moshi/J-Moshi on your own spoken dialogue data
 
 
 |Name|downloads/week|total downloads|stars|
@@ -906,6 +907,7 @@ General-purpose tools supporting Japanese language processing
 |[manga-translator](https://github.com/Detopall/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Detopall/manga-translator?style=social)|
 |[jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/jp-tl-bench?style=social)|
 |[novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2hermes_jp?style=social)|
+|[moshi-finetune](https://github.com/nu-dialogue/moshi-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/moshi-finetune?style=social)|
 
 
 ## C++
