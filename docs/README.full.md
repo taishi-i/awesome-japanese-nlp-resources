@@ -1919,6 +1919,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - Japanese Dataset for Automated Fact-Checking: JAD-AFC
  * [llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench) - 日本語版longbench作成のため、jemhopデータセットを活用。
  * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)
+ * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2108,6 +2109,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/japanese-dataset-for-automated-fact-checking?style=social)|
 |[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
 |[doctrine-corpus](https://github.com/shimo4228/doctrine-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shimo4228/doctrine-corpus?style=social)|
+|[medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aistairc/medLLM_QA_benchmark?style=social)|
 
 
 ## Tutorial
