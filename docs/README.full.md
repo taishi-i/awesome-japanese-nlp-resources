@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [881 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [352 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [886 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [296 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
 
@@ -58,12 +58,15 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 ## 🎉 The latest additions
 
 **Python**
- * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+ * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - Fine-tuning Moshi/J-Moshi on your own spoken dialogue data
+ * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - A lightweight library for evaluating vision language models on English and Japanese benchmarks.
 
-**Rust**
- * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
+**Corpus**
+ * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
+ * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)
+ * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM
 
-_Updated on Jun 07, 2026_
+_Updated on Jun 16, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

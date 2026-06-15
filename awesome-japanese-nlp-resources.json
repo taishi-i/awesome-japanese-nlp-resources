@@ -4081,6 +4081,30 @@
                     "zh-hans": "利用强大的内存功能的hermes-agent和擅长日语搜索的外部内存vecmemori，以及用于策划/概念/撰写长篇小说的skills.md。",
                     "zh-hant": "利用強大的記憶功能hermes-agent和專注於日語搜索的外部記憶vecmemori，以及skills.md，用於企劃/構思/撰寫能夠承受長篇小說的技巧。"
                 }
+            },
+            "https://github.com/nu-dialogue/moshi-finetune": {
+                "sub_category": null,
+                "repository_name": "moshi-finetune",
+                "user_name": "nu-dialogue",
+                "description": "Fine-tuning Moshi/J-Moshi on your own spoken dialogue data",
+                "multilingual_descriptions": {
+                    "en": "Fine-tuning Moshi/J-Moshi on your own spoken dialogue data",
+                    "ja": "自分の話し言葉データを使用して、Moshi/J-Moshiの微調整を行う",
+                    "zh-hans": "使用自己的口语对话数据来微调Moshi/J-Moshi",
+                    "zh-hant": "使用您自己的口語對話數據來微調 Moshi/J-Moshi"
+                }
+            },
+            "https://github.com/llm-jp/simple-evals-mm": {
+                "sub_category": null,
+                "repository_name": "simple-evals-mm",
+                "user_name": "llm-jp",
+                "description": "A lightweight library for evaluating vision language models on English and Japanese benchmarks.",
+                "multilingual_descriptions": {
+                    "en": "A lightweight library for evaluating vision language models on English and Japanese benchmarks.",
+                    "ja": "英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。",
+                    "zh-hans": "一个轻量级的库，用于在英语和日语基准上评估视觉语言模型。",
+                    "zh-hant": "一個輕量級的圖像語言模型評估庫，可用於英語和日語基準測試。"
+                }
             }
         },
         "C++": {
@@ -9966,6 +9990,54 @@
                     "ja": "自動ファクトチェック用の日本語データセット：JAD-AFC",
                     "zh-hans": "自动事实核查的日本数据集：JAD-AFC",
                     "zh-hant": "自動事實核查的日本數據集：JAD-AFC"
+                }
+            },
+            "https://github.com/llm-jp/llm-jp-longbench": {
+                "sub_category": null,
+                "repository_name": "llm-jp-longbench",
+                "user_name": "llm-jp",
+                "description": "日本語版longbench作成のため、jemhopデータセットを活用。",
+                "multilingual_descriptions": {
+                    "en": "Utilize the jemhop dataset to create the Japanese version of longbench.",
+                    "ja": "日本語版longbench作成のため、jemhopデータセットを活用。",
+                    "zh-hans": "为了创建日语版的longbench，利用jemhop数据集。",
+                    "zh-hant": "為了創建日語版的longbench，我們將利用jemhop數據集。"
+                }
+            },
+            "https://github.com/shimo4228/doctrine-corpus": {
+                "sub_category": null,
+                "repository_name": "doctrine-corpus",
+                "user_name": "shimo4228",
+                "description": "Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)",
+                "multilingual_descriptions": {
+                    "en": "Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)",
+                    "ja": "日本語と英語のバイリンガル（日本語+英語）の判断を引き出すQ&Aコーパス（851の例）は、文書化された研究プログラムの意思決定をエンコードしており、各例にメタデータが付いています（CC0、Hugging Faceミラーが利用可能です）",
+                    "zh-hans": "双语（日语+英语）判断引发问答语料库（851个示例），编码记录的研究项目决策，每个示例都有元数据（CC0，Hugging Face镜像可用）",
+                    "zh-hant": "雙語（日語+英語）判斷引發問答語料庫（851個例子），編碼記錄的研究計劃決策，每個例子都有元數據（CC0，Hugging Face鏡像可用）"
+                }
+            },
+            "https://github.com/aistairc/medLLM_QA_benchmark": {
+                "sub_category": null,
+                "repository_name": "medLLM_QA_benchmark",
+                "user_name": "aistairc",
+                "description": "Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM",
+                "multilingual_descriptions": {
+                    "en": "Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM",
+                    "ja": "医療LLMのための英語、日本語、中国語の3か国語QA基準",
+                    "zh-hans": "医学LLM的三语（英语、日语、中文）QA基准",
+                    "zh-hant": "醫學LLM的三語（英語、日語、中文）QA基準"
+                }
+            },
+            "https://github.com/kaomojikan/kaomoji-data": {
+                "sub_category": null,
+                "repository_name": "kaomoji-data",
+                "user_name": "kaomojikan",
+                "description": "約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。",
+                "multilingual_descriptions": {
+                    "en": "Structured JSON dataset annotated with approximately 1,700 types of Japanese emoticons, including kana reading (onomatopoeia, keywords), tags, and categories. Supports multiple categories and category-specific file splitting. MIT license.",
+                    "ja": "約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。",
+                    "zh-hans": "约1,700种日本语表情符号的结构化JSON数据集，包括假名读音（拟态词・关键词）、标签和分类。支持多个分类，按分类分割文件，MIT许可证。",
+                    "zh-hant": "約1,700種類的日本語表情符號全部以假名（擬態語・關鍵字）・標籤・分類進行標註的結構化JSON數據集。支持多個分類、按分類分割文件，MIT許可證。"
                 }
             }
         },

@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [881件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [352 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [886件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [296 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -27,7 +27,8 @@
 | スキル | 用途 |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 同梱されている1,200以上のリソースデータセットを検索 |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると、同じまたは関連する処理を行うものを発見 |
+| `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると
+、同じまたは関連する処理を行うものを発見 |
 | `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリを発見 — 貢献支援ツール |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | データセットと最新のウェブ調査からトレンドレポートを作成 |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | あるトピックに関する現在の課題、制限、提案されている解決策を調査 |
@@ -57,12 +58,15 @@
 ## 🎉 The latest additions
 
 **Python**
- * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+ * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - 自分の話し言葉データを使用して、Moshi/J-Moshiの微調整を行う
+ * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - 英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。
 
-**Rust**
- * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
+**Corpus**
+ * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
+ * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - 日本語と英語のバイリンガル（日本語+英語）の判断を引き出すQ&Aコーパス（851の例）は、文書化された研究プログラムの意思決定をエンコードしており、各例にメタデータが付いています（CC0、Hugging Faceミラーが利用可能です）
+ * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - 医療LLMのための英語、日本語、中国語の3か国語QA基準
 
-_Updated on Jun 07, 2026_
+_Updated on Jun 16, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -693,6 +697,8 @@ _Updated on Jun 07, 2026_
  * [manga-translator](https://github.com/Detopall/manga-translator) - Yolov8、manga_ocr、およびdeep-translatorを使用して作成されたマンガ翻訳者。
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - 双方向日本語-英語翻訳のためのアンカードペアワイズLLM評価
  * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+ * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - 自分の話し言葉データを使用して、Moshi/J-Moshiの微調整を行う
+ * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - 英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -905,6 +911,8 @@ _Updated on Jun 07, 2026_
 |[manga-translator](https://github.com/Detopall/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Detopall/manga-translator?style=social)|
 |[jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/jp-tl-bench?style=social)|
 |[novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2hermes_jp?style=social)|
+|[moshi-finetune](https://github.com/nu-dialogue/moshi-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/moshi-finetune?style=social)|
+|[simple-evals-mm](https://github.com/llm-jp/simple-evals-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/simple-evals-mm?style=social)|
 
 
 ## C++
@@ -1912,7 +1920,10 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [LookVQA](https://github.com/riken-grp/LookVQA) - 曖昧な日本語の質問を明確にするための視線に基づいたビジュアル質問応答データセット（LREC-COLING 2024）
  * [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) - JTruthfulQAはTruthfulQA（Lin+、2022）の日本語版です。このデータセットは、元のTruthfulQAから翻訳されたものではなく、ゼロから構築されています。
  * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - 自動ファクトチェック用の日本語データセット：JAD-AFC
- |[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
+ * [llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench) - 日本語版longbench作成のため、jemhopデータセットを活用。
+ * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - 日本語と英語のバイリンガル（日本語+英語）の判断を引き出すQ&Aコーパス（851の例）は、文書化された研究プログラムの意思決定をエンコードしており、各例にメタデータが付いています（CC0、Hugging Faceミラーが利用可能です）
+ * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - 医療LLMのための英語、日本語、中国語の3か国語QA基準
+ * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2100,7 +2111,10 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[LookVQA](https://github.com/riken-grp/LookVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/LookVQA?style=social)|
 |[JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/JTruthfulQA?style=social)|
 |[japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/japanese-dataset-for-automated-fact-checking?style=social)|
- |[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
+|[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
+|[doctrine-corpus](https://github.com/shimo4228/doctrine-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shimo4228/doctrine-corpus?style=social)|
+|[medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aistairc/medLLM_QA_benchmark?style=social)|
+|[kaomoji-data](https://github.com/kaomojikan/kaomoji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaomojikan/kaomoji-data?style=social)|
 
 
 ## Tutorial
