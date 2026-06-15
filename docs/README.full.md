@@ -1914,6 +1914,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) - JTruthfulQA is a Japanese version of TruthfulQA (Lin+, 2022). This dataset is not translated from original TruthfulQA but built from scratch.
  * [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) - Japanese Dataset for Automated Fact-Checking: JAD-AFC
  * [llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench) - 日本語版longbench作成のため、jemhopデータセットを活用。
+ * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2101,7 +2102,8 @@ Corpora for tasks such as question answering or entailment recognition
 |[LookVQA](https://github.com/riken-grp/LookVQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/riken-grp/LookVQA?style=social)|
 |[JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/JTruthfulQA?style=social)|
 |[japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/FujitsuResearch/japanese-dataset-for-automated-fact-checking?style=social)|
- |[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
+|[llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-longbench?style=social)|
+|[doctrine-corpus](https://github.com/shimo4228/doctrine-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shimo4228/doctrine-corpus?style=social)|
 
 
 ## Tutorial
