@@ -1547,6 +1547,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [jmdict-fst](https://github.com/theGlenn/jmdict-fst) - Fast JMdict lookup engine with FST-based exact/prefix/fuzzy/gloss search, deinflection, Rust core, and Swift/Kotlin/Flutter bindings.
  * [mzimeja](https://github.com/katahiromz/mzimeja) - MZ-IME Japanese Input for Windows
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ - 完全オフラインの日本語キーボードアプリ
+ * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1636,6 +1637,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[jmdict-fst](https://github.com/theGlenn/jmdict-fst)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/theGlenn/jmdict-fst?style=social)|
 |[mzimeja](https://github.com/katahiromz/mzimeja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/katahiromz/mzimeja?style=social)|
 |[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
+|[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
 
 
 ## Corpus
