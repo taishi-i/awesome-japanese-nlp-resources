@@ -1008,6 +1008,7 @@ Crates for script and character conversion in Japanese text
  * [yosina](https://github.com/yosina-lib/yosina) - Yosina is a transliteration library deals with the letters and symbols used in Japanese writing.
  * [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) - Rust implementation of a fast converter between Japanese hankaku and zenkaku characters, mojimoji.
  * [haqumei](https://github.com/o24s/haqumei) - A Japanese Grapheme-to-Phoneme (G2P) library.
+ * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1020,6 +1021,7 @@ Crates for script and character conversion in Japanese text
 |[yosina](https://github.com/yosina-lib/yosina)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yosina-lib/yosina?style=social)|
 |[mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/europeanplaice/mojimoji-rs?style=social)|
 |[haqumei](https://github.com/o24s/haqumei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/o24s/haqumei?style=social)|
+|[ja-furigana](https://github.com/RyuuNeko1107/ja-furigana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/RyuuNeko1107/ja-furigana?style=social)|
 
 
 ### Search engine library
