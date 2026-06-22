@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [886件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [296 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [889件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [313 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -57,16 +57,14 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - 自分の話し言葉データを使用して、Moshi/J-Moshiの微調整を行う
- * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - 英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。
+**Dictionary and IME**
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
+ * [Sumibi](https://github.com/kiyoka/Sumibi) - ChatGPT APIによって強化された日本語入力方法
 
-**Corpus**
- * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
- * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - 日本語と英語のバイリンガル（日本語+英語）の判断を引き出すQ&Aコーパス（851の例）は、文書化された研究プログラムの意思決定をエンコードしており、各例にメタデータが付いています（CC0、Hugging Faceミラーが利用可能です）
- * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - 医療LLMのための英語、日本語、中国語の3か国語QA基準
+**Rust**
+ * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
 
-_Updated on Jun 16, 2026_
+_Updated on Jun 23, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1008,6 +1006,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [yosina](https://github.com/yosina-lib/yosina) - Yosinaは、日本語の文章で使用される文字や記号を取り扱う転写ライブラリです。
  * [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) - 日本語半角と全角文字の高速変換を行うRust実装、mojimoji。
  * [haqumei](https://github.com/o24s/haqumei) - 日本語のグラフェムから音素への変換（G2P）ライブラリ。
+ * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1020,6 +1019,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[yosina](https://github.com/yosina-lib/yosina)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yosina-lib/yosina?style=social)|
 |[mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/europeanplaice/mojimoji-rs?style=social)|
 |[haqumei](https://github.com/o24s/haqumei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/o24s/haqumei?style=social)|
+|[ja-furigana](https://github.com/RyuuNeko1107/ja-furigana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/RyuuNeko1107/ja-furigana?style=social)|
 
 
 ### Search engine library
@@ -1546,6 +1546,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) - azooKey、Google日本語入力用のDvorakJPローマ字テーブル / azooKey用のDvorakJPローマ字テーブル、Google日本語入力
  * [jmdict-fst](https://github.com/theGlenn/jmdict-fst) - 高速なJMdictルックアップエンジンで、FSTベースの完全/接頭辞/曖昧/用語検索、語尾変化、Rustコア、およびSwift/Kotlin/Flutterバインディングを備えています。
  * [mzimeja](https://github.com/katahiromz/mzimeja) - Windows用のMZ-IME日本語入力
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
+ * [Sumibi](https://github.com/kiyoka/Sumibi) - ChatGPT APIによって強化された日本語入力方法
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1634,6 +1636,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-roman-table?style=social)|
 |[jmdict-fst](https://github.com/theGlenn/jmdict-fst)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/theGlenn/jmdict-fst?style=social)|
 |[mzimeja](https://github.com/katahiromz/mzimeja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/katahiromz/mzimeja?style=social)|
+|[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
+|[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
 
 
 ## Corpus

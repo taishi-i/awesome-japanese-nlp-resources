@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [886 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [296 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [889 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [313 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
 
@@ -57,16 +57,14 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 
 ## 🎉 The latest additions
 
-**Python**
- * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - Fine-tuning Moshi/J-Moshi on your own spoken dialogue data
- * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - A lightweight library for evaluating vision language models on English and Japanese benchmarks.
+**Dictionary and IME**
+ * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ - 完全オフラインの日本語キーボードアプリ
+ * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
 
-**Corpus**
- * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
- * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)
- * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM
+**Rust**
+ * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
 
-_Updated on Jun 16, 2026_
+_Updated on Jun 23, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

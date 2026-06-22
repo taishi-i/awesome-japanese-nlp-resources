@@ -4470,6 +4470,18 @@
                     "zh-hant": "一個日本的字形到音素（G2P）庫。"
                 }
             },
+            "https://github.com/RyuuNeko1107/ja-furigana": {
+                "sub_category": "Converter",
+                "repository_name": "ja-furigana",
+                "user_name": "RyuuNeko1107",
+                "description": "日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。",
+                "multilingual_descriptions": {
+                    "en": "Rust library for handling Japanese furigana (ruby) + local HTTP server. All rules are data-driven (TOML).",
+                    "ja": "日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。",
+                    "zh-hans": "处理日语假名（注音）的 Rust 库 + 本地 HTTP 服务器。所有规则都是数据驱动的（TOML）。",
+                    "zh-hant": "處理日文假名（注音）的 Rust 製程式庫 + 本地 HTTP 伺服器。所有規則都是數據驅動（TOML）。"
+                }
+            },
             "https://github.com/lindera-morphology/lindera-tantivy": {
                 "sub_category": "Search engine library",
                 "repository_name": "lindera-tantivy",
@@ -7222,7 +7234,7 @@
                 "sub_category": null,
                 "repository_name": "japanesekeyboard",
                 "user_name": "kazumaproject",
-                "description": "スミレ 完全オフラインの日本語キーボードアプリ",
+                "description": "完全オフラインの日本語キーボードアプリ",
                 "multilingual_descriptions": {
                     "en": "Violet - a completely offline Japanese keyboard app",
                     "ja": "スミレ 完全オフラインの日本語キーボードアプリ",
@@ -7408,6 +7420,18 @@
                     "ja": "Windows用のMZ-IME日本語入力",
                     "zh-hans": "MZ-IME Windows版日文输入法",
                     "zh-hant": "MZ-IME Windows 日文輸入法"
+                }
+            },
+            "https://github.com/kiyoka/Sumibi": {
+                "sub_category": null,
+                "repository_name": "Sumibi",
+                "user_name": "kiyoka",
+                "description": "Japanese/Chinese input method powered by ChatGPT API",
+                "multilingual_descriptions": {
+                    "en": "Japanese input method powered by ChatGPT API",
+                    "ja": "ChatGPT APIによって強化された日本語入力方法",
+                    "zh-hans": "由ChatGPT API提供支持的日语输入法",
+                    "zh-hant": "由ChatGPT API提供動力的日文輸入法"
                 }
             }
         },
