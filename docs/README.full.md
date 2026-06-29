@@ -137,7 +137,7 @@ Libraries that split Japanese text into words or morphemes and assign part-of-sp
  * [python-vaporetto](https://github.com/daac-tools/python-vaporetto) -  Vaporetto is a fast and lightweight pointwise prediction based tokenizer. This is a Python wrapper for Vaporetto.
  * [dango](https://github.com/mkartawijaya/dango) - An easy to use tokenizer for Japanese text, aimed at language learners and non-linguists
  * [rhoknp](https://github.com/ku-nlp/rhoknp) - Yet another Python binding for Juman++/KNP
- * [python-vibrato](https://github.com/daac-tools/python-vibrato) -  Viterbi-based accelerated tokenizer (Python wrapper)
+ * [python-vibrato](https://github.com/daac-tools/python-vibrato) -  Viterbi-based accelerated tokenizer (Python wrapper)g
  * [jagger-python](https://github.com/lighttransport/jagger-python) - Python binding for Jagger(C++ implementation of Pattern-based Japanese Morphological Analyzer)
  * [Mecari](https://github.com/zbller/Mecari) - Mecari (Japanese Morphological Analysis with Graph Neural Networks)
 
@@ -697,6 +697,7 @@ General-purpose tools supporting Japanese language processing
  * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
  * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - Fine-tuning Moshi/J-Moshi on your own spoken dialogue data
  * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - A lightweight library for evaluating vision language models on English and Japanese benchmarks.
+ * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: 日本語医療特化ASR (whisper-small + LoRA, 60話者) と国内初の医療ASRベンチマーク (フルFT版 FT60 も収録)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -911,6 +912,7 @@ General-purpose tools supporting Japanese language processing
 |[novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2hermes_jp?style=social)|
 |[moshi-finetune](https://github.com/nu-dialogue/moshi-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/moshi-finetune?style=social)|
 |[simple-evals-mm](https://github.com/llm-jp/simple-evals-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/simple-evals-mm?style=social)|
+|[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
 
 
 ## C++
