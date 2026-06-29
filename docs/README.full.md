@@ -8,8 +8,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [889 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [313 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [894 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [311 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
 
@@ -57,14 +57,20 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 
 ## 🎉 The latest additions
 
+**Python**
+ * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - OSS MCP server for Japanese tax primary sources (法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例)
+ * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: 日本語医療特化ASR (whisper-small + LoRA, 60話者) と国内初の医療ASRベンチマーク (フルFT版 FT60 も収録)
+
+**Corpus**
+ * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - Katakana annotation of JVS nonpara corpus for G2P evaluation
+
 **Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ - 完全オフラインの日本語キーボードアプリ
- * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
+ * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IME
 
-**Rust**
- * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
+**JavaScript**
+ * [qmd-ja](https://github.com/joycodetech/qmd-ja) - Japanese-enhanced fork of qmd — Vaporetto WASM morphological tokenizer for accurate Japanese BM25 search
 
-_Updated on Jun 23, 2026_
+_Updated on Jun 30, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [889件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [313 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [894件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [311 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -27,8 +27,7 @@
 | スキル | 用途 |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 同梱されている1,200以上のリソースデータセットを検索 |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると
-、同じまたは関連する処理を行うものを発見 |
+| `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると同じまたは関連する処理を行うものを発見 |
 | `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリを発見 — 貢献支援ツール |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | データセットと最新のウェブ調査からトレンドレポートを作成 |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | あるトピックに関する現在の課題、制限、提案されている解決策を調査 |
@@ -57,14 +56,20 @@
 
 ## 🎉 The latest additions
 
+**Python**
+ * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - 日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）
+ * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)
+
+**Corpus**
+ * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - G2P評価のためのJVS非パラコーパスのカタカナ注釈
+
 **Dictionary and IME**
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
- * [Sumibi](https://github.com/kiyoka/Sumibi) - ChatGPT APIによって強化された日本語入力方法
+ * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IME
 
-**Rust**
- * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
+**JavaScript**
+ * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
 
-_Updated on Jun 23, 2026_
+_Updated on Jun 30, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -697,6 +702,8 @@ _Updated on Jun 23, 2026_
  * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
  * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - 自分の話し言葉データを使用して、Moshi/J-Moshiの微調整を行う
  * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - 英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。
+ * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)
+ * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - 日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -911,6 +918,8 @@ _Updated on Jun 23, 2026_
 |[novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2hermes_jp?style=social)|
 |[moshi-finetune](https://github.com/nu-dialogue/moshi-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/moshi-finetune?style=social)|
 |[simple-evals-mm](https://github.com/llm-jp/simple-evals-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/simple-evals-mm?style=social)|
+|[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
+|[open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zeimu-ai/open-zeimu-mcp?style=social)|
 
 
 ## C++
@@ -1178,6 +1187,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [kaitai](https://github.com/compile10/kaitai) - AIを使用して日本語の文章構造を分析するためのアプリケーションです。このツールは、単語やフレーズがどのように関連しているかを視覚化し、インタラクティブな図表で文法的な関係を示します。
  * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - ブラウザ拡張機能（Chrome/Edge/Firefox）は、日本語のウェブページにフリガナを注入するもので、辞書のツールチップ、JLPTのフィルタリング、単語/Ankiのエクスポートを含んでいます。
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - すだちの類語辞典
+ * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1205,6 +1215,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[kaitai](https://github.com/compile10/kaitai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/compile10/kaitai?style=social)|
 |[tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ln2058/tsukeru-furigana-converter?style=social)|
 |[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azu/sudachi-synonyms-dictionary?style=social)|
+|[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
 
 
 ## Go
@@ -1548,6 +1559,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [mzimeja](https://github.com/katahiromz/mzimeja) - Windows用のMZ-IME日本語入力
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
  * [Sumibi](https://github.com/kiyoka/Sumibi) - ChatGPT APIによって強化された日本語入力方法
+ * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IME
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1638,6 +1650,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[mzimeja](https://github.com/katahiromz/mzimeja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/katahiromz/mzimeja?style=social)|
 |[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
 |[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
+|[rakukan](https://github.com/fukuyori/rakukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fukuyori/rakukan?style=social)|
 
 
 ## Corpus
@@ -1928,6 +1941,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - 日本語と英語のバイリンガル（日本語+英語）の判断を引き出すQ&Aコーパス（851の例）は、文書化された研究プログラムの意思決定をエンコードしており、各例にメタデータが付いています（CC0、Hugging Faceミラーが利用可能です）
  * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - 医療LLMのための英語、日本語、中国語の3か国語QA基準
  * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
+ * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - G2P評価のためのJVS非パラコーパスのカタカナ注釈
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2119,6 +2133,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[doctrine-corpus](https://github.com/shimo4228/doctrine-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shimo4228/doctrine-corpus?style=social)|
 |[medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aistairc/medLLM_QA_benchmark?style=social)|
 |[kaomoji-data](https://github.com/kaomojikan/kaomoji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaomojikan/kaomoji-data?style=social)|
+|[jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/jvs_nonpara_kana?style=social)|
 
 
 ## Tutorial

@@ -174,7 +174,7 @@
                 "sub_category": "Morphology analysis",
                 "repository_name": "python-vibrato",
                 "user_name": "daac-tools",
-                "description": "Viterbi-based accelerated tokenizer (Python wrapper)",
+                "description": "Viterbi-based accelerated tokenizer (Python wrapper)g",
                 "multilingual_descriptions": {
                     "en": " Viterbi-based accelerated tokenizer (Python wrapper)",
                     "ja": "Viterbiベースの高速トークナイザー（Pythonラッパー）",
@@ -4105,6 +4105,30 @@
                     "zh-hans": "一个轻量级的库，用于在英语和日语基准上评估视觉语言模型。",
                     "zh-hant": "一個輕量級的圖像語言模型評估庫，可用於英語和日語基準測試。"
                 }
+            },
+            "https://github.com/nikotora/medvoice-jp-asr": {
+                "sub_category": null,
+                "repository_name": "medvoice-jp-asr",
+                "user_name": "nikotora",
+                "description": "MedVoice-JP LoRA60: 日本語医療特化ASR (whisper-small + LoRA, 60話者) と国内初の医療ASRベンチマーク (フルFT版 FT60 も収録)",
+                "multilingual_descriptions": {
+                    "en": "MedVoice-JP LoRA60: 日本語医療特化ASR (whisper-small + LoRA, 60話者) と国内初の医療ASRベンチマーク (フルFT版 FT60 も収録)",
+                    "ja": "MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)",
+                    "zh-hans": "MedVoice-JP LoRA60：日本医疗专用ASR（低语音+ LoRA，60位说话者）和国内首个医疗ASR基准测试（包括完整FT版FT60）",
+                    "zh-hant": "MedVoice-JP LoRA60: 日本語醫療專用ASR（低語音+ LoRA，60位說話者）及國內首個醫療ASR基準測試（包含完整FT版FT60）"
+                }
+            },
+            "https://github.com/zeimu-ai/open-zeimu-mcp": {
+                "sub_category": null,
+                "repository_name": "open-zeimu-mcp",
+                "user_name": "zeimu-ai",
+                "description": "OSS MCP server for Japanese tax primary sources (法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例)",
+                "multilingual_descriptions": {
+                    "en": "OSS MCP server for Japanese tax primary sources (laws, notifications, tax answers, question and answer examples, document response examples, judgment examples)",
+                    "ja": "日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）",
+                    "zh-hans": "用于日本税收主要来源的OSS MCP服务器（法令・通達・税务答案・问答案例・文件答案案例・裁决案例）",
+                    "zh-hant": "OSS MCP伺服器用於日本稅務主要來源（法令・通達・稅務答案・質疑回答案例・文件回答案例・裁決案例）"
+                }
             }
         },
         "C++": {
@@ -5310,6 +5334,18 @@
                     "ja": "すだちの類語辞典",
                     "zh-hans": "酸橙的同义词词典",
                     "zh-hant": "酢橘的同義詞詞典"
+                }
+            },
+            "https://github.com/joycodetech/qmd-ja": {
+                "sub_category": null,
+                "repository_name": "qmd-ja",
+                "user_name": "joycodetech",
+                "description": "Japanese-enhanced fork of qmd — Vaporetto WASM morphological tokenizer for accurate Japanese BM25 search",
+                "multilingual_descriptions": {
+                    "en": "Japanese-enhanced fork of qmd — Vaporetto WASM morphological tokenizer for accurate Japanese BM25 search",
+                    "ja": "日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー",
+                    "zh-hans": "增强日语分叉的qmd - 用于准确的日语BM25搜索的Vaporetto WASM形态标记器\n日本增强的qmd分叉 - 用于准确的日语BM25搜索的Vaporetto WASM形态标记器",
+                    "zh-hant": "日本增強版的qmd - Vaporetto WASM形態標記分詞器，用於準確的日本BM25搜索"
                 }
             }
         },
@@ -7432,6 +7468,18 @@
                     "ja": "ChatGPT APIによって強化された日本語入力方法",
                     "zh-hans": "由ChatGPT API提供支持的日语输入法",
                     "zh-hant": "由ChatGPT API提供動力的日文輸入法"
+                }
+            },
+            "https://github.com/fukuyori/rakukan": {
+                "sub_category": null,
+                "repository_name": "rakukan",
+                "user_name": "fukuyori",
+                "description": "ローカルLLMを利用した、Windows 向け日本語 IMEgit",
+                "multilingual_descriptions": {
+                    "en": "Japanese IME for Windows using Local LLM",
+                    "ja": "ローカルLLMを利用した、Windows 向け日本語 IME",
+                    "zh-hans": "使用本地LLM，适用于Windows的日语输入法",
+                    "zh-hant": "使用本地LLM，針對Windows的日文IME"
                 }
             }
         },
@@ -10062,6 +10110,18 @@
                     "ja": "約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。",
                     "zh-hans": "约1,700种日本语表情符号的结构化JSON数据集，包括假名读音（拟态词・关键词）、标签和分类。支持多个分类，按分类分割文件，MIT许可证。",
                     "zh-hant": "約1,700種類的日本語表情符號全部以假名（擬態語・關鍵字）・標籤・分類進行標註的結構化JSON數據集。支持多個分類、按分類分割文件，MIT許可證。"
+                }
+            },
+            "https://github.com/CyberAgentAILab/jvs_nonpara_kana": {
+                "sub_category": null,
+                "repository_name": "jvs_nonpara_kana",
+                "user_name": "CyberAgentAILab",
+                "description": "Katakana annotation of JVS nonpara corpus for G2P evaluation",
+                "multilingual_descriptions": {
+                    "en": "Katakana annotation of JVS nonpara corpus for G2P evaluation",
+                    "ja": "G2P評価のためのJVS非パラコーパスのカタカナ注釈",
+                    "zh-hans": "JVS非参数语料库的片假名注释，用于G2P评估",
+                    "zh-hant": "JVS非參數語料庫的片假名標註，用於G2P評估"
                 }
             }
         },
