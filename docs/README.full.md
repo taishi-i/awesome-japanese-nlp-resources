@@ -1928,6 +1928,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) - Bilingual (Japanese + English) judgment-eliciting Q&A corpus (851 examples) encoding documented research-program decisions, with per-example metadata (CC0, Hugging Face mirror available)
  * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM
  * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
+ * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - Katakana annotation of JVS nonpara corpus for G2P evaluation
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2119,6 +2120,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[doctrine-corpus](https://github.com/shimo4228/doctrine-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shimo4228/doctrine-corpus?style=social)|
 |[medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aistairc/medLLM_QA_benchmark?style=social)|
 |[kaomoji-data](https://github.com/kaomojikan/kaomoji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaomojikan/kaomoji-data?style=social)|
+|[jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/jvs_nonpara_kana?style=social)|
 
 
 ## Tutorial
