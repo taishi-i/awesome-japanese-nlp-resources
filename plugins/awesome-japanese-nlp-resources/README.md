@@ -47,7 +47,7 @@ This plugin ships five skills:
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
 | `/awesome-japanese-nlp-resources:similar-resources <repo>` | Given a repo/tool, find ones that do the same or related processing |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos NOT yet in the list — contribution helper |
+| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos and Hugging Face models/datasets NOT yet in the list — contribution helper |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | Survey the dataset + latest web research for a digestible trend report |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | Investigate current challenges, limitations, and proposed solutions for a topic |
 
@@ -78,12 +78,12 @@ Examples:
 
 ### `similar-resources` — find repositories like a given one
 
-Takes a **specific repository or tool** (GitHub URL, `owner/repo`, or a bare tool name) and finds others that do the **same or related processing**. It first mines the bundled dataset — scoring every entry by shared category, shared semantic labels (IDF-weighted so rare labels like *Sentiment Analysis* outweigh ubiquitous ones), and shared description terms — then uses WebSearch + WebFetch to surface **related repositories that are not yet in the list**, and re-ranks everything by functional closeness to the seed.
+Takes a **specific repository, model, or tool** (GitHub URL, Hugging Face URL, `owner/repo`, or a bare tool/model name) and finds others that do the **same or related processing**. It first mines the bundled dataset — scoring every entry by shared category, shared semantic labels (IDF-weighted so rare labels like *Sentiment Analysis* outweigh ubiquitous ones), and shared description terms — then uses WebSearch + WebFetch across **both GitHub and Hugging Face** to surface **related resources that are not yet in the list**, and re-ranks everything by functional closeness to the seed.
 
-Output is two tables — closest matches **already in** awesome-japanese-nlp-resources (from the dataset) and related repos found **on the web that aren't listed yet** — plus a short recommendation naming the single closest alternative. If the seed itself is not in the dataset, the skill characterizes it from the web and still returns the nearest cataloged tools.
+Output is two tables — closest matches **already in** awesome-japanese-nlp-resources (from the dataset) and related resources found **on the web that aren't listed yet** — plus a short recommendation naming the single closest alternative. If the seed itself is not in the dataset, the skill characterizes it from the web and still returns the nearest cataloged tools.
 
 ```shell
-/awesome-japanese-nlp-resources:similar-resources <github-url | owner/repo | tool-name>
+/awesome-japanese-nlp-resources:similar-resources <github-url | huggingface-url | owner/repo | tool-name>
 ```
 
 Examples:
@@ -94,15 +94,16 @@ Examples:
 /awesome-japanese-nlp-resources:similar-resources https://github.com/polm/cutlet
 /awesome-japanese-nlp-resources:similar-resources manga-ocr
 /awesome-japanese-nlp-resources:similar-resources oseti に似たツール
+/awesome-japanese-nlp-resources:similar-resources https://huggingface.co/cl-nagoya/ruri-large
 ```
 
 ---
 
 ### `find-new-resources` — propose additions to the list
 
-Discovers GitHub repositories related to a topic that are **not** yet in `awesome-japanese-nlp-resources`. Uses WebSearch to surface candidates and WebFetch to verify each repo (stars, last-updated date, archived/fork status, Japanese NLP coverage). Low-quality repos (fewer than 3 stars **and** inactive for over 2 years) are automatically filtered out.
+Discovers GitHub repositories **and Hugging Face models/datasets** related to a topic that are **not** yet in `awesome-japanese-nlp-resources`. Uses WebSearch across both platforms to surface candidates and WebFetch to verify each one (GitHub: stars, last-updated date, archived/fork status; Hugging Face: downloads, likes, last-updated date; both: Japanese NLP coverage). Low-quality candidates (GitHub: fewer than 3 stars **and** inactive for over 2 years; Hugging Face: fewer than 3 likes **and** inactive for over 2 years) are automatically filtered out.
 
-Output is contribution-ready markdown — bullet lines match the existing README style and can be pasted directly into a PR.
+Output is contribution-ready markdown — GitHub bullet lines match the existing `README.md` style, Hugging Face bullet lines match the existing `docs/huggingface.md` style, and both can be pasted directly into a PR.
 
 Calling with no argument runs a **general search for the latest Japanese NLP resources** from the past year or so.
 

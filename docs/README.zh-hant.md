@@ -28,7 +28,7 @@
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 搜尋內建的 1,200 多個資源資料集 |
 | `/awesome-japanese-nlp-resources:similar-resources <repo>` | 給定一個儲存庫/工具，尋找執行相同或相關處理的儲存庫 |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | 探索尚未列入清單的 GitHub 儲存庫 — 貢獻輔助工具 |
+| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | 探索尚未列入清單的 GitHub 儲存庫與 Hugging Face 模型/資料集 — 貢獻輔助工具 |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | 結合資料集與最新網路研究產生趨勢報告 |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | 調查特定主題的現有挑戰、限制與提案的解決方案 |
 

@@ -4,7 +4,7 @@ Your contributions are always welcome!
 
 ## Finding Resources to Add
 
-You can discover GitHub repositories not yet listed here using the `awesome-japanese-nlp-resources` Claude Code plugin:
+You can discover GitHub repositories and Hugging Face models/datasets not yet listed here using the `awesome-japanese-nlp-resources` Claude Code plugin:
 
 ```shell
 # Install the plugin (one-time setup)
@@ -26,7 +26,7 @@ For example:
 /awesome-japanese-nlp-resources:find-new-resources 日本語固有表現認識
 ```
 
-The skill searches GitHub for repositories matching the topic and filters out ones already listed, making it easy to find new resources to contribute. For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md).
+The skill searches both GitHub and Hugging Face for repositories/models/datasets matching the topic and filters out ones already listed, making it easy to find new resources to contribute. For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md).
 
 ## Guidelines
 

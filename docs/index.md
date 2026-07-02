@@ -28,7 +28,7 @@
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 同梱されている1,200以上のリソースデータセットを検索 |
 | `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると同じまたは関連する処理を行うものを発見 |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリを発見 — 貢献支援ツール |
+| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリ・Hugging Faceモデル/データセットを発見 — 貢献支援ツール |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | データセットと最新のウェブ調査からトレンドレポートを作成 |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | あるトピックに関する現在の課題、制限、提案されている解決策を調査 |
 
