@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [894件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [311 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [895件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [304 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -28,7 +28,7 @@
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 同梱されている1,200以上のリソースデータセットを検索 |
 | `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると同じまたは関連する処理を行うものを発見 |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリ・Hugging Faceモデル/データセットを発見 — 貢献支援ツール |
+| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリを発見 — 貢献支援ツール |
 | `/awesome-japanese-nlp-resources:research-trends <topic>` | データセットと最新のウェブ調査からトレンドレポートを作成 |
 | `/awesome-japanese-nlp-resources:research-issues <topic>` | あるトピックに関する現在の課題、制限、提案されている解決策を調査 |
 
@@ -56,20 +56,10 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - 日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）
- * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)
-
 **Corpus**
- * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - G2P評価のためのJVS非パラコーパスのカタカナ注釈
+ * [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) - JLPTレベル別に整理された日本語漢字と語彙のJSONデータセットを英語とロシア語の翻訳付きで提供。言語学習アプリ、自然言語処理、漢字学習ツールにすぐに利用可能。
 
-**Dictionary and IME**
- * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IME
-
-**JavaScript**
- * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
-
-_Updated on Jun 30, 2026_
+_Updated on Jul 07, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1942,6 +1932,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) - 医療LLMのための英語、日本語、中国語の3か国語QA基準
  * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
  * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - G2P評価のためのJVS非パラコーパスのカタカナ注釈
+ * [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) - JLPTレベル別に整理された日本語漢字と語彙のJSONデータセットを英語とロシア語の翻訳付きで提供。言語学習アプリ、自然言語処理、漢字学習ツールにすぐに利用可能。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2134,6 +2125,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aistairc/medLLM_QA_benchmark?style=social)|
 |[kaomoji-data](https://github.com/kaomojikan/kaomoji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaomojikan/kaomoji-data?style=social)|
 |[jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/jvs_nonpara_kana?style=social)|
+|[jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AnchorI/jlpt-kanji-dictionary?style=social)|
 
 
 ## Tutorial

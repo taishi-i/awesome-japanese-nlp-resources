@@ -10123,6 +10123,18 @@
                     "zh-hans": "JVS非参数语料库的片假名注释，用于G2P评估",
                     "zh-hant": "JVS非參數語料庫的片假名標註，用於G2P評估"
                 }
+            },
+            "https://github.com/AnchorI/jlpt-kanji-dictionary": {
+                "sub_category": null,
+                "repository_name": "jlpt-kanji-dictionary",
+                "user_name": "AnchorI",
+                "description": "Structured Japanese Kanji and Vocabulary JSON datasets organized by JLPT level with English and Russian translations — ready for use in language learning apps, NLP, and kanji study tools.",
+                "multilingual_descriptions": {
+                    "en": "Structured Japanese Kanji and Vocabulary JSON datasets organized by JLPT level with English and Russian translations — ready for use in language learning apps, NLP, and kanji study tools.",
+                    "ja": "JLPTレベル別に整理された日本語漢字と語彙のJSONデータセットを英語とロシア語の翻訳付きで提供。言語学習アプリ、自然言語処理、漢字学習ツールにすぐに利用可能。",
+                    "zh-hans": "结构化的日语汉字和词汇JSON数据集按JLPT级别组织，附有英文和俄文翻译 — 可用于语言学习应用程序、自然语言处理和汉字学习工具。",
+                    "zh-hant": "結構的日本漢字和詞彙JSON數據集，按JLPT級別組織，附有英文和俄文翻譯 — 適用於語言學習應用程序、自然語言處理和漢字學習工具。"
+                }
             }
         },
         "Tutorial": {
