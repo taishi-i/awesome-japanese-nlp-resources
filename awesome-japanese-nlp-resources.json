@@ -4129,6 +4129,18 @@
                     "zh-hans": "用于日本税收主要来源的OSS MCP服务器（法令・通達・税务答案・问答案例・文件答案案例・裁决案例）",
                     "zh-hant": "OSS MCP伺服器用於日本稅務主要來源（法令・通達・稅務答案・質疑回答案例・文件回答案例・裁決案例）"
                 }
+            },
+            "https://github.com/llm-jp/llm-jp-moshi": {
+                "sub_category": null,
+                "repository_name": "llm-jp-moshi",
+                "user_name": "llm-jp",
+                "description": "LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models",
+                "multilingual_descriptions": {
+                    "en": "LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models",
+                    "ja": "LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル",
+                    "zh-hans": "LLM-jp-Moshi：日语全双工口语对话模型",
+                    "zh-hant": "LLM-jp-Moshi：日本語全雙工口語對話模型"
+                }
             }
         },
         "C++": {

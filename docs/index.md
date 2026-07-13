@@ -8,8 +8,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [895件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [304 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [896件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [321 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -56,10 +56,10 @@
 
 ## 🎉 The latest additions
 
-**Corpus**
- * [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) - JLPTレベル別に整理された日本語漢字と語彙のJSONデータセットを英語とロシア語の翻訳付きで提供。言語学習アプリ、自然言語処理、漢字学習ツールにすぐに利用可能。
+**Python**
+ * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル
 
-_Updated on Jul 07, 2026_
+_Updated on Jul 14, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -694,6 +694,7 @@ _Updated on Jul 07, 2026_
  * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - 英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。
  * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - 日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）
+ * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -910,6 +911,7 @@ _Updated on Jul 07, 2026_
 |[simple-evals-mm](https://github.com/llm-jp/simple-evals-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/simple-evals-mm?style=social)|
 |[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
 |[open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zeimu-ai/open-zeimu-mcp?style=social)|
+|[llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-moshi?style=social)|
 
 
 ## C++
