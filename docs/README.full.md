@@ -695,6 +695,7 @@ General-purpose tools supporting Japanese language processing
  * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - A lightweight library for evaluating vision language models on English and Japanese benchmarks.
  * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: 日本語医療特化ASR (whisper-small + LoRA, 60話者) と国内初の医療ASRベンチマーク (フルFT版 FT60 も収録)
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - OSS MCP server for Japanese tax primary sources (法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例)
+ * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models
 
 
 |Name|downloads/week|total downloads|stars|
@@ -911,6 +912,7 @@ General-purpose tools supporting Japanese language processing
 |[simple-evals-mm](https://github.com/llm-jp/simple-evals-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/simple-evals-mm?style=social)|
 |[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
 |[open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zeimu-ai/open-zeimu-mcp?style=social)|
+|[llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-moshi?style=social)|
 
 
 ## C++
