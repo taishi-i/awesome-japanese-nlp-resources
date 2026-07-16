@@ -30,12 +30,12 @@
                 "sub_category": "Morphology analysis",
                 "repository_name": "mecab-python3",
                 "user_name": "SamuraiT",
-                "description": "mecab-python. mecab-python. you can find original version here:http://taku910.github.io/mecab/",
+                "description": "mecab-python. you can find original version here:http://taku910.github.io/mecab/",
                 "multilingual_descriptions": {
-                    "en": "mecab-python. mecab-python. you can find original version here:http://taku910.github.io/mecab/",
-                    "ja": "mecab-pythonです。mecab-pythonです。オリジナルバージョンはこちらから見つけることができます：http://taku910.github.io/mecab/。",
-                    "zh-hans": "mecab-python。mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。",
-                    "zh-hant": "mecab-python。mecab-python。您可以在此處找到原始版本：http://taku910.github.io/mecab/。"
+                    "en": "mecab-python. you can find original version here:http://taku910.github.io/mecab/",
+                    "ja": "mecab-pythonです。オリジナルバージョンはこちらから見つけることができます：http://taku910.github.io/mecab/。",
+                    "zh-hans": "mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。",
+                    "zh-hant": "mecab-python。您可以在此處找到原始版本：http://taku910.github.io/mecab/。"
                 }
             },
             "https://github.com/ikegami-yukino/mecab": {
@@ -174,7 +174,7 @@
                 "sub_category": "Morphology analysis",
                 "repository_name": "python-vibrato",
                 "user_name": "daac-tools",
-                "description": "Viterbi-based accelerated tokenizer (Python wrapper)g",
+                "description": "Viterbi-based accelerated tokenizer (Python wrapper)",
                 "multilingual_descriptions": {
                     "en": " Viterbi-based accelerated tokenizer (Python wrapper)",
                     "ja": "Viterbiベースの高速トークナイザー（Pythonラッパー）",
@@ -675,7 +675,7 @@
                 }
             },
             "https://github.com/megagonlabs/bunkai": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "bunkai",
                 "user_name": "megagonlabs",
                 "description": "Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)",
@@ -687,7 +687,7 @@
                 }
             },
             "https://github.com/hppRC/japanese-sentence-breaker": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "japanese-sentence-breaker",
                 "user_name": "hppRC",
                 "description": "Japanese Sentence Breaker",
@@ -699,7 +699,7 @@
                 }
             },
             "https://github.com/ikegami-yukino/sengiri": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "sengiri",
                 "user_name": "ikegami-yukino",
                 "description": "Yet another sentence-level tokenizer for the Japanese text",
@@ -711,7 +711,7 @@
                 }
             },
             "https://github.com/google/budoux": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "budoux",
                 "user_name": "google",
                 "description": "Standalone. Small. Language-neutral. BudouX is the successor to Budou, the machine learning powered line break organizer tool.",
@@ -723,7 +723,7 @@
                 }
             },
             "https://github.com/wwwcojp/ja_sentence_segmenter": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "ja_sentence_segmenter",
                 "user_name": "wwwcojp",
                 "description": "japanese sentence segmentation library for python",
@@ -735,7 +735,7 @@
                 }
             },
             "https://github.com/mkartawijaya/hasami": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "hasami",
                 "user_name": "mkartawijaya",
                 "description": "A tool to perform sentence segmentation on Japanese text",
@@ -747,7 +747,7 @@
                 }
             },
             "https://github.com/alinear-corp/kuzukiri": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "kuzukiri",
                 "user_name": "alinear-corp",
                 "description": "Japanese Text Segmenter for Python written in Rust",
@@ -759,7 +759,7 @@
                 }
             },
             "https://github.com/hkiyomaru/ja-senter-benchmark": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "ja-senter-benchmark",
                 "user_name": "hkiyomaru",
                 "description": "Comparison of Japanese Sentence Segmentation Tools",
@@ -771,7 +771,7 @@
                 }
             },
             "https://github.com/hotchpotch/fast-bunkai": {
-                "sub_category": "Sentence spliter",
+                "sub_category": "Sentence splitter",
                 "repository_name": "fast-bunkai",
                 "user_name": "hotchpotch",
                 "description": "Japanese sentence splitting(日本語文境界判定器), 40–250× faster via a Rust-accelerated Python library with near-perfect API compatibility with megagonlabs/bunkai.",
@@ -2736,18 +2736,6 @@
                     "ja": "日本語埋め込み評価",
                     "zh-hans": "日语嵌入评估",
                     "zh-hant": "日本嵌入評估"
-                }
-            },
-            "https://github.com/karakuri-ai/gptuber-by-langchain": {
-                "sub_category": null,
-                "repository_name": "gptuber-by-langchain",
-                "user_name": "karakuri-ai",
-                "description": "GPTがYouTuberをやります",
-                "multilingual_descriptions": {
-                    "en": "GPT will become a YouTuber.",
-                    "ja": "GPTがYouTuberをやります",
-                    "zh-hans": "GPT将成为YouTuber。",
-                    "zh-hant": "GPT會當YouTuber"
                 }
             },
             "https://github.com/google/shuwa": {

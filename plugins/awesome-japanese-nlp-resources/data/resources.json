@@ -81,7 +81,7 @@
   },
   {
     "c": "Corpus",
-    "d": "GIS & Archaeological Simulator. 2023 in development.",
+    "d": "GIS & Archaeological Simulator is currently in development and is expected to be released in 2023.",
     "n": "PAX_SAPIENTICA",
     "ns": 5.8,
     "s": "Information Extraction & Text Mining",
@@ -151,7 +151,7 @@
   },
   {
     "c": "Corpus",
-    "d": "This repository contains data for our paper \"AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts\".",
+    "d": "This repository contains data for our paper AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts.",
     "n": "AdParaphrase",
     "ns": 0.0,
     "s": "Paraphrasing, Text Generation",
@@ -301,7 +301,7 @@
   },
   {
     "c": "Python library",
-    "d": "富士通研究所による LLM 向け後学習量子化 (PTQ) パイプライン。QEP (NeurIPS 2025)、ILP 混合精度、回転前処理、vLLM プラグインを統合。論文: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。",
+    "d": "Post-training quantization (PTQ) pipeline for LLM developed by Fujitsu Laboratories. Integrated QEP (NeurIPS 2025), ILP mixed precision, pre-rotation processing, and vLLM plugin. Paper: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).",
     "n": "OneCompression",
     "ns": 0.0,
     "s": "",
@@ -781,7 +781,7 @@
   },
   {
     "c": "Rust crate",
-    "d": "Japanese glossator for assisted reading of text using Ichiran",
+    "d": " Japanese glossator for assisted reading of text using Ichiran",
     "n": "niinii",
     "ns": 2.75,
     "s": "Multilinguality, Vocabulary, Dictionary, and Language Input Method",
@@ -801,7 +801,7 @@
   },
   {
     "c": "Python library",
-    "d": "NLP libary for creating pipeline components",
+    "d": "Camphr - NLP libary for creating pipeline components",
     "n": "camphr",
     "ns": 6.69,
     "s": "Syntactic Text Processing, Vocabulary, Dictionary, and Language Input Method",
@@ -821,7 +821,7 @@
   },
   {
     "c": "Rust crate",
-    "d": "and Romaji",
+    "d": "Utility library for checking and converting between Japanese characters - Hiragana, Katakana - and Romaji",
     "n": "wana_kana_rust",
     "ns": 4.98,
     "s": "Vocabulary, Dictionary, and Language Input Method",
@@ -881,7 +881,7 @@
   },
   {
     "c": "Corpus",
-    "d": "STAIR captions: large-scale Japanese image caption dataset",
+    "d": "STAIR captions: A Japanese image caption dataset on a large scale.",
     "n": "STAIR-captions",
     "ns": 5.16,
     "s": "Visual Data in NLP, Captioning, Text Generation, Multimodality, Annotation and Dataset Development",
@@ -901,7 +901,7 @@
   },
   {
     "c": "Corpus",
-    "d": "ICLR 2026 Evaluating the performance of LLMs on Japanese challenging financial tasks.",
+    "d": "[ICLR 2026] Evaluating the performance of LLMs on Japanese challenging financial tasks.",
     "n": "EDINET-Bench",
     "ns": 0.0,
     "s": "Annotation and Dataset Development",
@@ -911,7 +911,7 @@
   },
   {
     "c": "Python library",
-    "d": "mecab-python. mecab-python. you can find original version here:http://taku910.github.io/mecab/",
+    "d": "mecab-python. you can find original version here:http://taku910.github.io/mecab/",
     "n": "mecab-python3",
     "ns": 7.24,
     "s": "Syntactic Text Processing",
@@ -1001,7 +1001,7 @@
   },
   {
     "c": "Corpus",
-    "d": "google-vs-deepl-je",
+    "d": "Google vs DeepL - Which one?",
     "n": "google-vs-deepl-je",
     "ns": 1.85,
     "s": "Multilinguality, Text Generation, Machine Translation",
@@ -1091,7 +1091,7 @@
   },
   {
     "c": "JavaScript",
-    "d": "Javascript library for detecting and transliterating Hiragana <--> Katakana <--> Romaji",
+    "d": "A Javascript library that can detect and transliterate between Hiragana, Katakana, and Romaji.",
     "n": "WanaKana",
     "ns": 7.68,
     "s": "Syntactic Text Processing, Text Normalization",
@@ -1201,7 +1201,7 @@
   },
   {
     "c": "Python library",
-    "d": "The purpose of this repository is to make prototypes as case study in the context of proof of concept(PoC) and research and development(R&D) that I have written in my website. The main research topics are Auto-Encoders in relation to the representation learning, the statistical machine learning for ",
+    "d": "The purpose of this repository is to make prototypes as case study in the context of proof of concept(PoC) and research and development(R&D) that I have written in my website. The main research topics are Auto-Encoders in relation to the representation learning, the statistical machine learning for energy-based models, adversarial generation net…",
     "n": "accel-brain-code",
     "ns": 6.6,
     "s": "Responsible & Trustworthy NLP, Representation Learning, Robustness in NLP",
@@ -1851,7 +1851,7 @@
   },
   {
     "c": "Pretrained model",
-    "d": "BERT models for Japanese text.",
+    "d": "BERT models for Japanese language text.",
     "n": "bert-japanese",
     "ns": 7.2,
     "s": "Representation Learning, Language Models, Semantic Text Processing",
@@ -1861,7 +1861,7 @@
   },
   {
     "c": "Pretrained model",
-    "d": "elmo-japanese",
+    "d": "Elmo (in Japanese)",
     "n": "elmo-japanese",
     "ns": 2.05,
     "s": "Multilinguality, Vocabulary, Dictionary, and Language Input Method",
@@ -2021,7 +2021,7 @@
   },
   {
     "c": "Python library",
-    "d": "Vaporetto is a fast and lightweight pointwise prediction based tokenizer. This is a Python wrapper for Vaporetto.",
+    "d": " Vaporetto is a fast and lightweight pointwise prediction based tokenizer. This is a Python wrapper for Vaporetto.",
     "n": "python-vaporetto",
     "ns": 3.49,
     "s": "Syntactic Text Processing, Text Segmentation, Tagging, Morphology",
@@ -2031,7 +2031,7 @@
   },
   {
     "c": "Python library",
-    "d": "Viterbi-based accelerated tokenizer (Python wrapper)",
+    "d": " Viterbi-based accelerated tokenizer (Python wrapper)",
     "n": "python-vibrato",
     "ns": 4.29,
     "s": "Syntactic Text Processing, Text Segmentation, Tagging, Morphology",
@@ -2381,7 +2381,7 @@
   },
   {
     "c": "Dictionary and IME",
-    "d": "Another Anthy",
+    "d": "Anthy Unicode - Another Anthy",
     "n": "anthy-unicode",
     "ns": 4.08,
     "s": "Vocabulary, Dictionary, and Language Input Method",
@@ -2551,7 +2551,7 @@
   },
   {
     "c": "C++",
-    "d": "a Japanese Input Method Editor designed for multi-platform",
+    "d": "Mozc - a Japanese Input Method Editor designed for multi-platform",
     "n": "mozc",
     "ns": 8.99,
     "s": "Syntactic Text Processing, Vocabulary, Dictionary, and Language Input Method",
@@ -2761,7 +2761,7 @@
   },
   {
     "c": "Python library",
-    "d": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese-ACL SRW 2023",
+    "d": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese - ACL SRW 2023",
     "n": "compare-ja-tokenizer",
     "ns": 2.05,
     "s": "Responsible & Trustworthy NLP, Syntactic Text Processing, Text Segmentation, Annotation and Dataset Development",
@@ -3011,7 +3011,7 @@
   },
   {
     "c": "Python library",
-    "d": "Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, and Zenkaku",
+    "d": "A Python-based tool for converting Japanese characters between Hiragana, Katakana, Hankaku, and Zenkaku.",
     "n": "jaconv",
     "ns": 6.64,
     "s": "Syntactic Text Processing, Text Normalization",
@@ -3381,7 +3381,7 @@
   },
   {
     "c": "Pretrained model",
-    "d": "最新の日本語Wikipediaのダンプデータから，MeCabを用いてIPA辞書と最新のNeologd辞書の両方で形態素解析を実施し，その結果に基づいた word2vec，fastText，GloVeの単語分散表現を学習するためのスクリプト",
+    "d": "A script for learning word embedding models such as word2vec, fastText, and GloVe based on the results of morphological analysis using both the IPA dictionary and the latest Neologd dictionary, using MeCab on the latest Japanese Wikipedia dump data.",
     "n": "jawiki_word_vector_updater",
     "ns": 2.85,
     "s": "Annotation and Dataset Development",
@@ -3430,7 +3430,7 @@
     "u": "https://github.com/kaomojikan/kaomoji-data"
   },
   {
-    "c": "Python library",
+    "c": "ChatGPT",
     "d": "GPT will become a YouTuber.",
     "n": "gptuber-by-langchain",
     "ns": 4.75,
@@ -3451,7 +3451,7 @@
   },
   {
     "c": "JavaScript",
-    "d": "Javascript libraries to process text: Arabic, Japanese, etc.",
+    "d": "Javascript libraries for text processing: Arabic, Japanese, and more.",
     "n": "jslingua",
     "ns": 4.46,
     "s": "Syntactic Text Processing, Text Normalization",
@@ -3601,7 +3601,7 @@
   },
   {
     "c": "Dictionary and IME",
-    "d": "Japanese/Chinese input method powered by ChatGPT API",
+    "d": "Japanese input method powered by ChatGPT API",
     "n": "Sumibi",
     "ns": 0.0,
     "s": "Vocabulary, Dictionary, and Language Input Method",
@@ -3651,7 +3651,7 @@
   },
   {
     "c": "Python library",
-    "d": "Get Japanese dialogue corpus",
+    "d": "Obtain a corpus of Japanese dialogue.",
     "n": "make-meidai-dialogue",
     "ns": 4.26,
     "s": "Natural Language Interfaces, Dialogue Systems & Conversational Agents",
@@ -4041,7 +4041,7 @@
   },
   {
     "c": "Corpus",
-    "d": "2023年8月にメルボルン大学から公開された安全性評価データセット『Do-Not-Answer』を日本語LLMの評価においても使用できるように日本語に自動翻訳し、さらに日本文化も考慮して修正したデータセット。",
+    "d": "A safety evaluation dataset \"Do-Not-Answer\" released by the University of Melbourne in August 2023 has been automatically translated into Japanese for use in the evaluation of Japanese LLM, and further modified to take into account Japanese culture.",
     "n": "do-not-answer-ja",
     "ns": 3.6,
     "s": "Annotation and Dataset Development",
@@ -4211,7 +4211,7 @@
   },
   {
     "c": "Rust crate",
-    "d": "Comparison code of various tokenizers",
+    "d": " Comparison code of various tokenizers",
     "n": "tokenizer-speed-bench",
     "ns": 1.59,
     "s": "Responsible & Trustworthy NLP, Syntactic Text Processing, Text Segmentation, Low-Resource NLP",
@@ -4631,7 +4631,7 @@
   },
   {
     "c": "Corpus",
-    "d": "Dataset introduced in the paper \"Towards Fully Automated Manga Translation\" presented in AAAI21",
+    "d": "Dataset introduced in the paper Towards Fully Automated Manga Translation presented in AAAI21",
     "n": "open-mantra-dataset",
     "ns": 6.02,
     "s": "Multilinguality, Text Generation, Machine Translation",
@@ -4691,7 +4691,7 @@
   },
   {
     "c": "JavaScript",
-    "d": "Normalize Japanese Furigana",
+    "d": "Standardize Japanese Furigana",
     "n": "japanese-furigana-normalize",
     "ns": 0.0,
     "s": "",
@@ -4951,7 +4951,7 @@
   },
   {
     "c": "Python library",
-    "d": "Example codes for Japanese Realistic Textual Entailment Corpus",
+    "d": "Example codes for the Japanese Realistic Textual Entailment Corpus.",
     "n": "jrte-corpus_example",
     "ns": 1.59,
     "s": "Reasoning, Textual Inference, Semantic Text Processing, Annotation and Dataset Development",
@@ -5251,7 +5251,7 @@
   },
   {
     "c": "Corpus",
-    "d": "JADES is a dataset for text simplification in Japanese, described in \"JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers\" (the paper will be available soon).",
+    "d": "JADES is a dataset for text simplification in Japanese, described in 'JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers' (the paper will be available soon).",
     "n": "jades",
     "ns": 0.0,
     "s": "Paraphrasing, Text Generation, Annotation and Dataset Development",
@@ -5301,7 +5301,7 @@
   },
   {
     "c": "Rust crate",
-    "d": "SKK (Simple Kana Kanji henkan) library",
+    "d": "SKK (Simple Kana Kanji conversion) library",
     "n": "cskk",
     "ns": 5.0,
     "s": "Syntactic Text Processing, Language Models, Vocabulary, Dictionary, and Language Input Method",
@@ -5641,7 +5641,7 @@
   },
   {
     "c": "Corpus",
-    "d": "Dataset of paper \"Verification of Chain-of-Thought Prompting in Japanese\"",
+    "d": "Dataset of paper Verification of Chain-of-Thought Prompting in Japanese",
     "n": "chain-of-thought-ja-dataset",
     "ns": 2.05,
     "s": "Responsible & Trustworthy NLP, Language Models, Low-Resource NLP",
@@ -5651,7 +5651,7 @@
   },
   {
     "c": "Corpus",
-    "d": "COMET-ATOMIC ja",
+    "d": "COMET-ATOMIC yes",
     "n": "comet-atomic-ja",
     "ns": 3.9,
     "s": "Annotation and Dataset Development",
@@ -5681,7 +5681,7 @@
   },
   {
     "c": "Python library",
-    "d": "About",
+    "d": "About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
     "n": "jglue-evaluation-scripts",
     "ns": 0.0,
     "s": "Annotation and Dataset Development",
@@ -5841,7 +5841,7 @@
   },
   {
     "c": "Corpus",
-    "d": "Wikipedia Bilingual Reference Data (Japanese)",
+    "d": "Wikipedia Bilingual Reference Data (English)",
     "n": "wikidict-ja",
     "ns": 0.0,
     "s": "Annotation and Dataset Development",
@@ -5851,7 +5851,7 @@
   },
   {
     "c": "Python library",
-    "d": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's",
+    "d": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's corporate number (法人番号) system.",
     "n": "jntajis-python",
     "ns": 3.54,
     "s": "Text Normalization",
@@ -5871,7 +5871,7 @@
   },
   {
     "c": "Python library",
-    "d": "JapaneseEmbeddingEval",
+    "d": "Japanese Embedding Evaluation",
     "n": "JapaneseEmbeddingEval",
     "ns": 5.93,
     "s": "Representation Learning, Syntactic Text Processing, Semantic Text Processing",
@@ -6191,7 +6191,7 @@
   },
   {
     "c": "JavaScript",
-    "d": "morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript.",
+    "d": " Rakuten MA - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript.",
     "n": "rakutenma",
     "ns": 7.06,
     "s": "Syntactic Text Processing, Text Segmentation, Tagging, Morphology",
@@ -6221,7 +6221,7 @@
   },
   {
     "c": "Corpus",
-    "d": "否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。",
+    "d": "This is a public repository for the Japanese Semantic Textual Similarity calculation dataset JSTS-Neg, which is used to evaluate negative comprehension ability. JSTS-Neg was created by extending the language inference dataset JSTS included in JGLUE.",
     "n": "JSTS-Neg",
     "ns": 0.0,
     "s": "Annotation and Dataset Development",
@@ -6281,7 +6281,7 @@
   },
   {
     "c": "Corpus",
-    "d": "Dataset for the LREC-COLING 2024 paper \"A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions\"",
+    "d": "Dataset for the LREC-COLING 2024 paper A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions",
     "n": "GazeVQA",
     "ns": 0.0,
     "s": "Natural Language Interfaces, Visual Data in NLP, Question Answering, Multimodality, Annotation and Dataset Development",
@@ -6501,7 +6501,7 @@
   },
   {
     "c": "Python library",
-    "d": "Finetuning Whisper ASR model",
+    "d": "Fine-tuning the Whisper ASR model.",
     "n": "whisper-asr-finetune",
     "ns": 4.01,
     "s": "Speech Recognition, Text Generation, Language Models, Speech & Audio in NLP, Semantic Text Processing, Multimodality",
@@ -6511,7 +6511,7 @@
   },
   {
     "c": "Python library",
-    "d": "xvector model on jtubespeech",
+    "d": "Model xvector on jtubespeech.",
     "n": "xvector_jtubespeech",
     "ns": 4.36,
     "s": "Vocabulary, Dictionary, and Language Input Method",
@@ -6521,7 +6521,7 @@
   },
   {
     "c": "Go",
-    "d": "Kanji transliteration to hiragana/katakana/romaji, in Go",
+    "d": "Kanji 転写 to hiragana/katakana/romaji, in Go",
     "n": "go-kakasi",
     "ns": 2.05,
     "s": "Syntactic Text Processing, Text Normalization",
@@ -6681,7 +6681,7 @@
   },
   {
     "c": "Python library",
-    "d": "python kaomoji",
+    "d": "Python kaomoji",
     "n": "py-kaomoji",
     "ns": 0.0,
     "s": "",
@@ -7151,7 +7151,7 @@
   },
   {
     "c": "Pretrained model",
-    "d": "- Language Understanding with Knowledge-based Embeddings",
+    "d": "LUKE -- Language Understanding with Knowledge-based Embeddings",
     "n": "luke",
     "ns": 7.55,
     "s": "Representation Learning, Knowledge Representation, Semantic Text Processing",
@@ -7161,7 +7161,7 @@
   },
   {
     "c": "Python library",
-    "d": "A fast converter between Japanese hankaku and zenkaku characters",
+    "d": "A quick converter for Japanese half-width and full-width characters.",
     "n": "mojimoji",
     "ns": 5.72,
     "s": "Syntactic Text Processing, Text Normalization",
@@ -7181,7 +7181,7 @@
   },
   {
     "c": "Java",
-    "d": "Japanese analyzer uses kuromoji japanese tokenizer for ElasticSearch",
+    "d": "The Japanese analyzer utilizes the Kuromoji Japanese tokenizer for ElasticSearch.",
     "n": "elasticsearch-analysis-japanese",
     "ns": 3.9,
     "s": "Information Extraction & Text Mining, Syntactic Text Processing, Text Segmentation, Information Retrieval, Tagging, Indexing, Morphology",
@@ -7231,7 +7231,7 @@
   },
   {
     "c": "Corpus",
-    "d": "List of japanese kanji radicals to learn",
+    "d": "List of Japanese Kanji Radicals to Learn",
     "n": "kanji",
     "ns": 0.0,
     "s": "Annotation and Dataset Development",
@@ -7271,7 +7271,7 @@
   },
   {
     "c": "Python library",
-    "d": "Japanese text parser to separate Hiragana/Katakana string into morae (syllables).",
+    "d": "Japanese text parser that separates Hiragana/Katakana strings into morae (syllables).",
     "n": "jamorasep",
     "ns": 2.64,
     "s": "Syntactic Text Processing, Syntactic Parsing",
@@ -7301,7 +7301,7 @@
   },
   {
     "c": "Python library",
-    "d": "A BERT model for nagisa",
+    "d": "A BERT model for Nagisa.",
     "n": "nagisa_bert",
     "ns": 1.85,
     "s": "Representation Learning, Language Models, Semantic Text Processing",
@@ -7641,7 +7641,7 @@
   },
   {
     "c": "Corpus",
-    "d": "建設の技術基準に関する質問の専門性粒度（細かい/粗い）を96%正確に自動判定し、最適なRAGシステム（ColBERT/Naive）を選択する実用的なAgentic RAGシステムのMVPです。2025年11月に公開された河川砂防ダムの技術基準を対象に４つのRAGシステムを構築し、専門性の粒度が異なる200問の質問に対して、精度と速度を比較した。",
+    "d": "This is a practical Agentic RAG system MVP that accurately automatically determines the expertise granularity (fine/coarse) of questions related to construction technology standards at 96% and selects the optimal RAG system (ColBERT/Naive). Four RAG systems were built targeting the technical standards of river sand control dams published in November 2025, and accuracy and speed were compared for 200 questions with different granularity of expertise.",
     "n": "selective-rag-kasensabo",
     "ns": 0.0,
     "s": "Annotation and Dataset Development",
@@ -7751,7 +7751,7 @@
   },
   {
     "c": "Rust crate",
-    "d": "MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。",
+    "d": "This is a Rust crate for reading, analyzing, and reconstructing precompiled dictionaries for MeCab, ultimately converting them into dictionaries that can be used with Mecab-compatible tokenizers like Vibrato and Lindera.",
     "n": "mecab-dic-converter",
     "ns": 0.0,
     "s": "",
@@ -7891,7 +7891,7 @@
   },
   {
     "c": "Python library",
-    "d": "get japanese manga from url to translate manga image",
+    "d": "Manga translator - retrieve Japanese manga from URL to translate manga images.",
     "n": "JMTrans",
     "ns": 5.09,
     "s": "Multilinguality, Visual Data in NLP, Text Generation, Machine Translation, Multimodality",
@@ -8331,7 +8331,7 @@
   },
   {
     "c": "Python library",
-    "d": "kanjivg-radical",
+    "d": "KanjiVG Radical",
     "n": "kanjivg-radical",
     "ns": 0.0,
     "s": "",
@@ -8451,7 +8451,7 @@
   },
   {
     "c": "Python library",
-    "d": "jp-localization",
+    "d": "Japanese localization",
     "n": "Retrieval-based-Voice-Conversion-WebUI-JP-localization",
     "ns": 4.49,
     "s": "Syntactic Text Processing",
@@ -8791,7 +8791,7 @@
   },
   {
     "c": "Python library",
-    "d": "軽量で規制も検閲もない日本語ローカル LLM『LightChatAssistant-TypeB』による、簡単なノベル生成アシスタントです。ローカル特権の永続生成 Generate forever で、当たりガチャを積み上げます。読み上げにも対応。",
+    "d": "This is a simple novel generation assistant using the lightweight and unregulated Japanese local LLM \"LightChatAssistant-TypeB\". It generates forever with local privileges, stacking up hit gachas. It also supports reading aloud.",
     "n": "easynovelassistant",
     "ns": 2.94,
     "s": "Vocabulary, Dictionary, and Language Input Method",
@@ -8808,6 +8808,26 @@
     "sc": 0.0,
     "st": 0,
     "u": "https://github.com/zuofanf/mini-transformer-from-scratch"
+  },
+  {
+    "c": "Python library",
+    "d": "LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models",
+    "n": "llm-jp-moshi",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/llm-jp/llm-jp-moshi"
+  },
+  {
+    "c": "Corpus",
+    "d": "Structured Japanese Kanji and Vocabulary JSON datasets organized by JLPT level with English and Russian translations — ready for use in language learning apps, NLP, and kanji study tools.",
+    "n": "jlpt-kanji-dictionary",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/AnchorI/jlpt-kanji-dictionary"
   },
   {
     "c": "HuggingFace Model (Others)",

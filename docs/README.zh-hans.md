@@ -2,13 +2,12 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/taishi-i/awesome-japanese-nlp-resources)
 [![RRs](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/taishi-i/awesome-japanese-nlp-resources/pulls)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-japanese-nlp-resources-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了896个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了883个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 - [列出了321个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md) を掲載中
 
     ## Claude Code 插件
@@ -70,7 +69,7 @@ _Updated on Jul 14, 2026_
    * [Parsing](#parsing)
    * [Converter](#converter)
    * [Preprocessor](#preprocessor)
-   * [Sentence spliter](#sentence-spliter)
+   * [Sentence splitter](#sentence-splitter)
    * [Sentiment analysis](#sentiment-analysis)
    * [Machine translation](#machine-translation)
    * [Named entity recognition](#named-entity-recognition)
@@ -86,7 +85,7 @@ _Updated on Jul 14, 2026_
    * [Converter](#converter-1)
    * [Search engine library](#search-engine-library)
    * [Others](#others-2)
- * [JavaScript](#javaScript)
+ * [JavaScript](#javascript)
    * [Morphology analysis](#morphology-analysis-3)
    * [Converter](#converter-2)
    * [Others](#others-3)
@@ -97,16 +96,15 @@ _Updated on Jul 14, 2026_
    * [Morphology analysis](#morphology-analysis-5)
    * [Others](#others-5)
  * [Pretrained model](#pretrained-model)
-   * [Word2Vec](#word2Vec)
+   * [Word2Vec](#word2vec)
    * [Transformer based models](#transformer-based-models)
  * [ChatGPT](#chatgpt)
  * [Dictionary and IME](#dictionary-and-ime)
  * [Corpus](#corpus)
    * [Part-of-speech tagging / Named entity recognition](#part-of-speech-tagging--named-entity-recognition)
-   * [Text classification](#text-classification)
    * [Parallel corpus](#parallel-corpus)
    * [Dialog corpus](#dialog-corpus)
-   * [Others](#others-3)
+   * [Others](#others-6)
  * [Tutorial](#tutorial)
  * [Research summary](#research-summary)
  * [Reference](#reference)
@@ -120,7 +118,7 @@ _Updated on Jul 14, 2026_
 
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6及以上版本已经开发为Sudachi.rs。
  * [Janome](https://github.com/mocobeta/janome) - 用纯Python编写的日语形态分析引擎
- * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - mecab-python。mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。
+ * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - mecab-python。您可以在此处找到原始版本：http://taku910.github.io/mecab/。
  * [mecab](https://github.com/ikegami-yukino/mecab) - 这个仓库用于构建Windows 64位MeCab二进制文件并改进MeCab Python绑定。
  * [fugashi](https://github.com/polm/fugashi) - 一个Cython MeCab包装器，用于快速、Pythonic的日语分词和形态分析。
  * [nagisa](https://github.com/taishi-i/nagisa) - 基于循环神经网络的日语分词器
@@ -182,7 +180,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [cabocha](https://github.com/ikegami-yukino/cabocha/tree/master/python) | 📥 50 | 📦 55k | ⭐ 7 | 🔴 august 2022|
 | 🔗 [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) | 📥 76 | 📦 336k | ⭐ 38 | 🟡 december 2025|
 | 🔗 [camphr](https://github.com/PKSHATechnology-Research/camphr) | 📥 217 | 📦 275k | ⭐ 336 | 🔴 august 2021|
-| 🔗 [SuPar-UniDic](https://github.com/KoichiYasuoka/SuParUniDic) | 📥 38 | 📦 122k | ⭐ 21 | 🔴 repo not found|
+| 🔗 [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) | 📥 38 | 📦 122k | ⭐ 21 | 🔴 repo not found|
 | 🔗 [depccg](https://github.com/masashi-y/depccg) | 📥 100 | 📦 48k | ⭐ 100 | 🔴 august 2023|
 | 🔗 [bertknp](https://github.com/ku-nlp/bertknp) | - | - | ⭐ 23 | 🔴 october 2021|
 | 🔗 [esupar](https://github.com/KoichiYasuoka/esupar) | 📥 593 | 📦 180k | ⭐ 55 | 🟡 february|
@@ -263,7 +261,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 115 | 📦 33k | ⭐ 6 | 🔴 june 2025|
 
 
-### Sentence spliter
+### Sentence splitter
 自动检测句子边界并分割文本的库
 
  * [Bunkai](https://github.com/megagonlabs/bunkai) - 日语文本句子边界消歧工具
@@ -394,7 +392,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [owocr](https://github.com/aurorawright/owocr) | - | - | ⭐ 269 | 🟡 march|
 | 🔗 [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) | 📥 2k | 📦 111k | ⭐ 1.5k | 🟢 last monday|
 | 🔗 [findtextcenternet](https://github.com/lithium0003/findtextcenternet) | - | - | ⭐ 64 | 🟡 august 2025|
-| 🔗 [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-fogi-manga) | - | - | ⭐ 7 | 🔴 repo not found|
+| 🔗 [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) | - | - | ⭐ 7 | 🔴 repo not found|
 | 🔗 [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) | - | - | ⭐ 1 | 🔴 march 2024|
 | 🔗 [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) | - | - | ⭐ 15 | 🟡 december 2025|
 | 🔗 [MangaOCR](https://github.com/gnurt2041/MangaOCR) | - | - | ⭐ 37 | 🔴 may 2024|
@@ -426,7 +424,6 @@ _Updated on Jul 14, 2026_
  * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 不同的分词器在连续书写语言的下游任务中表现如何？：以日语为例的案例研究 - ACL SRW 2023
  * [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) - 一个用于自回归语言模型少样本评估的框架。
  * [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) - llm-lora-classificationllm-lora-分类
- * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP语言模型评估工具
  * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 该存储库包含已修改的脚本和合并脚本，用于适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的"gpt-neox"模型的"rinna/japanese-gpt-neox..."。该存储库包含已修改的脚本和合并脚本，用于适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的"gpt-neox"模型的"rinna/japanese-gpt-neox..."。
  * [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) - 这个存储库是为了评估日本语LLM角色扮演的性能而创建的。
  * [japanese-llm-ranking](https://github.com/yuzu-ai/japanese-llm-ranking) - 该存储库支持YuzuAI的Rakuda排行榜，该排行榜是日本LLMs的日本重点模拟版本，类似于LMSYS的Vicuna评估。
@@ -464,7 +461,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) | - | - | ⭐ 6 | 🔴 june 2023|
 | 🔗 [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) | - | - | ⭐ 1 | 🔴 june 2023|
 | 🔗 [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) | - | - | ⭐ 98 | 🔴 july 2023|
-| 🔗 [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) | - | - | ⭐ 153 | 🔴 november 2023|
 | 🔗 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) | - | - | ⭐ 19 | 🔴 may 2023|
 | 🔗 [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) | - | - | ⭐ 41 | 🔴 november 2023|
 | 🔗 [japanese-llm-ranking](https://github.com/yuzu-ai/japanese-llm-ranking) | - | - | ⭐ 50 | 🔴 march 2024|
@@ -550,7 +546,6 @@ _Updated on Jul 14, 2026_
  * [furigana4epub](https://github.com/Mumumu4/furigana4epub) - 一个使用Mecab和Unidic为日语epub书籍添加振仮名的Python脚本。
  * [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) - 日语动词/形容词变形工具
  * [jageocoder](https://github.com/t-sagara/jageocoder) - 纯Python日本地址地理编码器
- * [pygeonlp](https://github.com/geonlp-platform/pygeonlp) - pygeonlp，一个用于对日语文本进行地理标记的Python模块。
  * [nksnd](https://github.com/yoriyuki/nksnd) - 新的假名汉字转换引擎
  * [JaMIE](https://github.com/racerandom/JaMIE) - 一个日本医疗信息提取工具包
  * [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) - 这是有关fasttext和word2vec的比较，以及执行脚本和学习脚本。
@@ -576,7 +571,6 @@ _Updated on Jul 14, 2026_
  * [chikkarpy](https://github.com/WorksApplications/chikkarpy) - 日语同义词库
  * [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - Mecab + NEologd + Docker + Python3 的输出
  * [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 日语嵌入评估
- * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPT将成为YouTuber。
  * [shuwa](https://github.com/google/shuwa) - 扩展GNOME屏幕键盘以支持输入法
  * [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) - 这个代码库提供了日语NLI模型的代码，这是一个经过微调的掩码语言模型。
  * [tra-fugu](https://github.com/tos-kamiya/tra-fugu) - 使用FuguMT进行日英翻译和英日翻译的工具
@@ -640,7 +634,6 @@ _Updated on Jul 14, 2026_
  * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 用于执行自动生成评估的Python工具
  * [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) - 在Colaboratory上尝试Asagi（使用合成数据集的大规模日语VLM）的示例。
  * [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) - 这个工具会自动评估日本多模态大型语言模型在多个数据集上的表现。
- * [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) - 用于执行自动生成评估的Python工具
  * [manga109api](https://github.com/manga109/manga109api) - 简单的Python API，用于读取Manga109的注释数据
  * [fastrtc-jp](https://github.com/route250/fastrtc-jp) - 为fastrtc添加日语TTS和STT套件
  * [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) - 使用Python编写的Whisper模型进行语音转文字工具
@@ -679,7 +672,6 @@ _Updated on Jul 14, 2026_
  * [diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit) - 用大型语言模型（LLMs）合成填充物丰富、短话语的日语对话脚本的工具包。该项目旨在通过两个阶段生成数据：种子生成（元数据创建）和对话生成（脚本创建）。
  * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - 评估多模态大型语言模型在竖排日文文本上的表现
  * [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) - 这段代码是用于从大规模语言模型（LLM）的训练语料库中过滤特别需要注意的个人信息，即“需要注意的个人信息”。
- * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - 评估多模态大型语言模型在竖排日文文本上的表现
  * [Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus) - 从小说文本中构建闲聊对话语料库的方法
  * [OneCompression](https://github.com/FujitsuResearch/OneCompression) - 富士通研究所推出的LLM后学习量子化（PTQ）管道。集成了QEP（NeurIPS 2025）、ILP混合精度、旋转前处理、vLLM插件。论文：[arXiv:2603.28845](https://arxiv.org/abs/2603.28845)。
  * [manga-translator](https://github.com/georgescutelnicu/manga-translator) - 将漫画图片中的对话框内的文本翻译成简体中文。
@@ -707,7 +699,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [JapaneseTokenizers](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers) | - | - | ⭐ 138 | 🔴 march 2019|
 | 🔗 [daaja](https://github.com/kajyuuen/daaja) | 📥 109 | 📦 26k | ⭐ 64 | 🔴 february 2023|
 | 🔗 [accel-brain-code](https://github.com/accel-brain/accel-brain-code) | 📥 208 | 📦 154k | ⭐ 326 | 🔴 december 2023|
-| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 345 | 🔴 march 2025|
 | 🔗 [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) | 📥 306 | 📦 57k | ⭐ 10 | 🔴 june 2024|
 | 🔗 [nlplot](https://github.com/takapy0210/nlplot) | 📥 190 | 📦 116k | ⭐ 238 | 🔴 september 2022|
 | 🔗 [rake-ja](https://github.com/kanjirz50/rake-ja) | - | - | ⭐ 21 | 🔴 october 2018|
@@ -767,7 +758,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 45 | 📦 13k | ⭐ 32 | 🔴 september 2021|
 | 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 37 | 📦 23k | ⭐ 13 | 🔴 march 2025|
 | 🔗 [jageocoder](https://github.com/t-sagara/jageocoder) | 📥 4k | 📦 416k | ⭐ 101 | 🟡 march|
-| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 196 | 📦 26k | ⭐ 22 | 🟡 march|
 | 🔗 [nksnd](https://github.com/yoriyuki/nksnd) | - | - | ⭐ 26 | 🔴 may 2018|
 | 🔗 [JaMIE](https://github.com/racerandom/JaMIE) | - | - | ⭐ 9 | 🟡 march|
 | 🔗 [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) | - | - | ⭐ 48 | 🔴 august 2017|
@@ -793,7 +783,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [chikkarpy](https://github.com/WorksApplications/chikkarpy) | 📥 216 | 📦 64k | ⭐ 55 | 🔴 february 2022|
 | 🔗 [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) | - | - | ⭐ 36 | 🔴 may 2022|
 | 🔗 [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) | - | - | ⭐ 183 | 🔴 october 2024|
-| 🔗 [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) | - | - | ⭐ 63 | 🔴 january 2023|
 | 🔗 [shuwa](https://github.com/google/shuwa) | - | - | ⭐ 146 | 🔴 december 2022|
 | 🔗 [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) | - | - | ⭐ 6 | 🔴 october 2022|
 | 🔗 [tra-fugu](https://github.com/tos-kamiya/tra-fugu) | - | - | ⭐ 5 | 🔴 march 2023|
@@ -857,7 +846,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 43 | 🟡 december 2025|
 | 🔗 [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) | - | - | ⭐ 1 | 🔴 march 2025|
 | 🔗 [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) | - | - | ⭐ 42 | 🟢 april|
-| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 43 | 🟡 december 2025|
 | 🔗 [manga109api](https://github.com/manga109/manga109api) | 📥 69 | 📦 48k | ⭐ 130 | 🔴 march 2022|
 | 🔗 [fastrtc-jp](https://github.com/route250/fastrtc-jp) | - | - | ⭐ 6 | 🔴 may 2025|
 | 🔗 [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) | - | - | ⭐ 19 | 🟡 january|
@@ -896,7 +884,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit) | - | - | ⭐ 0 | 🟡 january|
 | 🔗 [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) | - | - | ⭐ 3 | 🟢 may|
 | 🔗 [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) | - | - | ⭐ 7 | 🔴 march 2025|
-| 🔗 [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) | - | - | ⭐ 3 | 🟢 may|
 | 🔗 [Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus) | - | - | ⭐ 0 | 🟡 february|
 | 🔗 [OneCompression](https://github.com/FujitsuResearch/OneCompression) | - | - | ⭐ 396 | 🟢 last monday|
 | 🔗 [manga-translator](https://github.com/georgescutelnicu/manga-translator) | - | - | ⭐ 27 | 🟢 april|
@@ -1111,7 +1098,7 @@ _Updated on Jul 14, 2026_
 -|-|-|-|-
 | 🔗 [kuromoji.js](https://github.com/takuyaa/kuromoji.js) | 📥 283k/week | 📦 10M | ⭐ 992 | 🔴 november 2018|
 | 🔗 [rakutenma](https://github.com/rakuten-nlp/rakutenma) | 📥 19/week | 📦 1k | ⭐ 472 | 🔴 january 2015|
-| 🔗 [node-mecab-ya](https://github.com/golbin/mecab-ya) | 📥 54/week | 📦 7.7k | ⭐ 110 | 🔴 repo not found|
+| 🔗 [node-mecab-ya](https://github.com/golbin/node-mecab-ya) | 📥 54/week | 📦 7.7k | ⭐ 110 | 🔴 repo not found|
 | 🔗 [juman-bin](https://github.com/thammin/juman-bin) | 📥 33/week | 📦 457 | ⭐ 3 | 🔴 may 2017|
 | 🔗 [node-mecab-async](https://github.com/hecomi/node-mecab-async) | 📥 2.8k/week | 📦 331k | ⭐ 104 | 🔴 october 2017|
 
@@ -1533,7 +1520,6 @@ _Updated on Jul 14, 2026_
  * [sekka](https://github.com/kiyoka/sekka) - 受SKK启发的又一个日本输入法。
  * [sumibi](https://github.com/kiyoka/sumibi) - 由ChatGPT API提供支持的日语输入法
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 从词典数据中提取出人名，以读音假名（片假名）作为键，将候选的写字形式整理成列表，并以JSON格式保存。
- * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 紫罗兰 完全离线的日语键盘应用程序
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日语阿拉伯语词典（日本語・アラビア語辞書）约米坦
  * [o-dic](https://github.com/makotoga/o-dic) - 冲绳字典
  * [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK表情符号词典
@@ -1624,7 +1610,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [sekka](https://github.com/kiyoka/sekka) | - | - | ⭐ 24 | 🟢 may|
 | 🔗 [sumibi](https://github.com/kiyoka/sumibi) | - | - | ⭐ 58 | 🟢 last sunday|
 | 🔗 [jinmei-dict](https://github.com/s1r-j/jinmei-dict) | - | - | ⭐ 9 | 🔴 april 2020|
-| 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 311 | 🟢 last thursday|
 | 🔗 [japanesearabic](https://github.com/a-hamdi/japanesearabic) | - | - | ⭐ 20 | 🔴 may 2025|
 | 🔗 [o-dic](https://github.com/makotoga/o-dic) | - | - | ⭐ 6 | 🟡 february|
 | 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 141 | 🔴 january 2025|
@@ -1818,7 +1803,6 @@ _Updated on Jul 14, 2026_
  * [copa-japanese](https://github.com/nlp-titech/copa-japanese) - COPA数据集（日语）
  * [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) - “语义原则词汇表（WLSP）”中的单词熟悉度率
  * [ProSub](https://github.com/matbahasa/ProSub) - 代词替代和称谓词的跨语言研究
- * [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) - JCommonsenseMorality是通过众包创建的数据集，反映了日本标注者的常识道德。
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - 从某种数据库（https://supleks.jp/）进行的网络爬虫工具和收集的数据。
  * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - 针对huggingface数据集的CAMERA（CyberAgent多模态广告文本生成评估）
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - 事实核查句子NLI数据集
@@ -1914,9 +1898,7 @@ _Updated on Jul 14, 2026_
  * [annotation-2025](https://github.com/Tiny-Colony/annotation-2025) - 这个存储库是为了公开可以比较人工和LLM输出的文本“解释”的数据。
  * [jhpt](https://github.com/nict-astrec-att/jhpt) - 这是一个将历史日语资料的原文文本和现代语言翻译（参考翻译）文本按段落对应的对照数据集。详细信息请参阅论文。
  * [JBE-QA](https://github.com/hancules/JBE-QA) - 日本司法考试问答
- * [j-spaw](https://github.com/takamichi-lab/j-spaw) - J-SpAW：用于说话人验证和防欺骗的日语语音语料库
  * [JMedWiC](https://github.com/EhimeNLP/JMedWiC) - 通过使用掩码语言模型自动提取伪同义和非同义对，并通过人工同义性标注确定标签，我们构建了日本医疗领域的词义一致性判定数据集。
- * [jhpt](https://github.com/nict-astrec-att/jhpt) - 这是一个将历史日语资料的原文文本和现代语言翻译（参考翻译）文本按段落对应的对照数据集。详细信息请参阅论文。
  * [Doppelganger-JC](https://github.com/0017-alt/Doppelganger-JC) - 这是一个数据集，用于在LLMs中对比中日两种语言之间跨语言同形异义词的误用情况。
  * [modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang) - 为了软件图理解的VLM评估基准（支持日语、英语、韩语）
  * [japanese-hr-niah](https://github.com/kufu/japanese-hr-niah) - 在日本人事劳务领域中，LLM的性能评估基准
@@ -2012,7 +1994,6 @@ _Updated on Jul 14, 2026_
 | 🔗 [copa-japanese](https://github.com/nlp-titech/copa-japanese) | - | - | ⭐ 1 | 🔴 february 2023|
 | 🔗 [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) | - | - | ⭐ 12 | 🔴 january 2025|
 | 🔗 [ProSub](https://github.com/matbahasa/ProSub) | - | - | ⭐ invalid | 🔴 invalid|
-| 🔗 [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) | - | - | ⭐ 15 | 🟡 november 2025|
 | 🔗 [ramendb](https://github.com/nuko-yokohama/ramendb) | - | - | ⭐ 8 | 🟢 april|
 | 🔗 [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) | - | - | ⭐ 3 | 🔴 march 2023|
 | 🔗 [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) | - | - | ⭐ 0 | 🔴 march 2021|
@@ -2107,9 +2088,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [annotation-2025](https://github.com/Tiny-Colony/annotation-2025) | - | - | ⭐ 0 | 🟡 january|
 | 🔗 [jhpt](https://github.com/nict-astrec-att/jhpt) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [JBE-QA](https://github.com/hancules/JBE-QA) | - | - | ⭐ 0 | 🟡 november 2025|
-| 🔗 [j-spaw](https://github.com/takamichi-lab/j-spaw) | - | - | ⭐ 6 | 🔴 invalid|
 | 🔗 [JMedWiC](https://github.com/EhimeNLP/JMedWiC) | - | - | ⭐ 4 | 🟢 may|
-| 🔗 [jhpt](https://github.com/nict-astrec-att/jhpt) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [Doppelganger-JC](https://github.com/0017-alt/Doppelganger-JC) | - | - | ⭐ 2 | 🟡 january|
 | 🔗 [modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang) | - | - | ⭐ 2 | 🟡 march|
 | 🔗 [japanese-hr-niah](https://github.com/kufu/japanese-hr-niah) | - | - | ⭐ 1 | 🟡 january|

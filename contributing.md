@@ -34,26 +34,12 @@ You can contribute to this repository in two ways.
 
 ### 1. Make a pull request
 
-First, please check the [content](https://github.com/taishi-i/awesome-japanese-nlp-resources#contents) you want to add. If there is no matching content, please add it to [others](https://github.com/taishi-i/awesome-japanese-nlp-resources#Others).
+First, please check the [content](https://github.com/taishi-i/awesome-japanese-nlp-resources#contents) you want to add. If there is no matching content, please add it to [others](https://github.com/taishi-i/awesome-japanese-nlp-resources#others).
 
 * Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
-    * Keep descriptions concise and **short**. You only need to add it to **[README.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/README.md)**. The maintainer will automatically apply it to each language.
+    * Keep descriptions concise and **short**. You only need to add it to **[README.md](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/README.md)**.
 
-* Add project stats to the table: Add the following table content.
-
-|Name|downloads/week|total downloads|stars|
--|-|-|-
-|project name|downloads/week in PePy|total downloads in PePy|stars in GitHub|
-
-If the project has download information in [PePy](https://pepy.tech/), please add the download information. Also, add a github star in [Shields.io - GitHub Repo stars](https://shields.io/). This will help users find the good projects.
-```
-|[SudachiPy](https://github.com/WorksApplications/SudachiPy)|[![Downloads](https://pepy.tech/badge/sudachipy/week)](https://pepy.tech/project/sudachipy)|[![Downloads](https://pepy.tech/badge/sudachipy)](https://pepy.tech/project/sudachipy)|![GitHub Repo stars](https://img.shields.io/github/stars/WorksApplications/SudachiPy?style=social)|
-```
-
-If the project doesn't have download information in [PePy](https://pepy.tech/), please create a line like this.
-```
-|[bertknp](https://github.com/ku-nlp/bertknp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/bertknp?style=social)|
-```
+That's it — do not add a stats table row yourself. The maintainer's automated pipeline fills in the stats table (📥 downloads/week, 📦 downloads total, ⭐ GitHub stars, and the 🟢🟡🔴 last-commit indicator) and regenerates the translated versions (English, Japanese, Traditional Chinese, Simplified Chinese) on the next update, so a PR that only adds the bullet line is exactly what's expected.
 
 Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
