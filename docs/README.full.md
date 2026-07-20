@@ -1123,6 +1123,8 @@ Libraries for converting Japanese scripts and readings
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国の住所データAPI
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - テキストの単語を絵文字に変換する
  * [japanese.js](https://github.com/hakatashi/japanese.js) - Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About
+genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1141,6 +1143,7 @@ Libraries for converting Japanese scripts and readings
 |[japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses-v2?style=social)|
 |[jptext-to-emoji](https://github.com/elzup/jptext-to-emoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elzup/jptext-to-emoji?style=social)|
 |[japanese.js](https://github.com/hakatashi/japanese.js)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hakatashi/japanese.js?style=social)|
+|[japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/albertaworlds/japanese-text-cleaner?style=social)|
 
 
 ### Others
