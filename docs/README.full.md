@@ -688,6 +688,7 @@ General-purpose tools supporting Japanese language processing
  * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: 日本語医療特化ASR (whisper-small + LoRA, 60話者) と国内初の医療ASRベンチマーク (フルFT版 FT60 も収録)
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - OSS MCP server for Japanese tax primary sources (法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例)
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models
+ * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -900,6 +901,7 @@ General-purpose tools supporting Japanese language processing
 |[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
 |[open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zeimu-ai/open-zeimu-mcp?style=social)|
 |[llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-moshi?style=social)|
+|[shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk-python?style=social)|
 
 
 ## C++
