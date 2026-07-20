@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了883個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了321個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了887個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了315個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 
     ## Claude Code 外掛
 
@@ -56,9 +56,14 @@
 ## 🎉 The latest additions
 
 **Python**
- * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi：日本語全雙工口語對話模型
+ * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 為Shirabe Japan數據API官方Python SDK - 提供現成的LangChain / OpenAI Agents SDK工具，用於日本姓名讀取（JMnedict支持的候選人）、姓名拆分、地址規範化、企業編號查找和日曆（六曜）。零依賴核心。
 
-_Updated on Jul 14, 2026_
+**JavaScript**
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - 關於原始人🗿| 面向Claude Code / Codex等AI代理人的超壓縮溝通技巧。基於caveman的日文版本，最佳化日文特有的冗長表達。
+ * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - 官方TypeScript SDK為Shirabe日本數據API提供支持 - 預製的Vercel AI SDK / LangChain工具，用於日本姓名拆分/閱讀、地址規範化、企業編號查找和日曆（六曜）。核心部分無運行時依賴。
+ * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - 具有16步流程、批處理、編碼自動檢測和代理準備API的自動化日文文本清理Web工具 | 搭載16種清理規則的日語文本自動整形Web工具
+
+_Updated on Jul 21, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -137,22 +142,22 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [SudachiPy](https://github.com/WorksApplications/SudachiPy) | 📥 417k | 📦 70M | ⭐ 440 | 🔴 october 2022|
-| 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 75k | 📦 13M | ⭐ 914 | 🟢 june|
-| 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 207k | 📦 39M | ⭐ 584 | 🟡 november 2025|
-| 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 82k | 📦 1M | ⭐ 274 | 🔴 october 2024|
-| 🔗 [fugashi](https://github.com/polm/fugashi) | 📥 200k | 📦 16M | ⭐ 531 | 🟡 october 2025|
-| 🔗 [nagisa](https://github.com/taishi-i/nagisa) | 📥 153k | 📦 9M | ⭐ 417 | 🟢 last monday|
-| 🔗 [pyknp](https://github.com/ku-nlp/pyknp) | 📥 946 | 📦 3M | ⭐ 93 | 🟡 january|
-| 🔗 [Mykytea-python](https://github.com/chezou/Mykytea-python) | 📥 2k | 📦 579k | ⭐ 36 | 🟡 march|
-| 🔗 [konoha](https://github.com/himkt/konoha) | 📥 28k | 📦 6M | ⭐ 262 | 🟢 june|
-| 🔗 [natto-py](https://github.com/buruzaemon/natto-py) | 📥 6k | 📦 34M | ⭐ 95 | 🔴 november 2023|
-| 🔗 [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) | 📥 9 | 📦 27k | ⭐ 23 | 🔴 may 2017|
-| 🔗 [python-vaporetto](https://github.com/daac-tools/python-vaporetto) | 📥 384 | 📦 185k | ⭐ 21 | 🟢 may|
-| 🔗 [dango](https://github.com/mkartawijaya/dango) | 📥 56 | 📦 27k | ⭐ 25 | 🔴 november 2021|
-| 🔗 [rhoknp](https://github.com/ku-nlp/rhoknp) | 📥 13k | 📦 1M | ⭐ 40 | 🟢 may|
-| 🔗 [python-vibrato](https://github.com/daac-tools/python-vibrato) | 📥 174 | 📦 124k | ⭐ 46 | 🟢 may|
-| 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 990 | 📦 321k | ⭐ 13 | 🔴 march 2024|
+| 🔗 [SudachiPy](https://github.com/WorksApplications/SudachiPy) | 📥 436k | 📦 70M | ⭐ 442 | 🔴 october 2022|
+| 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 68k | 📦 13M | ⭐ 915 | 🟢 june|
+| 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 216k | 📦 40M | ⭐ 584 | 🟡 november 2025|
+| 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 79k | 📦 2M | ⭐ 274 | 🔴 october 2024|
+| 🔗 [fugashi](https://github.com/polm/fugashi) | 📥 201k | 📦 16M | ⭐ 533 | 🟡 october 2025|
+| 🔗 [nagisa](https://github.com/taishi-i/nagisa) | 📥 149k | 📦 9M | ⭐ 418 | 🟢 july|
+| 🔗 [pyknp](https://github.com/ku-nlp/pyknp) | 📥 2k | 📦 3M | ⭐ 93 | 🟡 january|
+| 🔗 [Mykytea-python](https://github.com/chezou/Mykytea-python) | 📥 983 | 📦 581k | ⭐ 36 | 🟡 march|
+| 🔗 [konoha](https://github.com/himkt/konoha) | 📥 29k | 📦 6M | ⭐ 263 | 🟢 yesterday|
+| 🔗 [natto-py](https://github.com/buruzaemon/natto-py) | 📥 7k | 📦 34M | ⭐ 95 | 🔴 november 2023|
+| 🔗 [rakutenma-python](https://github.com/ikegami-yukino/rakutenma-python) | 📥 27 | 📦 27k | ⭐ 23 | 🔴 may 2017|
+| 🔗 [python-vaporetto](https://github.com/daac-tools/python-vaporetto) | 📥 408 | 📦 186k | ⭐ 21 | 🟢 may|
+| 🔗 [dango](https://github.com/mkartawijaya/dango) | 📥 51 | 📦 27k | ⭐ 25 | 🔴 november 2021|
+| 🔗 [rhoknp](https://github.com/ku-nlp/rhoknp) | 📥 28k | 📦 1M | ⭐ 40 | 🟢 may|
+| 🔗 [python-vibrato](https://github.com/daac-tools/python-vibrato) | 📥 226 | 📦 125k | ⭐ 46 | 🟢 may|
+| 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 965 | 📦 323k | ⭐ 13 | 🔴 march 2024|
 | 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 40 | 🟡 september 2025|
 
 
@@ -176,19 +181,19 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [ginza](https://github.com/megagonlabs/ginza) | 📥 19k | 📦 2M | ⭐ 860 | 🟢 yesterday|
+| 🔗 [ginza](https://github.com/megagonlabs/ginza) | 📥 18k | 📦 2M | ⭐ 862 | 🟢 july|
 | 🔗 [cabocha](https://github.com/ikegami-yukino/cabocha/tree/master/python) | 📥 50 | 📦 55k | ⭐ 7 | 🔴 august 2022|
-| 🔗 [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) | 📥 76 | 📦 336k | ⭐ 38 | 🟡 december 2025|
-| 🔗 [camphr](https://github.com/PKSHATechnology-Research/camphr) | 📥 217 | 📦 275k | ⭐ 336 | 🔴 august 2021|
-| 🔗 [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) | 📥 38 | 📦 122k | ⭐ 21 | 🔴 repo not found|
-| 🔗 [depccg](https://github.com/masashi-y/depccg) | 📥 100 | 📦 48k | ⭐ 100 | 🔴 august 2023|
+| 🔗 [UniDic2UD](https://github.com/KoichiYasuoka/UniDic2UD) | 📥 506 | 📦 337k | ⭐ 38 | 🟡 december 2025|
+| 🔗 [camphr](https://github.com/PKSHATechnology-Research/camphr) | 📥 292 | 📦 276k | ⭐ 336 | 🔴 august 2021|
+| 🔗 [SuPar-UniDic](https://github.com/KoichiYasuoka/SuPar-UniDic) | 📥 314 | 📦 122k | ⭐ 21 | 🟡 february|
+| 🔗 [depccg](https://github.com/masashi-y/depccg) | 📥 68 | 📦 48k | ⭐ 100 | 🔴 august 2023|
 | 🔗 [bertknp](https://github.com/ku-nlp/bertknp) | - | - | ⭐ 23 | 🔴 october 2021|
-| 🔗 [esupar](https://github.com/KoichiYasuoka/esupar) | 📥 593 | 📦 180k | ⭐ 55 | 🟡 february|
-| 🔗 [yomikata](https://github.com/passaglia/yomikata) | 📥 17 | 📦 50k | ⭐ 34 | 🔴 october 2023|
-| 🔗 [jdepp-python](https://github.com/lighttransport/jdepp-python) | 📥 1k | 📦 305k | ⭐ 4 | 🔴 february 2024|
+| 🔗 [esupar](https://github.com/KoichiYasuoka/esupar) | 📥 573 | 📦 180k | ⭐ 55 | 🟡 february|
+| 🔗 [yomikata](https://github.com/passaglia/yomikata) | 📥 28 | 📦 50k | ⭐ 34 | 🔴 october 2023|
+| 🔗 [jdepp-python](https://github.com/lighttransport/jdepp-python) | 📥 1k | 📦 307k | ⭐ 4 | 🔴 february 2024|
 | 🔗 [lightblue](https://github.com/daisukebekki/lightblue) | - | - | ⭐ 29 | 🟡 march|
 | 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 | 🔴 february 2025|
-| 🔗 [jdeppy](https://github.com/matsurih/jdeppy) | 📥 24 | 📦 12k | ⭐ 3 | 🔴 february 2022|
+| 🔗 [jdeppy](https://github.com/matsurih/jdeppy) | 📥 31 | 📦 12k | ⭐ 3 | 🔴 february 2022|
 
 
 ### Converter
@@ -216,24 +221,24 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [pykakasi](https://github.com/miurahr/pykakasi) | 📥 340k | 📦 35M | ⭐ 463 | 🟢 july|
-| 🔗 [cutlet](https://github.com/polm/cutlet) | 📥 23k | 📦 2M | ⭐ 381 | 🟢 july|
-| 🔗 [alphabet2kana](https://github.com/shihono/alphabet2kana) | 📥 232 | 📦 62k | ⭐ 15 | 🟡 february|
+| 🔗 [pykakasi](https://github.com/miurahr/pykakasi) | 📥 342k | 📦 35M | ⭐ 463 | 🟢 last friday|
+| 🔗 [cutlet](https://github.com/polm/cutlet) | 📥 20k | 📦 2M | ⭐ 381 | 🟢 july|
+| 🔗 [alphabet2kana](https://github.com/shihono/alphabet2kana) | 📥 204 | 📦 63k | ⭐ 15 | 🟡 february|
 | 🔗 [Convert-Numbers-to-Japanese](https://github.com/Greatdane/Convert-Numbers-to-Japanese) | - | - | ⭐ 51 | 🔴 november 2020|
-| 🔗 [mozcpy](https://github.com/ikegami-yukino/mozcpy) | 📥 323 | 📦 15k | ⭐ 49 | 🔴 february 2025|
-| 🔗 [jamorasep](https://github.com/tachi-hi/jamorasep) | 📥 358 | 📦 11k | ⭐ 11 | 🟡 february|
+| 🔗 [mozcpy](https://github.com/ikegami-yukino/mozcpy) | 📥 541 | 📦 16k | ⭐ 49 | 🔴 february 2025|
+| 🔗 [jamorasep](https://github.com/tachi-hi/jamorasep) | 📥 73 | 📦 11k | ⭐ 11 | 🟡 february|
 | 🔗 [text2phoneme](https://github.com/korguchi/text2phoneme) | - | - | ⭐ 13 | 🔴 may 2023|
-| 🔗 [jntajis-python](https://github.com/opencollector/jntajis-python) | 📥 1k | 📦 134k | ⭐ 21 | 🟡 march|
-| 🔗 [wiredify](https://github.com/eggplants/wiredify) | 📥 24 | 📦 7k | ⭐ 3 | 🟡 december 2025|
-| 🔗 [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) | 📥 35 | 📦 5k | ⭐ 7 | 🟡 february|
-| 🔗 [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) | 📥 25 | 📦 15k | ⭐ 8 | 🔴 april 2024|
-| 🔗 [Jusho](https://github.com/nagataaaas/Jusho) | 📥 973 | 📦 62k | ⭐ 12 | 🔴 june 2024|
-| 🔗 [yurenizer](https://github.com/sea-turt1e/yurenizer) | 📥 73 | 📦 21k | ⭐ 6 | 🔴 march 2025|
-| 🔗 [e2k](https://github.com/Patchethium/e2k) | 📥 395 | 📦 34k | ⭐ 20 | 🟡 march|
+| 🔗 [jntajis-python](https://github.com/opencollector/jntajis-python) | 📥 1k | 📦 136k | ⭐ 21 | 🟡 march|
+| 🔗 [wiredify](https://github.com/eggplants/wiredify) | 📥 31 | 📦 7k | ⭐ 3 | 🟡 december 2025|
+| 🔗 [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) | 📥 46 | 📦 5k | ⭐ 7 | 🟡 february|
+| 🔗 [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) | 📥 63 | 📦 15k | ⭐ 8 | 🔴 april 2024|
+| 🔗 [Jusho](https://github.com/nagataaaas/Jusho) | 📥 679 | 📦 63k | ⭐ 12 | 🔴 june 2024|
+| 🔗 [yurenizer](https://github.com/sea-turt1e/yurenizer) | 📥 64 | 📦 21k | ⭐ 6 | 🔴 march 2025|
+| 🔗 [e2k](https://github.com/Patchethium/e2k) | 📥 336 | 📦 34k | ⭐ 20 | 🟡 march|
 | 🔗 [alkana.py](https://github.com/zomysan/alkana.py) | - | - | ⭐ 35 | 🔴 october 2021|
-| 🔗 [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) | - | - | ⭐ 4 | 🟢 today|
-| 🔗 [kanjiconv](https://github.com/sea-turt1e/kanjiconv) | 📥 238 | 📦 16k | ⭐ 20 | 🟢 july|
-| 🔗 [kanjize](https://github.com/nagataaaas/kanjize) | 📥 32k | 📦 2M | ⭐ 68 | 🔴 june 2025|
+| 🔗 [englishtokanaconverter](https://github.com/actlaboratory/englishtokanaconverter) | - | - | ⭐ 4 | 🟢 last friday|
+| 🔗 [kanjiconv](https://github.com/sea-turt1e/kanjiconv) | 📥 506 | 📦 17k | ⭐ 20 | 🟢 yesterday|
+| 🔗 [kanjize](https://github.com/nagataaaas/kanjize) | 📥 34k | 📦 2M | ⭐ 67 | 🔴 june 2025|
 
 
 ### Preprocessor
@@ -252,13 +257,13 @@ _Updated on Jul 14, 2026_
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [neologdn](https://github.com/ikegami-yukino/neologdn) | 📥 9k | 📦 2M | ⭐ 289 | 🟢 may|
-| 🔗 [jaconv](https://github.com/ikegami-yukino/jaconv) | 📥 711k | 📦 75M | ⭐ 349 | 🟡 february|
-| 🔗 [mojimoji](https://github.com/studio-ousia/mojimoji) | 📥 75k | 📦 12M | ⭐ 152 | 🔴 january 2024|
+| 🔗 [jaconv](https://github.com/ikegami-yukino/jaconv) | 📥 682k | 📦 75M | ⭐ 350 | 🟡 february|
+| 🔗 [mojimoji](https://github.com/studio-ousia/mojimoji) | 📥 71k | 📦 13M | ⭐ 152 | 🔴 january 2024|
 | 🔗 [text-cleaning](https://github.com/ku-nlp/text-cleaning) | - | - | ⭐ 12 | 🔴 november 2022|
-| 🔗 [HojiChar](https://github.com/HojiChar/HojiChar) | 📥 15k | 📦 1M | ⭐ 127 | 🟢 april|
-| 🔗 [utsuho](https://github.com/juno-rmks/utsuho) | 📥 70 | 📦 24k | ⭐ 5 | 🟡 march|
-| 🔗 [python-habachen](https://github.com/Hizuru3/python-habachen) | 📥 6k | 📦 2M | ⭐ 6 | 🟡 october 2025|
-| 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 115 | 📦 33k | ⭐ 6 | 🔴 june 2025|
+| 🔗 [HojiChar](https://github.com/HojiChar/HojiChar) | 📥 12k | 📦 1M | ⭐ 127 | 🟢 last friday|
+| 🔗 [utsuho](https://github.com/juno-rmks/utsuho) | 📥 135 | 📦 24k | ⭐ 5 | 🟡 march|
+| 🔗 [python-habachen](https://github.com/Hizuru3/python-habachen) | 📥 9k | 📦 2M | ⭐ 6 | 🟡 october 2025|
+| 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 197 | 📦 33k | ⭐ 6 | 🔴 june 2025|
 
 
 ### Sentence splitter
@@ -277,15 +282,15 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [bunkai](https://github.com/megagonlabs/bunkai) | 📥 467 | 📦 119k | ⭐ 200 | 🔴 august 2023|
-| 🔗 [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) | 📥 42 | 📦 6k | ⭐ 14 | 🔴 february 2021|
-| 🔗 [sengiri](https://github.com/ikegami-yukino/sengiri) | 📥 103 | 📦 137k | ⭐ 24 | 🟡 november 2025|
-| 🔗 [budoux](https://github.com/google/budoux) | 📥 13k | 📦 620k | ⭐ 1.7k | 🟢 yesterday|
-| 🔗 [ja_sentence_segmenter](https://github.com/wwwcojp/ja_sentence_segmenter) | 📥 4k | 📦 241k | ⭐ 75 | 🟢 today|
-| 🔗 [hasami](https://github.com/mkartawijaya/hasami) | 📥 452 | 📦 44k | ⭐ 6 | 🔴 february 2021|
-| 🔗 [kuzukiri](https://github.com/alinear-corp/kuzukiri) | 📥 96 | 📦 29k | ⭐ 6 | 🔴 june 2025|
+| 🔗 [bunkai](https://github.com/megagonlabs/bunkai) | 📥 560 | 📦 119k | ⭐ 200 | 🔴 august 2023|
+| 🔗 [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) | 📥 51 | 📦 6k | ⭐ 14 | 🔴 february 2021|
+| 🔗 [sengiri](https://github.com/ikegami-yukino/sengiri) | 📥 73 | 📦 137k | ⭐ 24 | 🟡 november 2025|
+| 🔗 [budoux](https://github.com/google/budoux) | 📥 13k | 📦 639k | ⭐ 1.7k | 🟢 last thursday|
+| 🔗 [ja_sentence_segmenter](https://github.com/wwwcojp/ja_sentence_segmenter) | 📥 4k | 📦 246k | ⭐ 75 | 🟢 july|
+| 🔗 [hasami](https://github.com/mkartawijaya/hasami) | 📥 470 | 📦 44k | ⭐ 6 | 🔴 february 2021|
+| 🔗 [kuzukiri](https://github.com/alinear-corp/kuzukiri) | 📥 143 | 📦 29k | ⭐ 6 | 🔴 june 2025|
 | 🔗 [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) | - | - | ⭐ 10 | 🔴 february 2023|
-| 🔗 [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) | 📥 221 | 📦 8k | ⭐ 74 | 🟡 october 2025|
+| 🔗 [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) | 📥 176 | 📦 8k | ⭐ 74 | 🟡 october 2025|
 
 
 ### Sentiment analysis
@@ -300,10 +305,10 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [oseti](https://github.com/ikegami-yukino/oseti) | 📥 350 | 📦 172k | ⭐ 99 | 🟡 august 2025|
+| 🔗 [oseti](https://github.com/ikegami-yukino/oseti) | 📥 331 | 📦 172k | ⭐ 99 | 🟡 august 2025|
 | 🔗 [negapoji](https://github.com/liaoziyang/negapoji) | - | - | ⭐ 152 | 🔴 august 2017|
-| 🔗 [pymlask](https://github.com/ikegami-yukino/pymlask) | 📥 88 | 📦 67k | ⭐ 118 | 🔴 july 2024|
-| 🔗 [asari](https://github.com/Hironsan/asari) | 📥 166 | 📦 82k | ⭐ 153 | 🔴 october 2022|
+| 🔗 [pymlask](https://github.com/ikegami-yukino/pymlask) | 📥 77 | 📦 67k | ⭐ 118 | 🔴 july 2024|
+| 🔗 [asari](https://github.com/Hironsan/asari) | 📥 134 | 📦 82k | ⭐ 153 | 🔴 october 2022|
 | 🔗 [kotobacore](https://github.com/ekiyo55/kotobacore) | - | - | ⭐ 0 | 🟢 may|
 
 
@@ -323,7 +328,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [JASS](https://github.com/Mao-KU/JASS) | - | - | ⭐ 16 | 🔴 january 2022|
 | 🔗 [PheMT](https://github.com/cl-tohoku/PheMT) | - | - | ⭐ 19 | 🔴 february 2021|
 | 🔗 [VISA](https://github.com/ku-nlp/VISA) | - | - | ⭐ 14 | 🔴 october 2022|
-| 🔗 [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) | - | - | ⭐ 350 | 🟢 april|
+| 🔗 [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) | - | - | ⭐ 351 | 🟡 april|
 
 
 ### Named entity recognition
@@ -344,10 +349,10 @@ _Updated on Jul 14, 2026_
 -|-|-|-|-
 | 🔗 [namaco](https://github.com/chakki-works/namaco) | - | - | ⭐ 40 | 🔴 february 2018|
 | 🔗 [entitypedia](https://github.com/chakki-works/entitypedia) | - | - | ⭐ 13 | 🔴 december 2018|
-| 🔗 [noyaki](https://github.com/ken11/noyaki) | 📥 43 | 📦 23k | ⭐ 5 | 🔴 august 2022|
+| 🔗 [noyaki](https://github.com/ken11/noyaki) | 📥 133 | 📦 23k | ⭐ 5 | 🔴 august 2022|
 | 🔗 [bert-japanese-ner-finetuning](https://github.com/ken11/bert-japanese-ner-finetuning) | - | - | ⭐ 11 | 🔴 june 2022|
 | 🔗 [joint-information-extraction-hs](https://github.com/aih-uth/joint-information-extraction-hs) | - | - | ⭐ 1 | 🔴 november 2021|
-| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 196 | 📦 26k | ⭐ 22 | 🟡 march|
+| 🔗 [pygeonlp](https://github.com/geonlp-platform/pygeonlp) | 📥 171 | 📦 27k | ⭐ 22 | 🟡 march|
 | 🔗 [bert-ner-japanese](https://github.com/jurabiinc/bert-ner-japanese) | - | - | ⭐ 5 | 🔴 september 2022|
 | 🔗 [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) | - | - | ⭐ 16 | 🔴 october 2023|
 | 🔗 [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) | - | - | ⭐ 2 | 🔴 june 2024|
@@ -379,25 +384,25 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [manga-ocr](https://github.com/kha-white/manga-ocr) | 📥 5k | 📦 339k | ⭐ 2.7k | 🔴 june 2025|
-| 🔗 [mokuro](https://github.com/kha-white/mokuro) | 📥 808 | 📦 105k | ⭐ 1.7k | 🟡 february|
+| 🔗 [manga-ocr](https://github.com/kha-white/manga-ocr) | 📥 6k | 📦 348k | ⭐ 2.7k | 🟢 yesterday|
+| 🔗 [mokuro](https://github.com/kha-white/mokuro) | 📥 974 | 📦 106k | ⭐ 1.7k | 🟢 yesterday|
 | 🔗 [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) | - | - | ⭐ 37 | 🔴 april 2022|
 | 🔗 [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) | - | - | ⭐ 249 | 🔴 april 2021|
 | 🔗 [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) | - | - | ⭐ 678 | 🟡 september 2025|
-| 🔗 [donut](https://github.com/clovaai/donut) | 📥 208 | 📦 202k | ⭐ 6.9k | 🔴 july 2023|
+| 🔗 [donut](https://github.com/clovaai/donut) | 📥 170 | 📦 203k | ⭐ 6.9k | 🔴 july 2023|
 | 🔗 [JMTrans](https://github.com/ttop32/JMTrans) | - | - | ⭐ 87 | 🔴 january 2021|
-| 🔗 [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) | - | - | ⭐ 153 | 🔴 july 2023|
+| 🔗 [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) | - | - | ⭐ 153 | 🟢 last tuesday|
 | 🔗 [text_recognition](https://github.com/ndl-lab/text_recognition) | - | - | ⭐ 8 | 🔴 july 2023|
 | 🔗 [Poricom](https://github.com/blueaxis/Poricom) | - | - | ⭐ 432 | 🔴 june 2023|
-| 🔗 [owocr](https://github.com/aurorawright/owocr) | - | - | ⭐ 269 | 🟡 march|
-| 🔗 [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) | 📥 2k | 📦 111k | ⭐ 1.5k | 🟢 last monday|
+| 🔗 [owocr](https://github.com/aurorawright/owocr) | - | - | ⭐ 274 | 🟡 march|
+| 🔗 [yomitoku](https://github.com/kotaro-kinoshita/yomitoku) | 📥 2k | 📦 114k | ⭐ 1.5k | 🟢 last wednesday|
 | 🔗 [findtextcenternet](https://github.com/lithium0003/findtextcenternet) | - | - | ⭐ 64 | 🟡 august 2025|
-| 🔗 [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) | - | - | ⭐ 7 | 🔴 repo not found|
+| 🔗 [simple-ocr-for-manga](https://github.com/yisusdev2005/simple-ocr-for-manga) | - | - | ⭐ 7 | 🔴 march 2025|
 | 🔗 [jp-ocr-evaluation](https://github.com/yoshino/jp-ocr-evaluation) | - | - | ⭐ 1 | 🔴 march 2024|
 | 🔗 [paddleocr-vl-sft-for-japanese-manga-on-rtx-3060](https://github.com/openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060) | - | - | ⭐ 15 | 🟡 december 2025|
-| 🔗 [MangaOCR](https://github.com/gnurt2041/MangaOCR) | - | - | ⭐ 37 | 🔴 may 2024|
-| 🔗 [meikiocr](https://github.com/rtr46/meikiocr) | 📥 833 | 📦 39k | ⭐ 82 | 🟢 april|
-| 🔗 [meikipop](https://github.com/rtr46/meikipop) | - | - | ⭐ 464 | 🟢 june|
+| 🔗 [MangaOCR](https://github.com/gnurt2041/MangaOCR) | - | - | ⭐ 38 | 🔴 may 2024|
+| 🔗 [meikiocr](https://github.com/rtr46/meikiocr) | 📥 924 | 📦 41k | ⭐ 84 | 🟡 april|
+| 🔗 [meikipop](https://github.com/rtr46/meikipop) | - | - | ⭐ 469 | 🟢 june|
 
 
 ### Tool for pretrained models
@@ -440,23 +445,23 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 345 | 🔴 march 2025|
-| 🔗 [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) | 📥 3k | 📦 271k | ⭐ 16 | 🔴 august 2022|
+| 🔗 [JGLUE](https://github.com/yahoojapan/JGLUE) | - | - | ⭐ 346 | 🔴 march 2025|
+| 🔗 [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) | 📥 949 | 📦 273k | ⭐ 16 | 🔴 august 2022|
 | 🔗 [t5_japanese_dialogue_generation](https://github.com/Jinyamyzk/t5_japanese_dialogue_generation) | - | - | ⭐ 3 | 🔴 november 2021|
 | 🔗 [japanese_text_classification](https://github.com/Masao-Taketani/japanese_text_classification) | - | - | ⭐ 9 | 🔴 january 2020|
 | 🔗 [Japanese-BERT-Sentiment-Analyzer](https://github.com/izuna385/Japanese-BERT-Sentiment-Analyzer) | - | - | ⭐ 2 | 🔴 april 2021|
 | 🔗 [jmlm_scoring](https://github.com/minhpqn/jmlm_scoring) | - | - | ⭐ 5 | 🔴 february 2022|
-| 🔗 [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) | 📥 89 | 📦 23k | ⭐ 12 | 🔴 june 2021|
+| 🔗 [allennlp-shiba-model](https://github.com/shunk031/allennlp-shiba-model) | 📥 73 | 📦 23k | ⭐ 12 | 🔴 june 2021|
 | 🔗 [evaluate_japanese_w2v](https://github.com/shihono/evaluate_japanese_w2v) | - | - | ⭐ 12 | 🔴 november 2024|
 | 🔗 [gector-ja](https://github.com/jonnyli1125/gector-ja) | - | - | ⭐ 19 | 🔴 june 2021|
 | 🔗 [Japanese-BPEEncoder](https://github.com/tanreinama/Japanese-BPEEncoder) | - | - | ⭐ 41 | 🔴 september 2021|
 | 🔗 [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) | - | - | ⭐ 40 | 🔴 january 2023|
 | 🔗 [transformer-copy](https://github.com/youichiro/transformer-copy) | - | - | ⭐ 29 | 🔴 september 2020|
 | 🔗 [japanese-stable-diffusion](https://github.com/rinnakk/japanese-stable-diffusion) | - | - | ⭐ repo not found | 🔴 repo not found|
-| 🔗 [nagisa_bert](https://github.com/taishi-i/nagisa_bert) | 📥 368 | 📦 62k | ⭐ 5 | 🟡 february|
+| 🔗 [nagisa_bert](https://github.com/taishi-i/nagisa_bert) | 📥 162 | 📦 62k | ⭐ 5 | 🟡 february|
 | 🔗 [prefix-tuning-gpt](https://github.com/rinnakk/prefix-tuning-gpt) | - | - | ⭐ repo not found | 🔴 repo not found|
-| 🔗 [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) | - | - | ⭐ 18 | 🟢 last tuesday|
-| 🔗 [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) | 📥 85 | 📦 30k | ⭐ 5 | 🔴 february 2024|
+| 🔗 [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) | - | - | ⭐ 18 | 🟢 last saturday|
+| 🔗 [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) | 📥 153 | 📦 30k | ⭐ 5 | 🔴 february 2024|
 | 🔗 [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) | - | - | ⭐ 153 | 🔴 november 2023|
 | 🔗 [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) | - | - | ⭐ 6 | 🔴 june 2023|
 | 🔗 [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) | - | - | ⭐ 1 | 🔴 june 2023|
@@ -464,12 +469,12 @@ _Updated on Jul 14, 2026_
 | 🔗 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) | - | - | ⭐ 19 | 🔴 may 2023|
 | 🔗 [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) | - | - | ⭐ 41 | 🔴 november 2023|
 | 🔗 [japanese-llm-ranking](https://github.com/yuzu-ai/japanese-llm-ranking) | - | - | ⭐ 50 | 🔴 march 2024|
-| 🔗 [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) | - | - | ⭐ 162 | 🟢 june|
+| 🔗 [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) | - | - | ⭐ 163 | 🟢 yesterday|
 | 🔗 [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) | - | - | ⭐ 62 | 🔴 june 2024|
 | 🔗 [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) | - | - | ⭐ 48 | 🟡 march|
 | 🔗 [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) | - | - | ⭐ 78 | 🟢 june|
 | 🔗 [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) | - | - | ⭐ 33 | 🔴 june 2024|
-| 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 24 | 🟡 september 2025|
+| 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 25 | 🟡 september 2025|
 | 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 30 | 🟢 may|
 | 🔗 [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) | - | - | ⭐ 25 | 🔴 january 2019|
 | 🔗 [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) | - | - | ⭐ 24 | 🔴 december 2023|
@@ -687,48 +692,49 @@ _Updated on Jul 14, 2026_
  * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: 日本語醫療專用ASR（低語音+ LoRA，60位說話者）及國內首個醫療ASR基準測試（包含完整FT版FT60）
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - OSS MCP伺服器用於日本稅務主要來源（法令・通達・稅務答案・質疑回答案例・文件回答案例・裁決案例）
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi：日本語全雙工口語對話模型
+ * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 為Shirabe Japan數據API官方Python SDK - 提供現成的LangChain / OpenAI Agents SDK工具，用於日本姓名讀取（JMnedict支持的候選人）、姓名拆分、地址規範化、企業編號查找和日曆（六曜）。零依賴核心。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [namedivider-python](https://github.com/rskmoi/namedivider-python) | 📥 1k | 📦 95k | ⭐ 252 | 🟡 november 2025|
-| 🔗 [asa-python](https://github.com/ikegami-yukino/asa-python) | 📥 35 | 📦 31k | ⭐ 11 | 🔴 february 2019|
+| 🔗 [namedivider-python](https://github.com/rskmoi/namedivider-python) | 📥 977 | 📦 97k | ⭐ 252 | 🟡 november 2025|
+| 🔗 [asa-python](https://github.com/ikegami-yukino/asa-python) | 📥 39 | 📦 31k | ⭐ 11 | 🔴 february 2019|
 | 🔗 [python_asa](https://github.com/Takeuchi-Lab-LM/python_asa) | - | - | ⭐ 22 | 🔴 january 2020|
-| 🔗 [toiro](https://github.com/taishi-i/toiro) | 📥 26 | 📦 28k | ⭐ 122 | 🟡 november 2025|
-| 🔗 [ja-timex](https://github.com/yagays/ja-timex) | 📥 1k | 📦 109k | ⭐ 141 | 🔴 november 2023|
+| 🔗 [toiro](https://github.com/taishi-i/toiro) | 📥 63 | 📦 28k | ⭐ 122 | 🟡 november 2025|
+| 🔗 [ja-timex](https://github.com/yagays/ja-timex) | 📥 963 | 📦 110k | ⭐ 141 | 🔴 november 2023|
 | 🔗 [JapaneseTokenizers](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers) | - | - | ⭐ 138 | 🔴 march 2019|
-| 🔗 [daaja](https://github.com/kajyuuen/daaja) | 📥 109 | 📦 26k | ⭐ 64 | 🔴 february 2023|
-| 🔗 [accel-brain-code](https://github.com/accel-brain/accel-brain-code) | 📥 208 | 📦 154k | ⭐ 326 | 🔴 december 2023|
-| 🔗 [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) | 📥 306 | 📦 57k | ⭐ 10 | 🔴 june 2024|
-| 🔗 [nlplot](https://github.com/takapy0210/nlplot) | 📥 190 | 📦 116k | ⭐ 238 | 🔴 september 2022|
+| 🔗 [daaja](https://github.com/kajyuuen/daaja) | 📥 44 | 📦 26k | ⭐ 64 | 🔴 february 2023|
+| 🔗 [accel-brain-code](https://github.com/accel-brain/accel-brain-code) | 📥 221 | 📦 154k | ⭐ 327 | 🔴 december 2023|
+| 🔗 [kyoto-reader](https://github.com/ku-nlp/kyoto-reader) | 📥 381 | 📦 57k | ⭐ 10 | 🔴 june 2024|
+| 🔗 [nlplot](https://github.com/takapy0210/nlplot) | 📥 292 | 📦 116k | ⭐ 238 | 🔴 september 2022|
 | 🔗 [rake-ja](https://github.com/kanjirz50/rake-ja) | - | - | ⭐ 21 | 🔴 october 2018|
-| 🔗 [jel](https://github.com/izuna385/jel) | 📥 26 | 📦 8k | ⭐ 12 | 🔴 july 2021|
+| 🔗 [jel](https://github.com/izuna385/jel) | 📥 32 | 📦 8k | ⭐ 12 | 🔴 july 2021|
 | 🔗 [MedNER-J](https://github.com/sociocom/MedNER-J) | - | - | ⭐ 18 | 🔴 may 2022|
-| 🔗 [zunda-python](https://github.com/ikegami-yukino/zunda-python) | 📥 8 | 📦 6k | ⭐ 10 | 🔴 november 2019|
+| 🔗 [zunda-python](https://github.com/ikegami-yukino/zunda-python) | 📥 11 | 📦 6k | ⭐ 10 | 🔴 november 2019|
 | 🔗 [AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) | - | - | ⭐ 16 | 🔴 january 2022|
-| 🔗 [showcase](https://github.com/cl-tohoku/showcase) | 📥 7 | 📦 8k | ⭐ 6 | 🔴 june 2018|
+| 🔗 [showcase](https://github.com/cl-tohoku/showcase) | 📥 20 | 📦 8k | ⭐ 6 | 🔴 june 2018|
 | 🔗 [darts-clone-python](https://github.com/rixwew/darts-clone-python) | 📥 4k | 📦 9M | ⭐ 20 | 🔴 april 2022|
 | 🔗 [jrte-corpus_example](https://github.com/megagonlabs/jrte-corpus_example) | - | - | ⭐ 3 | 🔴 november 2021|
-| 🔗 [desuwa](https://github.com/megagonlabs/desuwa) | 📥 39 | 📦 11k | ⭐ 6 | 🔴 may 2022|
+| 🔗 [desuwa](https://github.com/megagonlabs/desuwa) | 📥 31 | 📦 11k | ⭐ 6 | 🔴 may 2022|
 | 🔗 [HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue) | - | - | ⭐ 276 | 🔴 may 2016|
 | 🔗 [nlp-recipes-ja](https://github.com/upura/nlp-recipes-ja) | - | - | ⭐ 66 | 🔴 april 2021|
 | 🔗 [Japanese_nlp_scripts](https://github.com/olsgaard/Japanese_nlp_scripts) | - | - | ⭐ 26 | 🔴 june 2019|
 | 🔗 [DNorm-J](https://github.com/sociocom/DNorm-J) | - | - | ⭐ 9 | 🔴 june 2022|
-| 🔗 [pyknp-eventgraph](https://github.com/ku-nlp/pyknp-eventgraph) | 📥 48 | 📦 67k | ⭐ 9 | 🔴 september 2022|
-| 🔗 [ishi](https://github.com/ku-nlp/ishi) | 📥 14 | 📦 6k | ⭐ 2 | 🔴 may 2020|
+| 🔗 [pyknp-eventgraph](https://github.com/ku-nlp/pyknp-eventgraph) | 📥 165 | 📦 68k | ⭐ 9 | 🔴 september 2022|
+| 🔗 [ishi](https://github.com/ku-nlp/ishi) | 📥 24 | 📦 7k | ⭐ 2 | 🔴 may 2020|
 | 🔗 [python-npylm](https://github.com/musyoku/python-npylm) | - | - | ⭐ 34 | 🔴 january 2019|
 | 🔗 [python-npycrf](https://github.com/musyoku/python-npycrf) | - | - | ⭐ 11 | 🔴 march 2018|
 | 🔗 [unsupervised-pos-tagging](https://github.com/musyoku/unsupervised-pos-tagging) | - | - | ⭐ 16 | 🔴 october 2017|
-| 🔗 [negima](https://github.com/cocodrips/negima) | 📥 22 | 📦 17k | ⭐ 14 | 🔴 august 2018|
+| 🔗 [negima](https://github.com/cocodrips/negima) | 📥 37 | 📦 17k | ⭐ 14 | 🔴 august 2018|
 | 🔗 [YouyakuMan](https://github.com/neilctwu/YouyakuMan) | - | - | ⭐ 52 | 🔴 september 2020|
-| 🔗 [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) | 📥 372 | 📦 2M | ⭐ 21 | 🔴 april 2020|
+| 🔗 [japanese-numbers-python](https://github.com/takumakanari/japanese-numbers-python) | 📥 479 | 📦 2M | ⭐ 21 | 🔴 april 2020|
 | 🔗 [kantan](https://github.com/itayperl/kantan) | - | - | ⭐ 8 | 🔴 october 2024|
 | 🔗 [make-meidai-dialogue](https://github.com/knok/make-meidai-dialogue) | - | - | ⭐ 40 | 🔴 september 2017|
 | 🔗 [japanese_summarizer](https://github.com/ryuryukke/japanese_summarizer) | - | - | ⭐ 10 | 🔴 august 2022|
-| 🔗 [chirptext](https://github.com/letuananh/chirptext) | 📥 4k | 📦 304k | ⭐ 7 | 🔴 october 2022|
-| 🔗 [yubin](https://github.com/alvations/yubin) | 📥 5 | 📦 3k | ⭐ 3 | 🔴 october 2019|
-| 🔗 [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) | 📥 62 | 📦 26k | ⭐ 6 | 🔴 february 2021|
-| 🔗 [japanese2phoneme](https://github.com/iory/japanese2phoneme) | 📥 24 | 📦 4k | ⭐ 1 | 🔴 february 2022|
+| 🔗 [chirptext](https://github.com/letuananh/chirptext) | 📥 6k | 📦 311k | ⭐ 7 | 🔴 october 2022|
+| 🔗 [yubin](https://github.com/alvations/yubin) | 📥 13 | 📦 3k | ⭐ 3 | 🔴 october 2019|
+| 🔗 [jawiki-cleaner](https://github.com/hppRC/jawiki-cleaner) | 📥 77 | 📦 26k | ⭐ 6 | 🔴 february 2021|
+| 🔗 [japanese2phoneme](https://github.com/iory/japanese2phoneme) | 📥 26 | 📦 4k | ⭐ 1 | 🔴 february 2022|
 | 🔗 [anlp_nlp2021_d3-1](https://github.com/arusl/anlp_nlp2021_d3-1) | - | - | ⭐ 1 | 🔴 march 2022|
 | 🔗 [aozora_classification](https://github.com/shibuiwilliam/aozora_classification) | - | - | ⭐ 11 | 🔴 september 2017|
 | 🔗 [aozora-corpus-generator](https://github.com/borh/aozora-corpus-generator) | - | - | ⭐ 8 | 🔴 june 2025|
@@ -753,11 +759,11 @@ _Updated on Jul 14, 2026_
 | 🔗 [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) | - | - | ⭐ 69 | 🟢 july|
 | 🔗 [neural_ime](https://github.com/yohokuno/neural_ime) | - | - | ⭐ 67 | 🔴 december 2016|
 | 🔗 [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) | - | - | ⭐ 178 | 🔴 september 2017|
-| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 104k | 📦 178k | ⭐ repo not found | 🔴 november 2015|
-| 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 58 | 📦 32k | ⭐ 7 | 🔴 september 2021|
-| 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 45 | 📦 13k | ⭐ 32 | 🔴 september 2021|
-| 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 37 | 📦 23k | ⭐ 13 | 🔴 march 2025|
-| 🔗 [jageocoder](https://github.com/t-sagara/jageocoder) | 📥 4k | 📦 416k | ⭐ 101 | 🟡 march|
+| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 98k | 📦 178k | ⭐ repo not found | 🔴 november 2015|
+| 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 75 | 📦 32k | ⭐ 7 | 🔴 september 2021|
+| 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 56 | 📦 13k | ⭐ 32 | 🔴 september 2021|
+| 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 52 | 📦 23k | ⭐ 13 | 🔴 march 2025|
+| 🔗 [jageocoder](https://github.com/t-sagara/jageocoder) | 📥 8k | 📦 425k | ⭐ 102 | 🟡 march|
 | 🔗 [nksnd](https://github.com/yoriyuki/nksnd) | - | - | ⭐ 26 | 🔴 may 2018|
 | 🔗 [JaMIE](https://github.com/racerandom/JaMIE) | - | - | ⭐ 9 | 🟡 march|
 | 🔗 [fasttext-vs-word2vec-on-twitter-data](https://github.com/GINK03/fasttext-vs-word2vec-on-twitter-data) | - | - | ⭐ 48 | 🔴 august 2017|
@@ -765,32 +771,32 @@ _Updated on Jul 14, 2026_
 | 🔗 [5ch-analysis](https://github.com/GINK03/5ch-analysis) | - | - | ⭐ 74 | 🔴 november 2018|
 | 🔗 [tweet_extructor](https://github.com/tatHi/tweet_extructor) | - | - | ⭐ 3 | 🔴 august 2022|
 | 🔗 [japanese-word-aggregation](https://github.com/hkiyomaru/japanese-word-aggregation) | - | - | ⭐ 2 | 🔴 august 2018|
-| 🔗 [jinf](https://github.com/hkiyomaru/jinf) | 📥 1k | 📦 63k | ⭐ 4 | 🔴 december 2022|
-| 🔗 [kwja](https://github.com/ku-nlp/kwja) | 📥 453 | 📦 62k | ⭐ 142 | 🟡 august 2025|
+| 🔗 [jinf](https://github.com/hkiyomaru/jinf) | 📥 723 | 📦 64k | ⭐ 4 | 🔴 december 2022|
+| 🔗 [kwja](https://github.com/ku-nlp/kwja) | 📥 612 | 📦 62k | ⭐ 145 | 🟡 august 2025|
 | 🔗 [mlm-scoring-transformers](https://github.com/Ryutaro-A/mlm-scoring-transformers) | - | - | ⭐ 6 | 🔴 december 2022|
 | 🔗 [ClipCap-for-Japanese](https://github.com/Japanese-Image-Captioning/ClipCap-for-Japanese) | - | - | ⭐ 13 | 🔴 october 2022|
 | 🔗 [SAT-for-Japanese](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese) | - | - | ⭐ 2 | 🔴 october 2022|
-| 🔗 [cihai](https://github.com/cihai/cihai) | 📥 519 | 📦 222k | ⭐ 93 | 🟢 today|
-| 🔗 [marine](https://github.com/6gsn/marine) | 📥 58 | 📦 16k | ⭐ 38 | 🔴 september 2022|
+| 🔗 [cihai](https://github.com/cihai/cihai) | 📥 333 | 📦 222k | ⭐ 93 | 🟢 yesterday|
+| 🔗 [marine](https://github.com/6gsn/marine) | 📥 111 | 📦 16k | ⭐ 38 | 🔴 september 2022|
 | 🔗 [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) | - | - | ⭐ 32 | 🔴 december 2022|
 | 🔗 [japanese_chatbot](https://github.com/CjangCjengh/japanese_chatbot) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [radicalchar](https://github.com/yamamaya/radicalchar) | - | - | ⭐ 10 | 🔴 december 2022|
 | 🔗 [akaza](https://github.com/tokuhirom/akaza) | - | - | ⭐ 258 | 🟢 june|
-| 🔗 [posuto](https://github.com/polm/posuto) | 📥 8k | 📦 805k | ⭐ 228 | 🟢 july|
+| 🔗 [posuto](https://github.com/polm/posuto) | 📥 8k | 📦 816k | ⭐ 226 | 🟢 july|
 | 🔗 [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) | - | - | ⭐ 267 | 🔴 september 2022|
 | 🔗 [ibus-hiragana](https://github.com/esrille/ibus-hiragana) | - | - | ⭐ 80 | 🟡 march|
 | 🔗 [furiganapad](https://github.com/esrille/furiganapad) | - | - | ⭐ 20 | 🔴 april 2025|
-| 🔗 [chikkarpy](https://github.com/WorksApplications/chikkarpy) | 📥 216 | 📦 64k | ⭐ 55 | 🔴 february 2022|
+| 🔗 [chikkarpy](https://github.com/WorksApplications/chikkarpy) | 📥 201 | 📦 64k | ⭐ 55 | 🔴 february 2022|
 | 🔗 [ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) | - | - | ⭐ 36 | 🔴 may 2022|
 | 🔗 [JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) | - | - | ⭐ 183 | 🔴 october 2024|
 | 🔗 [shuwa](https://github.com/google/shuwa) | - | - | ⭐ 146 | 🔴 december 2022|
 | 🔗 [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) | - | - | ⭐ 6 | 🔴 october 2022|
 | 🔗 [tra-fugu](https://github.com/tos-kamiya/tra-fugu) | - | - | ⭐ 5 | 🔴 march 2023|
 | 🔗 [fugumt](https://github.com/s-taka/fugumt) | - | - | ⭐ 63 | 🔴 february 2021|
-| 🔗 [JaSPICE](https://github.com/keio-smilab23/JaSPICE) | 📥 9 | 📦 2k | ⭐ 9 | 🟢 june|
+| 🔗 [JaSPICE](https://github.com/keio-smilab23/JaSPICE) | 📥 12 | 📦 2k | ⭐ 9 | 🟢 june|
 | 🔗 [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) | - | - | ⭐ 47 | 🔴 april 2023|
-| 🔗 [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) | 📥 16k | 📦 2M | ⭐ 251 | 🔴 april 2025|
-| 🔗 [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) | 📥 28 | 📦 8k | ⭐ 26 | 🔴 february 2024|
+| 🔗 [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) | 📥 14k | 📦 2M | ⭐ 254 | 🔴 april 2025|
+| 🔗 [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) | 📥 34 | 📦 8k | ⭐ 26 | 🔴 february 2024|
 | 🔗 [N46Whisper](https://github.com/Ayanaminn/N46Whisper) | - | - | ⭐ 1.7k | 🔴 february 2025|
 | 🔗 [japanese_llm_simple_webui](https://github.com/noir55/japanese_llm_simple_webui) | - | - | ⭐ 17 | 🔴 may 2024|
 | 🔗 [pdf-translator](https://github.com/discus0434/pdf-translator) | - | - | ⭐ 341 | 🔴 may 2024|
@@ -801,29 +807,29 @@ _Updated on Jul 14, 2026_
 | 🔗 [ja-law-parser](https://github.com/takuyaa/ja-law-parser) | - | - | ⭐ 25 | 🔴 january 2024|
 | 🔗 [dictation-kit](https://github.com/julius-speech/dictation-kit) | - | - | ⭐ 165 | 🔴 april 2019|
 | 🔗 [julius4seg](https://github.com/Hiroshiba/julius4seg) | - | - | ⭐ 7 | 🔴 august 2021|
-| 🔗 [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) | - | - | ⭐ 1.7k | 🟢 today|
+| 🔗 [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) | - | - | ⭐ 1.7k | 🟢 july|
 | 🔗 [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) | - | - | ⭐ 64 | 🔴 june 2024|
 | 🔗 [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) | - | - | ⭐ 10 | 🔴 may 2025|
 | 🔗 [bertjsc](https://github.com/er-ri/bertjsc) | - | - | ⭐ 14 | 🔴 august 2024|
 | 🔗 [llm-leaderboard](https://github.com/wandb/llm-leaderboard) | - | - | ⭐ 94 | 🟢 may|
-| 🔗 [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) | - | - | ⭐ 18 | 🟢 last tuesday|
-| 🔗 [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) | - | - | ⭐ 13 | 🟡 september 2025|
+| 🔗 [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) | - | - | ⭐ 18 | 🟢 last saturday|
+| 🔗 [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) | - | - | ⭐ 14 | 🟡 september 2025|
 | 🔗 [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) | - | - | ⭐ 12 | 🔴 march 2024|
 | 🔗 [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) | - | - | ⭐ 69 | 🔴 october 2023|
 | 🔗 [wikipedia-japanese-open-rag](https://github.com/lawofcycles/wikipedia-japanese-open-rag) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) | - | - | ⭐ 17 | 🔴 june 2024|
 | 🔗 [t5-japanese](https://github.com/sonoisa/t5-japanese) | - | - | ⭐ 118 | 🟡 september 2025|
 | 🔗 [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) | - | - | ⭐ 5 | 🔴 april 2024|
-| 🔗 [jmteb](https://github.com/sbintuitions/jmteb) | - | - | ⭐ 91 | 🟡 march|
-| 🔗 [pydomino](https://github.com/dwangomediavillage/pydomino) | - | - | ⭐ 39 | 🟡 august 2025|
-| 🔗 [easynovelassistant](https://github.com/zuntan03/easynovelassistant) | - | - | ⭐ 230 | 🔴 july 2024|
+| 🔗 [jmteb](https://github.com/sbintuitions/jmteb) | - | - | ⭐ 93 | 🟡 march|
+| 🔗 [pydomino](https://github.com/dwangomediavillage/pydomino) | - | - | ⭐ 40 | 🟡 august 2025|
+| 🔗 [easynovelassistant](https://github.com/zuntan03/easynovelassistant) | - | - | ⭐ 232 | 🔴 july 2024|
 | 🔗 [clip-japanese](https://github.com/sonoisa/clip-japanese) | - | - | ⭐ 13 | 🟡 september 2025|
 | 🔗 [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) | - | - | ⭐ 54 | 🟢 last thursday|
 | 🔗 [deep-question-generation](https://github.com/sonoisa/deep-question-generation) | - | - | ⭐ 12 | 🔴 march 2023|
 | 🔗 [magpie-nemotron](https://github.com/aratako/magpie-nemotron) | - | - | ⭐ 8 | 🔴 july 2024|
 | 🔗 [qlora_ja](https://github.com/sosuke115/qlora_ja) | - | - | ⭐ 1 | 🔴 july 2024|
-| 🔗 [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) | - | - | ⭐ 30 | 🟢 last wednesday|
-| 🔗 [shisa-v2](https://github.com/shisa-ai/shisa-v2) | - | - | ⭐ 32 | 🟡 december 2025|
+| 🔗 [mozcdic-ut-jawiki](https://github.com/utuhiro78/mozcdic-ut-jawiki) | - | - | ⭐ 31 | 🟢 july|
+| 🔗 [shisa-v2](https://github.com/shisa-ai/shisa-v2) | - | - | ⭐ 34 | 🟡 december 2025|
 | 🔗 [llm-translator](https://github.com/hpprc/llm-translator) | - | - | ⭐ 20 | 🔴 january 2025|
 | 🔗 [llm-jp-asr](https://github.com/tosiyuki/llm-jp-asr) | - | - | ⭐ 9 | 🔴 september 2024|
 | 🔗 [rag-japanese](https://github.com/akimfromparis/rag-japanese) | - | - | ⭐ 10 | 🔴 may 2025|
@@ -831,7 +837,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [jp-translate.cloud](https://github.com/matthewbieda/jp-translate.cloud) | - | - | ⭐ 3 | 🔴 september 2024|
 | 🔗 [substring-word-finder](https://github.com/toufu-24/substring-word-finder) | - | - | ⭐ 4 | 🟡 november 2025|
 | 🔗 [heron-vlm-leaderboard](https://github.com/wandb/heron-vlm-leaderboard) | - | - | ⭐ 6 | 🔴 december 2024|
-| 🔗 [text2dataset](https://github.com/llm-jp/text2dataset) | - | - | ⭐ 29 | 🔴 january 2025|
+| 🔗 [text2dataset](https://github.com/llm-jp/text2dataset) | - | - | ⭐ 30 | 🔴 january 2025|
 | 🔗 [mecab-web-api](https://github.com/bungoume/mecab-web-api) | - | - | ⭐ 40 | 🔴 july 2022|
 | 🔗 [mecab_controller](https://github.com/ajatt-tools/mecab_controller) | - | - | ⭐ 21 | 🟢 june|
 | 🔗 [vits](https://github.com/zassou65535/vits) | - | - | ⭐ 93 | 🔴 february 2023|
@@ -843,54 +849,54 @@ _Updated on Jul 14, 2026_
 | 🔗 [jatts](https://github.com/unilight/jatts) | - | - | ⭐ 43 | 🟡 march|
 | 🔗 [tsukasa-speech](https://github.com/respaired/tsukasa-speech) | - | - | ⭐ 65 | 🔴 may 2025|
 | 🔗 [symptom-expression-search](https://github.com/po3rin/symptom-expression-search) | - | - | ⭐ 2 | 🔴 february 2021|
-| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 43 | 🟡 december 2025|
+| 🔗 [llm-jp-judge](https://github.com/llm-jp/llm-jp-judge) | - | - | ⭐ 44 | 🟢 last wednesday|
 | 🔗 [asagi-vlm-colaboratory-sample](https://github.com/kazuhito00/asagi-vlm-colaboratory-sample) | - | - | ⭐ 1 | 🔴 march 2025|
-| 🔗 [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) | - | - | ⭐ 42 | 🟢 april|
-| 🔗 [manga109api](https://github.com/manga109/manga109api) | 📥 69 | 📦 48k | ⭐ 130 | 🔴 march 2022|
+| 🔗 [llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) | - | - | ⭐ 43 | 🟡 april|
+| 🔗 [manga109api](https://github.com/manga109/manga109api) | 📥 174 | 📦 48k | ⭐ 130 | 🔴 march 2022|
 | 🔗 [fastrtc-jp](https://github.com/route250/fastrtc-jp) | - | - | ⭐ 6 | 🔴 may 2025|
 | 🔗 [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) | - | - | ⭐ 19 | 🟡 january|
 | 🔗 [pocket-researcher](https://github.com/u-masao/pocket-researcher) | - | - | ⭐ 10 | 🔴 april 2025|
 | 🔗 [jtransbench](https://github.com/webbigdata-jp/jtransbench) | - | - | ⭐ 13 | 🟡 october 2025|
 | 🔗 [easyllasa](https://github.com/zuntan03/easyllasa) | - | - | ⭐ 26 | 🟡 september 2025|
-| 🔗 [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) | - | - | ⭐ 118 | 🟢 april|
+| 🔗 [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) | - | - | ⭐ 119 | 🟡 april|
 | 🔗 [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) | - | - | ⭐ 13 | 🟡 november 2025|
-| 🔗 [pitchbench](https://github.com/shewiiii/pitchbench) | - | - | ⭐ 1 | 🟡 february|
+| 🔗 [pitchbench](https://github.com/shewiiii/pitchbench) | - | - | ⭐ 2 | 🟡 february|
 | 🔗 [mini-transformer-from-scratch](https://github.com/zuofanf/mini-transformer-from-scratch) | - | - | ⭐ 2 | 🟡 november 2025|
 | 🔗 [vv_core_inference](https://github.com/hiroshiba/vv_core_inference) | - | - | ⭐ 31 | 🟡 december 2025|
-| 🔗 [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) | 📥 8k | 📦 567k | ⭐ 57 | 🟡 march|
+| 🔗 [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) | 📥 5k | 📦 575k | ⭐ 57 | 🟢 last friday|
 | 🔗 [japanese_spelling_correction](https://github.com/phkhanhtrinh23/japanese_spelling_correction) | - | - | ⭐ 14 | 🔴 september 2023|
-| 🔗 [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) | 📥 13 | 📦 38k | ⭐ 6 | 🔴 december 2018|
+| 🔗 [py-kaomoji](https://github.com/shibuiwilliam/py-kaomoji) | 📥 60 | 📦 38k | ⭐ 6 | 🔴 december 2018|
 | 🔗 [llm-jp-vila](https://github.com/llm-jp/llm-jp-vila) | - | - | ⭐ 10 | 🟡 august 2025|
 | 🔗 [kanjivg-radical](https://github.com/yagays/kanjivg-radical) | - | - | ⭐ 107 | 🔴 august 2018|
 | 🔗 [japanese-wordnet-visualization](https://github.com/HemingwayLee/japanese-wordnet-visualization) | - | - | ⭐ 3 | 🔴 november 2022|
-| 🔗 [piper-plus](https://github.com/ayutaz/piper-plus) | - | - | ⭐ 184 | 🟢 june|
-| 🔗 [Japanera](https://github.com/nagataaaas/Japanera) | 📥 4k | 📦 415k | ⭐ 35 | 🔴 june 2025|
+| 🔗 [piper-plus](https://github.com/ayutaz/piper-plus) | - | - | ⭐ 188 | 🟢 last tuesday|
+| 🔗 [Japanera](https://github.com/nagataaaas/Japanera) | 📥 3k | 📦 420k | ⭐ 35 | 🔴 june 2025|
 | 🔗 [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) | - | - | ⭐ 49 | 🔴 december 2019|
-| 🔗 [kyujipy](https://github.com/drturnon/kyujipy) | 📥 76 | 📦 24k | ⭐ 22 | 🟡 january|
+| 🔗 [kyujipy](https://github.com/drturnon/kyujipy) | 📥 78 | 📦 24k | ⭐ 22 | 🟡 january|
 | 🔗 [jitenbot](https://github.com/konstantindjairo/jitenbot) | - | - | ⭐ 4 | 🔴 december 2024|
 | 🔗 [ja-icd10](https://github.com/yagays/ja-icd10) | - | - | ⭐ 5 | 🔴 july 2021|
 | 🔗 [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) | - | - | ⭐ 14 | 🔴 december 2023|
 | 🔗 [ndc_predictor](https://github.com/ndl-lab/ndc_predictor) | - | - | ⭐ 14 | 🔴 august 2021|
 | 🔗 [pfmt-bench-fin-ja](https://github.com/pfnet-research/pfmt-bench-fin-ja) | - | - | ⭐ 9 | 🔴 march 2025|
-| 🔗 [marine-plus](https://github.com/tsukumijima/marine-plus) | 📥 65 | 📦 13k | ⭐ 9 | 🟡 march|
+| 🔗 [marine-plus](https://github.com/tsukumijima/marine-plus) | 📥 135 | 📦 13k | ⭐ 9 | 🟡 march|
 | 🔗 [ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark) | - | - | ⭐ 7 | 🔴 february 2022|
 | 🔗 [yat](https://github.com/yagays/yat) | - | - | ⭐ 7 | 🔴 june 2018|
 | 🔗 [igakuqa119](https://github.com/docto-rin/igakuqa119) | - | - | ⭐ 10 | 🔴 may 2025|
 | 🔗 [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) | - | - | ⭐ 6 | 🔴 december 2021|
 | 🔗 [ibus-jig](https://github.com/y-koj/ibus-jig) | - | - | ⭐ 4 | 🔴 december 2023|
-| 🔗 [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) | 📥 234 | 📦 7k | ⭐ 4 | 🟢 june|
+| 🔗 [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) | 📥 62 | 📦 7k | ⭐ 4 | 🟢 june|
 | 🔗 [yasumail](https://github.com/terallite/yasumail) | - | - | ⭐ 3 | 🟡 january|
-| 🔗 [himotoki](https://github.com/msr2903/himotoki) | 📥 82 | 📦 5k | ⭐ 5 | 🟡 february|
+| 🔗 [himotoki](https://github.com/msr2903/himotoki) | 📥 158 | 📦 6k | ⭐ 5 | 🟢 july|
 | 🔗 [diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit) | - | - | ⭐ 0 | 🟡 january|
 | 🔗 [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) | - | - | ⭐ 3 | 🟢 may|
 | 🔗 [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) | - | - | ⭐ 7 | 🔴 march 2025|
 | 🔗 [Novel2DialCorpus](https://github.com/ganbon/Novel2DialCorpus) | - | - | ⭐ 0 | 🟡 february|
-| 🔗 [OneCompression](https://github.com/FujitsuResearch/OneCompression) | - | - | ⭐ 396 | 🟢 last monday|
-| 🔗 [manga-translator](https://github.com/georgescutelnicu/manga-translator) | - | - | ⭐ 27 | 🟢 april|
-| 🔗 [shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) | - | - | ⭐ 0 | 🟢 last monday|
-| 🔗 [medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public) | - | - | ⭐ 19 | 🟢 april|
+| 🔗 [OneCompression](https://github.com/FujitsuResearch/OneCompression) | - | - | ⭐ 398 | 🟢 july|
+| 🔗 [manga-translator](https://github.com/georgescutelnicu/manga-translator) | - | - | ⭐ 27 | 🟡 april|
+| 🔗 [shirabe-address-api](https://github.com/techwell-inc-jp/shirabe-address-api) | - | - | ⭐ 0 | 🟢 last friday|
+| 🔗 [medical-paper-summarizer-public](https://github.com/yush02084/medical-paper-summarizer-public) | - | - | ⭐ 19 | 🟡 april|
 | 🔗 [Irodori-TTS](https://github.com/Aratako/Irodori-TTS) | - | - | ⭐ 1k | 🟢 june|
-| 🔗 [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) | - | - | ⭐ 77 | 🟢 june|
+| 🔗 [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) | - | - | ⭐ 79 | 🟢 june|
 | 🔗 [manga-translator](https://github.com/Detopall/manga-translator) | - | - | ⭐ 18 | 🟢 june|
 | 🔗 [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) | - | - | ⭐ 6 | 🟡 february|
 | 🔗 [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) | - | - | ⭐ 91 | 🟢 june|
@@ -898,7 +904,8 @@ _Updated on Jul 14, 2026_
 | 🔗 [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) | - | - | ⭐ 5 | 🟢 may|
 | 🔗 [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) | - | - | ⭐ 3 | 🟢 june|
 | 🔗 [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) | - | - | ⭐ 1 | 🟢 june|
-| 🔗 [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) | - | - | ⭐ 20 | 🟡 march|
+| 🔗 [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) | - | - | ⭐ 21 | 🟡 march|
+| 🔗 [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) | - | - | ⭐ 0 | 🟢 last friday|
 
 
 ## C++
@@ -915,7 +922,7 @@ _Updated on Jul 14, 2026_
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [mecab](https://github.com/taku910/mecab) | - | - | ⭐ 1.1k | 🔴 february 2025|
-| 🔗 [jumanpp](https://github.com/ku-nlp/jumanpp) | - | - | ⭐ 413 | 🟢 april|
+| 🔗 [jumanpp](https://github.com/ku-nlp/jumanpp) | - | - | ⭐ 414 | 🟡 april|
 | 🔗 [kytea](https://github.com/neubig/kytea) | - | - | ⭐ 213 | 🔴 april 2020|
 | 🔗 [juman](https://github.com/ku-nlp/juman) | - | - | ⭐ 12 | 🔴 december 2021|
 
@@ -947,11 +954,11 @@ _Updated on Jul 14, 2026_
 -|-|-|-|-
 | 🔗 [jsc](https://github.com/yohokuno/jsc) | - | - | ⭐ 15 | 🔴 december 2012|
 | 🔗 [aquaskk](https://github.com/codefirst/aquaskk) | - | - | ⭐ 372 | 🔴 july 2023|
-| 🔗 [mozc](https://github.com/google/mozc) | - | - | ⭐ 2.9k | 🟢 yesterday|
+| 🔗 [mozc](https://github.com/google/mozc) | - | - | ⭐ 2.9k | 🟢 last friday|
 | 🔗 [trimatch](https://github.com/tuem/trimatch) | - | - | ⭐ 2 | 🟡 february|
 | 🔗 [resembla](https://github.com/tuem/resembla) | - | - | ⭐ 74 | 🟡 august 2025|
-| 🔗 [corvusskk](https://github.com/nathancorvussolis/corvusskk) | - | - | ⭐ 371 | 🟢 last wednesday|
-| 🔗 [mozuku](https://github.com/t3tra-dev/mozuku) | - | - | ⭐ 419 | 🟢 april|
+| 🔗 [corvusskk](https://github.com/nathancorvussolis/corvusskk) | - | - | ⭐ 371 | 🟢 july|
+| 🔗 [mozuku](https://github.com/t3tra-dev/mozuku) | - | - | ⭐ 418 | 🟡 april|
 
 
 ## Rust crate
@@ -972,10 +979,10 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [lindera](https://github.com/lindera-morphology/lindera) | - | 📦 1.5M | ⭐ 644 | 🟢 june|
-| 🔗 [vaporetto](https://github.com/daac-tools/vaporetto) | - | 📦 256k | ⭐ 293 | 🟡 february|
+| 🔗 [lindera](https://github.com/lindera-morphology/lindera) | - | 📦 1.6M | ⭐ 644 | 🟢 today|
+| 🔗 [vaporetto](https://github.com/daac-tools/vaporetto) | - | 📦 260k | ⭐ 294 | 🟢 today|
 | 🔗 [goya](https://github.com/Leko/goya) | - | 📦 12k | ⭐ 84 | 🔴 december 2021|
-| 🔗 [vibrato](https://github.com/daac-tools/vibrato) | - | 📦 75k | ⭐ 414 | 🟡 february|
+| 🔗 [vibrato](https://github.com/daac-tools/vibrato) | - | 📦 77k | ⭐ 415 | 🟢 today|
 | 🔗 [yoin](https://github.com/agatan/yoin) | - | 📦 3.1k | ⭐ 26 | 🔴 october 2017|
 | 🔗 [mecab-rs](https://github.com/tsurai/mecab-rs) | - | 📦 41k | ⭐ 71 | 🔴 september 2023|
 | 🔗 [awabi](https://github.com/nakagami/awabi) | - | 📦 26k | ⭐ 11 | 🟡 november 2025|
@@ -999,15 +1006,15 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) | - | 📦 507k | ⭐ 90 | 🟢 may|
-| 🔗 [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) | - | 📦 67k | ⭐ 19 | 🔴 april 2020|
+| 🔗 [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) | - | 📦 520k | ⭐ 90 | 🟢 may|
+| 🔗 [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) | - | 📦 68k | ⭐ 19 | 🔴 april 2020|
 | 🔗 [kana](https://github.com/gbrlsnchs/kana) | - | - | ⭐ 12 | 🔴 january 2023|
 | 🔗 [kanaria](https://github.com/samunohito/kanaria) | - | - | ⭐ 21 | 🟡 february|
 | 🔗 [japanese-address-parser](https://github.com/yuukitoriyama/japanese-address-parser) | - | - | ⭐ 13 | 🟢 june|
-| 🔗 [yosina](https://github.com/yosina-lib/yosina) | - | - | ⭐ 26 | 🟢 april|
+| 🔗 [yosina](https://github.com/yosina-lib/yosina) | - | - | ⭐ 26 | 🟡 april|
 | 🔗 [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) | - | - | ⭐ 4 | 🔴 november 2022|
-| 🔗 [haqumei](https://github.com/o24s/haqumei) | - | - | ⭐ 5 | 🟢 today|
-| 🔗 [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) | - | - | ⭐ 18 | 🟢 last monday|
+| 🔗 [haqumei](https://github.com/o24s/haqumei) | - | - | ⭐ 5 | 🟢 july|
+| 🔗 [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) | - | - | ⭐ 18 | 🟢 july|
 
 
 ### Search engine library
@@ -1022,10 +1029,10 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) | - | 📦 203k | ⭐ 70 | 🟢 july|
-| 🔗 [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) | - | 📦 1.6k | ⭐ 3 | 🟢 april|
-| 🔗 [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) | - | - | ⭐ 19 | 🟢 april|
-| 🔗 [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) | - | - | ⭐ 11 | 🟢 april|
+| 🔗 [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) | - | 📦 207k | ⭐ 70 | 🟢 july|
+| 🔗 [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) | - | 📦 1.6k | ⭐ 3 | 🟡 april|
+| 🔗 [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) | - | - | ⭐ 19 | 🟡 april|
+| 🔗 [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) | - | - | ⭐ 11 | 🟡 april|
 | 🔗 [lindera-sqlite](https://github.com/lindera/lindera-sqlite) | - | - | ⭐ 21 | 🟡 january|
 
 
@@ -1058,27 +1065,27 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [daachorse](https://github.com/daac-tools/daachorse) | - | 📦 2.3M | ⭐ 268 | 🟢 today|
+| 🔗 [daachorse](https://github.com/daac-tools/daachorse) | - | 📦 2.6M | ⭐ 269 | 🟢 today|
 | 🔗 [find-simdoc](https://github.com/legalforce-research/find-simdoc) | - | 📦 29k | ⭐ 62 | 🔴 march 2025|
-| 🔗 [crawdad](https://github.com/daac-tools/crawdad) | - | 📦 81k | ⭐ 38 | 🔴 january 2025|
+| 🔗 [crawdad](https://github.com/daac-tools/crawdad) | - | 📦 82k | ⭐ 38 | 🔴 january 2025|
 | 🔗 [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) | - | - | ⭐ 4 | 🔴 march 2023|
 | 🔗 [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) | - | - | ⭐ 3 | 🔴 september 2022|
 | 🔗 [vime](https://github.com/algon-320/vime) | - | - | ⭐ 229 | 🔴 november 2022|
-| 🔗 [voicevox_core](https://github.com/VOICEVOX/voicevox_core) | - | - | ⭐ 1.1k | 🟢 june|
+| 🔗 [voicevox_core](https://github.com/VOICEVOX/voicevox_core) | - | - | ⭐ 1.1k | 🟢 yesterday|
 | 🔗 [akaza](https://github.com/akaza-im/akaza) | - | - | ⭐ 258 | 🟢 june|
 | 🔗 [Jotoba](https://github.com/WeDontPanic/Jotoba) | - | - | ⭐ 208 | 🔴 january 2024|
-| 🔗 [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) | - | - | ⭐ 57 | 🟡 february|
+| 🔗 [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) | - | - | ⭐ 58 | 🟢 last wednesday|
 | 🔗 [niinii](https://github.com/Netdex/niinii) | - | - | ⭐ 16 | 🟢 june|
-| 🔗 [cskk](https://github.com/naokiri/cskk) | - | - | ⭐ 84 | 🟢 today|
+| 🔗 [cskk](https://github.com/naokiri/cskk) | - | - | ⭐ 84 | 🟢 july|
 | 🔗 [japanki](https://github.com/tysonwu/japanki) | - | - | ⭐ 3 | 🔴 october 2023|
-| 🔗 [jpreprocess](https://github.com/jpreprocess/jpreprocess) | - | - | ⭐ 57 | 🟢 june|
+| 🔗 [jpreprocess](https://github.com/jpreprocess/jpreprocess) | - | - | ⭐ 58 | 🟢 june|
 | 🔗 [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) | - | - | ⭐ 7 | 🟢 july|
-| 🔗 [jisho](https://github.com/eagleflo/jisho) | - | - | ⭐ 18 | 🟢 april|
+| 🔗 [jisho](https://github.com/eagleflo/jisho) | - | - | ⭐ 18 | 🟡 april|
 | 🔗 [kanalizer](https://github.com/voicevox/kanalizer) | - | - | ⭐ 29 | 🟢 may|
-| 🔗 [koharu](https://github.com/mayocream/koharu) | - | - | ⭐ 4.9k | 🟢 today|
-| 🔗 [yomine](https://github.com/mcgrizzz/yomine) | - | - | ⭐ 56 | 🟢 today|
+| 🔗 [koharu](https://github.com/mayocream/koharu) | - | - | ⭐ 4.9k | 🟢 july|
+| 🔗 [yomine](https://github.com/mcgrizzz/yomine) | - | - | ⭐ 56 | 🟢 yesterday|
 | 🔗 [matsuba](https://github.com/mrpicklepinosaur/matsuba) | - | - | ⭐ 19 | 🔴 march 2023|
-| 🔗 [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) | - | - | ⭐ 71 | 🟢 july|
+| 🔗 [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) | - | - | ⭐ 72 | 🟢 july|
 | 🔗 [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) | - | - | ⭐ 1 | 🟢 may|
 
 
@@ -1096,11 +1103,11 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [kuromoji.js](https://github.com/takuyaa/kuromoji.js) | 📥 283k/week | 📦 10M | ⭐ 992 | 🔴 november 2018|
-| 🔗 [rakutenma](https://github.com/rakuten-nlp/rakutenma) | 📥 19/week | 📦 1k | ⭐ 472 | 🔴 january 2015|
-| 🔗 [node-mecab-ya](https://github.com/golbin/node-mecab-ya) | 📥 54/week | 📦 7.7k | ⭐ 110 | 🔴 repo not found|
-| 🔗 [juman-bin](https://github.com/thammin/juman-bin) | 📥 33/week | 📦 457 | ⭐ 3 | 🔴 may 2017|
-| 🔗 [node-mecab-async](https://github.com/hecomi/node-mecab-async) | 📥 2.8k/week | 📦 331k | ⭐ 104 | 🔴 october 2017|
+| 🔗 [kuromoji.js](https://github.com/takuyaa/kuromoji.js) | 📥 319k/week | 📦 11M | ⭐ 993 | 🔴 november 2018|
+| 🔗 [rakutenma](https://github.com/rakuten-nlp/rakutenma) | 📥 13/week | 📦 1.1k | ⭐ 472 | 🔴 january 2015|
+| 🔗 [node-mecab-ya](https://github.com/golbin/node-mecab-ya) | 📥 50/week | 📦 7.6k | ⭐ 110 | 🔴 june 2021|
+| 🔗 [juman-bin](https://github.com/thammin/juman-bin) | 📥 3/week | 📦 447 | ⭐ 3 | 🔴 may 2017|
+| 🔗 [node-mecab-async](https://github.com/hecomi/node-mecab-async) | 📥 4.3k/week | 📦 332k | ⭐ 104 | 🔴 october 2017|
 
 
 ### Converter
@@ -1120,24 +1127,27 @@ _Updated on Jul 14, 2026_
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全國的地址數據API
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - 將文字單詞轉換為表情符號
  * [japanese.js](https://github.com/hakatashi/japanese.js) - 用於日文文本處理的Util集合。將平假名化、片假名化和羅馬化。
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - 關於原始人🗿| 面向Claude Code / Codex等AI代理人的超壓縮溝通技巧。基於caveman的日文版本，最佳化日文特有的冗長表達。
+genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [kuroshiro](https://github.com/hexenq/kuroshiro) | 📥 16k/week | 📦 655k | ⭐ 980 | 🔴 june 2021|
-| 🔗 [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) | 📥 12k/week | 📦 626k | ⭐ 72 | 🔴 august 2018|
-| 🔗 [hepburn](https://github.com/lovell/hepburn) | 📥 66k/week | 📦 6M | ⭐ 131 | 🟢 july|
-| 🔗 [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) | 📥 92k/week | 📦 2.6M | ⭐ 59 | 🔴 february 2023|
-| 🔗 [jslingua](https://github.com/kariminf/jslingua) | 📥 154/week | 📦 9.6k | ⭐ 53 | 🔴 october 2023|
-| 🔗 [WanaKana](https://github.com/WaniKani/WanaKana) | 📥 81k/week | 📦 2.8M | ⭐ 926 | 🟢 june|
-| 🔗 [node-romaji-name](https://github.com/jeresig/node-romaji-name) | 📥 469/week | 📦 20k | ⭐ 41 | 🔴 december 2023|
-| 🔗 [kyujitai.js](https://github.com/hakatashi/kyujitai.js) | 📥 161/week | 📦 1.7k | ⭐ 23 | 🔴 august 2020|
-| 🔗 [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) | - | - | ⭐ 957 | 🟡 july 2025|
+| 🔗 [kuroshiro](https://github.com/hexenq/kuroshiro) | 📥 22k/week | 📦 676k | ⭐ 985 | 🔴 june 2021|
+| 🔗 [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) | 📥 22k/week | 📦 647k | ⭐ 72 | 🔴 august 2018|
+| 🔗 [hepburn](https://github.com/lovell/hepburn) | 📥 87k/week | 📦 6.1M | ⭐ 131 | 🟢 last wednesday|
+| 🔗 [japanese-numerals-to-number](https://github.com/twada/japanese-numerals-to-number) | 📥 106k/week | 📦 2.7M | ⭐ 59 | 🔴 february 2023|
+| 🔗 [jslingua](https://github.com/kariminf/jslingua) | 📥 228/week | 📦 9.8k | ⭐ 53 | 🔴 october 2023|
+| 🔗 [WanaKana](https://github.com/WaniKani/WanaKana) | 📥 96k/week | 📦 2.9M | ⭐ 928 | 🟢 june|
+| 🔗 [node-romaji-name](https://github.com/jeresig/node-romaji-name) | 📥 266/week | 📦 20k | ⭐ 41 | 🔴 december 2023|
+| 🔗 [kyujitai.js](https://github.com/hakatashi/kyujitai.js) | 📥 115/week | 📦 1.8k | ⭐ 23 | 🔴 august 2020|
+| 🔗 [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) | - | - | ⭐ 957 | 🔴 july 2025|
 | 🔗 [jaconv](https://github.com/kazuhikoarase/jaconv) | - | - | ⭐ 88 | 🔴 june 2025|
 | 🔗 [romaji-conv](https://github.com/koozaki/romaji-conv) | - | - | ⭐ 26 | 🟡 february|
 | 🔗 [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) | - | - | ⭐ 74 | 🔴 january 2025|
 | 🔗 [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) | - | - | ⭐ 1 | 🟢 june|
 | 🔗 [japanese.js](https://github.com/hakatashi/japanese.js) | - | - | ⭐ 167 | 🔴 august 2020|
+| 🔗 [genshijin](https://github.com/interfacex-co-jp/genshijin) | - | - | ⭐ 263 | 🟢 may|
 
 
 ### Others
@@ -1167,34 +1177,36 @@ _Updated on Jul 14, 2026_
  * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - 瀏覽器擴充功能（Chrome/Edge/Firefox），可按需將振假名注入日文網頁；包括詞典工具提示、JLPT篩選和詞彙/Anki導出。
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - 酢橘的同義詞詞典
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本增強版的qmd - Vaporetto WASM形態標記分詞器，用於準確的日本BM25搜索
+ * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - 官方TypeScript SDK為Shirabe日本數據API提供支持 - 預製的Vercel AI SDK / LangChain工具，用於日本姓名拆分/閱讀、地址規範化、企業編號查找和日曆（六曜）。核心部分無運行時依賴。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [bangumi-data](https://github.com/bangumi-data/bangumi-data) | 📥 793/week | 📦 60k | ⭐ 625 | 🟢 last monday|
+| 🔗 [bangumi-data](https://github.com/bangumi-data/bangumi-data) | 📥 835/week | 📦 60k | ⭐ 628 | 🟢 last saturday|
 | 🔗 [yomichan](https://github.com/FooSoft/yomichan) | - | - | ⭐ 1.1k | 🔴 february 2023|
 | 🔗 [proofreading-tool](https://github.com/gecko655/proofreading-tool) | - | - | ⭐ 87 | 🟡 october 2025|
 | 🔗 [kanjigrid](https://github.com/minosvasilias/kanjigrid) | - | - | ⭐ 45 | 🔴 november 2018|
 | 🔗 [japanese-toolkit](https://github.com/echamudi/japanese-toolkit) | - | - | ⭐ 64 | 🔴 january 2023|
-| 🔗 [analyze-desumasu-dearu](https://github.com/textlint-ja/analyze-desumasu-dearu) | 📥 194k/week | 📦 5.9M | ⭐ 18 | 🟢 april|
-| 🔗 [hatsuon](https://github.com/DJTB/hatsuon) | 📥 38/week | 📦 1.5k | ⭐ 38 | 🔴 march 2022|
+| 🔗 [analyze-desumasu-dearu](https://github.com/textlint-ja/analyze-desumasu-dearu) | 📥 229k/week | 📦 6.1M | ⭐ 18 | 🟡 april|
+| 🔗 [hatsuon](https://github.com/DJTB/hatsuon) | 📥 431/week | 📦 1.9k | ⭐ 38 | 🔴 march 2022|
 | 🔗 [sentiment_ja_js](https://github.com/otodn/sentiment_ja_js) | - | - | ⭐ 10 | 🔴 december 2021|
-| 🔗 [mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed) | 📥 195/week | 📦 7k | ⭐ 8 | 🔴 july 2016|
-| 🔗 [Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day) | 📥 7/week | 📦 315 | ⭐ repo not found | 🔴 repo not found|
+| 🔗 [mecab-ipadic-seed](https://github.com/takuyaa/mecab-ipadic-seed) | 📥 306/week | 📦 7.3k | ⭐ 8 | 🔴 july 2016|
+| 🔗 [Japanese-Word-Of-The-Day](https://github.com/LuanRT/Japanese-Word-Of-The-Day) | 📥 1/week | 📦 311 | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [oskim](https://github.com/esrille/oskim) | - | - | ⭐ 2 | 🔴 february 2023|
 | 🔗 [tweetMapping](https://github.com/wtnv-lab/tweetMapping) | - | - | ⭐ 27 | 🟡 march|
-| 🔗 [pitch-accent](https://github.com/shirakaba/pitch-accent) | 📥 6/week | 📦 169 | ⭐ 2 | 🔴 september 2023|
+| 🔗 [pitch-accent](https://github.com/shirakaba/pitch-accent) | 📥 0/week | 📦 171 | ⭐ 2 | 🔴 september 2023|
 | 🔗 [kana2ipa](https://github.com/amanoese/kana2ipa) | - | - | ⭐ 19 | 🔴 october 2020|
-| 🔗 [voicevox](https://github.com/VOICEVOX/voicevox) | - | - | ⭐ 3.2k | 🟢 last thursday|
-| 🔗 [kamiya-codec](https://github.com/fasiha/kamiya-codec) | - | - | ⭐ 25 | 🔴 may 2025|
+| 🔗 [voicevox](https://github.com/VOICEVOX/voicevox) | - | - | ⭐ 3.2k | 🟢 last wednesday|
+| 🔗 [kamiya-codec](https://github.com/fasiha/kamiya-codec) | - | - | ⭐ 26 | 🔴 may 2025|
 | 🔗 [closewords](https://github.com/otoneko1102/closewords) | - | - | ⭐ 5 | 🟢 may|
-| 🔗 [japanese-analyzer](https://github.com/cokice/japanese-analyzer) | - | - | ⭐ 766 | 🟢 july|
+| 🔗 [japanese-analyzer](https://github.com/cokice/japanese-analyzer) | - | - | ⭐ 777 | 🟢 july|
 | 🔗 [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) | - | - | ⭐ 6 | 🔴 july 2024|
-| 🔗 [yama](https://github.com/sapjax/yama) | - | - | ⭐ 8 | 🟡 february|
-| 🔗 [kaitai](https://github.com/compile10/kaitai) | - | - | ⭐ 1 | 🟢 june|
-| 🔗 [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) | - | - | ⭐ 1 | 🟢 may|
+| 🔗 [yama](https://github.com/sapjax/yama) | - | - | ⭐ 7 | 🟡 february|
+| 🔗 [kaitai](https://github.com/compile10/kaitai) | - | - | ⭐ 1 | 🟢 yesterday|
+| 🔗 [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) | - | - | ⭐ 3 | 🟢 may|
 | 🔗 [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) | - | - | ⭐ 15 | 🟢 may|
-| 🔗 [qmd-ja](https://github.com/joycodetech/qmd-ja) | - | - | ⭐ 2 | 🟢 june|
+| 🔗 [qmd-ja](https://github.com/joycodetech/qmd-ja) | - | - | ⭐ 3 | 🟢 june|
+| 🔗 [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) | - | - | ⭐ 0 | 🟢 last friday|
 
 
 ## Go
@@ -1207,7 +1219,7 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [kagome](https://github.com/ikawaha/kagome) | - | - | ⭐ 973 | 🟢 last sunday|
+| 🔗 [kagome](https://github.com/ikawaha/kagome) | - | - | ⭐ 974 | 🟢 last friday|
 
 
 ### Others
@@ -1225,11 +1237,11 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [ojosama](https://github.com/jiro4989/ojosama) | - | - | ⭐ 387 | 🟢 last wednesday|
+| 🔗 [ojosama](https://github.com/jiro4989/ojosama) | - | - | ⭐ 386 | 🟢 last thursday|
 | 🔗 [nihongo](https://github.com/gojp/nihongo) | - | - | ⭐ 83 | 🟢 june|
 | 🔗 [yomichan-import](https://github.com/FooSoft/yomichan-import) | - | - | ⭐ 88 | 🔴 february 2023|
 | 🔗 [imas-ime-dic](https://github.com/maruamyu/imas-ime-dic) | - | - | ⭐ 32 | 🟡 january|
-| 🔗 [go-kakasi](https://github.com/sarumaj/go-kakasi) | - | - | ⭐ 6 | 🟢 june|
+| 🔗 [go-kakasi](https://github.com/sarumaj/go-kakasi) | - | - | ⭐ 6 | 🟢 last saturday|
 | 🔗 [go-moji](https://github.com/ktnyt/go-moji) | - | - | ⭐ 21 | 🔴 april 2019|
 | 🔗 [ojichat](https://github.com/greymd/ojichat) | - | - | ⭐ 1.3k | 🔴 october 2024|
 | 🔗 [name](https://github.com/kuniwak/name) | - | - | ⭐ 11 | 🔴 january 2025|
@@ -1248,9 +1260,9 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [kuromoji](https://github.com/atilika/kuromoji) | - | - | ⭐ 1k | 🔴 september 2019|
-| 🔗 [Sudachi](https://github.com/WorksApplications/Sudachi) | - | - | ⭐ 984 | 🟢 may|
-| 🔗 [SudachiDict](https://github.com/WorksApplications/SudachiDict) | - | - | ⭐ 299 | 🟢 april|
+| 🔗 [kuromoji](https://github.com/atilika/kuromoji) | - | - | ⭐ 1.1k | 🔴 september 2019|
+| 🔗 [Sudachi](https://github.com/WorksApplications/Sudachi) | - | - | ⭐ 988 | 🟢 last tuesday|
+| 🔗 [SudachiDict](https://github.com/WorksApplications/SudachiDict) | - | - | ⭐ 301 | 🟡 april|
 | 🔗 [meval](https://github.com/teru-oka-1933/meval) | - | - | ⭐ 7 | 🔴 august 2019|
 
 
@@ -1273,7 +1285,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) | - | - | ⭐ 204 | 🔴 may 2021|
 | 🔗 [jakaroma](https://github.com/nicolas-raoul/jakaroma) | - | - | ⭐ 70 | 🔴 june 2025|
 | 🔗 [kakasi-java](https://github.com/nicolas-raoul/kakasi-java) | - | - | ⭐ 56 | 🔴 april 2016|
-| 🔗 [Kamite](https://github.com/fauu/Kamite) | - | - | ⭐ 139 | 🔴 march 2025|
+| 🔗 [Kamite](https://github.com/fauu/Kamite) | - | - | ⭐ 141 | 🔴 march 2025|
 | 🔗 [react-native-japanese-tokenizer](https://github.com/craftzdog/react-native-japanese-tokenizer) | - | - | ⭐ 39 | 🔴 june 2023|
 | 🔗 [elasticsearch-analysis-japanese](https://github.com/suguru/elasticsearch-analysis-japanese) | - | - | ⭐ 29 | 🔴 march 2012|
 | 🔗 [moji4j](https://github.com/andree-surya/moji4j) | - | - | ⭐ 34 | 🔴 june 2022|
@@ -1299,10 +1311,10 @@ _Updated on Jul 14, 2026_
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) | - | - | ⭐ 87 | 🔴 august 2020|
-| 🔗 [chiVe](https://github.com/WorksApplications/chiVe) | - | - | ⭐ 176 | 🔴 march 2024|
+| 🔗 [chiVe](https://github.com/WorksApplications/chiVe) | - | - | ⭐ 177 | 🔴 march 2024|
 | 🔗 [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) | - | - | ⭐ 4 | 🔴 october 2019|
 | 🔗 [embedrank](https://github.com/yagays/embedrank) | - | - | ⭐ 48 | 🔴 march 2019|
-| 🔗 [aovec](https://github.com/eggplants/aovec) | 📥 69 | 📦 85k | ⭐ 3 | 🔴 january 2023|
+| 🔗 [aovec](https://github.com/eggplants/aovec) | 📥 174 | 📦 86k | ⭐ 3 | 🔴 january 2023|
 | 🔗 [dependency-based-japanese-word-embeddings](https://github.com/lapras-inc/dependency-based-japanese-word-embeddings) | - | - | ⭐ 8 | 🔴 august 2019|
 | 🔗 [jawikivec](https://github.com/wikiwikification/jawikivec) | - | - | ⭐ 2 | 🔴 november 2018|
 | 🔗 [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) | - | - | ⭐ 11 | 🔴 may 2020|
@@ -1355,9 +1367,9 @@ _Updated on Jul 14, 2026_
 | 🔗 [bert-japanese](https://github.com/cl-tohoku/bert-japanese) | - | - | ⭐ 548 | 🔴 march 2024|
 | 🔗 [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [bert-japanese](https://github.com/yoheikikuta/bert-japanese) | - | - | ⭐ 498 | 🔴 february 2021|
-| 🔗 [SudachiTra](https://github.com/WorksApplications/SudachiTra) | 📥 1k | 📦 204k | ⭐ 80 | 🔴 december 2023|
+| 🔗 [SudachiTra](https://github.com/WorksApplications/SudachiTra) | 📥 524 | 📦 204k | ⭐ 80 | 🔴 december 2023|
 | 🔗 [japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) | - | - | ⭐ 246 | 🔴 june 2023|
-| 🔗 [shiba](https://github.com/octanove/shiba) | 📥 65 | 📦 9k | ⭐ 89 | 🔴 november 2023|
+| 🔗 [shiba](https://github.com/octanove/shiba) | 📥 81 | 📦 9k | ⭐ 89 | 🔴 november 2023|
 | 🔗 [Dialog](https://github.com/reppy4620/Dialog) | - | - | ⭐ 72 | 🔴 october 2020|
 | 🔗 [language-pretraining](https://github.com/retarfi/language-pretraining) | - | - | ⭐ 50 | 🔴 may 2023|
 | 🔗 [medbertjp](https://github.com/ou-medinfo/medbertjp) | - | - | ⭐ 13 | 🔴 november 2020|
@@ -1375,7 +1387,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [gpt-ja](https://github.com/colorfulscoop/gpt-ja) | - | - | ⭐ 3 | 🔴 september 2021|
 | 🔗 [friendly_JA-Model](https://github.com/astremo/friendly_JA-Model) | - | - | ⭐ 1 | 🔴 may 2022|
 | 🔗 [albert-japanese](https://github.com/alinear-corp/albert-japanese) | - | - | ⭐ 33 | 🔴 october 2021|
-| 🔗 [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) | - | - | ⭐ 115 | 🔴 november 2018|
+| 🔗 [ja_text_bert](https://github.com/Kosuke-Szk/ja_text_bert) | - | - | ⭐ 114 | 🔴 november 2018|
 | 🔗 [DistilBERT-base-jp](https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp) | - | - | ⭐ 161 | 🔴 april 2020|
 | 🔗 [bert](https://github.com/informatix-inc/bert) | - | - | ⭐ 28 | 🔴 april 2022|
 | 🔗 [Laboro-DistilBERT-Japanese](https://github.com/laboroai/Laboro-DistilBERT-Japanese) | - | - | ⭐ 16 | 🔴 december 2020|
@@ -1424,7 +1436,7 @@ _Updated on Jul 14, 2026_
 -|-|-|-|-
 | 🔗 [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) | - | - | ⭐ 15 | 🔴 march 2023|
 | 🔗 [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) | - | - | ⭐ 5 | 🔴 march 2023|
-| 🔗 [wanna](https://github.com/hirokidaichi/wanna) | 📥 30 | 📦 21k | ⭐ 142 | 🔴 april 2023|
+| 🔗 [wanna](https://github.com/hirokidaichi/wanna) | 📥 53 | 📦 21k | ⭐ 142 | 🔴 april 2023|
 | 🔗 [ChatdollKit](https://github.com/uezo/ChatdollKit) | - | - | ⭐ 1.2k | 🟡 march|
 | 🔗 [ChuanhuChatGPTJapanese](https://github.com/gyokuro33/ChuanhuChatGPTJapanese) | - | - | ⭐ 1 | 🔴 march 2023|
 | 🔗 [AISisterAIChan](https://github.com/manju-summoner/AISisterAIChan) | - | - | ⭐ 27 | 🔴 may 2023|
@@ -1433,19 +1445,19 @@ _Updated on Jul 14, 2026_
 | 🔗 [openai-chatfriend](https://github.com/supershaneski/openai-chatfriend) | - | - | ⭐ 16 | 🔴 april 2023|
 | 🔗 [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) | - | - | ⭐ 1 | 🔴 april 2023|
 | 🔗 [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) | - | - | ⭐ 46 | 🔴 december 2023|
-| 🔗 [chatvrm](https://github.com/pixiv/chatvrm) | - | - | ⭐ 846 | 🔴 may 2025|
+| 🔗 [chatvrm](https://github.com/pixiv/chatvrm) | - | - | ⭐ 847 | 🔴 may 2025|
 | 🔗 [sftly-replace](https://github.com/kmizu/sftly-replace) | - | - | ⭐ 4 | 🔴 may 2023|
 | 🔗 [summarize_arxv](https://github.com/rkmt/summarize_arxv) | - | - | ⭐ 173 | 🔴 may 2023|
-| 🔗 [aiavatarkit](https://github.com/uezo/aiavatarkit) | - | - | ⭐ 639 | 🟢 july|
+| 🔗 [aiavatarkit](https://github.com/uezo/aiavatarkit) | - | - | ⭐ 645 | 🟢 today|
 | 🔗 [pva-aoai-integration-solution](https://github.com/City-of-Kobe/pva-aoai-integration-solution) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) | - | - | ⭐ 279 | 🟡 march|
-| 🔗 [character_chat](https://github.com/mutaguchi/character_chat) | - | - | ⭐ 16 | 🔴 june 2023|
+| 🔗 [character_chat](https://github.com/mutaguchi/character_chat) | - | - | ⭐ 17 | 🔴 june 2023|
 | 🔗 [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) | - | - | ⭐ 64 | 🔴 july 2024|
-| 🔗 [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) | - | - | ⭐ 431 | 🟢 june|
+| 🔗 [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) | - | - | ⭐ 431 | 🟢 july|
 | 🔗 [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) | - | - | ⭐ 6 | 🔴 october 2023|
-| 🔗 [IgakuQA](https://github.com/jungokasai/IgakuQA) | - | - | ⭐ 51 | 🔴 march 2023|
+| 🔗 [IgakuQA](https://github.com/jungokasai/IgakuQA) | - | - | ⭐ 52 | 🔴 march 2023|
 | 🔗 [japagen](https://github.com/retrieva/japagen) | - | - | ⭐ 1 | 🔴 october 2024|
-| 🔗 [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) | - | - | ⭐ 431 | 🟢 june|
+| 🔗 [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) | - | - | ⭐ 431 | 🟢 july|
 
 
 ## Dictionary and IME
@@ -1544,51 +1556,51 @@ _Updated on Jul 14, 2026_
 -|-|-|-|-
 | 🔗 [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) | - | - | ⭐ 2.8k | 🔴 september 2020|
 | 🔗 [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) | - | - | ⭐ 126 | 🔴 march 2024|
-| 🔗 [jamdict](https://github.com/neocl/jamdict) | 📥 1k | 📦 66k | ⭐ 169 | 🔴 june 2021|
-| 🔗 [unidic-py](https://github.com/polm/unidic-py) | 📥 72k | 📦 11M | ⭐ 111 | 🔴 february 2025|
+| 🔗 [jamdict](https://github.com/neocl/jamdict) | 📥 1k | 📦 68k | ⭐ 169 | 🔴 june 2021|
+| 🔗 [unidic-py](https://github.com/polm/unidic-py) | 📥 85k | 📦 11M | ⭐ 111 | 🔴 february 2025|
 | 🔗 [Japanese-Company-Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon) | - | - | ⭐ 99 | 🔴 january 2023|
 | 🔗 [manbyo-sudachi](https://github.com/yagays/manbyo-sudachi) | - | - | ⭐ 7 | 🔴 april 2021|
-| 🔗 [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) | - | - | ⭐ 62 | 🟢 last wednesday|
+| 🔗 [jawiki-kana-kanji-dict](https://github.com/tokuhirom/jawiki-kana-kanji-dict) | - | - | ⭐ 65 | 🟢 july|
 | 🔗 [JIWC-Dictionary](https://github.com/sociocom/JIWC-Dictionary) | - | - | ⭐ 40 | 🔴 january 2021|
 | 🔗 [JumanDIC](https://github.com/ku-nlp/JumanDIC) | - | - | ⭐ 4 | 🔴 august 2022|
-| 🔗 [ipadic-py](https://github.com/polm/ipadic-py) | 📥 35k | 📦 7M | ⭐ 24 | 🔴 october 2021|
-| 🔗 [unidic-lite](https://github.com/polm/unidic-lite) | 📥 87k | 📦 11M | ⭐ 51 | 🔴 september 2020|
-| 🔗 [emoji-ime-dictionary](https://github.com/peaceiris/emoji-ime-dictionary) | - | - | ⭐ 371 | 🟢 may|
+| 🔗 [ipadic-py](https://github.com/polm/ipadic-py) | 📥 42k | 📦 7M | ⭐ 24 | 🔴 october 2021|
+| 🔗 [unidic-lite](https://github.com/polm/unidic-lite) | 📥 94k | 📦 11M | ⭐ 52 | 🔴 september 2020|
+| 🔗 [emoji-ime-dictionary](https://github.com/peaceiris/emoji-ime-dictionary) | - | - | ⭐ 373 | 🟢 may|
 | 🔗 [google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary) | - | - | ⭐ 107 | 🟢 may|
 | 🔗 [dic-nico-intersection-pixiv](https://github.com/ncaq/dic-nico-intersection-pixiv) | - | - | ⭐ 97 | 🔴 september 2024|
-| 🔗 [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) | - | - | ⭐ 59 | 🔴 december 2016|
+| 🔗 [google-ime-user-dictionary-ja-en](https://github.com/KEINOS/google-ime-user-dictionary-ja-en) | - | - | ⭐ 60 | 🔴 december 2016|
 | 🔗 [emoticon](https://github.com/tiwanari/emoticon) | - | - | ⭐ 46 | 🔴 may 2020|
 | 🔗 [mecab-mozcdic](https://github.com/akirakubo/mecab-mozcdic) | - | - | ⭐ 10 | 🔴 january 2018|
 | 🔗 [denonbu-ime-dic](https://github.com/albno273/denonbu-ime-dic) | - | - | ⭐ 2 | 🔴 november 2022|
 | 🔗 [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) | - | - | ⭐ 39 | 🟢 may|
 | 🔗 [pokemon-ime-dic](https://github.com/Umichang/pokemon-ime-dic) | - | - | ⭐ 0 | 🔴 january 2020|
-| 🔗 [EJDict](https://github.com/kujirahand/EJDict) | - | - | ⭐ 264 | 🟢 june|
+| 🔗 [EJDict](https://github.com/kujirahand/EJDict) | - | - | ⭐ 266 | 🟢 june|
 | 🔗 [Ayashiy-Nipongo-Dic](https://github.com/Rinrin0413/Ayashiy-Nipongo-Dic) | - | - | ⭐ 24 | 🔴 may 2024|
 | 🔗 [genshin-dict](https://github.com/kotofurumiya/genshin-dict) | - | - | ⭐ 130 | 🟢 may|
-| 🔗 [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) | - | - | ⭐ 377 | 🟢 last monday|
-| 🔗 [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) | - | - | ⭐ 71 | 🟢 may|
+| 🔗 [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) | - | - | ⭐ 380 | 🟢 today|
+| 🔗 [mozcdict-ext](https://github.com/reasonset/mozcdict-ext) | - | - | ⭐ 72 | 🟢 may|
 | 🔗 [mh-dict-jp](https://github.com/utubo/mh-dict-jp) | - | - | ⭐ 5 | 🔴 april 2025|
 | 🔗 [jitenbot](https://github.com/stephenmk/jitenbot) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd) | - | - | ⭐ 88 | 🔴 september 2020|
 | 🔗 [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) | - | - | ⭐ 25 | 🔴 december 2024|
-| 🔗 [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) | - | - | ⭐ 296 | 🟢 may|
-| 🔗 [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) | - | - | ⭐ 137 | 🟡 august 2025|
-| 🔗 [Jitendex](https://github.com/stephenmk/Jitendex) | - | - | ⭐ 507 | 🟢 july|
-| 🔗 [jiten](https://github.com/obfusk/jiten) | - | - | ⭐ 131 | 🔴 december 2023|
-| 🔗 [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) | - | - | ⭐ 63 | 🟡 march|
+| 🔗 [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) | - | - | ⭐ 301 | 🟢 may|
+| 🔗 [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) | - | - | ⭐ 138 | 🟡 august 2025|
+| 🔗 [Jitendex](https://github.com/stephenmk/Jitendex) | - | - | ⭐ 513 | 🟢 july|
+| 🔗 [jiten](https://github.com/obfusk/jiten) | - | - | ⭐ 132 | 🔴 december 2023|
+| 🔗 [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) | - | - | ⭐ 64 | 🟡 march|
 | 🔗 [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) | - | - | ⭐ 4 | 🟢 may|
-| 🔗 [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) | - | - | ⭐ 854 | 🟡 march|
+| 🔗 [yomitan-dictionaries](https://github.com/marvnc/yomitan-dictionaries) | - | - | ⭐ 862 | 🟡 march|
 | 🔗 [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) | - | - | ⭐ 72 | 🔴 january 2020|
 | 🔗 [jisyo](https://github.com/skk-dict/jisyo) | - | - | ⭐ 28 | 🔴 september 2023|
 | 🔗 [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) | - | - | ⭐ 30 | 🔴 march 2018|
 | 🔗 [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) | - | - | ⭐ 7 | 🔴 november 2019|
 | 🔗 [cl-skkserv](https://github.com/tani/cl-skkserv) | - | - | ⭐ 32 | 🔴 october 2024|
 | 🔗 [anthy](https://github.com/xorgy/anthy) | - | - | ⭐ 5 | 🔴 july 2013|
-| 🔗 [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) | - | - | ⭐ 45 | 🟡 march|
-| 🔗 [azooKey](https://github.com/azooKey/azooKey) | - | - | ⭐ 744 | 🟢 may|
-| 🔗 [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) | - | - | ⭐ 968 | 🟢 june|
-| 🔗 [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) | - | - | ⭐ 221 | 🟡 february|
-| 🔗 [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) | - | - | ⭐ 24 | 🟢 last wednesday|
+| 🔗 [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) | - | - | ⭐ 44 | 🟡 march|
+| 🔗 [azooKey](https://github.com/azooKey/azooKey) | - | - | ⭐ 750 | 🟢 today|
+| 🔗 [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) | - | - | ⭐ 973 | 🟢 june|
+| 🔗 [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) | - | - | ⭐ 222 | 🟡 february|
+| 🔗 [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) | - | - | ⭐ 24 | 🟢 july|
 | 🔗 [AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) | - | - | ⭐ 150 | 🟢 may|
 | 🔗 [libkkc](https://github.com/ueno/libkkc) | - | - | ⭐ 114 | 🔴 august 2024|
 | 🔗 [libskk](https://github.com/ueno/libskk) | - | - | ⭐ 101 | 🟢 june|
@@ -1599,35 +1611,35 @@ _Updated on Jul 14, 2026_
 | 🔗 [Kaomoji_proj](https://github.com/mtripg6666tdr/Kaomoji_proj) | - | - | ⭐ 11 | 🟡 october 2025|
 | 🔗 [kotlin-kana-kanji-converter](https://github.com/KazumaProject/kotlin-kana-kanji-converter) | - | - | ⭐ 6 | 🟢 today|
 | 🔗 [alfred-japanese-dictionary](https://github.com/chrisgrieser/alfred-japanese-dictionary) | - | - | ⭐ 7 | 🟢 june|
-| 🔗 [ichiran](https://github.com/tshatrov/ichiran) | - | - | ⭐ 399 | 🟢 july|
+| 🔗 [ichiran](https://github.com/tshatrov/ichiran) | - | - | ⭐ 400 | 🟢 july|
 | 🔗 [mikan](https://github.com/mojyack/mikan) | - | - | ⭐ 24 | 🔴 june 2025|
 | 🔗 [colloquial-kansai-dictionary](https://github.com/sethclydesdale/colloquial-kansai-dictionary) | - | - | ⭐ 9 | 🟢 june|
-| 🔗 [jisho-open](https://github.com/hlorenzi/jisho-open) | - | - | ⭐ 64 | 🟢 april|
-| 🔗 [macskk](https://github.com/mtgto/macskk) | - | - | ⭐ 305 | 🟢 yesterday|
+| 🔗 [jisho-open](https://github.com/hlorenzi/jisho-open) | - | - | ⭐ 64 | 🟢 today|
+| 🔗 [macskk](https://github.com/mtgto/macskk) | - | - | ⭐ 305 | 🟢 today|
 | 🔗 [nandoku](https://github.com/marmooo/nandoku) | - | - | ⭐ 1 | 🟢 may|
 | 🔗 [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) | - | - | ⭐ 2 | 🟡 september 2025|
 | 🔗 [anthywl](https://github.com/tadeokondrak/anthywl) | - | - | ⭐ 34 | 🔴 april 2025|
 | 🔗 [sekka](https://github.com/kiyoka/sekka) | - | - | ⭐ 24 | 🟢 may|
-| 🔗 [sumibi](https://github.com/kiyoka/sumibi) | - | - | ⭐ 58 | 🟢 last sunday|
+| 🔗 [sumibi](https://github.com/kiyoka/sumibi) | - | - | ⭐ 58 | 🟢 yesterday|
 | 🔗 [jinmei-dict](https://github.com/s1r-j/jinmei-dict) | - | - | ⭐ 9 | 🔴 april 2020|
 | 🔗 [japanesearabic](https://github.com/a-hamdi/japanesearabic) | - | - | ⭐ 20 | 🔴 may 2025|
 | 🔗 [o-dic](https://github.com/makotoga/o-dic) | - | - | ⭐ 6 | 🟡 february|
-| 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 141 | 🔴 january 2025|
-| 🔗 [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) | - | - | ⭐ 27 | 🟢 last wednesday|
+| 🔗 [skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) | - | - | ⭐ 142 | 🔴 january 2025|
+| 🔗 [mozcdic-ut-personal-names](https://github.com/utuhiro78/mozcdic-ut-personal-names) | - | - | ⭐ 27 | 🟢 july|
 | 🔗 [mozcdic-ut-sudachidict](https://github.com/utuhiro78/mozcdic-ut-sudachidict) | - | - | ⭐ 23 | 🟢 may|
-| 🔗 [nihongo](https://github.com/sph-mn/nihongo) | - | - | ⭐ 24 | 🔴 january 2025|
-| 🔗 [kagome-dict](https://github.com/ikawaha/kagome-dict) | - | - | ⭐ 15 | 🟢 last tuesday|
+| 🔗 [nihongo](https://github.com/sph-mn/nihongo) | - | - | ⭐ 25 | 🔴 january 2025|
+| 🔗 [kagome-dict](https://github.com/ikawaha/kagome-dict) | - | - | ⭐ 15 | 🟢 july|
 | 🔗 [canna](https://github.com/canna-input/canna) | - | - | ⭐ 15 | 🟢 may|
 | 🔗 [kansai-accent-dictionary](https://github.com/nullponull/kansai-accent-dictionary) | - | - | ⭐ 2 | 🟢 june|
-| 🔗 [jitendex](https://github.com/jitendex/jitendex) | - | - | ⭐ 507 | 🟢 july|
-| 🔗 [karukan](https://github.com/togatoga/karukan) | - | - | ⭐ 677 | 🟢 june|
+| 🔗 [jitendex](https://github.com/jitendex/jitendex) | - | - | ⭐ 513 | 🟢 july|
+| 🔗 [karukan](https://github.com/togatoga/karukan) | - | - | ⭐ 683 | 🟢 today|
 | 🔗 [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic) | - | - | ⭐ 0 | 🟡 march|
-| 🔗 [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) | - | - | ⭐ 57 | 🟡 february|
+| 🔗 [dvorakjp-roman-table](https://github.com/shinespark/dvorakjp-roman-table) | - | - | ⭐ 58 | 🟢 last wednesday|
 | 🔗 [jmdict-fst](https://github.com/theGlenn/jmdict-fst) | - | - | ⭐ 6 | 🟢 may|
-| 🔗 [mzimeja](https://github.com/katahiromz/mzimeja) | - | - | ⭐ 19 | 🟢 yesterday|
-| 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 311 | 🟢 last thursday|
-| 🔗 [Sumibi](https://github.com/kiyoka/Sumibi) | - | - | ⭐ 58 | 🟢 last sunday|
-| 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 20 | 🟢 june|
+| 🔗 [mzimeja](https://github.com/katahiromz/mzimeja) | - | - | ⭐ 19 | 🟢 last saturday|
+| 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 316 | 🟢 today|
+| 🔗 [Sumibi](https://github.com/kiyoka/Sumibi) | - | - | ⭐ 58 | 🟢 yesterday|
+| 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 22 | 🟢 last tuesday|
 
 
 ## Corpus
@@ -1688,8 +1700,8 @@ _Updated on Jul 14, 2026_
 | 🔗 [giant_ja-en_parallel_corpus](https://github.com/DayuanJiang/giant_ja-en_parallel_corpus) | - | - | ⭐ 5 | 🔴 august 2019|
 | 🔗 [jesc_small](https://github.com/yusugomori/jesc_small) | - | - | ⭐ 3 | 🔴 july 2019|
 | 🔗 [graded-enja-corpus](https://github.com/marmooo/graded-enja-corpus) | - | - | ⭐ 6 | 🟡 august 2025|
-| 🔗 [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) | - | - | ⭐ 154 | 🟡 february|
-| 🔗 [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) | - | - | ⭐ 18 | 🔴 november 2021|
+| 🔗 [cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) | - | - | ⭐ 153 | 🟡 february|
+| 🔗 [Laboro-ParaCorpus](https://github.com/laboroai/Laboro-ParaCorpus) | - | - | ⭐ 19 | 🔴 november 2021|
 | 🔗 [google-vs-deepl-je](https://github.com/Tzawa/google-vs-deepl-je) | - | - | ⭐ 4 | 🔴 march 2020|
 | 🔗 [matcha](https://github.com/ehimenlp/matcha) | - | - | ⭐ 6 | 🟢 may|
 | 🔗 [en-ja-el](https://github.com/shigashiyama/en-ja-el) | - | - | ⭐ 2 | 🔴 january 2025|
@@ -1715,14 +1727,14 @@ _Updated on Jul 14, 2026_
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [JMRD](https://github.com/ku-nlp/JMRD) | - | - | ⭐ 29 | 🔴 july 2022|
-| 🔗 [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) | - | - | ⭐ 100 | 🔴 june 2021|
+| 🔗 [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) | - | - | ⭐ 101 | 🔴 june 2021|
 | 🔗 [BSD](https://github.com/tsuruoka-lab/BSD) | - | - | ⭐ 75 | 🔴 november 2021|
 | 🔗 [asdc](https://github.com/megagonlabs/asdc) | - | - | ⭐ 25 | 🔴 august 2023|
 | 🔗 [japanese-corpus](https://github.com/MokkeMeguru/japanese-corpus) | - | - | ⭐ 4 | 🔴 october 2018|
 | 🔗 [BPersona-chat](https://github.com/cl-tohoku/BPersona-chat) | - | - | ⭐ 6 | 🔴 january 2023|
-| 🔗 [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) | - | - | ⭐ 57 | 🔴 march 2023|
+| 🔗 [japanese-daily-dialogue](https://github.com/jqk09a/japanese-daily-dialogue) | - | - | ⭐ 59 | 🔴 march 2023|
 | 🔗 [llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset) | - | - | ⭐ 88 | 🔴 january 2024|
-| 🔗 [kokorochat](https://github.com/uec-inabalab/kokorochat) | - | - | ⭐ 22 | 🟢 may|
+| 🔗 [kokorochat](https://github.com/uec-inabalab/kokorochat) | - | - | ⭐ 23 | 🟢 may|
 | 🔗 [JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC) | - | - | ⭐ 3 | 🟢 june|
 | 🔗 [HOTATE](https://github.com/EhimeNLP/HOTATE) | - | - | ⭐ 1 | 🟢 june|
 | 🔗 [ETCDataset](https://github.com/UEC-InabaLab/ETCDataset) | - | - | ⭐ 13 | 🟢 may|
@@ -1922,7 +1934,7 @@ _Updated on Jul 14, 2026_
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) | - | - | ⭐ 77 | 🔴 june 2023|
-| 🔗 [kanji-data](https://github.com/davidluzgouveia/kanji-data) | - | - | ⭐ 224 | 🟡 february|
+| 🔗 [kanji-data](https://github.com/davidluzgouveia/kanji-data) | - | - | ⭐ 226 | 🟡 february|
 | 🔗 [JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) | - | - | ⭐ 103 | 🔴 december 2021|
 | 🔗 [simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) | - | - | ⭐ 32 | 🔴 march 2017|
 | 🔗 [chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) | - | - | ⭐ 142 | 🔴 september 2018|
@@ -1934,22 +1946,22 @@ _Updated on Jul 14, 2026_
 | 🔗 [ja.text8](https://github.com/Hironsan/ja.text8) | - | - | ⭐ 111 | 🔴 october 2017|
 | 🔗 [ThreeLineSummaryDataset](https://github.com/KodairaTomonori/ThreeLineSummaryDataset) | - | - | ⭐ 31 | 🔴 april 2018|
 | 🔗 [japanese](https://github.com/hingston/japanese) | - | - | ⭐ 91 | 🔴 september 2018|
-| 🔗 [kanji-frequency](https://github.com/scriptin/kanji-frequency) | - | - | ⭐ 164 | 🟡 march|
+| 🔗 [kanji-frequency](https://github.com/scriptin/kanji-frequency) | - | - | ⭐ 165 | 🟡 march|
 | 🔗 [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K) | - | - | ⭐ 26 | 🔴 january 2021|
 | 🔗 [CoARiJ](https://github.com/chakki-works/CoARiJ) | - | - | ⭐ 94 | 🔴 december 2020|
-| 🔗 [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) | - | - | ⭐ 26 | 🟢 april|
+| 🔗 [technological-book-corpus-ja](https://github.com/textlint-ja/technological-book-corpus-ja) | - | - | ⭐ 26 | 🟡 april|
 | 🔗 [ita-corpus-chuwa](https://github.com/shirayu/ita-corpus-chuwa) | - | - | ⭐ 5 | 🔴 august 2021|
 | 🔗 [wikipedia-utils](https://github.com/singletongue/wikipedia-utils) | - | - | ⭐ 78 | 🔴 april 2024|
 | 🔗 [inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) | - | - | ⭐ 207 | 🔴 december 2021|
-| 🔗 [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) | - | - | ⭐ 109 | 🟢 today|
-| 🔗 [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) | - | - | ⭐ 181 | 🟢 today|
+| 🔗 [house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) | - | - | ⭐ 109 | 🟢 yesterday|
+| 🔗 [house-of-representatives](https://github.com/smartnews-smri/house-of-representatives) | - | - | ⭐ 181 | 🟢 yesterday|
 | 🔗 [STAIR-captions](https://github.com/STAIR-Lab-CIT/STAIR-captions) | - | - | ⭐ 90 | 🔴 july 2018|
 | 🔗 [Winograd-Schema-Challenge-Ja](https://github.com/ku-nlp/Winograd-Schema-Challenge-Ja) | - | - | ⭐ 6 | 🔴 january 2019|
 | 🔗 [speechBSD](https://github.com/ku-nlp/speechBSD) | - | - | ⭐ 3 | 🔴 february 2024|
-| 🔗 [ita-corpus](https://github.com/mmorise/ita-corpus) | - | - | ⭐ 238 | 🟢 july|
+| 🔗 [ita-corpus](https://github.com/mmorise/ita-corpus) | - | - | ⭐ 239 | 🟢 july|
 | 🔗 [rohan4600](https://github.com/mmorise/rohan4600) | - | - | ⭐ 73 | 🟡 march|
 | 🔗 [anlp-jp-history](https://github.com/whym/anlp-jp-history) | - | - | ⭐ 3 | 🔴 april 2024|
-| 🔗 [keigo_transfer_task](https://github.com/cl-tohoku/keigo_transfer_task) | - | - | ⭐ invalid | 🔴 november 2022|
+| 🔗 [keigo_transfer_task](https://github.com/cl-tohoku/keigo_transfer_task) | - | - | ⭐ 21 | 🔴 november 2022|
 | 🔗 [loanwords_gairaigo](https://github.com/jamesohortle/loanwords_gairaigo) | - | - | ⭐ 19 | 🔴 january 2021|
 | 🔗 [jawikicorpus](https://github.com/wikiwikification/jawikicorpus) | - | - | ⭐ 4 | 🔴 november 2018|
 | 🔗 [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) | - | - | ⭐ 6 | 🔴 january 2020|
@@ -1960,41 +1972,41 @@ _Updated on Jul 14, 2026_
 | 🔗 [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) | - | - | ⭐ 83 | 🔴 june 2024|
 | 🔗 [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) | - | - | ⭐ 32 | 🔴 september 2021|
 | 🔗 [jvs_hiho](https://github.com/Hiroshiba/jvs_hiho) | - | - | ⭐ 31 | 🔴 february 2021|
-| 🔗 [hirakanadic](https://github.com/po3rin/hirakanadic) | 📥 75 | 📦 15k | ⭐ 7 | 🔴 july 2023|
-| 🔗 [animedb](https://github.com/anilogia/animedb) | - | - | ⭐ invalid | 🔴 january 2023|
+| 🔗 [hirakanadic](https://github.com/po3rin/hirakanadic) | 📥 69 | 📦 15k | ⭐ 7 | 🔴 july 2023|
+| 🔗 [animedb](https://github.com/anilogia/animedb) | - | - | ⭐ 332 | 🔴 january 2023|
 | 🔗 [security_words](https://github.com/SaitoLab/security_words) | - | - | ⭐ 27 | 🔴 august 2023|
 | 🔗 [Data-on-Japanese-Diet-Members](https://github.com/sugi2000/Data-on-Japanese-Diet-Members) | - | - | ⭐ 3 | 🔴 september 2022|
-| 🔗 [honkoku-data](https://github.com/yuta1984/honkoku-data) | - | - | ⭐ 20 | 🟢 last sunday|
+| 🔗 [honkoku-data](https://github.com/yuta1984/honkoku-data) | - | - | ⭐ 21 | 🟢 yesterday|
 | 🔗 [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese) | - | - | ⭐ 35 | 🔴 december 2020|
 | 🔗 [engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) | - | - | ⭐ 2k | 🔴 november 2020|
 | 🔗 [JSICK](https://github.com/verypluming/JSICK) | - | - | ⭐ 46 | 🔴 may 2023|
-| 🔗 [phishurl-list](https://github.com/JPCERTCC/phishurl-list) | - | - | ⭐ 208 | 🟢 june|
-| 🔗 [jcms](https://github.com/shigashiyama/jcms) | - | - | ⭐ 9 | 🟢 april|
+| 🔗 [phishurl-list](https://github.com/JPCERTCC/phishurl-list) | - | - | ⭐ 209 | 🟢 june|
+| 🔗 [jcms](https://github.com/shigashiyama/jcms) | - | - | ⭐ 9 | 🟡 april|
 | 🔗 [aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) | - | - | ⭐ 93 | 🔴 march 2023|
 | 🔗 [friendly_JA-Corpus](https://github.com/astremo/friendly_JA-Corpus) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [topokanji](https://github.com/scriptin/topokanji) | - | - | ⭐ 204 | 🔴 january 2016|
 | 🔗 [isbn4groups](https://github.com/uribo/isbn4groups) | - | - | ⭐ 1 | 🔴 june 2024|
 | 🔗 [NMeCab](https://github.com/komutan/NMeCab) | - | - | ⭐ 102 | 🔴 march 2024|
 | 🔗 [ndlngramdata](https://github.com/ndl-lab/ndlngramdata) | - | - | ⭐ 17 | 🔴 january 2023|
-| 🔗 [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) | - | - | ⭐ 3 | 🟢 april|
+| 🔗 [ndlngramviewer_v2](https://github.com/ndl-lab/ndlngramviewer_v2) | - | - | ⭐ 3 | 🟡 april|
 | 🔗 [data_set](https://github.com/japanese-law-analysis/data_set) | - | - | ⭐ 52 | 🔴 january 2025|
 | 🔗 [huggingface-datasets_wrime](https://github.com/shunk031/huggingface-datasets_wrime) | - | - | ⭐ 5 | 🔴 january 2023|
-| 🔗 [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) | - | - | ⭐ 21 | 🟡 march|
-| 🔗 [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) | - | - | ⭐ 184 | 🟡 december 2025|
+| 🔗 [ndl-minhon-ocrdataset](https://github.com/ndl-lab/ndl-minhon-ocrdataset) | - | - | ⭐ 22 | 🟡 march|
+| 🔗 [PAX_SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) | - | - | ⭐ 186 | 🟡 december 2025|
 | 🔗 [j-liwc2015](https://github.com/tasukuigarashi/j-liwc2015) | - | - | ⭐ 13 | 🔴 november 2024|
 | 🔗 [huggingface-datasets_livedoor-news-corpus](https://github.com/shunk031/huggingface-datasets_livedoor-news-corpus) | - | - | ⭐ 3 | 🔴 october 2023|
-| 🔗 [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) | - | - | ⭐ 13 | 🔴 march 2025|
+| 🔗 [huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) | - | - | ⭐ 14 | 🔴 march 2025|
 | 🔗 [commonsense-moral-ja](https://github.com/Language-Media-Lab/commonsense-moral-ja) | - | - | ⭐ 15 | 🟡 november 2025|
 | 🔗 [comet-atomic-ja](https://github.com/nlp-waseda/comet-atomic-ja) | - | - | ⭐ 31 | 🔴 march 2024|
 | 🔗 [dcsg-ja](https://github.com/nlp-waseda/dcsg-ja) | - | - | ⭐ 6 | 🔴 march 2023|
 | 🔗 [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset) | - | - | ⭐ 22 | 🔴 january 2023|
 | 🔗 [camera](https://github.com/CyberAgentAILab/camera) | - | - | ⭐ 26 | 🔴 august 2024|
-| 🔗 [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) | - | - | ⭐ 20 | 🔴 may 2021|
+| 🔗 [Japanese-Fakenews-Dataset](https://github.com/tanreinama/Japanese-Fakenews-Dataset) | - | - | ⭐ 21 | 🔴 may 2021|
 | 🔗 [jpn_explainable_qa_dataset](https://github.com/aiishii/jpn_explainable_qa_dataset) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [copa-japanese](https://github.com/nlp-titech/copa-japanese) | - | - | ⭐ 1 | 🔴 february 2023|
 | 🔗 [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) | - | - | ⭐ 12 | 🔴 january 2025|
-| 🔗 [ProSub](https://github.com/matbahasa/ProSub) | - | - | ⭐ invalid | 🔴 invalid|
-| 🔗 [ramendb](https://github.com/nuko-yokohama/ramendb) | - | - | ⭐ 8 | 🟢 april|
+| 🔗 [ProSub](https://github.com/matbahasa/ProSub) | - | - | ⭐ 5 | 🔴 april 2025|
+| 🔗 [ramendb](https://github.com/nuko-yokohama/ramendb) | - | - | ⭐ 8 | 🟡 april|
 | 🔗 [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) | - | - | ⭐ 3 | 🔴 march 2023|
 | 🔗 [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) | - | - | ⭐ 0 | 🔴 march 2021|
 | 🔗 [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) | - | - | ⭐ 89 | 🔴 july 2023|
@@ -2005,10 +2017,10 @@ _Updated on Jul 14, 2026_
 | 🔗 [llm-jp-corpus](https://github.com/llm-jp/llm-jp-corpus) | - | - | ⭐ 47 | 🔴 october 2023|
 | 🔗 [alpaca_ja](https://github.com/shi3z/alpaca_ja) | - | - | ⭐ 86 | 🔴 may 2023|
 | 🔗 [instruction_ja](https://github.com/megagonlabs/instruction_ja) | - | - | ⭐ 24 | 🔴 july 2023|
-| 🔗 [japanese-family-names](https://github.com/siikamiika/japanese-family-names) | - | - | ⭐ invalid | 🔴 june 2017|
-| 🔗 [kanji-data-media](https://github.com/kanjialive/kanji-data-media) | - | - | ⭐ 423 | 🔴 november 2023|
-| 🔗 [reazonspeech](https://github.com/reazon-research/reazonspeech) | - | - | ⭐ 391 | 🔴 invalid|
-| 🔗 [huriganacorpus-aozora](https://github.com/ndl-lab/huriganacorpus-aozora) | - | - | ⭐ 22 | 🔴 invalid|
+| 🔗 [japanese-family-names](https://github.com/siikamiika/japanese-family-names) | - | - | ⭐ 18 | 🔴 june 2017|
+| 🔗 [kanji-data-media](https://github.com/kanjialive/kanji-data-media) | - | - | ⭐ 424 | 🟢 july|
+| 🔗 [reazonspeech](https://github.com/reazon-research/reazonspeech) | - | - | ⭐ 389 | 🟢 june|
+| 🔗 [huriganacorpus-aozora](https://github.com/ndl-lab/huriganacorpus-aozora) | - | - | ⭐ 22 | 🔴 january 2024|
 | 🔗 [koniwa](https://github.com/koniwa/koniwa) | - | - | ⭐ 62 | 🔴 april 2025|
 | 🔗 [JMMLU](https://github.com/nlp-waseda/JMMLU) | - | - | ⭐ 40 | 🟡 october 2025|
 | 🔗 [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) | - | - | ⭐ 50 | 🔴 march 2025|
@@ -2022,7 +2034,7 @@ _Updated on Jul 14, 2026_
 | 🔗 [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) | - | - | ⭐ 3 | 🔴 november 2024|
 | 🔗 [j-unimorph](https://github.com/cl-tohoku/j-unimorph) | - | - | ⭐ 9 | 🟢 may|
 | 🔗 [GazeVQA](https://github.com/riken-grp/GazeVQA) | - | - | ⭐ 0 | 🔴 september 2024|
-| 🔗 [J-CRe3](https://github.com/riken-grp/J-CRe3) | - | - | ⭐ 10 | 🔴 january 2025|
+| 🔗 [J-CRe3](https://github.com/riken-grp/J-CRe3) | - | - | ⭐ 11 | 🔴 january 2025|
 | 🔗 [jmed-llm](https://github.com/sociocom/jmed-llm) | - | - | ⭐ 59 | 🔴 september 2024|
 | 🔗 [lawtext](https://github.com/yamachig/lawtext) | - | - | ⭐ 98 | 🟢 june|
 | 🔗 [pdmocrdataset-part2](https://github.com/ndl-lab/pdmocrdataset-part2) | - | - | ⭐ 15 | 🔴 june 2024|
@@ -2032,30 +2044,30 @@ _Updated on Jul 14, 2026_
 | 🔗 [niilc-qa](https://github.com/mynlp/niilc-qa) | - | - | ⭐ 18 | 🔴 november 2015|
 | 🔗 [chain-of-thought-ja-dataset](https://github.com/nlp-waseda/chain-of-thought-ja-dataset) | - | - | ⭐ 5 | 🔴 september 2023|
 | 🔗 [WikipediaAnnotatedCorpus](https://github.com/ku-nlp/WikipediaAnnotatedCorpus) | - | - | ⭐ 30 | 🟢 july|
-| 🔗 [elaws-history](https://github.com/kissge/elaws-history) | - | - | ⭐ 8 | 🟢 today|
+| 🔗 [elaws-history](https://github.com/kissge/elaws-history) | - | - | ⭐ 8 | 🟢 yesterday|
 | 🔗 [Japanese-RP-Bench](https://github.com/Aratako/Japanese-RP-Bench) | - | - | ⭐ 18 | 🔴 september 2024|
 | 🔗 [hdic](https://github.com/shikeda/hdic) | - | - | ⭐ 44 | 🟢 last wednesday|
-| 🔗 [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) | - | - | ⭐ 163 | 🟢 april|
+| 🔗 [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) | - | - | ⭐ 164 | 🟡 april|
 | 🔗 [kanji-data](https://github.com/mimneko/kanji-data) | - | - | ⭐ 26 | 🟢 june|
 | 🔗 [openchj-genji](https://github.com/togiso/openchj-genji) | - | - | ⭐ 2 | 🔴 march 2025|
 | 🔗 [AdParaphrase](https://github.com/CyberAgentAILab/AdParaphrase) | - | - | ⭐ 1 | 🔴 may 2025|
 | 🔗 [Jamp_sp](https://github.com/ynklab/Jamp_sp) | - | - | ⭐ 0 | 🔴 june 2024|
 | 🔗 [jnli-neg](https://github.com/asahi-y/jnli-neg) | - | - | ⭐ 0 | 🟡 december 2025|
-| 🔗 [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) | - | - | ⭐ 6 | 🔴 november 2024|
+| 🔗 [swallow-corpus](https://github.com/swallow-llm/swallow-corpus) | - | - | ⭐ 7 | 🔴 november 2024|
 | 🔗 [jalecon](https://github.com/naist-nlp/jalecon) | - | - | ⭐ 6 | 🔴 july 2023|
 | 🔗 [multils-japanese](https://github.com/naist-nlp/multils-japanese) | - | - | ⭐ 0 | 🟡 january|
 | 🔗 [nwjc](https://github.com/masayu-a/nwjc) | - | - | ⭐ 10 | 🔴 april 2022|
 | 🔗 [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) | - | - | ⭐ 202 | 🔴 march 2023|
-| 🔗 [gimei](https://github.com/willnet/gimei) | - | - | ⭐ 425 | 🟢 last sunday|
-| 🔗 [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) | - | - | ⭐ 9 | 🟢 april|
-| 🔗 [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) | - | - | ⭐ 11 | 🟢 june|
-| 🔗 [kanji](https://github.com/sylhare/kanji) | - | - | ⭐ 29 | 🟢 june|
+| 🔗 [gimei](https://github.com/willnet/gimei) | - | - | ⭐ 425 | 🟢 july|
+| 🔗 [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) | - | - | ⭐ 9 | 🟡 april|
+| 🔗 [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) | - | - | ⭐ 11 | 🟢 last thursday|
+| 🔗 [kanji](https://github.com/sylhare/kanji) | - | - | ⭐ 29 | 🟢 yesterday|
 | 🔗 [jethics](https://github.com/language-media-lab/jethics) | - | - | ⭐ 2 | 🔴 june 2025|
 | 🔗 [waon](https://github.com/llm-jp/waon) | - | - | ⭐ 7 | 🟡 november 2025|
 | 🔗 [kuci](https://github.com/ku-nlp/kuci) | - | - | ⭐ 5 | 🔴 february 2024|
 | 🔗 [japanese-address-testdata](https://github.com/t-sagara/japanese-address-testdata) | - | - | ⭐ 14 | 🔴 september 2023|
-| 🔗 [jlpt-word-list](https://github.com/elzup/jlpt-word-list) | - | - | ⭐ 88 | 🔴 february 2022|
-| 🔗 [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) | - | - | ⭐ 18 | 🔴 invalid|
+| 🔗 [jlpt-word-list](https://github.com/elzup/jlpt-word-list) | - | - | ⭐ 89 | 🔴 february 2022|
+| 🔗 [hiragana_mojigazo](https://github.com/ndl-lab/hiragana_mojigazo) | - | - | ⭐ 18 | 🔴 april 2020|
 | 🔗 [lawqa_jp](https://github.com/digital-go-jp/lawqa_jp) | - | - | ⭐ 274 | 🟡 february|
 | 🔗 [yjcaptions](https://github.com/yahoojapan/yjcaptions) | - | - | ⭐ 60 | 🔴 november 2016|
 | 🔗 [ja-vg-vqa](https://github.com/yahoojapan/ja-vg-vqa) | - | - | ⭐ 30 | 🔴 november 2018|
@@ -2064,16 +2076,16 @@ _Updated on Jul 14, 2026_
 | 🔗 [jconj](https://github.com/yamagoya/jconj) | - | - | ⭐ 35 | 🔴 may 2020|
 | 🔗 [extract_jawp_names](https://github.com/hiroshi-manabe/extract_jawp_names) | - | - | ⭐ 21 | 🔴 december 2022|
 | 🔗 [cejc_yomichan_freq_dict](https://github.com/forsakeninfinity/cejc_yomichan_freq_dict) | - | - | ⭐ 13 | 🔴 june 2023|
-| 🔗 [wikidict-ja](https://github.com/open-dict-data/wikidict-ja) | - | - | ⭐ 5 | 🔴 invalid|
+| 🔗 [wikidict-ja](https://github.com/open-dict-data/wikidict-ja) | - | - | ⭐ 6 | 🔴 june 2016|
 | 🔗 [ajimee-bench](https://github.com/azookey/ajimee-bench) | - | - | ⭐ 22 | 🔴 january 2025|
-| 🔗 [j-spaw](https://github.com/takamichi-lab/j-spaw) | - | - | ⭐ 6 | 🔴 invalid|
+| 🔗 [j-spaw](https://github.com/takamichi-lab/j-spaw) | - | - | ⭐ 6 | 🟡 august 2025|
 | 🔗 [camera3](https://github.com/cyberagentailab/camera3) | - | - | ⭐ 4 | 🔴 may 2024|
 | 🔗 [jgpqa](https://github.com/llm-jp/jgpqa) | - | - | ⭐ 2 | 🟡 september 2025|
 | 🔗 [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) | - | - | ⭐ 3 | 🔴 june 2021|
 | 🔗 [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) | - | - | ⭐ 2 | 🔴 september 2024|
 | 🔗 [osworld-jp](https://github.com/karakuri-ai/osworld-jp) | - | - | ⭐ 2 | 🟢 may|
 | 🔗 [quasi_japanese_reviews](https://github.com/megagonlabs/quasi_japanese_reviews) | - | - | ⭐ 1 | 🔴 july 2023|
-| 🔗 [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) | - | - | ⭐ 1 | 🔴 invalid|
+| 🔗 [psychiatry-clinical-notes](https://github.com/sociocom/psychiatry-clinical-notes) | - | - | ⭐ 1 | 🟡 october 2025|
 | 🔗 [merged-town-names](https://github.com/yuukitoriyama/merged-town-names) | - | - | ⭐ 1 | 🔴 may 2022|
 | 🔗 [japanesetextemoticondata](https://github.com/kuroshiba-ginji/japanesetextemoticondata) | - | - | ⭐ 1 | 🔴 march 2021|
 | 🔗 [mishearing-corpus](https://github.com/kishiyamat/mishearing-corpus) | - | - | ⭐ 1 | 🟡 january|
@@ -2081,10 +2093,10 @@ _Updated on Jul 14, 2026_
 | 🔗 [selective-rag-kasensabo](https://github.com/tk-yasuno/selective-rag-kasensabo) | - | - | ⭐ 1 | 🟡 november 2025|
 | 🔗 [jmle2026-bench](https://github.com/naoto-iwase/jmle2026-bench) | - | - | ⭐ 11 | 🟡 march|
 | 🔗 [JSTS-Neg](https://github.com/reiko-y/JSTS-Neg) | - | - | ⭐ 2 | 🟢 may|
-| 🔗 [business-slide-questions](https://github.com/stockmarkteam/business-slide-questions) | - | - | ⭐ 2 | 🔴 invalid|
+| 🔗 [business-slide-questions](https://github.com/stockmarkteam/business-slide-questions) | - | - | ⭐ 2 | 🔴 may 2025|
 | 🔗 [WLSP-antonym](https://github.com/masayu-a/WLSP-antonym) | - | - | ⭐ 2 | 🔴 march 2021|
 | 🔗 [YouCook2-JP](https://github.com/nlab-mpg/YouCook2-JP) | - | - | ⭐ 0 | 🟡 august 2025|
-| 🔗 [E2U](https://github.com/sociocom/E2U) | - | - | ⭐ 0 | 🔴 invalid|
+| 🔗 [E2U](https://github.com/sociocom/E2U) | - | - | ⭐ 0 | 🟡 march|
 | 🔗 [annotation-2025](https://github.com/Tiny-Colony/annotation-2025) | - | - | ⭐ 0 | 🟡 january|
 | 🔗 [jhpt](https://github.com/nict-astrec-att/jhpt) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [JBE-QA](https://github.com/hancules/JBE-QA) | - | - | ⭐ 0 | 🟡 november 2025|
@@ -2093,20 +2105,20 @@ _Updated on Jul 14, 2026_
 | 🔗 [modelvista-3lang](https://github.com/kuramitsulab/modelvista-3lang) | - | - | ⭐ 2 | 🟡 march|
 | 🔗 [japanese-hr-niah](https://github.com/kufu/japanese-hr-niah) | - | - | ⭐ 1 | 🟡 january|
 | 🔗 [nijl-manyoshutei](https://github.com/kokubunken/nijl-manyoshutei) | - | - | ⭐ 2 | 🟡 march|
-| 🔗 [kamuskita](https://github.com/matbahasa/kamuskita) | - | - | ⭐ 2 | 🟢 may|
-| 🔗 [japanese-llm-benchmark](https://github.com/shi3z/japanese-llm-benchmark) | - | - | ⭐ 47 | 🟢 june|
+| 🔗 [kamuskita](https://github.com/matbahasa/kamuskita) | - | - | ⭐ 2 | 🟢 last tuesday|
+| 🔗 [japanese-llm-benchmark](https://github.com/shi3z/japanese-llm-benchmark) | - | - | ⭐ 50 | 🟢 last wednesday|
 | 🔗 [EDINET-Bench](https://github.com/SakanaAI/EDINET-Bench) | - | - | ⭐ 34 | 🟡 march|
 | 🔗 [LCTG-Bench](https://github.com/CyberAgentAILab/LCTG-Bench) | - | - | ⭐ 5 | 🔴 july 2024|
-| 🔗 [Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset) | - | - | ⭐ 68 | 🟢 april|
+| 🔗 [Kokoro-Speech-Dataset](https://github.com/kaiidams/Kokoro-Speech-Dataset) | - | - | ⭐ 68 | 🟡 april|
 | 🔗 [LookVQA](https://github.com/riken-grp/LookVQA) | - | - | ⭐ 8 | 🔴 august 2024|
 | 🔗 [JTruthfulQA](https://github.com/nlp-waseda/JTruthfulQA) | - | - | ⭐ 6 | 🔴 february 2025|
 | 🔗 [japanese-dataset-for-automated-fact-checking](https://github.com/FujitsuResearch/japanese-dataset-for-automated-fact-checking) | - | - | ⭐ 2 | 🟢 june|
 | 🔗 [llm-jp-longbench](https://github.com/llm-jp/llm-jp-longbench) | - | - | ⭐ 2 | 🟡 march|
-| 🔗 [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) | - | - | ⭐ invalid | 🟢 july|
+| 🔗 [doctrine-corpus](https://github.com/shimo4228/doctrine-corpus) | - | - | ⭐ 2 | 🟢 last thursday|
 | 🔗 [medLLM_QA_benchmark](https://github.com/aistairc/medLLM_QA_benchmark) | - | - | ⭐ 6 | 🔴 january 2025|
 | 🔗 [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) | - | - | ⭐ 1 | 🟢 june|
 | 🔗 [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) | - | - | ⭐ 7 | 🟢 june|
-| 🔗 [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) | - | - | ⭐ invalid | 🔴 may 2025|
+| 🔗 [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) | - | - | ⭐ 34 | 🔴 may 2025|
 
 
 ## Tutorial
@@ -2152,41 +2164,41 @@ _Updated on Jul 14, 2026_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) | - | - | ⭐ invalid | 🔴 january 2020|
+| 🔗 [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) | - | - | ⭐ 65 | 🔴 january 2020|
 | 🔗 [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) | - | - | ⭐ 205 | 🔴 september 2016|
-| 🔗 [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) | - | - | ⭐ invalid | 🔴 may 2022|
-| 🔗 [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) | - | - | ⭐ invalid | 🔴 march 2019|
+| 🔗 [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) | - | - | ⭐ 5 | 🔴 may 2022|
+| 🔗 [chariot-PyTorch-Japanese-text-classification](https://github.com/ymym3412/chariot-PyTorch-Japanese-text-classification) | - | - | ⭐ 5 | 🔴 march 2019|
 | 🔗 [ginza-examples](https://github.com/poyo46/ginza-examples) | - | - | ⭐ 15 | 🔴 january 2021|
-| 🔗 [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) | - | - | ⭐ 0 | 🔴 invalid|
+| 🔗 [DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) | - | - | ⭐ 0 | 🟡 august 2025|
 | 🔗 [BERT_Japanese_Google_Colaboratory](https://github.com/YutaroOgawa/BERT_Japanese_Google_Colaboratory) | - | - | ⭐ 29 | 🔴 january 2022|
-| 🔗 [bert-book](https://github.com/stockmarkteam/bert-book) | - | - | ⭐ invalid | 🔴 february 2024|
+| 🔗 [bert-book](https://github.com/stockmarkteam/bert-book) | - | - | ⭐ 265 | 🔴 february 2024|
 | 🔗 [janome-tutorial](https://github.com/mocobeta/janome-tutorial) | - | - | ⭐ 31 | 🔴 march 2019|
 | 🔗 [handson-language-models](https://github.com/hnishi/handson-language-models) | - | - | ⭐ 3 | 🔴 march 2021|
 | 🔗 [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) | - | - | ⭐ 6 | 🔴 june 2021|
-| 🔗 [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) | - | - | ⭐ 144 | 🔴 invalid|
+| 🔗 [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) | - | - | ⭐ 144 | 🔴 may 2021|
 | 🔗 [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) | - | - | ⭐ 234 | 🔴 may 2024|
 | 🔗 [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) | - | - | ⭐ 10 | 🔴 may 2023|
-| 🔗 [llm-book](https://github.com/ghmagazine/llm-book) | - | - | ⭐ 471 | 🟡 december 2025|
+| 🔗 [llm-book](https://github.com/ghmagazine/llm-book) | - | - | ⭐ 472 | 🟡 december 2025|
 | 🔗 [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) | - | - | ⭐ 113 | 🔴 april 2024|
 | 🔗 [japanese-ir-tutorial](https://github.com/mpkato/japanese-ir-tutorial) | - | - | ⭐ 3 | 🔴 june 2024|
 | 🔗 [nlpbook](https://github.com/mamorlis/nlpbook) | - | - | ⭐ 14 | 🔴 april 2025|
-| 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ invalid | 🔴 invalid|
-| 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 30 | 🔴 invalid|
-| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found | 🔴 invalid|
+| 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ 21 | 🔴 march 2024|
+| 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 30 | 🔴 july 2024|
+| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found | 🔴 august 2024|
 | 🔗 [nlp100v2020](https://github.com/upura/nlp100v2020) | - | - | ⭐ 89 | 🔴 april 2025|
 | 🔗 [textmining-ja](https://github.com/paithiov909/textmining-ja) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) | - | - | ⭐ 17 | 🟡 february|
 | 🔗 [nlp100v2025](https://github.com/upura/nlp100v2025) | - | - | ⭐ 89 | 🔴 april 2025|
 | 🔗 [public-annotations](https://github.com/manga109/public-annotations) | - | - | ⭐ 13 | 🔴 april 2025|
 | 🔗 [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) | - | - | ⭐ 4 | 🔴 may 2025|
-| 🔗 [slp2025](https://github.com/ryota-komatsu/slp2025) | - | - | ⭐ 65 | 🟢 april|
+| 🔗 [slp2025](https://github.com/ryota-komatsu/slp2025) | - | - | ⭐ 65 | 🟡 april|
 | 🔗 [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) | - | - | ⭐ 4 | 🔴 june 2025|
 | 🔗 [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) | - | - | ⭐ 200 | 🟡 september 2025|
-| 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found | 🔴 invalid|
-| 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 98 | 🟢 last monday|
+| 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found | 🔴 repo not found|
+| 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 99 | 🟢 july|
 | 🔗 [ir100](https://github.com/ir100/ir100) | - | - | ⭐ 93 | 🟡 december 2025|
-| 🔗 [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) | - | - | ⭐ 36 | 🟢 last sunday|
-| 🔗 [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) | - | - | ⭐ 8 | 🟢 last thursday|
+| 🔗 [kaggle_llm_book](https://github.com/sinchir0/kaggle_llm_book) | - | - | ⭐ 36 | 🟢 july|
+| 🔗 [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) | - | - | ⭐ 18 | 🟢 last wednesday|
 | 🔗 [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) | - | - | ⭐ 29 | 🟢 june|
 | 🔗 [ttslearn](https://github.com/r9y9/ttslearn) | - | - | ⭐ 269 | 🔴 march 2023|
 
@@ -2207,8 +2219,8 @@ _Updated on Jul 14, 2026_
 | 🔗 [awesome-bert-japanese](https://github.com/himkt/awesome-bert-japanese) | - | - | ⭐ 132 | 🔴 march 2023|
 | 🔗 [GEC-Info-ja](https://github.com/gotutiyan/GEC-Info-ja) | - | - | ⭐ 14 | 🔴 april 2025|
 | 🔗 [dataset-list](https://github.com/ikegami-yukino/dataset-list) | - | - | ⭐ 119 | 🔴 july 2024|
-| 🔗 [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) | - | - | ⭐ 190 | 🔴 invalid|
-| 🔗 [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) | - | - | ⭐ 128 | 🔴 february 2024|
+| 🔗 [tuning_playbook_ja](https://github.com/Valkyrja3607/tuning_playbook_ja) | - | - | ⭐ 190 | 🔴 january 2023|
+| 🔗 [japanese-pitch-accent-resources](https://github.com/olety/japanese-pitch-accent-resources) | - | - | ⭐ 129 | 🔴 february 2024|
 | 🔗 [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) | - | - | ⭐ 1.4k | 🟢 june|
 
 

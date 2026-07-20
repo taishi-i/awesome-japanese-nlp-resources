@@ -8830,6 +8830,36 @@
     "u": "https://github.com/AnchorI/jlpt-kanji-dictionary"
   },
   {
+    "c": "Python library",
+    "d": "Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.",
+    "n": "shirabe-sdk-python",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/techwell-inc-jp/shirabe-sdk-python"
+  },
+  {
+    "c": "JavaScript",
+    "d": "About primitive humans 🗿| Super compressed communication skills for AI agents such as Claude Code / Codex. Optimized for Japanese-specific redundant expressions based on the Japanese version of caveman.",
+    "n": "genshijin",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/interfacex-co-jp/genshijin"
+  },
+  {
+    "c": "JavaScript",
+    "d": "Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.",
+    "n": "shirabe-sdk",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/techwell-inc-jp/shirabe-sdk"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,

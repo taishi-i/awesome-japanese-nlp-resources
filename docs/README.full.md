@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [883 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [321 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [887 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [315 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
 
@@ -57,9 +57,14 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 ## 🎉 The latest additions
 
 **Python**
- * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models
+ * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.
 
-_Updated on Jul 14, 2026_
+**JavaScript**
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
+ * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.
+ * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - Automated Japanese text cleaning web tool with 16-step pipeline, batch processing, encoding auto-detection, and Agent-ready API | 16種類のクリーニングルールを搭載した日本語テキスト自動整形Webツール
+
+_Updated on Jul 21, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1123,7 +1128,8 @@ Libraries for converting Japanese scripts and readings
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国の住所データAPI
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - テキストの単語を絵文字に変換する
  * [japanese.js](https://github.com/hakatashi/japanese.js) - Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
- * [genshijin](https://github.com/interfacex-co-jp/genshijin) - genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About
+genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1173,7 +1179,6 @@ Other libraries for Japanese NLP in JavaScript
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - Sudachi's synonyms dictionary
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - Japanese-enhanced fork of qmd — Vaporetto WASM morphological tokenizer for accurate Japanese BM25 search
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.
- * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - Automated Japanese text cleaning web tool with 16-step pipeline, batch processing, encoding auto-detection, and Agent-ready API | 16種類のクリーニングルールを搭載した日本語テキスト自動整形Webツール
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1203,7 +1208,6 @@ Other libraries for Japanese NLP in JavaScript
 |[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azu/sudachi-synonyms-dictionary?style=social)|
 |[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
 |[shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk?style=social)|
-|[japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/albertaworlds/japanese-text-cleaner?style=social)|
 
 
 ## Go

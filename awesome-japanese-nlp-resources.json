@@ -963,7 +963,7 @@
                 }
             },
             "https://github.com/geonlp-platform/pygeonlp": {
-                "sub_category": null,
+                "sub_category": "Named entity recognition",
                 "repository_name": "pygeonlp",
                 "user_name": "geonlp-platform",
                 "description": "pygeonlp, A python module for geotagging Japanese texts.",
@@ -4129,6 +4129,18 @@
                     "zh-hans": "LLM-jp-Moshi：日语全双工口语对话模型",
                     "zh-hant": "LLM-jp-Moshi：日本語全雙工口語對話模型"
                 }
+            },
+            "https://github.com/techwell-inc-jp/shirabe-sdk-python": {
+                "sub_category": null,
+                "repository_name": "shirabe-sdk-python",
+                "user_name": "techwell-inc-jp",
+                "description": "Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.",
+                "multilingual_descriptions": {
+                    "en": "Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.",
+                    "ja": "日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。",
+                    "zh-hans": "为Shirabe日本数据API提供官方Python SDK — 预制的LangChain / OpenAI Agents SDK工具，用于日文姓名读取（基于JMnedict支持的候选人）、姓名拆分、地址规范化、企业编号查找和日历（六曜）。零依赖核心。",
+                    "zh-hant": "為Shirabe Japan數據API官方Python SDK - 提供現成的LangChain / OpenAI Agents SDK工具，用於日本姓名讀取（JMnedict支持的候選人）、姓名拆分、地址規範化、企業編號查找和日曆（六曜）。零依賴核心。"
+                }
             }
         },
         "C++": {
@@ -5060,6 +5072,18 @@
                     "zh-hant": "用於日文文本處理的Util集合。將平假名化、片假名化和羅馬化。"
                 }
             },
+            "https://github.com/interfacex-co-jp/genshijin": {
+                "sub_category": "Converter",
+                "repository_name": "genshijin",
+                "user_name": "interfacex-co-jp",
+                "description": "About",
+                "multilingual_descriptions": {
+                    "en": "About primitive humans 🗿| Super compressed communication skills for AI agents such as Claude Code / Codex. Optimized for Japanese-specific redundant expressions based on the Japanese version of caveman.",
+                    "ja": "About genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
+                    "zh-hans": "关于原始人🗿| Claude Code / Codex等AI代理人的超级压缩沟通技巧。基于caveman的日语版本，针对日语特有的冗长表达进行优化。",
+                    "zh-hant": "關於原始人🗿| 面向Claude Code / Codex等AI代理人的超壓縮溝通技巧。基於caveman的日文版本，最佳化日文特有的冗長表達。"
+                }
+            },
             "https://github.com/bangumi-data/bangumi-data": {
                 "sub_category": null,
                 "repository_name": "bangumi-data",
@@ -5346,6 +5370,18 @@
                     "ja": "日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー",
                     "zh-hans": "增强日语分叉的qmd - 用于准确的日语BM25搜索的Vaporetto WASM形态标记器\n日本增强的qmd分叉 - 用于准确的日语BM25搜索的Vaporetto WASM形态标记器",
                     "zh-hant": "日本增強版的qmd - Vaporetto WASM形態標記分詞器，用於準確的日本BM25搜索"
+                }
+            },
+            "https://github.com/techwell-inc-jp/shirabe-sdk": {
+                "sub_category": null,
+                "repository_name": "shirabe-sdk",
+                "user_name": "techwell-inc-jp",
+                "description": "Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.",
+                "multilingual_descriptions": {
+                    "en": "Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.",
+                    "ja": "Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。",
+                    "zh-hans": "Shirabe日本数据API的官方TypeScript SDK - 为日本姓名拆分/阅读、地址规范化、企业编号查找和日历（六曜）提供现成的Vercel AI SDK / LangChain工具。核心部分没有任何运行时依赖。",
+                    "zh-hant": "官方TypeScript SDK為Shirabe日本數據API提供支持 - 預製的Vercel AI SDK / LangChain工具，用於日本姓名拆分/閱讀、地址規範化、企業編號查找和日曆（六曜）。核心部分無運行時依賴。"
                 }
             }
         },
@@ -7266,18 +7302,6 @@
                     "zh-hant": "從辭書數據中提取出人名，並按照讀音假名（片假名）作為鍵，將候選的寫字形式整理成JSON格式，以列表形式保存。"
                 }
             },
-            "https://github.com/kazumaproject/japanesekeyboard": {
-                "sub_category": null,
-                "repository_name": "japanesekeyboard",
-                "user_name": "kazumaproject",
-                "description": "完全オフラインの日本語キーボードアプリ",
-                "multilingual_descriptions": {
-                    "en": "Violet - a completely offline Japanese keyboard app",
-                    "ja": "スミレ 完全オフラインの日本語キーボードアプリ",
-                    "zh-hans": "紫罗兰 完全离线的日语键盘应用程序",
-                    "zh-hant": "菫 完全離線的日文鍵盤應用程式"
-                }
-            },
             "https://github.com/a-hamdi/japanesearabic": {
                 "sub_category": null,
                 "repository_name": "japanesearabic",
@@ -7456,6 +7480,18 @@
                     "ja": "Windows用のMZ-IME日本語入力",
                     "zh-hans": "MZ-IME Windows版日文输入法",
                     "zh-hant": "MZ-IME Windows 日文輸入法"
+                }
+            },
+            "https://github.com/kazumaproject/japanesekeyboard": {
+                "sub_category": null,
+                "repository_name": "japanesekeyboard",
+                "user_name": "kazumaproject",
+                "description": "完全オフラインの日本語キーボードアプリ",
+                "multilingual_descriptions": {
+                    "en": "Violet - a completely offline Japanese keyboard app",
+                    "ja": "スミレ 完全オフラインの日本語キーボードアプリ",
+                    "zh-hans": "紫罗兰 完全离线的日语键盘应用程序",
+                    "zh-hant": "菫 完全離線的日文鍵盤應用程式"
                 }
             },
             "https://github.com/kiyoka/Sumibi": {
@@ -9888,7 +9924,7 @@
                 "sub_category": null,
                 "repository_name": "jhpt",
                 "user_name": "nict-astrec-att",
-                "description": "歴史的日本語資料対訳データセット",
+                "description": "歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．",
                 "multilingual_descriptions": {
                     "en": "This is a parallel dataset that aligns original texts of historical Japanese language materials with modern language translations (reference translations) on a segment-by-segment basis. Please refer to the paper for more details.",
                     "ja": "歴史的日本語資料の原文テキストと，現代語訳（参照訳）テキストをセグメント単位で対応付けた対訳データセットです．詳細は論文を参照ください．",

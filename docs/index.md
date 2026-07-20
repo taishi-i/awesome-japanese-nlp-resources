@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [883件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [321 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [887件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [315 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -56,9 +56,14 @@
 ## 🎉 The latest additions
 
 **Python**
- * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル
+ * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。
 
-_Updated on Jul 14, 2026_
+**JavaScript**
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
+ * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。
+ * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - 16段階のパイプライン、バッチ処理、エンコーディングの自動検出、およびエージェント対応APIを備えた自動日本語テキストクリーニングWebツール
+
+_Updated on Jul 21, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -687,6 +692,7 @@ _Updated on Jul 14, 2026_
  * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - 日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル
+ * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -899,6 +905,7 @@ _Updated on Jul 14, 2026_
 |[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
 |[open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zeimu-ai/open-zeimu-mcp?style=social)|
 |[llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-moshi?style=social)|
+|[shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk-python?style=social)|
 
 
 ## C++
@@ -1120,6 +1127,8 @@ Rustで実装された日本語形態素解析ライブラリ
  * [japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2) - 全国の住所データAPI
  * [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) - テキストの単語を絵文字に変換する
  * [japanese.js](https://github.com/hakatashi/japanese.js) - 日本語テキスト処理のためのUtilコレクション。ひらがな化、カタカナ化、ローマ字化。
+ * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
+genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1138,6 +1147,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[japanese-addresses-v2](https://github.com/geolonia/japanese-addresses-v2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/geolonia/japanese-addresses-v2?style=social)|
 |[jptext-to-emoji](https://github.com/elzup/jptext-to-emoji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/elzup/jptext-to-emoji?style=social)|
 |[japanese.js](https://github.com/hakatashi/japanese.js)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hakatashi/japanese.js?style=social)|
+|[genshijin](https://github.com/interfacex-co-jp/genshijin)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/interfacex-co-jp/genshijin?style=social)|
 
 
 ### Others
@@ -1167,6 +1177,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter) - ブラウザ拡張機能（Chrome/Edge/Firefox）は、日本語のウェブページにフリガナを注入するもので、辞書のツールチップ、JLPTのフィルタリング、単語/Ankiのエクスポートを含んでいます。
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - すだちの類語辞典
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
+ * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1195,6 +1206,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[tsukeru-furigana-converter](https://github.com/ln2058/tsukeru-furigana-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ln2058/tsukeru-furigana-converter?style=social)|
 |[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azu/sudachi-synonyms-dictionary?style=social)|
 |[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
+|[shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk?style=social)|
 
 
 ## Go
