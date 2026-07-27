@@ -1551,6 +1551,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ - 完全オフラインの日本語キーボードアプリ
  * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
  * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IMEgit
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1641,6 +1642,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
 |[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
 |[rakukan](https://github.com/fukuyori/rakukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fukuyori/rakukan?style=social)|
+|[JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/seanmcbroom/JMdictSQLite?style=social)|
 
 
 ## Corpus
