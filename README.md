@@ -7,7 +7,7 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [887 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [889 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [315 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
@@ -57,14 +57,12 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 ## 🎉 The latest additions
 
 **Python**
- * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.
+ * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
 
-**JavaScript**
- * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
- * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.
- * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - Automated Japanese text cleaning web tool with 16-step pipeline, batch processing, encoding auto-detection, and Agent-ready API | 16種類のクリーニングルールを搭載した日本語テキスト自動整形Webツール
+**Dictionary and IME**
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
 
-_Updated on Jul 21, 2026_
+_Updated on Jul 28, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -694,6 +692,7 @@ General-purpose tools supporting Japanese language processing
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - OSS MCP server for Japanese tax primary sources (法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例)
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: Japanese Full-duplex Spoken Dialogue Models
  * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - Official Python SDK for the Shirabe Japan data APIs — ready-made LangChain / OpenAI Agents SDK tools for Japanese name reading (JMnedict-backed candidates), name splitting, address normalization, corporate number lookup, and calendar (rokuyo). Zero-dependency core.
+ * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -907,6 +906,7 @@ General-purpose tools supporting Japanese language processing
 | 🔗 [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) | - | - | ⭐ 1 | 🟢 june|
 | 🔗 [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) | - | - | ⭐ 21 | 🟡 march|
 | 🔗 [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) | - | - | ⭐ 0 | 🟢 last friday|
+| 🔗 [fuseji](https://github.com/sserada/fuseji) | - | - | ⭐ 0 | 🟢 june|
 
 
 ## C++
@@ -1551,6 +1551,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ - 完全オフラインの日本語キーボードアプリ
  * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
  * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IMEgit
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1641,6 +1642,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 | 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 316 | 🟢 today|
 | 🔗 [Sumibi](https://github.com/kiyoka/Sumibi) | - | - | ⭐ 58 | 🟢 yesterday|
 | 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 22 | 🟢 last tuesday|
+| 🔗 [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) | - | - | ⭐ 5 | 🟢 today|
 
 
 ## Corpus

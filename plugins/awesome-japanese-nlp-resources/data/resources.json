@@ -8860,6 +8860,26 @@
     "u": "https://github.com/techwell-inc-jp/shirabe-sdk"
   },
   {
+    "c": "Python library",
+    "d": "Japanese-specific PII detection and masking middleware (for LLM observability)",
+    "n": "fuseji",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/sserada/fuseji"
+  },
+  {
+    "c": "Dictionary and IME",
+    "d": "SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.",
+    "n": "JMdictSQLite",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/seanmcbroom/JMdictSQLite"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,

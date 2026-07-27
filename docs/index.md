@@ -7,7 +7,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [887件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [889件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [315 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
@@ -56,14 +56,14 @@
 ## 🎉 The latest additions
 
 **Python**
- * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。
+ * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
 
-**JavaScript**
- * [genshijin](https://github.com/interfacex-co-jp/genshijin) - About genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
- * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。
- * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - 16段階のパイプライン、バッチ処理、エンコーディングの自動検出、およびエージェント対応APIを備えた自動日本語テキストクリーニングWebツール
+**Dictionary and IME**
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。
 
-_Updated on Jul 21, 2026_
+Output: JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。
+
+_Updated on Jul 28, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -693,6 +693,7 @@ _Updated on Jul 21, 2026_
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - 日本の税金の主要情報源のためのOSS MCPサーバー（法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例）
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル
  * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。
+ * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -906,6 +907,7 @@ _Updated on Jul 21, 2026_
 |[open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zeimu-ai/open-zeimu-mcp?style=social)|
 |[llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-moshi?style=social)|
 |[shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk-python?style=social)|
+|[fuseji](https://github.com/sserada/fuseji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sserada/fuseji?style=social)|
 
 
 ## C++
@@ -1550,6 +1552,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - スミレ 完全オフラインの日本語キーボードアプリ
  * [Sumibi](https://github.com/kiyoka/Sumibi) - ChatGPT APIによって強化された日本語入力方法
  * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IME
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。Output: JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1640,6 +1643,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kazumaproject/japanesekeyboard?style=social)|
 |[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
 |[rakukan](https://github.com/fukuyori/rakukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fukuyori/rakukan?style=social)|
+|[JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/seanmcbroom/JMdictSQLite?style=social)|
 
 
 ## Corpus

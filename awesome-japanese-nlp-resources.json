@@ -4141,6 +4141,18 @@
                     "zh-hans": "为Shirabe日本数据API提供官方Python SDK — 预制的LangChain / OpenAI Agents SDK工具，用于日文姓名读取（基于JMnedict支持的候选人）、姓名拆分、地址规范化、企业编号查找和日历（六曜）。零依赖核心。",
                     "zh-hant": "為Shirabe Japan數據API官方Python SDK - 提供現成的LangChain / OpenAI Agents SDK工具，用於日本姓名讀取（JMnedict支持的候選人）、姓名拆分、地址規範化、企業編號查找和日曆（六曜）。零依賴核心。"
                 }
+            },
+            "https://github.com/sserada/fuseji": {
+                "sub_category": null,
+                "repository_name": "fuseji",
+                "user_name": "sserada",
+                "description": "日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）",
+                "multilingual_descriptions": {
+                    "en": "Japanese-specific PII detection and masking middleware (for LLM observability)",
+                    "ja": "日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）",
+                    "zh-hans": "日本语专用的PII检测和数据脱敏中间件（LLM可观测性用）",
+                    "zh-hant": "日本語專用的PII檢測和遮蔽中間件（LLM可觀察性專用）"
+                }
             }
         },
         "C++": {
@@ -7516,6 +7528,18 @@
                     "ja": "ローカルLLMを利用した、Windows 向け日本語 IME",
                     "zh-hans": "使用本地LLM，适用于Windows的日语输入法",
                     "zh-hant": "使用本地LLM，針對Windows的日文IME"
+                }
+            },
+            "https://github.com/seanmcbroom/JMdictSQLite": {
+                "sub_category": null,
+                "repository_name": "JMdictSQLite",
+                "user_name": "seanmcbroom",
+                "description": "SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.",
+                "multilingual_descriptions": {
+                    "en": "SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.",
+                    "ja": "JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。\n\nOutput: JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。",
+                    "zh-hans": "JMdict和Kanjidic的SQLite数据库，一个日语-英语词典。每天自动更新。\n\nJMdict和Kanjidic的SQLite数据库，一个日语-英语词典。每天自动更新。",
+                    "zh-hant": "JMdict和Kanjidic的SQLite數據庫，一本日英詞典。自動每日更新。"
                 }
             }
         },

@@ -7,7 +7,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了887個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了889個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
 - [列出了315個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 
     ## Claude Code 外掛
@@ -56,14 +56,12 @@
 ## 🎉 The latest additions
 
 **Python**
- * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 為Shirabe Japan數據API官方Python SDK - 提供現成的LangChain / OpenAI Agents SDK工具，用於日本姓名讀取（JMnedict支持的候選人）、姓名拆分、地址規範化、企業編號查找和日曆（六曜）。零依賴核心。
+ * [fuseji](https://github.com/sserada/fuseji) - 日本語專用的PII檢測和遮蔽中間件（LLM可觀察性專用）
 
-**JavaScript**
- * [genshijin](https://github.com/interfacex-co-jp/genshijin) - 關於原始人🗿| 面向Claude Code / Codex等AI代理人的超壓縮溝通技巧。基於caveman的日文版本，最佳化日文特有的冗長表達。
- * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - 官方TypeScript SDK為Shirabe日本數據API提供支持 - 預製的Vercel AI SDK / LangChain工具，用於日本姓名拆分/閱讀、地址規範化、企業編號查找和日曆（六曜）。核心部分無運行時依賴。
- * [japanese-text-cleaner](https://github.com/albertaworlds/japanese-text-cleaner) - 具有16步流程、批處理、編碼自動檢測和代理準備API的自動化日文文本清理Web工具 | 搭載16種清理規則的日語文本自動整形Web工具
+**Dictionary and IME**
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdict和Kanjidic的SQLite數據庫，一本日英詞典。自動每日更新。
 
-_Updated on Jul 21, 2026_
+_Updated on Jul 28, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -693,6 +691,7 @@ _Updated on Jul 21, 2026_
  * [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) - OSS MCP伺服器用於日本稅務主要來源（法令・通達・稅務答案・質疑回答案例・文件回答案例・裁決案例）
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi：日本語全雙工口語對話模型
  * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 為Shirabe Japan數據API官方Python SDK - 提供現成的LangChain / OpenAI Agents SDK工具，用於日本姓名讀取（JMnedict支持的候選人）、姓名拆分、地址規範化、企業編號查找和日曆（六曜）。零依賴核心。
+ * [fuseji](https://github.com/sserada/fuseji) - 日本語專用的PII檢測和遮蔽中間件（LLM可觀察性專用）
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -906,6 +905,7 @@ _Updated on Jul 21, 2026_
 | 🔗 [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) | - | - | ⭐ 1 | 🟢 june|
 | 🔗 [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) | - | - | ⭐ 21 | 🟡 march|
 | 🔗 [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) | - | - | ⭐ 0 | 🟢 last friday|
+| 🔗 [fuseji](https://github.com/sserada/fuseji) | - | - | ⭐ 0 | 🟢 june|
 
 
 ## C++
@@ -1550,6 +1550,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) - 菫 完全離線的日文鍵盤應用程式
  * [Sumibi](https://github.com/kiyoka/Sumibi) - 由ChatGPT API提供動力的日文輸入法
  * [rakukan](https://github.com/fukuyori/rakukan) - 使用本地LLM，針對Windows的日文IME
+ * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdict和Kanjidic的SQLite數據庫，一本日英詞典。自動每日更新。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1640,6 +1641,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [japanesekeyboard](https://github.com/kazumaproject/japanesekeyboard) | - | - | ⭐ 316 | 🟢 today|
 | 🔗 [Sumibi](https://github.com/kiyoka/Sumibi) | - | - | ⭐ 58 | 🟢 yesterday|
 | 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 22 | 🟢 last tuesday|
+| 🔗 [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) | - | - | ⭐ 5 | 🟢 today|
 
 
 ## Corpus
