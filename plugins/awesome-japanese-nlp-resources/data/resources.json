@@ -8880,6 +8880,26 @@
     "u": "https://github.com/seanmcbroom/JMdictSQLite"
   },
   {
+    "c": "Rust crate",
+    "d": "A high-performance Rust crate for deinflecting Japanese words using perfect hash tables",
+    "n": "jp-deinflector",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/btrkeks/jp-deinflector"
+  },
+  {
+    "c": "JavaScript",
+    "d": "PII-JA NER Browser Demo",
+    "n": "pii-ja-ner-onnx-demo",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/shirokane-suri/pii-ja-ner-onnx-demo"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,

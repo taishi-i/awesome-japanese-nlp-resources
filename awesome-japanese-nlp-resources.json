@@ -4853,6 +4853,18 @@
                     "zh-hans": "这是一个用于读取MeCab预编译词典，进行解析和重建，最终转换为可用于Vibrato或Lindera等Mecab兼容tokenizer的字典的Rust crate。",
                     "zh-hant": "這是一個用於讀取MeCab編譯好的詞典，進行解析和重構，最終轉換為可用於Vibrato或Lindera等Mecab兼容tokenizer的詞典的Rust crate。"
                 }
+            },
+            "https://github.com/btrkeks/jp-deinflector": {
+                "sub_category": null,
+                "repository_name": "jp-deinflector",
+                "user_name": "btrkeks",
+                "description": "A high-performance Rust crate for deinflecting Japanese words using perfect hash tables",
+                "multilingual_descriptions": {
+                    "en": "A high-performance Rust crate for deinflecting Japanese words using perfect hash tables",
+                    "ja": "完璧なハッシュテーブルを使用して日本語の単語を変換するための高性能なRustクレート",
+                    "zh-hans": "一个高性能的Rust包，使用完美哈希表对日语单词进行解析",
+                    "zh-hant": "一個高性能的Rust庫，使用完美的哈希表對日文單詞進行解析"
+                }
             }
         },
         "JavaScript": {
@@ -5394,6 +5406,18 @@
                     "ja": "Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。",
                     "zh-hans": "Shirabe日本数据API的官方TypeScript SDK - 为日本姓名拆分/阅读、地址规范化、企业编号查找和日历（六曜）提供现成的Vercel AI SDK / LangChain工具。核心部分没有任何运行时依赖。",
                     "zh-hant": "官方TypeScript SDK為Shirabe日本數據API提供支持 - 預製的Vercel AI SDK / LangChain工具，用於日本姓名拆分/閱讀、地址規範化、企業編號查找和日曆（六曜）。核心部分無運行時依賴。"
+                }
+            },
+            "https://github.com/shirokane-suri/pii-ja-ner-onnx-demo": {
+                "sub_category": null,
+                "repository_name": "pii-ja-ner-onnx-demo",
+                "user_name": "shirokane-suri",
+                "description": "PII-JA NER Browser Demo",
+                "multilingual_descriptions": {
+                    "en": "PII-JA NER Browser Demo",
+                    "ja": "PII-JA NER ブラウザデモ",
+                    "zh-hans": "PII-JA NER 浏览器演示",
+                    "zh-hant": "PII-JA NER 瀏覽器演示"
                 }
             }
         },

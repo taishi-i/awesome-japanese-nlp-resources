@@ -7,7 +7,7 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了889個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了891個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
 - [列出了315個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
 
     ## Claude Code 外掛
@@ -55,13 +55,13 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [fuseji](https://github.com/sserada/fuseji) - 日本語專用的PII檢測和遮蔽中間件（LLM可觀察性專用）
+**Rust**
+ * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 一個高性能的Rust庫，使用完美的哈希表對日文單詞進行解析
 
-**Dictionary and IME**
- * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdict和Kanjidic的SQLite數據庫，一本日英詞典。自動每日更新。
+**JavaScript**
+ * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER 瀏覽器演示
 
-_Updated on Jul 28, 2026_
+_Updated on Aug 04, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1061,6 +1061,7 @@ _Updated on Jul 28, 2026_
  * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - 輕量級的日文輸入法，使用Rust語言編寫
  * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - 由Rust製作的日本語辭典，支援Telegram機器人、AWS Lambda和Cloudflare Workers。支援LLM和搜索RAG。
  * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - 這是一個用於讀取MeCab編譯好的詞典，進行解析和重構，最終轉換為可用於Vibrato或Lindera等Mecab兼容tokenizer的詞典的Rust crate。
+ * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 一個高性能的Rust庫，使用完美的哈希表對日文單詞進行解析
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1087,6 +1088,7 @@ _Updated on Jul 28, 2026_
 | 🔗 [matsuba](https://github.com/mrpicklepinosaur/matsuba) | - | - | ⭐ 19 | 🔴 march 2023|
 | 🔗 [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) | - | - | ⭐ 72 | 🟢 july|
 | 🔗 [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) | - | - | ⭐ 1 | 🟢 may|
+| 🔗 [jp-deinflector](https://github.com/btrkeks/jp-deinflector) | - | - | ⭐ 7 | 🟢 last wednesday|
 
 
 ## JavaScript
@@ -1178,6 +1180,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - 酢橘的同義詞詞典
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本增強版的qmd - Vaporetto WASM形態標記分詞器，用於準確的日本BM25搜索
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - 官方TypeScript SDK為Shirabe日本數據API提供支持 - 預製的Vercel AI SDK / LangChain工具，用於日本姓名拆分/閱讀、地址規範化、企業編號查找和日曆（六曜）。核心部分無運行時依賴。
+ * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER 瀏覽器演示
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1207,6 +1210,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) | - | - | ⭐ 15 | 🟢 may|
 | 🔗 [qmd-ja](https://github.com/joycodetech/qmd-ja) | - | - | ⭐ 3 | 🟢 june|
 | 🔗 [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) | - | - | ⭐ 0 | 🟢 last friday|
+| 🔗 [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) | - | - | ⭐ 0 | 🟢 july|
 
 
 ## Go

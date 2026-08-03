@@ -7,7 +7,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [889件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [891件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [315 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
@@ -55,15 +55,13 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
+**Rust**
+ * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 完璧なハッシュテーブルを使用して日本語の単語を変換するための高性能なRustクレート
 
-**Dictionary and IME**
- * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。
+**JavaScript**
+ * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER ブラウザデモ
 
-Output: JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。
-
-_Updated on Jul 28, 2026_
+_Updated on Aug 04, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1063,6 +1061,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - 軽量な日本語IMEをRustで書かれました。
  * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。
  * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
+ * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 完璧なハッシュテーブルを使用して日本語の単語を変換するための高性能なRustクレート
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1089,6 +1088,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[matsuba](https://github.com/mrpicklepinosaur/matsuba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mrpicklepinosaur/matsuba?style=social)|
 |[hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asutorufa/hujiang_dictionary?style=social)|
 |[mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomokane/mecab-dic-converter?style=social)|
+|[jp-deinflector](https://github.com/btrkeks/jp-deinflector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/btrkeks/jp-deinflector?style=social)|
 
 
 ## JavaScript
@@ -1180,6 +1180,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - すだちの類語辞典
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。
+ * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER ブラウザデモ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1209,6 +1210,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 |[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azu/sudachi-synonyms-dictionary?style=social)|
 |[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
 |[shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk?style=social)|
+|[pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shirokane-suri/pii-ja-ner-onnx-demo?style=social)|
 
 
 ## Go
