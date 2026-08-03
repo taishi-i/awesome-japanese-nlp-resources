@@ -1179,6 +1179,7 @@ Other libraries for Japanese NLP in JavaScript
  * [sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary) - Sudachi's synonyms dictionary
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - Japanese-enhanced fork of qmd — Vaporetto WASM morphological tokenizer for accurate Japanese BM25 search
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.
+ * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER Browser Demo
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1208,6 +1209,7 @@ Other libraries for Japanese NLP in JavaScript
 |[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azu/sudachi-synonyms-dictionary?style=social)|
 |[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
 |[shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk?style=social)|
+|[pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shirokane-suri/pii-ja-ner-onnx-demo?style=social)|
 
 
 ## Go
