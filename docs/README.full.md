@@ -1240,6 +1240,7 @@ Additional Go-based Japanese text processing libraries
  * [go-moji](https://github.com/ktnyt/go-moji) - A Go library for Zenkaku/Hankaku conversion
  * [ojichat](https://github.com/greymd/ojichat) - おじさんがLINEやメールで送ってきそうな文を生成する
  * [name](https://github.com/kuniwak/name) - Name Searcher in Japanese
+ * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - 日本語個人情報検出器
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1252,6 +1253,7 @@ Additional Go-based Japanese text processing libraries
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
 |[ojichat](https://github.com/greymd/ojichat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/greymd/ojichat?style=social)|
 |[name](https://github.com/kuniwak/name)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuniwak/name?style=social)|
+|[jp-pii-detector](https://github.com/baneido/jp-pii-detector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/baneido/jp-pii-detector?style=social)|
 
 
 ## Java
