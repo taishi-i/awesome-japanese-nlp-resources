@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [891件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [315 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [893件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [334 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 
 ## Claude Code プラグイン
 
@@ -55,13 +55,13 @@
 
 ## 🎉 The latest additions
 
-**Rust**
- * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 完璧なハッシュテーブルを使用して日本語の単語を変換するための高性能なRustクレート
+**Python**
+ * [moine](https://github.com/tagucci/moine) - 日本語と中国語（北京語）のためのローマ字対応文字列比較。
 
-**JavaScript**
- * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER ブラウザデモ
+**Go**
+ * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - Japanese Personal Information Detector
 
-_Updated on Aug 04, 2026_
+_Updated on Aug 09, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -692,6 +692,7 @@ _Updated on Aug 04, 2026_
  * [llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi) - LLM-jp-Moshi: 日本語フルデュプレックス音声対話モデル
  * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。
  * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
+ * [moine](https://github.com/tagucci/moine) - 日本語と中国語（北京語）のためのローマ字対応文字列比較。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -906,6 +907,7 @@ _Updated on Aug 04, 2026_
 |[llm-jp-moshi](https://github.com/llm-jp/llm-jp-moshi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/llm-jp-moshi?style=social)|
 |[shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk-python?style=social)|
 |[fuseji](https://github.com/sserada/fuseji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sserada/fuseji?style=social)|
+|[moine](https://github.com/tagucci/moine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tagucci/moine?style=social)|
 
 
 ## C++
@@ -1237,6 +1239,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
  * [go-moji](https://github.com/ktnyt/go-moji) - 全角/半角変換のためのGoライブラリ
  * [ojichat](https://github.com/greymd/ojichat) - おじさんがLINEやメールで送ってきそうな文を生成する
  * [name](https://github.com/kuniwak/name) - 日本語の名前検索者
+ * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - Japanese Personal Information Detector
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1249,6 +1252,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
 |[go-moji](https://github.com/ktnyt/go-moji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ktnyt/go-moji?style=social)|
 |[ojichat](https://github.com/greymd/ojichat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/greymd/ojichat?style=social)|
 |[name](https://github.com/kuniwak/name)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kuniwak/name?style=social)|
+|[jp-pii-detector](https://github.com/baneido/jp-pii-detector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/baneido/jp-pii-detector?style=social)|
 
 
 ## Java

@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [891 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [315 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [893 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [334 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 
 ## Claude Code Plugin
 
@@ -56,13 +56,13 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 
 ## 🎉 The latest additions
 
-**Rust**
- * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - A high-performance Rust crate for deinflecting Japanese words using perfect hash tables
+**Python**
+ * [moine](https://github.com/tagucci/moine) - Romanization-aware string comparison for Japanese and Mandarin Chinese.
 
-**JavaScript**
- * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER Browser Demo
+**Go**
+ * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - 日本語個人情報検出器
 
-_Updated on Aug 04, 2026_
+_Updated on Aug 09, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

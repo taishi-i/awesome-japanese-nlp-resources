@@ -4153,6 +4153,18 @@
                     "zh-hans": "日本语专用的PII检测和数据脱敏中间件（LLM可观测性用）",
                     "zh-hant": "日本語專用的PII檢測和遮蔽中間件（LLM可觀察性專用）"
                 }
+            },
+            "https://github.com/tagucci/moine": {
+                "sub_category": null,
+                "repository_name": "moine",
+                "user_name": "tagucci",
+                "description": "Romanization-aware string comparison for Japanese and Mandarin Chinese.",
+                "multilingual_descriptions": {
+                    "en": "Romanization-aware string comparison for Japanese and Mandarin Chinese.",
+                    "ja": "日本語と中国語（北京語）のためのローマ字対応文字列比較。",
+                    "zh-hans": "针对日语和普通话的罗马音感知字符串比较。",
+                    "zh-hant": "考慮羅馬拼音的字串比較，適用於日語和普通話。"
+                }
             }
         },
         "C++": {
@@ -5528,6 +5540,18 @@
                     "ja": "日本語の名前検索者",
                     "zh-hans": "日语姓名搜索器",
                     "zh-hant": "日本名稱搜索器"
+                }
+            },
+            "https://github.com/baneido/jp-pii-detector": {
+                "sub_category": null,
+                "repository_name": "jp-pii-detector",
+                "user_name": "baneido",
+                "description": "日本語個人情報検出器",
+                "multilingual_descriptions": {
+                    "en": "Japanese personal information detector",
+                    "ja": "Japanese Personal Information Detector",
+                    "zh-hans": "日本语个人信息检测器",
+                    "zh-hant": "日本語個人資訊檢測器"
                 }
             }
         },
