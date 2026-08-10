@@ -9,6 +9,7 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 - Listed information on [893 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
 - Listed information on [334 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- 🎉 We are excited to announce the release of [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides), a curated list of presentation slides for Japanese NLP, on August 9, 2026!
 
 ## Claude Code Plugin
 
@@ -62,7 +63,7 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 **Go**
  * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - 日本語個人情報検出器
 
-_Updated on Aug 09, 2026_
+_Updated on Aug 11, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

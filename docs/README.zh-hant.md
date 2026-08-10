@@ -8,7 +8,8 @@
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
 - [列出了893個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了334個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md) を掲載中
+- [列出了334個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md)
+- 🎉 我們於2026年8月9日發布了日語NLP發表投影片的精選列表 [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides)！
 
     ## Claude Code 外掛
 
@@ -61,7 +62,7 @@
 **Go**
  * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - 日本語個人資訊檢測器
 
-_Updated on Aug 09, 2026_
+_Updated on Aug 11, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)

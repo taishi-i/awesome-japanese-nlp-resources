@@ -9,6 +9,7 @@
 
 - [893件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [334 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- 🎉 2026年8月9日、日本語NLPの発表スライドを集めた [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides) をリリースしました！
 
 ## Claude Code プラグイン
 
@@ -61,7 +62,7 @@
 **Go**
  * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - Japanese Personal Information Detector
 
-_Updated on Aug 09, 2026_
+_Updated on Aug 11, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
