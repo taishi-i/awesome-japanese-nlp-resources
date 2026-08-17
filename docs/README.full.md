@@ -1944,6 +1944,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [pfgen-bench](https://github.com/pfnet-research/pfgen-bench) - Preferred Generation Benchmark
  * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau: A Japanese tau-bench for Benchmarking Tool-Agent-User Interaction in Real-World Domains
  * [bbh-ja](https://github.com/pfnet-research/bbh-ja) - Japanese Translation of BIG-Bench-Hard (https://github.com/suzgunmirac/BIG-Bench-Hard/)
+ * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: Japanese instruction Following Benchmark
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2137,6 +2138,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[pfgen-bench](https://github.com/pfnet-research/pfgen-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/pfgen-bench?style=social)|
 |[j-tau-bench](https://github.com/sbintuitions/j-tau-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/j-tau-bench?style=social)|
 |[bbh-ja](https://github.com/pfnet-research/bbh-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/bbh-ja?style=social)|
+|[jfbench](https://github.com/pfnet-research/jfbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/jfbench?style=social)|
 
 
 ## Tutorial
