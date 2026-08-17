@@ -10243,6 +10243,54 @@
                     "zh-hans": "结构化的日语汉字和词汇JSON数据集按JLPT级别组织，附有英文和俄文翻译 — 可用于语言学习应用程序、自然语言处理和汉字学习工具。",
                     "zh-hant": "結構的日本漢字和詞彙JSON數據集，按JLPT級別組織，附有英文和俄文翻譯 — 適用於語言學習應用程序、自然語言處理和漢字學習工具。"
                 }
+            },
+            "https://github.com/pfnet-research/pfgen-bench": {
+                "sub_category": null,
+                "repository_name": "pfgen-bench",
+                "user_name": "pfnet-research",
+                "description": "Preferred Generation Benchmark",
+                "multilingual_descriptions": {
+                    "en": "Preferred Generation Benchmark",
+                    "ja": "希望世代の基準",
+                    "zh-hans": "首选的一代基准",
+                    "zh-hant": "首選世代基準"
+                }
+            },
+            "https://github.com/sbintuitions/j-tau-bench": {
+                "sub_category": null,
+                "repository_name": "j-tau-bench",
+                "user_name": "sbintuitions",
+                "description": "J-tau: A Japanese tau-bench for Benchmarking Tool-Agent-User Interaction in Real-World Domains",
+                "multilingual_descriptions": {
+                    "en": "J-tau: A Japanese tau-bench for Benchmarking Tool-Agent-User Interaction in Real-World Domains",
+                    "ja": "J-tau：現実世界のドメインでのツールエージェントユーザーインタラクションのベンチマークツール、J-tau",
+                    "zh-hans": "J-tau：一个用于在真实世界领域中对工具-代理-用户交互进行基准测试的日本tau台。",
+                    "zh-hant": "J-tau：一個用於在現實世界領域中進行基準測試工具-代理-用戶互動的日本tau臺。"
+                }
+            },
+            "https://github.com/pfnet-research/bbh-ja": {
+                "sub_category": null,
+                "repository_name": "bbh-ja",
+                "user_name": "pfnet-research",
+                "description": "Japanese Translation of BIG-Bench-Hard (https://github.com/suzgunmirac/BIG-Bench-Hard/)",
+                "multilingual_descriptions": {
+                    "en": "Japanese Translation of BIG-Bench-Hard (https://github.com/suzgunmirac/BIG-Bench-Hard/)",
+                    "ja": "BIG-Bench-Hardの日本語翻訳 (https://github.com/suzgunmirac/BIG-Bench-Hard/)",
+                    "zh-hans": "BIG-Bench-Hard的日文翻译 (https://github.com/suzgunmirac/BIG-Bench-Hard/)",
+                    "zh-hant": "BIG-Bench-Hard的日文翻譯 (https://github.com/suzgunmirac/BIG-Bench-Hard/)"
+                }
+            },
+            "https://github.com/pfnet-research/jfbench": {
+                "sub_category": null,
+                "repository_name": "jfbench",
+                "user_name": "pfnet-research",
+                "description": "JFBench: Japanese instruction Following Benchmark",
+                "multilingual_descriptions": {
+                    "en": "JFBench: Japanese instruction Following Benchmark",
+                    "ja": "JFBench: 日本語指示に従うベンチマーク",
+                    "zh-hans": "JFBench：日语指令跟随基准",
+                    "zh-hant": "JFBench：日語指令跟隨基準"
+                }
             }
         },
         "Tutorial": {

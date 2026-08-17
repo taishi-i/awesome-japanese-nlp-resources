@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [893件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [334 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [897件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [354 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年8月9日、日本語NLPの発表スライドを集めた [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides) をリリースしました！
 
 ## Claude Code プラグイン
@@ -56,13 +56,13 @@
 
 ## 🎉 The latest additions
 
-**Python**
- * [moine](https://github.com/tagucci/moine) - 日本語と中国語（北京語）のためのローマ字対応文字列比較。
+**Corpus**
+ * [pfgen-bench](https://github.com/pfnet-research/pfgen-bench) - 希望世代の基準
+ * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau：現実世界のドメインでのツールエージェントユーザーインタラクションのベンチマークツール、J-tau
+ * [bbh-ja](https://github.com/pfnet-research/bbh-ja) - BIG-Bench-Hardの日本語翻訳 (https://github.com/suzgunmirac/BIG-Bench-Hard/)
+ * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: 日本語指示に従うベンチマーク
 
-**Go**
- * [jp-pii-detector](https://github.com/baneido/jp-pii-detector) - Japanese Personal Information Detector
-
-_Updated on Aug 11, 2026_
+_Updated on Aug 18, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1940,6 +1940,10 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
  * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - G2P評価のためのJVS非パラコーパスのカタカナ注釈
  * [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) - JLPTレベル別に整理された日本語漢字と語彙のJSONデータセットを英語とロシア語の翻訳付きで提供。言語学習アプリ、自然言語処理、漢字学習ツールにすぐに利用可能。
+ * [pfgen-bench](https://github.com/pfnet-research/pfgen-bench) - 希望世代の基準
+ * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau：現実世界のドメインでのツールエージェントユーザーインタラクションのベンチマークツール、J-tau
+ * [bbh-ja](https://github.com/pfnet-research/bbh-ja) - BIG-Bench-Hardの日本語翻訳 (https://github.com/suzgunmirac/BIG-Bench-Hard/)
+ * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: 日本語指示に従うベンチマーク
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2130,6 +2134,10 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[kaomoji-data](https://github.com/kaomojikan/kaomoji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaomojikan/kaomoji-data?style=social)|
 |[jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/jvs_nonpara_kana?style=social)|
 |[jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AnchorI/jlpt-kanji-dictionary?style=social)|
+|[pfgen-bench](https://github.com/pfnet-research/pfgen-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/pfgen-bench?style=social)|
+|[j-tau-bench](https://github.com/sbintuitions/j-tau-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/j-tau-bench?style=social)|
+|[bbh-ja](https://github.com/pfnet-research/bbh-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/bbh-ja?style=social)|
+|[jfbench](https://github.com/pfnet-research/jfbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/jfbench?style=social)|
 
 
 ## Tutorial

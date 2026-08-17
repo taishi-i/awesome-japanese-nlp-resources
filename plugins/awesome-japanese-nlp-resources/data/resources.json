@@ -8920,6 +8920,46 @@
     "u": "https://github.com/baneido/jp-pii-detector"
   },
   {
+    "c": "Corpus",
+    "d": "Preferred Generation Benchmark",
+    "n": "pfgen-bench",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/pfnet-research/pfgen-bench"
+  },
+  {
+    "c": "Corpus",
+    "d": "J-tau: A Japanese tau-bench for Benchmarking Tool-Agent-User Interaction in Real-World Domains",
+    "n": "j-tau-bench",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/sbintuitions/j-tau-bench"
+  },
+  {
+    "c": "Corpus",
+    "d": "Japanese Translation of BIG-Bench-Hard (https://github.com/suzgunmirac/BIG-Bench-Hard/)",
+    "n": "bbh-ja",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/pfnet-research/bbh-ja"
+  },
+  {
+    "c": "Corpus",
+    "d": "JFBench: Japanese instruction Following Benchmark",
+    "n": "jfbench",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/pfnet-research/jfbench"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,
