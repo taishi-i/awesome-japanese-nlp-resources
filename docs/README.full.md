@@ -1942,6 +1942,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - Katakana annotation of JVS nonpara corpus for G2P evaluation
  * [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) - Structured Japanese Kanji and Vocabulary JSON datasets organized by JLPT level with English and Russian translations — ready for use in language learning apps, NLP, and kanji study tools.
  * [pfgen-bench](https://github.com/pfnet-research/pfgen-bench) - Preferred Generation Benchmark
+ * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau: A Japanese tau-bench for Benchmarking Tool-Agent-User Interaction in Real-World Domains
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2133,6 +2134,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/jvs_nonpara_kana?style=social)|
 |[jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AnchorI/jlpt-kanji-dictionary?style=social)|
 |[pfgen-bench](https://github.com/pfnet-research/pfgen-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/pfgen-bench?style=social)|
+|[j-tau-bench](https://github.com/sbintuitions/j-tau-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/j-tau-bench?style=social)|
 
 
 ## Tutorial
