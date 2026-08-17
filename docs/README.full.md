@@ -1941,6 +1941,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [kaomoji-data](https://github.com/kaomojikan/kaomoji-data) - 約1,700種類の日本語顔文字を全件、かな読み（擬態語・キーワード）・タグ・カテゴリでアノテーションした構造化JSONデータセット。多カテゴリ対応・カテゴリ別ファイル分割、MITライセンス。
  * [jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana) - Katakana annotation of JVS nonpara corpus for G2P evaluation
  * [jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary) - Structured Japanese Kanji and Vocabulary JSON datasets organized by JLPT level with English and Russian translations — ready for use in language learning apps, NLP, and kanji study tools.
+ * [pfgen-bench](https://github.com/pfnet-research/pfgen-bench) - Preferred Generation Benchmark
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2131,6 +2132,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[kaomoji-data](https://github.com/kaomojikan/kaomoji-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kaomojikan/kaomoji-data?style=social)|
 |[jvs_nonpara_kana](https://github.com/CyberAgentAILab/jvs_nonpara_kana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/jvs_nonpara_kana?style=social)|
 |[jlpt-kanji-dictionary](https://github.com/AnchorI/jlpt-kanji-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AnchorI/jlpt-kanji-dictionary?style=social)|
+|[pfgen-bench](https://github.com/pfnet-research/pfgen-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/pfgen-bench?style=social)|
 
 
 ## Tutorial
