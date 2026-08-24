@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [897件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [354 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [898件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [368 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年8月9日、日本語NLPの発表スライドを集めた [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides) をリリースしました！
 
 ## Claude Code プラグイン
@@ -56,13 +56,10 @@
 
 ## 🎉 The latest additions
 
-**Corpus**
- * [pfgen-bench](https://github.com/pfnet-research/pfgen-bench) - 希望世代の基準
- * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau：現実世界のドメインでのツールエージェントユーザーインタラクションのベンチマークツール、J-tau
- * [bbh-ja](https://github.com/pfnet-research/bbh-ja) - BIG-Bench-Hardの日本語翻訳 (https://github.com/suzgunmirac/BIG-Bench-Hard/)
- * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: 日本語指示に従うベンチマーク
+**Rust**
+ * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
 
-_Updated on Aug 18, 2026_
+_Updated on Aug 24, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1065,6 +1062,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。
  * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
  * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 完璧なハッシュテーブルを使用して日本語の単語を変換するための高性能なRustクレート
+ * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1092,6 +1090,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asutorufa/hujiang_dictionary?style=social)|
 |[mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomokane/mecab-dic-converter?style=social)|
 |[jp-deinflector](https://github.com/btrkeks/jp-deinflector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/btrkeks/jp-deinflector?style=social)|
+|[mikke](https://github.com/kimushun1101/mikke)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kimushun1101/mikke?style=social)|
 
 
 ## JavaScript

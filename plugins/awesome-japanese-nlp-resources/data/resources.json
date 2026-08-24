@@ -8960,6 +8960,16 @@
     "u": "https://github.com/pfnet-research/jfbench"
   },
   {
+    "c": "Rust crate",
+    "d": "Local search CLI for Japanese Markdown notes 👀 — BM25 full-text search (SQLite FTS5) + optional local semantic/hybrid. Single binary, no external API usage, for AI coding agents.",
+    "n": "mikke",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/kimushun1101/mikke"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,
