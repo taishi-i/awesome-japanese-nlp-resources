@@ -8970,6 +8970,36 @@
     "u": "https://github.com/kimushun1101/mikke"
   },
   {
+    "c": "Python library",
+    "d": "I don't understand the meaning of converting BPE tokenizer into a huge regular expression.",
+    "n": "bpe2regex",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/t3tra-dev/bpe2regex"
+  },
+  {
+    "c": "Rust crate",
+    "d": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing",
+    "n": "suiko",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/nwiizo/suiko"
+  },
+  {
+    "c": "Corpus",
+    "d": "AI character, filler, laughter, and emotion-focused Japanese TTS corpus (CC0)",
+    "n": "aica-corpus",
+    "ns": 0.0,
+    "s": "",
+    "sc": 0.0,
+    "st": 0,
+    "u": "https://github.com/reinehonoka/aica-corpus"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,

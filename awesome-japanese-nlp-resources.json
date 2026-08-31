@@ -4165,6 +4165,18 @@
                     "zh-hans": "针对日语和普通话的罗马音感知字符串比较。",
                     "zh-hant": "考慮羅馬拼音的字串比較，適用於日語和普通話。"
                 }
+            },
+            "https://github.com/t3tra-dev/bpe2regex": {
+                "sub_category": null,
+                "repository_name": "bpe2regex",
+                "user_name": "t3tra-dev",
+                "description": "BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ",
+                "multilingual_descriptions": {
+                    "en": "I don't understand the meaning of converting BPE tokenizer into a huge regular expression.",
+                    "ja": "BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ",
+                    "zh-hans": "将BPE分词器转换为巨大的正则表达式是什么意思？",
+                    "zh-hant": "將BPE分詞器轉換為巨大的正規表達式是什麼意思？"
+                }
             }
         },
         "C++": {
@@ -4888,6 +4900,18 @@
                     "ja": "日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。",
                     "zh-hans": "日语 Markdown 笔记的本地搜索 CLI 👀 — BM25 全文搜索（SQLite FTS5）+ 可选的本地语义/混合。单一二进制文件，不使用外部 API，适用于 AI 编码代理。",
                     "zh-hant": "日本語 Markdown 筆記本的本地搜索 CLI 👀 — BM25 全文搜索（SQLite FTS5）+ 可選的本地語義/混合。單一二進制文件，不使用外部 API，適用於 AI 編碼代理。"
+                }
+            },
+            "https://github.com/nwiizo/suiko": {
+                "sub_category": null,
+                "repository_name": "suiko",
+                "user_name": "nwiizo",
+                "description": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing",
+                "multilingual_descriptions": {
+                    "en": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing",
+                    "ja": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / 自然で読みやすい日本語文章のための決定論的診断",
+                    "zh-hans": "用Rust CLI可以再现日语文档的自然和易读性，确保诊断结果的确定性。",
+                    "zh-hant": "能夠再現日文文件的自然和易讀性的Rust CLI / 確定性診斷，用於自然且易讀的日文寫作"
                 }
             }
         },
@@ -10302,6 +10326,18 @@
                     "ja": "JFBench: 日本語指示に従うベンチマーク",
                     "zh-hans": "JFBench：日语指令跟随基准",
                     "zh-hant": "JFBench：日語指令跟隨基準"
+                }
+            },
+            "https://github.com/reinehonoka/aica-corpus": {
+                "sub_category": null,
+                "repository_name": "aica-corpus",
+                "user_name": "reinehonoka",
+                "description": "AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）",
+                "multilingual_descriptions": {
+                    "en": "AI character, filler, laughter, and emotion-focused Japanese TTS corpus (CC0)",
+                    "ja": "AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）",
+                    "zh-hans": "AI角色、填充、笑声、情感表达专用的日语TTS语料库（CC0）",
+                    "zh-hant": "AI角色、填充、笑聲、情感表達專用的日語TTS語料庫（CC0）"
                 }
             }
         },

@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [898件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [368 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [901件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [376 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年8月9日、日本語NLPの発表スライドを集めた [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides) をリリースしました！
 
 ## Claude Code プラグイン
@@ -57,9 +57,15 @@
 ## 🎉 The latest additions
 
 **Rust**
- * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
+ * [suiko](https://github.com/nwiizo/suiko) - 日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / 自然で読みやすい日本語文章のための決定論的診断
 
-_Updated on Aug 24, 2026_
+**Python**
+* [bpe2regex](https://github.com/t3tra-dev/bpe2regex) - BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ
+
+**Corpus**
+ * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
+
+_Updated on Sep 01, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -691,6 +697,7 @@ _Updated on Aug 24, 2026_
  * [shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python) - 日本のデータAPI用の公式Python SDK - 日本語の名前読み取り（JMnedictによる候補）、名前の分割、住所の正規化、法人番号の検索、カレンダー（六曜）のためのLangChain / OpenAI Agents SDKツールがすでに用意されています。 依存関係のないコア。
  * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
  * [moine](https://github.com/tagucci/moine) - 日本語と中国語（北京語）のためのローマ字対応文字列比較。
+ * [bpe2regex](https://github.com/t3tra-dev/bpe2regex) - BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ
 
 
 |Name|downloads/week|total downloads|stars|
@@ -906,6 +913,7 @@ _Updated on Aug 24, 2026_
 |[shirabe-sdk-python](https://github.com/techwell-inc-jp/shirabe-sdk-python)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk-python?style=social)|
 |[fuseji](https://github.com/sserada/fuseji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sserada/fuseji?style=social)|
 |[moine](https://github.com/tagucci/moine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tagucci/moine?style=social)|
+|[bpe2regex](https://github.com/t3tra-dev/bpe2regex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t3tra-dev/bpe2regex?style=social)|
 
 
 ## C++
@@ -1063,6 +1071,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
  * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - 完璧なハッシュテーブルを使用して日本語の単語を変換するための高性能なRustクレート
  * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
+ * [suiko](https://github.com/nwiizo/suiko) - 日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / 自然で読みやすい日本語文章のための決定論的診断
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1091,6 +1100,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomokane/mecab-dic-converter?style=social)|
 |[jp-deinflector](https://github.com/btrkeks/jp-deinflector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/btrkeks/jp-deinflector?style=social)|
 |[mikke](https://github.com/kimushun1101/mikke)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kimushun1101/mikke?style=social)|
+|[suiko](https://github.com/nwiizo/suiko)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nwiizo/suiko?style=social)|
 
 
 ## JavaScript
@@ -1943,6 +1953,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau：現実世界のドメインでのツールエージェントユーザーインタラクションのベンチマークツール、J-tau
  * [bbh-ja](https://github.com/pfnet-research/bbh-ja) - BIG-Bench-Hardの日本語翻訳 (https://github.com/suzgunmirac/BIG-Bench-Hard/)
  * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: 日本語指示に従うベンチマーク
+ * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2137,6 +2148,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[j-tau-bench](https://github.com/sbintuitions/j-tau-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/j-tau-bench?style=social)|
 |[bbh-ja](https://github.com/pfnet-research/bbh-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/bbh-ja?style=social)|
 |[jfbench](https://github.com/pfnet-research/jfbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/jfbench?style=social)|
+|[aica-corpus](https://github.com/reinehonoka/aica-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reinehonoka/aica-corpus?style=social)|
 
 
 ## Tutorial

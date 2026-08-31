@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [898 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [368 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [901 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [376 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides), a curated list of presentation slides for Japanese NLP, on August 9, 2026!
 
 ## Claude Code Plugin
@@ -58,9 +58,15 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 ## 🎉 The latest additions
 
 **Rust**
- * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
+ * [suiko](https://github.com/nwiizo/suiko) - 日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing
 
-_Updated on Aug 24, 2026_
+**Python**
+* [bpe2regex](https://github.com/t3tra-dev/bpe2regex) - BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ
+
+**Corpus**
+ * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
+
+_Updated on Sep 01, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
