@@ -1946,6 +1946,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [j-tau-bench](https://github.com/sbintuitions/j-tau-bench) - J-tau: A Japanese tau-bench for Benchmarking Tool-Agent-User Interaction in Real-World Domains
  * [bbh-ja](https://github.com/pfnet-research/bbh-ja) - Japanese Translation of BIG-Bench-Hard (https://github.com/suzgunmirac/BIG-Bench-Hard/)
  * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: Japanese instruction Following Benchmark
+ * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2140,6 +2141,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[j-tau-bench](https://github.com/sbintuitions/j-tau-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/j-tau-bench?style=social)|
 |[bbh-ja](https://github.com/pfnet-research/bbh-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/bbh-ja?style=social)|
 |[jfbench](https://github.com/pfnet-research/jfbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/jfbench?style=social)|
+|[aica-corpus](https://github.com/reinehonoka/aica-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reinehonoka/aica-corpus?style=social)|
 
 
 ## Tutorial
