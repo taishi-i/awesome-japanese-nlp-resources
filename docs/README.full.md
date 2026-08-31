@@ -1064,6 +1064,7 @@ Supplementary crates for Japanese text and IME processing
  * [mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter) - MeCab 用のコンパイル済み辞書を読み取り、解析・再構成し、最終的に Vibrato や Lindera のようなMecab互換 tokenizer が使える辞書へ変換するための Rust crate です。
  * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - A high-performance Rust crate for deinflecting Japanese words using perfect hash tables
  * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
+ * [suiko](https://github.com/nwiizo/suiko) - 日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1092,6 +1093,7 @@ Supplementary crates for Japanese text and IME processing
 |[mecab-dic-converter](https://github.com/tomokane/mecab-dic-converter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tomokane/mecab-dic-converter?style=social)|
 |[jp-deinflector](https://github.com/btrkeks/jp-deinflector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/btrkeks/jp-deinflector?style=social)|
 |[mikke](https://github.com/kimushun1101/mikke)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kimushun1101/mikke?style=social)|
+|[suiko](https://github.com/nwiizo/suiko)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nwiizo/suiko?style=social)|
 
 
 ## JavaScript
