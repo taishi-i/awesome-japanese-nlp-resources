@@ -320,6 +320,7 @@ Libraries that automatically translate text between languages
 
  * [jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
  * [JASS](https://github.com/Mao-KU/JASS) - JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation (LREC2020) & Linguistically Driven Multi-Task Pre-Training for Low-Resource Neural Machine Translation (ACM TALLIP)
+ * [jp-zh-max](https://github.com/3060226349kk-cmd/ja-zh-max) - A Claude Code skill for Japanese→Chinese translation, featuring a 9-stage workflow pipeline with 20 distilled techniques from the Gao Ning textbook and a 4-layer validation chain. Outputs bilingual Japanese-Chinese parallel text.
  * [PheMT](https://github.com/cl-tohoku/PheMT) - A phenomenon-wise evaluation dataset for Japanese-English machine translation robustness. The dataset is based on the MTNT dataset, with additional annotations of four linguistic phenomena; Proper Noun, Abbreviated Noun, Colloquial Expression, and Variant. COLING 2020.
  * [VISA](https://github.com/ku-nlp/VISA) - An ambiguous subtitles dataset for visual scene-aware machine translation
  * [plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) - A command-line interface for translation using the plamo-2-translate model with local execution.
