@@ -4913,6 +4913,18 @@
                     "zh-hans": "用Rust CLI可以再现日语文档的自然和易读性，确保诊断结果的确定性。",
                     "zh-hant": "能夠再現日文文件的自然和易讀性的Rust CLI / 確定性診斷，用於自然且易讀的日文寫作"
                 }
+            },
+            "https://github.com/vbkaisetsu/daac-bpe": {
+                "sub_category": null,
+                "repository_name": "daac-bpe",
+                "user_name": "vbkaisetsu",
+                "description": "Fast incremental BPE tokenizer based on daachorse",
+                "multilingual_descriptions": {
+                    "en": "Fast incremental BPE tokenizer based on daachorse",
+                    "ja": "daachorseに基づいた高速増分BPEトークナイザー",
+                    "zh-hans": "基于daachorse的快速增量BPE分词器",
+                    "zh-hant": "基於daachorse的快速增量BPE分詞器"
+                }
             }
         },
         "JavaScript": {

@@ -202,11 +202,11 @@ All data is bundled in the plugin at `data/resources.json` and sourced from the 
 | Corpus / Dataset | GitHub | 226 |
 | Hugging Face models | Hugging Face | 174 |
 | Hugging Face datasets | Hugging Face | 137 |
-| JavaScript / Rust / C++ / Go / Java | GitHub | 129 |
+| JavaScript / Rust / C++ / Go / Java | GitHub | 130 |
 | Dictionary and IME | GitHub | 88 |
 | Pretrained model / ChatGPT | GitHub | 69 |
 | Tutorials / Research summaries | GitHub | 40 |
-| **Total** | | **1,211** |
+| **Total** | | **1,212** |
 <!-- END AUTO-COUNTS -->
 
 ## License
