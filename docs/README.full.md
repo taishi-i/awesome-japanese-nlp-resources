@@ -1073,6 +1073,7 @@ Supplementary crates for Japanese text and IME processing
  * [jp-deinflector](https://github.com/btrkeks/jp-deinflector) - A high-performance Rust crate for deinflecting Japanese words using perfect hash tables
  * [mikke](https://github.com/kimushun1101/mikke) - 日本語 Markdown ノートのローカル検索 CLI 👀 — BM25 全文検索 (SQLite FTS5) + optional なローカル semantic/hybrid。単一バイナリ・外部 API 不使用、AI コーディングエージェント向け。
  * [suiko](https://github.com/nwiizo/suiko) - 日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing
+ * [daac-bpe](https://github.com/vbkaisetsu/daac-bpe) - Fast incremental BPE tokenizer based on daachorse
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1102,6 +1103,7 @@ Supplementary crates for Japanese text and IME processing
 |[jp-deinflector](https://github.com/btrkeks/jp-deinflector)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/btrkeks/jp-deinflector?style=social)|
 |[mikke](https://github.com/kimushun1101/mikke)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kimushun1101/mikke?style=social)|
 |[suiko](https://github.com/nwiizo/suiko)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nwiizo/suiko?style=social)|
+|[daac-bpe](https://github.com/vbkaisetsu/daac-bpe)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/vbkaisetsu/daac-bpe?style=social)|
 
 
 ## JavaScript
