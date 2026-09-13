@@ -2618,18 +2618,6 @@
                     "zh-hant": "微調Whisper ASR模型"
                 }
             },
-            "https://github.com/CjangCjengh/japanese_chatbot": {
-                "sub_category": null,
-                "repository_name": "japanese_chatbot",
-                "user_name": "CjangCjengh",
-                "description": "A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder",
-                "multilingual_descriptions": {
-                    "en": "A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder",
-                    "ja": "BERTとTransformerのデコーダーを使用した日本語チャットボットのPyTorch実装",
-                    "zh-hans": "使用BERT和Transformer解码器的日语聊天机器人的PyTorch实现",
-                    "zh-hant": "使用BERT和Transformer解碼器的日語聊天機器人的PyTorch實現"
-                }
-            },
             "https://github.com/yamamaya/radicalchar": {
                 "sub_category": null,
                 "repository_name": "radicalchar",
@@ -2894,18 +2882,6 @@
                     "zh-hant": "自動從code.google.com/p/mozc-morse匯出"
                 }
             },
-            "https://github.com/faruzan0820/natsume": {
-                "sub_category": null,
-                "repository_name": "natsume",
-                "user_name": "faruzan0820",
-                "description": "A Japanese text frontend processing toolkit",
-                "multilingual_descriptions": {
-                    "en": "A Japanese text frontend processing toolkit",
-                    "ja": "日本語テキストフロントエンド処理ツールキット",
-                    "zh-hans": "一个日文文本前端处理工具包",
-                    "zh-hant": "一個日文文本前端處理工具包"
-                }
-            },
             "https://github.com/litagin02/vits-japros-webui": {
                 "sub_category": null,
                 "repository_name": "vits-japros-webui",
@@ -3060,18 +3036,6 @@
                     "ja": "日本語のSimCSEを探索中",
                     "zh-hans": "探索日本SimCSE",
                     "zh-hant": "探索日本SimCSE"
-                }
-            },
-            "https://github.com/lawofcycles/wikipedia-japanese-open-rag": {
-                "sub_category": null,
-                "repository_name": "wikipedia-japanese-open-rag",
-                "user_name": "lawofcycles",
-                "description": "Wikipediaの日本語記事を元に、ユーザの質問に回答するGradioベースのRAGのサンプル",
-                "multilingual_descriptions": {
-                    "en": "Sample RAG based on Gradio to answer user questions using Japanese Wikipedia articles",
-                    "ja": "Wikipediaの日本語記事を元に、ユーザの質問に回答するGradioベースのRAGのサンプル",
-                    "zh-hans": "基于Wikipedia日语文章的Gradio基础RAG示例，用于回答用户问题。",
-                    "zh-hant": "根據Wikipedia的日文文章，回答用戶問題的Gradio基於RAG的示例。"
                 }
             },
             "https://github.com/northern-system-service/gpt4-autoeval": {
@@ -5276,18 +5240,6 @@
                     "zh-hant": "mecab-ipadic種子詞典閱讀器"
                 }
             },
-            "https://github.com/LuanRT/Japanese-Word-Of-The-Day": {
-                "sub_category": null,
-                "repository_name": "Japanese-Word-Of-The-Day",
-                "user_name": "LuanRT",
-                "description": "Well, a different Japanese word everyday.",
-                "multilingual_descriptions": {
-                    "en": "Well, a different Japanese word everyday.",
-                    "ja": "毎日違う日本語の単語。",
-                    "zh-hans": "每天一个不同的日语单词。",
-                    "zh-hant": "每天一個不同的日語單詞。"
-                }
-            },
             "https://github.com/esrille/oskim": {
                 "sub_category": null,
                 "repository_name": "oskim",
@@ -6470,18 +6422,6 @@
                     "ja": "AIベースの会話型アバターを超高速で構築する",
                     "zh-hans": "快速构建基于人工智能的对话化头像",
                     "zh-hant": "快速建立基於人工智慧的對話化頭像"
-                }
-            },
-            "https://github.com/City-of-Kobe/pva-aoai-integration-solution": {
-                "sub_category": null,
-                "repository_name": "pva-aoai-integration-solution",
-                "user_name": "City-of-Kobe",
-                "description": "このリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。",
-                "multilingual_descriptions": {
-                    "en": "This repository is intended to package and release the flows and other solutions created for the trial use of ChatGPT at Kobe City Hall.",
-                    "ja": "このリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。",
-                    "zh-hans": "这个存储库是为了将在神户市政府试用ChatGPT的流程等转化为解决方案并公开而创建的。",
-                    "zh-hant": "這個存儲庫是為了將在神戶市政府進行的ChatGPT試行使用所創建的流程等進行解決方案化並公開。"
                 }
             },
             "https://github.com/azure-samples/jp-azureopenai-samples": {
@@ -8648,18 +8588,6 @@
                     "zh-hant": "www.aozora.gr.jp 的純文字檔案存檔"
                 }
             },
-            "https://github.com/astremo/friendly_JA-Corpus": {
-                "sub_category": null,
-                "repository_name": "friendly_JA-Corpus",
-                "user_name": "astremo",
-                "description": "friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon",
-                "multilingual_descriptions": {
-                    "en": "friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon",
-                    "ja": "friendly_JAは、標準的な漢語辞典の代わりに、ラテン語/英語由来のカタカナ語彙を使用して日本語をより簡単にすることを目的とした、日本語から日本語への並列コーパスです。",
-                    "zh-hans": "friendly_JA是一个平行的日语到日语语料库，旨在通过使用拉丁/英语衍生的片假名词汇表，而不是标准的汉日词汇表，使日语更容易理解。",
-                    "zh-hant": "friendly_JA 是一個平行的日語對日語語料庫，旨在通過使用拉丁/英語衍生的片假名詞彙表，而不是標準的漢日詞彙表，使日語更容易。"
-                }
-            },
             "https://github.com/scriptin/topokanji": {
                 "sub_category": null,
                 "repository_name": "topokanji",
@@ -8874,18 +8802,6 @@
                     "ja": "日本語フェイクニュースデータセット",
                     "zh-hans": "日语假新闻数据集",
                     "zh-hant": "日本語假新聞資料庫"
-                }
-            },
-            "https://github.com/aiishii/jpn_explainable_qa_dataset": {
-                "sub_category": null,
-                "repository_name": "jpn_explainable_qa_dataset",
-                "user_name": "aiishii",
-                "description": "jpn_explainable_qa_dataset",
-                "multilingual_descriptions": {
-                    "en": "jpn_explainable_qa_dataset",
-                    "ja": "jpn_explainable_qa_dataset",
-                    "zh-hans": "jpn可解释问答数据集",
-                    "zh-hant": "jpn可解釋問答數據集"
                 }
             },
             "https://github.com/nlp-titech/copa-japanese": {
@@ -9726,18 +9642,6 @@
                     "ja": "テキスト形式で日本の法律を追跡するリポジトリ",
                     "zh-hans": "用文本格式跟踪日本法律的存储库",
                     "zh-hant": "用文本格式跟踪日本法律的存储库"
-                }
-            },
-            "https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists": {
-                "sub_category": null,
-                "repository_name": "japanese-subtitles-word-kanji-frequency-lists",
-                "user_name": "chriskempson",
-                "description": "A word frequency list derived from subtitles from Japanese drama, anime and films.",
-                "multilingual_descriptions": {
-                    "en": "A word frequency list derived from subtitles from Japanese drama, anime and films.",
-                    "ja": "日本のドラマ、アニメ、映画の字幕から派生した単語の頻度リスト。",
-                    "zh-hans": "从日本戏剧、动漫和电影字幕中提取的词频列表。",
-                    "zh-hant": "從日本戲劇、動畫和電影字幕中提取的詞頻列表"
                 }
             },
             "https://github.com/yamagoya/jconj": {

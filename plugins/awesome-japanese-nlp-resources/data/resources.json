@@ -120,26 +120,6 @@
     "u": "https://github.com/BrambleXu/jp-stopword-filter"
   },
   {
-    "c": "ChatGPT",
-    "d": "This repository is intended to package and release the flows and other solutions created for the trial use of ChatGPT at Kobe City Hall.",
-    "n": "pva-aoai-integration-solution",
-    "ns": 4.08,
-    "s": "Annotation and Dataset Development",
-    "sc": -0.222,
-    "st": 34,
-    "u": "https://github.com/City-of-Kobe/pva-aoai-integration-solution"
-  },
-  {
-    "c": "Python library",
-    "d": "A PyTorch Implementation of japanese chatbot using BERT and Transformer's decoder",
-    "n": "japanese_chatbot",
-    "ns": 1.59,
-    "s": "Natural Language Interfaces, Dialogue Systems & Conversational Agents, Language Models, Semantic Text Processing",
-    "sc": -0.31,
-    "st": 3,
-    "u": "https://github.com/CjangCjengh/japanese_chatbot"
-  },
-  {
     "c": "Python library",
     "d": "Tacotron2 implementation of Japanese",
     "n": "tacotron2-japanese",
@@ -678,16 +658,6 @@
     "sc": -0.094,
     "st": 79,
     "u": "https://github.com/Leko/goya"
-  },
-  {
-    "c": "JavaScript",
-    "d": "Well, a different Japanese word everyday.",
-    "n": "Japanese-Word-Of-The-Day",
-    "ns": 2.05,
-    "s": "Semantic Text Processing",
-    "sc": -0.304,
-    "st": 5,
-    "u": "https://github.com/LuanRT/Japanese-Word-Of-The-Day"
   },
   {
     "c": "ChatGPT",
@@ -1261,16 +1231,6 @@
   },
   {
     "c": "Corpus",
-    "d": "jpn_explainable_qa_dataset",
-    "n": "jpn_explainable_qa_dataset",
-    "ns": 1.26,
-    "s": "Responsible & Trustworthy NLP, Natural Language Interfaces, Question Answering, Explainability & Interpretability in NLP, Annotation and Dataset Development",
-    "sc": -0.313,
-    "st": 2,
-    "u": "https://github.com/aiishii/jpn_explainable_qa_dataset"
-  },
-  {
-    "c": "Corpus",
     "d": "Trilingual (English, Japanese, Chinese) QA benchmark for medical LLM",
     "n": "medLLM_QA_benchmark",
     "ns": 0.0,
@@ -1488,16 +1448,6 @@
     "sc": -0.315,
     "st": 1,
     "u": "https://github.com/asahi-y/jnli-neg"
-  },
-  {
-    "c": "Corpus",
-    "d": "friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon",
-    "n": "friendly_JA-Corpus",
-    "ns": 0.0,
-    "s": "Multilinguality, Machine Translation, Annotation and Dataset Development",
-    "sc": -0.318,
-    "st": 0,
-    "u": "https://github.com/astremo/friendly_JA-Corpus"
   },
   {
     "c": "Pretrained model",
@@ -1778,16 +1728,6 @@
     "sc": -0.304,
     "st": 5,
     "u": "https://github.com/chrisgrieser/alfred-japanese-dictionary"
-  },
-  {
-    "c": "Corpus",
-    "d": "A word frequency list derived from subtitles from Japanese drama, anime and films.",
-    "n": "japanese-subtitles-word-kanji-frequency-lists",
-    "ns": 0.0,
-    "s": "Annotation and Dataset Development",
-    "sc": 0.0,
-    "st": 0,
-    "u": "https://github.com/chriskempson/japanese-subtitles-word-kanji-frequency-lists"
   },
   {
     "c": "Python library",
@@ -2328,16 +2268,6 @@
     "sc": 0.0,
     "st": 0,
     "u": "https://github.com/europeanplaice/mojimoji-rs"
-  },
-  {
-    "c": "Python library",
-    "d": "A Japanese text frontend processing toolkit",
-    "n": "natsume",
-    "ns": 0.0,
-    "s": "",
-    "sc": -0.318,
-    "st": 0,
-    "u": "https://github.com/faruzan0820/natsume"
   },
   {
     "c": "JavaScript",
@@ -4168,16 +4098,6 @@
     "sc": -0.296,
     "st": 8,
     "u": "https://github.com/lapras-inc/dependency-based-japanese-word-embeddings"
-  },
-  {
-    "c": "Python library",
-    "d": "Sample RAG based on Gradio to answer user questions using Japanese Wikipedia articles",
-    "n": "wikipedia-japanese-open-rag",
-    "ns": 0.0,
-    "s": "Information Extraction & Text Mining, Coreference Resolution, Named Entity Recognition, Annotation and Dataset Development",
-    "sc": -0.318,
-    "st": 0,
-    "u": "https://github.com/lawofcycles/wikipedia-japanese-open-rag"
   },
   {
     "c": "Python library",
