@@ -59,7 +59,7 @@
 **Rust**
  * [daac-bpe](https://github.com/vbkaisetsu/daac-bpe) - 基於daachorse的快速增量BPE分詞器
 
-_Updated on Sep 07, 2026_
+_Updated on Sep 13, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1259,7 +1259,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 用於日文形態素分析與辭典管理的函式庫
 
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromoji是一個自包含且非常易於使用的日語形態分析器，專為搜索而設計。
- * [Sudachi](https://github.com/WorksApplications/Sudachi) - A Japanese Tokenizer for Business
+ * [Sudachi](https://github.com/WorksApplications/Sudachi) - 一個針對商業用途的日文分詞器
  * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - Sudachi詞彙表
  * [meval](https://github.com/teru-oka-1933/meval) - 形態素解析器性能評估系統 MevAL
 
@@ -2146,7 +2146,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [handson-language-models](https://github.com/hnishi/handson-language-models) - 這是日語語言模型的實作指南資料。
  * [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) - 嘗試在Google Colab進行日文文本推論。
  * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - 這是 deep-learning-with-pytorch 的日文版 repository。
- * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
+ * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERT進行文本分類
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - 透過深度學習的自然語言處理（共立出版）支援頁面。
  * [llm-book](https://github.com/ghmagazine/llm-book) - 「大規模言語模型入門」（技術評論社，2023）的GitHub存儲庫
  * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 教程三 創建並學習日語大規模語言模型 - 環境構建步驟與源代碼
@@ -2160,7 +2160,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025年的教程“地理信息和语言处理实践入门”的资料和源代码
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 用Python解决「自然语言处理100道练习 2025」
  * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『主題模型』(機器學習專業系列)的筆記
- * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
+ * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音學研討會2025教程「多模式大規模語言模型入門」資料
  * [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) - 印象出版社「IT基礎教養 自然語言處理＆圖像分析」
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 書籍「現場中應用的生成AI代理人實踐入門」（講談社科學社）中使用的源代碼
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024年度 立教大學大學院 人工智能科學研究科 自然語言處理特論

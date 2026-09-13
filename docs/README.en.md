@@ -60,7 +60,7 @@ For full documentation, see the [plugin README](https://github.com/taishi-i/awes
 **Rust**
  * [daac-bpe](https://github.com/vbkaisetsu/daac-bpe) - Fast incremental BPE tokenizer based on daachorse
 
-_Updated on Sep 07, 2026_
+_Updated on Sep 13, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -2147,7 +2147,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [handson-language-models](https://github.com/hnishi/handson-language-models) - This is a hands-on material for a Japanese language model.
  * [JapaneseNLI](https://github.com/verypluming/JapaneseNLI) - Trying Japanese text inference on Google Colab.
  * [deep-learning-with-pytorch-ja](https://github.com/Gin5050/deep-learning-with-pytorch-ja) - deep-learning-with-pytorchの日本語版repositoryです。
- * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
+ * [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - Text classification using BERT in the 2023 version.
  * [python-nlp-book](https://github.com/python-nlp-book/python-nlp-book) - This is the support page for "Natural Language Processing with Deep Learning" (published by Kyoritsu Shuppan)
  * [llm-book](https://github.com/ghmagazine/llm-book) - GitHub repository for "Introduction to Large-scale Language Models" (Gijutsu-Hyoronsha, 2023)
  * [nlp2024-tutorial-3](https://github.com/hiroshi-matsuda-rit/nlp2024-tutorial-3) - NLP2024 Tutorial 3 Creating and Learning a Large-Scale Japanese Language Model - Environment Setup Procedure and Source Code
@@ -2161,7 +2161,7 @@ Guides and tutorials for learning Japanese NLP tools and techniques
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - Tutorial materials and source code for "Introduction to Geographic Information and Language Processing in Practice" in NLP2025.
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - Solving "Language Processing 100 Knock 2025" with Python
  * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - Notes on "Topic Model" (Machine Learning Professional Series)
- * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
+ * [slp2025](https://github.com/ryota-komatsu/slp2025) - Sound Studies Symposium 2025 Tutorial "Introduction to Multimodal Large-Scale Language Models" Materials
  * [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) - Impress Corporation "IT Fundamentals: Natural Language Processing & Image Analysis"
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - Source code used in the book "Practical Introduction to Generative AI Agents for Practical Use on the Field" (Kodansha Scientific Co., Ltd.)
  * [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) - 2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing

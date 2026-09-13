@@ -59,7 +59,7 @@
 **Rust**
  * [daac-bpe](https://github.com/vbkaisetsu/daac-bpe) - daachorseに基づいた高速増分BPEトークナイザー
 
-_Updated on Sep 07, 2026_
+_Updated on Sep 13, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -1259,7 +1259,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
 日本語形態素解析と辞書管理を行うライブラリ
 
  * [kuromoji](https://github.com/atilika/kuromoji) - Kuromojiは、検索用に設計された自己完結型で非常に使いやすい日本語形態素解析器です。
- * [Sudachi](https://github.com/WorksApplications/Sudachi) - A Japanese Tokenizer for Business
+ * [Sudachi](https://github.com/WorksApplications/Sudachi) - ビジネス向けの日本語トークナイザー
  * [SudachiDict](https://github.com/WorksApplications/SudachiDict) - すだちの語彙集
  * [meval](https://github.com/teru-oka-1933/meval) - 形態素解析器性能評価システム MevAL
 
