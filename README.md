@@ -2257,3 +2257,4 @@ Summaries of studies and papers in Japanese NLP research
  * [sarumaj](https://github.com/sarumaj) - [github](https://github.com/sarumaj)
  * [ln2058](https://github.com/ln2058) - [github](https://github.com/ln2058)
  * [ajtgjmdjp](https://github.com/ajtgjmdjp) - [github](https://github.com/ajtgjmdjp)
+ * [tahodev](https://github.com/tahodev) - [github](https://github.com/tahodev)
