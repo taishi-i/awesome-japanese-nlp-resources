@@ -428,6 +428,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
  * [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) - llm-lora-classification
  * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the "rinna/japanese-gpt-neox..." [gpt-neox] model converted to ggml.
  * [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) - このリポジトリは日本語LLMのキャラクターロールプレイに関する性能を評価するために作成しました。
+ * [ponys-ai-character-consistency-benchmark](https://github.com/wujoe132/ponys-ai-character-consistency-benchmark) - 日本語を含む7言語でAIキャラクターの長期記憶、人格、関係状態、視覚的同一性を評価する事前登録済み140ケースのプロトコル（結果は未収集、[公式サイト](https://ponys.ai/)）。
  * [japanese-llm-ranking](https://github.com/yuzu-ai/japanese-llm-ranking) - This repository supports YuzuAI's Rakuda leaderboard of Japanese LLMs, which is a Japanese-focused analogue of LMSYS' Vicuna eval.
  * [llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) - このツールは、複数のデータセットを横断して日本語の大規模言語モデルを自動評価するものです．
  * [llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) - This repository contains the code for supervised fine-tuning of LLM-jp models.
