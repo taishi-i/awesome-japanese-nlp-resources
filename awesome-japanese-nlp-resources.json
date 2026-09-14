@@ -4141,6 +4141,18 @@
                     "zh-hans": "将BPE分词器转换为巨大的正则表达式是什么意思？",
                     "zh-hant": "將BPE分詞器轉換為巨大的正規表達式是什麼意思？"
                 }
+            },
+            "https://github.com/ayutaz/sanoTTS-jp": {
+                "sub_category": null,
+                "repository_name": "sanoTTS-jp",
+                "user_name": "ayutaz",
+                "description": "559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）",
+                "multilingual_descriptions": {
+                    "en": "Real-time synthesis of Japanese TTS with 559 K parameters on ESP32-S3. Morphological analysis and accent estimation of Kanji-Kana mixed text run on the device (confirmed on M5Stack CoreS3 actual machine). Inference is done with dependency-free C99, with a browser demo available. Japanese clean-room reimplementation of sanoTTS from arXiv:2608.21378. ⚠️ The code is MIT, but the weight distribution model is not MIT (LICENSE-MODEL.md. Usage restrictions propagate to the output)",
+                    "ja": "559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）",
+                    "zh-hans": "在ESP32-S3上实时合成559K参数的日语TTS。在设备内进行汉字假名混合文的形态素分析和重音推测（在M5Stack CoreS3实际设备上确认）。推理使用无依赖的C99，有浏览器演示。arXiv:2608.21378 sanoTTS的日语干净室重新实现。⚠️ 代码采用MIT许可，但分发模型的权重不是MIT（LICENSE-MODEL.md。输出中的用途限制会传播）\n在ESP32-S3上实时合成559K参数的日语TTS。在设备内进行汉字假名混合文的形态素分析和重音推测（在M5Stack CoreS3实际设备上确认）。推理使用无依赖的C99，有浏览器演示。arXiv:2608.21378 sanoTTS的日语干净室重新实现。⚠️ 代码采用MIT许可，但分发模型的权重不是MIT（LICENSE-MODEL.md。输出中的用途限制会传播）",
+                    "zh-hant": "使用 ESP32-S3 實時合成 559 K 日文 TTS 參數。在設備內運行漢字假名混合文的形態素分析和重音推測（在 M5Stack CoreS3 實機上進行確認）。推論是基於無依賴的 C99，有瀏覽器演示。arXiv:2608.21378 sanoTTS 的日文乾淨室重新實現。⚠️ 代碼是 MIT，但分發模型的權重不是 MIT（LICENSE-MODEL.md。輸出會傳播用途限制）"
+                }
             }
         },
         "C++": {
@@ -5566,6 +5578,18 @@
                     "ja": "Kuromojiは、検索用に設計された自己完結型で非常に使いやすい日本語形態素解析器です。",
                     "zh-hans": "Kuromoji是一个自包含且非常易于使用的日语形态分析器，专为搜索而设计。",
                     "zh-hant": "Kuromoji是一個自包含且非常易於使用的日語形態分析器，專為搜索而設計。"
+                }
+            },
+            "https://github.com/WorksApplications/Sudachi": {
+                "sub_category": "Morphology analysis",
+                "repository_name": "Sudachi",
+                "user_name": "WorksApplications",
+                "description": "A Japanese Tokenizer for Business",
+                "multilingual_descriptions": {
+                    "en": "SudachiPy 0.6* and above are developed as Sudachi.rs.",
+                    "ja": "SudachiPy 0.6以上はSudachi.rsとして開発されています。",
+                    "zh-hans": "SudachiPy 0.6及以上版本已经开发为Sudachi.rs。",
+                    "zh-hant": "SudachiPy 0.6*及以上版本已開發為Sudachi.rs。"
                 }
             },
             "https://github.com/WorksApplications/SudachiDict": {
@@ -10402,6 +10426,18 @@
                     "zh-hant": "這是 deep-learning-with-pytorch 的日文版 repository。"
                 }
             },
+            "https://github.com/hppRC/bert-classification-tutorial": {
+                "sub_category": null,
+                "repository_name": "bert-classification-tutorial",
+                "user_name": "hppRC",
+                "description": "【2023年版】BERTによるテキスト分類",
+                "multilingual_descriptions": {
+                    "en": "Text classification using BERT in the 2023 version.",
+                    "ja": "【2023年版】BERTによるテキスト分類",
+                    "zh-hans": "【2023年版】基于BERT的文本分类",
+                    "zh-hant": "【2023年版】BERT進行文本分類"
+                }
+            },
             "https://github.com/python-nlp-book/python-nlp-book": {
                 "sub_category": null,
                 "repository_name": "python-nlp-book",
@@ -10556,6 +10592,18 @@
                     "ja": "『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート",
                     "zh-hans": "《主题模型》（机器学习专业系列）笔记",
                     "zh-hant": "『主題模型』(機器學習專業系列)的筆記"
+                }
+            },
+            "https://github.com/ryota-komatsu/slp2025": {
+                "sub_category": null,
+                "repository_name": "slp2025",
+                "user_name": "ryota-komatsu",
+                "description": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
+                "multilingual_descriptions": {
+                    "en": "Sound Studies Symposium 2025 Tutorial \"Introduction to Multimodal Large-Scale Language Models\" Materials",
+                    "ja": "音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料",
+                    "zh-hans": "音学研讨会2025教程“多模态大规模语言模型入门”资料",
+                    "zh-hant": "音學研討會2025教程「多模式大規模語言模型入門」資料"
                 }
             },
             "https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai": {

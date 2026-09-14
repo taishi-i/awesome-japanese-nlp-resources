@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [896件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [380 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [897件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [407 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - 🎉 2026年8月9日、日本語NLPの発表スライドを集めた [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides) をリリースしました！
 
 ## Claude Code プラグイン
@@ -56,10 +56,10 @@
 
 ## 🎉 The latest additions
 
-**Rust**
- * [daac-bpe](https://github.com/vbkaisetsu/daac-bpe) - daachorseに基づいた高速増分BPEトークナイザー
+**Python**
+ * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
 
-_Updated on Sep 13, 2026_
+_Updated on Sep 14, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -689,6 +689,7 @@ _Updated on Sep 13, 2026_
  * [fuseji](https://github.com/sserada/fuseji) - 日本語特化のPII検出・マスキングミドルウェア（LLMオブザーバビリティ向け）
  * [moine](https://github.com/tagucci/moine) - 日本語と中国語（北京語）のためのローマ字対応文字列比較。
  * [bpe2regex](https://github.com/t3tra-dev/bpe2regex) - BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ
+ * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
 
 
 |Name|downloads/week|total downloads|stars|
@@ -902,6 +903,7 @@ _Updated on Sep 13, 2026_
 |[fuseji](https://github.com/sserada/fuseji)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sserada/fuseji?style=social)|
 |[moine](https://github.com/tagucci/moine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tagucci/moine?style=social)|
 |[bpe2regex](https://github.com/t3tra-dev/bpe2regex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t3tra-dev/bpe2regex?style=social)|
+|[sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ayutaz/sanoTTS-jp?style=social)|
 
 
 ## C++
