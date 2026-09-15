@@ -74,8 +74,9 @@ The data descriptions are in **English**, so always convert the query intent to 
 | ファインチューニング / fine-tuning | `fine-tun`, `finetun`, `lora`, `peft` | `lora`, `peft`, `qlora` |
 | ベンチマーク・評価 / benchmark | `benchmark`, `evaluat`, `jglue` | `llm-jp-eval`, `jglue`, `nejumi` |
 
-3. **Aim for 4–6 keywords.** Fewer miss items; more than 6 inflates low-quality partial matches.
-4. **If none of the above domains fit**, translate the query intent literally to English stems.
+3. **When the query contains Japanese text, also keep 2–4 raw Japanese terms/phrases** lifted directly from the query (not translated) as a separate `ja_keywords` list. Aliases and some descriptions (`al`, `d_ja` — see Step 3) are Japanese-only, so a literal Japanese substring catches entries an English-only translation would miss entirely — nicknames like `ボイボ` (VOICEVOX), `めかぶ` (mecab), or a Japanese technical term that never got glossed into the English description. Leave `ja_keywords` empty for English queries.
+4. **Aim for 4–6 keywords.** Fewer miss items; more than 6 inflates low-quality partial matches.
+5. **If none of the above domains fit**, translate the query intent literally to English stems.
 
 ### Step 2 — Locate the data file
 
@@ -96,7 +97,9 @@ Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file.
 Each item in the JSON array has:
 - `u`: GitHub or Hugging Face URL
 - `n`: repository/model name
-- `d`: description (English for most items; some Japanese-only items have Japanese descriptions)
+- `d`: English description
+- `d_ja`: Japanese description (GitHub-origin items only; match your `ja_keywords` against this)
+- `al`: curated alternate names / kana nicknames, e.g. `["VOICEVOX", "ボイスボックス", "ボイボ"]` (array of strings, only ~40 items have this — treat a hit here as strong as a name match)
 - `c`: category (e.g. `Python library`, `HuggingFace Model (Text Generation)`, `Corpus`, `Tutorial`, ...)
 - `s`: subcategory / semantic labels (array of strings)
 - `st`: GitHub star count (GitHub items only; absent or 0 otherwise)
@@ -104,8 +107,9 @@ Each item in the JSON array has:
 - `dl`: Hugging Face download count (HF items only; absent or 0 otherwise)
 - `nd`: normalized download score 0–10 (log-scaled, HF items only)
 - `sc`: pre-computed quality score (higher = more popular/active)
+- `status`: `"ok"` or `"not_found"` — items whose repo 404s (~8 of ~1200) are filtered out below; never recommend one
 
-Run the following, substituting `KEYWORDS` with your English keywords list from Step 1:
+Run the following, substituting `KEYWORDS` with your English keywords and `JA_KEYWORDS` with your raw Japanese terms, both from Step 1 (`ja_keywords` may be `[]`):
 
 ```python
 python3 << 'EOF'
@@ -114,14 +118,20 @@ import json
 with open("RESOURCES_PATH") as f:    # absolute path from Step 2
     data = json.load(f)
 
-keywords = ["keyword1", "keyword2", "keyword3"]  # from Step 1
+keywords = ["keyword1", "keyword2", "keyword3"]  # English stems, from Step 1
+ja_keywords = []  # raw Japanese terms from Step 1 -- [] for English queries
 
 results = []
 for item in data:
+    if item.get("status") == "not_found":
+        continue  # dead repo -- never recommend it
+
     n = item.get("n", "").lower()
     d = item.get("d", "").lower()
+    d_ja = item.get("d_ja") or ""
     s = " ".join(item.get("s") or []).lower()
     c = item.get("c", "").lower()
+    al = " ".join(item.get("al") or []).lower()
 
     text_score = 0
     for kw in keywords:
@@ -131,6 +141,12 @@ for item in data:
         if kw in d:       text_score += 5
         if kw in s:       text_score += 3
         if kw in c:       text_score += 2
+        if kw in al:      text_score += 10  # alias hit is name-equivalent
+
+    for kw in ja_keywords:
+        if kw in n:       text_score += 10
+        if kw in d_ja:    text_score += 5
+        if kw in al:      text_score += 10
 
     if text_score < 8:
         continue
@@ -176,6 +192,7 @@ if supplement_cats:
         if cat_match(item.get("c", ""))
         and (item.get("st", 0) or item.get("dl", 0))
         and item["n"] not in seen
+        and item.get("status") != "not_found"
     ]
     extras.sort(key=lambda x: -max(x.get("ns") or 0, x.get("nd") or 0))
     for item in extras[:5]:
@@ -197,7 +214,11 @@ for combined, text_score, item in results[:20]:
     print(f"  u={item['u']}")
     print(f"  c={item['c']}")
     print(f"  s={item.get('s','')}")
+    if item.get('al'):
+        print(f"  al={item['al']}")
     print(f"  d={item.get('d','')[:120]}")
+    if item.get('d_ja'):
+        print(f"  d_ja={item['d_ja'][:120]}")
     print()
 EOF
 ```
