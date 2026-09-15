@@ -15,7 +15,7 @@
 **Python**
  * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
 
-_Updated on Sep 15, 2026_
+_Updated on Sep 16, 2026_
 
 
 ## Claude Code プラグイン
@@ -2258,3 +2258,6 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [ln2058](https://github.com/ln2058) - [github](https://github.com/ln2058)
  * [ajtgjmdjp](https://github.com/ajtgjmdjp) - [github](https://github.com/ajtgjmdjp)
  * [tahodev](https://github.com/tahodev) - [github](https://github.com/tahodev)
+ * [Yuma-Ichikawa](https://github.com/Yuma-Ichikawa) - [github](https://github.com/Yuma-Ichikawa)
+ * [theGlenn](https://github.com/theGlenn) - [github](https://github.com/theGlenn)
+ * [shimo4228](https://github.com/shimo4228) - [github](https://github.com/shimo4228)

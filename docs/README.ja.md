@@ -15,7 +15,7 @@
 **Python**
  * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
 
-_Updated on Sep 15, 2026_
+_Updated on Sep 16, 2026_
 
 
 ## Claude Code プラグイン
@@ -153,7 +153,7 @@ _Updated on Sep 15, 2026_
 | 🔗 [rhoknp](https://github.com/ku-nlp/rhoknp) | 📥 10k | 📦 2M | ⭐ 40 | 🟢 last tuesday|
 | 🔗 [python-vibrato](https://github.com/daac-tools/python-vibrato) | 📥 203 | 📦 127k | ⭐ 46 | 🟡 may|
 | 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 412 | 📦 333k | ⭐ 13 | 🔴 march 2024|
-| 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 41 | 🟡 september 2025|
+| 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 41 | 🔴 september 2025|
 
 
 ### Parsing
@@ -383,7 +383,7 @@ _Updated on Sep 15, 2026_
 | 🔗 [mokuro](https://github.com/kha-white/mokuro) | 📥 370 | 📦 113k | ⭐ 1.7k | 🟢 july|
 | 🔗 [handwritten-japanese-ocr](https://github.com/yas-sim/handwritten-japanese-ocr) | - | - | ⭐ 37 | 🔴 april 2022|
 | 🔗 [OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) | - | - | ⭐ 250 | 🔴 april 2021|
-| 🔗 [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) | - | - | ⭐ 680 | 🟡 september 2025|
+| 🔗 [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) | - | - | ⭐ 680 | 🔴 september 2025|
 | 🔗 [donut](https://github.com/clovaai/donut) | 📥 140 | 📦 204k | ⭐ 6.9k | 🔴 july 2023|
 | 🔗 [JMTrans](https://github.com/ttop32/JMTrans) | - | - | ⭐ 88 | 🔴 january 2021|
 | 🔗 [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) | - | - | ⭐ 153 | 🟢 july|
@@ -469,7 +469,7 @@ _Updated on Sep 15, 2026_
 | 🔗 [llm-jp-tokenizer](https://github.com/llm-jp/llm-jp-tokenizer) | - | - | ⭐ 50 | 🟡 march|
 | 🔗 [japanese-lm-fin-harness](https://github.com/pfnet-research/japanese-lm-fin-harness) | - | - | ⭐ 80 | 🟡 june|
 | 🔗 [ja-vicuna-qa-benchmark](https://github.com/ku-nlp/ja-vicuna-qa-benchmark) | - | - | ⭐ 33 | 🔴 june 2024|
-| 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 26 | 🟡 september 2025|
+| 🔗 [swallow-evaluation](https://github.com/swallow-llm/swallow-evaluation) | - | - | ⭐ 26 | 🔴 september 2025|
 | 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 32 | 🟡 may|
 | 🔗 [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) | - | - | ⭐ 25 | 🔴 january 2019|
 | 🔗 [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) | - | - | ⭐ 24 | 🔴 december 2023|
@@ -810,16 +810,16 @@ _Updated on Sep 15, 2026_
 | 🔗 [bertjsc](https://github.com/er-ri/bertjsc) | - | - | ⭐ 14 | 🔴 august 2024|
 | 🔗 [llm-leaderboard](https://github.com/wandb/llm-leaderboard) | - | - | ⭐ 95 | 🟡 may|
 | 🔗 [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) | - | - | ⭐ 18 | 🟢 last tuesday|
-| 🔗 [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) | - | - | ⭐ 14 | 🟡 september 2025|
+| 🔗 [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) | - | - | ⭐ 14 | 🔴 september 2025|
 | 🔗 [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) | - | - | ⭐ 12 | 🔴 march 2024|
 | 🔗 [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) | - | - | ⭐ 69 | 🔴 october 2023|
 | 🔗 [gpt4-autoeval](https://github.com/northern-system-service/gpt4-autoeval) | - | - | ⭐ 17 | 🔴 june 2024|
-| 🔗 [t5-japanese](https://github.com/sonoisa/t5-japanese) | - | - | ⭐ 118 | 🟡 september 2025|
+| 🔗 [t5-japanese](https://github.com/sonoisa/t5-japanese) | - | - | ⭐ 118 | 🔴 september 2025|
 | 🔗 [japanese_llm_eval](https://github.com/lightblue-tech/japanese_llm_eval) | - | - | ⭐ 5 | 🔴 april 2024|
 | 🔗 [jmteb](https://github.com/sbintuitions/jmteb) | - | - | ⭐ 93 | 🟡 march|
 | 🔗 [pydomino](https://github.com/dwangomediavillage/pydomino) | - | - | ⭐ 40 | 🔴 august 2025|
 | 🔗 [easynovelassistant](https://github.com/zuntan03/easynovelassistant) | - | - | ⭐ 233 | 🔴 july 2024|
-| 🔗 [clip-japanese](https://github.com/sonoisa/clip-japanese) | - | - | ⭐ 13 | 🟡 september 2025|
+| 🔗 [clip-japanese](https://github.com/sonoisa/clip-japanese) | - | - | ⭐ 13 | 🔴 september 2025|
 | 🔗 [rime-jaroomaji](https://github.com/lazyfoxchan/rime-jaroomaji) | - | - | ⭐ 56 | 🟢 last thursday|
 | 🔗 [deep-question-generation](https://github.com/sonoisa/deep-question-generation) | - | - | ⭐ 12 | 🔴 march 2023|
 | 🔗 [magpie-nemotron](https://github.com/aratako/magpie-nemotron) | - | - | ⭐ 8 | 🔴 july 2024|
@@ -853,7 +853,7 @@ _Updated on Sep 15, 2026_
 | 🔗 [whisper-transcription](https://github.com/fumifumi0831/whisper-transcription) | - | - | ⭐ 21 | 🟡 january|
 | 🔗 [pocket-researcher](https://github.com/u-masao/pocket-researcher) | - | - | ⭐ 10 | 🔴 april 2025|
 | 🔗 [jtransbench](https://github.com/webbigdata-jp/jtransbench) | - | - | ⭐ 13 | 🟡 october 2025|
-| 🔗 [easyllasa](https://github.com/zuntan03/easyllasa) | - | - | ⭐ 26 | 🟡 september 2025|
+| 🔗 [easyllasa](https://github.com/zuntan03/easyllasa) | - | - | ⭐ 26 | 🔴 september 2025|
 | 🔗 [kanjikana-model](https://github.com/digital-go-jp/kanjikana-model) | - | - | ⭐ 119 | 🟡 april|
 | 🔗 [deep-openreview-research-ja](https://github.com/tb-yasu/deep-openreview-research-ja) | - | - | ⭐ 13 | 🟡 november 2025|
 | 🔗 [pitchbench](https://github.com/shewiiii/pitchbench) | - | - | ⭐ 2 | 🟡 february|
@@ -1653,7 +1653,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [jisho-open](https://github.com/hlorenzi/jisho-open) | - | - | ⭐ 70 | 🟢 july|
 | 🔗 [macskk](https://github.com/mtgto/macskk) | - | - | ⭐ 311 | 🟢 september|
 | 🔗 [nandoku](https://github.com/marmooo/nandoku) | - | - | ⭐ 1 | 🟡 may|
-| 🔗 [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) | - | - | ⭐ 2 | 🟡 september 2025|
+| 🔗 [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) | - | - | ⭐ 2 | 🔴 september 2025|
 | 🔗 [anthywl](https://github.com/tadeokondrak/anthywl) | - | - | ⭐ 34 | 🔴 april 2025|
 | 🔗 [sekka](https://github.com/kiyoka/sekka) | - | - | ⭐ 24 | 🟡 may|
 | 🔗 [sumibi](https://github.com/kiyoka/sumibi) | - | - | ⭐ 65 | 🟢 september|
@@ -2007,7 +2007,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [loanwords_gairaigo](https://github.com/jamesohortle/loanwords_gairaigo) | - | - | ⭐ 19 | 🔴 january 2021|
 | 🔗 [jawikicorpus](https://github.com/wikiwikification/jawikicorpus) | - | - | ⭐ 4 | 🔴 november 2018|
 | 🔗 [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) | - | - | ⭐ 6 | 🔴 january 2020|
-| 🔗 [wrime](https://github.com/ids-cv/wrime) | - | - | ⭐ 178 | 🟡 september 2025|
+| 🔗 [wrime](https://github.com/ids-cv/wrime) | - | - | ⭐ 178 | 🔴 september 2025|
 | 🔗 [jtubespeech](https://github.com/sarulab-speech/jtubespeech) | - | - | ⭐ 232 | 🔴 march 2023|
 | 🔗 [WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList) | - | - | ⭐ 2 | 🔴 april 2022|
 | 🔗 [kokkosho_data](https://github.com/rindybell/kokkosho_data) | - | - | ⭐ 1 | 🔴 july 2019|
@@ -2064,13 +2064,13 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [koniwa](https://github.com/koniwa/koniwa) | - | - | ⭐ 62 | 🔴 april 2025|
 | 🔗 [JMMLU](https://github.com/nlp-waseda/JMMLU) | - | - | ⭐ 43 | 🟡 october 2025|
 | 🔗 [hurigana-speech-corpus-aozora](https://github.com/ndl-lab/hurigana-speech-corpus-aozora) | - | - | ⭐ 50 | 🔴 march 2025|
-| 🔗 [jqara](https://github.com/hotchpotch/jqara) | - | - | ⭐ 45 | 🟡 september 2025|
+| 🔗 [jqara](https://github.com/hotchpotch/jqara) | - | - | ⭐ 45 | 🔴 september 2025|
 | 🔗 [jemhopqa](https://github.com/aiishii/jemhopqa) | - | - | ⭐ 30 | 🔴 april 2025|
 | 🔗 [jacred](https://github.com/youmima/jacred) | - | - | ⭐ 8 | 🔴 march 2024|
 | 🔗 [jades](https://github.com/naist-nlp/jades) | - | - | ⭐ 0 | 🔴 december 2022|
 | 🔗 [do-not-answer-ja](https://github.com/kunishou/do-not-answer-ja) | - | - | ⭐ 24 | 🔴 december 2023|
 | 🔗 [oasst1-89k-ja](https://github.com/kunishou/oasst1-89k-ja) | - | - | ⭐ 16 | 🔴 november 2023|
-| 🔗 [jacwir](https://github.com/hotchpotch/jacwir) | - | - | ⭐ 9 | 🟡 september 2025|
+| 🔗 [jacwir](https://github.com/hotchpotch/jacwir) | - | - | ⭐ 9 | 🔴 september 2025|
 | 🔗 [japanese-technical-dict](https://github.com/laoshubaby/japanese-technical-dict) | - | - | ⭐ 3 | 🔴 november 2024|
 | 🔗 [j-unimorph](https://github.com/cl-tohoku/j-unimorph) | - | - | ⭐ 9 | 🟡 may|
 | 🔗 [GazeVQA](https://github.com/riken-grp/GazeVQA) | - | - | ⭐ 0 | 🔴 september 2024|
@@ -2119,7 +2119,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [ajimee-bench](https://github.com/azookey/ajimee-bench) | - | - | ⭐ 26 | 🔴 january 2025|
 | 🔗 [j-spaw](https://github.com/takamichi-lab/j-spaw) | - | - | ⭐ 6 | 🔴 august 2025|
 | 🔗 [camera3](https://github.com/cyberagentailab/camera3) | - | - | ⭐ 4 | 🔴 may 2024|
-| 🔗 [jgpqa](https://github.com/llm-jp/jgpqa) | - | - | ⭐ 2 | 🟡 september 2025|
+| 🔗 [jgpqa](https://github.com/llm-jp/jgpqa) | - | - | ⭐ 2 | 🔴 september 2025|
 | 🔗 [tanaka-corpus-plus](https://github.com/marmooo/tanaka-corpus-plus) | - | - | ⭐ 3 | 🔴 june 2021|
 | 🔗 [emotioncorpusjapanesetokushimaa2lab](https://github.com/kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab) | - | - | ⭐ 2 | 🔴 september 2024|
 | 🔗 [osworld-jp](https://github.com/karakuri-ai/osworld-jp) | - | - | ⭐ 2 | 🟡 may|
@@ -2239,7 +2239,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) | - | - | ⭐ 4 | 🔴 may 2025|
 | 🔗 [slp2025](https://github.com/ryota-komatsu/slp2025) | - | - | ⭐ 65 | 🟡 april|
 | 🔗 [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) | - | - | ⭐ 4 | 🔴 june 2025|
-| 🔗 [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) | - | - | ⭐ 206 | 🟡 september 2025|
+| 🔗 [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) | - | - | ⭐ 206 | 🔴 september 2025|
 | 🔗 [course2024-nlp](https://github.com/tomonari-masada/course2024-nlp) | - | - | ⭐ repo not found | 🔴 repo not found|
 | 🔗 [support-genai-book](https://github.com/yoheikikuta/support-genai-book) | - | - | ⭐ 104 | 🟢 august|
 | 🔗 [ir100](https://github.com/ir100/ir100) | - | - | ⭐ 93 | 🟡 december 2025|
@@ -2293,3 +2293,6 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [ln2058](https://github.com/ln2058) - [github](https://github.com/ln2058)
  * [ajtgjmdjp](https://github.com/ajtgjmdjp) - [github](https://github.com/ajtgjmdjp)
  * [tahodev](https://github.com/tahodev) - [github](https://github.com/tahodev)
+ * [Yuma-Ichikawa](https://github.com/Yuma-Ichikawa) - [github](https://github.com/Yuma-Ichikawa)
+ * [theGlenn](https://github.com/theGlenn) - [github](https://github.com/theGlenn)
+ * [shimo4228](https://github.com/shimo4228) - [github](https://github.com/shimo4228)
