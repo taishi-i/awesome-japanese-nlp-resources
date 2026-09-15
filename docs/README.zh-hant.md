@@ -116,9 +116,6 @@ _Updated on Sep 15, 2026_
 ### Morphology analysis
 將日文分詞並標註詞性與基本形的函式庫
 
-<details markdown="1">
-<summary>顯示 17 個項目</summary>
-
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6*及以上版本已開發為Sudachi.rs。
  * [Janome](https://github.com/mocobeta/janome) - 純Python編寫的日語形態分析引擎
  * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - mecab-python。您可以在此處找到原始版本：http://taku910.github.io/mecab/。
@@ -158,14 +155,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 412 | 📦 333k | ⭐ 13 | 🔴 march 2024|
 | 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 41 | 🟡 september 2025|
 
-</details>
-
 
 ### Parsing
 分析日文句法與依存結構的函式庫
-
-<details markdown="1">
-<summary>顯示 13 個項目</summary>
 
  * [ginza](https://github.com/megagonlabs/ginza) - 一個基於Universal Dependencies的spaCy框架的日本NLP庫
  * [cabocha](https://github.com/ikegami-yukino/cabocha) - 另一個日本依存結構分析器
@@ -198,14 +190,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 | 🔴 february 2025|
 | 🔗 [jdeppy](https://github.com/matsurih/jdeppy) | 📥 8 | 📦 12k | ⭐ 3 | 🔴 february 2022|
 
-</details>
-
 
 ### Converter
 在假名、羅馬字與全形半形之間轉換的函式庫
-
-<details markdown="1">
-<summary>顯示 18 個項目</summary>
 
  * [pykakasi](https://github.com/miurahr/pykakasi) - 輕量級的轉換器，可將日文假名漢字句子轉換為假名羅馬字。
  * [cutlet](https://github.com/polm/cutlet) - Python中的日文轉羅馬字轉換器
@@ -248,14 +235,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [kanjiconv](https://github.com/sea-turt1e/kanjiconv) | 📥 415 | 📦 27k | ⭐ 20 | 🟢 august|
 | 🔗 [kanjize](https://github.com/nagataaaas/kanjize) | 📥 24k | 📦 2M | ⭐ 68 | 🔴 june 2025|
 
-</details>
-
 
 ### Preprocessor
 在分析前進行文字正規化與清理的函式庫
-
-<details markdown="1">
-<summary>顯示 8 個項目</summary>
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - mecab-neologd 的日文文本正規化工具
  * [jaconv](https://github.com/ikegami-yukino/jaconv) - 純Python日文字符互轉器，支援平假名、片假名、半角和全角。
@@ -278,14 +260,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [python-habachen](https://github.com/Hizuru3/python-habachen) | 📥 6k | 📦 2M | ⭐ 6 | 🟡 october 2025|
 | 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 53 | 📦 34k | ⭐ 6 | 🔴 june 2025|
 
-</details>
-
 
 ### Sentence splitter
 自動偵測句子邊界並分割文字的函式庫
-
-<details markdown="1">
-<summary>顯示 9 個項目</summary>
 
  * [Bunkai](https://github.com/megagonlabs/bunkai) - 日本語文境界判定工具
  * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - 日本語句子分解器
@@ -309,8 +286,6 @@ _Updated on Sep 15, 2026_
 | 🔗 [kuzukiri](https://github.com/alinear-corp/kuzukiri) | 📥 49 | 📦 30k | ⭐ 6 | 🔴 june 2025|
 | 🔗 [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) | - | - | ⭐ 10 | 🔴 february 2023|
 | 🔗 [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) | 📥 78 | 📦 10k | ⭐ 77 | 🟡 october 2025|
-
-</details>
 
 
 ### Sentiment analysis
@@ -354,9 +329,6 @@ _Updated on Sep 15, 2026_
 ### Named entity recognition
 從文字中擷取人名、地名與組織名的函式庫
 
-<details markdown="1">
-<summary>顯示 9 個項目</summary>
-
  * [namaco](https://github.com/chakki-works/namaco) - 基於字元的命名實體識別。
  * [entitypedia](https://github.com/chakki-works/entitypedia) - Entitypedia是一個從維基百科擴展出來的命名實體詞典。
  * [noyaki](https://github.com/ken11/noyaki) - 將字符跨度標籤信息轉換為基於分詞文本的標籤信息。
@@ -380,14 +352,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) | - | - | ⭐ 16 | 🔴 october 2023|
 | 🔗 [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) | - | - | ⭐ 2 | 🔴 june 2024|
 
-</details>
-
 
 ### OCR
 從影像中辨識文字並轉換為文字資料的函式庫
-
-<details markdown="1">
-<summary>顯示 19 個項目</summary>
 
  * [Manga OCR](https://github.com/kha-white/manga-ocr) - 關於日文文字的光學字符識別，主要聚焦於日本漫畫。
  * [mokuro](https://github.com/kha-white/mokuro) - 在瀏覽器中閱讀日本漫畫，並可選擇文字。
@@ -432,14 +399,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [meikiocr](https://github.com/rtr46/meikiocr) | 📥 727 | 📦 51k | ⭐ 92 | 🟡 april|
 | 🔗 [meikipop](https://github.com/rtr46/meikipop) | - | - | ⭐ 662 | 🟡 june|
 
-</details>
-
 
 ### Tool for pretrained models
 利用預訓練模型以提升準確度與效率的函式庫
-
-<details markdown="1">
-<summary>顯示 33 個項目</summary>
 
  * [JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE：日本通用語言理解評估
  * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - 在spacy-transformers中使用自定義分詞器
@@ -511,8 +473,6 @@ _Updated on Sep 15, 2026_
 | 🔗 [swallow-evaluation-instruct](https://github.com/swallow-llm/swallow-evaluation-instruct) | - | - | ⭐ 32 | 🟡 may|
 | 🔗 [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) | - | - | ⭐ 25 | 🔴 january 2019|
 | 🔗 [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) | - | - | ⭐ 24 | 🔴 december 2023|
-
-</details>
 
 
 ### Others
@@ -1013,9 +973,6 @@ _Updated on Sep 15, 2026_
 ### Morphology analysis
 以Rust實作的日文形態素分析套件
 
-<details markdown="1">
-<summary>顯示 9 個項目</summary>
-
  * [lindera](https://github.com/lindera-morphology/lindera) - 一個形態學分析庫。
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto：基於點預測的高速分詞器
  * [goya](https://github.com/Leko/goya) - 用 Rust 寫的日語形態分析
@@ -1039,14 +996,9 @@ _Updated on Sep 15, 2026_
 | 🔗 [kanpyo](https://github.com/togatoga/kanpyo) | - | 📦 2.5k | ⭐ 109 | 🟡 february|
 | 🔗 [mecrab](https://github.com/cool-japan/mecrab) | - | - | ⭐ 7 | 🟡 january|
 
-</details>
-
 
 ### Converter
 用於日文文字與表記轉換的套件
-
-<details markdown="1">
-<summary>顯示 9 個項目</summary>
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 檢查和轉換日文字符（平假名、片假名）和羅馬字的實用程式庫
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 一個 Rust 函式庫，可將日文半角ｶﾅ和全角英數轉換為正常字符。
@@ -1070,8 +1022,6 @@ _Updated on Sep 15, 2026_
 | 🔗 [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) | - | - | ⭐ 4 | 🔴 november 2022|
 | 🔗 [haqumei](https://github.com/o24s/haqumei) | - | - | ⭐ 8 | 🟢 last wednesday|
 | 🔗 [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) | - | - | ⭐ 21 | 🟢 yesterday|
-
-</details>
 
 
 ### Search engine library
@@ -1183,9 +1133,6 @@ _Updated on Sep 15, 2026_
 ### Converter
 用於日文表記與讀音轉換的函式庫
 
-<details markdown="1">
-<summary>顯示 15 個項目</summary>
-
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - 日語語言庫，可將日語句子轉換為平假名、片假名或羅馬字，支持振り仮名和送り仮名模式。
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - Kuroshiro 的 Kuromoji 形態分析器。
  * [hepburn](https://github.com/lovell/hepburn) - 使用 Hepburn 羅馬拼音將日文平假名和片假名轉換為羅馬字的 Node.js 模組。
@@ -1221,8 +1168,6 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [jptext-to-emoji](https://github.com/elzup/jptext-to-emoji) | - | - | ⭐ 1 | 🟡 june|
 | 🔗 [japanese.js](https://github.com/hakatashi/japanese.js) | - | - | ⭐ 167 | 🔴 august 2020|
 | 🔗 [genshijin](https://github.com/interfacex-co-jp/genshijin) | - | - | ⭐ 327 | 🟢 august|
-
-</details>
 
 
 ### Others
@@ -1390,9 +1335,6 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 ### Word2Vec
 將單詞轉換為向量以學習語意關係的模型
 
-<details markdown="1">
-<summary>顯示 8 個項目</summary>
-
  * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - 使用Gensim和Mecab的日語Word2vec（單詞到向量）方法。
  * [chiVe](https://github.com/WorksApplications/chiVe) - 使用Sudachi和NWJC的日語詞嵌入
  * [elmo-japanese](https://github.com/cl-tohoku/elmo-japanese) - 艾摩日文
@@ -1414,14 +1356,9 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [jawikivec](https://github.com/wikiwikification/jawikivec) | - | - | ⭐ 2 | 🔴 november 2018|
 | 🔗 [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) | - | - | ⭐ 11 | 🔴 may 2020|
 
-</details>
-
 
 ### Transformer based models
 使用自注意力機制理解語境並執行高階語言任務的模型
-
-<details markdown="1">
-<summary>顯示 37 個項目</summary>
 
  * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - 日文文本的BERT模型。
  * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - 由rinna株式會社提供的生成日語預訓練模型的代碼。
@@ -1502,14 +1439,9 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [japanese-llama-experiment](https://github.com/lighttransport/japanese-llama-experiment) | - | - | ⭐ 54 | 🟡 december 2025|
 | 🔗 [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) | - | - | ⭐ 47 | 🔴 april 2024|
 
-</details>
-
 
 ## ChatGPT
 利用ChatGPT與API進行日文對話與文字生成的資源
-
-<details markdown="1">
-<summary>顯示 23 個項目</summary>
 
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - 使用ChatGPT的程式，讓您可以在VRChat上聊天。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - 我們正在開發AITuber的基礎部分。
@@ -1562,14 +1494,9 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [japagen](https://github.com/retrieva/japagen) | - | - | ⭐ 1 | 🔴 october 2024|
 | 🔗 [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) | - | - | ⭐ 436 | 🟢 september|
 
-</details>
-
 
 ## Dictionary and IME
 與日文字典與輸入法相關的資源
-
-<details markdown="1">
-<summary>顯示 88 個項目</summary>
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 基於網絡語言資源的新詞典，適用於mecab-ipadic。
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 一個日本口音字典生成器
@@ -1751,16 +1678,11 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 32 | 🟢 today|
 | 🔗 [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) | - | - | ⭐ 5 | 🟢 yesterday|
 
-</details>
-
 
 ## Corpus
 
 ### Part-of-speech tagging / Named entity recognition
 附有詞性與命名實體標註的日文語料庫
-
-<details markdown="1">
-<summary>顯示 9 個項目</summary>
 
  * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - 使用維基百科進行日語固有表現抽取的資料集
  * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - 用於命名實體識別的日語IOB2標記語料庫。
@@ -1786,14 +1708,9 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 3 | 🟡 may|
 | 🔗 [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) | - | - | ⭐ 27 | 🟡 may|
 
-</details>
-
 
 ### Parallel corpus
 包含對齊句子的多語對譯語料庫
-
-<details markdown="1">
-<summary>顯示 13 個項目</summary>
 
  * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k 英日平行語料庫，用於機器翻譯基準測試。
  * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - 一個用於日中機器翻譯的網絡爬蟲語料庫
@@ -1826,14 +1743,9 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [matcha](https://github.com/ehimenlp/matcha) | - | - | ⭐ 7 | 🟡 may|
 | 🔗 [en-ja-el](https://github.com/shigashiyama/en-ja-el) | - | - | ⭐ 0 | 🔴 january 2025|
 
-</details>
-
 
 ### Dialog corpus
 用於訓練對話系統的會話語料集
-
-<details markdown="1">
-<summary>顯示 12 個項目</summary>
 
  * [JMRD](https://github.com/ku-nlp/JMRD) - 日本電影推薦對話數據集
  * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - 透過爬蟲從Open 2ch網站建立的對話語料庫
@@ -1863,8 +1775,6 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [JMultiWOZ-TC](https://github.com/llm-jp/JMultiWOZ-TC) | - | - | ⭐ 4 | 🟢 august|
 | 🔗 [HOTATE](https://github.com/EhimeNLP/HOTATE) | - | - | ⭐ 1 | 🟡 june|
 | 🔗 [ETCDataset](https://github.com/UEC-InabaLab/ETCDataset) | - | - | ⭐ 13 | 🟡 may|
-
-</details>
 
 ### Others
 針對問答或語意推理等任務的日文資料集
@@ -2260,9 +2170,6 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 ## Tutorial
 學習日文自然語言處理工具與技術的教學資源
 
-<details markdown="1">
-<summary>顯示 36 個項目</summary>
-
  * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCy英文和日文教程。spacy-transformers、BERT、GiNZA。
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 使用日語語料庫訓練fastText的教程
  * [allennlp-NER-ja](https://github.com/shunk031/allennlp-NER-ja) - AllenNLP-NER-ja：使用AllenNLP進行針對日語的專有名詞識別。
@@ -2340,8 +2247,6 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) | - | - | ⭐ 19 | 🟢 july|
 | 🔗 [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) | - | - | ⭐ 32 | 🟡 june|
 | 🔗 [ttslearn](https://github.com/r9y9/ttslearn) | - | - | ⭐ 269 | 🔴 march 2023|
-
-</details>
 
 
 ## Research summary
