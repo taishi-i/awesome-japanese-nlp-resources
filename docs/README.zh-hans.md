@@ -30,15 +30,14 @@ _Updated on Sep 16, 2026_
 /reload-plugins
 ```
 
-该插件内置五项技能:
+该插件内置四项技能:
 
 | 技能 | 用途 |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 搜索内置的 1,200 多个资源数据集 |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | 给定一个仓库/工具，查找执行相同或相关处理的仓库 |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | 发现尚未列入清单的 GitHub 仓库 — 贡献辅助工具 |
-| `/awesome-japanese-nlp-resources:research-trends <topic>` | 结合数据集与最新网络研究生成趋势报告 |
-| `/awesome-japanese-nlp-resources:research-issues <topic>` | 调查某一主题的现有挑战、局限性及提出的解决方案 |
+| `/awesome-japanese-nlp-resources:discover <工具名或主题>` | 给定工具名，查找已收录和未收录的替代方案；给定主题，查找可贡献的未收录候选 |
+| `/awesome-japanese-nlp-resources:compare <工具名或主题>` | 从多个角度将多个库/模型/数据集比较为 ○/△/✕ 表格 |
+| `/awesome-japanese-nlp-resources:research <topic>` | 结合数据集与最新网络研究，生成趋势与挑战的综合报告 |
 
 所有技能都会检测查询语言并以相同语言回应 — 默认使用英语,当查询包含日文字符时则以日语回应。
 

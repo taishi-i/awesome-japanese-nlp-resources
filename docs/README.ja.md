@@ -29,15 +29,14 @@ _Updated on Sep 16, 2026_
 /reload-plugins
 ```
 
-このプラグインには5つのスキルが含まれています:
+このプラグインには4つのスキルが含まれています:
 
 | スキル | 用途 |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 同梱されている1,200以上のリソースデータセットを検索 |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | リポジトリ/ツールを指定すると同じまたは関連する処理を行うものを発見 |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | リストにまだ含まれていないGitHubリポジトリを発見 — 貢献支援ツール |
-| `/awesome-japanese-nlp-resources:research-trends <topic>` | データセットと最新のウェブ調査からトレンドレポートを作成 |
-| `/awesome-japanese-nlp-resources:research-issues <topic>` | あるトピックに関する現在の課題、制限、提案されている解決策を調査 |
+| `/awesome-japanese-nlp-resources:discover <ツール名またはトピック>` | ツール名を指定すると収録済み・未収録の両方の代替を発見、トピックを指定すると未収録の貢献候補を発見 |
+| `/awesome-japanese-nlp-resources:compare <ツール名またはトピック>` | 複数のライブラリ/モデル/データセットをいくつかの観点で○/△/✕表として比較 |
+| `/awesome-japanese-nlp-resources:research <topic>` | データセットと最新のウェブ調査から、トレンドと課題を統合したレポートを作成 |
 
 すべてのスキルはクエリの言語を検出して同じ言語で応答します — デフォルトは英語、クエリに日本語の文字が含まれている場合は日本語で応答します。
 

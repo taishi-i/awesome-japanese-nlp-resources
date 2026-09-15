@@ -2,7 +2,7 @@
 
 Search, discover, and track 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
 
-This plugin ships five skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
+This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
 
 ## Install
 
@@ -41,15 +41,14 @@ claude plugin update awesome-japanese-nlp-resources@awesome-japanese-nlp-resourc
 
 ## Skills
 
-This plugin ships five skills:
+This plugin ships four skills:
 
 | Command | Purpose |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | Given a repo/tool, find ones that do the same or related processing |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos and Hugging Face models/datasets NOT yet in the list — contribution helper |
-| `/awesome-japanese-nlp-resources:research-trends <topic>` | Survey the dataset + latest web research for a digestible trend report |
-| `/awesome-japanese-nlp-resources:research-issues <topic>` | Investigate current challenges, limitations, and proposed solutions for a topic |
+| `/awesome-japanese-nlp-resources:discover <tool-or-topic>` | Given a tool, find alternatives (listed and unlisted); given a topic, find contribution candidates not yet in the list |
+| `/awesome-japanese-nlp-resources:compare <tool-or-topic>` | Compare several libraries/models/datasets across a few criteria as a ○/△/✕ table |
+| `/awesome-japanese-nlp-resources:research <topic>` | Survey the dataset + latest web research for a combined trend + challenges report |
 
 ---
 
@@ -76,107 +75,89 @@ Examples:
 
 ---
 
-### `similar-resources` — find repositories like a given one
+### `discover` — find alternatives, or find what's missing
 
-Takes a **specific repository, model, or tool** (GitHub URL, Hugging Face URL, `owner/repo`, or a bare tool/model name) and finds others that do the **same or related processing**. It first mines the bundled dataset — scoring every entry by shared category, shared semantic labels (IDF-weighted so rare labels like *Sentiment Analysis* outweigh ubiquitous ones), and shared description terms — then uses WebSearch + WebFetch across **both GitHub and Hugging Face** to surface **related resources that are not yet in the list**, and re-ranks everything by functional closeness to the seed.
+Takes **either** a specific repository/model/tool (GitHub URL, Hugging Face URL, `owner/repo`, or a bare tool/model name) **or** a topic, and reports both **what's already in the list** and **what's not yet listed**.
 
-Output is two tables — closest matches **already in** awesome-japanese-nlp-resources (from the dataset) and related resources found **on the web that aren't listed yet** — plus a short recommendation naming the single closest alternative. If the seed itself is not in the dataset, the skill characterizes it from the web and still returns the nearest cataloged tools.
+- **Given a tool** (`mecab`, `https://github.com/polm/cutlet`, ...): mines the bundled dataset for content-similar entries — scoring every candidate by shared category, shared semantic labels (IDF-weighted so rare labels like *Sentiment Analysis* outweigh ubiquitous ones), and shared description terms — then uses WebSearch + WebFetch across **both GitHub and Hugging Face** to surface alternatives that aren't cataloged yet.
+- **Given a topic** (`形態素解析`, `japanese LLM fine-tuning`, ...): searches the dataset by keyword, then runs the same WebSearch + WebFetch discovery pipeline to propose new candidates for that topic.
 
-```shell
-/awesome-japanese-nlp-resources:similar-resources <github-url | huggingface-url | owner/repo | tool-name>
-```
-
-Examples:
-
-```shell
-/awesome-japanese-nlp-resources:similar-resources mecab
-/awesome-japanese-nlp-resources:similar-resources fugashi
-/awesome-japanese-nlp-resources:similar-resources https://github.com/polm/cutlet
-/awesome-japanese-nlp-resources:similar-resources manga-ocr
-/awesome-japanese-nlp-resources:similar-resources oseti に似たツール
-/awesome-japanese-nlp-resources:similar-resources https://huggingface.co/cl-nagoya/ruri-large
-```
-
----
-
-### `find-new-resources` — propose additions to the list
-
-Discovers GitHub repositories **and Hugging Face models/datasets** related to a topic that are **not** yet in `awesome-japanese-nlp-resources`. Uses WebSearch across both platforms to surface candidates and WebFetch to verify each one (GitHub: stars, last-updated date, archived/fork status; Hugging Face: downloads, likes, last-updated date; both: Japanese NLP coverage). Low-quality candidates (GitHub: fewer than 3 stars **and** inactive for over 2 years; Hugging Face: fewer than 3 likes **and** inactive for over 2 years) are automatically filtered out.
-
-Output is contribution-ready markdown — GitHub bullet lines match the existing `README.md` style, Hugging Face bullet lines match the existing `docs/huggingface.md` style, and both can be pasted directly into a PR.
+Either way, low-quality web candidates (fewer than 3 stars/likes **and** inactive for over 2 years, archived, or an unmaintained fork) are automatically filtered out, and the "not yet in the list" bullets are contribution-ready — GitHub lines match the existing `README.md` style, Hugging Face lines match `docs/huggingface.md`, both paste-ready for a PR.
 
 Calling with no argument runs a **general search for the latest Japanese NLP resources** from the past year or so.
 
 ```shell
-/awesome-japanese-nlp-resources:find-new-resources <topic>
-/awesome-japanese-nlp-resources:find-new-resources          # general latest-resources scan
+/awesome-japanese-nlp-resources:discover <github-url | huggingface-url | owner/repo | tool-name | topic>
+/awesome-japanese-nlp-resources:discover          # general latest-resources scan
 ```
 
 Examples:
 
 ```shell
-/awesome-japanese-nlp-resources:find-new-resources 形態素解析
-/awesome-japanese-nlp-resources:find-new-resources japanese LLM fine-tuning
-/awesome-japanese-nlp-resources:find-new-resources RAG 日本語
-/awesome-japanese-nlp-resources:find-new-resources speech recognition
+/awesome-japanese-nlp-resources:discover mecab
+/awesome-japanese-nlp-resources:discover fugashi
+/awesome-japanese-nlp-resources:discover https://github.com/polm/cutlet
+/awesome-japanese-nlp-resources:discover https://huggingface.co/cl-nagoya/ruri-large
+/awesome-japanese-nlp-resources:discover 形態素解析
+/awesome-japanese-nlp-resources:discover japanese LLM fine-tuning
+/awesome-japanese-nlp-resources:discover RAG 日本語
 ```
 
 ---
 
-### `research-trends` — trend report for a topic
+### `compare` — side-by-side ○/△/✕ comparison
 
-Combines the bundled dataset (current state) with live WebSearch (latest releases, papers, model launches) and produces a short scannable report (~600 words) with sections: Overview / Current resources / Latest trends / Key takeaways / References.
+Takes **either** a specific tool (compared against its closest peers) **or** a topic (compared across its leading options), picks **3–6 comparable candidates**, then Claude chooses **3–5 criteria** relevant to that specific comparison (not a fixed checklist) and rates every candidate on each as ○ (clearly supports / strong), △ (partial or unverified), or ✕ (does not support / weak). Ratings are grounded in the dataset plus WebFetch on each candidate's page where a rating would otherwise be a guess.
 
-Calling with no argument produces a **general overview of current Japanese NLP trends** across all sub-fields.
+Output is a single table plus notes justifying any non-obvious △/✕ rating and a short recommendation.
 
 ```shell
-/awesome-japanese-nlp-resources:research-trends <topic>
-/awesome-japanese-nlp-resources:research-trends             # general trend overview
+/awesome-japanese-nlp-resources:compare <github-url | huggingface-url | owner/repo | tool-name | topic>
 ```
 
 Examples:
 
 ```shell
-/awesome-japanese-nlp-resources:research-trends 日本語LLM
-/awesome-japanese-nlp-resources:research-trends japanese embedding models
-/awesome-japanese-nlp-resources:research-trends RAG 日本語
-/awesome-japanese-nlp-resources:research-trends speech synthesis japanese
+/awesome-japanese-nlp-resources:compare mecab
+/awesome-japanese-nlp-resources:compare 形態素解析
+/awesome-japanese-nlp-resources:compare japanese sentence embedding models
+/awesome-japanese-nlp-resources:compare OCR
 ```
 
 ---
 
-### `research-issues` — challenge report for a topic
+### `research` — trend + challenge report for a topic
 
-Combines the bundled dataset (what already exists) with live WebSearch (known challenges, limitations, ongoing efforts) and produces a short scannable report (~700 words) with sections: Overview / Current resources / Known challenges / Current efforts & proposed solutions / Key takeaways / References.
+Combines the bundled dataset (current state) with live WebSearch (latest releases, papers, model launches, known limitations, ongoing efforts) and produces a scannable report with sections: Overview / Current resources / Latest trends / Known challenges / Current efforts / Still unsolved / References.
 
-Calling with no argument produces a **general overview of current Japanese NLP challenges** across all sub-fields.
+Calling with no argument produces a **general overview of the current Japanese NLP landscape** across all sub-fields.
 
 ```shell
-/awesome-japanese-nlp-resources:research-issues <topic>
-/awesome-japanese-nlp-resources:research-issues             # general challenge overview
+/awesome-japanese-nlp-resources:research <topic>
+/awesome-japanese-nlp-resources:research             # general landscape overview
 ```
 
 Examples:
 
 ```shell
-/awesome-japanese-nlp-resources:research-issues 日本語LLM
-/awesome-japanese-nlp-resources:research-issues japanese embedding evaluation
-/awesome-japanese-nlp-resources:research-issues 形態素解析
-/awesome-japanese-nlp-resources:research-issues RAG 日本語
+/awesome-japanese-nlp-resources:research 日本語LLM
+/awesome-japanese-nlp-resources:research japanese embedding models
+/awesome-japanese-nlp-resources:research RAG 日本語
+/awesome-japanese-nlp-resources:research speech synthesis japanese
 ```
 
 ---
 
 ## Output language
 
-All five skills detect the query language and respond in kind:
+All four skills detect the query language and respond in kind:
 
 | Query | Output language |
 |---|---|
 | Contains Japanese characters (hiragana / katakana / kanji) | Japanese |
 | English or empty | English (default) |
 
-Resource descriptions in `find-new-resources` bullet lines are always in English regardless of output language, matching the contribution style of the awesome list.
+Resource descriptions in `discover`'s "not yet in the list" bullet lines are always in English regardless of output language, matching the contribution style of the awesome list.
 
 Queries in other languages (Chinese, Korean, etc.) fall back to English output today; broader multilingual support is a future direction.
 
@@ -184,12 +165,14 @@ Queries in other languages (Chinese, Korean, etc.) fall back to English output t
 
 `search` results are ranked by a combined score:
 
-1. **Text relevance** — keyword matches in name, description, subcategory, and category
+1. **Text relevance** — keyword matches in name, description, subcategory, category, and aliases
 2. **Popularity** — GitHub stars (normalized) for libraries/models; Hugging Face downloads (normalized) for HF resources
 3. **Quality signal** — pre-computed activity score reflecting stars, downloads, and commit history
-4. **Claude re-ranking** — the final top-15 are re-ordered by Claude's semantic judgment (category fit, specificity, recency)
+4. **Claude re-ranking** — the final top candidates are re-ordered by Claude's semantic judgment (category fit, specificity, recency)
 
-`similar-resources` ranks differently: it scores each candidate by **content similarity to the seed** — shared category, shared semantic labels (IDF-weighted), and shared description terms — then Claude re-ranks the merged local + web set by functional closeness to the seed.
+`discover` ranks differently depending on mode: given a tool, it scores each candidate by **content similarity to the seed** (shared category, IDF-weighted shared labels, shared description terms); given a topic, it scores by the same keyword matching as `search`. Either way, Claude re-ranks the merged local + web set by functional closeness before presenting it.
+
+`compare` doesn't rank at all — it selects 3–6 candidates the same way `discover` does, then rates each one independently against Claude-chosen criteria (○/△/✕), grounded in the dataset and, where needed, a WebFetch of the candidate's own page.
 
 ## Data coverage
 

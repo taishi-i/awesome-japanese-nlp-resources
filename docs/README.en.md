@@ -29,15 +29,14 @@ Search, discover, and track Japanese NLP resources directly from [Claude Code](h
 /reload-plugins
 ```
 
-The plugin ships five skills:
+The plugin ships four skills:
 
 | Skill | Purpose |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | Given a repo/tool, find ones that do the same or related processing |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | Discover GitHub repos and Hugging Face models/datasets NOT yet in the list — contribution helper |
-| `/awesome-japanese-nlp-resources:research-trends <topic>` | Survey the dataset + latest web research for a trend report |
-| `/awesome-japanese-nlp-resources:research-issues <topic>` | Investigate current challenges, limitations, and proposed solutions for a topic |
+| `/awesome-japanese-nlp-resources:discover <tool-or-topic>` | Given a tool, find alternatives (listed and unlisted); given a topic, find contribution candidates not yet in the list |
+| `/awesome-japanese-nlp-resources:compare <tool-or-topic>` | Compare several libraries/models/datasets across a few criteria as a ○/△/✕ table |
+| `/awesome-japanese-nlp-resources:research <topic>` | Survey the dataset + latest web research for a combined trend + challenges report |
 
 All skills detect the query language and respond in kind — English by default, Japanese when the query contains Japanese characters.
 

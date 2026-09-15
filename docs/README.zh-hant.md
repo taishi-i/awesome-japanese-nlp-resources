@@ -29,15 +29,14 @@ _Updated on Sep 16, 2026_
 /reload-plugins
 ```
 
-此外掛內建五項技能:
+此外掛內建四項技能:
 
 | 技能 | 用途 |
 |---|---|
 | `/awesome-japanese-nlp-resources:search <query>` | 搜尋內建的 1,200 多個資源資料集 |
-| `/awesome-japanese-nlp-resources:similar-resources <repo>` | 給定一個儲存庫/工具，尋找執行相同或相關處理的儲存庫 |
-| `/awesome-japanese-nlp-resources:find-new-resources <topic>` | 探索尚未列入清單的 GitHub 儲存庫 — 貢獻輔助工具 |
-| `/awesome-japanese-nlp-resources:research-trends <topic>` | 結合資料集與最新網路研究產生趨勢報告 |
-| `/awesome-japanese-nlp-resources:research-issues <topic>` | 調查特定主題的現有挑戰、限制與提案的解決方案 |
+| `/awesome-japanese-nlp-resources:discover <工具名稱或主題>` | 給定工具名稱，尋找已收錄與未收錄的替代方案；給定主題，尋找可貢獻的未收錄候選 |
+| `/awesome-japanese-nlp-resources:compare <工具名稱或主題>` | 從多個角度將多個函式庫/模型/資料集比較為 ○/△/✕ 表格 |
+| `/awesome-japanese-nlp-resources:research <topic>` | 結合資料集與最新網路研究，產生趨勢與挑戰的綜合報告 |
 
 所有技能都會偵測查詢語言並以相同語言回應 — 預設使用英語,當查詢含有日文字元時則以日語回應。
 

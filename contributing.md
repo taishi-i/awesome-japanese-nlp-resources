@@ -13,17 +13,17 @@ You can discover GitHub repositories and Hugging Face models/datasets not yet li
 /reload-plugins
 ```
 
-Then use the `find-new-resources` skill to search for addition candidates:
+Then use the `discover` skill to search for addition candidates:
 
 ```shell
-/awesome-japanese-nlp-resources:find-new-resources <topic>
+/awesome-japanese-nlp-resources:discover <topic>
 ```
 
 For example:
 
 ```shell
-/awesome-japanese-nlp-resources:find-new-resources Japanese LLM
-/awesome-japanese-nlp-resources:find-new-resources 日本語固有表現認識
+/awesome-japanese-nlp-resources:discover Japanese LLM
+/awesome-japanese-nlp-resources:discover 日本語固有表現認識
 ```
 
 The skill searches both GitHub and Hugging Face for repositories/models/datasets matching the topic and filters out ones already listed, making it easy to find new resources to contribute. For full documentation, see the [plugin README](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md).
