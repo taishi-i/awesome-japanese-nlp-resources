@@ -98,7 +98,7 @@ Each item in the JSON array has:
 - `n`: repository/model name
 - `d`: description (English for most items; some Japanese-only items have Japanese descriptions)
 - `c`: category (e.g. `Python library`, `HuggingFace Model (Text Generation)`, `Corpus`, `Tutorial`, ...)
-- `s`: subcategory / semantic labels (comma-separated)
+- `s`: subcategory / semantic labels (array of strings)
 - `st`: GitHub star count (GitHub items only; absent or 0 otherwise)
 - `ns`: normalized star score 0–10 (log-scaled, GitHub items only)
 - `dl`: Hugging Face download count (HF items only; absent or 0 otherwise)
@@ -120,7 +120,7 @@ results = []
 for item in data:
     n = item.get("n", "").lower()
     d = item.get("d", "").lower()
-    s = item.get("s", "").lower()
+    s = " ".join(item.get("s") or []).lower()
     c = item.get("c", "").lower()
 
     text_score = 0

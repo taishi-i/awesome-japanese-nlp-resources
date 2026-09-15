@@ -9,7 +9,14 @@
 
 - [897件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [407 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
-- 🎉 2026年8月9日、日本語NLPの発表スライドを集めた [awesome-japanese-nlp-slides](https://github.com/taishi-i/awesome-japanese-nlp-slides) をリリースしました！
+
+## 🎉 The latest additions
+
+**Python**
+ * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
+
+_Updated on Sep 15, 2026_
+
 
 ## Claude Code プラグイン
 
@@ -50,16 +57,8 @@
 
 詳しいドキュメントは [プラグインのREADME](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/plugins/awesome-japanese-nlp-resources/README.md) をご覧ください。
 
-
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
-
-## 🎉 The latest additions
-
-**Python**
- * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
-
-_Updated on Sep 14, 2026_
 
 ## Contents
  * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
@@ -117,6 +116,9 @@ _Updated on Sep 14, 2026_
 ### Morphology analysis
 日本語を単語や形態素に分割し品詞や原形を付与するライブラリ
 
+<details markdown="1">
+<summary>17 件を表示</summary>
+
  * [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - SudachiPy 0.6以上はSudachi.rsとして開発されています。
  * [Janome](https://github.com/mocobeta/janome) - 純粋なPythonで書かれた日本語形態素解析エンジン
  * [mecab-python3](https://github.com/SamuraiT/mecab-python3) - mecab-pythonです。オリジナルバージョンはこちらから見つけることができます：http://taku910.github.io/mecab/。
@@ -156,9 +158,14 @@ _Updated on Sep 14, 2026_
 | 🔗 [jagger-python](https://github.com/lighttransport/jagger-python) | 📥 412 | 📦 333k | ⭐ 13 | 🔴 march 2024|
 | 🔗 [Mecari](https://github.com/zbller/Mecari) | - | - | ⭐ 41 | 🟡 september 2025|
 
+</details>
+
 
 ### Parsing
 文の構造や依存関係を解析して文法関係を明らかにするライブラリ
+
+<details markdown="1">
+<summary>13 件を表示</summary>
 
  * [ginza](https://github.com/megagonlabs/ginza) - ユニバーサル依存関係に基づくspaCyフレームワークを使用した日本語NLPライブラリ
  * [cabocha](https://github.com/ikegami-yukino/cabocha) - もう一つの日本語依存構造解析ツール
@@ -191,9 +198,14 @@ _Updated on Sep 14, 2026_
 | 🔗 [natsume-simple](https://github.com/borh-lab/natsume-simple) | - | - | ⭐ 5 | 🔴 february 2025|
 | 🔗 [jdeppy](https://github.com/matsurih/jdeppy) | 📥 8 | 📦 12k | ⭐ 3 | 🔴 february 2022|
 
+</details>
+
 
 ### Converter
 仮名ローマ字や全半角など文字や表記を変換するライブラリ
+
+<details markdown="1">
+<summary>18 件を表示</summary>
 
  * [pykakasi](https://github.com/miurahr/pykakasi) - 日本語の仮名漢字文から仮名ローマ字文に変換する軽量コンバーター。
  * [cutlet](https://github.com/polm/cutlet) - Pythonでの日本語からローマ字への変換ツール
@@ -236,9 +248,14 @@ _Updated on Sep 14, 2026_
 | 🔗 [kanjiconv](https://github.com/sea-turt1e/kanjiconv) | 📥 415 | 📦 27k | ⭐ 20 | 🟢 august|
 | 🔗 [kanjize](https://github.com/nagataaaas/kanjize) | 📥 24k | 📦 2M | ⭐ 68 | 🔴 june 2025|
 
+</details>
+
 
 ### Preprocessor
 テキストを正規化し解析に適した形に整えるライブラリ
+
+<details markdown="1">
+<summary>8 件を表示</summary>
 
  * [neologdn](https://github.com/ikegami-yukino/neologdn) - mecab-neologd用の日本語テキスト正規化ツール
  * [jaconv](https://github.com/ikegami-yukino/jaconv) - ひらがな、カタカナ、半角、全角のための純粋なPython日本語文字相互変換器
@@ -261,9 +278,14 @@ _Updated on Sep 14, 2026_
 | 🔗 [python-habachen](https://github.com/Hizuru3/python-habachen) | 📥 6k | 📦 2M | ⭐ 6 | 🟡 october 2025|
 | 🔗 [kairyou](https://github.com/bikatr7/kairyou) | 📥 53 | 📦 34k | ⭐ 6 | 🔴 june 2025|
 
+</details>
+
 
 ### Sentence splitter
 文章を文ごとに自動で分割するライブラリ
+
+<details markdown="1">
+<summary>9 件を表示</summary>
 
  * [Bunkai](https://github.com/megagonlabs/bunkai) - 日本語テキストの文境界曖昧性解消ツール (にほんごぶんきょうかいはんていき)
  * [japanese-sentence-breaker](https://github.com/hppRC/japanese-sentence-breaker) - 日本語の文分割器
@@ -287,6 +309,8 @@ _Updated on Sep 14, 2026_
 | 🔗 [kuzukiri](https://github.com/alinear-corp/kuzukiri) | 📥 49 | 📦 30k | ⭐ 6 | 🔴 june 2025|
 | 🔗 [ja-senter-benchmark](https://github.com/hkiyomaru/ja-senter-benchmark) | - | - | ⭐ 10 | 🔴 february 2023|
 | 🔗 [fast-bunkai](https://github.com/hotchpotch/fast-bunkai) | 📥 78 | 📦 10k | ⭐ 77 | 🟡 october 2025|
+
+</details>
 
 
 ### Sentiment analysis
@@ -330,6 +354,9 @@ _Updated on Sep 14, 2026_
 ### Named entity recognition
 文から人名地名組織名などの固有表現を抽出するライブラリ
 
+<details markdown="1">
+<summary>9 件を表示</summary>
+
  * [namaco](https://github.com/chakki-works/namaco) - 文字ベースの固有表現認識。
  * [entitypedia](https://github.com/chakki-works/entitypedia) - Entitypediaは、Wikipediaからの拡張された固有名詞辞書です。
  * [noyaki](https://github.com/ken11/noyaki) - 文字の範囲ラベル情報をトークン化されたテキストベースのラベル情報に変換します。
@@ -353,9 +380,14 @@ _Updated on Sep 14, 2026_
 | 🔗 [huggingface-finetune-japanese](https://github.com/tsmatz/huggingface-finetune-japanese) | - | - | ⭐ 16 | 🔴 october 2023|
 | 🔗 [novelanalysisbyner](https://github.com/lychee1223/novelanalysisbyner) | - | - | ⭐ 2 | 🔴 june 2024|
 
+</details>
+
 
 ### OCR
 画像から文字を読み取りテキスト化するライブラリ
+
+<details markdown="1">
+<summary>19 件を表示</summary>
 
  * [Manga OCR](https://github.com/kha-white/manga-ocr) - 日本語のマンガを中心に、光学文字認識についての説明。
  * [mokuro](https://github.com/kha-white/mokuro) - ブラウザ内で選択可能なテキストで日本のマンガを読む。
@@ -400,9 +432,14 @@ _Updated on Sep 14, 2026_
 | 🔗 [meikiocr](https://github.com/rtr46/meikiocr) | 📥 727 | 📦 51k | ⭐ 92 | 🟡 april|
 | 🔗 [meikipop](https://github.com/rtr46/meikipop) | - | - | ⭐ 662 | 🟡 june|
 
+</details>
+
 
 ### Tool for pretrained models
 事前学習済みモデルを活用して精度を高めるライブラリ
+
+<details markdown="1">
+<summary>33 件を表示</summary>
 
  * [JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE：日本語一般言語理解評価
  * [ginza-transformers](https://github.com/megagonlabs/ginza-transformers) - spacy-transformersでカスタムトークナイザーを使用する
@@ -475,10 +512,15 @@ _Updated on Sep 14, 2026_
 | 🔗 [pretrained_doc2vec_ja](https://github.com/yagays/pretrained_doc2vec_ja) | - | - | ⭐ 25 | 🔴 january 2019|
 | 🔗 [pl-bert-ja](https://github.com/kyamauchi1023/pl-bert-ja) | - | - | ⭐ 24 | 🔴 december 2023|
 
+</details>
+
 
 ### Others
 日本語処理を補助するその他の汎用ライブラリ
 
+
+<details markdown="1">
+<summary>210 件を表示</summary>
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 日本のフルネームを姓と名に分けるためのツール。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 日本語の自然言語処理のPythonライブラリに特化したリソースの厳選リスト
@@ -905,6 +947,8 @@ _Updated on Sep 14, 2026_
 | 🔗 [bpe2regex](https://github.com/t3tra-dev/bpe2regex) | - | - | ⭐ 6 | 🟢 august|
 | 🔗 [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) | - | - | ⭐ 63 | 🟢 yesterday|
 
+</details>
+
 
 ## C++
 
@@ -939,6 +983,9 @@ _Updated on Sep 14, 2026_
 ### Others
 その他の日本語NLP関連ライブラリ
 
+<details markdown="1">
+<summary>7 件を表示</summary>
+
  * [jsc](https://github.com/yohokuno/jsc) - 日本語の仮名漢字変換、中国語のピンイン入力、CJE混合入力のための共通ソースチャネルモデル。
  * [aquaskk](https://github.com/codefirst/aquaskk) - 形態素解析を行わない入力方法。
  * [mozc](https://github.com/google/mozc) - Mozc - マルチプラットフォームに対応した日本語入力システムエディター
@@ -958,11 +1005,16 @@ _Updated on Sep 14, 2026_
 | 🔗 [corvusskk](https://github.com/nathancorvussolis/corvusskk) | - | - | ⭐ 374 | 🟢 august|
 | 🔗 [mozuku](https://github.com/t3tra-dev/mozuku) | - | - | ⭐ 420 | 🟡 april|
 
+</details>
+
 
 ## Rust crate
 
 ### Morphology analysis
 Rustで実装された日本語形態素解析ライブラリ
+
+<details markdown="1">
+<summary>9 件を表示</summary>
 
  * [lindera](https://github.com/lindera-morphology/lindera) - 形態素解析ライブラリ。
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto：非常に加速されたポイントワイズ予測に基づくトークナイザー
@@ -987,9 +1039,14 @@ Rustで実装された日本語形態素解析ライブラリ
 | 🔗 [kanpyo](https://github.com/togatoga/kanpyo) | - | 📦 2.5k | ⭐ 109 | 🟡 february|
 | 🔗 [mecrab](https://github.com/cool-japan/mecrab) | - | - | ⭐ 7 | 🟡 january|
 
+</details>
+
 
 ### Converter
 日本語の文字や仮名を変換するライブラリ
+
+<details markdown="1">
+<summary>9 件を表示</summary>
 
  * [wana_kana_rust](https://github.com/PSeitz/wana_kana_rust) - 日本語の文字（ひらがな、カタカナ）とローマ字の間の変換とチェックを行うためのユーティリティライブラリ。
  * [unicode-jp-rs](https://github.com/gemmarx/unicode-jp-rs) - 日本語の半角カナと全角英数字を通常の文字に変換するためのRustライブラリ
@@ -1014,6 +1071,8 @@ Rustで実装された日本語形態素解析ライブラリ
 | 🔗 [haqumei](https://github.com/o24s/haqumei) | - | - | ⭐ 8 | 🟢 last wednesday|
 | 🔗 [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) | - | - | ⭐ 21 | 🟢 yesterday|
 
+</details>
+
 
 ### Search engine library
 日本語全文検索のためのライブラリ
@@ -1036,6 +1095,9 @@ Rustで実装された日本語形態素解析ライブラリ
 
 ### Others
 日本語処理やIMEを扱う補助ライブラリ
+
+<details markdown="1">
+<summary>26 件を表示</summary>
 
  * [daachorse](https://github.com/daac-tools/daachorse) - Rustでコンパクトなダブル配列データ構造を使用したAho-Corasickアルゴリズムの高速実装。
  * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - 効率的な時間とメモリを使って、類似したドキュメントのすべてのペアを見つける。
@@ -1094,6 +1156,8 @@ Rustで実装された日本語形態素解析ライブラリ
 | 🔗 [suiko](https://github.com/nwiizo/suiko) | - | - | ⭐ 111 | 🟢 today|
 | 🔗 [daac-bpe](https://github.com/vbkaisetsu/daac-bpe) | - | - | ⭐ 3 | 🟢 august|
 
+</details>
+
 
 ## JavaScript
 
@@ -1118,6 +1182,9 @@ Rustで実装された日本語形態素解析ライブラリ
 
 ### Converter
 日本語の表記や発音を変換するライブラリ
+
+<details markdown="1">
+<summary>15 件を表示</summary>
 
  * [kuroshiro](https://github.com/hexenq/kuroshiro) - ふりがなと送り仮名モードに対応した、日本語の文章をひらがな、カタカナ、ローマ字に変換するための日本語言語ライブラリ。
  * [kuroshiro-analyzer-kuromoji](https://github.com/hexenq/kuroshiro-analyzer-kuromoji) - 黒白のためのKuromoji形態素解析器。
@@ -1155,9 +1222,14 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [japanese.js](https://github.com/hakatashi/japanese.js) | - | - | ⭐ 167 | 🔴 august 2020|
 | 🔗 [genshijin](https://github.com/interfacex-co-jp/genshijin) | - | - | ⭐ 327 | 🟢 august|
 
+</details>
+
 
 ### Others
 日本語NLPを扱うその他のJavaScriptライブラリ
+
+<details markdown="1">
+<summary>25 件を表示</summary>
 
  * [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 日本のアニメの生データ
  * [yomichan](https://github.com/FooSoft/yomichan) - ChromeとFirefox用の日本語ポップアップ辞書拡張機能。
@@ -1214,6 +1286,8 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) | - | - | ⭐ 0 | 🟢 july|
 | 🔗 [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) | - | - | ⭐ 0 | 🟢 july|
 
+</details>
+
 
 ## Go
 
@@ -1230,6 +1304,9 @@ Goで日本語形態素解析を行う軽量ライブラリ
 
 ### Others
 日本語処理を支援する追加ライブラリ
+
+<details markdown="1">
+<summary>9 件を表示</summary>
 
  * [ojosama](https://github.com/jiro4989/ojosama) - テキストを壱百満天原サロメお嬢様風の口調に変換します
  * [nihongo](https://github.com/gojp/nihongo) - 日本語辞書
@@ -1254,6 +1331,8 @@ Goで日本語形態素解析を行う軽量ライブラリ
 | 🔗 [name](https://github.com/kuniwak/name) | - | - | ⭐ 11 | 🔴 january 2025|
 | 🔗 [jp-pii-detector](https://github.com/baneido/jp-pii-detector) | - | - | ⭐ 4 | 🟢 august|
 
+</details>
+
 
 ## Java
 
@@ -1276,6 +1355,9 @@ Goで日本語形態素解析を行う軽量ライブラリ
 
 ### Others
 自然言語処理やOCRを支援するJavaライブラリ
+
+<details markdown="1">
+<summary>9 件を表示</summary>
 
  * [kanjitomo-ocr](https://github.com/sakarika/kanjitomo-ocr) - 画像から日本語文字を識別するためのJavaライブラリ
  * [jakaroma](https://github.com/nicolas-raoul/jakaroma) - 日本語の漢字をローマ字（ラテンアルファベット）に変換するためのJavaライブラリとコマンドラインツール。
@@ -1300,11 +1382,16 @@ Goで日本語形態素解析を行う軽量ライブラリ
 | 🔗 [neologdn-java](https://github.com/ikegami-yukino/neologdn-java) | - | - | ⭐ 5 | 🟡 february|
 | 🔗 [elasticsearch-sudachi](https://github.com/worksapplications/elasticsearch-sudachi) | - | - | ⭐ 220 | 🟡 june|
 
+</details>
+
 
 ## Pretrained model
 
 ### Word2Vec
 単語を数値ベクトルに変換して意味的関係を学習するモデル
+
+<details markdown="1">
+<summary>8 件を表示</summary>
 
  * [japanese-words-to-vectors](https://github.com/philipperemy/japanese-words-to-vectors) - GensimとMecabを使用した日本語のWord2vec（単語からベクトルへのアプローチ）手法。
  * [chiVe](https://github.com/WorksApplications/chiVe) - SudachiとNWJCを使用した日本語の単語埋め込み。
@@ -1327,9 +1414,14 @@ Goで日本語形態素解析を行う軽量ライブラリ
 | 🔗 [jawikivec](https://github.com/wikiwikification/jawikivec) | - | - | ⭐ 2 | 🔴 november 2018|
 | 🔗 [jawiki_word_vector_updater](https://github.com/kamigaito/jawiki_word_vector_updater) | - | - | ⭐ 11 | 🔴 may 2020|
 
+</details>
+
 
 ### Transformer based models
 自己注意機構で文脈を理解し高度な言語処理を行うモデル
+
+<details markdown="1">
+<summary>37 件を表示</summary>
 
  * [bert-japanese](https://github.com/cl-tohoku/bert-japanese) - 日本語テキスト用のBERTモデル。
  * [japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - りんな株式会社が提供する日本語事前学習モデルのコードを入力してください。
@@ -1410,9 +1502,14 @@ Goで日本語形態素解析を行う軽量ライブラリ
 | 🔗 [japanese-llama-experiment](https://github.com/lighttransport/japanese-llama-experiment) | - | - | ⭐ 54 | 🟡 december 2025|
 | 🔗 [easylightchatassistant](https://github.com/zuntan03/easylightchatassistant) | - | - | ⭐ 47 | 🔴 april 2024|
 
+</details>
+
 
 ## ChatGPT
 ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うためのリソース
+
+<details markdown="1">
+<summary>23 件を表示</summary>
 
  * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - AITuberの基礎となる部分を開発しています
@@ -1465,9 +1562,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [japagen](https://github.com/retrieva/japagen) | - | - | ⭐ 1 | 🔴 october 2024|
 | 🔗 [generativeai-prompt-sample-japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) | - | - | ⭐ 436 | 🟢 september|
 
+</details>
+
 
 ## Dictionary and IME
 日本語辞書や入力メソッドエディタに関するリソース
+
+<details markdown="1">
+<summary>88 件を表示</summary>
 
  * [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - 「mecab-ipadic」に基づくウェブ上の言語リソースに基づく新語辞典
  * [tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic) - 日本語アクセント辞書ジェネレーター
@@ -1649,11 +1751,16 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 32 | 🟢 today|
 | 🔗 [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) | - | - | ⭐ 5 | 🟢 yesterday|
 
+</details>
+
 
 ## Corpus
 
 ### Part-of-speech tagging / Named entity recognition
 品詞や固有表現のラベルが付与された日本語コーパス
+
+<details markdown="1">
+<summary>9 件を表示</summary>
 
  * [ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset) - Wikipediaを用いた日本語の固有表現抽出データセット
  * [IOB2Corpus](https://github.com/Hironsan/IOB2Corpus) - 固有表現認識のための日本語IOB2タグ付きコーパス。
@@ -1679,9 +1786,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 3 | 🟡 may|
 | 🔗 [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) | - | - | ⭐ 27 | 🟡 may|
 
+</details>
+
 
 ### Parallel corpus
 多言語の対応文を収録した翻訳用データセット
+
+<details markdown="1">
+<summary>13 件を表示</summary>
 
  * [small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 機械翻訳ベンチマーク用の50k英日並列コーパス。
  * [Web-Crawled-Corpus-for-Japanese-Chinese-NMT](https://github.com/zhang-jinyi/Web-Crawled-Corpus-for-Japanese-Chinese-NMT) - 日中NMTのためのWebクロールされたコーパス
@@ -1714,9 +1826,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [matcha](https://github.com/ehimenlp/matcha) | - | - | ⭐ 7 | 🟡 may|
 | 🔗 [en-ja-el](https://github.com/shigashiyama/en-ja-el) | - | - | ⭐ 0 | 🔴 january 2025|
 
+</details>
+
 
 ### Dialog corpus
 会話データを収集して対話モデルの学習に利用するコーパス
+
+<details markdown="1">
+<summary>12 件を表示</summary>
 
  * [JMRD](https://github.com/ku-nlp/JMRD) - 日本映画のおすすめ対話データセット
  * [open2ch-dialogue-corpus](https://github.com/1never/open2ch-dialogue-corpus) - おーぷん2ちゃんねるをクロールして作成した対話コーパス
@@ -1747,8 +1864,13 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [HOTATE](https://github.com/EhimeNLP/HOTATE) | - | - | ⭐ 1 | 🟡 june|
 | 🔗 [ETCDataset](https://github.com/UEC-InabaLab/ETCDataset) | - | - | ⭐ 13 | 🟡 may|
 
+</details>
+
 ### Others
 質問応答や含意認識など特定タスク向けの日本語データセット
+
+<details markdown="1">
+<summary>189 件を表示</summary>
 
  * [jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - 日本の現実的なテキスト推論コーパス（NLP 2020、LREC 2020）
  * [kanji-data](https://github.com/davidluzgouveia/kanji-data) - 更新されたJLPTレベルとWaniKani情報を含むJSON漢字データセット
@@ -2132,9 +2254,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [jfbench](https://github.com/pfnet-research/jfbench) | - | - | ⭐ 15 | 🟢 august|
 | 🔗 [aica-corpus](https://github.com/reinehonoka/aica-corpus) | - | - | ⭐ 22 | 🟡 may|
 
+</details>
+
 
 ## Tutorial
 日本語自然言語処理のツールや技術を学ぶためのチュートリアル
+
+<details markdown="1">
+<summary>36 件を表示</summary>
 
  * [spacy_tutorial](https://github.com/yuibi/spacy_tutorial) - spaCyチュートリアルの英語版と日本語版。spacy-transformers、BERT、GiNZA。
  * [fastTextJapaneseTutorial](https://github.com/icoxfog417/fastTextJapaneseTutorial) - 日本語コーパスを使用してfastTextをトレーニングするチュートリアル
@@ -2213,6 +2340,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [nlp-lecture-keio](https://github.com/takamichi-lab/nlp-lecture-keio) | - | - | ⭐ 19 | 🟢 july|
 | 🔗 [llm-jp-4-cookbook](https://github.com/llm-jp/llm-jp-4-cookbook) | - | - | ⭐ 32 | 🟡 june|
 | 🔗 [ttslearn](https://github.com/r9y9/ttslearn) | - | - | ⭐ 269 | 🔴 march 2023|
+
+</details>
 
 
 ## Research summary
