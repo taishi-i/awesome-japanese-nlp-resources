@@ -90,6 +90,8 @@ echo "RESOURCES_PATH=$RESOURCES_PATH"
 
 Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file.
 
+The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
+
 ### Step 3 — Search and score via Bash
 
 **Do NOT use the Read tool** — the file exceeds the Read tool's size limit and would consume ~64K tokens unnecessarily. Instead, run the scoring in a single Bash call using Python.
@@ -100,7 +102,7 @@ Each item in the JSON array has:
 - `d`: English description
 - `d_ja`: Japanese description (GitHub-origin items only; match your `ja_keywords` against this)
 - `al`: curated alternate names / kana nicknames, e.g. `["VOICEVOX", "ボイスボックス", "ボイボ"]` (array of strings, only ~40 items have this — treat a hit here as strong as a name match)
-- `c`: category (e.g. `Python library`, `HuggingFace Model (Text Generation)`, `Corpus`, `Tutorial`, ...)
+- `c`: category (e.g. `Python library`, `HuggingFace Model (Text Generation)`, `Corpus`, `Tutorial`, `Multilingual (Speech recognition)`, ...)
 - `s`: subcategory / semantic labels (array of strings)
 - `st`: GitHub star count (GitHub items only; absent or 0 otherwise)
 - `ns`: normalized star score 0–10 (log-scaled, GitHub items only)
@@ -113,10 +115,14 @@ Run the following, substituting `KEYWORDS` with your English keywords and `JA_KE
 
 ```python
 python3 << 'EOF'
-import json
+import json, os
 
 with open("RESOURCES_PATH") as f:    # absolute path from Step 2
     data = json.load(f)
+multilingual_path = os.path.join(os.path.dirname("RESOURCES_PATH"), "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        data += json.load(f)
 
 keywords = ["keyword1", "keyword2", "keyword3"]  # English stems, from Step 1
 ja_keywords = []  # raw Japanese terms from Step 1 -- [] for English queries
@@ -237,6 +243,7 @@ Re-rank by evaluating each candidate on:
    - "I need a model" → prefer `Pretrained model`, `HuggingFace Model`
    - "find a dataset / コーパス" → prefer `Corpus`, `HuggingFace Dataset`
    - "build an app / ライブラリ" → prefer `Python library`, language-specific libs
+   - "multilingual / 多言語 / other languages too" → include `Multilingual (...)` items; otherwise prefer Japanese-specific resources when they fit equally well, and use `Multilingual (...)` items to fill gaps such as speech, OCR, language detection or search engines
 4. **Specificity** — a resource specialized for the exact task beats a general one.
 5. **Recency signal** — when `sc` is significantly higher among otherwise-similar items, it usually reflects more recent activity; prefer those.
 

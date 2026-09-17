@@ -61,6 +61,8 @@ RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
 echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
+The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
+
 **Topic mode only** — also build the existing-URL set used to filter web candidates in Step 6. The plugin's `resources.json` may lag behind the repo's `README.md`, so prefer the pre-built `data/existing_urls.txt` (emitted by `build_data.py`) when present:
 
 ```bash
@@ -133,6 +135,11 @@ if not urls:
         print(f"README.md/docs scan skipped ({e}), using resources.json only")
     source = f"derived ({count_json} from JSON, {len(urls)-count_json} from doc walk)"
 
+multilingual_path = os.path.join(data_dir, "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        urls.update((item.get("u") or "").lower().rstrip("/") for item in json.load(f))
+
 with open(OUTPUT_PATH, "w") as f:
     f.write("\n".join(sorted(urls)))
 print(f"Loaded {len(urls)} existing URLs from {source} → {OUTPUT_PATH}")
@@ -147,7 +154,7 @@ Remember to clean up the temp file at the end (`rm -f "$EXISTING_URLS_FILE"`).
 
 ```python
 python3 << 'EOF'
-import json, re, math
+import json, re, math, os
 from collections import Counter
 
 RESOURCES_PATH = "RESOURCES_PATH"   # from Step 2
@@ -155,6 +162,10 @@ SEED_RAW       = "SEED"             # from Step 1
 
 with open(RESOURCES_PATH) as f:
     data = json.load(f)
+multilingual_path = os.path.join(os.path.dirname(RESOURCES_PATH), "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        data += json.load(f)
 N = len(data)
 
 STOP = {
@@ -268,10 +279,14 @@ EOF
 
 ```python
 python3 << 'EOF'
-import json
+import json, os
 
 with open("RESOURCES_PATH") as f:    # from Step 2
     data = json.load(f)
+multilingual_path = os.path.join(os.path.dirname("RESOURCES_PATH"), "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        data += json.load(f)
 
 keywords = ["keyword1", "keyword2", "keyword3"]  # from Step 1 (topic mode)
 
@@ -363,7 +378,7 @@ Collect them, lowercased, trailing slashes stripped, tagged by kind (`github` / 
 
 **Seed mode**: check candidates directly against `resources.json` (substituting `RESOURCES_PATH` from Step 2):
 ```bash
-grep -iqE "github\.com/<owner>/<repo>[\"/]" "$RESOURCES_PATH" && echo "in list — drop" || echo "unlisted — keep"
+grep -iqE "github\.com/<owner>/<repo>[\"/]" "$RESOURCES_PATH" "$(dirname "$RESOURCES_PATH")/multilingual_resources.json" 2>/dev/null && echo "in list — drop" || echo "unlisted — keep"
 ```
 
 **Topic mode**: check candidates against `$EXISTING_URLS_FILE` (the temp file from Step 2) instead — it also covers items that only exist in the live README, not yet synced to `resources.json`:

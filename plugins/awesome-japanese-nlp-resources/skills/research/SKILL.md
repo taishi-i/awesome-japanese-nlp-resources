@@ -55,16 +55,22 @@ echo "RESOURCES_PATH=$RESOURCES_PATH"
 
 Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file.
 
+The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
+
 ### Step 3 — Survey the existing dataset (inline Python)
 
 **Do NOT use the Read tool** — the file exceeds the Read tool's size limit. Run the scoring in a single Bash call using Python.
 
 ```python
 python3 << 'EOF'
-import json
+import json, os
 
 with open("RESOURCES_PATH") as f:    # absolute path from Step 2
     data = json.load(f)
+multilingual_path = os.path.join(os.path.dirname("RESOURCES_PATH"), "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        data += json.load(f)
 
 keywords = ["keyword1", "keyword2", "keyword3"]  # from Step 1
 

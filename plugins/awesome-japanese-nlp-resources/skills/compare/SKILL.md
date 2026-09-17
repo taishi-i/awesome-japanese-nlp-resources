@@ -55,6 +55,8 @@ RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
 echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
+The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
+
 ### Step 3 — Find comparison candidates (inline Python)
 
 **Do NOT use the Read tool** on `resources.json`. Run one of the two scripts below, substituting `RESOURCES_PATH` (Step 2) and, for seed mode, `SEED` (from Step 1).
@@ -63,7 +65,7 @@ echo "RESOURCES_PATH=$RESOURCES_PATH"
 
 ```python
 python3 << 'EOF'
-import json, re, math
+import json, re, math, os
 from collections import Counter
 
 RESOURCES_PATH = "RESOURCES_PATH"   # from Step 2
@@ -71,6 +73,10 @@ SEED_RAW       = "SEED"             # from Step 1
 
 with open(RESOURCES_PATH) as f:
     data = json.load(f)
+multilingual_path = os.path.join(os.path.dirname(RESOURCES_PATH), "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        data += json.load(f)
 N = len(data)
 
 STOP = {
@@ -161,10 +167,14 @@ EOF
 
 ```python
 python3 << 'EOF'
-import json
+import json, os
 
 with open("RESOURCES_PATH") as f:    # from Step 2
     data = json.load(f)
+multilingual_path = os.path.join(os.path.dirname("RESOURCES_PATH"), "multilingual_resources.json")
+if os.path.exists(multilingual_path):
+    with open(multilingual_path) as f:
+        data += json.load(f)
 
 keywords = ["keyword1", "keyword2", "keyword3"]  # short stems, from Step 1
 

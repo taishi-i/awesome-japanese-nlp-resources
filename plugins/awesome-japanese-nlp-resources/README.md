@@ -1,8 +1,8 @@
 # awesome-japanese-nlp-resources
 
-Search, discover, and track 1,200+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
+Search, discover, and track 1,350+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code).
 
-This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources.
+This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources. It also covers the [multilingual repositories with Japanese features](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md), such as language detectors, speech and OCR models, and search engines with Japanese analyzers.
 
 ## Install
 
@@ -45,7 +45,7 @@ This plugin ships four skills:
 
 | Command | Purpose |
 |---|---|
-| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,350+ resource dataset |
 | `/awesome-japanese-nlp-resources:discover <tool-or-topic>` | Given a tool, find alternatives (listed and unlisted); given a topic, find contribution candidates not yet in the list |
 | `/awesome-japanese-nlp-resources:compare <tool-or-topic>` | Compare several libraries/models/datasets across a few criteria as a ○/△/✕ table |
 | `/awesome-japanese-nlp-resources:research <topic>` | Survey the dataset + latest web research for a combined trend + challenges report |
