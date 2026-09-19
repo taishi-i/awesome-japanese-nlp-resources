@@ -1,0 +1,20 @@
+{
+  "name": "awesome-japanese-nlp-resources",
+  "interface": {
+    "displayName": "awesome-japanese-nlp-resources"
+  },
+  "plugins": [
+    {
+      "name": "awesome-japanese-nlp-resources",
+      "source": {
+        "source": "local",
+        "path": "./plugins/awesome-japanese-nlp-resources"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

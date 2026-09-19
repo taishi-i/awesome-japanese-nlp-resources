@@ -1,11 +1,23 @@
 ---
-description: Given a Japanese NLP GitHub repo/model/dataset (URL / owner/repo / tool name) OR a topic, find what's already in awesome-japanese-nlp-resources and discover related resources NOT yet listed (contribution candidates). Mines the bundled dataset, then expands via web research across GitHub and Hugging Face.
-when_to_use: "Use when the user names a SPECIFIC repository, model, or tool and wants alternatives/equivalents, OR wants to discover Japanese NLP resources for a topic that are NOT yet in the list, OR wants to prepare a contribution. Trigger phrases include 'mecabに似たツール', 'fugashiの代替', 'alternatives to fugashi', 'repos like manga-ocr', 'what else is like sudachi', 'リストに無い新しい日本語NLP', 'awesome-japanese-nlpに追加できそうな', '最近公開された日本語NLPツール', 'find unlisted Japanese NLP repos', 'new Japanese models on Hugging Face', 'contribute a new resource'. For a simple lookup of what already exists, use the search skill instead."
+name: discover
+description: "Given a Japanese NLP GitHub repo/model/dataset (URL / owner/repo / tool name) OR a topic, find what's already in awesome-japanese-nlp-resources and discover related resources NOT yet listed (contribution candidates). Mines the bundled dataset, then expands via web research across GitHub and Hugging Face. Use when the user names a SPECIFIC repository, model, or tool and wants alternatives/equivalents, OR wants to discover Japanese NLP resources for a topic that are NOT yet in the list, OR wants to prepare a contribution. Trigger phrases include 'mecabに似たツール', 'fugashiの代替', 'alternatives to fugashi', 'repos like manga-ocr', 'what else is like sudachi', 'リストに無い新しい日本語NLP', 'awesome-japanese-nlpに追加できそうな', '最近公開された日本語NLPツール', 'find unlisted Japanese NLP repos', 'new Japanese models on Hugging Face', 'contribute a new resource'. For a simple lookup of what already exists, use the search skill instead."
 argument-hint: [github-url | huggingface-url | owner/repo | tool-name | topic]
 allowed-tools: Bash WebSearch WebFetch
 ---
 
-Discover Japanese NLP resources related to: "$ARGUMENTS" — both what's already in awesome-japanese-nlp-resources and what's not yet listed.
+Discover Japanese NLP resources related to the user's query — both what's already in awesome-japanese-nlp-resources and what's not yet listed.
+
+## Claude Code and Codex
+
+This skill is shared by the Claude Code and Codex versions of the plugin. The steps are the same in both tools; only these details differ:
+
+- **Query** — Claude Code: the arguments of `/awesome-japanese-nlp-resources:discover`, appended at the end of this skill as `ARGUMENTS: …`. Codex: the user's message that invoked `$awesome-japanese-nlp-resources:discover`, minus that `$…` mention. If the skill was picked automatically rather than invoked by name, use the user's request as the query.
+- **Plugin root** — Claude Code: `${CLAUDE_PLUGIN_ROOT}`. Codex: the directory two levels above this `SKILL.md` (use its absolute path).
+- **Shell** — run the commands below with Claude Code's `Bash` tool or Codex's shell tool. Copy each Python script in full and run it as written, changing only its placeholders (`RESOURCES_PATH`, `SEED`, the keyword list, the candidate list) — don't shorten it, drop passes, or alter its scores and thresholds.
+- **Web** — Claude Code: `WebSearch` to search and `WebFetch` to read a page. Codex: the built-in web search tool (search, then open the page). Do not use the `gh` CLI, `curl`, or other network commands from the shell.
+- **Commands** — write any command you show the user in the current tool's form: `/awesome-japanese-nlp-resources:<skill>` in Claude Code, `$awesome-japanese-nlp-resources:<skill>` in Codex.
+
+The "Already in the list" results and the "not yet in the list" check both come from the bundled data. If the data file can't be read (for example, shell commands are blocked or fail to start), say so and link https://github.com/taishi-i/awesome-japanese-nlp-resources instead of guessing which resources are listed.
 
 ## Instructions
 
@@ -22,24 +34,22 @@ Substitute these wherever this skill writes `${YEAR_NOW}` or `${YEAR_PREV}`. **D
 
 ### Step 0 — Handle empty input
 
-If `$ARGUMENTS` is empty or blank, treat it as a **topic-mode** request for a general search for the latest Japanese NLP resources. Use these defaults for the rest of the steps:
+If the query is empty or blank, treat it as a **topic-mode** request for a general search for the latest Japanese NLP resources. Use these defaults for the rest of the steps:
 
 - **Topic label**: "Latest Japanese NLP Resources" (use "最新の日本語NLPリソース" only when the user's query was written in Japanese)
 - **Keywords for Step 3 (topic mode)**: `llm`, `bert`, `embed`, `speech`, `morpholog` — short stems for local substring matching (a phrase like `japanese language processing` almost never occurs verbatim in a description and would silently match nothing; see Step 3's substring-matching note)
-- **WebSearch queries for Step 6**: focus on recency — add `${YEAR_PREV} ${YEAR_NOW}` to every query, and include:
+- **Web searches for Step 6**: focus on recency — add `${YEAR_PREV} ${YEAR_NOW}` to every query, and include:
   - `japanese NLP new library github ${YEAR_NOW}`
   - `日本語 NLP 新しい ライブラリ github ${YEAR_NOW}`
   - `japanese NLP new model huggingface ${YEAR_NOW}`
   - `huggingface japanese nlp ${YEAR_PREV} ${YEAR_NOW} new`
-- **Output heading**: "Latest Japanese NLP Resources" instead of `Discover: "$ARGUMENTS"`
+- **Output heading**: "Latest Japanese NLP Resources" instead of `Discover: "<query>"`
 
 Then skip Step 1 (mode is topic mode) and continue from Step 2.
 
 ### Step 1 — Classify the input: seed mode or topic mode
 
-`$ARGUMENTS` is: "$ARGUMENTS"
-
-**Seed mode** — `$ARGUMENTS` names ONE specific existing repository, model, or tool:
+**Seed mode** — the query names ONE specific existing repository, model, or tool:
 
 (a) **A direct identifier** — a full GitHub URL (`https://github.com/owner/repo`), a full Hugging Face URL (`https://huggingface.co/owner/name` or `https://huggingface.co/datasets/owner/name`), an `owner/repo` pair, or a bare tool/model name (e.g. `mecab`). Pass it straight through as `SEED`.
 
@@ -47,106 +57,24 @@ Then skip Step 1 (mode is topic mode) and continue from Step 2.
 
 If (a) or (b) applies, proceed to Step 2 in **seed mode**.
 
-**Topic mode** — `$ARGUMENTS` is a descriptive/topical phrase with **no single specific name** in it (e.g. `日本語の要約データセット`, `japanese sentiment analysis dataset`, `形態素解析`). There is no identifier to extract and no reason to force one — proceed to Step 2 in **topic mode** directly. Do not invent a seed; topic mode already covers this case via keyword search plus web discovery.
+**Topic mode** — the query is a descriptive/topical phrase with **no single specific name** in it (e.g. `日本語の要約データセット`, `japanese sentiment analysis dataset`, `形態素解析`). There is no identifier to extract and no reason to force one — proceed to Step 2 in **topic mode** directly. Do not invent a seed; topic mode already covers this case via keyword search plus web discovery.
 
-Keep the full `$ARGUMENTS` for the language-detection rule in Step 9.
+Keep the full query for the language-detection rule in Step 9.
 
 ### Step 2 — Locate the data files
 
-The data ships with the plugin. Resolve paths via `${CLAUDE_PLUGIN_ROOT}` (Claude Code substitutes this inline), falling back to a scoped search only if the install is unusual:
+The data ships with the plugin at `data/resources.json` under the plugin root (see "Claude Code and Codex" above). Resolve its absolute path, falling back to a scoped search only if the install is unusual:
 
 ```bash
-RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
-[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
+PLUGIN_ROOT="${CLAUDE_PLUGIN_ROOT}"  # Codex: replace with the plugin root, two levels above this SKILL.md
+RESOURCES_PATH="$PLUGIN_ROOT/data/resources.json"
+[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${CODEX_HOME:-$HOME/.codex}/plugins" "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
 echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
+Write the resulting absolute path into every script below — shell variables may not persist between commands.
+
 The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
-
-**Topic mode only** — also build the existing-URL set used to filter web candidates in Step 6. The plugin's `resources.json` may lag behind the repo's `README.md`, so prefer the pre-built `data/existing_urls.txt` (emitted by `build_data.py`) when present:
-
-```bash
-EXISTING_URLS_FILE=$(mktemp -t awesome_ja_nlp_urls.XXXXXX)
-```
-
-```python
-python3 << 'EOF'
-import json, re, os
-
-RESOURCES_PATH = "RESOURCES_PATH"          # from above
-OUTPUT_PATH    = "EXISTING_URLS_FILE"      # from the mktemp above
-
-data_dir = os.path.dirname(os.path.abspath(RESOURCES_PATH))
-prebuilt = os.path.join(data_dir, "existing_urls.txt")
-
-urls = set()
-source = ""
-
-if os.path.exists(prebuilt):
-    with open(prebuilt) as f:
-        urls = {line.strip().lower() for line in f if line.strip()}
-    source = f"pre-built {prebuilt}"
-
-if not urls:
-    with open(RESOURCES_PATH) as f:
-        data = json.load(f)
-    for item in data:
-        u = (item.get("u") or "").lower().rstrip("/")
-        if not u:
-            continue
-        urls.add(u)
-        if "github.com/" in u:
-            parts = u.split("github.com/", 1)[1].split("/")
-            if len(parts) >= 2:
-                urls.add(f"https://github.com/{parts[0]}/{parts[1]}".lower())
-        elif "huggingface.co/" in u:
-            tail = u.split("huggingface.co/", 1)[1]
-            is_dataset = tail.startswith("datasets/")
-            parts = tail[len("datasets/"):].split("/") if is_dataset else tail.split("/")
-            if len(parts) >= 2:
-                prefix = "datasets/" if is_dataset else ""
-                urls.add(f"https://huggingface.co/{prefix}{parts[0]}/{parts[1]}".lower())
-    count_json = len(urls)
-    try:
-        p = os.path.abspath(data_dir)
-        scan_files = []
-        for _ in range(6):
-            p = os.path.dirname(p)
-            readme = os.path.join(p, "README.md")
-            if os.path.exists(readme):
-                scan_files.append(readme)
-            if os.path.exists(os.path.join(p, "awesome-japanese-nlp-resources.json")):
-                hf_doc = os.path.join(p, "docs", "huggingface.md")
-                if os.path.exists(hf_doc):
-                    scan_files.append(hf_doc)
-                break
-        url_pattern = re.compile(
-            r"https://(?:github\.com|huggingface\.co)/(?:datasets/)?[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+"
-        )
-        for scan_file in scan_files:
-            before = len(urls)
-            with open(scan_file) as f:
-                content = f.read()
-            for url in url_pattern.findall(content):
-                urls.add(url.lower().rstrip("/"))
-            if len(urls) > before:
-                print(f"Supplemented {len(urls)-before} URLs from {scan_file}")
-    except Exception as e:
-        print(f"README.md/docs scan skipped ({e}), using resources.json only")
-    source = f"derived ({count_json} from JSON, {len(urls)-count_json} from doc walk)"
-
-multilingual_path = os.path.join(data_dir, "multilingual_resources.json")
-if os.path.exists(multilingual_path):
-    with open(multilingual_path) as f:
-        urls.update((item.get("u") or "").lower().rstrip("/") for item in json.load(f))
-
-with open(OUTPUT_PATH, "w") as f:
-    f.write("\n".join(sorted(urls)))
-print(f"Loaded {len(urls)} existing URLs from {source} → {OUTPUT_PATH}")
-EOF
-```
-
-Remember to clean up the temp file at the end (`rm -f "$EXISTING_URLS_FILE"`).
 
 ### Step 3 — Local matching
 
@@ -275,7 +203,7 @@ for combined, sc, sh_subs, sh_tok, x in results[:15]:
 EOF
 ```
 
-**Topic mode**: translate the topic to 3–5 English keywords (same stem + tool-name conventions as the `search` skill — see its domain table if unsure), then score by keyword match instead of seed fingerprint:
+**Topic mode**: translate the topic to 3–5 English keywords (same stem + tool-name conventions as the `search` skill — see its domain table if unsure), then score by keyword match instead of seed fingerprint. Matching is by literal substring, so prefer short stems (`llm`, `embed`, `morpholog`) over multi-word phrases, which rarely occur verbatim in a description:
 
 ```python
 python3 << 'EOF'
@@ -336,19 +264,19 @@ This prints the resolved seed (seed mode) or keyword matches (topic mode), plus 
 
 If Step 3 printed `SEED_NOT_FOUND`:
 
-1. If the seed looks like a GitHub URL or `owner/repo`, `WebFetch` it:
+1. If the seed looks like a GitHub URL or `owner/repo`, fetch its page (Claude Code: `WebFetch` as below; Codex: open it with the web search tool and extract the same fields):
    ```
    WebFetch url="https://github.com/<owner>/<repo>" prompt="Extract as JSON: name, one-line description, primary language, the NLP task it performs, star count, and whether it targets Japanese. If a field is unavailable, set it to null."
    ```
-   If it looks like a Hugging Face URL, `WebFetch` it instead:
+   If it looks like a Hugging Face URL, fetch that page instead:
    ```
    WebFetch url="https://huggingface.co/<owner>/<name>" prompt="Extract as JSON: name, one-line description / model card summary, pipeline or task tag, whether it is a model or a dataset, downloads count, likes count, and whether it targets Japanese. If a field is unavailable, set it to null."
    ```
-   If it's a bare name with no domain hint, run one WebSearch (`<name> japanese nlp`) to identify what it does and where it lives.
+   If it's a bare name with no domain hint, run one web search (`<name> japanese nlp`) to identify what it does and where it lives.
 2. From the seed's inferred task, derive 4–6 English stem keywords and re-run the Step 3 topic-mode script in keyword mode to recover the closest local items. Treat its top ~10 as the "local matches" set.
 3. Continue to Step 5. In the final output, note that the seed itself is **not yet in the list**.
 
-If the seed cannot be found locally or resolved on the web, this is the **only** case where you stop and report back: state what you tried, and suggest `/awesome-japanese-nlp-resources:search "$ARGUMENTS"`.
+If the seed cannot be found locally or resolved on the web, this is the **only** case where you stop and report back: state what you tried, and suggest running the `search` skill with the same query.
 
 ### Step 5 — Derive web-search queries
 
@@ -366,7 +294,7 @@ Both modes: add `${YEAR_NOW}` recency variants when the topic is fast-moving (LL
 
 ### Step 6 — Web research
 
-Use **WebSearch + WebFetch only — do not use the `gh` CLI in this project.**
+Use the web search and page-fetch tools only (see "Claude Code and Codex" above) — do not use the `gh` CLI in this project.
 
 Run the queries from Step 5 (6–9 of them). From each result, extract every URL matching:
 - `https://github.com/<owner>/<repo>` (ignore deeper paths like `/issues`, `/pull/`, `/blob/`, `/tree/`)
@@ -374,23 +302,60 @@ Run the queries from Step 5 (6–9 of them). From each result, extract every URL
 
 Collect them, lowercased, trailing slashes stripped, tagged by kind (`github` / `hf_model` / `hf_dataset`), de-duplicated by `owner/repo` (or `owner/name`) **within each kind**, and drop the seed itself (seed mode).
 
-**Keep only resources NOT already in the dataset** — this section reports unlisted items only; anything already catalogued belongs in the "Already in the list" table from Step 3.
+**Keep only resources NOT already in the dataset** — this section reports unlisted items only; anything already catalogued belongs in the "Already in the list" table from Step 3. Check all collected candidates in one run (both modes), substituting `RESOURCES_PATH` (Step 2) and the candidate URLs. Besides `resources.json`, the script also reads the multilingual list, a pre-built `data/existing_urls.txt` when the plugin ships one, and the list's own `README.md` / `docs/huggingface.md` when run from a clone of the repository — `resources.json` can lag behind the live README. It reads files only, so it also works in read-only sandboxes:
 
-**Seed mode**: check candidates directly against `resources.json` (substituting `RESOURCES_PATH` from Step 2):
-```bash
-grep -iqE "github\.com/<owner>/<repo>[\"/]" "$RESOURCES_PATH" "$(dirname "$RESOURCES_PATH")/multilingual_resources.json" 2>/dev/null && echo "in list — drop" || echo "unlisted — keep"
-```
+```python
+python3 << 'EOF'
+import json, re, os
 
-**Topic mode**: check candidates against `$EXISTING_URLS_FILE` (the temp file from Step 2) instead — it also covers items that only exist in the live README, not yet synced to `resources.json`:
-```bash
-grep -iqxF "https://github.com/<owner>/<repo>" "$EXISTING_URLS_FILE" && echo "in list — drop" || echo "unlisted — keep"
+RESOURCES_PATH = "RESOURCES_PATH"   # from Step 2
+CANDIDATES = """
+https://github.com/owner/repo
+https://huggingface.co/owner/name
+""".split()                           # every candidate URL collected above, one per line
+
+def canon(u):
+    u = (u or "").strip().lower().rstrip("/")
+    m = re.search(r"(github\.com|huggingface\.co)/((?:datasets/|spaces/)?[^/#?\s]+/[^/#?\s]+)", u)
+    if not m:
+        return u
+    path = m.group(2)
+    if path.endswith(".git"):
+        path = path[:-4]
+    return f"https://{m.group(1)}/{path}"
+
+data_dir = os.path.dirname(os.path.abspath(RESOURCES_PATH))
+existing = set()
+for name in ("resources.json", "multilingual_resources.json"):
+    path = os.path.join(data_dir, name)
+    if os.path.exists(path):
+        with open(path) as f:
+            existing.update(canon(item.get("u")) for item in json.load(f))
+
+scan_files = [os.path.join(data_dir, "existing_urls.txt")]
+p = data_dir
+for _ in range(6):
+    p = os.path.dirname(p)
+    if os.path.exists(os.path.join(p, "awesome-japanese-nlp-resources.json")):
+        scan_files += [os.path.join(p, "README.md"), os.path.join(p, "docs", "huggingface.md")]
+        break
+url_pattern = re.compile(r"https://(?:github\.com|huggingface\.co)/(?:datasets/)?[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+")
+for scan_file in scan_files:
+    if os.path.exists(scan_file):
+        with open(scan_file) as f:
+            existing.update(canon(u) for u in url_pattern.findall(f.read()))
+
+print(f"{len(existing)} URLs already in the list")
+for c in CANDIDATES:
+    print(("in list  - drop  " if canon(c) in existing else "unlisted - keep  ") + c)
+EOF
 ```
 
 Cap the survivors at 10–15 total (seed mode: 5, spread across both kinds), prioritizing candidates that appear in multiple result sets and keeping a mix of both platforms.
 
-### Step 7 — Enrich survivors via WebFetch
+### Step 7 — Enrich survivors by fetching their pages
 
-For each surviving candidate, `WebFetch` the page (up to 5 calls in parallel — single message, multiple tool calls):
+For each surviving candidate, fetch its page — in Claude Code with `WebFetch` (up to 5 calls in parallel — single message, multiple tool calls); in Codex, open it with the web search tool and extract the same fields:
 
 For `github` candidates:
 ```
@@ -408,7 +373,7 @@ Drop any candidate that: is archived (GitHub); is an inactive/throwaway fork (ke
 
 Group survivors under awesome-japanese-nlp-resources section headings, contribution-ready:
 
-**Hugging Face candidates** go to "Hugging Face model" or "Hugging Face dataset", inferred from the WebFetch result (`hf_model`/`hf_dataset` kind, or whether the URL contains `/datasets/`).
+**Hugging Face candidates** go to "Hugging Face model" or "Hugging Face dataset", inferred from the fetched page (`hf_model`/`hf_dataset` kind, or whether the URL contains `/datasets/`).
 
 **GitHub candidates** are grouped by primary language and description:
 
@@ -425,8 +390,8 @@ Group survivors under awesome-japanese-nlp-resources section headings, contribut
 ### Step 9 — Format the output
 
 **Language detection rule (apply before writing any output):**
-- `$ARGUMENTS` is empty → **English**
-- `$ARGUMENTS` contains Japanese characters (hiragana / katakana / kanji) → **Japanese**
+- The query is empty → **English**
+- The query contains Japanese characters (hiragana / katakana / kanji) → **Japanese**
 - Otherwise → **English**
 
 Apply the detected language to all headings and prose. Repository/model descriptions stay in **English** (the awesome list standard).
@@ -434,7 +399,7 @@ Apply the detected language to all headings and prose. Repository/model descript
 **English output template:**
 
 ```
-## Discover: "$ARGUMENTS"
+## Discover: "<query>"
 
 **Seed:** [<seed-name>](<seed-url>) — <category> — <one-line what it does>    ← seed mode only
 *(Similarity from the bundled dataset + web research across GitHub and Hugging Face)*
@@ -468,13 +433,14 @@ Sources:
 - [Title 1](https://...)
 ```
 
-**Japanese output template (when the query is in Japanese):** mirror the structure with `## "$ARGUMENTS" の発見結果`, `### awesome-japanese-nlp-resources 内の既存リソース`, `### 未収録の候補`, `### おすすめ`, and per-bullet suffixes `(⭐ N, 最終更新: YYYY-MM)`.
+**Japanese output template (when the query is in Japanese):** mirror the structure with `## "<query>" の発見結果`, `### awesome-japanese-nlp-resources 内の既存リソース`, `### 未収録の候補`, `### おすすめ`, and per-bullet suffixes `(⭐ N, 最終更新: YYYY-MM)`.
 
 **Rules:**
 - "Already in the list" table: 3–8 rows (seed mode) or up to 10 (topic mode); ⭐ for GitHub stars, 📥 for HF downloads, omit if both 0.
 - "Not yet in the list": every row **must** be confirmed absent from the dataset in Step 6 — never show a catalogued repo here. Bullet format matches the repo's own contribution style exactly (paste-ready for a PR): GitHub `* [name](url) - description. (⭐ N, last updated: YYYY-MM)`; Hugging Face `* [name](url) - 📥 {downloads} / ⭐ {likes} / description.` (abbreviate with `k`/`M`, e.g. `📥 367k`).
 - Descriptions ≤ 100 characters, always in **English**, even if the source card/README is Japanese.
-- `Sources:` is **mandatory** (WebSearch requirement) — list the result URLs actually used.
+- `Sources:` is **mandatory** (web research requirement) — list the result URLs actually used.
+- Write the **Next step** commands in the current tool's form — `$awesome-japanese-nlp-resources:…` in Codex.
 - If nothing survives Step 6/7 in topic mode, or the seed already has no siblings in seed mode, say so plainly rather than padding.
 
 ### Step 10 — Edge cases

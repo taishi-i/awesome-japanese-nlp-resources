@@ -4,16 +4,22 @@ Your contributions are always welcome!
 
 ## Finding Resources to Add
 
-You can discover GitHub repositories and Hugging Face models/datasets not yet listed here using the `awesome-japanese-nlp-resources` Claude Code plugin:
+You can discover GitHub repositories and Hugging Face models/datasets not yet listed here using the `awesome-japanese-nlp-resources` plugin for Claude Code or Codex:
 
 ```shell
-# Install the plugin (one-time setup)
+# Install the plugin in Claude Code (one-time setup)
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
 ```
 
-Then use the `discover` skill to search for addition candidates:
+```shell
+# Or install it for Codex (run in your terminal, then start a new Codex session)
+codex plugin marketplace add taishi-i/awesome-japanese-nlp-resources
+codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
+```
+
+Then use the `discover` skill to search for addition candidates (in Codex, write `$` instead of `/`):
 
 ```shell
 /awesome-japanese-nlp-resources:discover <topic>

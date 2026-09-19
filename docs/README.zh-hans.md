@@ -19,15 +19,24 @@
 _Updated on Sep 16, 2026_
 
 
-## Claude Code 插件
+## Claude Code 与 Codex 插件
 
-使用 `awesome-japanese-nlp-resources` 插件,直接从 [Claude Code](https://claude.ai/code) 搜索、发现并跟踪日语 NLP 资源。
+使用 `awesome-japanese-nlp-resources` 插件,直接从 [Claude Code](https://claude.ai/code) 或 [Codex](https://developers.openai.com/codex) 搜索、发现并跟踪日语 NLP 资源。两者使用相同的技能和内置数据。
+
+**Claude Code:**
 
 ```shell
 # 添加市场并安装
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
+```
+
+**Codex**(在终端中运行,然后启动新的 Codex 会话):
+
+```shell
+codex plugin marketplace add taishi-i/awesome-japanese-nlp-resources
+codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 该插件内置四项技能:
@@ -38,6 +47,8 @@ _Updated on Sep 16, 2026_
 | `/awesome-japanese-nlp-resources:discover <工具名或主题>` | 给定工具名，查找已收录和未收录的替代方案；给定主题，查找可贡献的未收录候选 |
 | `/awesome-japanese-nlp-resources:compare <工具名或主题>` | 从多个角度将多个库/模型/数据集比较为 ○/△/✕ 表格 |
 | `/awesome-japanese-nlp-resources:research <topic>` | 结合数据集与最新网络研究，生成趋势与挑战的综合报告 |
+
+在 Codex 中,将 `/` 换成 `$` 即可调用相同的技能(例如 `$awesome-japanese-nlp-resources:search <query>`)。
 
 所有技能都会检测查询语言并以相同语言回应 — 默认使用英语,当查询包含日文字符时则以日语回应。
 

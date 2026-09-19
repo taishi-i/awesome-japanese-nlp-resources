@@ -18,15 +18,24 @@
 _Updated on Sep 16, 2026_
 
 
-## Claude Code プラグイン
+## Claude Code・Codex プラグイン
 
-`awesome-japanese-nlp-resources` プラグインを使用して、[Claude Code](https://claude.ai/code) から直接、日本語NLPリソースを検索、発見、追跡できます。
+`awesome-japanese-nlp-resources` プラグインを使用して、[Claude Code](https://claude.ai/code) または [Codex](https://developers.openai.com/codex) から直接、日本語NLPリソースを検索、発見、追跡できます。どちらのツールでも同じスキルと同梱データを利用します。
+
+**Claude Code:**
 
 ```shell
 # マーケットプレイスを追加してインストール
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
+```
+
+**Codex**(ターミナルで実行した後、Codex のセッションを新しく開始してください):
+
+```shell
+codex plugin marketplace add taishi-i/awesome-japanese-nlp-resources
+codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 このプラグインには4つのスキルが含まれています:
@@ -37,6 +46,8 @@ _Updated on Sep 16, 2026_
 | `/awesome-japanese-nlp-resources:discover <ツール名またはトピック>` | ツール名を指定すると収録済み・未収録の両方の代替を発見、トピックを指定すると未収録の貢献候補を発見 |
 | `/awesome-japanese-nlp-resources:compare <ツール名またはトピック>` | 複数のライブラリ/モデル/データセットをいくつかの観点で○/△/✕表として比較 |
 | `/awesome-japanese-nlp-resources:research <topic>` | データセットと最新のウェブ調査から、トレンドと課題を統合したレポートを作成 |
+
+Codex では `/` の代わりに `$` を付けて同じスキルを呼び出します(例: `$awesome-japanese-nlp-resources:search <query>`)。
 
 すべてのスキルはクエリの言語を検出して同じ言語で応答します — デフォルトは英語、クエリに日本語の文字が含まれている場合は日本語で応答します。
 

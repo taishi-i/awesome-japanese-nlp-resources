@@ -18,15 +18,24 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 _Updated on Sep 16, 2026_
 
 
-## Claude Code Plugin
+## Claude Code & Codex Plugin
 
-Search, discover, and track Japanese NLP resources directly from [Claude Code](https://claude.ai/code) using the `awesome-japanese-nlp-resources` plugin.
+Search, discover, and track Japanese NLP resources directly from [Claude Code](https://claude.ai/code) or [Codex](https://developers.openai.com/codex) using the `awesome-japanese-nlp-resources` plugin. Both tools use the same skills and the same bundled data.
+
+**Claude Code:**
 
 ```shell
 # Add the marketplace and install
 /plugin marketplace add taishi-i/awesome-japanese-nlp-resources
 /plugin install awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 /reload-plugins
+```
+
+**Codex** (run in your terminal, then start a new Codex session):
+
+```shell
+codex plugin marketplace add taishi-i/awesome-japanese-nlp-resources
+codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 ```
 
 The plugin ships four skills:
@@ -37,6 +46,8 @@ The plugin ships four skills:
 | `/awesome-japanese-nlp-resources:discover <tool-or-topic>` | Given a tool, find alternatives (listed and unlisted); given a topic, find contribution candidates not yet in the list |
 | `/awesome-japanese-nlp-resources:compare <tool-or-topic>` | Compare several libraries/models/datasets across a few criteria as a ○/△/✕ table |
 | `/awesome-japanese-nlp-resources:research <topic>` | Survey the dataset + latest web research for a combined trend + challenges report |
+
+In Codex, call the same skills with `$` instead of `/` (e.g. `$awesome-japanese-nlp-resources:search <query>`).
 
 All skills detect the query language and respond in kind — English by default, Japanese when the query contains Japanese characters.
 

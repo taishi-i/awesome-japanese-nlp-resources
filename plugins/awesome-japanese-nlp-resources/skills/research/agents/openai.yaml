@@ -1,0 +1,4 @@
+interface:
+  display_name: "Japanese NLP Research"
+  short_description: "Trend and challenge report for a Japanese NLP topic"
+  default_prompt: "Use $awesome-japanese-nlp-resources:research to summarize trends in Japanese LLMs."

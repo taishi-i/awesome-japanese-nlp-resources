@@ -1,17 +1,28 @@
 ---
-description: Search all Japanese NLP resources (libraries, models, datasets, tutorials, dictionaries, Hugging Face). Accepts keywords or natural language questions in any language.
-when_to_use: "Use whenever the user asks which Japanese NLP resource to use, or wants to find one: tokenizers / morphological analyzers, BERT or LLM models, embeddings, NER, text classification, datasets / corpora, dictionaries, tutorials, or Hugging Face models. Trigger phrases include '日本語の形態素解析ライブラリ', 'おすすめの日本語tokenizer', '日本語BERTモデル', '日本語の感情分析データセット', '日本語LLM 一覧', 'which Japanese embedding model', 'Japanese NER library'."
+name: search
+description: "Search all Japanese NLP resources (libraries, models, datasets, tutorials, dictionaries, Hugging Face). Accepts keywords or natural language questions in any language. Use whenever the user asks which Japanese NLP resource to use, or wants to find one: tokenizers / morphological analyzers, BERT or LLM models, embeddings, NER, text classification, datasets / corpora, dictionaries, tutorials, or Hugging Face models. Trigger phrases include '日本語の形態素解析ライブラリ', 'おすすめの日本語tokenizer', '日本語BERTモデル', '日本語の感情分析データセット', '日本語LLM 一覧', 'which Japanese embedding model', 'Japanese NER library'."
 argument-hint: [query]
 allowed-tools: Bash
 ---
 
-Search the awesome-japanese-nlp-resources database for: "$ARGUMENTS"
+Search the awesome-japanese-nlp-resources database for the user's query.
+
+## Claude Code and Codex
+
+This skill is shared by the Claude Code and Codex versions of the plugin. The steps are the same in both tools; only these details differ:
+
+- **Query** — Claude Code: the arguments of `/awesome-japanese-nlp-resources:search`, appended at the end of this skill as `ARGUMENTS: …`. Codex: the user's message that invoked `$awesome-japanese-nlp-resources:search`, minus that `$…` mention. If the skill was picked automatically rather than invoked by name, use the user's request as the query.
+- **Plugin root** — Claude Code: `${CLAUDE_PLUGIN_ROOT}`. Codex: the directory two levels above this `SKILL.md` (use its absolute path).
+- **Shell** — run the commands below with Claude Code's `Bash` tool or Codex's shell tool. Copy each Python script in full and run it as written, changing only its placeholders (`RESOURCES_PATH`, the keyword lists) — don't shorten it, drop passes, or alter its scores and thresholds.
+- **Commands** — write any command you show the user in the current tool's form: `/awesome-japanese-nlp-resources:<skill>` in Claude Code, `$awesome-japanese-nlp-resources:<skill>` in Codex.
+
+Results must come from the bundled data. If the data file can't be read (for example, shell commands are blocked or fail to start), say so and link https://github.com/taishi-i/awesome-japanese-nlp-resources instead of answering from memory or web search.
 
 ## Instructions
 
 ### Step 0 — Validate input
 
-If `$ARGUMENTS` is empty or blank, **stop immediately** and output:
+If the query is empty or blank, **stop immediately** and output (in Codex, write the commands with `$` instead of `/`):
 
 ```
 Usage: /awesome-japanese-nlp-resources:search <query>
@@ -39,11 +50,9 @@ Please pass the keyword(s) you want to search for as the argument.
 検索したいキーワードを引数に指定してください。
 ```
 
-Do **not** proceed to Step 1 if `$ARGUMENTS` is empty.
+Do **not** proceed to Step 1 if the query is empty.
 
 ### Step 1 — Interpret the query
-
-The user's query is: "$ARGUMENTS"
 
 The data descriptions are in **English**, so always convert the query intent to English keywords before searching.
 
@@ -80,21 +89,22 @@ The data descriptions are in **English**, so always convert the query intent to 
 
 ### Step 2 — Locate the data file
 
-The data file ships with the plugin. Resolve its path via `${CLAUDE_PLUGIN_ROOT}` (Claude Code substitutes this inline in skill content), falling back to a scoped search only if the install is unusual:
+The data file ships with the plugin at `data/resources.json` under the plugin root (see "Claude Code and Codex" above). Resolve its absolute path, falling back to a scoped search only if the install is unusual:
 
 ```bash
-RESOURCES_PATH="${CLAUDE_PLUGIN_ROOT}/data/resources.json"
-[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
+PLUGIN_ROOT="${CLAUDE_PLUGIN_ROOT}"  # Codex: replace with the plugin root, two levels above this SKILL.md
+RESOURCES_PATH="$PLUGIN_ROOT/data/resources.json"
+[ -f "$RESOURCES_PATH" ] || RESOURCES_PATH="$(find "${CODEX_HOME:-$HOME/.codex}/plugins" "${HOME}/.claude/plugins" -type f -name resources.json 2>/dev/null | grep "awesome-japanese-nlp-resources/" | head -1)"
 echo "RESOURCES_PATH=$RESOURCES_PATH"
 ```
 
-Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file.
+Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file — write the path itself into the script, since shell variables may not persist between commands.
 
 The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
 
-### Step 3 — Search and score via Bash
+### Step 3 — Search and score with Python
 
-**Do NOT use the Read tool** — the file exceeds the Read tool's size limit and would consume ~64K tokens unnecessarily. Instead, run the scoring in a single Bash call using Python.
+**Do not read the data file directly** (no Read tool, `cat`, `head`, or similar) — it is about 660 KB and would flood the context. Instead, run the scoring in a single shell command using Python.
 
 Each item in the JSON array has:
 - `u`: GitHub or Hugging Face URL
@@ -111,7 +121,7 @@ Each item in the JSON array has:
 - `sc`: pre-computed quality score (higher = more popular/active)
 - `status`: `"ok"` or `"not_found"` — items whose repo 404s (~8 of ~1200) are filtered out below; never recommend one
 
-Run the following, substituting `KEYWORDS` with your English keywords and `JA_KEYWORDS` with your raw Japanese terms, both from Step 1 (`ja_keywords` may be `[]`):
+Run the following, substituting `RESOURCES_PATH` with the absolute path from Step 2, `keywords` with your English keywords and `ja_keywords` with your raw Japanese terms, both from Step 1 (`ja_keywords` may be `[]`):
 
 ```python
 python3 << 'EOF'
@@ -252,7 +262,7 @@ Do not mechanically follow the combined score from Step 3 — use it as a starti
 ### Step 5 — Format the output
 
 **Language detection rule (apply before writing any output):**
-- `$ARGUMENTS` contains Japanese characters (hiragana / katakana / kanji) → **Japanese**
+- The query contains Japanese characters (hiragana / katakana / kanji) → **Japanese**
 - Otherwise → **English** (default)
 
 Apply the detected language to all headings and prose.
@@ -260,7 +270,7 @@ Apply the detected language to all headings and prose.
 Present the final re-ranked results:
 
 ```
-## Search results for "$ARGUMENTS"
+## Search results for "<query>"
 
 *(Searched for: keyword1, keyword2, ...)*
 

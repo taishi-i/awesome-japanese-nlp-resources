@@ -1,0 +1,4 @@
+interface:
+  display_name: "Japanese NLP Discover"
+  short_description: "Find alternatives and resources not yet in the list"
+  default_prompt: "Use $awesome-japanese-nlp-resources:discover to find alternatives to fugashi."

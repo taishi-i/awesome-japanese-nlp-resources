@@ -1,0 +1,4 @@
+interface:
+  display_name: "Japanese NLP Compare"
+  short_description: "Compare Japanese NLP tools in a ○/△/✕ table"
+  default_prompt: "Use $awesome-japanese-nlp-resources:compare to compare Japanese morphological analyzers."
