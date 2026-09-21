@@ -7,15 +7,16 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [897件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [407 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [898件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [438 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [日本語にも対応した多言語ライブラリ・モデル・データセット 155 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 
 ## 🎉 The latest additions
 
-**Python**
- * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
+**JavaScript**
+ * [jev-semgrep](https://github.com/uehaj/jev-semgrep) - grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。
 
-_Updated on Sep 16, 2026_
+_Updated on Sep 22, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -1193,6 +1194,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。
  * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER ブラウザデモ
+ * [jev-semgrep](https://github.com/uehaj/jev-semgrep) - grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1222,6 +1224,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 |[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
 |[shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk?style=social)|
 |[pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shirokane-suri/pii-ja-ner-onnx-demo?style=social)|
+|[jev-semgrep](https://github.com/uehaj/jev-semgrep)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uehaj/jev-semgrep?style=social)|
 
 
 ## Go

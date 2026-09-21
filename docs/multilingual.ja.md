@@ -5,7 +5,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-日本語向けの機能を備えた多言語 GitHub リポジトリを厳選してまとめた一覧です。
+日本語専用ではないものの日本語にも対応した、多言語ライブラリ・モデル・データセットを厳選してまとめた一覧です。
 このページでは、日本語の言語判定、日本語トークナイザーやアナライザー、日本語の音声・OCRモデル、データセットの日本語分割など、日本語向けの具体的な機能を備えた多言語ライブラリ・モデル・データセットを掲載しています。現在、155件のリポジトリを掲載しています。
 
 _2026年9月18日更新_

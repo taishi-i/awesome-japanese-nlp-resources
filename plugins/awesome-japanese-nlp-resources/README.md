@@ -2,7 +2,7 @@
 
 Search, discover, and track 1,350+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code) or [Codex](https://developers.openai.com/codex).
 
-This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources. It also covers the [multilingual repositories with Japanese features](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md), such as language detectors, speech and OCR models, and search engines with Japanese analyzers.
+This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources. It also covers [multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md), such as language detectors, speech and OCR models, and search engines with Japanese analyzers.
 
 Claude Code and Codex share the same skills (`skills/*/SKILL.md`) and the same bundled data (`data/`). Each tool reads its own manifest: `.claude-plugin/plugin.json` for Claude Code and `.codex-plugin/plugin.json` for Codex.
 
@@ -215,11 +215,11 @@ All data is bundled in the plugin at `data/resources.json` and sourced from the 
 | Corpus / Dataset | GitHub | 223 |
 | Hugging Face models | Hugging Face | 174 |
 | Hugging Face datasets | Hugging Face | 137 |
-| JavaScript / Rust / C++ / Go / Java | GitHub | 130 |
+| JavaScript / Rust / C++ / Go / Java | GitHub | 131 |
 | Dictionary and IME | GitHub | 88 |
 | Pretrained model / ChatGPT | GitHub | 68 |
 | Tutorials / Research summaries | GitHub | 42 |
-| **Total** | | **1,208** |
+| **Total** | | **1,209** |
 <!-- END AUTO-COUNTS -->
 
 ## License

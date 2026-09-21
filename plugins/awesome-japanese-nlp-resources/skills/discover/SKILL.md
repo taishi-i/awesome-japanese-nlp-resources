@@ -74,7 +74,7 @@ echo "RESOURCES_PATH=$RESOURCES_PATH"
 
 Write the resulting absolute path into every script below — shell variables may not persist between commands.
 
-The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
+The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual libraries, models, and datasets (GitHub repositories) that also support Japanese, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
 
 ### Step 3 — Local matching
 

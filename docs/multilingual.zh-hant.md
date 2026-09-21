@@ -5,7 +5,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-具備日語功能的多語言 GitHub 儲存庫精選列表。
+並非專為日語打造、但同樣支援日語的多語言函式庫、模型與資料集精選列表。
 本頁面收錄具備日語具體功能的多語言函式庫、模型與資料集，例如日語語種識別、日語分詞器與分析器、日語語音與 OCR 模型，以及資料集中的日語部分。目前共收錄155個儲存庫。
 
 _更新於2026年9月18日_

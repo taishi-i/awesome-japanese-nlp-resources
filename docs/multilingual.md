@@ -5,7 +5,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-A curated list of multilingual GitHub repositories with Japanese language features
+A curated list of multilingual libraries, models, and datasets that are not Japanese-specific but also support Japanese
 This page lists multilingual libraries, models and datasets that provide concrete Japanese features, such as Japanese language detection, Japanese tokenizers and analyzers, Japanese speech and OCR models, and Japanese splits of datasets. Currently, it includes 155 repositories.
 
 _Updated on Sep 18, 2026_

@@ -5443,6 +5443,18 @@
                     "zh-hans": "PII-JA NER 浏览器演示",
                     "zh-hant": "PII-JA NER 瀏覽器演示"
                 }
+            },
+            "https://github.com/uehaj/jev-semgrep": {
+                "sub_category": null,
+                "repository_name": "jev-semgrep",
+                "user_name": "uehaj",
+                "description": "grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる",
+                "multilingual_descriptions": {
+                    "en": "grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる",
+                    "ja": "grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。",
+                    "zh-hans": "通过意义在不同语言中进行grep。TypeSafe Jev根据每行的意义进行评分；使用AND/OR/NOT组合意义。意味で探すgrep。可以在日语中搜索英语，也可以在英语中搜索日语。",
+                    "zh-hant": "通過不同語言的含義進行grep。TypeSafe Jev對每行進行含義評分；使用AND/OR/NOT組合含義。意味で探すgrep。日本語で英語を、英語で日本語を検索できる。"
+                }
             }
         },
         "Go": {

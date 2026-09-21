@@ -5,7 +5,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-具备日语功能的多语言 GitHub 仓库精选列表。
+并非专为日语打造、但同样支持日语的多语言库、模型与数据集精选列表。
 本页面收录具备日语具体功能的多语言库、模型与数据集，例如日语语种识别、日语分词器与分析器、日语语音与 OCR 模型，以及数据集中的日语部分。目前共收录155个仓库。
 
 _更新于2026年9月18日_

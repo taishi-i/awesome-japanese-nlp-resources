@@ -37,11 +37,11 @@
     "d": "Simple Python package (CLI/Python API) for getting japanese readings (yomigana) and accents using MeCab.",
     "d_ja": "MeCabを使用して、日本語の読み仮名とアクセントを取得するためのシンプルなPythonパッケージ（CLI/Python API）。",
     "id": "gh:34j/mecab-text-cleaner",
-    "lc": "2026-02",
+    "lc": "2026-09",
     "n": "mecab-text-cleaner",
     "ns": 2.35,
     "pt": 5000,
-    "pw": 9,
+    "pw": 24,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -60,7 +60,7 @@
     "n": "marine",
     "ns": 4.14,
     "pt": 17000,
-    "pw": 84,
+    "pw": 55,
     "s": [
       "Syntactic Text Processing",
       "Phonetics",
@@ -80,12 +80,12 @@
     "id": "gh:7ka-hiira/fcitx5-hazkey",
     "lc": "2026-02",
     "n": "fcitx5-hazkey",
-    "ns": 6.18,
+    "ns": 6.19,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.21,
-    "st": 235,
+    "st": 237,
     "status": "ok",
     "u": "https://github.com/7ka-hiira/fcitx5-hazkey"
   },
@@ -144,12 +144,12 @@
     "id": "gh:aspjt/pax_sapientica",
     "lc": "2025-12",
     "n": "PAX_SAPIENTICA",
-    "ns": 5.95,
+    "ns": 5.96,
     "s": [
       "Information Extraction & Text Mining"
     ],
     "sc": 0.128,
-    "st": 192,
+    "st": 193,
     "status": "ok",
     "u": "https://github.com/AsPJT/PAX_SAPIENTICA"
   },
@@ -315,7 +315,7 @@
     "n": "hatsuon",
     "ns": 4.14,
     "pt": 2200,
-    "pw": 27,
+    "pw": 20,
     "s": [
       "Phonology",
       "Syntactic Text Processing"
@@ -639,7 +639,7 @@
       "Dialogue Systems & Conversational Agents"
     ],
     "sc": 0.464,
-    "st": 276,
+    "st": 275,
     "status": "ok",
     "u": "https://github.com/Hironsan/HotPepperGourmetDialogue"
   },
@@ -672,7 +672,7 @@
     "n": "asari",
     "ns": 5.7,
     "pt": 83000,
-    "pw": 49,
+    "pw": 47,
     "s": [
       "Sentiment Analysis"
     ],
@@ -739,8 +739,8 @@
     "lc": "2025-10",
     "n": "python-habachen",
     "ns": 2.2,
-    "pt": 2000000,
-    "pw": 6000,
+    "pt": 3000000,
+    "pw": 65000,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -758,7 +758,7 @@
     "n": "HojiChar",
     "ns": 5.49,
     "pt": 1000000,
-    "pw": 450,
+    "pw": 779,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -826,7 +826,7 @@
     "id": "gh:jeanmaximiliencadic/asrdeepspeech",
     "lc": "2026-08",
     "n": "ASRDeepSpeech",
-    "ns": 4.82,
+    "ns": 4.84,
     "s": [
       "Speech Recognition",
       "Text Generation",
@@ -834,7 +834,7 @@
       "Multimodality"
     ],
     "sc": -0.318,
-    "st": 70,
+    "st": 71,
     "status": "ok",
     "u": "https://github.com/JeanMaximilienCadic/ASRDeepSpeech"
   },
@@ -1022,8 +1022,8 @@
     "lc": "2026-08",
     "n": "SuPar-UniDic",
     "ns": 3.5,
-    "pt": 124000,
-    "pw": 264,
+    "pt": 125000,
+    "pw": 30,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -1046,8 +1046,8 @@
     "lc": "2025-12",
     "n": "UniDic2UD",
     "ns": 4.14,
-    "pt": 339000,
-    "pw": 292,
+    "pt": 340000,
+    "pw": 437,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -1073,8 +1073,8 @@
     "lc": "2026-09",
     "n": "esupar",
     "ns": 4.55,
-    "pt": 185000,
-    "pw": 155,
+    "pt": 186000,
+    "pw": 446,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -1218,7 +1218,7 @@
     "d": "Pixiv Encyclopedia Dictionary for Yomitan",
     "d_ja": "ピクシブ百科事典読谷のため",
     "id": "gh:marvnc/pixiv-yomitan",
-    "lc": "2026-03",
+    "lc": "2026-09",
     "n": "pixiv-yomitan",
     "ns": 4.84,
     "s": [
@@ -1295,12 +1295,12 @@
     "id": "gh:mosasom/inappropriate-words-ja",
     "lc": "2021-12",
     "n": "inappropriate-words-ja",
-    "ns": 6.06,
+    "ns": 6.07,
     "s": [
       "Annotation and Dataset Development"
     ],
     "sc": 0.182,
-    "st": 211,
+    "st": 212,
     "status": "ok",
     "u": "https://github.com/MosasoM/inappropriate-words-ja"
   },
@@ -1313,7 +1313,7 @@
     "n": "furigana4epub",
     "ns": 4.02,
     "pt": 13000,
-    "pw": 18,
+    "pw": 11,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1365,7 +1365,7 @@
     "n": "camphr",
     "ns": 6.58,
     "pt": 280000,
-    "pw": 226,
+    "pw": 301,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1400,7 +1400,7 @@
     "lc": "2026-05",
     "n": "wana_kana_rust",
     "ns": 5.13,
-    "pt": 595000,
+    "pt": 605000,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -1417,8 +1417,8 @@
     "lc": "2026-03",
     "n": "e2k",
     "ns": 3.44,
-    "pt": 39000,
-    "pw": 494,
+    "pt": 40000,
+    "pw": 730,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing",
@@ -1565,8 +1565,8 @@
     "lc": "2025-11",
     "n": "mecab-python3",
     "ns": 7.2,
-    "pt": 41000000,
-    "pw": 128000,
+    "pt": 42000000,
+    "pw": 141000,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -1584,7 +1584,7 @@
     "n": "tinysegmenter",
     "ns": 4.43,
     "pt": 180000,
-    "pw": 82000,
+    "pw": 91000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -1642,7 +1642,7 @@
     "n": "PyKatsuyou",
     "ns": 2.99,
     "pt": 23000,
-    "pw": 30,
+    "pw": 41,
     "s": [
       "Syntactic Text Processing",
       "Morphology"
@@ -1794,14 +1794,14 @@
     "id": "gh:universaldependencies/ud_japanese-gsdluw",
     "lc": "2026-05",
     "n": "UD_Japanese-GSDLUW",
-    "ns": 1.57,
+    "ns": 1.82,
     "s": [
       "Syntactic Text Processing",
       "Semantic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.301,
-    "st": 3,
+    "st": 4,
     "status": "ok",
     "u": "https://github.com/UniversalDependencies/UD_Japanese-GSDLUW"
   },
@@ -1894,13 +1894,13 @@
     "n": "WanaKana",
     "ns": 7.75,
     "pt": 3400000,
-    "pw": 61000,
+    "pw": 60000,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
     ],
     "sc": 1.985,
-    "st": 940,
+    "st": 942,
     "status": "ok",
     "u": "https://github.com/WaniKani/WanaKana"
   },
@@ -1931,7 +1931,7 @@
     "d": "A lexicon for Sudachi",
     "d_ja": "すだちの語彙集",
     "id": "gh:worksapplications/sudachidict",
-    "lc": "2026-07",
+    "lc": "2026-09",
     "n": "SudachiDict",
     "ns": 6.49,
     "s": [
@@ -1939,7 +1939,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.381,
-    "st": 308,
+    "st": 310,
     "status": "ok",
     "u": "https://github.com/WorksApplications/SudachiDict"
   },
@@ -1956,7 +1956,7 @@
     "n": "SudachiTra",
     "ns": 4.99,
     "pt": 208000,
-    "pw": 364,
+    "pw": 316,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -1996,7 +1996,7 @@
     "n": "chikkarpy",
     "ns": 4.55,
     "pt": 69000,
-    "pw": 255,
+    "pw": 181,
     "s": [
       "Syntactic Text Processing",
       "Morphology"
@@ -2111,7 +2111,7 @@
     "n": "accel-brain-code",
     "ns": 6.56,
     "pt": 156000,
-    "pw": 142,
+    "pw": 193,
     "s": [
       "Responsible & Trustworthy NLP",
       "Representation Learning",
@@ -2273,7 +2273,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.299,
-    "st": 261,
+    "st": 262,
     "status": "ok",
     "u": "https://github.com/akaza-im/akaza"
   },
@@ -2409,7 +2409,7 @@
     "n": "kuzukiri",
     "ns": 2.2,
     "pt": 30000,
-    "pw": 49,
+    "pw": 54,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -2428,7 +2428,7 @@
     "n": "yubin",
     "ns": 1.57,
     "pt": 3000,
-    "pw": 8,
+    "pw": 5,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -2609,7 +2609,7 @@
     "d": "日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.",
     "d_ja": "Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。",
     "id": "gh:asutorufa/hujiang_dictionary",
-    "lc": "2026-07",
+    "lc": "2026-09",
     "n": "hujiang_dictionary",
     "ns": 4.85,
     "s": [],
@@ -2651,13 +2651,13 @@
     "id": "gh:aurorawright/owocr",
     "lc": "2026-03",
     "n": "owocr",
-    "ns": 6.45,
+    "ns": 6.46,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
     ],
     "sc": -0.148,
-    "st": 298,
+    "st": 300,
     "status": "ok",
     "u": "https://github.com/aurorawright/owocr"
   },
@@ -2666,12 +2666,12 @@
     "d": "Enhanced Piper TTS with Japanese support, WebAssembly, multi-GPU training, and quality improvements.",
     "d_ja": "日本語サポート、WebAssembly、マルチGPUトレーニング、品質向上を備えた強化されたパイパーTTS。",
     "id": "gh:ayutaz/piper-plus",
-    "lc": "2026-08",
+    "lc": "2026-09",
     "n": "piper-plus",
-    "ns": 6.04,
+    "ns": 6.08,
     "s": [],
     "sc": 0.0,
-    "st": 208,
+    "st": 214,
     "status": "ok",
     "u": "https://github.com/ayutaz/piper-plus"
   },
@@ -2682,12 +2682,12 @@
     "id": "gh:azookey/azookeykanakanjiconverter",
     "lc": "2026-09",
     "n": "AzooKeyKanaKanjiConverter",
-    "ns": 5.72,
+    "ns": 5.73,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.0,
-    "st": 156,
+    "st": 157,
     "status": "ok",
     "u": "https://github.com/azooKey/AzooKeyKanaKanjiConverter"
   },
@@ -2698,12 +2698,12 @@
     "id": "gh:azookey/azookey",
     "lc": "2026-09",
     "n": "azooKey",
-    "ns": 7.51,
+    "ns": 7.52,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.0,
-    "st": 764,
+    "st": 768,
     "status": "ok",
     "u": "https://github.com/azooKey/azooKey"
   },
@@ -2776,12 +2776,12 @@
     "id": "gh:bangumi-data/bangumi-data",
     "lc": "2026-09",
     "n": "bangumi-data",
-    "ns": 7.31,
+    "ns": 7.32,
     "pt": 63000,
-    "pw": 599,
+    "pw": 761,
     "s": [],
     "sc": 1.175,
-    "st": 638,
+    "st": 643,
     "status": "ok",
     "u": "https://github.com/bangumi-data/bangumi-data"
   },
@@ -2794,7 +2794,7 @@
     "n": "kairyou",
     "ns": 2.2,
     "pt": 34000,
-    "pw": 53,
+    "pw": 85,
     "s": [
       "Multilinguality",
       "Information Extraction & Text Mining",
@@ -2832,13 +2832,13 @@
     "id": "gh:blueaxis/poricom",
     "lc": "2023-06",
     "n": "Poricom",
-    "ns": 6.88,
+    "ns": 6.89,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
     ],
     "sc": 0.666,
-    "st": 438,
+    "st": 440,
     "status": "ok",
     "u": "https://github.com/blueaxis/Poricom"
   },
@@ -2901,7 +2901,7 @@
     "n": "natto-py",
     "ns": 5.16,
     "pt": 34000000,
-    "pw": 7000,
+    "pw": 2000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -3023,7 +3023,7 @@
     "n": "AugLy-jp",
     "ns": 2.35,
     "pt": 32000,
-    "pw": 28,
+    "pw": 32,
     "s": [
       "Responsible & Trustworthy NLP",
       "Low-Resource NLP"
@@ -3041,8 +3041,8 @@
     "lc": "2026-03",
     "n": "Mykytea-python",
     "ns": 4.09,
-    "pt": 588000,
-    "pw": 326,
+    "pt": 589000,
+    "pw": 269,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -3084,8 +3084,8 @@
     "lc": "2026-09",
     "n": "cihai",
     "ns": 5.14,
-    "pt": 227000,
-    "pw": 169,
+    "pt": 228000,
+    "pw": 469,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing",
@@ -3200,7 +3200,7 @@
       "Semantic Text Processing"
     ],
     "sc": 1.195,
-    "st": 550,
+    "st": 551,
     "status": "ok",
     "u": "https://github.com/cl-tohoku/bert-japanese"
   },
@@ -3264,7 +3264,7 @@
     "n": "showcase",
     "ns": 2.2,
     "pt": 8000,
-    "pw": 9,
+    "pw": 11,
     "s": [
       "Syntactic Text Processing",
       "Argument Mining"
@@ -3282,8 +3282,8 @@
     "lc": "2023-07",
     "n": "donut",
     "ns": 10.0,
-    "pt": 204000,
-    "pw": 140,
+    "pt": 205000,
+    "pw": 73,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -3302,7 +3302,7 @@
     "n": "negima",
     "ns": 3.06,
     "pt": 17000,
-    "pw": 9,
+    "pw": 7,
     "s": [
       "Term Extraction",
       "Information Extraction & Text Mining"
@@ -3339,7 +3339,7 @@
     "ns": 7.57,
     "s": [],
     "sc": 0.0,
-    "st": 803,
+    "st": 802,
     "status": "ok",
     "u": "https://github.com/cokice/japanese-analyzer"
   },
@@ -3453,7 +3453,7 @@
     "lc": "2026-08",
     "n": "crawdad",
     "ns": 4.17,
-    "pt": 113000,
+    "pt": 124000,
     "s": [
       "Information Retrieval",
       "Indexing"
@@ -3471,13 +3471,13 @@
     "lc": "2026-08",
     "n": "daachorse",
     "ns": 6.39,
-    "pt": 5200000,
+    "pt": 5700000,
     "s": [
       "Information Retrieval",
       "Indexing"
     ],
     "sc": 0.288,
-    "st": 283,
+    "st": 284,
     "status": "ok",
     "u": "https://github.com/daac-tools/daachorse"
   },
@@ -3490,7 +3490,7 @@
     "n": "python-vaporetto",
     "ns": 3.5,
     "pt": 190000,
-    "pw": 468,
+    "pw": 120,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -3511,7 +3511,7 @@
     "n": "python-vibrato",
     "ns": 4.36,
     "pt": 127000,
-    "pw": 203,
+    "pw": 216,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -3535,7 +3535,7 @@
     "lc": "2026-07",
     "n": "vaporetto",
     "ns": 6.45,
-    "pt": 305000,
+    "pt": 312000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -3543,7 +3543,7 @@
       "Morphology"
     ],
     "sc": 0.356,
-    "st": 298,
+    "st": 299,
     "status": "ok",
     "u": "https://github.com/daac-tools/vaporetto"
   },
@@ -3556,10 +3556,10 @@
     "d": "vibrato: Viterbi-based accelerated tokenizer",
     "d_ja": "バイブラート：Viterbiベースの高速トークナイザー",
     "id": "gh:daac-tools/vibrato",
-    "lc": "2026-07",
+    "lc": "2026-09",
     "n": "vibrato",
     "ns": 6.84,
-    "pt": 90000,
+    "pt": 92000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -3622,12 +3622,12 @@
     "id": "gh:dahlia/cjk-compsci-terms",
     "lc": "2026-02",
     "n": "cjk-compsci-terms",
-    "ns": 5.72,
+    "ns": 5.73,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.066,
-    "st": 156,
+    "st": 157,
     "status": "ok",
     "u": "https://github.com/dahlia/cjk-compsci-terms"
   },
@@ -3663,7 +3663,7 @@
       "Text Normalization"
     ],
     "sc": 0.165,
-    "st": 232,
+    "st": 233,
     "status": "ok",
     "u": "https://github.com/davidluzgouveia/kanji-data"
   },
@@ -3674,10 +3674,10 @@
     "id": "gh:digital-go-jp/kanjikana-model",
     "lc": "2026-04",
     "n": "kanjikana-model",
-    "ns": 5.42,
+    "ns": 5.43,
     "s": [],
     "sc": 0.0,
-    "st": 119,
+    "st": 120,
     "status": "ok",
     "u": "https://github.com/digital-go-jp/kanjikana-model"
   },
@@ -3756,7 +3756,7 @@
     "n": "kyujipy",
     "ns": 3.55,
     "pt": 24000,
-    "pw": 37,
+    "pw": 26,
     "s": [],
     "sc": 0.0,
     "st": 22,
@@ -3822,13 +3822,13 @@
     "id": "gh:echamudi/japanese-toolkit",
     "lc": "2023-01",
     "n": "japanese-toolkit",
-    "ns": 4.72,
+    "ns": 4.7,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.156,
-    "st": 64,
+    "st": 63,
     "status": "ok",
     "u": "https://github.com/echamudi/japanese-toolkit"
   },
@@ -3841,7 +3841,7 @@
     "n": "aovec",
     "ns": 1.57,
     "pt": 87000,
-    "pw": 71,
+    "pw": 74,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -3860,7 +3860,7 @@
     "n": "wiredify",
     "ns": 1.57,
     "pt": 7000,
-    "pw": 20,
+    "pw": 22,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -4129,12 +4129,12 @@
     "id": "gh:fukuyori/rakukan",
     "lc": "2026-09",
     "n": "rakukan",
-    "ns": 3.96,
+    "ns": 3.99,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.0,
-    "st": 32,
+    "st": 33,
     "status": "ok",
     "u": "https://github.com/fukuyori/rakukan"
   },
@@ -4241,14 +4241,14 @@
     "d": "National address data API",
     "d_ja": "全国の住所データAPI",
     "id": "gh:geolonia/japanese-addresses-v2",
-    "lc": "2026-08",
+    "lc": "2026-09",
     "n": "japanese-addresses-v2",
-    "ns": 4.99,
+    "ns": 5.0,
     "s": [
       "Annotation and Dataset Development"
     ],
     "sc": -0.187,
-    "st": 81,
+    "st": 82,
     "status": "ok",
     "u": "https://github.com/geolonia/japanese-addresses-v2"
   },
@@ -4257,7 +4257,7 @@
     "d": "Open source address normalization library.",
     "d_ja": "オープンソースの住所正規化ライブラリ。",
     "id": "gh:geolonia/normalize-japanese-addresses",
-    "lc": "2026-08",
+    "lc": "2026-09",
     "n": "normalize-japanese-addresses",
     "ns": 7.77,
     "s": [
@@ -4265,7 +4265,7 @@
       "Annotation and Dataset Development"
     ],
     "sc": 2.247,
-    "st": 959,
+    "st": 960,
     "status": "ok",
     "u": "https://github.com/geolonia/normalize-japanese-addresses"
   },
@@ -4278,7 +4278,7 @@
     "n": "pygeonlp",
     "ns": 3.55,
     "pt": 29000,
-    "pw": 354,
+    "pw": 350,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
@@ -4310,10 +4310,10 @@
     "id": "gh:ghmagazine/llm-book",
     "lc": "2025-12",
     "n": "llm-book",
-    "ns": 6.97,
+    "ns": 6.98,
     "s": [],
     "sc": 0.782,
-    "st": 475,
+    "st": 476,
     "status": "ok",
     "u": "https://github.com/ghmagazine/llm-book"
   },
@@ -4358,7 +4358,7 @@
     "n": "node-mecab-ya",
     "ns": 5.33,
     "pt": 7800,
-    "pw": 157,
+    "pw": 69,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -4376,8 +4376,8 @@
     "lc": "2026-09",
     "n": "budoux",
     "ns": 8.48,
-    "pt": 765000,
-    "pw": 10000,
+    "pt": 782000,
+    "pw": 14000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -4522,8 +4522,8 @@
     "lc": "2020-08",
     "n": "kyujitai.js",
     "ns": 3.6,
-    "pt": 2700,
-    "pw": 178,
+    "pt": 2800,
+    "pw": 176,
     "s": [
       "Text Normalization"
     ],
@@ -4556,8 +4556,8 @@
     "lc": "2017-10",
     "n": "node-mecab-async",
     "ns": 5.27,
-    "pt": 318000,
-    "pw": 2300,
+    "pt": 317000,
+    "pw": 2000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -4593,14 +4593,14 @@
     "lc": "2026-09",
     "n": "kuroshiro",
     "ns": 7.81,
-    "pt": 835000,
-    "pw": 19000,
+    "pt": 856000,
+    "pw": 21000,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
     ],
     "sc": 2.184,
-    "st": 991,
+    "st": 992,
     "status": "ok",
     "u": "https://github.com/hexenq/kuroshiro"
   },
@@ -4612,8 +4612,8 @@
     "lc": "2026-09",
     "n": "kuroshiro-analyzer-kuromoji",
     "ns": 4.85,
-    "pt": 795000,
-    "pw": 20000,
+    "pt": 816000,
+    "pw": 21000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -4653,9 +4653,9 @@
     "d": "Konoha: Simple wrapper of Japanese Tokenizers",
     "d_ja": "Konoha：日本語トークナイザーのシンプルなラッパー",
     "id": "gh:himkt/konoha",
-    "lc": "2026-07",
+    "lc": "2026-09",
     "n": "konoha",
-    "ns": 6.31,
+    "ns": 6.32,
     "pt": 7000000,
     "pw": 62000,
     "s": [
@@ -4665,7 +4665,7 @@
       "Morphology"
     ],
     "sc": 0.37,
-    "st": 263,
+    "st": 265,
     "status": "ok",
     "u": "https://github.com/himkt/konoha"
   },
@@ -4711,7 +4711,7 @@
     "n": "wanna",
     "ns": 5.61,
     "pt": 22000,
-    "pw": 46,
+    "pw": 51,
     "s": [
       "Language Models",
       "Text Generation"
@@ -4829,8 +4829,8 @@
     "lc": "2026-08",
     "n": "jinf",
     "ns": 1.82,
-    "pt": 67000,
-    "pw": 234,
+    "pt": 68000,
+    "pw": 118,
     "s": [
       "Syntactic Text Processing",
       "Morphology"
@@ -4847,13 +4847,13 @@
     "id": "gh:hlorenzi/jisho-open",
     "lc": "2026-07",
     "n": "jisho-open",
-    "ns": 4.82,
+    "ns": 4.79,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.213,
-    "st": 70,
+    "st": 68,
     "status": "ok",
     "u": "https://github.com/hlorenzi/jisho-open"
   },
@@ -4880,13 +4880,13 @@
     "id": "gh:hotchpotch/duckdb-vaporetto",
     "lc": "2026-04",
     "n": "duckdb-vaporetto",
-    "ns": 2.81,
+    "ns": 2.9,
     "s": [
       "Indexing",
       "Information Retrieval"
     ],
     "sc": 0.0,
-    "st": 11,
+    "st": 12,
     "status": "ok",
     "u": "https://github.com/hotchpotch/duckdb-vaporetto"
   },
@@ -4899,7 +4899,7 @@
     "n": "fast-bunkai",
     "ns": 4.93,
     "pt": 10000,
-    "pw": 78,
+    "pw": 60,
     "s": [
       "Text Segmentation"
     ],
@@ -4947,13 +4947,13 @@
     "id": "gh:hotchpotch/sqlite-vaporetto",
     "lc": "2026-04",
     "n": "sqlite-vaporetto",
-    "ns": 3.44,
+    "ns": 3.5,
     "s": [
       "Indexing",
       "Information Retrieval"
     ],
     "sc": 0.0,
-    "st": 20,
+    "st": 21,
     "status": "ok",
     "u": "https://github.com/hotchpotch/sqlite-vaporetto"
   },
@@ -4983,7 +4983,7 @@
     "n": "japanese-sentence-breaker",
     "ns": 3.06,
     "pt": 7000,
-    "pw": 6,
+    "pw": 7,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -5002,7 +5002,7 @@
     "n": "jawiki-cleaner",
     "ns": 2.2,
     "pt": 26000,
-    "pw": 18,
+    "pw": 31,
     "s": [
       "Information Extraction & Text Mining",
       "Named Entity Recognition"
@@ -5037,14 +5037,14 @@
     "id": "gh:hpprc/bert-classification-tutorial-2024",
     "lc": "2024-07",
     "n": "bert-classification-tutorial-2024",
-    "ns": 3.88,
+    "ns": 3.92,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Language Models",
       "Semantic Text Processing"
     ],
     "sc": -0.236,
-    "st": 30,
+    "st": 31,
     "status": "ok",
     "u": "https://github.com/hpprc/bert-classification-tutorial-2024"
   },
@@ -5122,9 +5122,9 @@
     "d": "Self-contained Japanese Morphological Analyzer written in pure Go",
     "d_ja": "純粋なGoで書かれた自己完結型の日本語形態素解析器",
     "id": "gh:ikawaha/kagome",
-    "lc": "2026-08",
+    "lc": "2026-09",
     "n": "kagome",
-    "ns": 7.79,
+    "ns": 7.8,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -5132,7 +5132,7 @@
       "Morphology"
     ],
     "sc": 2.116,
-    "st": 981,
+    "st": 983,
     "status": "ok",
     "u": "https://github.com/ikawaha/kagome"
   },
@@ -5141,7 +5141,7 @@
     "d": "Dictionary Library for Kagome v2",
     "d_ja": "かごめv2の辞書ライブラリ",
     "id": "gh:ikawaha/kagome-dict",
-    "lc": "2026-07",
+    "lc": "2026-09",
     "n": "kagome-dict",
     "ns": 3.14,
     "s": [
@@ -5161,7 +5161,7 @@
     "n": "asa-python",
     "ns": 2.81,
     "pt": 32000,
-    "pw": 9,
+    "pw": 12,
     "s": [
       "Syntactic Text Processing",
       "Morphology"
@@ -5180,7 +5180,7 @@
     "n": "cabocha",
     "ns": 2.35,
     "pt": 56000,
-    "pw": 33,
+    "pw": 49,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -5218,14 +5218,14 @@
     "lc": "2026-02",
     "n": "jaconv",
     "ns": 6.63,
-    "pt": 82000000,
-    "pw": 786000,
+    "pt": 83000000,
+    "pw": 710000,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
     ],
     "sc": 0.606,
-    "st": 350,
+    "st": 351,
     "status": "ok",
     "u": "https://github.com/ikegami-yukino/jaconv"
   },
@@ -5242,7 +5242,7 @@
     "n": "mecab",
     "ns": 6.35,
     "pt": 3000000,
-    "pw": 96000,
+    "pw": 112000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -5263,7 +5263,7 @@
     "n": "mozcpy",
     "ns": 4.43,
     "pt": 20000,
-    "pw": 550,
+    "pw": 342,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -5288,7 +5288,7 @@
     "n": "neologdn",
     "ns": 6.42,
     "pt": 2000000,
-    "pw": 11000,
+    "pw": 9000,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -5329,8 +5329,8 @@
     "lc": "2025-08",
     "n": "oseti",
     "ns": 5.21,
-    "pt": 174000,
-    "pw": 145,
+    "pt": 175000,
+    "pw": 161,
     "s": [
       "Sentiment Analysis",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -5349,7 +5349,7 @@
     "n": "pymlask",
     "ns": 5.42,
     "pt": 68000,
-    "pw": 33,
+    "pw": 30,
     "s": [
       "Emotion Analysis",
       "Sentiment Analysis"
@@ -5368,7 +5368,7 @@
     "n": "rakutenma-python",
     "ns": 3.6,
     "pt": 27000,
-    "pw": 7,
+    "pw": 30,
     "s": [
       "Syntactic Text Processing",
       "Morphology",
@@ -5388,7 +5388,7 @@
     "n": "sengiri",
     "ns": 3.64,
     "pt": 138000,
-    "pw": 91,
+    "pw": 126,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -5407,7 +5407,7 @@
     "n": "zunda-python",
     "ns": 2.71,
     "pt": 6000,
-    "pw": 8,
+    "pw": 7,
     "s": [
       "Semantic Parsing",
       "Semantic Text Processing"
@@ -5460,7 +5460,7 @@
     "n": "japanese2phoneme",
     "ns": 0.78,
     "pt": 5000,
-    "pw": 10,
+    "pw": 9,
     "s": [
       "Phonology",
       "Syntactic Text Processing"
@@ -5543,7 +5543,7 @@
     "n": "jel",
     "ns": 2.9,
     "pt": 8000,
-    "pw": 7,
+    "pw": 11,
     "s": [
       "Syntactic Text Processing",
       "Knowledge Representation",
@@ -5596,13 +5596,13 @@
     "id": "gh:japanese-law-analysis/data_set",
     "lc": "2025-01",
     "n": "data_set",
-    "ns": 4.51,
+    "ns": 4.53,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
     ],
     "sc": -0.222,
-    "st": 53,
+    "st": 54,
     "status": "ok",
     "u": "https://github.com/japanese-law-analysis/data_set"
   },
@@ -5631,7 +5631,7 @@
     "n": "node-romaji-name",
     "ns": 4.17,
     "pt": 21000,
-    "pw": 109,
+    "pw": 79,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -5663,7 +5663,7 @@
     "d": "Converts text into the tone of Lady Salome from the Hundred Celestial Plains.",
     "d_ja": "テキストを壱百満天原サロメお嬢様風の口調に変換します",
     "id": "gh:jiro4989/ojosama",
-    "lc": "2026-08",
+    "lc": "2026-09",
     "n": "ojosama",
     "ns": 6.75,
     "s": [
@@ -5731,13 +5731,13 @@
     "id": "gh:jpreprocess/jpreprocess",
     "lc": "2026-06",
     "n": "jpreprocess",
-    "ns": 4.63,
+    "ns": 4.65,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality"
     ],
     "sc": -0.207,
-    "st": 59,
+    "st": 60,
     "status": "ok",
     "u": "https://github.com/jpreprocess/jpreprocess"
   },
@@ -5818,7 +5818,7 @@
     "n": "utsuho",
     "ns": 2.03,
     "pt": 26000,
-    "pw": 97,
+    "pw": 81,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -5871,7 +5871,7 @@
     "n": "daaja",
     "ns": 4.72,
     "pt": 27000,
-    "pw": 39,
+    "pw": 36,
     "s": [
       "Responsible & Trustworthy NLP",
       "Information Retrieval",
@@ -5910,7 +5910,7 @@
       "Syntactic Text Processing"
     ],
     "sc": 0.723,
-    "st": 428,
+    "st": 430,
     "status": "ok",
     "u": "https://github.com/kanjialive/kanji-data-media"
   },
@@ -6006,8 +6006,8 @@
     "lc": "2023-10",
     "n": "jslingua",
     "ns": 4.51,
-    "pt": 10000,
-    "pw": 91,
+    "pt": 9900,
+    "pw": 172,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -6072,12 +6072,12 @@
     "id": "gh:kazumaproject/japanesekeyboard",
     "lc": "2026-09",
     "n": "japanesekeyboard",
-    "ns": 6.59,
+    "ns": 6.61,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.0,
-    "st": 339,
+    "st": 343,
     "status": "ok",
     "u": "https://github.com/kazumaproject/japanesekeyboard"
   },
@@ -6145,8 +6145,8 @@
     "lc": "2022-08",
     "n": "noyaki",
     "ns": 2.03,
-    "pt": 24000,
-    "pw": 92,
+    "pt": 25000,
+    "pw": 113,
     "s": [
       "Syntactic Text Processing",
       "Named Entity Recognition"
@@ -6200,7 +6200,7 @@
     "lc": "2026-07",
     "n": "manga-ocr",
     "ns": 8.98,
-    "pt": 388000,
+    "pt": 392000,
     "pw": 3000,
     "s": [
       "Visual Data in NLP",
@@ -6220,7 +6220,7 @@
     "n": "mokuro",
     "ns": 8.42,
     "pt": 113000,
-    "pw": 370,
+    "pw": 422,
     "s": [
       "Natural Language Interfaces",
       "Visual Data in NLP",
@@ -6419,7 +6419,7 @@
     "id": "gh:komutan/nmecab",
     "lc": "2024-03",
     "n": "NMeCab",
-    "ns": 5.27,
+    "ns": 5.28,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -6427,7 +6427,7 @@
       "Morphology"
     ],
     "sc": -0.057,
-    "st": 104,
+    "st": 105,
     "status": "ok",
     "u": "https://github.com/komutan/NMeCab"
   },
@@ -6525,8 +6525,8 @@
     "lc": "2026-09",
     "n": "yomitoku",
     "ns": 8.35,
-    "pt": 129000,
-    "pw": 688,
+    "pt": 130000,
+    "pw": 1000,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -6742,7 +6742,7 @@
     "n": "ishi",
     "ns": 1.24,
     "pt": 7000,
-    "pw": 9,
+    "pw": 6,
     "s": [
       "Information Extraction & Text Mining",
       "Information Retrieval",
@@ -6864,7 +6864,7 @@
     "n": "kwja",
     "ns": 5.65,
     "pt": 65000,
-    "pw": 131,
+    "pw": 61,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -6882,8 +6882,8 @@
     "lc": "2024-06",
     "n": "kyoto-reader",
     "ns": 2.71,
-    "pt": 65000,
-    "pw": 889,
+    "pt": 66000,
+    "pw": 1000,
     "s": [
       "Syntactic Text Processing",
       "Tagging"
@@ -6906,7 +6906,7 @@
     "n": "pyknp",
     "ns": 5.14,
     "pt": 3000000,
-    "pw": 538,
+    "pw": 783,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
@@ -6926,7 +6926,7 @@
     "n": "pyknp-eventgraph",
     "ns": 2.6,
     "pt": 68000,
-    "pw": 133,
+    "pw": 31,
     "s": [
       "Information Extraction & Text Mining",
       "Event Extraction",
@@ -6946,7 +6946,7 @@
     "n": "rhoknp",
     "ns": 4.2,
     "pt": 2000000,
-    "pw": 10000,
+    "pw": 12000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -7014,7 +7014,7 @@
     "d": "English-Japanese Dictionary data (Public Domain) EJDict-hand",
     "d_ja": "英和辞書データ（パブリックドメイン）EJDict-hand",
     "id": "gh:kujirahand/ejdict",
-    "lc": "2026-06",
+    "lc": "2026-09",
     "n": "EJDict",
     "ns": 6.34,
     "s": [
@@ -7022,7 +7022,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.282,
-    "st": 270,
+    "st": 271,
     "status": "ok",
     "u": "https://github.com/kujirahand/EJDict"
   },
@@ -7289,12 +7289,12 @@
     "id": "gh:lazyfoxchan/rime-jaroomaji",
     "lc": "2026-09",
     "n": "rime-jaroomaji",
-    "ns": 4.57,
+    "ns": 4.59,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.233,
-    "st": 56,
+    "st": 57,
     "status": "ok",
     "u": "https://github.com/lazyfoxchan/rime-jaroomaji"
   },
@@ -7363,8 +7363,8 @@
     "lc": "2022-10",
     "n": "chirptext",
     "ns": 2.35,
-    "pt": 375000,
-    "pw": 5000,
+    "pt": 383000,
+    "pw": 6000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -7432,8 +7432,8 @@
     "lc": "2024-03",
     "n": "jagger-python",
     "ns": 2.99,
-    "pt": 333000,
-    "pw": 412,
+    "pt": 336000,
+    "pw": 1000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -7469,7 +7469,7 @@
     "lc": "2024-02",
     "n": "jdepp-python",
     "ns": 1.82,
-    "pt": 317000,
+    "pt": 319000,
     "pw": 1000,
     "s": [
       "Syntactic Text Processing",
@@ -7492,15 +7492,15 @@
     "id": "gh:lindera-morphology/lindera",
     "lc": "2026-08",
     "n": "lindera",
-    "ns": 7.36,
-    "pt": 2200000,
+    "ns": 7.37,
+    "pt": 2300000,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
       "Morphology"
     ],
     "sc": -0.318,
-    "st": 669,
+    "st": 672,
     "status": "ok",
     "u": "https://github.com/lindera-morphology/lindera"
   },
@@ -7512,7 +7512,7 @@
     "lc": "2026-08",
     "n": "lindera-tantivy",
     "ns": 4.82,
-    "pt": 221000,
+    "pt": 224000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -7581,13 +7581,13 @@
     "id": "gh:lithium0003/findtextcenternet",
     "lc": "2025-08",
     "n": "findtextcenternet",
-    "ns": 4.72,
+    "ns": 4.74,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
     ],
     "sc": -0.318,
-    "st": 64,
+    "st": 65,
     "status": "ok",
     "u": "https://github.com/lithium0003/findtextcenternet"
   },
@@ -7673,12 +7673,12 @@
     "id": "gh:llm-jp/llm-jp-corpus",
     "lc": "2023-10",
     "n": "llm-jp-corpus",
-    "ns": 4.38,
+    "ns": 4.4,
     "s": [
       "Annotation and Dataset Development"
     ],
     "sc": -0.199,
-    "st": 47,
+    "st": 48,
     "status": "ok",
     "u": "https://github.com/llm-jp/llm-jp-corpus"
   },
@@ -7711,14 +7711,14 @@
     "id": "gh:llm-jp/llm-jp-eval-mm",
     "lc": "2026-04",
     "n": "llm-jp-eval-mm",
-    "ns": 4.28,
+    "ns": 4.31,
     "s": [
       "Language Models",
       "Semantic Text Processing",
       "Multimodality"
     ],
     "sc": -0.256,
-    "st": 43,
+    "st": 44,
     "status": "ok",
     "u": "https://github.com/llm-jp/llm-jp-eval-mm"
   },
@@ -7856,10 +7856,10 @@
     "id": "gh:ln2058/tsukeru-furigana-converter",
     "lc": "2026-09",
     "n": "tsukeru-furigana-converter",
-    "ns": 2.49,
+    "ns": 2.6,
     "s": [],
     "sc": 0.0,
-    "st": 8,
+    "st": 9,
     "status": "ok",
     "u": "https://github.com/ln2058/tsukeru-furigana-converter"
   },
@@ -7871,8 +7871,8 @@
     "lc": "2026-07",
     "n": "hepburn",
     "ns": 5.52,
-    "pt": 6500000,
-    "pw": 58000,
+    "pt": 6600000,
+    "pw": 49000,
     "s": [
       "Phonology",
       "Syntactic Text Processing",
@@ -8007,7 +8007,7 @@
     "n": "manga109api",
     "ns": 5.52,
     "pt": 49000,
-    "pw": 29,
+    "pw": 75,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
@@ -8066,7 +8066,7 @@
       "Machine Translation"
     ],
     "sc": 0.219,
-    "st": 207,
+    "st": 208,
     "status": "ok",
     "u": "https://github.com/mantra-inc/open-mantra-dataset"
   },
@@ -8173,13 +8173,13 @@
     "id": "gh:marvnc/yomitan-dictionaries",
     "lc": "2026-03",
     "n": "yomitan-dictionaries",
-    "ns": 7.71,
+    "ns": 7.72,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 1.047,
-    "st": 911,
+    "st": 919,
     "status": "ok",
     "u": "https://github.com/marvnc/yomitan-dictionaries"
   },
@@ -8222,8 +8222,8 @@
     "lc": "2026-08",
     "n": "depccg",
     "ns": 5.23,
-    "pt": 51000,
-    "pw": 160,
+    "pt": 52000,
+    "pw": 155,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing",
@@ -8358,7 +8358,7 @@
     "n": "jdeppy",
     "ns": 1.57,
     "pt": 12000,
-    "pw": 8,
+    "pw": 9,
     "s": [
       "Syntactic Parsing",
       "Syntactic Text Processing"
@@ -8413,10 +8413,10 @@
     "id": "gh:mcgrizzz/yomine",
     "lc": "2026-09",
     "n": "yomine",
-    "ns": 4.72,
+    "ns": 4.74,
     "s": [],
     "sc": 0.0,
-    "st": 64,
+    "st": 65,
     "status": "ok",
     "u": "https://github.com/mcgrizzz/yomine"
   },
@@ -8483,7 +8483,7 @@
     "n": "bunkai",
     "ns": 6.0,
     "pt": 123000,
-    "pw": 144,
+    "pw": 156,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -8502,7 +8502,7 @@
     "n": "desuwa",
     "ns": 2.2,
     "pt": 11000,
-    "pw": 15,
+    "pw": 6,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
@@ -8548,14 +8548,14 @@
     "n": "ginza",
     "ns": 7.66,
     "pt": 2000000,
-    "pw": 7000,
+    "pw": 12000,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing",
       "Tagging"
     ],
     "sc": 1.917,
-    "st": 872,
+    "st": 873,
     "status": "ok",
     "u": "https://github.com/megagonlabs/ginza"
   },
@@ -8568,7 +8568,7 @@
     "n": "ginza-transformers",
     "ns": 3.21,
     "pt": 278000,
-    "pw": 421,
+    "pw": 275,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -8751,8 +8751,8 @@
     "lc": "2026-07",
     "n": "pykakasi",
     "ns": 6.94,
-    "pt": 38000000,
-    "pw": 421000,
+    "pt": 39000000,
+    "pw": 418000,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -8788,7 +8788,7 @@
     "n": "dango",
     "ns": 3.73,
     "pt": 27000,
-    "pw": 21,
+    "pw": 22,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -8807,8 +8807,8 @@
     "lc": "2021-02",
     "n": "hasami",
     "ns": 2.2,
-    "pt": 46000,
-    "pw": 213,
+    "pt": 47000,
+    "pw": 135,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -8867,14 +8867,14 @@
     "n": "janome",
     "ns": 7.72,
     "pt": 13000000,
-    "pw": 41000,
+    "pw": 43000,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
       "Morphology"
     ],
     "sc": 2.159,
-    "st": 916,
+    "st": 917,
     "status": "ok",
     "u": "https://github.com/mocobeta/janome"
   },
@@ -8951,7 +8951,7 @@
     "n": "himotoki",
     "ns": 2.49,
     "pt": 7000,
-    "pw": 69,
+    "pw": 106,
     "s": [],
     "sc": 0.0,
     "st": 8,
@@ -8971,7 +8971,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.318,
-    "st": 311,
+    "st": 312,
     "status": "ok",
     "u": "https://github.com/mtgto/macskk"
   },
@@ -9101,7 +9101,7 @@
     "lc": "2025-06",
     "n": "Japanera",
     "ns": 4.05,
-    "pt": 457000,
+    "pt": 463000,
     "pw": 4000,
     "s": [],
     "sc": 0.0,
@@ -9117,8 +9117,8 @@
     "lc": "2024-06",
     "n": "Jusho",
     "ns": 2.9,
-    "pt": 68000,
-    "pw": 467,
+    "pt": 69000,
+    "pw": 598,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -9136,7 +9136,7 @@
     "n": "kanjize",
     "ns": 4.79,
     "pt": 2000000,
-    "pw": 24000,
+    "pw": 17000,
     "s": [
       "Text Normalization"
     ],
@@ -9242,7 +9242,7 @@
     "d": "SKK (Simple Kana Kanji conversion) library",
     "d_ja": "出力: SKK（シンプルかな漢字変換）ライブラリ",
     "id": "gh:naokiri/cskk",
-    "lc": "2026-07",
+    "lc": "2026-09",
     "n": "cskk",
     "ns": 5.04,
     "s": [
@@ -9295,12 +9295,12 @@
     "id": "gh:ncaq/dic-nico-intersection-pixiv",
     "lc": "2024-09",
     "n": "dic-nico-intersection-pixiv",
-    "ns": 5.22,
+    "ns": 5.23,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.116,
-    "st": 100,
+    "st": 101,
     "status": "ok",
     "u": "https://github.com/ncaq/dic-nico-intersection-pixiv"
   },
@@ -9448,7 +9448,7 @@
       "Annotation and Dataset Development"
     ],
     "sc": 1.181,
-    "st": 680,
+    "st": 682,
     "status": "ok",
     "u": "https://github.com/ndl-lab/ndlocr_cli"
   },
@@ -9568,16 +9568,16 @@
     "id": "gh:neocl/jamdict",
     "lc": "2021-06",
     "n": "jamdict",
-    "ns": 5.82,
-    "pt": 85000,
-    "pw": 2000,
+    "ns": 5.83,
+    "pt": 87000,
+    "pw": 1000,
     "s": [
       "Multilinguality",
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.071,
-    "st": 171,
+    "st": 172,
     "status": "ok",
     "u": "https://github.com/neocl/jamdict"
   },
@@ -10077,12 +10077,12 @@
     "id": "gh:o24s/haqumei",
     "lc": "2026-09",
     "n": "haqumei",
-    "ns": 2.49,
+    "ns": 2.6,
     "s": [
       "Text Normalization"
     ],
     "sc": 0.0,
-    "st": 8,
+    "st": 9,
     "status": "ok",
     "u": "https://github.com/o24s/haqumei"
   },
@@ -10093,12 +10093,12 @@
     "id": "gh:obfusk/jiten",
     "lc": "2023-12",
     "n": "jiten",
-    "ns": 5.53,
+    "ns": 5.51,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.008,
-    "st": 132,
+    "st": 129,
     "status": "ok",
     "u": "https://github.com/obfusk/jiten"
   },
@@ -10111,7 +10111,7 @@
     "n": "shiba",
     "ns": 5.09,
     "pt": 9000,
-    "pw": 15,
+    "pw": 14,
     "s": [
       "Responsible & Trustworthy NLP",
       "Representation Learning",
@@ -10132,7 +10132,7 @@
     "id": "gh:odashi/small_parallel_enja",
     "lc": "2019-09",
     "n": "small_parallel_enja",
-    "ns": 5.2,
+    "ns": 5.19,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -10140,7 +10140,7 @@
       "Annotation and Dataset Development"
     ],
     "sc": -0.048,
-    "st": 98,
+    "st": 97,
     "status": "ok",
     "u": "https://github.com/odashi/small_parallel_enja"
   },
@@ -10201,8 +10201,8 @@
     "lc": "2026-03",
     "n": "jntajis-python",
     "ns": 3.5,
-    "pt": 145000,
-    "pw": 859,
+    "pt": 147000,
+    "pw": 802,
     "s": [
       "Text Normalization"
     ],
@@ -10354,7 +10354,7 @@
     "n": "yomikata",
     "ns": 4.09,
     "pt": 50000,
-    "pw": 20,
+    "pw": 30,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -10500,7 +10500,7 @@
     "n": "hirakanadic",
     "ns": 2.35,
     "pt": 15000,
-    "pw": 32,
+    "pw": 26,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -10540,7 +10540,7 @@
     "n": "cutlet",
     "ns": 6.74,
     "pt": 2000000,
-    "pw": 18000,
+    "pw": 22000,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -10565,7 +10565,7 @@
     "n": "fugashi",
     "ns": 7.11,
     "pt": 18000000,
-    "pw": 121000,
+    "pw": 136000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -10573,7 +10573,7 @@
       "Morphology"
     ],
     "sc": 0.93,
-    "st": 537,
+    "st": 534,
     "status": "ok",
     "u": "https://github.com/polm/fugashi"
   },
@@ -10586,7 +10586,7 @@
     "n": "ipadic-py",
     "ns": 3.64,
     "pt": 8000000,
-    "pw": 43000,
+    "pw": 46000,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -10617,13 +10617,13 @@
     "lc": "2026-08",
     "n": "posuto",
     "ns": 6.18,
-    "pt": 900000,
+    "pt": 914000,
     "pw": 5000,
     "s": [
       "Annotation and Dataset Development"
     ],
     "sc": 0.279,
-    "st": 234,
+    "st": 235,
     "status": "ok",
     "u": "https://github.com/polm/posuto"
   },
@@ -10635,8 +10635,8 @@
     "lc": "2020-09",
     "n": "unidic-lite",
     "ns": 4.49,
-    "pt": 12000000,
-    "pw": 110000,
+    "pt": 13000000,
+    "pw": 131000,
     "s": [
       "Syntactic Text Processing",
       "Morphology",
@@ -10656,7 +10656,7 @@
     "n": "unidic-py",
     "ns": 5.37,
     "pt": 12000000,
-    "pw": 73000,
+    "pw": 84000,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -10726,7 +10726,7 @@
     "n": "pyopenjtalk",
     "ns": 6.3,
     "pt": 2000000,
-    "pw": 22000,
+    "pw": 26000,
     "s": [
       "Natural Language Interfaces",
       "Syntactic Text Processing",
@@ -10760,7 +10760,7 @@
     "n": "yomigana-ebook",
     "ns": 3.77,
     "pt": 8000,
-    "pw": 21,
+    "pw": 26,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -10796,7 +10796,7 @@
     "n": "rakutenma",
     "ns": 6.97,
     "pt": 1200,
-    "pw": 25,
+    "pw": 18,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -10847,7 +10847,7 @@
     "d": "This is a public repository for the Japanese Semantic Textual Similarity calculation dataset JSTS-Neg, which is used to evaluate negative comprehension ability. JSTS-Neg was created by extending the language inference dataset JSTS included in JGLUE.",
     "d_ja": "否定理解能力を評価するための日本語意味的類似度計算データセット JSTS-Neg の公開用リポジトリです。 JSTS-Neg は、JGLUE に含まれる言語推論データセット JSTS を拡張して作成しました。",
     "id": "gh:reiko-y/jsts-neg",
-    "lc": "2026-05",
+    "lc": "2026-09",
     "n": "JSTS-Neg",
     "ns": 1.24,
     "s": [
@@ -10904,7 +10904,7 @@
     "n": "jptranstokenizer",
     "ns": 2.03,
     "pt": 31000,
-    "pw": 48,
+    "pw": 69,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -11096,7 +11096,7 @@
     "n": "darts-clone-python",
     "ns": 3.44,
     "pt": 9000000,
-    "pw": 2000,
+    "pw": 3000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -11164,7 +11164,7 @@
     "lc": "2025-11",
     "n": "namedivider-python",
     "ns": 6.26,
-    "pt": 106000,
+    "pt": 108000,
     "pw": 1000,
     "s": [
       "Information Extraction & Text Mining",
@@ -11182,14 +11182,14 @@
     "id": "gh:rtr46/meikiocr",
     "lc": "2026-04",
     "n": "meikiocr",
-    "ns": 5.13,
-    "pt": 51000,
-    "pw": 727,
+    "ns": 5.15,
+    "pt": 52000,
+    "pw": 824,
     "s": [
       "Visual Data in NLP"
     ],
     "sc": 0.0,
-    "st": 92,
+    "st": 94,
     "status": "ok",
     "u": "https://github.com/rtr46/meikiocr"
   },
@@ -11200,12 +11200,12 @@
     "id": "gh:rtr46/meikipop",
     "lc": "2026-06",
     "n": "meikipop",
-    "ns": 7.35,
+    "ns": 7.36,
     "s": [
       "Visual Data in NLP"
     ],
     "sc": 0.0,
-    "st": 662,
+    "st": 667,
     "status": "ok",
     "u": "https://github.com/rtr46/meikipop"
   },
@@ -11439,10 +11439,10 @@
     "id": "gh:sbintuitions/sarashina2.2-tts",
     "lc": "2026-06",
     "n": "sarashina2.2-tts",
-    "ns": 5.04,
+    "ns": 5.05,
     "s": [],
     "sc": 0.0,
-    "st": 85,
+    "st": 86,
     "status": "ok",
     "u": "https://github.com/sbintuitions/sarashina2.2-tts"
   },
@@ -11503,8 +11503,8 @@
     "lc": "2026-08",
     "n": "kanjiconv",
     "ns": 3.44,
-    "pt": 27000,
-    "pw": 415,
+    "pt": 28000,
+    "pw": 610,
     "s": [
       "Text Normalization"
     ],
@@ -11522,7 +11522,7 @@
     "n": "yurenizer",
     "ns": 2.2,
     "pt": 22000,
-    "pw": 111,
+    "pw": 80,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -11603,12 +11603,12 @@
     "id": "gh:shi3z/japanese-llm-benchmark",
     "lc": "2026-07",
     "n": "japanese-llm-benchmark",
-    "ns": 4.45,
+    "ns": 4.47,
     "s": [
       "Annotation and Dataset Development"
     ],
     "sc": 0.0,
-    "st": 50,
+    "st": 51,
     "status": "ok",
     "u": "https://github.com/shi3z/japanese-llm-benchmark"
   },
@@ -11637,7 +11637,7 @@
     "n": "py-kaomoji",
     "ns": 2.2,
     "pt": 38000,
-    "pw": 31,
+    "pw": 29,
     "s": [],
     "sc": 0.0,
     "st": 6,
@@ -11691,7 +11691,7 @@
     "n": "alphabet2kana",
     "ns": 3.14,
     "pt": 64000,
-    "pw": 102,
+    "pw": 139,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -11793,7 +11793,7 @@
     "lc": "2023-09",
     "n": "pitch-accent",
     "ns": 1.24,
-    "pt": 183,
+    "pt": 187,
     "pw": 3,
     "s": [
       "Phonology",
@@ -11878,13 +11878,13 @@
     "id": "gh:shogo82148/tinysegmentermaker",
     "lc": "2022-09",
     "n": "TinySegmenterMaker",
-    "ns": 4.87,
+    "ns": 4.88,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
     ],
     "sc": -0.116,
-    "st": 73,
+    "st": 74,
     "status": "ok",
     "u": "https://github.com/shogo82148/TinySegmenterMaker"
   },
@@ -11914,7 +11914,7 @@
     "n": "allennlp-shiba-model",
     "ns": 2.9,
     "pt": 23000,
-    "pw": 20,
+    "pw": 30,
     "s": [
       "Responsible & Trustworthy NLP",
       "Representation Learning",
@@ -12059,10 +12059,10 @@
     "id": "gh:sinchir0/kaggle_llm_book",
     "lc": "2026-07",
     "n": "kaggle_llm_book",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [],
     "sc": 0.0,
-    "st": 40,
+    "st": 41,
     "status": "ok",
     "u": "https://github.com/sinchir0/kaggle_llm_book"
   },
@@ -12324,12 +12324,12 @@
     "id": "gh:sph-mn/nihongo",
     "lc": "2025-01",
     "n": "nihongo",
-    "ns": 3.77,
+    "ns": 3.85,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.0,
-    "st": 27,
+    "st": 29,
     "status": "ok",
     "u": "https://github.com/sph-mn/nihongo"
   },
@@ -12382,7 +12382,7 @@
       "Annotation and Dataset Development"
     ],
     "sc": -0.318,
-    "st": 142,
+    "st": 141,
     "status": "ok",
     "u": "https://github.com/stephenmk/yomichan-jlpt-vocab"
   },
@@ -12607,14 +12607,14 @@
     "id": "gh:t-sagara/jageocoder",
     "lc": "2026-03",
     "n": "jageocoder",
-    "ns": 5.27,
-    "pt": 467000,
+    "ns": 5.28,
+    "pt": 472000,
     "pw": 4000,
     "s": [
       "Syntactic Text Processing"
     ],
     "sc": -0.111,
-    "st": 104,
+    "st": 105,
     "status": "ok",
     "u": "https://github.com/t-sagara/jageocoder"
   },
@@ -12641,10 +12641,10 @@
     "id": "gh:t3tra-dev/mozuku",
     "lc": "2026-04",
     "n": "mozuku",
-    "ns": 6.84,
+    "ns": 6.83,
     "s": [],
     "sc": 0.0,
-    "st": 420,
+    "st": 419,
     "status": "ok",
     "u": "https://github.com/t3tra-dev/mozuku"
   },
@@ -12657,7 +12657,7 @@
     "n": "jamorasep",
     "ns": 2.81,
     "pt": 11000,
-    "pw": 20,
+    "pw": 310,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -12698,7 +12698,7 @@
     "n": "nagisa",
     "ns": 6.84,
     "pt": 10000000,
-    "pw": 31000,
+    "pw": 32000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -12719,7 +12719,7 @@
     "n": "nagisa_bert",
     "ns": 2.03,
     "pt": 63000,
-    "pw": 19,
+    "pw": 16,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -12739,7 +12739,7 @@
     "n": "toiro",
     "ns": 5.44,
     "pt": 28000,
-    "pw": 59,
+    "pw": 37,
     "s": [
       "Responsible & Trustworthy NLP",
       "Syntactic Text Processing",
@@ -12755,7 +12755,7 @@
     "d": "J-SpAW: Japanese speech corpus for speaker verification and anti-spoofing",
     "d_ja": "J-SpAW: スピーカー認証とアンチスプーフィングのための日本語音声コーパス",
     "id": "gh:takamichi-lab/j-spaw",
-    "lc": "2025-08",
+    "lc": "2026-09",
     "n": "j-spaw",
     "ns": 2.2,
     "s": [
@@ -12789,7 +12789,7 @@
     "n": "nlplot",
     "ns": 6.2,
     "pt": 117000,
-    "pw": 60,
+    "pw": 67,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -12856,7 +12856,7 @@
     "n": "japanese-numbers-python",
     "ns": 3.5,
     "pt": 2000000,
-    "pw": 359,
+    "pw": 337,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -12894,7 +12894,7 @@
     "n": "kuromoji.js",
     "ns": 7.82,
     "pt": 12000000,
-    "pw": 245000,
+    "pw": 226000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -12914,8 +12914,8 @@
     "lc": "2016-07",
     "n": "mecab-ipadic-seed",
     "ns": 2.49,
-    "pt": 8700,
-    "pw": 177,
+    "pt": 8900,
+    "pw": 180,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13218,8 +13218,8 @@
     "lc": "2026-04",
     "n": "analyze-desumasu-dearu",
     "ns": 3.33,
-    "pt": 7300000,
-    "pw": 165000,
+    "pt": 7400000,
+    "pw": 150000,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -13254,8 +13254,8 @@
     "lc": "2017-05",
     "n": "juman-bin",
     "ns": 1.57,
-    "pt": 478,
-    "pw": 5,
+    "pt": 482,
+    "pw": 2,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -13297,7 +13297,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.318,
-    "st": 315,
+    "st": 314,
     "status": "ok",
     "u": "https://github.com/themoeway/jmdict-yomitan"
   },
@@ -13342,7 +13342,7 @@
     "n": "pynormalizenumexp",
     "ns": 2.49,
     "pt": 15000,
-    "pw": 29,
+    "pw": 23,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -13431,12 +13431,12 @@
     "id": "gh:togatoga/karukan",
     "lc": "2026-09",
     "n": "karukan",
-    "ns": 7.45,
+    "ns": 7.46,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.0,
-    "st": 724,
+    "st": 730,
     "status": "ok",
     "u": "https://github.com/togatoga/karukan"
   },
@@ -13470,7 +13470,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.318,
-    "st": 261,
+    "st": 262,
     "status": "ok",
     "u": "https://github.com/tokuhirom/akaza"
   },
@@ -13662,7 +13662,7 @@
     "n": "marine-plus",
     "ns": 2.6,
     "pt": 14000,
-    "pw": 26,
+    "pw": 45,
     "s": [],
     "sc": 0.0,
     "st": 9,
@@ -13676,12 +13676,12 @@
     "id": "gh:tsukumijima/pyopenjtalk-plus",
     "lc": "2026-08",
     "n": "pyopenjtalk-plus",
-    "ns": 4.69,
-    "pt": 646000,
-    "pw": 6000,
+    "ns": 4.72,
+    "pt": 683000,
+    "pw": 35000,
     "s": [],
     "sc": 0.0,
-    "st": 62,
+    "st": 64,
     "status": "ok",
     "u": "https://github.com/tsukumijima/pyopenjtalk-plus"
   },
@@ -13731,14 +13731,14 @@
     "id": "gh:tsuruoka-lab/bsd",
     "lc": "2021-11",
     "n": "BSD",
-    "ns": 4.91,
+    "ns": 4.93,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents",
       "Annotation and Dataset Development"
     ],
     "sc": -0.125,
-    "st": 76,
+    "st": 77,
     "status": "ok",
     "u": "https://github.com/tsuruoka-lab/BSD"
   },
@@ -13804,8 +13804,8 @@
     "lc": "2023-02",
     "n": "japanese-numerals-to-number",
     "ns": 4.63,
-    "pt": 3300000,
-    "pw": 66000,
+    "pt": 3400000,
+    "pw": 70000,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -13937,13 +13937,13 @@
     "id": "gh:uezo/aiavatarkit",
     "lc": "2026-09",
     "n": "aiavatarkit",
-    "ns": 7.37,
+    "ns": 7.38,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
     ],
     "sc": 0.552,
-    "st": 673,
+    "st": 678,
     "status": "ok",
     "u": "https://github.com/uezo/aiavatarkit"
   },
@@ -14006,10 +14006,10 @@
     "id": "gh:upura/nlp100v2020",
     "lc": "2025-04",
     "n": "nlp100v2020",
-    "ns": 5.13,
+    "ns": 5.14,
     "s": [],
     "sc": -0.105,
-    "st": 92,
+    "st": 93,
     "status": "ok",
     "u": "https://github.com/upura/nlp100v2020"
   },
@@ -14020,10 +14020,10 @@
     "id": "gh:upura/nlp100v2025",
     "lc": "2025-04",
     "n": "nlp100v2025",
-    "ns": 5.13,
+    "ns": 5.14,
     "s": [],
     "sc": -0.085,
-    "st": 92,
+    "st": 93,
     "status": "ok",
     "u": "https://github.com/upura/nlp100v2025"
   },
@@ -14364,7 +14364,7 @@
     "lc": "2026-07",
     "n": "ja_sentence_segmenter",
     "ns": 4.91,
-    "pt": 274000,
+    "pt": 277000,
     "pw": 2000,
     "s": [
       "Syntactic Text Processing",
@@ -14463,8 +14463,8 @@
     "lc": "2023-11",
     "n": "ja-timex",
     "ns": 5.6,
-    "pt": 135000,
-    "pw": 2000,
+    "pt": 139000,
+    "pw": 3000,
     "s": [
       "Phonology",
       "Annotation and Dataset Development",
@@ -14595,7 +14595,7 @@
       "Explainability & Interpretability in NLP"
     ],
     "sc": 0.566,
-    "st": 346,
+    "st": 347,
     "status": "ok",
     "u": "https://github.com/yahoojapan/JGLUE"
   },
@@ -14822,10 +14822,10 @@
     "id": "gh:yoheikikuta/support-genai-book",
     "lc": "2026-08",
     "n": "support-genai-book",
-    "ns": 5.27,
+    "ns": 5.28,
     "s": [],
     "sc": 0.0,
-    "st": 104,
+    "st": 105,
     "status": "ok",
     "u": "https://github.com/yoheikikuta/support-genai-book"
   },
@@ -14905,12 +14905,12 @@
     "id": "gh:yosina-lib/yosina",
     "lc": "2026-04",
     "n": "yosina",
-    "ns": 3.73,
+    "ns": 3.77,
     "s": [
       "Text Normalization"
     ],
     "sc": 0.0,
-    "st": 26,
+    "st": 27,
     "status": "ok",
     "u": "https://github.com/yosina-lib/yosina"
   },
@@ -15073,12 +15073,12 @@
     "id": "gh:yuukitoriyama/japanese-address-parser",
     "lc": "2026-06",
     "n": "japanese-address-parser",
-    "ns": 2.99,
+    "ns": 3.06,
     "s": [
       "Annotation and Dataset Development"
     ],
     "sc": -0.307,
-    "st": 13,
+    "st": 14,
     "status": "ok",
     "u": "https://github.com/yuukitoriyama/japanese-address-parser"
   },
@@ -15257,12 +15257,12 @@
     "id": "gh:zuntan03/easynovelassistant",
     "lc": "2024-07",
     "n": "easynovelassistant",
-    "ns": 6.17,
+    "ns": 6.18,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": -0.284,
-    "st": 233,
+    "st": 234,
     "status": "ok",
     "u": "https://github.com/zuntan03/easynovelassistant"
   },
@@ -15301,10 +15301,10 @@
     "id": "gh:anchori/jlpt-kanji-dictionary",
     "lc": "2025-05",
     "n": "jlpt-kanji-dictionary",
-    "ns": 4.14,
+    "ns": 4.17,
     "s": [],
     "sc": 0.0,
-    "st": 38,
+    "st": 39,
     "status": "ok",
     "u": "https://github.com/AnchorI/jlpt-kanji-dictionary"
   },
@@ -15329,10 +15329,10 @@
     "id": "gh:interfacex-co-jp/genshijin",
     "lc": "2026-08",
     "n": "genshijin",
-    "ns": 6.55,
+    "ns": 6.57,
     "s": [],
     "sc": 0.0,
-    "st": 327,
+    "st": 332,
     "status": "ok",
     "u": "https://github.com/interfacex-co-jp/genshijin"
   },
@@ -15357,10 +15357,10 @@
     "id": "gh:sserada/fuseji",
     "lc": "2026-06",
     "n": "fuseji",
-    "ns": 0.0,
+    "ns": 0.78,
     "s": [],
     "sc": 0.0,
-    "st": 0,
+    "st": 1,
     "status": "ok",
     "u": "https://github.com/sserada/fuseji"
   },
@@ -15411,7 +15411,7 @@
     "d": "Romanization-aware string comparison for Japanese and Mandarin Chinese.",
     "d_ja": "日本語と中国語（北京語）のためのローマ字対応文字列比較。",
     "id": "gh:tagucci/moine",
-    "lc": "2026-08",
+    "lc": "2026-09",
     "n": "moine",
     "ns": 2.6,
     "s": [],
@@ -15497,10 +15497,10 @@
     "id": "gh:kimushun1101/mikke",
     "lc": "2026-08",
     "n": "mikke",
-    "ns": 4.38,
+    "ns": 4.43,
     "s": [],
     "sc": 0.0,
-    "st": 47,
+    "st": 49,
     "status": "ok",
     "u": "https://github.com/kimushun1101/mikke"
   },
@@ -15525,10 +15525,10 @@
     "id": "gh:nwiizo/suiko",
     "lc": "2026-09",
     "n": "suiko",
-    "ns": 5.34,
+    "ns": 5.36,
     "s": [],
     "sc": 0.0,
-    "st": 111,
+    "st": 113,
     "status": "ok",
     "u": "https://github.com/nwiizo/suiko"
   },
@@ -15567,10 +15567,10 @@
     "id": "gh:ayutaz/sanotts-jp",
     "lc": "2026-09",
     "n": "sanoTTS-jp",
-    "ns": 4.7,
+    "ns": 4.77,
     "s": [],
     "sc": 0.0,
-    "st": 63,
+    "st": 67,
     "status": "ok",
     "u": "https://github.com/ayutaz/sanoTTS-jp"
   },
@@ -15615,6 +15615,20 @@
     "st": 65,
     "status": "ok",
     "u": "https://github.com/ryota-komatsu/slp2025"
+  },
+  {
+    "c": "JavaScript",
+    "d": "grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる",
+    "d_ja": "grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。",
+    "id": "gh:uehaj/jev-semgrep",
+    "lc": "2026-09",
+    "n": "jev-semgrep",
+    "ns": 5.45,
+    "s": [],
+    "sc": 0.0,
+    "st": 123,
+    "status": "ok",
+    "u": "https://github.com/uehaj/jev-semgrep"
   },
   {
     "c": "HuggingFace Model (Others)",

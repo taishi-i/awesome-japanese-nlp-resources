@@ -68,7 +68,7 @@ echo "RESOURCES_PATH=$RESOURCES_PATH"
 
 Use the resulting absolute `RESOURCES_PATH` wherever Step 3 opens the data file — write the path itself into the script, since shell variables may not persist between commands.
 
-The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual GitHub repositories that provide concrete Japanese features, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
+The plugin also ships `data/multilingual_resources.json` (same item format) listing multilingual libraries, models, and datasets (GitHub repositories) that also support Japanese, from `docs/multilingual.md`. The scripts below load it automatically when it exists; its items have categories like `Multilingual (Speech recognition)`.
 
 ### Step 3 — Survey the existing dataset (inline Python)
 
