@@ -1013,6 +1013,7 @@ Crates for script and character conversion in Japanese text
  * [mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs) - Rust implementation of a fast converter between Japanese hankaku and zenkaku characters, mojimoji.
  * [haqumei](https://github.com/o24s/haqumei) - A Japanese Grapheme-to-Phoneme (G2P) library.
  * [ja-furigana](https://github.com/RyuuNeko1107/ja-furigana) - 日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。
+ * [jpnorm](https://github.com/yoshitakaoyama/jpnorm) - 日本語テキスト正規化ライブラリ (Rust core + Python)。neologdn 互換・用途別プリセット・URL 保護・カスタム辞書 / Fast, configurable Japanese text normalization
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1026,6 +1027,7 @@ Crates for script and character conversion in Japanese text
 |[mojimoji-rs](https://github.com/europeanplaice/mojimoji-rs)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/europeanplaice/mojimoji-rs?style=social)|
 |[haqumei](https://github.com/o24s/haqumei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/o24s/haqumei?style=social)|
 |[ja-furigana](https://github.com/RyuuNeko1107/ja-furigana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/RyuuNeko1107/ja-furigana?style=social)|
+|[jpnorm](https://github.com/yoshitakaoyama/jpnorm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoshitakaoyama/jpnorm?style=social)|
 
 
 ### Search engine library
