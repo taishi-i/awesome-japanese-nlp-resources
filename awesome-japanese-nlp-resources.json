@@ -1382,18 +1382,6 @@
                     "zh-hant": "日本語文法錯誤訂正工具"
                 }
             },
-            "https://github.com/rinnakk/japanese-stable-diffusion": {
-                "sub_category": "Tool for pretrained models",
-                "repository_name": "japanese-stable-diffusion",
-                "user_name": "rinnakk",
-                "description": "Japanese Stable Diffusion is a Japanese specific latent text-to-image diffusion model capable of generating photo-realistic images given any text input.",
-                "multilingual_descriptions": {
-                    "en": "Japanese Stable Diffusion is a Japanese specific latent text-to-image diffusion model capable of generating photo-realistic images given any text input.",
-                    "ja": "日本語ステーブル拡散は、任意のテキスト入力に対して写真のようなリアルな画像を生成することができる、日本特有の潜在的なテキストから画像への拡散モデルです。",
-                    "zh-hans": "日本稳定扩散是一种日本特有的潜在文本到图像扩散模型，能够根据任何文本输入生成逼真的照片。",
-                    "zh-hant": "日本穩定擴散是一種日本特有的潛在文本到圖像擴散模型，能夠生成逼真的照片般的圖像，並接受任何文本輸入。"
-                }
-            },
             "https://github.com/taishi-i/nagisa_bert": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "nagisa_bert",
@@ -1404,18 +1392,6 @@
                     "ja": "nagisa用のBERTモデル",
                     "zh-hans": "一个用于nagisa的BERT模型",
                     "zh-hant": "一個針對nagisa的BERT模型"
-                }
-            },
-            "https://github.com/rinnakk/prefix-tuning-gpt": {
-                "sub_category": "Tool for pretrained models",
-                "repository_name": "prefix-tuning-gpt",
-                "user_name": "rinnakk",
-                "description": "Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes",
-                "multilingual_descriptions": {
-                    "en": "Example code for prefix-tuning GPT/GPT-NeoX models and for inference with trained prefixes",
-                    "ja": "トレーニング済みのプレフィックスを使用したGPT/GPT-NeoXモデルのプレフィックスチューニングの例コードと推論のためのコード。",
-                    "zh-hans": "用于前缀调整GPT/GPT-NeoX模型的示例代码以及使用训练好的前缀进行推理的代码。",
-                    "zh-hant": "前綴調整 GPT/GPT-NeoX 模型的範例代碼以及使用訓練過的前綴進行推論的代碼。"
                 }
             },
             "https://github.com/nobu-g/JGLUE-benchmark": {
@@ -4153,6 +4129,18 @@
                     "zh-hans": "在ESP32-S3上实时合成559K参数的日语TTS。在设备内进行汉字假名混合文的形态素分析和重音推测（在M5Stack CoreS3实际设备上确认）。推理使用无依赖的C99，有浏览器演示。arXiv:2608.21378 sanoTTS的日语干净室重新实现。⚠️ 代码采用MIT许可，但分发模型的权重不是MIT（LICENSE-MODEL.md。输出中的用途限制会传播）\n在ESP32-S3上实时合成559K参数的日语TTS。在设备内进行汉字假名混合文的形态素分析和重音推测（在M5Stack CoreS3实际设备上确认）。推理使用无依赖的C99，有浏览器演示。arXiv:2608.21378 sanoTTS的日语干净室重新实现。⚠️ 代码采用MIT许可，但分发模型的权重不是MIT（LICENSE-MODEL.md。输出中的用途限制会传播）",
                     "zh-hant": "使用 ESP32-S3 實時合成 559 K 日文 TTS 參數。在設備內運行漢字假名混合文的形態素分析和重音推測（在 M5Stack CoreS3 實機上進行確認）。推論是基於無依賴的 C99，有瀏覽器演示。arXiv:2608.21378 sanoTTS 的日文乾淨室重新實現。⚠️ 代碼是 MIT，但分發模型的權重不是 MIT（LICENSE-MODEL.md。輸出會傳播用途限制）"
                 }
+            },
+            "https://github.com/kzkhykw/jev-auto-ime": {
+                "sub_category": null,
+                "repository_name": "jev-auto-ime",
+                "user_name": "kzkhykw",
+                "description": "打っている言葉が日本語か英語かをJevに聞いて、Macの入力モードを切り替える道具。個人利用のみ。",
+                "multilingual_descriptions": {
+                    "en": "A tool that switches the input mode of Mac by asking Jev whether the words being typed are in Japanese or English. For personal use only.",
+                    "ja": "打っている言葉が日本語か英語かをJevに聞いて、Macの入力モードを切り替える道具。個人利用のみ。",
+                    "zh-hans": "询问Jev正在使用的语言是日语还是英语，并切换Mac的输入模式的工具。仅限个人使用。",
+                    "zh-hant": "請問Jev，您所使用的語言是日語還是英語？這是一個可以切換Mac輸入模式的工具，僅供個人使用。"
+                }
             }
         },
         "C++": {
@@ -4528,6 +4516,18 @@
                     "ja": "日本語フリガナ (ルビ) を扱う Rust 製ライブラリ + ローカル HTTP サーバー。ルールはすべてデータ駆動 (TOML)。",
                     "zh-hans": "处理日语假名（注音）的 Rust 库 + 本地 HTTP 服务器。所有规则都是数据驱动的（TOML）。",
                     "zh-hant": "處理日文假名（注音）的 Rust 製程式庫 + 本地 HTTP 伺服器。所有規則都是數據驅動（TOML）。"
+                }
+            },
+            "https://github.com/yoshitakaoyama/jpnorm": {
+                "sub_category": "Converter",
+                "repository_name": "jpnorm",
+                "user_name": "yoshitakaoyama",
+                "description": "日本語テキスト正規化ライブラリ (Rust core + Python)。neologdn 互換・用途別プリセット・URL 保護・カスタム辞書 / Fast, configurable Japanese text normalization",
+                "multilingual_descriptions": {
+                    "en": "日本語テキスト正規化ライブラリ (Rust core + Python)。neologdn 互換・用途別プリセット・URL 保護・カスタム辞書 / Fast, configurable Japanese text normalization",
+                    "ja": "日本語テキスト正規化ライブラリ (Rust core + Python)。neologdn 互換・用途別プリセット・URL 保護・カスタム辞書 / Fast, configurable Japanese text normalization",
+                    "zh-hans": "日本语文本规范化库（Rust核心+Python）。neologdn兼容·用途特定预设·URL保护·自定义词典/快速、可配置的日语文本规范化",
+                    "zh-hant": "日本語文本正規化程式庫（Rust核心+Python）。neologdn兼容、用途特定預設、URL保護、自定義詞典/快速、可配置的日文文本正規化"
                 }
             },
             "https://github.com/lindera-morphology/lindera-tantivy": {
@@ -5846,18 +5846,6 @@
                     "zh-hant": "日文文本的BERT模型。"
                 }
             },
-            "https://github.com/rinnakk/japanese-pretrained-models": {
-                "sub_category": "Transformer based models",
-                "repository_name": "japanese-pretrained-models",
-                "user_name": "rinnakk",
-                "description": "Code for producing Japanese pretrained models provided by rinna Co., Ltd.",
-                "multilingual_descriptions": {
-                    "en": "Code for producing Japanese pretrained models provided by rinna Co., Ltd.",
-                    "ja": "りんな株式会社が提供する日本語事前学習モデルのコードを入力してください。",
-                    "zh-hans": "rinna有限公司提供的生成日语预训练模型的代码。",
-                    "zh-hant": "由rinna株式會社提供的生成日語預訓練模型的代碼。"
-                }
-            },
             "https://github.com/yoheikikuta/bert-japanese": {
                 "sub_category": "Transformer based models",
                 "repository_name": "bert-japanese",
@@ -6086,18 +6074,6 @@
                     "zh-hant": "HuggingFace 的 transformers 的 GPT-2 日本模型"
                 }
             },
-            "https://github.com/astremo/friendly_JA-Model": {
-                "sub_category": "Transformer based models",
-                "repository_name": "friendly_JA-Model",
-                "user_name": "astremo",
-                "description": "MT model trained using the friendly_JA Corpus attempting to make Japanese easier/more accessible to occidental people by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon",
-                "multilingual_descriptions": {
-                    "en": "MT model trained using the friendly_JA Corpus attempting to make Japanese easier/more accessible to occidental people by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon",
-                    "ja": "フレンドリー_JAコーパスを使用してトレーニングされたMTモデルは、標準的な漢字語彙の代わりにラテン語/英語由来のカタカナ語彙を使用することで、日本語を西洋人にとってより簡単/アクセスしやすくすることを目指しています。",
-                    "zh-hans": "使用友好的日语语料库训练的MT模型，尝试使用拉丁/英语衍生的片假名词汇表，而不是标准的汉日词汇表，使日语更易于/更容易接近西方人。",
-                    "zh-hant": "使用friendly_JA語料庫訓練的MT模型，嘗試通過使用拉丁/英語衍生的片假名詞彙表，而不是標準的漢日詞彙表，使日語對西方人更加容易/易於理解。"
-                }
-            },
             "https://github.com/alinear-corp/albert-japanese": {
                 "sub_category": "Transformer based models",
                 "repository_name": "albert-japanese",
@@ -6180,18 +6156,6 @@
                     "ja": "汎用スイッチトランスをベースにした日本語モード",
                     "zh-hans": "通用开关变压器基于日语模式",
                     "zh-hant": "通用開關變壓器基於日語模式"
-                }
-            },
-            "https://github.com/rinnakk/japanese-clip": {
-                "sub_category": "Transformer based models",
-                "repository_name": "japanese-clip",
-                "user_name": "rinnakk",
-                "description": "Japanese CLIP by rinna Co., Ltd.",
-                "multilingual_descriptions": {
-                    "en": "Japanese CLIP by rinna Co., Ltd.",
-                    "ja": "株式会社りんなの日本語クリップ。",
-                    "zh-hans": "日本CLIP由rinna有限公司制造。",
-                    "zh-hant": "日本CLIP由rinna有限公司開發。"
                 }
             },
             "https://github.com/EhimeNLP/AcademicBART": {
@@ -6870,18 +6834,6 @@
                     "zh-hant": "想要創建Monster Hunter的用戶詞典..."
                 }
             },
-            "https://github.com/stephenmk/jitenbot": {
-                "sub_category": null,
-                "repository_name": "jitenbot",
-                "user_name": "stephenmk",
-                "description": "Convert data from Japanese dictionary websites and applications into portable file formats",
-                "multilingual_descriptions": {
-                    "en": "Convert data from Japanese dictionary websites and applications into portable file formats",
-                    "ja": "日本語の辞書ウェブサイトやアプリからデータをポータブルなファイル形式に変換する",
-                    "zh-hans": "将日语字典网站和应用程序中的数据转换为便携文件格式",
-                    "zh-hant": "將日本字典網站和應用程式的資料轉換為可攜式檔案格式。"
-                }
-            },
             "https://github.com/neologd/mecab-unidic-neologd": {
                 "sub_category": null,
                 "repository_name": "mecab-unidic-neologd",
@@ -7168,18 +7120,6 @@
                     "ja": "日本語のSKK入力方式ライブラリ",
                     "zh-hans": "日本SKK输入法库",
                     "zh-hant": "日本 SKK 輸入法庫"
-                }
-            },
-            "https://github.com/warihima/kanayomi-dict": {
-                "sub_category": null,
-                "repository_name": "kanayomi-dict",
-                "user_name": "warihima",
-                "description": "openjtalk形式のユーザー辞書",
-                "multilingual_descriptions": {
-                    "en": "User dictionary in openjtalk format",
-                    "ja": "openjtalk形式のユーザー辞書",
-                    "zh-hans": "openjtalk形式的用户词典",
-                    "zh-hant": "openjtalk形式的用戶詞典"
                 }
             },
             "https://github.com/cjkvi/cjkvi-dict": {
@@ -8550,18 +8490,6 @@
                     "ja": "「みんなで翻刻」は、歴史資料の市民参加型翻刻プラットフォームであり、ここはそのテキストデータの置き場所です。https://honkoku.org で作成された歴史的な日本の文書の転写テキストです。",
                     "zh-hans": "这是一个历史资料的市民参与型翻刻平台“大家一起翻刻”的文本数据存储处。在这里可以找到由日本历史文献众包翻译平台“大家一起翻刻”创建的转录文本。",
                     "zh-hant": "這是歷史資料的市民參與型翻刻平台「大家一起翻刻」的文本數據存放處。/ 這些文本是在「大家一起翻刻」（https://honkoku.org）這個為日本歷史文獻提供群眾翻刻的平台上創建的。"
-                }
-            },
-            "https://github.com/Katsumata420/wikihow_japanese": {
-                "sub_category": null,
-                "repository_name": "wikihow_japanese",
-                "user_name": "Katsumata420",
-                "description": "wikiHow dataset (Japanese version)",
-                "multilingual_descriptions": {
-                    "en": "データセット「wikiHow」（日本語版）",
-                    "ja": "wikiHowデータセット（日本語版）",
-                    "zh-hans": "维基百科数据集（日语版）",
-                    "zh-hant": "wikiHow數據集（日語版）"
                 }
             },
             "https://github.com/mercari/engineer-vocabulary-list": {
@@ -10291,6 +10219,18 @@
                     "zh-hans": "AI角色、填充、笑声、情感表达专用的日语TTS语料库（CC0）",
                     "zh-hant": "AI角色、填充、笑聲、情感表達專用的日語TTS語料庫（CC0）"
                 }
+            },
+            "https://github.com/holotherapper/adlib": {
+                "sub_category": null,
+                "repository_name": "adlib",
+                "user_name": "holotherapper",
+                "description": "ADLIB: Japanese ASR benchmark framework with language-aware evaluation",
+                "multilingual_descriptions": {
+                    "en": "ADLIB: Japanese ASR benchmark framework with language-aware evaluationb",
+                    "ja": "ADLIB：言語を認識した評価を備えた日本語ASRベンチマークフレームワーク",
+                    "zh-hans": "ADLIB：具有语言感知评估的日语ASR基准框架",
+                    "zh-hant": "ADLIB：具有语言感知评估的日本ASR基准框架"
+                }
             }
         },
         "Tutorial": {
@@ -10640,18 +10580,6 @@
                     "ja": "書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード",
                     "zh-hans": "书籍“现场应用生成AI代理实践入门”（講談社サイエンティフィック社）中使用的源代码",
                     "zh-hant": "書籍「現場中應用的生成AI代理人實踐入門」（講談社科學社）中使用的源代碼"
-                }
-            },
-            "https://github.com/tomonari-masada/course2024-nlp": {
-                "sub_category": null,
-                "repository_name": "course2024-nlp",
-                "user_name": "tomonari-masada",
-                "description": "2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論",
-                "multilingual_descriptions": {
-                    "en": "2024 Rikkyo University Graduate School Artificial Intelligence Science Research Department Special Lecture on Natural Language Processing",
-                    "ja": "2024年度 立教大学大学院 人工知能科学研究科 自然言語処理特論",
-                    "zh-hans": "2024年 立教大学研究生院 人工智能科学研究专业 自然语言处理专题",
-                    "zh-hant": "2024年度 立教大學大學院 人工智能科學研究科 自然語言處理特論"
                 }
             },
             "https://github.com/yoheikikuta/support-genai-book": {
