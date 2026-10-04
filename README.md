@@ -491,6 +491,7 @@ Libraries that utilize pretrained models to improve accuracy and efficiency
 
 ### Others
 General-purpose tools supporting Japanese language processing
+ * [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - OpenAI Whisper-compatible CLI for local multilingual transcription, including Japanese, with batched inference and live microphone input.
 
 
 <details markdown="1">
