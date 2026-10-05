@@ -4,7 +4,7 @@
   "d": "💫 Industrial-strength Natural Language Processing (NLP) in Python.",
   "d_ja": "💫 Python による産業レベルの自然言語処理（NLP）。",
   "id": "gh:explosion/spacy",
-  "lc": "2026-08",
+  "lc": "2026-09",
   "n": "spaCy",
   "ns": 10,
   "s": [
@@ -12,7 +12,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 33904,
+  "st": 33939,
   "status": "ok",
   "u": "https://github.com/explosion/spaCy"
  },
@@ -21,7 +21,7 @@
   "d": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages.",
   "d_ja": "トークン化・文分割・固有表現認識、および多数の言語の構文解析のための Stanford NLP の Python ライブラリ。",
   "id": "gh:stanfordnlp/stanza",
-  "lc": "2026-07",
+  "lc": "2026-10",
   "n": "stanza",
   "ns": 10,
   "s": [
@@ -29,7 +29,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 7878,
+  "st": 7891,
   "status": "ok",
   "u": "https://github.com/stanfordnlp/stanza"
  },
@@ -46,7 +46,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 36488,
+  "st": 36504,
   "status": "ok",
   "u": "https://github.com/hankcs/HanLP"
  },
@@ -74,13 +74,13 @@
   "id": "gh:ufal/udpipe",
   "lc": "2026-06",
   "n": "udpipe",
-  "ns": 6.83,
+  "ns": 6.84,
   "s": [
    "NLP pipelines",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 419,
+  "st": 422,
   "status": "ok",
   "u": "https://github.com/ufal/udpipe"
  },
@@ -89,7 +89,7 @@
   "d": "State of the Art Natural Language Processing.",
   "d_ja": "最先端の自然言語処理。",
   "id": "gh:johnsnowlabs/spark-nlp",
-  "lc": "2026-06",
+  "lc": "2026-09",
   "n": "spark-nlp",
   "ns": 9.43,
   "s": [
@@ -97,7 +97,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 4159,
+  "st": 4158,
   "status": "ok",
   "u": "https://github.com/JohnSnowLabs/spark-nlp"
  },
@@ -106,15 +106,15 @@
   "d": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0.",
   "d_ja": "ローカルファーストのヘルスケアAI：完全にオンデバイスで動作する臨床固有表現認識と HIPAA 準拠の個人情報匿名化。2,200以上の医療モデル、21言語、Apple MLX + Python 対応。クラウド不要で、患者データがネットワーク外に出ることはありません。Apache-2.0。",
   "id": "gh:maziyarpanahi/openmed",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "openmed",
-  "ns": 9.71,
+  "ns": 9.73,
   "s": [
    "NLP pipelines",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 5331,
+  "st": 5448,
   "status": "ok",
   "u": "https://github.com/maziyarpanahi/openmed"
  },
@@ -123,7 +123,7 @@
   "d": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
   "d_ja": "🤗 Transformers：テキスト・画像・音声・マルチモーダルの最先端機械学習モデルのためのモデル定義フレームワークで、推論と学習の両方に対応。",
   "id": "gh:huggingface/transformers",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "transformers",
   "ns": 10,
   "s": [
@@ -131,7 +131,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 166295,
+  "st": 166966,
   "status": "ok",
   "u": "https://github.com/huggingface/transformers"
  },
@@ -140,7 +140,7 @@
   "d": "NLTK Source.",
   "d_ja": "NLTK のソースコード。",
   "id": "gh:nltk/nltk",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "nltk",
   "ns": 10,
   "s": [
@@ -148,7 +148,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 14719,
+  "st": 14734,
   "status": "ok",
   "u": "https://github.com/nltk/nltk"
  },
@@ -157,7 +157,7 @@
   "d": "Unsupervised text tokenizer for Neural Network-based text generation.",
   "d_ja": "ニューラルネットワークによるテキスト生成のための教師なしテキストトークナイザー。",
   "id": "gh:google/sentencepiece",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "sentencepiece",
   "ns": 10,
   "s": [
@@ -165,7 +165,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 12084,
+  "st": 12115,
   "status": "ok",
   "u": "https://github.com/google/sentencepiece"
  },
@@ -174,15 +174,15 @@
   "d": "The home of the ICU project source code.",
   "d_ja": "ICU プロジェクトのソースコードのホーム。",
   "id": "gh:unicode-org/icu",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "icu",
-  "ns": 9.26,
+  "ns": 9.27,
   "s": [
    "Tokenization and segmentation",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3603,
+  "st": 3611,
   "status": "ok",
   "u": "https://github.com/unicode-org/icu"
  },
@@ -191,15 +191,15 @@
   "d": "Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.",
   "d_ja": "テキストを文や他の意味単位に、頑健かつ効率的で適応性の高い方法で分割するツールキット。",
   "id": "gh:segment-any-text/wtpsplit",
-  "lc": "2026-04",
+  "lc": "2026-09",
   "n": "wtpsplit",
-  "ns": 8.15,
+  "ns": 8.17,
   "s": [
    "Tokenization and segmentation",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1340,
+  "st": 1363,
   "status": "ok",
   "u": "https://github.com/segment-any-text/wtpsplit"
  },
@@ -216,7 +216,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 358,
+  "st": 360,
   "status": "ok",
   "u": "https://github.com/meilisearch/charabia"
  },
@@ -233,7 +233,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2843,
+  "st": 2845,
   "status": "ok",
   "u": "https://github.com/go-ego/gse"
  },
@@ -250,7 +250,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 26529,
+  "st": 26523,
   "status": "ok",
   "u": "https://github.com/facebookresearch/fastText"
  },
@@ -267,7 +267,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1795,
+  "st": 1806,
   "status": "ok",
   "u": "https://github.com/pemistahl/lingua-py"
  },
@@ -284,7 +284,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 823,
+  "st": 825,
   "status": "ok",
   "u": "https://github.com/pemistahl/lingua"
  },
@@ -295,13 +295,13 @@
   "id": "gh:pemistahl/lingua-rs",
   "lc": "2026-09",
   "n": "lingua-rs",
-  "ns": 7.96,
+  "ns": 7.97,
   "s": [
    "Language identification",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1137,
+  "st": 1144,
   "status": "ok",
   "u": "https://github.com/pemistahl/lingua-rs"
  },
@@ -312,13 +312,13 @@
   "id": "gh:pemistahl/lingua-go",
   "lc": "2024-12",
   "n": "lingua-go",
-  "ns": 8.16,
+  "ns": 8.17,
   "s": [
    "Language identification",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1361,
+  "st": 1364,
   "status": "ok",
   "u": "https://github.com/pemistahl/lingua-go"
  },
@@ -335,7 +335,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1903,
+  "st": 1904,
   "status": "ok",
   "u": "https://github.com/Mimino666/langdetect"
  },
@@ -346,13 +346,13 @@
   "id": "gh:cisnlp/glotlid",
   "lc": "2026-04",
   "n": "GlotLID",
-  "ns": 6.09,
+  "ns": 6.11,
   "s": [
    "Language identification",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 217,
+  "st": 220,
   "status": "ok",
   "u": "https://github.com/cisnlp/GlotLID"
  },
@@ -369,7 +369,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1087,
+  "st": 1089,
   "status": "ok",
   "u": "https://github.com/greyblake/whatlang-rs"
  },
@@ -386,7 +386,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 4413,
+  "st": 4416,
   "status": "ok",
   "u": "https://github.com/wooorm/franc"
  },
@@ -397,13 +397,13 @@
   "id": "gh:quickwit-oss/whichlang",
   "lc": "2026-03",
   "n": "whichlang",
-  "ns": 6.93,
+  "ns": 6.94,
   "s": [
    "Language identification",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 458,
+  "st": 461,
   "status": "ok",
   "u": "https://github.com/quickwit-oss/whichlang"
  },
@@ -420,7 +420,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 11858,
+  "st": 11884,
   "status": "ok",
   "u": "https://github.com/facebookresearch/seamless_communication"
  },
@@ -431,13 +431,13 @@
   "id": "gh:argosopentech/argos-translate",
   "lc": "2026-08",
   "n": "argos-translate",
-  "ns": 9.93,
+  "ns": 9.94,
   "s": [
    "Machine translation",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 6478,
+  "st": 6531,
   "status": "ok",
   "u": "https://github.com/argosopentech/argos-translate"
  },
@@ -454,7 +454,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 16687,
+  "st": 16991,
   "status": "ok",
   "u": "https://github.com/LibreTranslate/LibreTranslate"
  },
@@ -471,7 +471,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 861,
+  "st": 866,
   "status": "ok",
   "u": "https://github.com/Helsinki-NLP/Opus-MT"
  },
@@ -488,7 +488,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 171,
+  "st": 170,
   "status": "ok",
   "u": "https://github.com/ByteDance-Seed/Seed-X-7B"
  },
@@ -499,13 +499,13 @@
   "id": "gh:tencent-hunyuan/hy-mt2",
   "lc": "2026-08",
   "n": "Hy-MT2",
-  "ns": 7.26,
+  "ns": 7.38,
   "s": [
    "Machine translation",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 613,
+  "st": 679,
   "status": "ok",
   "u": "https://github.com/Tencent-Hunyuan/Hy-MT2"
  },
@@ -522,7 +522,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 823,
+  "st": 829,
   "status": "ok",
   "u": "https://github.com/Tencent-Hunyuan/Hy-MT"
  },
@@ -533,13 +533,13 @@
   "id": "gh:xiaomi-research/gemmax",
   "lc": "2026-08",
   "n": "gemmax",
-  "ns": 5.12,
+  "ns": 5.14,
   "s": [
    "Machine translation",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 91,
+  "st": 93,
   "status": "ok",
   "u": "https://github.com/xiaomi-research/gemmax"
  },
@@ -550,13 +550,13 @@
   "id": "gh:fe1ixxu/alma",
   "lc": "2025-04",
   "n": "ALMA",
-  "ns": 7.23,
+  "ns": 7.22,
   "s": [
    "Machine translation",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 593,
+  "st": 592,
   "status": "ok",
   "u": "https://github.com/fe1ixxu/ALMA"
  },
@@ -573,7 +573,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 109272,
+  "st": 109990,
   "status": "ok",
   "u": "https://github.com/openai/whisper"
  },
@@ -582,7 +582,7 @@
   "d": "Port of OpenAI's Whisper model in C/C++.",
   "d_ja": "OpenAI の Whisper モデルの C/C++ 移植版。",
   "id": "gh:ggml-org/whisper.cpp",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "whisper.cpp",
   "ns": 10,
   "s": [
@@ -590,7 +590,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 53725,
+  "st": 54147,
   "status": "ok",
   "u": "https://github.com/ggml-org/whisper.cpp"
  },
@@ -599,7 +599,7 @@
   "d": "Faster Whisper transcription with CTranslate2.",
   "d_ja": "CTranslate2 による高速な Whisper 文字起こし。",
   "id": "gh:systran/faster-whisper",
-  "lc": "2025-11",
+  "lc": "2026-10",
   "n": "faster-whisper",
   "ns": 10,
   "s": [
@@ -607,33 +607,16 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 25438,
+  "st": 25712,
   "status": "ok",
   "u": "https://github.com/SYSTRAN/faster-whisper"
- },
- {
-  "c": "Multilingual (Speech recognition)",
-  "d": "OpenAI Whisper-compatible CLI for local multilingual transcription, including Japanese, with batched inference and live microphone input.",
-  "d_ja": "OpenAI Whisper 互換の CLI で、日本語を含む多言語音声をローカルで文字起こし。バッチ推論やマイクからのライブ入力に対応。",
-  "id": "gh:softcatala/whisper-ctranslate2",
-  "lc": "2026-10",
-  "n": "whisper-ctranslate2",
-  "ns": 10,
-  "s": [
-   "Speech recognition",
-   "Multilingual"
-  ],
-  "sc": 0.0,
-  "st": 1357,
-  "status": "ok",
-  "u": "https://github.com/Softcatala/whisper-ctranslate2"
  },
  {
   "c": "Multilingual (Speech recognition)",
   "d": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
   "d_ja": "WhisperX：単語レベルのタイムスタンプ（＆話者分離）を備えた自動音声認識。",
   "id": "gh:m-bain/whisperx",
-  "lc": "2026-07",
+  "lc": "2026-09",
   "n": "whisperX",
   "ns": 10,
   "s": [
@@ -641,7 +624,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 24079,
+  "st": 24370,
   "status": "ok",
   "u": "https://github.com/m-bain/whisperX"
  },
@@ -650,7 +633,7 @@
   "d": "On-device Speech AI for Apple Silicon.",
   "d_ja": "Apple Silicon 向けのオンデバイス音声AI。",
   "id": "gh:argmaxinc/argmax-oss-swift",
-  "lc": "2026-08",
+  "lc": "2026-09",
   "n": "argmax-oss-swift",
   "ns": 9.91,
   "s": [
@@ -658,7 +641,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 6368,
+  "st": 6389,
   "status": "ok",
   "u": "https://github.com/argmaxinc/argmax-oss-swift"
  },
@@ -669,13 +652,13 @@
   "id": "gh:qwenlm/qwen3-asr",
   "lc": "2026-06",
   "n": "Qwen3-ASR",
-  "ns": 9.25,
+  "ns": 9.28,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3558,
+  "st": 3643,
   "status": "ok",
   "u": "https://github.com/QwenLM/Qwen3-ASR"
  },
@@ -692,7 +675,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 9321,
+  "st": 9442,
   "status": "ok",
   "u": "https://github.com/QwenAudio/SenseVoice"
  },
@@ -701,7 +684,7 @@
   "d": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
   "d_ja": "学習・推論・ストリーミング音声認識・VAD・句読点付与・話者分離パイプライン、および OpenAI 互換/MCP 提供に対応したオープンソース音声認識ツールキット。",
   "id": "gh:modelscope/funasr",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "FunASR",
   "ns": 10,
   "s": [
@@ -709,7 +692,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 20387,
+  "st": 20585,
   "status": "ok",
   "u": "https://github.com/modelscope/FunASR"
  },
@@ -726,7 +709,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2926,
+  "st": 2935,
   "status": "ok",
   "u": "https://github.com/facebookresearch/omnilingual-asr"
  },
@@ -743,7 +726,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 11100,
+  "st": 11179,
   "status": "ok",
   "u": "https://github.com/moonshine-ai/moonshine"
  },
@@ -760,7 +743,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 789,
+  "st": 793,
   "status": "ok",
   "u": "https://github.com/DataoceanAI/Dolphin"
  },
@@ -769,7 +752,7 @@
   "d": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
   "d_ja": "大規模言語モデル・マルチモーダル・音声AI（自動音声認識とテキスト読み上げ）に取り組む研究者・開発者向けに構築された、スケーラブルな生成AIフレームワーク。",
   "id": "gh:nvidia-nemo/speech",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "NeMo Speech",
   "ns": 10,
   "s": [
@@ -777,7 +760,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 18467,
+  "st": 18544,
   "status": "ok",
   "u": "https://github.com/NVIDIA-NeMo/Speech"
  },
@@ -786,7 +769,7 @@
   "d": "End-to-End Speech Processing Toolkit.",
   "d_ja": "エンドツーエンド音声処理ツールキット。",
   "id": "gh:espnet/espnet",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "espnet",
   "ns": 10,
   "s": [
@@ -794,7 +777,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 9964,
+  "st": 9977,
   "status": "ok",
   "u": "https://github.com/espnet/espnet"
  },
@@ -811,7 +794,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 14824,
+  "st": 15116,
   "status": "ok",
   "u": "https://github.com/k2-fsa/sherpa-onnx"
  },
@@ -822,13 +805,13 @@
   "id": "gh:k2-fsa/icefall",
   "lc": "2026-07",
   "n": "icefall",
-  "ns": 8.27,
+  "ns": 8.28,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1500,
+  "st": 1512,
   "status": "ok",
   "u": "https://github.com/k2-fsa/icefall"
  },
@@ -845,7 +828,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 15134,
+  "st": 15161,
   "status": "ok",
   "u": "https://github.com/alphacep/vosk-api"
  },
@@ -856,13 +839,13 @@
   "id": "gh:montrealcorpustools/montreal-forced-aligner",
   "lc": "2026-08",
   "n": "Montreal-Forced-Aligner",
-  "ns": 8.53,
+  "ns": 8.54,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1887,
+  "st": 1898,
   "status": "ok",
   "u": "https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner"
  },
@@ -873,13 +856,13 @@
   "id": "gh:qwenaudio/fun-asr",
   "lc": "2026-09",
   "n": "Fun-ASR",
-  "ns": 8.3,
+  "ns": 8.32,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1541,
+  "st": 1558,
   "status": "ok",
   "u": "https://github.com/QwenAudio/Fun-ASR"
  },
@@ -888,15 +871,15 @@
   "d": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
   "d_ja": "アプリに組み込める最先端の CoreML 音声モデル ── 音声合成、音声認識、発話区間検出、話者分離。Swift 製で、最先端のオープンソースを活用。",
   "id": "gh:fluidinference/fluidaudio",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "FluidAudio",
-  "ns": 8.97,
+  "ns": 9.04,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2772,
+  "st": 2957,
   "status": "ok",
   "u": "https://github.com/FluidInference/FluidAudio"
  },
@@ -905,15 +888,15 @@
   "d": "C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more.",
   "d_ja": "多言語の音声認識・音声合成モデル向けの C++（ggml）ランタイムハブ：Cohere Transcribe、Parakeet TDT、Voxtral、Canary 1B v2 など、さらに汎用の強制アラインメントなども提供。",
   "id": "gh:crispstrobe/crispasr",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "CrispASR",
-  "ns": 7.31,
+  "ns": 7.46,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 640,
+  "st": 732,
   "status": "ok",
   "u": "https://github.com/CrispStrobe/CrispASR"
  },
@@ -922,15 +905,15 @@
   "d": "ggml speech-to-text inference for 16+ model families.",
   "d_ja": "16以上のモデルファミリーに対応した ggml による音声認識推論。",
   "id": "gh:handy-computer/transcribe.cpp",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "transcribe.cpp",
-  "ns": 8.56,
+  "ns": 8.59,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1932,
+  "st": 1984,
   "status": "ok",
   "u": "https://github.com/handy-computer/transcribe.cpp"
  },
@@ -947,7 +930,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 15487,
+  "st": 15493,
   "status": "ok",
   "u": "https://github.com/kaldi-asr/kaldi"
  },
@@ -958,13 +941,13 @@
   "id": "gh:julius-speech/julius",
   "lc": "2025-06",
   "n": "julius",
-  "ns": 8.56,
+  "ns": 8.57,
   "s": [
    "Speech recognition",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1939,
+  "st": 1941,
   "status": "ok",
   "u": "https://github.com/julius-speech/julius"
  },
@@ -981,7 +964,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 13425,
+  "st": 13643,
   "status": "ok",
   "u": "https://github.com/QwenLM/Qwen3-TTS"
  },
@@ -998,7 +981,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 23658,
+  "st": 23840,
   "status": "ok",
   "u": "https://github.com/QwenAudio/CosyVoice"
  },
@@ -1015,7 +998,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 32723,
+  "st": 32944,
   "status": "ok",
   "u": "https://github.com/fishaudio/fish-speech"
  },
@@ -1032,7 +1015,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 26455,
+  "st": 26726,
   "status": "ok",
   "u": "https://github.com/resemble-ai/chatterbox"
  },
@@ -1041,7 +1024,7 @@
   "d": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production.",
   "d_ja": "🐸💬 ── 研究・実運用の両方で実績のある、音声合成のためのディープラーニングツールキット。",
   "id": "gh:idiap/coqui-ai-tts",
-  "lc": "2026-06",
+  "lc": "2026-10",
   "n": "coqui-ai-TTS",
   "ns": 8.77,
   "s": [
@@ -1049,7 +1032,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2322,
+  "st": 2336,
   "status": "ok",
   "u": "https://github.com/idiap/coqui-ai-TTS"
  },
@@ -1066,7 +1049,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 7640,
+  "st": 7651,
   "status": "ok",
   "u": "https://github.com/myshell-ai/MeloTTS"
  },
@@ -1083,7 +1066,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 37550,
+  "st": 37768,
   "status": "ok",
   "u": "https://github.com/myshell-ai/OpenVoice"
  },
@@ -1100,7 +1083,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 8877,
+  "st": 9168,
   "status": "ok",
   "u": "https://github.com/hexgrad/kokoro"
  },
@@ -1117,7 +1100,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 39270,
+  "st": 39265,
   "status": "ok",
   "u": "https://github.com/suno-ai/bark"
  },
@@ -1134,7 +1117,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 7239,
+  "st": 7235,
   "status": "ok",
   "u": "https://github.com/Zyphra/Zonos"
  },
@@ -1151,7 +1134,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 61861,
+  "st": 62369,
   "status": "ok",
   "u": "https://github.com/RVC-Boss/GPT-SoVITS"
  },
@@ -1168,7 +1151,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 10301,
+  "st": 10304,
   "status": "ok",
   "u": "https://github.com/open-mmlab/Amphion"
  },
@@ -1177,7 +1160,7 @@
   "d": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System.",
   "d_ja": "産業レベルで制御可能かつ効率的なゼロショット音声合成システム。",
   "id": "gh:index-tts/index-tts",
-  "lc": "2026-08",
+  "lc": "2026-09",
   "n": "index-tts",
   "ns": 10,
   "s": [
@@ -1185,7 +1168,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 24036,
+  "st": 24304,
   "status": "ok",
   "u": "https://github.com/index-tts/index-tts"
  },
@@ -1202,7 +1185,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 37728,
+  "st": 38325,
   "status": "ok",
   "u": "https://github.com/OpenBMB/VoxCPM"
  },
@@ -1219,7 +1202,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 977,
+  "st": 980,
   "status": "ok",
   "u": "https://github.com/stepfun-ai/Step-Audio-EditX"
  },
@@ -1236,7 +1219,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1432,
+  "st": 1431,
   "status": "ok",
   "u": "https://github.com/FireRedTeam/FireRedTTS2"
  },
@@ -1253,7 +1236,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1440,
+  "st": 1438,
   "status": "ok",
   "u": "https://github.com/edwko/OuteTTS"
  },
@@ -1264,13 +1247,13 @@
   "id": "gh:openmoss/moss-tts",
   "lc": "2026-09",
   "n": "MOSS-TTS",
-  "ns": 9.41,
+  "ns": 9.43,
   "s": [
    "Speech synthesis",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 4112,
+  "st": 4161,
   "status": "ok",
   "u": "https://github.com/OpenMOSS/MOSS-TTS"
  },
@@ -1281,13 +1264,13 @@
   "id": "gh:openmoss/moss-tts-nano",
   "lc": "2026-09",
   "n": "MOSS-TTS-Nano",
-  "ns": 9.48,
+  "ns": 9.5,
   "s": [
    "Speech synthesis",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 4374,
+  "st": 4444,
   "status": "ok",
   "u": "https://github.com/OpenMOSS/MOSS-TTS-Nano"
  },
@@ -1296,7 +1279,7 @@
   "d": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
   "d_ja": "Apple の MLX フレームワーク上に構築された音声合成（TTS）・音声認識（STT）・音声変換（STS）ライブラリで、Apple Silicon 上で効率的な音声解析を実現。",
   "id": "gh:blaizzy/mlx-audio",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "mlx-audio",
   "ns": 10,
   "s": [
@@ -1304,7 +1287,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 7906,
+  "st": 7993,
   "status": "ok",
   "u": "https://github.com/Blaizzy/mlx-audio"
  },
@@ -1315,13 +1298,13 @@
   "id": "gh:high-logic/genie-tts",
   "lc": "2026-08",
   "n": "Genie-TTS",
-  "ns": 8.46,
+  "ns": 8.47,
   "s": [
    "Speech synthesis",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1776,
+  "st": 1790,
   "status": "ok",
   "u": "https://github.com/High-Logic/Genie-TTS"
  },
@@ -1332,13 +1315,13 @@
   "id": "gh:openmoss/moss-ttsd",
   "lc": "2026-09",
   "n": "MOSS-TTSD",
-  "ns": 8.19,
+  "ns": 8.2,
   "s": [
    "Speech synthesis",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1398,
+  "st": 1401,
   "status": "ok",
   "u": "https://github.com/OpenMOSS/MOSS-TTSD"
  },
@@ -1349,13 +1332,13 @@
   "id": "gh:netease-youdao/confucius4-tts",
   "lc": "2026-09",
   "n": "Confucius4-TTS",
-  "ns": 7.56,
+  "ns": 7.6,
   "s": [
    "Speech synthesis",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 796,
+  "st": 826,
   "status": "ok",
   "u": "https://github.com/netease-youdao/Confucius4-TTS"
  },
@@ -1389,7 +1372,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 13430,
+  "st": 14233,
   "status": "ok",
   "u": "https://github.com/k2-fsa/OmniVoice"
  },
@@ -1415,15 +1398,15 @@
   "d": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
   "d_ja": "ggml を基盤とした、音声モデル向けオールインワンの純粋な C++ 推論エンジン。音声合成・音声認識・VAD・声質変換・音楽生成などに対応し、高度に最適化された性能を持つ。Python 依存なし。",
   "id": "gh:0xshug0/audio.cpp",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "audio.cpp",
-  "ns": 8.98,
+  "ns": 9.16,
   "s": [
    "Speech synthesis",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2808,
+  "st": 3282,
   "status": "ok",
   "u": "https://github.com/0xShug0/audio.cpp"
  },
@@ -1440,7 +1423,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 89712,
+  "st": 90630,
   "status": "ok",
   "u": "https://github.com/PaddlePaddle/PaddleOCR"
  },
@@ -1457,7 +1440,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 76530,
+  "st": 76825,
   "status": "ok",
   "u": "https://github.com/tesseract-ocr/tesseract"
  },
@@ -1474,7 +1457,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 29999,
+  "st": 30044,
   "status": "ok",
   "u": "https://github.com/JaidedAI/EasyOCR"
  },
@@ -1491,7 +1474,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 21395,
+  "st": 21449,
   "status": "ok",
   "u": "https://github.com/datalab-to/surya"
  },
@@ -1508,7 +1491,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 12274,
+  "st": 12420,
   "status": "ok",
   "u": "https://github.com/datalab-to/chandra"
  },
@@ -1525,7 +1508,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 80104,
+  "st": 81109,
   "status": "ok",
   "u": "https://github.com/opendatalab/MinerU"
  },
@@ -1534,7 +1517,7 @@
   "d": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
   "d_ja": "📄 ONNX Runtime・OpenVINO・MNN・PaddlePaddle・TensorRT・PyTorch をベースにした、複数のプログラミング言語に対応する優れたOCRツールキット。",
   "id": "gh:rapidai/rapidocr",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "RapidOCR",
   "ns": 10,
   "s": [
@@ -1542,7 +1525,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 7857,
+  "st": 8040,
   "status": "ok",
   "u": "https://github.com/RapidAI/RapidOCR"
  },
@@ -1559,7 +1542,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3244,
+  "st": 3266,
   "status": "ok",
   "u": "https://github.com/breezedeus/Pix2Text"
  },
@@ -1568,7 +1551,7 @@
   "d": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
   "d_ja": "AI対応データのためのPDFパーサー。PDFアクセシビリティを自動化。オープンソース。",
   "id": "gh:opendataloader-project/opendataloader-pdf",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "opendataloader-pdf",
   "ns": 10,
   "s": [
@@ -1576,7 +1559,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 29305,
+  "st": 29479,
   "status": "ok",
   "u": "https://github.com/opendataloader-project/opendataloader-pdf"
  },
@@ -1587,13 +1570,13 @@
   "id": "gh:aiptimizer/turboocr",
   "lc": "2026-09",
   "n": "TurboOCR",
-  "ns": 7.9,
+  "ns": 7.93,
   "s": [
    "OCR and document AI",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1077,
+  "st": 1104,
   "status": "ok",
   "u": "https://github.com/aiptimizer/TurboOCR"
  },
@@ -1610,7 +1593,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 38711,
+  "st": 38752,
   "status": "ok",
   "u": "https://github.com/naptha/tesseract.js"
  },
@@ -1627,7 +1610,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 7025,
+  "st": 7036,
   "status": "ok",
   "u": "https://github.com/pdfminer/pdfminer.six"
  },
@@ -1636,7 +1619,7 @@
   "d": "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.",
   "d_ja": "PyMuPDF は、PDF（およびその他の）文書のデータ抽出・解析・変換・操作を行う高性能な Python ライブラリ。",
   "id": "gh:pymupdf/pymupdf",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "PyMuPDF",
   "ns": 10,
   "s": [
@@ -1644,7 +1627,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 10729,
+  "st": 10828,
   "status": "ok",
   "u": "https://github.com/pymupdf/PyMuPDF"
  },
@@ -1661,7 +1644,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 972,
+  "st": 973,
   "status": "ok",
   "u": "https://github.com/wikipedia2vec/wikipedia2vec"
  },
@@ -1678,7 +1661,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2163,
+  "st": 2168,
   "status": "ok",
   "u": "https://github.com/castorini/pyserini"
  },
@@ -1695,7 +1678,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 19097,
+  "st": 19150,
   "status": "ok",
   "u": "https://github.com/huggingface/sentence-transformers"
  },
@@ -1704,15 +1687,15 @@
   "d": "Apache Lucene open-source search software.",
   "d_ja": "Apache Lucene のオープンソース検索ソフトウェア。",
   "id": "gh:apache/lucene",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "lucene",
-  "ns": 9.25,
+  "ns": 9.26,
   "s": [
    "Full-text search",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3561,
+  "st": 3572,
   "status": "ok",
   "u": "https://github.com/apache/lucene"
  },
@@ -1721,7 +1704,7 @@
   "d": "Free and Open Source, Distributed, RESTful Search Engine.",
   "d_ja": "無料でオープンソースの、分散型 RESTful 検索エンジン。",
   "id": "gh:elastic/elasticsearch",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "elasticsearch",
   "ns": 10,
   "s": [
@@ -1729,7 +1712,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 77923,
+  "st": 78194,
   "status": "ok",
   "u": "https://github.com/elastic/elasticsearch"
  },
@@ -1738,7 +1721,7 @@
   "d": "🔎 Open source distributed and RESTful search engine.",
   "d_ja": "🔎 オープンソースの分散型 RESTful 検索エンジン。",
   "id": "gh:opensearch-project/opensearch",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "OpenSearch",
   "ns": 10,
   "s": [
@@ -1746,7 +1729,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 13725,
+  "st": 13811,
   "status": "ok",
   "u": "https://github.com/opensearch-project/OpenSearch"
  },
@@ -1755,7 +1738,7 @@
   "d": "Apache Solr open-source search software.",
   "d_ja": "Apache Solr のオープンソース検索ソフトウェア。",
   "id": "gh:apache/solr",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "solr",
   "ns": 8.4,
   "s": [
@@ -1763,7 +1746,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1674,
+  "st": 1681,
   "status": "ok",
   "u": "https://github.com/apache/solr"
  },
@@ -1772,7 +1755,7 @@
   "d": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
   "d_ja": "サイトやアプリケーションにAI駆動のハイブリッド検索をもたらす、超高速な検索エンジンAPI。",
   "id": "gh:meilisearch/meilisearch",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "meilisearch",
   "ns": 10,
   "s": [
@@ -1780,7 +1763,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 59314,
+  "st": 59488,
   "status": "ok",
   "u": "https://github.com/meilisearch/meilisearch"
  },
@@ -1789,7 +1772,7 @@
   "d": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences.",
   "d_ja": "Algolia + Pinecone のオープンソース代替であり、ElasticSearch よりも使いやすい代替でもある ⚡ 🔍 ✨ 快適な検索体験を構築するための、高速でタイポに強いインメモリのあいまい検索エンジン。",
   "id": "gh:typesense/typesense",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "typesense",
   "ns": 10,
   "s": [
@@ -1797,7 +1780,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 26565,
+  "st": 26630,
   "status": "ok",
   "u": "https://github.com/typesense/typesense"
  },
@@ -1806,7 +1789,7 @@
   "d": "An embeddable fulltext search engine. Groonga is the successor project to Senna.",
   "d_ja": "組み込み可能な全文検索エンジン。Groonga は Senna の後継プロジェクト。",
   "id": "gh:groonga/groonga",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "groonga",
   "ns": 7.64,
   "s": [
@@ -1814,7 +1797,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 858,
+  "st": 859,
   "status": "ok",
   "u": "https://github.com/groonga/groonga"
  },
@@ -1831,7 +1814,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 749,
+  "st": 752,
   "status": "ok",
   "u": "https://github.com/pgroonga/pgroonga"
  },
@@ -1840,7 +1823,7 @@
   "d": "A MySQL pluggable storage engine based on Groonga.",
   "d_ja": "Groonga をベースにした MySQL 用のプラガブルストレージエンジン。",
   "id": "gh:mroonga/mroonga",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "mroonga",
   "ns": 5.95,
   "s": [
@@ -1848,7 +1831,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 191,
+  "st": 192,
   "status": "ok",
   "u": "https://github.com/mroonga/mroonga"
  },
@@ -1859,13 +1842,13 @@
   "id": "gh:pgbigm/pg_bigm",
   "lc": "2026-08",
   "n": "pg_bigm",
-  "ns": 5.72,
+  "ns": 5.73,
   "s": [
    "Full-text search",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 156,
+  "st": 157,
   "status": "ok",
   "u": "https://github.com/pgbigm/pg_bigm"
  },
@@ -1874,7 +1857,7 @@
   "d": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
   "d_ja": "アプリケーションデータ・全文検索・ベクトル検索・集計を1つの Postgres で。pg_search 拡張機能のホーム。",
   "id": "gh:paradedb/paradedb",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "paradedb",
   "ns": 10,
   "s": [
@@ -1882,7 +1865,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 9276,
+  "st": 9350,
   "status": "ok",
   "u": "https://github.com/paradedb/paradedb"
  },
@@ -1891,7 +1874,7 @@
   "d": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database.",
   "d_ja": "Weaviate は、オブジェクトとベクトルの両方を保存するオープンソースのベクトルデータベース。クラウドネイティブなデータベースが持つ耐障害性とスケーラビリティを備えつつ、ベクトル検索と構造化フィルタリングを組み合わせられる。",
   "id": "gh:weaviate/weaviate",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "weaviate",
   "ns": 10,
   "s": [
@@ -1899,7 +1882,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 16816,
+  "st": 16864,
   "status": "ok",
   "u": "https://github.com/weaviate/weaviate"
  },
@@ -1908,7 +1891,7 @@
   "d": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search.",
   "d_ja": "Milvus は、スケーラブルなベクトル近似最近傍探索（ANN検索）のために構築された、高性能でクラウドネイティブなベクトルデータベース。",
   "id": "gh:milvus-io/milvus",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "milvus",
   "ns": 10,
   "s": [
@@ -1916,7 +1899,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 46141,
+  "st": 46317,
   "status": "ok",
   "u": "https://github.com/milvus-io/milvus"
  },
@@ -1925,7 +1908,7 @@
   "d": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/.",
   "d_ja": "Qdrant ── 次世代AIのための高性能・大規模ベクトルデータベース兼ベクトル検索エンジン。クラウド版（https://cloud.qdrant.io/）も利用可能。",
   "id": "gh:qdrant/qdrant",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "qdrant",
   "ns": 10,
   "s": [
@@ -1933,7 +1916,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 34631,
+  "st": 34935,
   "status": "ok",
   "u": "https://github.com/qdrant/qdrant"
  },
@@ -1950,7 +1933,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 13793,
+  "st": 13805,
   "status": "ok",
   "u": "https://github.com/nextapps-de/flexsearch"
  },
@@ -1959,7 +1942,7 @@
   "d": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
   "d_ja": "🦔 高速・軽量でスキーマレスな検索バックエンド。数MBのRAMで動作する、Elasticsearchの代替。",
   "id": "gh:valeriansaliou/sonic",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "sonic",
   "ns": 10,
   "s": [
@@ -1967,7 +1950,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 21340,
+  "st": 21357,
   "status": "ok",
   "u": "https://github.com/valeriansaliou/sonic"
  },
@@ -1984,7 +1967,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 10555,
+  "st": 10570,
   "status": "ok",
   "u": "https://github.com/oramasearch/orama"
  },
@@ -1993,7 +1976,7 @@
   "d": "Static low-bandwidth search at scale.",
   "d_ja": "大規模な静的サイト向けの低帯域幅検索。",
   "id": "gh:pagefind/pagefind",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "pagefind",
   "ns": 9.74,
   "s": [
@@ -2001,7 +1984,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 5471,
+  "st": 5497,
   "status": "ok",
   "u": "https://github.com/Pagefind/pagefind"
  },
@@ -2010,7 +1993,7 @@
   "d": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
   "d_ja": "マルチモーダルAI向けの、開発者に優しいオープンソースの組み込み型検索ライブラリ。「もっと検索を、もっと少ない管理を」。",
   "id": "gh:lancedb/lancedb",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "lancedb",
   "ns": 10,
   "s": [
@@ -2018,7 +2001,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 11449,
+  "st": 11601,
   "status": "ok",
   "u": "https://github.com/lancedb/lancedb"
  },
@@ -2027,7 +2010,7 @@
   "d": "A modern text/numeric/geo-spatial/vector indexing library for go.",
   "d_ja": "Go 向けの、テキスト・数値・地理空間・ベクトルに対応したモダンな索引ライブラリ。",
   "id": "gh:blevesearch/bleve",
-  "lc": "2026-08",
+  "lc": "2026-09",
   "n": "bleve",
   "ns": 10,
   "s": [
@@ -2035,7 +2018,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 11216,
+  "st": 11226,
   "status": "ok",
   "u": "https://github.com/blevesearch/bleve"
  },
@@ -2061,15 +2044,15 @@
   "d": "NeMo text processing for ASR and TTS.",
   "d_ja": "音声認識・音声合成のための NeMo テキスト処理。",
   "id": "gh:nvidia/nemo-text-processing",
-  "lc": "2026-07",
+  "lc": "2026-09",
   "n": "NeMo-text-processing",
-  "ns": 7.04,
+  "ns": 7.05,
   "s": [
    "Text normalization and phonetics",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 505,
+  "st": 510,
   "status": "ok",
   "u": "https://github.com/NVIDIA/NeMo-text-processing"
  },
@@ -2086,7 +2069,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 825,
+  "st": 826,
   "status": "ok",
   "u": "https://github.com/wenet-e2e/WeTextProcessing"
  },
@@ -2097,13 +2080,13 @@
   "id": "gh:hexgrad/misaki",
   "lc": "2025-08",
   "n": "misaki",
-  "ns": 7.05,
+  "ns": 7.06,
   "s": [
    "Text normalization and phonetics",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 507,
+  "st": 511,
   "status": "ok",
   "u": "https://github.com/hexgrad/misaki"
  },
@@ -2114,13 +2097,13 @@
   "id": "gh:espeak-ng/espeak-ng",
   "lc": "2026-09",
   "n": "espeak-ng",
-  "ns": 9.99,
+  "ns": 10,
   "s": [
    "Text normalization and phonetics",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 6849,
+  "st": 6916,
   "status": "ok",
   "u": "https://github.com/espeak-ng/espeak-ng"
  },
@@ -2137,7 +2120,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 838,
+  "st": 841,
   "status": "ok",
   "u": "https://github.com/dmort27/epitran"
  },
@@ -2171,7 +2154,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 967,
+  "st": 970,
   "status": "ok",
   "u": "https://github.com/savoirfairelinux/num2words"
  },
@@ -2180,7 +2163,7 @@
   "d": "python parser for human readable dates.",
   "d_ja": "人が読める形式の日付を解析する Python パーサー。",
   "id": "gh:scrapinghub/dateparser",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "dateparser",
   "ns": 9.0,
   "s": [
@@ -2188,7 +2171,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2859,
+  "st": 2862,
   "status": "ok",
   "u": "https://github.com/scrapinghub/dateparser"
  },
@@ -2199,13 +2182,13 @@
   "id": "gh:open-dict-data/ipa-dict",
   "lc": "2025-05",
   "n": "ipa-dict",
-  "ns": 7.56,
+  "ns": 7.57,
   "s": [
    "Text normalization and phonetics",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 799,
+  "st": 808,
   "status": "ok",
   "u": "https://github.com/open-dict-data/ipa-dict"
  },
@@ -2222,7 +2205,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1794,
+  "st": 1797,
   "status": "ok",
   "u": "https://github.com/microsoft/Recognizers-Text"
  },
@@ -2231,7 +2214,7 @@
   "d": "A natural language date parser in Javascript.",
   "d_ja": "JavaScript による自然言語の日付パーサー。",
   "id": "gh:wanasit/chrono",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "chrono",
   "ns": 9.7,
   "s": [
@@ -2239,7 +2222,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 5279,
+  "st": 5290,
   "status": "ok",
   "u": "https://github.com/wanasit/chrono"
  },
@@ -2256,7 +2239,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 14007,
+  "st": 14130,
   "status": "ok",
   "u": "https://github.com/EleutherAI/lm-evaluation-harness"
  },
@@ -2265,7 +2248,7 @@
   "d": "MTEB: State-of-the-art evaluation of embeddings across languages and modalities.",
   "d_ja": "MTEB：言語とモダリティを横断した、埋め込みの最先端評価。",
   "id": "gh:embeddings-benchmark/mteb",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "mteb",
   "ns": 9.21,
   "s": [
@@ -2273,7 +2256,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3426,
+  "st": 3446,
   "status": "ok",
   "u": "https://github.com/embeddings-benchmark/mteb"
  },
@@ -2290,7 +2273,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1258,
+  "st": 1259,
   "status": "ok",
   "u": "https://github.com/mjpost/sacrebleu"
  },
@@ -2307,7 +2290,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 651,
+  "st": 650,
   "status": "ok",
   "u": "https://github.com/google-research/xtreme"
  },
@@ -2324,7 +2307,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 338,
+  "st": 339,
   "status": "ok",
   "u": "https://github.com/facebookresearch/belebele"
  },
@@ -2335,13 +2318,13 @@
   "id": "gh:project-miracl/miracl",
   "lc": "2024-07",
   "n": "miracl",
-  "ns": 6.07,
+  "ns": 6.08,
   "s": [
    "Evaluation and datasets",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 213,
+  "st": 214,
   "status": "ok",
   "u": "https://github.com/project-miracl/miracl"
  },
@@ -2386,13 +2369,13 @@
   "id": "gh:apple-aiml-research/ml-mkqa",
   "lc": "2026-09",
   "n": "ml-mkqa",
-  "ns": 5.98,
+  "ns": 5.99,
   "s": [
    "Evaluation and datasets",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 196,
+  "st": 198,
   "status": "ok",
   "u": "https://github.com/apple-aiml-research/ml-mkqa"
  },
@@ -2409,7 +2392,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 569,
+  "st": 572,
   "status": "ok",
   "u": "https://github.com/alexa/massive"
  },
@@ -2443,7 +2426,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 278,
+  "st": 279,
   "status": "ok",
   "u": "https://github.com/csebuetnlp/xl-sum"
  },
@@ -2460,7 +2443,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 278,
+  "st": 279,
   "status": "ok",
   "u": "https://github.com/google-research/url-nlp"
  },
@@ -2488,13 +2471,13 @@
   "id": "gh:amazon-science/mintaka",
   "lc": "2022-10",
   "n": "mintaka",
-  "ns": 5.42,
+  "ns": 5.41,
   "s": [
    "Evaluation and datasets",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 119,
+  "st": 118,
   "status": "ok",
   "u": "https://github.com/amazon-science/mintaka"
  },
@@ -2505,13 +2488,13 @@
   "id": "gh:esdurmus/wikilingua",
   "lc": "2025-03",
   "n": "Wikilingua",
-  "ns": 5.21,
+  "ns": 5.22,
   "s": [
    "Evaluation and datasets",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 99,
+  "st": 100,
   "status": "ok",
   "u": "https://github.com/esdurmus/Wikilingua"
  },
@@ -2522,13 +2505,13 @@
   "id": "gh:huggingface/datatrove",
   "lc": "2026-09",
   "n": "datatrove",
-  "ns": 9.18,
+  "ns": 9.19,
   "s": [
    "Text processing utilities",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3340,
+  "st": 3371,
   "status": "ok",
   "u": "https://github.com/huggingface/datatrove"
  },
@@ -2539,13 +2522,13 @@
   "id": "gh:blkserene/wordless",
   "lc": "2025-10",
   "n": "Wordless",
-  "ns": 7.5,
+  "ns": 7.51,
   "s": [
    "Text processing utilities",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 758,
+  "st": 760,
   "status": "ok",
   "u": "https://github.com/BLKSerene/Wordless"
  },
@@ -2556,13 +2539,13 @@
   "id": "gh:rspeer/wordfreq",
   "lc": "2025-01",
   "n": "wordfreq",
-  "ns": 8.44,
+  "ns": 8.45,
   "s": [
    "Text processing utilities",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1744,
+  "st": 1753,
   "status": "ok",
   "u": "https://github.com/rspeer/wordfreq"
  },
@@ -2573,13 +2556,13 @@
   "id": "gh:goodmami/wn",
   "lc": "2026-09",
   "n": "wn",
-  "ns": 6.46,
+  "ns": 6.47,
   "s": [
    "Text processing utilities",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 301,
+  "st": 303,
   "status": "ok",
   "u": "https://github.com/goodmami/wn"
  },
@@ -2588,15 +2571,15 @@
   "d": "Wiktionary dump file parser and multilingual data extractor.",
   "d_ja": "Wiktionary のダンプファイルパーサー兼多言語データ抽出ツール。",
   "id": "gh:tatuylonen/wiktextract",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "wiktextract",
-  "ns": 8.08,
+  "ns": 8.09,
   "s": [
    "Text processing utilities",
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1269,
+  "st": 1280,
   "status": "ok",
   "u": "https://github.com/tatuylonen/wiktextract"
  },
@@ -2613,7 +2596,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2343,
+  "st": 2344,
   "status": "ok",
   "u": "https://github.com/JasonKessler/scattertext"
  },
@@ -2630,7 +2613,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3700,
+  "st": 3698,
   "status": "ok",
   "u": "https://github.com/miso-belica/sumy"
  },
@@ -2639,7 +2622,7 @@
   "d": "textlint is the pluggable linter for natural language text.",
   "d_ja": "textlint は、自然言語テキストのためのプラガブルな校正ツール。",
   "id": "gh:textlint/textlint",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "textlint",
   "ns": 9.13,
   "s": [
@@ -2647,7 +2630,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3190,
+  "st": 3199,
   "status": "ok",
   "u": "https://github.com/textlint/textlint"
  }
