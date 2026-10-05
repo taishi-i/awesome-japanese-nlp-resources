@@ -12,7 +12,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 33939,
+  "st": 33940,
   "status": "ok",
   "u": "https://github.com/explosion/spaCy"
  },
@@ -46,7 +46,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 36504,
+  "st": 36505,
   "status": "ok",
   "u": "https://github.com/hankcs/HanLP"
  },
@@ -131,7 +131,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 166966,
+  "st": 166967,
   "status": "ok",
   "u": "https://github.com/huggingface/transformers"
  },
@@ -573,7 +573,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 109990,
+  "st": 109991,
   "status": "ok",
   "u": "https://github.com/openai/whisper"
  },
@@ -613,6 +613,23 @@
  },
  {
   "c": "Multilingual (Speech recognition)",
+  "d": "OpenAI Whisper-compatible CLI for local multilingual transcription, including Japanese, with batched inference and live microphone input.",
+  "d_ja": "OpenAI Whisper 互換の CLI で、日本語を含む多言語音声をローカルで文字起こし。バッチ推論やマイクからのライブ入力に対応。",
+  "id": "gh:softcatala/whisper-ctranslate2",
+  "lc": "2026-10",
+  "n": "whisper-ctranslate2",
+  "ns": 8.16,
+  "s": [
+   "Speech recognition",
+   "Multilingual"
+  ],
+  "sc": 0.0,
+  "st": 1357,
+  "status": "ok",
+  "u": "https://github.com/Softcatala/whisper-ctranslate2"
+ },
+ {
+  "c": "Multilingual (Speech recognition)",
   "d": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
   "d_ja": "WhisperX：単語レベルのタイムスタンプ（＆話者分離）を備えた自動音声認識。",
   "id": "gh:m-bain/whisperx",
@@ -624,7 +641,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 24370,
+  "st": 24371,
   "status": "ok",
   "u": "https://github.com/m-bain/whisperX"
  },
@@ -862,7 +879,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 1558,
+  "st": 1559,
   "status": "ok",
   "u": "https://github.com/QwenAudio/Fun-ASR"
  },
@@ -879,7 +896,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 2957,
+  "st": 2958,
   "status": "ok",
   "u": "https://github.com/FluidInference/FluidAudio"
  },
@@ -1015,7 +1032,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 26726,
+  "st": 26727,
   "status": "ok",
   "u": "https://github.com/resemble-ai/chatterbox"
  },
@@ -1083,7 +1100,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 9168,
+  "st": 9169,
   "status": "ok",
   "u": "https://github.com/hexgrad/kokoro"
  },
@@ -1134,7 +1151,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 62369,
+  "st": 62371,
   "status": "ok",
   "u": "https://github.com/RVC-Boss/GPT-SoVITS"
  },
@@ -1185,7 +1202,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 38325,
+  "st": 38326,
   "status": "ok",
   "u": "https://github.com/OpenBMB/VoxCPM"
  },
@@ -1253,7 +1270,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 4161,
+  "st": 4162,
   "status": "ok",
   "u": "https://github.com/OpenMOSS/MOSS-TTS"
  },
@@ -1372,7 +1389,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 14233,
+  "st": 14235,
   "status": "ok",
   "u": "https://github.com/k2-fsa/OmniVoice"
  },
@@ -1406,7 +1423,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 3282,
+  "st": 3284,
   "status": "ok",
   "u": "https://github.com/0xShug0/audio.cpp"
  },
@@ -1423,7 +1440,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 90630,
+  "st": 90631,
   "status": "ok",
   "u": "https://github.com/PaddlePaddle/PaddleOCR"
  },
@@ -1508,7 +1525,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 81109,
+  "st": 81113,
   "status": "ok",
   "u": "https://github.com/opendatalab/MinerU"
  },
@@ -1627,7 +1644,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 10828,
+  "st": 10827,
   "status": "ok",
   "u": "https://github.com/pymupdf/PyMuPDF"
  },
@@ -1678,7 +1695,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 19150,
+  "st": 19151,
   "status": "ok",
   "u": "https://github.com/huggingface/sentence-transformers"
  },
@@ -1763,7 +1780,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 59488,
+  "st": 59489,
   "status": "ok",
   "u": "https://github.com/meilisearch/meilisearch"
  },
@@ -1916,7 +1933,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 34935,
+  "st": 34936,
   "status": "ok",
   "u": "https://github.com/qdrant/qdrant"
  },
@@ -2239,7 +2256,7 @@
    "Multilingual"
   ],
   "sc": 0.0,
-  "st": 14130,
+  "st": 14131,
   "status": "ok",
   "u": "https://github.com/EleutherAI/lm-evaluation-harness"
  },
