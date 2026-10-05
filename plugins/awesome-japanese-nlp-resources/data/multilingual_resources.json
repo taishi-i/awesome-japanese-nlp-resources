@@ -613,6 +613,23 @@
  },
  {
   "c": "Multilingual (Speech recognition)",
+  "d": "OpenAI Whisper-compatible CLI for local multilingual transcription, including Japanese, with batched inference and live microphone input.",
+  "d_ja": "OpenAI Whisper 互換の CLI で、日本語を含む多言語音声をローカルで文字起こし。バッチ推論やマイクからのライブ入力に対応。",
+  "id": "gh:softcatala/whisper-ctranslate2",
+  "lc": "2026-10",
+  "n": "whisper-ctranslate2",
+  "ns": 10,
+  "s": [
+   "Speech recognition",
+   "Multilingual"
+  ],
+  "sc": 0.0,
+  "st": 1357,
+  "status": "ok",
+  "u": "https://github.com/Softcatala/whisper-ctranslate2"
+ },
+ {
+  "c": "Multilingual (Speech recognition)",
   "d": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
   "d_ja": "WhisperX：単語レベルのタイムスタンプ（＆話者分離）を備えた自動音声認識。",
   "id": "gh:m-bain/whisperx",

@@ -6,7 +6,7 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 日本語専用ではないものの日本語にも対応した、多言語ライブラリ・モデル・データセットを厳選してまとめた一覧です。
-このページでは、日本語の言語判定、日本語トークナイザーやアナライザー、日本語の音声・OCRモデル、データセットの日本語分割など、日本語向けの具体的な機能を備えた多言語ライブラリ・モデル・データセットを掲載しています。現在、155件のリポジトリを掲載しています。
+このページでは、日本語の言語判定、日本語トークナイザーやアナライザー、日本語の音声・OCRモデル、データセットの日本語分割など、日本語向けの具体的な機能を備えた多言語ライブラリ・モデル・データセットを掲載しています。現在、156件のリポジトリを掲載しています。
 
 _2026年9月29日更新_
 
@@ -134,6 +134,7 @@ _2026年9月29日更新_
  * [whisper](https://github.com/openai/whisper) - 大規模弱教師あり学習によるロバストな音声認識。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI の Whisper モデルの C/C++ 移植版。
  * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) - CTranslate2 による高速な Whisper 文字起こし。
+ * [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - OpenAI Whisper 互換の CLI で、日本語を含む多言語音声をローカルで文字起こし。バッチ推論やマイクからのライブ入力に対応。
  * [whisperX](https://github.com/m-bain/whisperX) - WhisperX：単語レベルのタイムスタンプ（＆話者分離）を備えた自動音声認識。
  * [argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - Apple Silicon 向けのオンデバイス音声AI。
  * [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR は、Alibaba Cloud の Qwen チームが開発したオープンソースの音声認識モデル群で、安定した多言語の音声・音楽・歌唱認識、言語判定、タイムスタンプ予測に対応。
@@ -161,6 +162,7 @@ _2026年9月29日更新_
 | 🔗 [whisper](https://github.com/openai/whisper) | [![Downloads](https://static.pepy.tech/badge/openai-whisper/week)](https://pepy.tech/project/openai-whisper) | [![Downloads](https://static.pepy.tech/badge/openai-whisper)](https://pepy.tech/project/openai-whisper) | ⭐ 110k | 🟢 august|
 | 🔗 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | - | - | ⭐ 54k | 🟢 last thursday|
 | 🔗 [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | [![Downloads](https://static.pepy.tech/badge/faster-whisper/week)](https://pepy.tech/project/faster-whisper) | [![Downloads](https://static.pepy.tech/badge/faster-whisper)](https://pepy.tech/project/faster-whisper) | ⭐ 26k | 🟡 november 2025|
+| 🔗 [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) | [![Downloads](https://static.pepy.tech/badge/whisper-ctranslate2/week)](https://pepy.tech/project/whisper-ctranslate2) | [![Downloads](https://static.pepy.tech/badge/whisper-ctranslate2)](https://pepy.tech/project/whisper-ctranslate2) | ⭐ 1.4k | 🟢 today|
 | 🔗 [whisperX](https://github.com/m-bain/whisperX) | [![Downloads](https://static.pepy.tech/badge/whisperx/week)](https://pepy.tech/project/whisperx) | [![Downloads](https://static.pepy.tech/badge/whisperx)](https://pepy.tech/project/whisperx) | ⭐ 24k | 🟢 last saturday|
 | 🔗 [argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) | - | - | ⭐ 6.4k | 🟢 last thursday|
 | 🔗 [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) | [![Downloads](https://static.pepy.tech/badge/qwen-asr/week)](https://pepy.tech/project/qwen-asr) | [![Downloads](https://static.pepy.tech/badge/qwen-asr)](https://pepy.tech/project/qwen-asr) | ⭐ 3.6k | 🟡 june|
