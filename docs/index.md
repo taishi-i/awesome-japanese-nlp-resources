@@ -7,24 +7,18 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [892件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [450 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [893件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [455 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 164 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 ## 🎉 The latest additions
 
-**JavaScript**
- * [jev-auto-ime](https://github.com/kzkhykw/jev-auto-ime) - 打っている言葉が日本語か英語かをJevに聞いて、Macの入力モードを切り替える道具。個人利用のみ。
+**Python**
+ * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された日本語を自然な日本語に磨くためのエージェントスキル / 自然な日本語へのAI生成日本語の推敲エージェントスキル
 
-**Rust**
- * [jpnorm](https://github.com/yoshitakaoyama/jpnorm) - 日本語テキスト正規化ライブラリ (Rust core + Python)。neologdn 互換・用途別プリセット・URL 保護・カスタム辞書 / Fast, configurable Japanese text normalization
-
-**Corpus**
- * [adlib](https://github.com/holotherapper/adlib) - ADLIB：言語を認識した評価を備えた日本語ASRベンチマークフレームワーク
-
-_Updated on Sep 29, 2026_
+_Updated on Oct 05, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -703,6 +697,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [bpe2regex](https://github.com/t3tra-dev/bpe2regex) - BPE tokenizer をクソデカ正規表現に変換する意味わからんやつ
  * [sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp) - 559 K パラメータの日本語 TTS を ESP32-S3 で実時間合成。漢字かな交じり文の形態素解析・アクセント推定まで端末内で走る（M5Stack CoreS3 実機で確認）。推論は依存ゼロの C99、ブラウザ demo あり。arXiv:2608.21378 sanoTTS の日本語 clean-room 再実装。⚠️ コードは MIT ですが、配布モデルの重みは MIT ではありません（LICENSE-MODEL.md。出力に用途制限が伝播します）
  * [jev-auto-ime](https://github.com/kzkhykw/jev-auto-ime) - 打っている言葉が日本語か英語かをJevに聞いて、Macの入力モードを切り替える道具。個人利用のみ。
+ * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された日本語を自然な日本語に磨くためのエージェントスキル / 自然な日本語へのAI生成日本語の推敲エージェントスキル
 
 
 |Name|downloads/week|total downloads|stars|
@@ -918,6 +913,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[bpe2regex](https://github.com/t3tra-dev/bpe2regex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/t3tra-dev/bpe2regex?style=social)|
 |[sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ayutaz/sanoTTS-jp?style=social)|
 |[jev-auto-ime](https://github.com/kzkhykw/jev-auto-ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kzkhykw/jev-auto-ime?style=social)|
+|[yomiyasu](https://github.com/nanaism/yomiyasu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanaism/yomiyasu?style=social)|
 
 
 ## C++

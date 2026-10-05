@@ -4141,6 +4141,18 @@
                     "zh-hans": "询问Jev正在使用的语言是日语还是英语，并切换Mac的输入模式的工具。仅限个人使用。",
                     "zh-hant": "請問Jev，您所使用的語言是日語還是英語？這是一個可以切換Mac輸入模式的工具，僅供個人使用。"
                 }
+            },
+            "https://github.com/nanaism/yomiyasu": {
+                "sub_category": null,
+                "repository_name": "yomiyasu",
+                "user_name": "nanaism",
+                "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+                "multilingual_descriptions": {
+                    "en": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+                    "ja": "AI生成された日本語を自然な日本語に磨くためのエージェントスキル / 自然な日本語へのAI生成日本語の推敲エージェントスキル",
+                    "zh-hans": "AI生成的日本语自然化代理技能/将AI生成的日本语推敲为自然日本语的代理技能",
+                    "zh-hant": "AI生成的日本語自然化代理技能 / 將AI生成的日語推敲為自然日語的代理技能"
+                }
             }
         },
         "C++": {
