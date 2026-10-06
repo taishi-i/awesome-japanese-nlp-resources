@@ -18,7 +18,10 @@
 **Python**
  * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成的日本語自然化代理技能 / 將AI生成的日語推敲為自然日語的代理技能
 
-_Updated on Oct 05, 2026_
+**Dictionary and IME**
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 不需要按半角/全角键，就可以轻松切换打字输入日语和英语的 Windows 常驻工具。
+
+_Updated on Oct 06, 2026_
 
 
 ## Claude Code 與 Codex 外掛
@@ -1593,6 +1596,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [Sumibi](https://github.com/kiyoka/Sumibi) - 由ChatGPT API提供動力的日文輸入法
  * [rakukan](https://github.com/fukuyori/rakukan) - 使用本地LLM，針對Windows的日文IME
  * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdict和Kanjidic的SQLite數據庫，一本日英詞典。自動每日更新。
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 不需要按半角/全角键，就可以轻松切换打字输入日语和英语的 Windows 常驻工具。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1682,6 +1686,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [Sumibi](https://github.com/kiyoka/Sumibi) | - | - | ⭐ 66 | 🟢 last saturday|
 | 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 37 | 🟢 last wednesday|
 | 🔗 [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) | - | - | ⭐ 5 | 🟢 september|
+| 🔗 [Meltype](https://github.com/yksr-melt/Meltype) | - | - | ⭐ 374 | 🟢 today|
 
 
 ## Corpus

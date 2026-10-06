@@ -18,7 +18,10 @@
 **Python**
  * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された日本語を自然な日本語に磨くためのエージェントスキル / 自然な日本語へのAI生成日本語の推敲エージェントスキル
 
-_Updated on Oct 05, 2026_
+**Dictionary and IME**
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。
+
+_Updated on Oct 06, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -1563,6 +1566,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [Sumibi](https://github.com/kiyoka/Sumibi) - ChatGPT APIによって強化された日本語入力方法
  * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IME
  * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。Output: JMdictとKanjidicのためのSQLiteデータベース、日本語-英語辞書。自動的な毎日の更新。
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1652,6 +1656,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
 |[rakukan](https://github.com/fukuyori/rakukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fukuyori/rakukan?style=social)|
 |[JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/seanmcbroom/JMdictSQLite?style=social)|
+|[Meltype](https://github.com/yksr-melt/Meltype)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yksr-melt/Meltype?style=social)|
 
 
 ## Corpus

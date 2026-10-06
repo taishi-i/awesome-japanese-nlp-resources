@@ -18,7 +18,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 **Python**
  * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 
-_Updated on Oct 05, 2026_
+**Dictionary and IME**
+ * [Meltype](https://github.com/yksr-melt/Meltype) - This is a Windows resident tool that allows you to switch between typing Japanese and English without having to press the half-width/full-width key.
+
+_Updated on Oct 06, 2026_
 
 
 ## Claude Code & Codex Plugin
@@ -1594,6 +1597,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese input method powered by ChatGPT API
  * [rakukan](https://github.com/fukuyori/rakukan) - Japanese IME for Windows using Local LLM
  * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
+ * [Meltype](https://github.com/yksr-melt/Meltype) - This is a Windows resident tool that allows you to switch between typing Japanese and English without having to press the half-width/full-width key.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -1683,6 +1687,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 | 🔗 [Sumibi](https://github.com/kiyoka/Sumibi) | - | - | ⭐ 66 | 🟢 last saturday|
 | 🔗 [rakukan](https://github.com/fukuyori/rakukan) | - | - | ⭐ 37 | 🟢 last wednesday|
 | 🔗 [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) | - | - | ⭐ 5 | 🟢 september|
+| 🔗 [Meltype](https://github.com/yksr-melt/Meltype) | - | - | ⭐ 374 | 🟢 today|
 
 
 ## Corpus

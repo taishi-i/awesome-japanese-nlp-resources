@@ -18,7 +18,10 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 **Python**
  * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 
-_Updated on Oct 05, 2026_
+**Dictionary and IME**
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。 
+
+_Updated on Oct 06, 2026_
 
 
 ## Claude Code & Codex Plugin
@@ -1564,7 +1567,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
  * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IMEgit
  * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
- * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。 
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。
 
 
 |Name|downloads/week|total downloads|stars|

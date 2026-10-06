@@ -15542,6 +15542,20 @@
     "u": "https://github.com/nanaism/yomiyasu"
   },
   {
+    "c": "Dictionary and IME",
+    "d": "This is a Windows resident tool that allows you to switch between typing Japanese and English without having to press the half-width/full-width key.",
+    "d_ja": "半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。",
+    "id": "gh:yksr-melt/meltype",
+    "lc": "2026-10",
+    "n": "Meltype",
+    "ns": 6.71,
+    "s": [],
+    "sc": 0.0,
+    "st": 374,
+    "status": "ok",
+    "u": "https://github.com/yksr-melt/Meltype"
+  },
+  {
     "c": "HuggingFace Model (Others)",
     "d": "Fine‑tuned Qwen3.5‑0.8B on 3.72 M Japanese tokens, achieving 61.39% JCommonsenseQA, 49.88% JNLI, 54.01% JSQuAD, and 70.43% MARC‑ja with a 3.53% overall response‑rate improvement.",
     "dl": 2000,
