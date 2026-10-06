@@ -1564,6 +1564,7 @@ Resources for Japanese dictionaries and input method editors (IME)
  * [Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
  * [rakukan](https://github.com/fukuyori/rakukan) - ローカルLLMを利用した、Windows 向け日本語 IMEgit
  * [JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
+ * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。 
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1653,6 +1654,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[Sumibi](https://github.com/kiyoka/Sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/Sumibi?style=social)|
 |[rakukan](https://github.com/fukuyori/rakukan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fukuyori/rakukan?style=social)|
 |[JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/seanmcbroom/JMdictSQLite?style=social)|
+|[Meltype](https://github.com/yksr-melt/Meltype)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yksr-melt/Meltype?style=social)|
 
 
 ## Corpus
