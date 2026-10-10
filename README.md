@@ -1982,6 +1982,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: Japanese instruction Following Benchmark
  * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
  * [adlib](https://github.com/holotherapper/adlib) - ADLIB: Japanese ASR benchmark framework with language-aware evaluation
+ * [job-hunting-interview-corpus-jp](https://part676392.github.io/dsh-money-engine/exports/manifest.csv) - 1,873 interview questions (with the interviewer intent where the source states it) and 56 ordered selection flows across 472 Japanese companies, extracted from 600 public career articles; CSV/JSON with per-item source URLs and a public per-run change history
 
 
 |Name|downloads/week|total downloads|stars|last commit|
