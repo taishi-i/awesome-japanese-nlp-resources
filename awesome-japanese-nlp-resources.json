@@ -10255,6 +10255,18 @@
                     "zh-hans": "ADLIB：具有语言感知评估的日语ASR基准框架",
                     "zh-hant": "ADLIB：具有语言感知评估的日本ASR基准框架"
                 }
+            },
+            "https://github.com/nishika-inc/jmeeteval": {
+                "sub_category": null,
+                "repository_name": "jmeeteval",
+                "user_name": "nishika-inc",
+                "description": "J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク",
+                "multilingual_descriptions": {
+                    "en": "J-MeetEval: Benchmark for Evaluating Instruction Compliance in Japanese Meeting Tasks",
+                    "ja": "J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク",
+                    "zh-hans": "J-MeetEval: 指示遵循性评估基准在日语会议任务中的应用",
+                    "zh-hant": "J-MeetEval: 日本語會議任務中指示遵循性評估基準"
+                }
             }
         },
         "Tutorial": {

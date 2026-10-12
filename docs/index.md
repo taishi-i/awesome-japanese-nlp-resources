@@ -7,21 +7,18 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [893件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [455 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [895件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [450 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 156 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
 
 ## 🎉 The latest additions
 
-**Python**
- * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された日本語を自然な日本語に磨くためのエージェントスキル / 自然な日本語へのAI生成日本語の推敲エージェントスキル
+**Corpus**
+ * [jmeeteval](https://github.com/nishika-inc/jmeeteval) - J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク
 
-**Dictionary and IME**
- * [Meltype](https://github.com/yksr-melt/Meltype) - 半角/全角 キーを押さなくても、日本語と英語を打ち分けられるようにする Windows 常駐ツールです。
-
-_Updated on Oct 06, 2026_
+_Updated on Oct 13, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -1948,6 +1945,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [jfbench](https://github.com/pfnet-research/jfbench) - JFBench: 日本語指示に従うベンチマーク
  * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
  * [adlib](https://github.com/holotherapper/adlib) - ADLIB：言語を認識した評価を備えた日本語ASRベンチマークフレームワーク
+ * [jmeeteval](https://github.com/nishika-inc/jmeeteval) - J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2140,6 +2138,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[jfbench](https://github.com/pfnet-research/jfbench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/jfbench?style=social)|
 |[aica-corpus](https://github.com/reinehonoka/aica-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reinehonoka/aica-corpus?style=social)|
 |[adlib](https://github.com/holotherapper/adlib)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/holotherapper/adlib?style=social)|
+|[jmeeteval](https://github.com/nishika-inc/jmeeteval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nishika-inc/jmeeteval?style=social)|
 
 
 ## Tutorial
