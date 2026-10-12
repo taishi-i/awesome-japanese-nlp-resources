@@ -650,7 +650,7 @@
   "d": "On-device Speech AI for Apple Silicon.",
   "d_ja": "Apple Silicon 向けのオンデバイス音声AI。",
   "id": "gh:argmaxinc/argmax-oss-swift",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "argmax-oss-swift",
   "ns": 9.91,
   "s": [
@@ -803,7 +803,7 @@
   "d": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages.",
   "d_ja": "次世代 Kaldi と onnxruntime を用いた、インターネット接続不要の音声認識・音声合成・話者分離・音声強調・音源分離・VAD。組み込みシステム、Android、iOS、HarmonyOS、Raspberry Pi、RISC-V、RK NPU、Axera NPU、Ascend NPU、x86_64サーバー、WebSocketサーバー/クライアントに対応し、12のプログラミング言語をサポート。",
   "id": "gh:k2-fsa/sherpa-onnx",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "sherpa-onnx",
   "ns": 10,
   "s": [
@@ -820,7 +820,7 @@
   "d": "The icefall project contains speech-related recipes for various datasets using k2-fsa and lhotse.",
   "d_ja": "icefall プロジェクトは、k2-fsa と lhotse を用いた各種データセット向けの音声関連レシピを収録。",
   "id": "gh:k2-fsa/icefall",
-  "lc": "2026-07",
+  "lc": "2026-10",
   "n": "icefall",
   "ns": 8.28,
   "s": [
@@ -854,7 +854,7 @@
   "d": "Command line utility for forced alignment using Kaldi.",
   "d_ja": "Kaldi を用いた強制アラインメントのためのコマンドラインツール。",
   "id": "gh:montrealcorpustools/montreal-forced-aligner",
-  "lc": "2026-08",
+  "lc": "2026-10",
   "n": "Montreal-Forced-Aligner",
   "ns": 8.54,
   "s": [
@@ -871,7 +871,7 @@
   "d": "Fun-ASR speech recognition models, with native Hugging Face Transformers support for Fun-ASR-Nano and separate FunASR, vLLM and llama.cpp deployment paths.",
   "d_ja": "Fun-ASR 音声認識モデル群。Fun-ASR-Nano は Hugging Face Transformers にネイティブ対応し、別途 FunASR・vLLM・llama.cpp によるデプロイ経路も提供。",
   "id": "gh:qwenaudio/fun-asr",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "Fun-ASR",
   "ns": 8.32,
   "s": [
@@ -1007,7 +1007,7 @@
   "d": "SOTA Open Source TTS.",
   "d_ja": "最先端のオープンソース音声合成。",
   "id": "gh:fishaudio/fish-speech",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "fish-speech",
   "ns": 10,
   "s": [
@@ -1143,7 +1143,7 @@
   "d": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
   "d_ja": "わずか1分の音声データでも、優れた音声合成モデルを学習できる！（少数サンプルによる声質クローン）",
   "id": "gh:rvc-boss/gpt-sovits",
-  "lc": "2026-08",
+  "lc": "2026-10",
   "n": "GPT-SoVITS",
   "ns": 10,
   "s": [
@@ -1194,7 +1194,7 @@
   "d": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning.",
   "d_ja": "VoxCPM2：トークナイザー不要の音声合成で、多言語音声生成・クリエイティブな音声デザイン・実物さながらの声質クローンを実現。",
   "id": "gh:openbmb/voxcpm",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "VoxCPM",
   "ns": 10,
   "s": [
@@ -1449,7 +1449,7 @@
   "d": "Tesseract Open Source OCR Engine (main repository)",
   "d_ja": "Tesseract オープンソースOCRエンジン（メインリポジトリ）",
   "id": "gh:tesseract-ocr/tesseract",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "tesseract",
   "ns": 10,
   "s": [
@@ -1517,7 +1517,7 @@
   "d": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
   "d_ja": "PDFやOffice文書などの複雑なドキュメントを、エージェント型ワークフロー向けのLLM対応 Markdown/JSON に変換。",
   "id": "gh:opendatalab/mineru",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "MinerU",
   "ns": 10,
   "s": [
@@ -1670,7 +1670,7 @@
   "d": "Pyserini is a Python toolkit for reproducible information retrieval research with sparse and dense representations.",
   "d_ja": "Pyserini は、疎表現・密表現による再現可能な情報検索研究のための Python ツールキット。",
   "id": "gh:castorini/pyserini",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "pyserini",
   "ns": 8.69,
   "s": [
@@ -1687,7 +1687,7 @@
   "d": "State-of-the-Art Embeddings, Retrieval, and Reranking.",
   "d_ja": "最先端の埋め込み・検索・リランキング。",
   "id": "gh:huggingface/sentence-transformers",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "sentence-transformers",
   "ns": 10,
   "s": [
@@ -1823,7 +1823,7 @@
   "d": "PGroonga is a PostgreSQL extension to use Groonga as index. PGroonga makes PostgreSQL fast full text search platform for all languages!",
   "d_ja": "PGroonga は、Groonga をインデックスとして利用する PostgreSQL 拡張機能。PGroonga により、PostgreSQL はあらゆる言語に対応した高速な全文検索プラットフォームになる！",
   "id": "gh:pgroonga/pgroonga",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "pgroonga",
   "ns": 7.49,
   "s": [
@@ -2027,7 +2027,7 @@
   "d": "A modern text/numeric/geo-spatial/vector indexing library for go.",
   "d_ja": "Go 向けの、テキスト・数値・地理空間・ベクトルに対応したモダンな索引ライブラリ。",
   "id": "gh:blevesearch/bleve",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "bleve",
   "ns": 10,
   "s": [
@@ -2129,7 +2129,7 @@
   "d": "A tool for transcribing orthographic text as IPA (International Phonetic Alphabet)",
   "d_ja": "正書法のテキストをIPA（国際音声記号）に変換するツール。",
   "id": "gh:dmort27/epitran",
-  "lc": "2026-06",
+  "lc": "2026-10",
   "n": "epitran",
   "ns": 7.62,
   "s": [
@@ -2622,7 +2622,7 @@
   "d": "Module for automatic summarization of text documents and HTML pages.",
   "d_ja": "テキスト文書や HTML ページを自動要約するモジュール。",
   "id": "gh:miso-belica/sumy",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "sumy",
   "ns": 9.29,
   "s": [
