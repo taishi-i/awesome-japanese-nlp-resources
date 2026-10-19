@@ -446,7 +446,7 @@
   "d": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
   "d_ja": "無料でオープンソースの機械翻訳API。セルフホスト可能で、オフライン対応かつ簡単にセットアップできる。",
   "id": "gh:libretranslate/libretranslate",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "LibreTranslate",
   "ns": 10,
   "s": [
@@ -633,7 +633,7 @@
   "d": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
   "d_ja": "WhisperX：単語レベルのタイムスタンプ（＆話者分離）を備えた自動音声認識。",
   "id": "gh:m-bain/whisperx",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "whisperX",
   "ns": 10,
   "s": [
@@ -837,7 +837,7 @@
   "d": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.",
   "d_ja": "Android・iOS・Raspberry Pi・サーバー向けのオフライン音声認識API。Python・Java・C#・Node に対応。",
   "id": "gh:alphacep/vosk-api",
-  "lc": "2026-08",
+  "lc": "2026-10",
   "n": "vosk-api",
   "ns": 10,
   "s": [
@@ -2044,7 +2044,7 @@
   "d": "A collection of languages stemmers and stopwords for Lunr Javascript library.",
   "d_ja": "検索ライブラリ Lunr（JavaScript）向けの、各言語のステマーとストップワードのコレクション。",
   "id": "gh:mihaivalentin/lunr-languages",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "lunr-languages",
   "ns": 6.93,
   "s": [
