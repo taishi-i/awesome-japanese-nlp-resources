@@ -4153,6 +4153,42 @@
                     "zh-hans": "AI生成的日本语自然化代理技能/将AI生成的日本语推敲为自然日本语的代理技能",
                     "zh-hant": "AI生成的日本語自然化代理技能 / 將AI生成的日語推敲為自然日語的代理技能"
                 }
+            },
+            "https://github.com/kojikojikojikoji/natural-japanese-writing": {
+                "sub_category": null,
+                "repository_name": "natural-japanese-writing",
+                "user_name": "kojikojikojikoji",
+                "description": "An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. 59-item checklist across six layers, plus an automated checker.",
+                "multilingual_descriptions": {
+                    "en": "An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. 59-item checklist across six layers, plus an automated checker.",
+                    "ja": "クロード・コード、コーデックス、カーソルのためのエージェントスキル。AIらしい日本語を自然な日本語に書き換えるが、事実は変えない。6つのレイヤーにまたがる59項目のチェックリストと自動チェッカー。",
+                    "zh-hans": "克劳德代码，密码和光标的代理技能，将听起来像人工智能的日语改写为自然日语，而不改变事实。包括六个层次的59项检查清单，以及自动检查器。",
+                    "zh-hant": "為Claude Code、Codex和Cursor設計的代理技能，將聽起來像AI的日語重寫為自然日語，而不改變事實。包括六個層面的59項檢查清單，以及自動檢查器。"
+                }
+            },
+            "https://github.com/rakuyou211-blip/TextToVoicevox": {
+                "sub_category": null,
+                "repository_name": "TextToVoicevox",
+                "user_name": "rakuyou211-blip",
+                "description": "Free offline desktop app (Windows/macOS) that reads Japanese PDFs, images, EPUB and Aozora Bunko aloud with VOICEVOX voices (Zundamon etc.), with SRT subtitles. ／ PDF・画像・青空文庫の日本語を VOICEVOX（ずんだもん等）で朗読・音声化する無料デスクトップアプリ。オフラインOCR・行ごとの話者切替・字幕出力。",
+                "multilingual_descriptions": {
+                    "en": "Free offline desktop app (Windows/macOS) that reads Japanese PDFs, images, EPUB and Aozora Bunko aloud with VOICEVOX voices (Zundamon etc.), with SRT subtitles. ／ PDF・画像・青空文庫の日本語を VOICEVOX（ずんだもん等）で朗読・音声化する無料デスクトップアプリ。オフラインOCR・行ごとの話者切替・字幕出力。",
+                    "ja": "無料のオフラインデスクトップアプリ（Windows/macOS）で、日本語のPDF、画像、EPUB、青空文庫をVOICEVOXの声（ずんだもんなど）で朗読し、SRT字幕付きで表示します。／PDF・画像・EPUB・青空文庫をVOICEVOXの声（ずんだもんなど）で朗読する無料のオフラインデスクトップアプリ。OCR機能、話者ごとの切り替え、字幕出力も可能です。",
+                    "zh-hans": "免费的离线桌面应用程序（Windows/macOS），可以使用VOICEVOX声音（Zundamon等）朗读日语PDF、图片、EPUB和青空文库，并提供SRT字幕。／PDF、图片、青空文库的日语可以在VOICEVOX（Zundamon等）中朗读和音频化的免费桌面应用程序。支持离线OCR、按行切换说话者、字幕输出。",
+                    "zh-hant": "免費的離線桌面應用程式（Windows/macOS），可使用VOICEVOX聲音（如Zundamon等）朗讀日文PDF、圖像、EPUB和青空文庫，並提供SRT字幕。／PDF、圖像、青空文庫的日文可透過VOICEVOX（如Zundamon等）在桌面上免費朗讀和語音化。支援離線OCR、按行切換說話者、字幕輸出。"
+                }
+            },
+            "https://github.com/coji/natural-japanese": {
+                "sub_category": null,
+                "repository_name": "natural-japanese",
+                "user_name": "coji",
+                "description": "仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。",
+                "multilingual_descriptions": {
+                    "en": "This is an Agent Skill for writing and correcting work-related Japanese in an easy-to-read and easy-to-understand manner.",
+                    "ja": "仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。",
+                    "zh-hans": "这是用于写作和修改工作日本语，使其易读易懂的代理技能。",
+                    "zh-hant": "這是用來撰寫、修改工作日本語，使其易讀易懂的 Agent 技能。"
+                }
             }
         },
         "C++": {
