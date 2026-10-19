@@ -701,6 +701,7 @@ General-purpose tools supporting Japanese language processing
  * [yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
  * [natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing) - An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. 59-item checklist across six layers, plus an automated checker.
  * [TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox) - Free offline desktop app (Windows/macOS) that reads Japanese PDFs, images, EPUB and Aozora Bunko aloud with VOICEVOX voices (Zundamon etc.), with SRT subtitles. ／ PDF・画像・青空文庫の日本語を VOICEVOX（ずんだもん等）で朗読・音声化する無料デスクトップアプリ。オフラインOCR・行ごとの話者切替・字幕出力。
+ * [natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -919,6 +920,7 @@ General-purpose tools supporting Japanese language processing
 |[yomiyasu](https://github.com/nanaism/yomiyasu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanaism/yomiyasu?style=social)|
 |[natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kojikojikojikoji/natural-japanese-writing?style=social)|
 |[TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rakuyou211-blip/TextToVoicevox?style=social)|
+|[natural-japanese](https://github.com/coji/natural-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/coji/natural-japanese?style=social)|
 
 
 ## C++
