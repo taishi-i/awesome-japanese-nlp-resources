@@ -1224,6 +1224,7 @@ Other libraries for Japanese NLP in JavaScript
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Official TypeScript SDK for the Shirabe Japan data APIs — ready-made Vercel AI SDK / LangChain tools for Japanese name splitting/reading, address normalization, corporate number lookup, and calendar (rokuyo). Zero runtime dependencies in the core.
  * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER Browser Demo
  * [jev-semgrep](https://github.com/uehaj/jev-semgrep) - grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる
+ * [miteiru](https://github.com/hockyy/miteiru) - Desktop video player for learning Japanese from subtitles, with Kuromoji tokenization, furigana, pitch accent and offline JMdict lookups.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
