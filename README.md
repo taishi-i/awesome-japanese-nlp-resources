@@ -389,6 +389,7 @@ Libraries that recognize and extract text from images
  * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - A lightweight OCR model for Japanese text, especially in Manga
  * [meikiocr](https://github.com/rtr46/meikiocr) - high-speed, high-accuracy, local ocr for japanese video games
  * [meikipop](https://github.com/rtr46/meikipop) - universal japanese ocr popup dictionary for windows, linux and macos
+ * [jplens](https://github.com/charlie-1206/jplens) - Windows screen lookup tool: hold Alt and drag over Japanese text (anime subtitles, vertical novels, manga) for offline OCR, word readings, JLPT levels, grammar notes and a vocabulary list.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
