@@ -77,9 +77,9 @@
     "c": "Dictionary and IME",
     "d": "Japanese input method for fcitx5, powered by azooKey engine",
     "d_ja": "fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。",
-    "id": "gh:7ka-hiira/fcitx5-hazkey",
+    "id": "gh:7ka-hiira/hazkey",
     "lc": "2026-02",
-    "n": "fcitx5-hazkey",
+    "n": "hazkey",
     "ns": 6.21,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
@@ -87,25 +87,7 @@
     "sc": -0.21,
     "st": 242,
     "status": "ok",
-    "u": "https://github.com/7ka-hiira/fcitx5-hazkey"
-  },
-  {
-    "c": "Python library",
-    "d": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
-    "d_ja": "日本の低資源設定での日本語LLM用のオープンソースRAGとLlama Index",
-    "id": "gh:akimparis/rag-japanese",
-    "lc": "2025-05",
-    "n": "RAG-Japanese",
-    "ns": 2.71,
-    "s": [
-      "Responsible & Trustworthy NLP",
-      "Text Generation",
-      "Low-Resource NLP"
-    ],
-    "sc": -0.318,
-    "st": 10,
-    "status": "ok",
-    "u": "https://github.com/AkimParis/RAG-Japanese"
+    "u": "https://github.com/7ka-Hiira/hazkey"
   },
   {
     "c": "Python library",
@@ -194,9 +176,9 @@
     "c": "Python library",
     "d": "A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.",
     "d_ja": "カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。",
-    "id": "gh:bramblexu/jp-stopword-filter",
+    "id": "gh:bramblexu/ja-stopword-filter",
     "lc": "2026-08",
-    "n": "jp-stopword-filter",
+    "n": "ja-stopword-filter",
     "ns": 1.82,
     "pt": 7000,
     "pw": 5,
@@ -204,7 +186,7 @@
     "sc": 0.0,
     "st": 4,
     "status": "ok",
-    "u": "https://github.com/BrambleXu/jp-stopword-filter"
+    "u": "https://github.com/BrambleXu/ja-stopword-filter"
   },
   {
     "c": "Python library",
@@ -823,9 +805,9 @@
     "c": "Python library",
     "d": "Automatic Speech Recognition with deepspeech2 model in pytorch with support from Zakuro AI.",
     "d_ja": "自動音声認識は、Zakuro AIのサポートを受けたpytorchのdeepspeech2モデルを使用しています。",
-    "id": "gh:jeanmaximiliencadic/asrdeepspeech",
+    "id": "gh:zakuro-ai/asr",
     "lc": "2026-10",
-    "n": "ASRDeepSpeech",
+    "n": "asr",
     "ns": 4.84,
     "s": [
       "Speech Recognition",
@@ -836,7 +818,7 @@
     "sc": -0.318,
     "st": 71,
     "status": "ok",
-    "u": "https://github.com/JeanMaximilienCadic/ASRDeepSpeech"
+    "u": "https://github.com/zakuro-ai/asr"
   },
   {
     "c": "Python library",
@@ -1416,7 +1398,7 @@
     "c": "Pretrained model",
     "d": "Official fine-tuning code for \"Emotion Analysis of Japanese Tweets and Comparison to Vaccinations in Japan\"",
     "d_ja": "「日本のツイートの感情分析と日本のワクチン接種との比較」の公式微調整コード",
-    "id": "gh:patrickjohnramos/bert-japan-vaccination",
+    "id": "gh:ramos-ramos/bert-japan-vaccination",
     "lc": "2022-05",
     "n": "BERT-Japan-vaccination",
     "ns": 2.2,
@@ -1429,7 +1411,7 @@
     "sc": -0.318,
     "st": 6,
     "status": "ok",
-    "u": "https://github.com/PatrickJohnRamos/BERT-Japan-vaccination"
+    "u": "https://github.com/Ramos-Ramos/BERT-Japan-vaccination"
   },
   {
     "c": "Dictionary and IME",
@@ -2018,7 +2000,7 @@
     "c": "ChatGPT",
     "d": "A program that allows you to chat using ChatGPT in VRChat.",
     "d_ja": "ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。",
-    "id": "gh:yuchi-games/vrchatgpt",
+    "id": "gh:yutomaeda1209/vrchatgpt",
     "lc": "2023-03",
     "n": "VRChatGPT",
     "ns": 3.14,
@@ -2033,7 +2015,7 @@
     "sc": -0.318,
     "st": 15,
     "status": "ok",
-    "u": "https://github.com/Yuchi-Games/VRChatGPT"
+    "u": "https://github.com/YutoMaeda1209/VRChatGPT"
   },
   {
     "c": "Tutorial",
@@ -3539,28 +3521,6 @@
   },
   {
     "c": "ChatGPT",
-    "d": "This is a sample of ChatGPT's prompt.",
-    "d_ja": "ChatGPT の Prompt のサンプルです。",
-    "id": "gh:dahatake/chatgpt-prompt-sample-japanese",
-    "lc": "2026-10",
-    "n": "chatgpt-prompt-sample-japanese",
-    "ns": 6.88,
-    "s": [
-      "Natural Language Interfaces",
-      "Dialogue Response Generation",
-      "Dialogue Systems & Conversational Agents",
-      "Text Generation",
-      "Language Models",
-      "Semantic Text Processing",
-      "Low-Resource NLP"
-    ],
-    "sc": -0.318,
-    "st": 438,
-    "status": "ok",
-    "u": "https://github.com/dahatake/chatgpt-prompt-sample-japanese"
-  },
-  {
-    "c": "ChatGPT",
     "d": "Sample prompts for various generative AIs such as ChatGPT and Copilot in Japanese.",
     "d_ja": "ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル",
     "id": "gh:dahatake/generativeai-prompt-sample-japanese",
@@ -3703,21 +3663,21 @@
     "c": "Python library",
     "d": "Evaluating LLMs on the 119th Japanese Medical Licensing Examination",
     "d_ja": "第119回日本医師免許試験におけるLLMの評価",
-    "id": "gh:docto-rin/igakuqa119",
+    "id": "gh:naoto-iwase/igakuqa119",
     "lc": "2026-09",
-    "n": "igakuqa119",
+    "n": "IgakuQA119",
     "ns": 2.71,
     "s": [],
     "sc": 0.0,
     "st": 10,
     "status": "ok",
-    "u": "https://github.com/docto-rin/igakuqa119"
+    "u": "https://github.com/naoto-iwase/IgakuQA119"
   },
   {
     "c": "Python library",
     "d": "A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa",
     "d_ja": "新字体（Shinjitai）から旧字体（Kyujitai）へ、またはその逆に日本語テキストを変換するためのPythonライブラリ",
-    "id": "gh:drturnon/kyujipy",
+    "id": "gh:cjkvsoft/kyujipy",
     "lc": "2026-01",
     "n": "kyujipy",
     "ns": 3.55,
@@ -3727,13 +3687,13 @@
     "sc": 0.0,
     "st": 22,
     "status": "ok",
-    "u": "https://github.com/drturnon/kyujipy"
+    "u": "https://github.com/cjkvsoft/kyujipy"
   },
   {
     "c": "Python library",
     "d": "OCR system for recognizing modern Japanese magazines",
     "d_ja": "現代日本の雑誌を認識するOCRシステム",
-    "id": "gh:ducanh841988/kindai-ocr",
+    "id": "gh:deepapps91/kindai-ocr",
     "lc": "2026-07",
     "n": "Kindai-OCR",
     "ns": 5.7,
@@ -3746,7 +3706,7 @@
     "sc": -0.318,
     "st": 153,
     "status": "ok",
-    "u": "https://github.com/ducanh841988/Kindai-OCR"
+    "u": "https://github.com/DeepApps91/Kindai-OCR"
   },
   {
     "c": "Python library",
@@ -6051,7 +6011,7 @@
     "c": "Python library",
     "d": "JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models",
     "d_ja": "JaSPICE：画像キャプショニングモデルの述語引数構造を使用した自動評価メトリック",
-    "id": "gh:keio-smilab23/jaspice",
+    "id": "gh:yuigawada/jaspice",
     "lc": "2026-06",
     "n": "JaSPICE",
     "ns": 2.6,
@@ -6066,7 +6026,7 @@
     "sc": -0.293,
     "st": 9,
     "status": "ok",
-    "u": "https://github.com/keio-smilab23/JaSPICE"
+    "u": "https://github.com/YuigaWada/JaSPICE"
   },
   {
     "c": "Python library",
@@ -6143,15 +6103,15 @@
     "c": "Python library",
     "d": "Utilizing the powerful memory function of hermes-agent and the external memory vecmemori, skills.md for planning/plotting/writing novels that can withstand long texts in Japanese search.",
     "d_ja": "メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md",
-    "id": "gh:kgmkm/novel2hermes_jp",
+    "id": "gh:kgmkm/novel2agent-jp",
     "lc": "2026-09",
-    "n": "novel2hermes_jp",
+    "n": "novel2agent-jp",
     "ns": 5.3,
     "s": [],
     "sc": 0.0,
     "st": 107,
     "status": "ok",
-    "u": "https://github.com/kgmkm/novel2hermes_jp"
+    "u": "https://github.com/kgmkm/novel2agent-jp"
   },
   {
     "al": [
@@ -6264,23 +6224,6 @@
     "u": "https://github.com/kiyoka/sekka"
   },
   {
-    "c": "Dictionary and IME",
-    "d": "Japanese input method powered by ChatGPT API",
-    "d_ja": "ChatGPT APIによって強化された日本語入力方法",
-    "id": "gh:kiyoka/sumibi",
-    "lc": "2026-10",
-    "n": "sumibi",
-    "ns": 4.77,
-    "s": [
-      "Dialogue Systems & Conversational Agents",
-      "Language Models"
-    ],
-    "sc": -0.315,
-    "st": 67,
-    "status": "ok",
-    "u": "https://github.com/kiyoka/sumibi"
-  },
-  {
     "c": "Corpus",
     "d": "Japanese emotion corpus Tokushima Univ. A-2 Lab.",
     "d_ja": "日本の感情コーパス 徳島大学 A-2 研究室",
@@ -6300,9 +6243,9 @@
     "c": "ChatGPT",
     "d": "A Chrome extention to replace the selected text softly",
     "d_ja": "選択したテキストをやさしく置き換えるためのChrome拡張機能",
-    "id": "gh:kmizu/sftly-replace",
+    "id": "gh:kmizu/softly-replace",
     "lc": "2023-05",
-    "n": "sftly-replace",
+    "n": "softly-replace",
     "ns": 1.82,
     "s": [
       "Paraphrasing",
@@ -6312,7 +6255,7 @@
     "sc": -0.304,
     "st": 4,
     "status": "ok",
-    "u": "https://github.com/kmizu/sftly-replace"
+    "u": "https://github.com/kmizu/softly-replace"
   },
   {
     "c": "Python library",
@@ -7268,7 +7211,7 @@
     "c": "Rust crate",
     "d": "Finding all pairs of similar documents time- and memory-efficiently",
     "d_ja": "効率的な時間とメモリを使って、類似したドキュメントのすべてのペアを見つける。",
-    "id": "gh:legalforce-research/find-simdoc",
+    "id": "gh:daac-tools/find-simdoc",
     "lc": "2025-03",
     "n": "find-simdoc",
     "ns": 4.69,
@@ -7280,7 +7223,7 @@
     "sc": -0.313,
     "st": 62,
     "status": "ok",
-    "u": "https://github.com/legalforce-research/find-simdoc"
+    "u": "https://github.com/daac-tools/find-simdoc"
   },
   {
     "c": "Rust crate",
@@ -7362,15 +7305,15 @@
     "c": "Tutorial",
     "d": "Impress Corporation \"IT Fundamentals: Natural Language Processing & Image Analysis\"",
     "d_ja": "インプレス出版「IT基礎教養 自然言語処理＆画像解析」",
-    "id": "gh:liber-craft-co-ltd/book_impress_it-basic-education-ai",
+    "id": "gh:liber-craft-co-ltd/book-impress-it-basic-education-ai",
     "lc": "2025-06",
-    "n": "book_impress_it-basic-education-ai",
+    "n": "book-impress-it-basic-education-ai",
     "ns": 1.82,
     "s": [],
     "sc": 0.0,
     "st": 4,
     "status": "ok",
-    "u": "https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai"
+    "u": "https://github.com/liber-craft-co-ltd/book-impress-it-basic-education-ai"
   },
   {
     "c": "Python library",
@@ -7455,7 +7398,7 @@
     "c": "Rust crate",
     "d": "A morphological analysis library.",
     "d_ja": "形態素解析ライブラリ。",
-    "id": "gh:lindera-morphology/lindera",
+    "id": "gh:lindera/lindera",
     "lc": "2026-10",
     "n": "lindera",
     "ns": 7.4,
@@ -7468,13 +7411,13 @@
     "sc": -0.318,
     "st": 695,
     "status": "ok",
-    "u": "https://github.com/lindera-morphology/lindera"
+    "u": "https://github.com/lindera/lindera"
   },
   {
     "c": "Rust crate",
     "d": "Lindera tokenizer for Tantivy.",
     "d_ja": "Tantivy用のLinderaトークナイザー。",
-    "id": "gh:lindera-morphology/lindera-tantivy",
+    "id": "gh:lindera/lindera-tantivy",
     "lc": "2026-08",
     "n": "lindera-tantivy",
     "ns": 4.82,
@@ -7488,7 +7431,7 @@
     "sc": -0.318,
     "st": 70,
     "status": "ok",
-    "u": "https://github.com/lindera-morphology/lindera-tantivy"
+    "u": "https://github.com/lindera/lindera-tantivy"
   },
   {
     "c": "Rust crate",
@@ -7903,9 +7846,9 @@
     "c": "Corpus",
     "d": "List of frequently used words in Japanese Wikipedia.",
     "d_ja": "日本語Wikipediaで使用される頻出単語のリスト",
-    "id": "gh:maeda6uiui-backup/wikipediawordfrequencylist",
+    "id": "gh:maeda6uiui/wikipediawordfrequencylist2",
     "lc": "2022-04",
-    "n": "WikipediaWordFrequencyList",
+    "n": "WikipediaWordFrequencyList2",
     "ns": 1.24,
     "s": [
       "Annotation and Dataset Development"
@@ -7913,7 +7856,7 @@
     "sc": -0.318,
     "st": 2,
     "status": "ok",
-    "u": "https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList"
+    "u": "https://github.com/maeda6uiui/WikipediaWordFrequencyList2"
   },
   {
     "c": "Tutorial",
@@ -8357,7 +8300,7 @@
     "c": "Rust crate",
     "d": "Automated manga translation tool with LLM, written in Rust.",
     "d_ja": "Rustで書かれたLLMを使用した自動漫画翻訳ツール。",
-    "id": "gh:mayocream/koharu",
+    "id": "gh:koharu-rs/koharu",
     "lc": "2026-10",
     "n": "koharu",
     "ns": 9.91,
@@ -8370,7 +8313,7 @@
     "sc": 0.06,
     "st": 6400,
     "status": "ok",
-    "u": "https://github.com/mayocream/koharu"
+    "u": "https://github.com/koharu-rs/koharu"
   },
   {
     "c": "Rust crate",
@@ -8912,9 +8855,9 @@
     "c": "Python library",
     "d": "A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.",
     "d_ja": "Pythonベースの日本語トークナイザー、辞書、形態素解析ツール、ローマ字変換ツール。言語学習用のJMDictに基づいています。",
-    "id": "gh:msr2903/himotoki",
+    "id": "gh:moikdev/himotoki-py",
     "lc": "2026-10",
-    "n": "himotoki",
+    "n": "himotoki-py",
     "ns": 2.49,
     "pt": 7000,
     "pw": 153,
@@ -8922,7 +8865,7 @@
     "sc": 0.0,
     "st": 8,
     "status": "ok",
-    "u": "https://github.com/msr2903/himotoki"
+    "u": "https://github.com/moikdev/himotoki-py"
   },
   {
     "c": "Dictionary and IME",
@@ -9855,26 +9798,6 @@
   },
   {
     "c": "Python library",
-    "d": "Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
-    "d_ja": "JGLUEのトレーニングと評価スクリプト、日本語理解ベンチマーク用",
-    "id": "gh:nobu-g/jglue-benchmark",
-    "lc": "2026-10",
-    "n": "JGLUE-benchmark",
-    "ns": 3.33,
-    "s": [
-      "Responsible & Trustworthy NLP",
-      "Language Models",
-      "Semantic Text Processing",
-      "Low-Resource NLP",
-      "Explainability & Interpretability in NLP"
-    ],
-    "sc": -0.318,
-    "st": 18,
-    "status": "ok",
-    "u": "https://github.com/nobu-g/JGLUE-benchmark"
-  },
-  {
-    "c": "Python library",
     "d": "About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
     "d_ja": "JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して\nJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。",
     "id": "gh:nobu-g/jglue-evaluation-scripts",
@@ -10163,7 +10086,7 @@
     "c": "Python library",
     "d": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's corporate number (法人番号) system.",
     "d_ja": "日本国税庁の法人番号システムで定義されたスキームに基づく、高速な文字変換および転写ライブラリ。",
-    "id": "gh:opencollector/jntajis-python",
+    "id": "gh:kenall-inc/jntajis-python",
     "lc": "2026-03",
     "n": "jntajis-python",
     "ns": 3.5,
@@ -10175,7 +10098,7 @@
     "sc": -0.259,
     "st": 21,
     "status": "ok",
-    "u": "https://github.com/opencollector/jntajis-python"
+    "u": "https://github.com/kenall-inc/jntajis-python"
   },
   {
     "c": "Python library",
@@ -10248,7 +10171,7 @@
     "c": "JavaScript",
     "d": "A library that searches for the most similar word from a group of words in Japanese (including kanji)",
     "d_ja": "最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ",
-    "id": "gh:otoneko1102/closewords",
+    "id": "gh:otnc/closewords",
     "lc": "2026-05",
     "n": "closewords",
     "ns": 2.03,
@@ -10256,7 +10179,7 @@
     "sc": 0.0,
     "st": 5,
     "status": "ok",
-    "u": "https://github.com/otoneko1102/closewords"
+    "u": "https://github.com/otnc/closewords"
   },
   {
     "c": "Pretrained model",
@@ -10669,7 +10592,7 @@
     "c": "Tutorial",
     "d": "Fine-Tuning Google Gemma for Japanese Instructions",
     "d_ja": "Google Gemmaの日本語の説明のためのファインチューニング",
-    "id": "gh:qianniu95/gemma2_2b_finetune_jp_tutorial",
+    "id": "gh:qianniu0304/gemma2_2b_finetune_jp_tutorial",
     "lc": "2024-08",
     "n": "Gemma2_2b_Japanese_finetuning_colab.ipynb",
     "ns": 2.99,
@@ -10681,7 +10604,7 @@
     "sc": -0.281,
     "st": 13,
     "status": "ok",
-    "u": "https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb"
+    "u": "https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb"
   },
   {
     "c": "Python library",
@@ -11670,22 +11593,6 @@
     "u": "https://github.com/shinespark/dvorakjp-roman-table"
   },
   {
-    "c": "Rust crate",
-    "d": "DvorakJP Roman Table for Google Japanese Input",
-    "d_ja": "Google日本語入力用のDvorakJPローマ字テーブル",
-    "id": "gh:shinespark/dvorakjp-romantable",
-    "lc": "2026-10",
-    "n": "dvorakjp-romantable",
-    "ns": 4.61,
-    "s": [
-      "Vocabulary, Dictionary, and Language Input Method"
-    ],
-    "sc": -0.165,
-    "st": 58,
-    "status": "ok",
-    "u": "https://github.com/shinespark/dvorakjp-romantable"
-  },
-  {
     "c": "JavaScript",
     "d": "Predict pitch accent in Japanese",
     "d_ja": "日本語のアクセントを予測する",
@@ -11831,7 +11738,7 @@
     "c": "Corpus",
     "d": "CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) for huggingface datasets",
     "d_ja": "huggingfaceデータセットのためのCAMERA（CyberAgent Multimodal Evaluation for Ad Text GeneRAtion）",
-    "id": "gh:shunk031/huggingface-datasets_camera",
+    "id": "gh:creative-graphic-design/huggingface-datasets_camera",
     "lc": "2023-03",
     "n": "huggingface-datasets_CAMERA",
     "ns": 1.57,
@@ -11843,7 +11750,7 @@
     "sc": -0.318,
     "st": 3,
     "status": "ok",
-    "u": "https://github.com/shunk031/huggingface-datasets_CAMERA"
+    "u": "https://github.com/creative-graphic-design/huggingface-datasets_CAMERA"
   },
   {
     "c": "Corpus",
@@ -12235,28 +12142,11 @@
   },
   {
     "c": "Dictionary and IME",
-    "d": "A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients",
-    "d_ja": "複数の辞書クライアントと互換性のある、無料でオープンライセンスの日本語-英語辞書",
-    "id": "gh:stephenmk/jitendex",
-    "lc": "2026-08",
-    "n": "Jitendex",
-    "ns": 7.13,
-    "s": [
-      "Multilinguality",
-      "Vocabulary, Dictionary, and Language Input Method"
-    ],
-    "sc": 0.606,
-    "st": 546,
-    "status": "ok",
-    "u": "https://github.com/stephenmk/Jitendex"
-  },
-  {
-    "c": "Dictionary and IME",
     "d": "JLPT level tags for words in Yomichan",
     "d_ja": "Yomichanの単語に対するJLPTレベルのタグ",
-    "id": "gh:stephenmk/yomichan-jlpt-vocab",
+    "id": "gh:stephenmk/yomitan-jlpt-vocab",
     "lc": "2025-08",
-    "n": "yomichan-jlpt-vocab",
+    "n": "yomitan-jlpt-vocab",
     "ns": 5.61,
     "s": [
       "Multilinguality",
@@ -12267,7 +12157,7 @@
     "sc": -0.318,
     "st": 141,
     "status": "ok",
-    "u": "https://github.com/stephenmk/yomichan-jlpt-vocab"
+    "u": "https://github.com/stephenmk/yomitan-jlpt-vocab"
   },
   {
     "c": "Tutorial",
@@ -13033,7 +12923,7 @@
     "c": "Python library",
     "d": "A framework for few-shot evaluation of autoregressive language models.",
     "d_ja": "自己回帰言語モデルの少数ショット評価のためのフレームワーク。",
-    "id": "gh:tdc-yamada-ya/lm-evaluation-harness-jp-stable",
+    "id": "gh:tdcyamadaya/lm-evaluation-harness-jp-stable",
     "lc": "2023-06",
     "n": "lm-evaluation-harness-jp-stable",
     "ns": 0.78,
@@ -13046,7 +12936,7 @@
     "sc": -0.318,
     "st": 1,
     "status": "ok",
-    "u": "https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable"
+    "u": "https://github.com/tdcyamadaya/lm-evaluation-harness-jp-stable"
   },
   {
     "c": "Python library",
@@ -13170,7 +13060,7 @@
     "c": "Dictionary and IME",
     "d": "JMdict, JMnedict, KANJIDIC for Yomitan/Yomichan.",
     "d_ja": "Yomitan/YomichanのためのJMdict、JMnedict、KANJIDIC。",
-    "id": "gh:themoeway/jmdict-yomitan",
+    "id": "gh:yomidevs/jmdict-yomitan",
     "lc": "2026-05",
     "n": "jmdict-yomitan",
     "ns": 6.53,
@@ -13182,7 +13072,7 @@
     "sc": -0.318,
     "st": 321,
     "status": "ok",
-    "u": "https://github.com/themoeway/jmdict-yomitan"
+    "u": "https://github.com/yomidevs/jmdict-yomitan"
   },
   {
     "c": "Dictionary and IME",
@@ -13339,23 +13229,6 @@
     "st": 2,
     "status": "ok",
     "u": "https://github.com/togiso/openchj-genji"
-  },
-  {
-    "c": "Python library",
-    "d": "Yet another Japanese IME for IBus/Linux",
-    "d_ja": "IBus/Linux用のもう一つの日本語IME",
-    "id": "gh:tokuhirom/akaza",
-    "lc": "2026-06",
-    "n": "akaza",
-    "ns": 6.32,
-    "s": [
-      "Syntactic Text Processing",
-      "Vocabulary, Dictionary, and Language Input Method"
-    ],
-    "sc": -0.318,
-    "st": 265,
-    "status": "ok",
-    "u": "https://github.com/tokuhirom/akaza"
   },
   {
     "c": "Dictionary and IME",
@@ -13868,20 +13741,6 @@
     "st": 66,
     "status": "ok",
     "u": "https://github.com/upura/nlp-recipes-ja"
-  },
-  {
-    "c": "Tutorial",
-    "d": "Solving \"Language Processing 100 Knock 2020\" with Python",
-    "d_ja": "「言語処理100本ノック 2020」をPythonで解く",
-    "id": "gh:upura/nlp100v2020",
-    "lc": "2025-04",
-    "n": "nlp100v2020",
-    "ns": 5.13,
-    "s": [],
-    "sc": -0.105,
-    "st": 92,
-    "status": "ok",
-    "u": "https://github.com/upura/nlp100v2020"
   },
   {
     "c": "Tutorial",
@@ -15475,15 +15334,15 @@
     "c": "JavaScript",
     "d": "grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる",
     "d_ja": "grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。",
-    "id": "gh:uehaj/jev-semgrep",
+    "id": "gh:uehaj/sys1grep",
     "lc": "2026-10",
-    "n": "jev-semgrep",
+    "n": "sys1grep",
     "ns": 5.68,
     "s": [],
     "sc": 0.0,
     "st": 150,
     "status": "ok",
-    "u": "https://github.com/uehaj/jev-semgrep"
+    "u": "https://github.com/uehaj/sys1grep"
   },
   {
     "c": "Python library",

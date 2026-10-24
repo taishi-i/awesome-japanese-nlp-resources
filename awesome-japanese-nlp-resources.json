@@ -446,10 +446,10 @@
                     "zh-hant": "將日文轉換為音素序列的腳本"
                 }
             },
-            "https://github.com/opencollector/jntajis-python": {
+            "https://github.com/kenall-inc/jntajis-python": {
                 "sub_category": "Converter",
                 "repository_name": "jntajis-python",
-                "user_name": "opencollector",
+                "user_name": "kenall-inc",
                 "description": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's",
                 "multilingual_descriptions": {
                     "en": "A fast character conversion and transliteration library based on the scheme defined for Japan National Tax Agency (国税庁) 's corporate number (法人番号) system.",
@@ -1094,10 +1094,10 @@
                     "zh-hant": "漫畫翻譯器 - 從網址獲取日本漫畫以翻譯漫畫圖像"
                 }
             },
-            "https://github.com/ducanh841988/Kindai-OCR": {
+            "https://github.com/DeepApps91/Kindai-OCR": {
                 "sub_category": "OCR",
                 "repository_name": "Kindai-OCR",
-                "user_name": "ducanh841988",
+                "user_name": "DeepApps91",
                 "description": "OCR system for recognizing modern Japanese magazines",
                 "multilingual_descriptions": {
                     "en": "OCR system for recognizing modern Japanese magazines",
@@ -1394,16 +1394,16 @@
                     "zh-hant": "一個針對nagisa的BERT模型"
                 }
             },
-            "https://github.com/nobu-g/JGLUE-benchmark": {
+            "https://github.com/nobu-g/jglue-evaluation-scripts": {
                 "sub_category": "Tool for pretrained models",
-                "repository_name": "JGLUE-benchmark",
+                "repository_name": "jglue-evaluation-scripts",
                 "user_name": "nobu-g",
                 "description": "Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
                 "multilingual_descriptions": {
-                    "en": "Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
-                    "ja": "JGLUEのトレーニングと評価スクリプト、日本語理解ベンチマーク用",
-                    "zh-hans": "JGLUE的训练和评估脚本，是一个日语理解基准测试。",
-                    "zh-hant": "JGLUE的訓練和評估腳本，這是一個日語理解基準測試。"
+                    "en": "About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
+                    "ja": "JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して\nJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。",
+                    "zh-hans": "关于JGLUE的培训和评估脚本，这是一个日语理解基准测试。",
+                    "zh-hant": "關於JGLUE的培訓和評估腳本，這是一個日語理解基準的項目。"
                 }
             },
             "https://github.com/retarfi/jptranstokenizer": {
@@ -1442,10 +1442,10 @@
                     "zh-hant": "不同的分詞器在連續書寫語言的下游任務中表現如何？：以日語為例的案例研究 - ACL SRW 2023"
                 }
             },
-            "https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable": {
+            "https://github.com/tdcyamadaya/lm-evaluation-harness-jp-stable": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "lm-evaluation-harness-jp-stable",
-                "user_name": "tdc-yamada-ya",
+                "user_name": "tdcyamadaya",
                 "description": "A framework for few-shot evaluation of autoregressive language models.",
                 "multilingual_descriptions": {
                     "en": "A framework for few-shot evaluation of autoregressive language models.",
@@ -2318,10 +2318,10 @@
                     "zh-hant": "Python中的Ngram語言模型。 (N-gram語言模型)"
                 }
             },
-            "https://github.com/JeanMaximilienCadic/ASRDeepSpeech": {
+            "https://github.com/zakuro-ai/asr": {
                 "sub_category": null,
-                "repository_name": "ASRDeepSpeech",
-                "user_name": "JeanMaximilienCadic",
+                "repository_name": "asr",
+                "user_name": "zakuro-ai",
                 "description": "Automatic Speech Recognition with deepspeech2 model in pytorch with support from Zakuro AI.",
                 "multilingual_descriptions": {
                     "en": "Automatic Speech Recognition with deepspeech2 model in pytorch with support from Zakuro AI.",
@@ -2606,18 +2606,6 @@
                     "zh-hant": "部首文字正規化程式庫"
                 }
             },
-            "https://github.com/tokuhirom/akaza": {
-                "sub_category": null,
-                "repository_name": "akaza",
-                "user_name": "tokuhirom",
-                "description": "Yet another Japanese IME for IBus/Linux",
-                "multilingual_descriptions": {
-                    "en": "Yet another Japanese IME for IBus/Linux",
-                    "ja": "IBus/Linux用のもう一つの日本語IME",
-                    "zh-hans": "又一个适用于IBus/Linux的日语输入法",
-                    "zh-hant": "又一個針對IBus/Linux的日文輸入法"
-                }
-            },
             "https://github.com/polm/posuto": {
                 "sub_category": null,
                 "repository_name": "posuto",
@@ -2750,10 +2738,10 @@
                     "zh-hant": "這是一個使用在ぷるーふおぶこんせぷと上公開的機器翻譯引擎的翻譯環境。可以翻譯輸入在表格中的文字，以及 PDF 文件的翻譯。"
                 }
             },
-            "https://github.com/keio-smilab23/JaSPICE": {
+            "https://github.com/YuigaWada/JaSPICE": {
                 "sub_category": null,
                 "repository_name": "JaSPICE",
-                "user_name": "keio-smilab23",
+                "user_name": "YuigaWada",
                 "description": "JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models",
                 "multilingual_descriptions": {
                     "en": "JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models",
@@ -2930,18 +2918,6 @@
                     "zh-hant": "LLaVA-JP 是一個由 LLaVA 方法訓練的日本 VLM。"
                 }
             },
-            "https://github.com/AkimParis/RAG-Japanese": {
-                "sub_category": null,
-                "repository_name": "RAG-Japanese",
-                "user_name": "AkimParis",
-                "description": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
-                "multilingual_descriptions": {
-                    "en": "Open source RAG with Llama Index for Japanese LLM in low resource settting",
-                    "ja": "日本の低資源設定での日本語LLM用のオープンソースRAGとLlama Index",
-                    "zh-hans": "用于日本低资源环境中的开源RAG和Llama指数的LLM",
-                    "zh-hant": "用於低資源環境下的日本LLM的開源RAG與Llama指數"
-                }
-            },
             "https://github.com/er-ri/bertjsc": {
                 "sub_category": null,
                 "repository_name": "bertjsc",
@@ -2964,18 +2940,6 @@
                     "ja": "日本のタスクのLLM評価プロジェクト",
                     "zh-hans": "日本任务的llm评估项目",
                     "zh-hant": "日本任務的llm評估項目"
-                }
-            },
-            "https://github.com/nobu-g/jglue-evaluation-scripts": {
-                "sub_category": null,
-                "repository_name": "jglue-evaluation-scripts",
-                "user_name": "nobu-g",
-                "description": "Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
-                "multilingual_descriptions": {
-                    "en": "About Training and evaluation scripts for JGLUE, a Japanese language understanding benchmark",
-                    "ja": "JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関して\nJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。",
-                    "zh-hans": "关于JGLUE的培训和评估脚本，这是一个日语理解基准测试。",
-                    "zh-hant": "關於JGLUE的培訓和評估腳本，這是一個日語理解基準的項目。"
                 }
             },
             "https://github.com/ZhaoPeiduo/BLIP2-Japanese": {
@@ -3674,10 +3638,10 @@
                     "zh-hant": "使用BERT进行日语句子摘要"
                 }
             },
-            "https://github.com/drturnon/kyujipy": {
+            "https://github.com/cjkvsoft/kyujipy": {
                 "sub_category": null,
                 "repository_name": "kyujipy",
-                "user_name": "drturnon",
+                "user_name": "cjkvsoft",
                 "description": "A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa",
                 "multilingual_descriptions": {
                     "en": "A Python library to convert Japanese texts from Shinjitai (新字体) to Kyujitai (舊字體) and vice versa",
@@ -3782,10 +3746,10 @@
                     "zh-hant": "yat：另一個用於日本自然語言處理的分詞器"
                 }
             },
-            "https://github.com/docto-rin/igakuqa119": {
+            "https://github.com/naoto-iwase/IgakuQA119": {
                 "sub_category": null,
-                "repository_name": "igakuqa119",
-                "user_name": "docto-rin",
+                "repository_name": "IgakuQA119",
+                "user_name": "naoto-iwase",
                 "description": "Evaluating LLMs on the 119th Japanese Medical Licensing Examination",
                 "multilingual_descriptions": {
                     "en": "Evaluating LLMs on the 119th Japanese Medical Licensing Examination",
@@ -3818,9 +3782,9 @@
                     "zh-hant": "ibus-jig：使用GPT-4的日語輸入法"
                 }
             },
-            "https://github.com/BrambleXu/jp-stopword-filter": {
+            "https://github.com/BrambleXu/ja-stopword-filter": {
                 "sub_category": null,
-                "repository_name": "jp-stopword-filter",
+                "repository_name": "ja-stopword-filter",
                 "user_name": "BrambleXu",
                 "description": "A lightweight Python library designed to filter stopwords from Japanese text based on customizable rules.",
                 "multilingual_descriptions": {
@@ -3842,10 +3806,10 @@
                     "zh-hant": "用於機器學習訓練數據的合成日本商務電子郵件生成器"
                 }
             },
-            "https://github.com/msr2903/himotoki": {
+            "https://github.com/moikdev/himotoki-py": {
                 "sub_category": null,
-                "repository_name": "himotoki",
-                "user_name": "msr2903",
+                "repository_name": "himotoki-py",
+                "user_name": "moikdev",
                 "description": "A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.",
                 "multilingual_descriptions": {
                     "en": "A Python-based Japanese Tokenizer, Dictionary, Morphological Analyzer and Romanization Tool. Based on JMDict for Language Learning.",
@@ -3998,9 +3962,9 @@
                     "zh-hant": "錨定的成對LLM評估用於雙向日英翻譯"
                 }
             },
-            "https://github.com/kgmkm/novel2hermes_jp": {
+            "https://github.com/kgmkm/novel2agent-jp": {
                 "sub_category": null,
-                "repository_name": "novel2hermes_jp",
+                "repository_name": "novel2agent-jp",
                 "user_name": "kgmkm",
                 "description": "メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md",
                 "multilingual_descriptions": {
@@ -4350,10 +4314,10 @@
             }
         },
         "Rust crate": {
-            "https://github.com/lindera-morphology/lindera": {
+            "https://github.com/lindera/lindera": {
                 "sub_category": "Morphology analysis",
                 "repository_name": "lindera",
-                "user_name": "lindera-morphology",
+                "user_name": "lindera",
                 "description": "A morphological analysis library.",
                 "multilingual_descriptions": {
                     "en": "A morphological analysis library.",
@@ -4578,10 +4542,10 @@
                     "zh-hant": "日本語文本正規化程式庫（Rust核心+Python）。neologdn兼容、用途特定預設、URL保護、自定義詞典/快速、可配置的日文文本正規化"
                 }
             },
-            "https://github.com/lindera-morphology/lindera-tantivy": {
+            "https://github.com/lindera/lindera-tantivy": {
                 "sub_category": "Search engine library",
                 "repository_name": "lindera-tantivy",
-                "user_name": "lindera-morphology",
+                "user_name": "lindera",
                 "description": "Lindera tokenizer for Tantivy.",
                 "multilingual_descriptions": {
                     "en": "Lindera tokenizer for Tantivy.",
@@ -4650,10 +4614,10 @@
                     "zh-hant": "一個在 Rust 中使用緊湊的雙陣列資料結構實現 Aho-Corasick 算法的快速實現。"
                 }
             },
-            "https://github.com/legalforce-research/find-simdoc": {
+            "https://github.com/daac-tools/find-simdoc": {
                 "sub_category": null,
                 "repository_name": "find-simdoc",
-                "user_name": "legalforce-research",
+                "user_name": "daac-tools",
                 "description": "Finding all pairs of similar documents time- and memory-efficiently",
                 "multilingual_descriptions": {
                     "en": "Finding all pairs of similar documents time- and memory-efficiently",
@@ -4746,18 +4710,6 @@
                     "zh-hant": "一個免費的在線自主托管的多語言日語詞典。"
                 }
             },
-            "https://github.com/shinespark/dvorakjp-romantable": {
-                "sub_category": null,
-                "repository_name": "dvorakjp-romantable",
-                "user_name": "shinespark",
-                "description": "Google 日本語入力用DvorakJPローマ字テーブル / DvorakJP Roman Table for Google Japanese Input",
-                "multilingual_descriptions": {
-                    "en": "DvorakJP Roman Table for Google Japanese Input",
-                    "ja": "Google日本語入力用のDvorakJPローマ字テーブル",
-                    "zh-hans": "谷歌日语输入用DvorakJP罗马字表 / DvorakJP罗马字表适用于谷歌日语输入",
-                    "zh-hant": "Google 日本語輸入用 DvorakJP 羅馬字表 / DvorakJP Roman Table for Google Japanese Input"
-                }
-            },
             "https://github.com/Netdex/niinii": {
                 "sub_category": null,
                 "repository_name": "niinii",
@@ -4842,10 +4794,10 @@
                     "zh-hant": "從英文單字推測讀音的程式庫。"
                 }
             },
-            "https://github.com/mayocream/koharu": {
+            "https://github.com/koharu-rs/koharu": {
                 "sub_category": null,
                 "repository_name": "koharu",
-                "user_name": "mayocream",
+                "user_name": "koharu-rs",
                 "description": "Automated manga translation tool with LLM, written in Rust.",
                 "multilingual_descriptions": {
                     "en": "Automated manga translation tool with LLM, written in Rust.",
@@ -5372,10 +5324,10 @@
                     "zh-hant": "根據神谷多恵子的《日本動詞手冊》和《日本形容詞和副詞手冊》，開發一個日語動詞變化器和去變化器。"
                 }
             },
-            "https://github.com/otoneko1102/closewords": {
+            "https://github.com/otnc/closewords": {
                 "sub_category": null,
                 "repository_name": "closewords",
-                "user_name": "otoneko1102",
+                "user_name": "otnc",
                 "description": "最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ",
                 "multilingual_descriptions": {
                     "en": "A library that searches for the most similar word from a group of words in Japanese (including kanji)",
@@ -5492,9 +5444,9 @@
                     "zh-hant": "PII-JA NER 瀏覽器演示"
                 }
             },
-            "https://github.com/uehaj/jev-semgrep": {
+            "https://github.com/uehaj/sys1grep": {
                 "sub_category": null,
-                "repository_name": "jev-semgrep",
+                "repository_name": "sys1grep",
                 "user_name": "uehaj",
                 "description": "grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる",
                 "multilingual_descriptions": {
@@ -6074,10 +6026,10 @@
                     "zh-hant": "用於 Hugging Face Model Hub 的句子 BERT 日語模型訓練代碼"
                 }
             },
-            "https://github.com/PatrickJohnRamos/BERT-Japan-vaccination": {
+            "https://github.com/Ramos-Ramos/BERT-Japan-vaccination": {
                 "sub_category": "Transformer based models",
                 "repository_name": "BERT-Japan-vaccination",
-                "user_name": "PatrickJohnRamos",
+                "user_name": "Ramos-Ramos",
                 "description": "Official fine-tuning code for \"Emotion Analysis of Japanese Tweets and Comparison to Vaccinations in Japan\"",
                 "multilingual_descriptions": {
                     "en": "Official fine-tuning code for \"Emotion Analysis of Japanese Tweets and Comparison to Vaccinations in Japan\"",
@@ -6292,10 +6244,10 @@
             }
         },
         "ChatGPT": {
-            "https://github.com/Yuchi-Games/VRChatGPT": {
+            "https://github.com/YutoMaeda1209/VRChatGPT": {
                 "sub_category": null,
                 "repository_name": "VRChatGPT",
-                "user_name": "Yuchi-Games",
+                "user_name": "YutoMaeda1209",
                 "description": "ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。",
                 "multilingual_descriptions": {
                     "en": "A program that allows you to chat using ChatGPT in VRChat.",
@@ -6436,9 +6388,9 @@
                     "zh-hant": "ChatVRM是一個可以在瀏覽器中輕鬆與3D角色對話的演示應用程式。"
                 }
             },
-            "https://github.com/kmizu/sftly-replace": {
+            "https://github.com/kmizu/softly-replace": {
                 "sub_category": null,
-                "repository_name": "sftly-replace",
+                "repository_name": "softly-replace",
                 "user_name": "kmizu",
                 "description": "A Chrome extention to replace the selected text softly",
                 "multilingual_descriptions": {
@@ -6506,18 +6458,6 @@
                     "ja": "OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)",
                     "zh-hans": "用于在Slack上使用OpenAI的ChatGPT API的Slackbot脚本（假设使用日语）",
                     "zh-hant": "用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）\n用於在Slack上使用OpenAI的ChatGPT API的Slackbot腳本（假設使用日語）"
-                }
-            },
-            "https://github.com/dahatake/chatgpt-prompt-sample-japanese": {
-                "sub_category": null,
-                "repository_name": "chatgpt-prompt-sample-japanese",
-                "user_name": "dahatake",
-                "description": "ChatGPT の Prompt のサンプルです。",
-                "multilingual_descriptions": {
-                    "en": "This is a sample of ChatGPT's prompt.",
-                    "ja": "ChatGPT の Prompt のサンプルです。",
-                    "zh-hans": "这是ChatGPT的提示示例。",
-                    "zh-hant": "這是ChatGPT的提示示例。\nChatGPT的提示示例。"
                 }
             },
             "https://github.com/adilmoujahid/kanji-flashcard-app-gpt4": {
@@ -6906,10 +6846,10 @@
                     "zh-hant": "這是關於Hololive（Hololive Production）的字典文件。您可以使用./dictionary文件夾中的文本文件將單詞添加到IME中。詳情請參閱README.md。"
                 }
             },
-            "https://github.com/themoeway/jmdict-yomitan": {
+            "https://github.com/yomidevs/jmdict-yomitan": {
                 "sub_category": null,
                 "repository_name": "jmdict-yomitan",
-                "user_name": "themoeway",
+                "user_name": "yomidevs",
                 "description": "JMdict, JMnedict, KANJIDIC for Yomitan/Yomichan.",
                 "multilingual_descriptions": {
                     "en": "JMdict, JMnedict, KANJIDIC for Yomitan/Yomichan.",
@@ -6918,9 +6858,9 @@
                     "zh-hant": "Yomitan/Yomichan的JMdict、JMnedict和KANJIDIC。"
                 }
             },
-            "https://github.com/stephenmk/yomichan-jlpt-vocab": {
+            "https://github.com/stephenmk/yomitan-jlpt-vocab": {
                 "sub_category": null,
-                "repository_name": "yomichan-jlpt-vocab",
+                "repository_name": "yomitan-jlpt-vocab",
                 "user_name": "stephenmk",
                 "description": "JLPT level tags for words in Yomichan",
                 "multilingual_descriptions": {
@@ -6928,18 +6868,6 @@
                     "ja": "Yomichanの単語に対するJLPTレベルのタグ",
                     "zh-hans": "Yomichan中单词的JLPT级别标签",
                     "zh-hant": "Yomichan中單詞的JLPT級別標籤"
-                }
-            },
-            "https://github.com/stephenmk/Jitendex": {
-                "sub_category": null,
-                "repository_name": "Jitendex",
-                "user_name": "stephenmk",
-                "description": "A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients",
-                "multilingual_descriptions": {
-                    "en": "A free and openly licensed Japanese-to-English dictionary compatible with multiple dictionary clients",
-                    "ja": "複数の辞書クライアントと互換性のある、無料でオープンライセンスの日本語-英語辞書",
-                    "zh-hans": "一个免费且开放许可的日英词典，可与多个词典客户端兼容。",
-                    "zh-hant": "一個免費且開放授權的日英詞典，可與多個詞典客戶端兼容。"
                 }
             },
             "https://github.com/obfusk/jiten": {
@@ -7110,10 +7038,10 @@
                     "zh-hant": "azooKey-Desktop 是一個開源的日文輸入法，適用於 macOS，使用 Swift 編寫，由 Zenzai 神經假名漢字轉換器提供支援。它提供即時轉換、可選的基於 LLM 的「魔法轉換」，以及 Tuner 支持的個性化功能，為流暢的桌面打字體驗提供支援。"
                 }
             },
-            "https://github.com/7ka-hiira/fcitx5-hazkey": {
+            "https://github.com/7ka-Hiira/hazkey": {
                 "sub_category": null,
-                "repository_name": "fcitx5-hazkey",
-                "user_name": "7ka-hiira",
+                "repository_name": "hazkey",
+                "user_name": "7ka-Hiira",
                 "description": "Japanese input method for fcitx5, powered by azooKey engine",
                 "multilingual_descriptions": {
                     "en": "Japanese input method for fcitx5, powered by azooKey engine",
@@ -7348,18 +7276,6 @@
                     "ja": "SKKに触発されたもう1つの日本語入力方式。",
                     "zh-hans": "受SKK启发的又一个日本输入法。",
                     "zh-hant": "受 SKK 啟發的另一種日本輸入法。"
-                }
-            },
-            "https://github.com/kiyoka/sumibi": {
-                "sub_category": null,
-                "repository_name": "sumibi",
-                "user_name": "kiyoka",
-                "description": "Japanese input method powered by ChatGPT API",
-                "multilingual_descriptions": {
-                    "en": "Japanese input method powered by ChatGPT API",
-                    "ja": "ChatGPT APIによって強化された日本語入力方法",
-                    "zh-hans": "由ChatGPT API提供支持的日语输入法",
-                    "zh-hant": "由ChatGPT API提供動力的日文輸入法"
                 }
             },
             "https://github.com/s1r-j/jinmei-dict": {
@@ -8432,10 +8348,10 @@
                     "zh-hant": "JTubeSpeech：從YouTube收集的日語語音語料庫"
                 }
             },
-            "https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList": {
+            "https://github.com/maeda6uiui/WikipediaWordFrequencyList2": {
                 "sub_category": null,
-                "repository_name": "WikipediaWordFrequencyList",
-                "user_name": "maeda6uiui-backup",
+                "repository_name": "WikipediaWordFrequencyList2",
+                "user_name": "maeda6uiui",
                 "description": "日本語Wikipediaで使用される頻出単語のリスト",
                 "multilingual_descriptions": {
                     "en": "List of frequently used words in Japanese Wikipedia.",
@@ -8876,10 +8792,10 @@
                     "zh-hant": "從なんとか資料庫(https://supleks.jp/)的網頁爬蟲工具和收集的資料。"
                 }
             },
-            "https://github.com/shunk031/huggingface-datasets_CAMERA": {
+            "https://github.com/creative-graphic-design/huggingface-datasets_CAMERA": {
                 "sub_category": null,
                 "repository_name": "huggingface-datasets_CAMERA",
-                "user_name": "shunk031",
+                "user_name": "creative-graphic-design",
                 "description": "CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) for huggingface datasets",
                 "multilingual_descriptions": {
                     "en": "CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) for huggingface datasets",
@@ -10546,7 +10462,7 @@
                     "zh-hant": "【2024年版】BERT進行文本分類"
                 }
             },
-            "https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb": {
+            "https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb": {
                 "sub_category": null,
                 "repository_name": "Gemma2_2b_Japanese_finetuning_colab.ipynb",
                 "user_name": "main",
@@ -10556,18 +10472,6 @@
                     "ja": "Google Gemmaの日本語の説明のためのファインチューニング",
                     "zh-hans": "对Google Gemma进行日语指令的微调",
                     "zh-hant": "將Google Gemma微調為日文指令"
-                }
-            },
-            "https://github.com/upura/nlp100v2020": {
-                "sub_category": null,
-                "repository_name": "nlp100v2020",
-                "user_name": "upura",
-                "description": "「言語処理100本ノック 2020」をPythonで解く",
-                "multilingual_descriptions": {
-                    "en": "Solving \"Language Processing 100 Knock 2020\" with Python",
-                    "ja": "「言語処理100本ノック 2020」をPythonで解く",
-                    "zh-hans": "用Python解决“自然语言处理100道题目2020”",
-                    "zh-hant": "用Python解决“自然语言处理100道题目2020”"
                 }
             },
             "https://github.com/paithiov909/textmining-ja": {
@@ -10630,9 +10534,9 @@
                     "zh-hant": "音學研討會2025教程「多模式大規模語言模型入門」資料"
                 }
             },
-            "https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai": {
+            "https://github.com/liber-craft-co-ltd/book-impress-it-basic-education-ai": {
                 "sub_category": null,
-                "repository_name": "book_impress_it-basic-education-ai",
+                "repository_name": "book-impress-it-basic-education-ai",
                 "user_name": "liber-craft-co-ltd",
                 "description": "インプレス出版「IT基礎教養 自然言語処理＆画像解析」",
                 "multilingual_descriptions": {
