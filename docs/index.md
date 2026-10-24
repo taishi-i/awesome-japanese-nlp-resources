@@ -7,7 +7,7 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [898件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [890件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
 - [454 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 156 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 
@@ -214,7 +214,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [mozcpy](https://github.com/ikegami-yukino/mozcpy) - Python用Mozc：かな漢字変換器
  * [jamorasep](https://github.com/tachi-hi/jamorasep) - ひらがな/カタカナの文字列をモーラ（音節）に分割する日本語テキストパーサー。
  * [text2phoneme](https://github.com/korguchi/text2phoneme) - 日本語文を音素列へ変換するスクリプト
- * [jntajis-python](https://github.com/opencollector/jntajis-python) - 日本国税庁の法人番号システムで定義されたスキームに基づく、高速な文字変換および転写ライブラリ。
+ * [jntajis-python](https://github.com/kenall-inc/jntajis-python) - 日本国税庁の法人番号システムで定義されたスキームに基づく、高速な文字変換および転写ライブラリ。
  * [wiredify](https://github.com/eggplants/wiredify) - 「ばびぶべぼ」から「ヴァヴィヴヴェヴォ」に変換してください。
  * [mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner) - MeCabを使用して、日本語の読み仮名とアクセントを取得するためのシンプルなPythonパッケージ（CLI/Python API）。
  * [pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp) - 数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装数量表現や時間表現の抽出・正規化を行うNormalizeNumexpのPython実装
@@ -236,7 +236,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[mozcpy](https://github.com/ikegami-yukino/mozcpy)|[![Downloads](https://static.pepy.tech/badge/mozcpy/week)](https://pepy.tech/project/mozcpy)|[![Downloads](https://static.pepy.tech/badge/mozcpy)](https://pepy.tech/project/mozcpy)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mozcpy?style=social)|
 |[jamorasep](https://github.com/tachi-hi/jamorasep)|[![Downloads](https://static.pepy.tech/badge/jamorasep/week)](https://pepy.tech/project/jamorasep)|[![Downloads](https://static.pepy.tech/badge/jamorasep)](https://pepy.tech/project/jamorasep)|![GitHub Repo stars](https://img.shields.io/github/stars/tachi-hi/jamorasep?style=social)|
 |[text2phoneme](https://github.com/korguchi/text2phoneme)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/korguchi/text2phoneme?style=social)|
-|[jntajis-python](https://github.com/opencollector/jntajis-python)|[![Downloads](https://static.pepy.tech/badge/jntajis-python/week)](https://pepy.tech/project/jntajis-python)|[![Downloads](https://static.pepy.tech/badge/jntajis-python)](https://pepy.tech/project/jntajis-python)|![GitHub Repo stars](https://img.shields.io/github/stars/opencollector/jntajis-python?style=social)|
+|[jntajis-python](https://github.com/kenall-inc/jntajis-python)|[![Downloads](https://static.pepy.tech/badge/jntajis-python/week)](https://pepy.tech/project/jntajis-python)|[![Downloads](https://static.pepy.tech/badge/jntajis-python)](https://pepy.tech/project/jntajis-python)|![GitHub Repo stars](https://img.shields.io/github/stars/kenall-inc/jntajis-python?style=social)|
 |[wiredify](https://github.com/eggplants/wiredify)|[![Downloads](https://pepy.tech/badge/wiredify/week)](https://pepy.tech/project/wiredify)|[![Downloads](https://pepy.tech/badge/wiredify)](https://pepy.tech/project/wiredify)|![GitHub Repo stars](https://img.shields.io/github/stars/eggplants/wiredify?style=social)|
 |[mecab-text-cleaner](https://github.com/34j/mecab-text-cleaner)|[![Downloads](https://pepy.tech/badge/mecab-text-cleaner/week)](https://pepy.tech/project/mecab-text-cleaner)|[![Downloads](https://pepy.tech/badge/mecab-text-cleaner)](https://pepy.tech/project/mecab-text-cleaner)|![GitHub Repo stars](https://img.shields.io/github/stars/34j/mecab-text-cleaner?style=social)|
 |[pynormalizenumexp](https://github.com/tkscode/pynormalizenumexp)|[![Downloads](https://pepy.tech/badge/pynormalizenumexp/week)](https://pepy.tech/project/pynormalizenumexp)|[![Downloads](https://pepy.tech/badge/pynormalizenumexp)](https://pepy.tech/project/pynormalizenumexp)|![GitHub Repo stars](https://img.shields.io/github/stars/tkscode/pynormalizenumexp?style=social)|
@@ -376,7 +376,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli) - NDLOCRのアプリケーション
  * [donut](https://github.com/clovaai/donut) - OCRフリー文書理解トランスフォーマー（Donut）および合成文書ジェネレーター（SynthDoG）の公式実装、ECCV 2022
  * [JMTrans](https://github.com/ttop32/JMTrans) - マンガ翻訳者 - URLから日本のマンガを取得してマンガ画像を翻訳する
- * [Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR) - 現代日本の雑誌を認識するOCRシステム
+ * [Kindai-OCR](https://github.com/DeepApps91/Kindai-OCR) - 現代日本の雑誌を認識するOCRシステム
  * [text_recognition](https://github.com/ndl-lab/text_recognition) - NDLOCR用テキスト認識モジュール
  * [Poricom](https://github.com/blueaxis/Poricom) - 漫画画像の光学文字認識。漫画OCRデスクトップアプリケーション。
  * [owocr](https://github.com/aurorawright/owocr) - 日本語テキストの光学文字認識
@@ -399,7 +399,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[ndlocr_cli](https://github.com/ndl-lab/ndlocr_cli)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/ndlocr_cli?style=social)|
 |[donut](https://github.com/clovaai/donut)|[![Downloads](https://static.pepy.tech/badge/donut-python/week)](https://pepy.tech/project/donut-python)|[![Downloads](https://static.pepy.tech/badge/donut-python)](https://pepy.tech/project/donut-python)|![GitHub Repo stars](https://img.shields.io/github/stars/clovaai/donut?style=social)|
 |[JMTrans](https://github.com/ttop32/JMTrans)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ttop32/JMTrans?style=social)|
-|[Kindai-OCR](https://github.com/ducanh841988/Kindai-OCR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ducanh841988/Kindai-OCR?style=social)|
+|[Kindai-OCR](https://github.com/DeepApps91/Kindai-OCR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/DeepApps91/Kindai-OCR?style=social)|
 |[text_recognition](https://github.com/ndl-lab/text_recognition)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/text_recognition?style=social)|
 |[Poricom](https://github.com/blueaxis/Poricom)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/blueaxis/Poricom?style=social)|
 |[owocr](https://github.com/aurorawright/owocr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aurorawright/owocr?style=social)|
@@ -429,11 +429,11 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2) - 日本語-BPEエンコーダー バージョン2
  * [transformer-copy](https://github.com/youichiro/transformer-copy) - 日本語文法誤り訂正ツール
  * [nagisa_bert](https://github.com/taishi-i/nagisa_bert) - nagisa用のBERTモデル
- * [JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark) - JGLUEのトレーニングと評価スクリプト、日本語理解ベンチマーク用
+ * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関してJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。
  * [jptranstokenizer](https://github.com/retarfi/jptranstokenizer) - トランスフォーマーライブラリの日本語トークナイザー
  * [jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable) - JP言語モデル評価ハーネス
  * [compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer) - 異なるトークナイザーは、スクリプト連続言語における下流タスクでどのように機能するか？：日本語のケーススタディ - ACL SRW 2023
- * [lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable) - 自己回帰言語モデルの少数ショット評価のためのフレームワーク。
+ * [lm-evaluation-harness-jp-stable](https://github.com/tdcyamadaya/lm-evaluation-harness-jp-stable) - 自己回帰言語モデルの少数ショット評価のためのフレームワーク。
  * [llm-lora-classification](https://github.com/hppRC/llm-lora-classification) - llm-lora-classificationllm-lora-分類
  * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - このリポジトリには、"rinna/japanese-gpt-neox..." [gpt-neox] モデルをggmlに変換した場合に、Alpaca-LoraアダプターをLoRAチューニングに適応させるために修正されたスクリプトとマージスクリプトが含まれています。
  * [japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark) - このリポジトリは日本語LLMのキャラクターロールプレイに関する性能を評価するために作成しました。
@@ -464,11 +464,11 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[Japanese-BPEEncoder_V2](https://github.com/tanreinama/Japanese-BPEEncoder_V2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tanreinama/Japanese-BPEEncoder_V2?style=social)|
 |[transformer-copy](https://github.com/youichiro/transformer-copy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/youichiro/transformer-copy?style=social)|
 |[nagisa_bert](https://github.com/taishi-i/nagisa_bert)|[![Downloads](https://static.pepy.tech/badge/nagisa_bert/week)](https://pepy.tech/project/nagisa_bert)|[![Downloads](https://static.pepy.tech/badge/nagisa_bert)](https://pepy.tech/project/nagisa_bert)|![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/nagisa_bert?style=social)|
-|[JGLUE-benchmark](https://github.com/nobu-g/JGLUE-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/JGLUE-benchmark?style=social)|
+|[jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/jglue-evaluation-scripts?style=social)|
 |[jptranstokenizer](https://github.com/retarfi/jptranstokenizer)|[![Downloads](https://static.pepy.tech/badge/jptranstokenizer/week)](https://pepy.tech/project/jptranstokenizer)|[![Downloads](https://static.pepy.tech/badge/jptranstokenizer)](https://pepy.tech/project/jptranstokenizer)|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/jptranstokenizer?style=social)|
 |[jp-stable](https://github.com/Stability-AI/lm-evaluation-harness/tree/jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/lm-evaluation-harness?style=social)|
 |[compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hitachi-nlp/compare-ja-tokenizer?style=social)|
-|[lm-evaluation-harness-jp-stable](https://github.com/tdc-yamada-ya/lm-evaluation-harness-jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tdc-yamada-ya/lm-evaluation-harness-jp-stable?style=social)|
+|[lm-evaluation-harness-jp-stable](https://github.com/tdcyamadaya/lm-evaluation-harness-jp-stable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tdcyamadaya/lm-evaluation-harness-jp-stable?style=social)|
 |[llm-lora-classification](https://github.com/hppRC/llm-lora-classification)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/llm-lora-classification?style=social)|
 |[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|
 |[japanese-llm-roleplay-benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/oshizo/japanese-llm-roleplay-benchmark?style=social)|
@@ -547,7 +547,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model) - Pythonにおける混合ユニグラムモデルと無限混合ユニグラムモデルの組み合わせ。
  * [hidden-markov-model](https://github.com/KentoW/hidden-markov-model) - Pythonにおける隠れマルコフモデル（HMM）と無限隠れマルコフモデル（iHMM）。
  * [Ngram-language-model](https://github.com/KentoW/Ngram-language-model) - PythonにおけるNグラム言語モデル。
- * [ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech) - 自動音声認識は、Zakuro AIのサポートを受けたpytorchのdeepspeech2モデルを使用しています。
+ * [asr](https://github.com/zakuro-ai/asr) - 自動音声認識は、Zakuro AIのサポートを受けたpytorchのdeepspeech2モデルを使用しています。
  * [neural_ime](https://github.com/yohokuno/neural_ime) - ニューラルIME：ニューラル入力方式エンジン
  * [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) - ニューラルネットワークはローマ字を正しく日本語に転写できますか？
  * [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) - 日本語用のトークナイザーが指定されました。
@@ -571,7 +571,6 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [marine](https://github.com/6gsn/marine) - MARINE：マルチタスク学習に基づく日本語アクセント推定
  * [whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune) - Whisper ASRモデルの微調整
  * [radicalchar](https://github.com/yamamaya/radicalchar) - 部首文字正規化ライブラリ
- * [akaza](https://github.com/tokuhirom/akaza) - IBus/Linux用のもう一つの日本語IME
  * [posuto](https://github.com/polm/posuto) - 日本の郵便番号データ。
  * [tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese) - 日本語のTacotron2の実装
  * [ibus-hiragana](https://github.com/esrille/ibus-hiragana) - ひらがなIME for IBus
@@ -583,7 +582,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model) - このリポジトリは、日本語NLIモデルのコードを提供しており、ファインチューニングされたマスク言語モデルです。
  * [tra-fugu](https://github.com/tos-kamiya/tra-fugu) - FuguMTを使用した日本語-英語翻訳および英語-日本語翻訳のためのツール。
  * [fugumt](https://github.com/s-taka/fugumt) - ぷるーふおぶこんせぷと で公開した機械翻訳エンジンを利用する翻訳環境です。 フォームに入力された文字列の翻訳、PDFの翻訳が可能です。
- * [JaSPICE](https://github.com/keio-smilab23/JaSPICE) - JaSPICE：画像キャプショニングモデルの述語引数構造を使用した自動評価メトリック
+ * [JaSPICE](https://github.com/YuigaWada/JaSPICE) - JaSPICE：画像キャプショニングモデルの述語引数構造を使用した自動評価メトリック
  * [Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization) - 日本語ローカライゼーション
  * [pyopenjtalk](https://github.com/r9y9/pyopenjtalk) - OpenJTalkのPythonラッパー
  * [yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) - 電子書籍に漢字の読み方を追加することで、日本語の学習をより簡単にすることができます。
@@ -598,10 +597,8 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [julius4seg](https://github.com/Hiroshiba/julius4seg) - Juliusを使ったセグメンテーション支援ツール
  * [voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
  * [LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP) - LLaVA-JPは、LLaVAメソッドで訓練された日本のVLMです。
- * [RAG-Japanese](https://github.com/AkimParis/RAG-Japanese) - 日本の低資源設定での日本語LLM用のオープンソースRAGとLlama Index
  * [bertjsc](https://github.com/er-ri/bertjsc) - BERTを使用した日本語スペルエラー修正ツール
  * [llm-leaderboard](https://github.com/wandb/llm-leaderboard) - 日本のタスクのLLM評価プロジェクト
- * [jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts) - JGLUEのトレーニングと評価スクリプトについて、日本語理解のベンチマークに関してJGLUEは、日本語理解のベンチマークのためのトレーニングと評価スクリプトについての情報です。
  * [BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese) - 日本のデータセットで事前学習されたモデルを使用して、LAVISのBLIP2 Q-formerを修正します。LAVISのBLIP2 Q-formerを日本のデータセットで事前学習されたモデルを用いて修正します。
  * [wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils) - wikipedia 日本語の文を、各種日本語の embeddings や faiss index へと変換するスクリプト等。
  * [simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja) - 日本語のSimCSEを探索中
@@ -660,7 +657,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [piper-plus](https://github.com/ayutaz/piper-plus) - 日本語サポート、WebAssembly、マルチGPUトレーニング、品質向上を備えた強化されたパイパーTTS。
  * [Japanera](https://github.com/nagataaaas/Japanera) - 日本の元号システムのための簡単なツール
  * [bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization) - BERTを使用した日本語文章要約
- * [kyujipy](https://github.com/drturnon/kyujipy) - 新字体（Shinjitai）から旧字体（Kyujitai）へ、またはその逆に日本語テキストを変換するためのPythonライブラリ
+ * [kyujipy](https://github.com/cjkvsoft/kyujipy) - 新字体（Shinjitai）から旧字体（Kyujitai）へ、またはその逆に日本語テキストを変換するためのPythonライブラリ
  * [jitenbot](https://github.com/konstantindjairo/jitenbot) - 日本語辞書の個人用コピーを作成するためのWebクローラー
  * [ja-icd10](https://github.com/yagays/ja-icd10) - ICD-10 国際疾病分類の日本語情報を扱うためのPythonパッケージ
  * [pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2) - 音素レベルの日本語BERTを使用したVITS2
@@ -669,12 +666,12 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [marine-plus](https://github.com/tsukumijima/marine-plus) - MARINE：マルチタスク学習ベースの日本語アクセント推定（Windowsもサポート）
  * [ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark) - Pythonでのさまざまな日本語トークナイザーの速度を比較してください。
  * [yat](https://github.com/yagays/yat) - yat：日本語NLPのためのもう1つのトークナイザーyat：日本語NLPのためのもう1つのトークナイザー
- * [igakuqa119](https://github.com/docto-rin/igakuqa119) - 第119回日本医師免許試験におけるLLMの評価
+ * [IgakuQA119](https://github.com/naoto-iwase/IgakuQA119) - 第119回日本医師免許試験におけるLLMの評価
  * [japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer) - TransformersのRemBertTokenizerFastを使用した日本語長単位ワードトークナイザー
  * [ibus-jig](https://github.com/y-koj/ibus-jig) - 入力: ibus-jig：GPT-4を使用した日本語入力法
- * [jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter) - カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。
+ * [ja-stopword-filter](https://github.com/BrambleXu/ja-stopword-filter) - カスタマイズ可能なルールに基づいて日本語テキストからストップワードをフィルタリングするために設計された軽量なPythonライブラリ。
  * [yasumail](https://github.com/terallite/yasumail) - MLトレーニングデータ用の合成日本語ビジネスメールジェネレータ
- * [himotoki](https://github.com/msr2903/himotoki) - Pythonベースの日本語トークナイザー、辞書、形態素解析ツール、ローマ字変換ツール。言語学習用のJMDictに基づいています。
+ * [himotoki-py](https://github.com/moikdev/himotoki-py) - Pythonベースの日本語トークナイザー、辞書、形態素解析ツール、ローマ字変換ツール。言語学習用のJMDictに基づいています。
  * [diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit) - 音声ベースのインタラクションに使用する、フィラー豊富で短い発話の日本語ダイアログスクリプトを合成するためのツールキット。このプロジェクトは、データを生成するために2つのフェーズで設計されています：シード生成（メタデータ作成）とダイアログ生成（スクリプト作成）。
  * [eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja) - 縦書き日本語テキストにおけるマルチモーダル大規模言語モデルの評価
  * [jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter) - 本コードは，大規模言語モデル（LLM）の学習用コーパスから，個人情報の中でも特に配慮が求められる「要配慮個人情報」をフィルタリングするためのものです.
@@ -687,7 +684,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts) - Sarashina2.2-TTSは、SB Intuitionsによって開発された大規模な言語モデルをベースにした日本中心のテキスト読み上げシステムです。
  * [manga-translator](https://github.com/Detopall/manga-translator) - Yolov8、manga_ocr、およびdeep-translatorを使用して作成されたマンガ翻訳者。
  * [jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench) - 双方向日本語-英語翻訳のためのアンカードペアワイズLLM評価
- * [novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
+ * [novel2agent-jp](https://github.com/kgmkm/novel2agent-jp) - メモリ機能が強力なhermes-agentと、日本語検索に強い外部メモリvecmemoriを活かし、長文に耐える小説を企画/プロッティング/執筆するためのskills.md
  * [moshi-finetune](https://github.com/nu-dialogue/moshi-finetune) - 自分の話し言葉データを使用して、Moshi/J-Moshiの微調整を行う
  * [simple-evals-mm](https://github.com/llm-jp/simple-evals-mm) - 英語と日本語のベンチマークでビジョン言語モデルを評価するための軽量ライブラリ。
  * [medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr) - MedVoice-JP LoRA60: Japanese medical specialized ASR (whisper-small + LoRA, 60 speakers) and the first domestic medical ASR benchmark (including full FT version FT60)
@@ -766,7 +763,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[mixture-of-unigram-model](https://github.com/KentoW/mixture-of-unigram-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/KentoW/mixture-of-unigram-model?style=social)|
 |[hidden-markov-model](https://github.com/KentoW/hidden-markov-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/KentoW/hidden-markov-model?style=social)|
 |[Ngram-language-model](https://github.com/KentoW/Ngram-language-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/KentoW/Ngram-language-model?style=social)|
-|[ASRDeepSpeech](https://github.com/JeanMaximilienCadic/ASRDeepSpeech)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/JeanMaximilienCadic/ASRDeepSpeech?style=social)|
+|[asr](https://github.com/zakuro-ai/asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zakuro-ai/asr?style=social)|
 |[neural_ime](https://github.com/yohokuno/neural_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yohokuno/neural_ime?style=social)|
 |[neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Kyubyong/neural_japanese_transliterator?style=social)|
 |[tinysegmenter](https://github.com/SamuraiT/tinysegmenter)|[![Downloads](https://static.pepy.tech/badge/tinysegmenter/week)](https://pepy.tech/project/tinysegmenter3)|[![Downloads](https://static.pepy.tech/badge/tinysegmenter3)](https://pepy.tech/project/tinysegmenter3)|![GitHub Repo stars](https://img.shields.io/github/stars/SamuraiT/tinysegmenter3?style=social)|
@@ -790,7 +787,6 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[marine](https://github.com/6gsn/marine)|[![Downloads](https://static.pepy.tech/badge/marine/week)](https://pepy.tech/project/marine)|[![Downloads](https://static.pepy.tech/badge/marine)](https://pepy.tech/project/marine)|![GitHub Repo stars](https://img.shields.io/github/stars/6gsn/marine?style=social)|
 |[whisper-asr-finetune](https://github.com/sarulab-speech/whisper-asr-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarulab-speech/whisper-asr-finetune?style=social)|
 |[radicalchar](https://github.com/yamamaya/radicalchar)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yamamaya/radicalchar?style=social)|
-|[akaza](https://github.com/tokuhirom/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tokuhirom/akaza?style=social)|
 |[posuto](https://github.com/polm/posuto)|[![Downloads](https://static.pepy.tech/badge/posuto/week)](https://pepy.tech/project/posuto)|[![Downloads](https://static.pepy.tech/badge/posuto)](https://pepy.tech/project/posuto)|![GitHub Repo stars](https://img.shields.io/github/stars/polm/posuto?style=social)|
 |[tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CjangCjengh/tacotron2-japanese?style=social)|
 |[ibus-hiragana](https://github.com/esrille/ibus-hiragana)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/esrille/ibus-hiragana?style=social)|
@@ -802,7 +798,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[japanese-nli-model](https://github.com/CyberAgentAILab/japanese-nli-model)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/CyberAgentAILab/japanese-nli-model?style=social)|
 |[tra-fugu](https://github.com/tos-kamiya/tra-fugu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tos-kamiya/tra-fugu?style=social)|
 |[fugumt](https://github.com/s-taka/fugumt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s-taka/fugumt?style=social)|
-|[JaSPICE](https://github.com/keio-smilab23/JaSPICE)|[![Downloads](https://static.pepy.tech/badge/JaSPICE/week)](https://pepy.tech/project/JaSPICE)|[![Downloads](https://static.pepy.tech/badge/JaSPICE)](https://pepy.tech/project/JaSPICE)|![GitHub Repo stars](https://img.shields.io/github/stars/keio-smilab23/JaSPICE?style=social)|
+|[JaSPICE](https://github.com/YuigaWada/JaSPICE)|[![Downloads](https://static.pepy.tech/badge/JaSPICE/week)](https://pepy.tech/project/JaSPICE)|[![Downloads](https://static.pepy.tech/badge/JaSPICE)](https://pepy.tech/project/JaSPICE)|![GitHub Repo stars](https://img.shields.io/github/stars/YuigaWada/JaSPICE?style=social)|
 |[Retrieval-based-Voice-Conversion-WebUI-JP-localization](https://github.com/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yantaisa11/Retrieval-based-Voice-Conversion-WebUI-JP-localization?style=social)|
 |[pyopenjtalk](https://github.com/r9y9/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk/week)](https://pepy.tech/project/pyopenjtalk)|[![Downloads](https://static.pepy.tech/badge/pyopenjtalk)](https://pepy.tech/project/pyopenjtalk)|![GitHub Repo stars](https://img.shields.io/github/stars/r9y9/pyopenjtalk?style=social)|
 |[yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook/week)](https://pepy.tech/project/yomigana-ebook)|[![Downloads](https://static.pepy.tech/badge/yomigana-ebook)](https://pepy.tech/project/yomigana-ebook)|![GitHub Repo stars](https://img.shields.io/github/stars/rabbit19981023/yomigana-ebook?style=social)|
@@ -817,10 +813,8 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[julius4seg](https://github.com/Hiroshiba/julius4seg)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hiroshiba/julius4seg?style=social)|
 |[voicevox_engine](https://github.com/VOICEVOX/voicevox_engine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/VOICEVOX/voicevox_engine?style=social)|
 |[LLaVA-JP](https://github.com/tosiyuki/LLaVA-JP)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tosiyuki/LLaVA-JP?style=social)|
-|[RAG-Japanese](https://github.com/AkimParis/RAG-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/AkimParis/RAG-Japanese?style=social)|
 |[bertjsc](https://github.com/er-ri/bertjsc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/er-ri/bertjsc?style=social)|
 |[llm-leaderboard](https://github.com/wandb/llm-leaderboard)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/wandb/llm-leaderboard?style=social)|
-|[jglue-evaluation-scripts](https://github.com/nobu-g/jglue-evaluation-scripts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nobu-g/jglue-evaluation-scripts?style=social)|
 |[BLIP2-Japanese](https://github.com/ZhaoPeiduo/BLIP2-Japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ZhaoPeiduo/BLIP2-Japanese?style=social)|
 |[wikipedia-passages-jawiki-embeddings-utils](https://github.com/hotchpotch/wikipedia-passages-jawiki-embeddings-utils)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/wikipedia-passages-jawiki-embeddings-utils?style=social)|
 |[simple-simcse-ja](https://github.com/hpprc/simple-simcse-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/simple-simcse-ja?style=social)|
@@ -879,7 +873,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[piper-plus](https://github.com/ayutaz/piper-plus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ayutaz/piper-plus?style=social)|
 |[Japanera](https://github.com/nagataaaas/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera/week)](https://pepy.tech/project/Japanera)|[![Downloads](https://pepy.tech/badge/Japanera)](https://pepy.tech/project/Japanera)|![GitHub Repo stars](https://img.shields.io/github/stars/nagataaaas/Japanera?style=social)|
 |[bert-abstractive-text-summarization](https://github.com/iwasakiyuuki/bert-abstractive-text-summarization)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iwasakiyuuki/bert-abstractive-text-summarization?style=social)|
-|[kyujipy](https://github.com/drturnon/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy/week)](https://pepy.tech/project/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy)](https://pepy.tech/project/kyujipy)|![GitHub Repo stars](https://img.shields.io/github/stars/drturnon/kyujipy?style=social)|
+|[kyujipy](https://github.com/cjkvsoft/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy/week)](https://pepy.tech/project/kyujipy)|[![Downloads](https://pepy.tech/badge/kyujipy)](https://pepy.tech/project/kyujipy)|![GitHub Repo stars](https://img.shields.io/github/stars/cjkvsoft/kyujipy?style=social)|
 |[jitenbot](https://github.com/konstantindjairo/jitenbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konstantindjairo/jitenbot?style=social)|
 |[ja-icd10](https://github.com/yagays/ja-icd10)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/ja-icd10?style=social)|
 |[pl-bert-vits2](https://github.com/tonnetonne814/pl-bert-vits2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tonnetonne814/pl-bert-vits2?style=social)|
@@ -888,12 +882,12 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[marine-plus](https://github.com/tsukumijima/marine-plus)|[![Downloads](https://pepy.tech/badge/marine-plus/week)](https://pepy.tech/project/marine-plus)|[![Downloads](https://pepy.tech/badge/marine-plus)](https://pepy.tech/project/marine-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/tsukumijima/marine-plus?style=social)|
 |[ja-tokenizer-benchmark](https://github.com/polm/ja-tokenizer-benchmark)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/polm/ja-tokenizer-benchmark?style=social)|
 |[yat](https://github.com/yagays/yat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yagays/yat?style=social)|
-|[igakuqa119](https://github.com/docto-rin/igakuqa119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/docto-rin/igakuqa119?style=social)|
+|[IgakuQA119](https://github.com/naoto-iwase/IgakuQA119)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naoto-iwase/IgakuQA119?style=social)|
 |[japanese-luw-tokenizer](https://github.com/koichiyasuoka/japanese-luw-tokenizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koichiyasuoka/japanese-luw-tokenizer?style=social)|
 |[ibus-jig](https://github.com/y-koj/ibus-jig)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/y-koj/ibus-jig?style=social)|
-|[jp-stopword-filter](https://github.com/BrambleXu/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter/week)](https://pepy.tech/project/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter)](https://pepy.tech/project/jp-stopword-filter)|![GitHub Repo stars](https://img.shields.io/github/stars/BrambleXu/jp-stopword-filter?style=social)|
+|[ja-stopword-filter](https://github.com/BrambleXu/ja-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter/week)](https://pepy.tech/project/jp-stopword-filter)|[![Downloads](https://pepy.tech/badge/jp-stopword-filter)](https://pepy.tech/project/jp-stopword-filter)|![GitHub Repo stars](https://img.shields.io/github/stars/BrambleXu/ja-stopword-filter?style=social)|
 |[yasumail](https://github.com/terallite/yasumail)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/terallite/yasumail?style=social)|
-|[himotoki](https://github.com/msr2903/himotoki)|[![Downloads](https://pepy.tech/badge/himotoki/week)](https://pepy.tech/project/himotoki)|[![Downloads](https://pepy.tech/badge/himotoki)](https://pepy.tech/project/himotoki)|![GitHub Repo stars](https://img.shields.io/github/stars/msr2903/himotoki?style=social)|
+|[himotoki-py](https://github.com/moikdev/himotoki-py)|[![Downloads](https://pepy.tech/badge/himotoki/week)](https://pepy.tech/project/himotoki)|[![Downloads](https://pepy.tech/badge/himotoki)](https://pepy.tech/project/himotoki)|![GitHub Repo stars](https://img.shields.io/github/stars/moikdev/himotoki-py?style=social)|
 |[diafill-toolkit](https://github.com/sbintuitions/diafill-toolkit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/diafill-toolkit?style=social)|
 |[eval_vertical_ja](https://github.com/llm-jp/eval_vertical_ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/eval_vertical_ja?style=social)|
 |[jp-llm-corpus-pii-filter](https://github.com/matsuolab/jp-llm-corpus-pii-filter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matsuolab/jp-llm-corpus-pii-filter?style=social)|
@@ -906,7 +900,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[sarashina2.2-tts](https://github.com/sbintuitions/sarashina2.2-tts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/sarashina2.2-tts?style=social)|
 |[manga-translator](https://github.com/Detopall/manga-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Detopall/manga-translator?style=social)|
 |[jp-tl-bench](https://github.com/shisa-ai/jp-tl-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shisa-ai/jp-tl-bench?style=social)|
-|[novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2hermes_jp?style=social)|
+|[novel2agent-jp](https://github.com/kgmkm/novel2agent-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kgmkm/novel2agent-jp?style=social)|
 |[moshi-finetune](https://github.com/nu-dialogue/moshi-finetune)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nu-dialogue/moshi-finetune?style=social)|
 |[simple-evals-mm](https://github.com/llm-jp/simple-evals-mm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/llm-jp/simple-evals-mm?style=social)|
 |[medvoice-jp-asr](https://github.com/nikotora/medvoice-jp-asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nikotora/medvoice-jp-asr?style=social)|
@@ -982,7 +976,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 ### Morphology analysis
 Rustで実装された日本語形態素解析ライブラリ
 
- * [lindera](https://github.com/lindera-morphology/lindera) - 形態素解析ライブラリ。
+ * [lindera](https://github.com/lindera/lindera) - 形態素解析ライブラリ。
  * [vaporetto](https://github.com/daac-tools/vaporetto) - Vaporetto：非常に加速されたポイントワイズ予測に基づくトークナイザー
  * [goya](https://github.com/Leko/goya) - Rustで書かれた日本語形態素解析
  * [vibrato](https://github.com/daac-tools/vibrato) - バイブラート：Viterbiベースの高速トークナイザー
@@ -995,7 +989,7 @@ Rustで実装された日本語形態素解析ライブラリ
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-|[lindera](https://github.com/lindera-morphology/lindera)|-|![Crates.io](https://img.shields.io/crates/d/lindera)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera?style=social)|
+|[lindera](https://github.com/lindera/lindera)|-|![Crates.io](https://img.shields.io/crates/d/lindera)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera/lindera?style=social)|
 |[vaporetto](https://github.com/daac-tools/vaporetto)|-|![Crates.io](https://img.shields.io/crates/d/vaporetto)|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vaporetto?style=social)|
 |[goya](https://github.com/Leko/goya)|-|![Crates.io](https://img.shields.io/crates/d/goya)|![GitHub Repo stars](https://img.shields.io/github/stars/Leko/goya?style=social)|
 |[vibrato](https://github.com/daac-tools/vibrato)|-|![Crates.io](https://img.shields.io/crates/d/vibrato)|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/vibrato?style=social)|
@@ -1038,7 +1032,7 @@ Rustで実装された日本語形態素解析ライブラリ
 ### Search engine library
 日本語全文検索のためのライブラリ
 
- * [lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy) - Tantivy用のLinderaトークナイザー。
+ * [lindera-tantivy](https://github.com/lindera/lindera-tantivy) - Tantivy用のLinderaトークナイザー。
  * [tantivy-vibrato](https://github.com/akr4/tantivy-vibrato) - Vibratoを使用したTantivyトークナイザー。
  * [sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto) - SQLite FTS5 拡張機能による高速な日本語全文検索を🛥Vaporettoで実現
  * [duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto) - 🛥VaporettoによるDuckDB拡張機能を使用した日本語全文検索
@@ -1047,7 +1041,7 @@ Rustで実装された日本語形態素解析ライブラリ
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-|[lindera-tantivy](https://github.com/lindera-morphology/lindera-tantivy)|-|![Crates.io](https://img.shields.io/crates/d/lindera-tantivy)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera-morphology/lindera-tantivy?style=social)|
+|[lindera-tantivy](https://github.com/lindera/lindera-tantivy)|-|![Crates.io](https://img.shields.io/crates/d/lindera-tantivy)|![GitHub Repo stars](https://img.shields.io/github/stars/lindera/lindera-tantivy?style=social)|
 |[tantivy-vibrato](https://github.com/akr4/tantivy-vibrato)|-|![Crates.io](https://img.shields.io/crates/d/tantivy-vibrato)|![GitHub Repo stars](https://img.shields.io/github/stars/akr4/tantivy-vibrato?style=social)|
 |[sqlite-vaporetto](https://github.com/hotchpotch/sqlite-vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/sqlite-vaporetto?style=social)|
 |[duckdb-vaporetto](https://github.com/hotchpotch/duckdb-vaporetto)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hotchpotch/duckdb-vaporetto?style=social)|
@@ -1058,7 +1052,7 @@ Rustで実装された日本語形態素解析ライブラリ
 日本語処理やIMEを扱う補助ライブラリ
 
  * [daachorse](https://github.com/daac-tools/daachorse) - Rustでコンパクトなダブル配列データ構造を使用したAho-Corasickアルゴリズムの高速実装。
- * [find-simdoc](https://github.com/legalforce-research/find-simdoc) - 効率的な時間とメモリを使って、類似したドキュメントのすべてのペアを見つける。
+ * [find-simdoc](https://github.com/daac-tools/find-simdoc) - 効率的な時間とメモリを使って、類似したドキュメントのすべてのペアを見つける。
  * [crawdad](https://github.com/daac-tools/crawdad) - 文字単位のダブル配列トライを使用した自然言語辞書のRustライブラリ。
  * [tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench) - 様々なトークナイザーの比較コード
  * [stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench) - ここでは、文字列マッチングのデータ構造のパフォーマンスを比較するためのベンチマークツールが提供されています。
@@ -1066,7 +1060,6 @@ Rustで実装された日本語形態素解析ライブラリ
  * [voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
  * [akaza](https://github.com/akaza-im/akaza) - IBus/Linux用のもう1つの日本語IME
  * [Jotoba](https://github.com/WeDontPanic/Jotoba) - 無料でオンラインで自己ホスト可能な、多言語対応の日本語辞書。
- * [dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable) - Google日本語入力用のDvorakJPローマ字テーブル
  * [niinii](https://github.com/Netdex/niinii) - 一覧を使用したテキストの補助読みのための日本語の注釈者
  * [cskk](https://github.com/naokiri/cskk) - 出力: SKK（シンプルかな漢字変換）ライブラリ
  * [japanki](https://github.com/tysonwu/japanki) - CLIでクイズをすることで日本語の単語を学びましょう！ 🇯🇵
@@ -1074,7 +1067,7 @@ Rustで実装された日本語形態素解析ライブラリ
  * [listup_precedent](https://github.com/japanese-law-analysis/listup_precedent) - 裁判例のデータ一覧を裁判所のホームページ(https://www.courts.go.jp/index.html) をスクレイピングして生成するソフトウェア
  * [jisho](https://github.com/eagleflo/jisho) - Jishoは、日本語-英語辞書を提供するCLIツールおよびRustライブラリです。Jishoは、日本語-英語辞書を提供するCLIツール＆Rustライブラリです。
  * [kanalizer](https://github.com/voicevox/kanalizer) - 英単語から読みを推測するライブラリ。
- * [koharu](https://github.com/mayocream/koharu) - Rustで書かれたLLMを使用した自動漫画翻訳ツール。
+ * [koharu](https://github.com/koharu-rs/koharu) - Rustで書かれたLLMを使用した自動漫画翻訳ツール。
  * [yomine](https://github.com/mcgrizzz/yomine) - 言語学習者が新しい単語や表現を見つけるのを手助けするために設計された日本語語彙マイニングツール。
  * [matsuba](https://github.com/mrpicklepinosaur/matsuba) - 軽量な日本語IMEをRustで書かれました。
  * [hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary) - Rustによる日本語辞書、Telegramボット、AWS Lambda、Cloudflare Workersをサポート。LLMとRAGの検索をサポートします。
@@ -1088,7 +1081,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
 |[daachorse](https://github.com/daac-tools/daachorse)|-|![Crates.io](https://img.shields.io/crates/d/daachorse)|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/daachorse?style=social)|
-|[find-simdoc](https://github.com/legalforce-research/find-simdoc)|-|![Crates.io](https://img.shields.io/crates/d/find-simdoc)|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/find-simdoc?style=social)|
+|[find-simdoc](https://github.com/daac-tools/find-simdoc)|-|![Crates.io](https://img.shields.io/crates/d/find-simdoc)|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/find-simdoc?style=social)|
 |[crawdad](https://github.com/daac-tools/crawdad)|-|![Crates.io](https://img.shields.io/crates/d/crawdad)|![GitHub Repo stars](https://img.shields.io/github/stars/daac-tools/crawdad?style=social)|
 |[tokenizer-speed-bench](https://github.com/legalforce-research/tokenizer-speed-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/tokenizer-speed-bench?style=social)|
 |[stringmatch-bench](https://github.com/legalforce-research/stringmatch-bench)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/legalforce-research/stringmatch-bench?style=social)|
@@ -1096,7 +1089,6 @@ Rustで実装された日本語形態素解析ライブラリ
 |[voicevox_core](https://github.com/VOICEVOX/voicevox_core)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/VOICEVOX/voicevox_core?style=social)|
 |[akaza](https://github.com/akaza-im/akaza)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akaza-im/akaza?style=social)
 |[Jotoba](https://github.com/WeDontPanic/Jotoba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/WeDontPanic/Jotoba?style=social)|
-|[dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shinespark/dvorakjp-romantable?style=social)|
 |[niinii](https://github.com/Netdex/niinii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Netdex/niinii?style=social)|
 |[cskk](https://github.com/naokiri/cskk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naokiri/cskk?style=social)|
 |[japanki](https://github.com/tysonwu/japanki)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tysonwu/japanki?style=social)|
@@ -1104,7 +1096,7 @@ Rustで実装された日本語形態素解析ライブラリ
 |[listup_precedent](https://github.com/japanese-law-analysis/listup_precedent)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/japanese-law-analysis/listup_precedent?style=social)|
 |[jisho](https://github.com/eagleflo/jisho)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/eagleflo/jisho?style=social)|
 |[kanalizer](https://github.com/voicevox/kanalizer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/voicevox/kanalizer?style=social)|
-|[koharu](https://github.com/mayocream/koharu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayocream/koharu?style=social)|
+|[koharu](https://github.com/koharu-rs/koharu)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/koharu-rs/koharu?style=social)|
 |[yomine](https://github.com/mcgrizzz/yomine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mcgrizzz/yomine?style=social)|
 |[matsuba](https://github.com/mrpicklepinosaur/matsuba)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mrpicklepinosaur/matsuba?style=social)|
 |[hujiang_dictionary](https://github.com/asutorufa/hujiang_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/asutorufa/hujiang_dictionary?style=social)|
@@ -1194,7 +1186,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [kana2ipa](https://github.com/amanoese/kana2ipa) - 「ひらがな」または「カタカナ」を日本語で発音する際の音声記号(IPA)に変換するコマンド
  * [voicevox](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
  * [kamiya-codec](https://github.com/fasiha/kamiya-codec) - 日本語動詞の活用と非活用を基にした神谷妙子の「日本語動詞の手引き」と「日本語形容詞・副詞の手引き」に向けて。
- * [closewords](https://github.com/otoneko1102/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
+ * [closewords](https://github.com/otnc/closewords) - 最も似た単語を単語群から検索する日本語(漢字含む)対応のライブラリ
  * [japanese-analyzer](https://github.com/cokice/japanese-analyzer) - 日本語文章解析器
  * [japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize) - 日本語のフリガナを正規化します。
  * [yama](https://github.com/sapjax/yama) - 任意のウェブサイトで日本語の語彙を習得します。
@@ -1204,7 +1196,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
  * [qmd-ja](https://github.com/joycodetech/qmd-ja) - 日本語強化版のqmd - 正確な日本語BM25検索のためのVaporetto WASM形態素トークナイザー
  * [shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk) - Shirabe JapanデータAPI用の公式TypeScript SDK - 日本語の名前分割/読み取り、住所の正規化、法人番号の検索、カレンダー（六曜）用の既製のVercel AI SDK / LangChainツール。コアにランタイム依存関係はゼロです。
  * [pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo) - PII-JA NER ブラウザデモ
- * [jev-semgrep](https://github.com/uehaj/jev-semgrep) - grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。
+ * [sys1grep](https://github.com/uehaj/sys1grep) - grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。
 
 
 |Name|downloads/week|total downloads|stars|
@@ -1224,7 +1216,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 |[kana2ipa](https://github.com/amanoese/kana2ipa)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/amanoese/kana2ipa?style=social)|
 |[voicevox](https://github.com/VOICEVOX/voicevox)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/VOICEVOX/voicevox?style=social)|
 |[kamiya-codec](https://github.com/fasiha/kamiya-codec)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fasiha/kamiya-codec?style=social)|
-|[closewords](https://github.com/otoneko1102/closewords)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/otoneko1102/closewords?style=social)|
+|[closewords](https://github.com/otnc/closewords)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/otnc/closewords?style=social)|
 |[japanese-analyzer](https://github.com/cokice/japanese-analyzer)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cokice/japanese-analyzer?style=social)|
 |[japanese-furigana-normalize](https://github.com/marvnc/japanese-furigana-normalize)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/marvnc/japanese-furigana-normalize?style=social)|
 |[yama](https://github.com/sapjax/yama)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sapjax/yama?style=social)|
@@ -1234,7 +1226,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 |[qmd-ja](https://github.com/joycodetech/qmd-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/joycodetech/qmd-ja?style=social)|
 |[shirabe-sdk](https://github.com/techwell-inc-jp/shirabe-sdk)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/techwell-inc-jp/shirabe-sdk?style=social)|
 |[pii-ja-ner-onnx-demo](https://github.com/shirokane-suri/pii-ja-ner-onnx-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shirokane-suri/pii-ja-ner-onnx-demo?style=social)|
-|[jev-semgrep](https://github.com/uehaj/jev-semgrep)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uehaj/jev-semgrep?style=social)|
+|[sys1grep](https://github.com/uehaj/sys1grep)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uehaj/sys1grep?style=social)|
 
 
 ## Go
@@ -1369,7 +1361,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
  * [aMLP-japanese](https://github.com/tanreinama/aMLP-japanese) - 日本語用のaMLPトランスフォーマーモデル
  * [bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora) - 青空文庫とウィキペディアでトレーニングされた日本語BERTで、UniDicとSudachiPyでプリトークナイズされました。
  * [sbert-ja](https://github.com/colorfulscoop/sbert-ja) - ハギングフェイスモデルハブのSentence BERT日本語モデルをトレーニングするためのコード
- * [BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination) - 「日本のツイートの感情分析と日本のワクチン接種との比較」の公式微調整コード
+ * [BERT-Japan-vaccination](https://github.com/Ramos-Ramos/BERT-Japan-vaccination) - 「日本のツイートの感情分析と日本のワクチン接種との比較」の公式微調整コード
  * [gpt2-japanese](https://github.com/tanreinama/gpt2-japanese) - 日本語GPT2生成モデル
  * [text2text-japanese](https://github.com/tanreinama/text2text-japanese) - GPT-2ベースのテキスト2テキスト変換モデル
  * [gpt-ja](https://github.com/colorfulscoop/gpt-ja) - HuggingFaceのtransformers用のGPT-2日本語モデル
@@ -1407,7 +1399,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
 |[aMLP-japanese](https://github.com/tanreinama/aMLP-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tanreinama/aMLP-japanese?style=social)|
 |[bert-japanese-aozora](https://github.com/akirakubo/bert-japanese-aozora)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/akirakubo/bert-japanese-aozora?style=social)|
 |[sbert-ja](https://github.com/colorfulscoop/sbert-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/colorfulscoop/sbert-ja?style=social)|
-|[BERT-Japan-vaccination](https://github.com/PatrickJohnRamos/BERT-Japan-vaccination)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJohnRamos/BERT-Japan-vaccination?style=social)|
+|[BERT-Japan-vaccination](https://github.com/Ramos-Ramos/BERT-Japan-vaccination)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ramos-Ramos/BERT-Japan-vaccination?style=social)|
 |[gpt2-japanese](https://github.com/tanreinama/gpt2-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tanreinama/gpt2-japanese?style=social)|
 |[text2text-japanese](https://github.com/tanreinama/text2text-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tanreinama/text2text-japanese?style=social)|
 |[gpt-ja](https://github.com/colorfulscoop/gpt-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/colorfulscoop/gpt-ja?style=social)|
@@ -1430,7 +1422,7 @@ Goで日本語形態素解析を行う軽量ライブラリ
 ## ChatGPT
 ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うためのリソース
 
- * [VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
+ * [VRChatGPT](https://github.com/YutoMaeda1209/VRChatGPT) - ChatGPTを使ってVRChat上でお喋り出来るようにするプログラム。
  * [AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii) - AITuberの基礎となる部分を開発しています
  * [wanna](https://github.com/hirokidaichi/wanna) - 自然言語でのシェルコマンド起動ツール
  * [ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKitを使用すると、あなたの3Dモデルをチャットボットに変換できます。
@@ -1442,13 +1434,12 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt) - このChrome拡張機能は、ChatGPTを使用して選択した日本語テキストをひらがなに翻訳できます。
  * [azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo) - このサンプルでは、Retrieval Augmented Generation パターンを使用して、独自のデータに対してChatGPT のような体験を作成するためのいくつかのアプローチを示しています。
  * [chatvrm](https://github.com/pixiv/chatvrm) - ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
- * [sftly-replace](https://github.com/kmizu/sftly-replace) - 選択したテキストをやさしく置き換えるためのChrome拡張機能
+ * [softly-replace](https://github.com/kmizu/softly-replace) - 選択したテキストをやさしく置き換えるためのChrome拡張機能
  * [summarize_arxv](https://github.com/rkmt/summarize_arxv) - 図を含むarXiv論文を要約する。
  * [aiavatarkit](https://github.com/uezo/aiavatarkit) - AIベースの会話型アバターを超高速で構築する
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - Azure OpenAIを活用したアプリケーション実装のリファレンスを目的として、アプリのサンプル（リファレンスアーキテクチャ、サンプルコードとデプロイ手順）を無償提供しています。
  * [character_chat](https://github.com/mutaguchi/character_chat) - OpenAIのAPIを利用して、設定したキャラクターと日本語で会話するチャットスクリプトです。
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)
- * [chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
  * [kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4) - PythonとLangchainを使用して構築された日本語漢字フラッシュカードアプリで、GPT-4の知能が強化されています。
  * [IgakuQA](https://github.com/jungokasai/IgakuQA) - 日本の医師免許試験におけるGPT-4とChatGPTの評価
  * [japagen](https://github.com/retrieva/japagen) - 日本語タスクにおけるLLMを用いた疑似学習データ生成の検討
@@ -1457,7 +1448,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-|[VRChatGPT](https://github.com/Yuchi-Games/VRChatGPT)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Yuchi-Games/VRChatGPT?style=social)|
+|[VRChatGPT](https://github.com/YutoMaeda1209/VRChatGPT)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/YutoMaeda1209/VRChatGPT?style=social)|
 |[AITuberDegikkoMirii](https://github.com/M-gen/AITuberDegikkoMirii)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/M-gen/AITuberDegikkoMirii?style=social)|
 |[wanna](https://github.com/hirokidaichi/wanna)|[![Downloads](https://static.pepy.tech/badge/wanna/week)](https://pepy.tech/project/wanna)|[![Downloads](https://static.pepy.tech/badge/wanna)](https://pepy.tech/project/wanna)|![GitHub Repo stars](https://img.shields.io/github/stars/hirokidaichi/wanna?style=social)|
 |[ChatdollKit](https://github.com/uezo/ChatdollKit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/ChatdollKit?style=social)|
@@ -1469,13 +1460,12 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[chrome-ext-translate-to-hiragana-with-chatgpt](https://github.com/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/franzwong/chrome-ext-translate-to-hiragana-with-chatgpt?style=social)|
 |[azure-search-openai-demo](https://github.com/nohanaga/azure-search-openai-demo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nohanaga/azure-search-openai-demo?style=social)|
 |[chatvrm](https://github.com/pixiv/chatvrm)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/pixiv/chatvrm?style=social)|
-|[sftly-replace](https://github.com/kmizu/sftly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|
+|[softly-replace](https://github.com/kmizu/softly-replace)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/softly-replace?style=social)|
 |[summarize_arxv](https://github.com/rkmt/summarize_arxv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rkmt/summarize_arxv?style=social)|
 |[aiavatarkit](https://github.com/uezo/aiavatarkit)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/aiavatarkit?style=social)|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|
 |[character_chat](https://github.com/mutaguchi/character_chat)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mutaguchi/character_chat?style=social)|
 |[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
-|[chatgpt-prompt-sample-japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/chatgpt-prompt-sample-japanese?style=social)|
 |[kanji-flashcard-app-gpt4](https://github.com/adilmoujahid/kanji-flashcard-app-gpt4)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/adilmoujahid/kanji-flashcard-app-gpt4?style=social)|
 |[IgakuQA](https://github.com/jungokasai/IgakuQA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jungokasai/IgakuQA?style=social)|
 |[japagen](https://github.com/retrieva/japagen)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retrieva/japagen?style=social)|
@@ -1513,9 +1503,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [mh-dict-jp](https://github.com/utubo/mh-dict-jp) - MonsterHunterのユーザー辞書を作りたい…
  * [mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd) - mecab-unidicの言語リソースに基づいたネオログ辞書
  * [hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary) - ホロライブ（ホロライブプロダクション）に関する辞書ファイルです。./dictionary フォルダ内のテキストファイルを使って、IMEに単語を追加できます。詳細はREADME.mdをご覧ください。
- * [jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan) - Yomitan/YomichanのためのJMdict、JMnedict、KANJIDIC。
- * [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) - Yomichanの単語に対するJLPTレベルのタグ
- * [Jitendex](https://github.com/stephenmk/Jitendex) - 複数の辞書クライアントと互換性のある、無料でオープンライセンスの日本語-英語辞書
+ * [jmdict-yomitan](https://github.com/yomidevs/jmdict-yomitan) - Yomitan/YomichanのためのJMdict、JMnedict、KANJIDIC。
+ * [yomitan-jlpt-vocab](https://github.com/stephenmk/yomitan-jlpt-vocab) - Yomichanの単語に対するJLPTレベルのタグ
  * [jiten](https://github.com/obfusk/jiten) - JMDict/Kanjidicに基づいた日本語のAndroid/CLI/Web辞書 — 日本語辞典、和英辞典、漢英字典、和独辞典、和蘭辞典
  * [pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan) - ピクシブ百科事典読谷のため
  * [uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict) - うちなーぐち辞典（沖縄語辞典）
@@ -1530,7 +1519,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - アンシーユニコード - アナザーアンシー
  * [azooKey](https://github.com/azooKey/azooKey) - azooKeyは、iPhoneとiPad向けのオープンソースの日本語キーボードで、Swiftで書かれており、独自のかな漢字変換エンジンによって動作します。リアルタイム変換、柔軟なキーレイアウト、そしてスムーズなタイピング体験のためのクリーンなSwiftUIインターフェースを提供します。
  * [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) - azooKey-Desktopは、macOS向けのオープンソースの日本語入力メソッドであり、Swiftで書かれており、Zenzaiニューラル仮名漢字変換エンジンによって動作します。ライブ変換、オプションのLLMベースの「マジック変換」、そしてTunerによるパーソナライゼーションを提供し、スムーズなデスクトップ入力体験を実現します。
- * [fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey) - fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。
+ * [hazkey](https://github.com/7ka-Hiira/hazkey) - fcitx5用の日本語入力メソッド、azooKeyエンジンによって提供されています。
  * [mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names) - Mozc UT 場所名辞書は、Mozc用に日本郵便の郵便番号データから変換された辞書です。
  * [AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) - Swiftで書かれた仮名漢字変換モジュールで、ニューラル仮名漢字変換やその他のクールな機能をサポートしています。
  * [libkkc](https://github.com/ueno/libkkc) - 日本語仮名漢字変換入力方式ライブラリ
@@ -1550,7 +1539,6 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime) - Android用のFOSS日本語IME
  * [anthywl](https://github.com/tadeokondrak/anthywl) - Swayのためのlibanthyを使用した日本語入力方法
  * [sekka](https://github.com/kiyoka/sekka) - SKKに触発されたもう1つの日本語入力方式。
- * [sumibi](https://github.com/kiyoka/sumibi) - ChatGPT APIによって強化された日本語入力方法
  * [jinmei-dict](https://github.com/s1r-j/jinmei-dict) - 辞書データから人名だけを抜き出し、読み仮名（カタカナ）をキーとして、候補となる書き文字をリストで保持するようなJSON形式に整形しています。
  * [japanesearabic](https://github.com/a-hamdi/japanesearabic) - 日本語アラビア語辞書（ヨミタン）
  * [o-dic](https://github.com/makotoga/o-dic) - 沖縄辞書
@@ -1604,9 +1592,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[mh-dict-jp](https://github.com/utubo/mh-dict-jp)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utubo/mh-dict-jp?style=social)|
 |[mecab-unidic-neologd](https://github.com/neologd/mecab-unidic-neologd)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neologd/mecab-unidic-neologd?style=social)|
 |[hololive-dictionary](https://github.com/heppokofrontend/hololive-dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/heppokofrontend/hololive-dictionary?style=social)|
-|[jmdict-yomitan](https://github.com/themoeway/jmdict-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/themoeway/jmdict-yomitan?style=social)|
-|[yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/yomichan-jlpt-vocab?style=social)|
-|[Jitendex](https://github.com/stephenmk/Jitendex)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/Jitendex?style=social)|
+|[jmdict-yomitan](https://github.com/yomidevs/jmdict-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yomidevs/jmdict-yomitan?style=social)|
+|[yomitan-jlpt-vocab](https://github.com/stephenmk/yomitan-jlpt-vocab)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/stephenmk/yomitan-jlpt-vocab?style=social)|
 |[jiten](https://github.com/obfusk/jiten)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/obfusk/jiten?style=social)|
 |[pixiv-yomitan](https://github.com/MarvNC/pixiv-yomitan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MarvNC/pixiv-yomitan?style=social)|
 |[uchinaaguchi_dict](https://github.com/nanjakkun/uchinaaguchi_dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nanjakkun/uchinaaguchi_dict?style=social)|
@@ -1620,7 +1607,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[anthy-unicode](https://github.com/fujiwarat/anthy-unicode)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/fujiwarat/anthy-unicode?style=social)|
 |[azooKey](https://github.com/azooKey/azooKey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azooKey/azooKey?style=social)|
 |[azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azooKey/azooKey-Desktop?style=social)|
-|[fcitx5-hazkey](https://github.com/7ka-hiira/fcitx5-hazkey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/7ka-hiira/fcitx5-hazkey?style=social)|
+|[hazkey](https://github.com/7ka-Hiira/hazkey)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/7ka-Hiira/hazkey?style=social)|
 |[mozcdic-ut-place-names](https://github.com/utuhiro78/mozcdic-ut-place-names)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/utuhiro78/mozcdic-ut-place-names?style=social)|
 |[AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/azooKey/AzooKeyKanaKanjiConverter?style=social)|
 |[libkkc](https://github.com/ueno/libkkc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ueno/libkkc?style=social)|
@@ -1640,7 +1627,6 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[japanese_android_ime](https://github.com/nelsonapenn/japanese_android_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nelsonapenn/japanese_android_ime?style=social)|
 |[anthywl](https://github.com/tadeokondrak/anthywl)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tadeokondrak/anthywl?style=social)|
 |[sekka](https://github.com/kiyoka/sekka)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/sekka?style=social)|
-|[sumibi](https://github.com/kiyoka/sumibi)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kiyoka/sumibi?style=social)|
 |[jinmei-dict](https://github.com/s1r-j/jinmei-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/s1r-j/jinmei-dict?style=social)|
 |[japanesearabic](https://github.com/a-hamdi/japanesearabic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/a-hamdi/japanesearabic?style=social)|
 |[o-dic](https://github.com/makotoga/o-dic)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makotoga/o-dic?style=social)|
@@ -1798,7 +1784,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan) - これは日本の総理大臣の一般政策演説のコーパスです。
  * [wrime](https://github.com/ids-cv/wrime) - WRIME: 主観と客観の感情分析データセット
  * [jtubespeech](https://github.com/sarulab-speech/jtubespeech) - JTubeSpeech：YouTubeから収集された日本語音声のコーパス
- * [WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList) - 日本語Wikipediaで使用される頻出単語のリスト
+ * [WikipediaWordFrequencyList2](https://github.com/maeda6uiui/WikipediaWordFrequencyList2) - 日本語Wikipediaで使用される頻出単語のリスト
  * [kokkosho_data](https://github.com/rindybell/kokkosho_data) - 車両不具合情報に関するデータセット
  * [pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1) - デジタル化資料OCRテキスト化事業において作成されたOCR学習用データセット
  * [huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib) - 全国書誌データから作成した振り仮名のデータセット
@@ -1835,7 +1821,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity) - 「意味原理に基づく単語リスト（WLSP）」の単語親しみ度率
  * [ProSub](https://github.com/matbahasa/ProSub) - 代名詞の代替物と呼びかけの言葉に関する言語間比較研究
  * [ramendb](https://github.com/nuko-yokohama/ramendb) - なんとかデータベース( https://supleks.jp/ )からのスクレイピングツールと収集データ
- * [huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA) - huggingfaceデータセットのためのCAMERA（CyberAgent Multimodal Evaluation for Ad Text GeneRAtion）
+ * [huggingface-datasets_CAMERA](https://github.com/creative-graphic-design/huggingface-datasets_CAMERA) - huggingfaceデータセットのためのCAMERA（CyberAgent Multimodal Evaluation for Ad Text GeneRAtion）
  * [FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-) - ファクトチェック文NLIデータセット
  * [databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。
  * [EaST-MELD](https://github.com/ku-nlp/EaST-MELD) - EaST-MELDは、MELDに基づく感情認識音声翻訳のための英日データセットです。
@@ -1992,7 +1978,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan?style=social)|
 |[wrime](https://github.com/ids-cv/wrime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ids-cv/wrime?style=social)|
 |[jtubespeech](https://github.com/sarulab-speech/jtubespeech)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sarulab-speech/jtubespeech?style=social)|
-|[WikipediaWordFrequencyList](https://github.com/maeda6uiui-backup/WikipediaWordFrequencyList)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/maeda6uiui-backup/WikipediaWordFrequencyList?style=social)|
+|[WikipediaWordFrequencyList2](https://github.com/maeda6uiui/WikipediaWordFrequencyList2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/maeda6uiui/WikipediaWordFrequencyList2?style=social)|
 |[kokkosho_data](https://github.com/rindybell/kokkosho_data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rindybell/kokkosho_data?style=social)|
 |[pdmocrdataset-part1](https://github.com/ndl-lab/pdmocrdataset-part1)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/pdmocrdataset-part1?style=social)|
 |[huriganacorpus-ndlbib](https://github.com/ndl-lab/huriganacorpus-ndlbib)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/huriganacorpus-ndlbib?style=social)|
@@ -2029,7 +2015,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[WLSP-familiarity](https://github.com/masayu-a/WLSP-familiarity)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/WLSP-familiarity?style=social)|
 |[ProSub](https://github.com/matbahasa/ProSub)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/matbahasa/ProSub?style=social)|
 |[ramendb](https://github.com/nuko-yokohama/ramendb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nuko-yokohama/ramendb?style=social)|
-|[huggingface-datasets_CAMERA](https://github.com/shunk031/huggingface-datasets_CAMERA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shunk031/huggingface-datasets_CAMERA?style=social)|
+|[huggingface-datasets_CAMERA](https://github.com/creative-graphic-design/huggingface-datasets_CAMERA)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/creative-graphic-design/huggingface-datasets_CAMERA?style=social)|
 |[FactCheckSentenceNLI-FCSNLI-](https://github.com/nlp-waseda/FactCheckSentenceNLI-FCSNLI-)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nlp-waseda/FactCheckSentenceNLI-FCSNLI-?style=social)|
 |[databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kunishou/databricks-dolly-15k-ja?style=social)|
 |[EaST-MELD](https://github.com/ku-nlp/EaST-MELD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/EaST-MELD?style=social)|
@@ -2172,14 +2158,13 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [nlpbook](https://github.com/mamorlis/nlpbook) - 「自然言語処理の教科書」サポートサイト
  * [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) - 作って学ぶ正規表現エンジン
  * [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) - 【2024年版】BERTによるテキスト分類
- * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - Google Gemmaの日本語の説明のためのファインチューニング
- * [nlp100v2020](https://github.com/upura/nlp100v2020) - 「言語処理100本ノック 2020」をPythonで解く
+ * [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) - Google Gemmaの日本語の説明のためのファインチューニング
  * [textmining-ja](https://github.com/paithiov909/textmining-ja) - Rによる自然言語処理・テキスト分析の練習
  * [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) - NLP2025 のチュートリアル「地理情報と言語処理 実践入門」の資料とソースコード
  * [nlp100v2025](https://github.com/upura/nlp100v2025) - 「言語処理100本ノック 2025」をPythonで解く
  * [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) - 『トピックモデル』(機械学習プロフェッショナルシリーズ)のノート
  * [slp2025](https://github.com/ryota-komatsu/slp2025) - 音学シンポジウム2025チュートリアル「マルチモーダル大規模言語モデル入門」資料
- * [book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai) - インプレス出版「IT基礎教養 自然言語処理＆画像解析」
+ * [book-impress-it-basic-education-ai](https://github.com/liber-craft-co-ltd/book-impress-it-basic-education-ai) - インプレス出版「IT基礎教養 自然言語処理＆画像解析」
  * [genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book) - 書籍「現場で活用するための生成AIエージェント実践入門」（講談社サイエンティフィック社）で利用されるソースコード
  * [support-genai-book](https://github.com/yoheikikuta/support-genai-book) - 原論文から解き明かす生成AI（技術評論社）のサポートページです
  * [ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
@@ -2211,15 +2196,14 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
 |[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
 |[bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/bert-classification-tutorial-2024?style=social)|
-|[Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/main/Gemma2_2b_Japanese_finetuning_colab.ipynb?style=social)|
-|[nlp100v2020](https://github.com/upura/nlp100v2020)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2020?style=social)|
+|[Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/main/Gemma2_2b_Japanese_finetuning_colab.ipynb?style=social)|
 |[textmining-ja](https://github.com/paithiov909/textmining-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/paithiov909/textmining-ja?style=social)|
 |[nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuiseki/nlp2025-tutorial-2?style=social)|
 |[nlp100v2025](https://github.com/upura/nlp100v2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2025?style=social)|
 |[public-annotations](https://github.com/manga109/public-annotations)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/manga109/public-annotations?style=social)|
 |[topic-models-ao](https://github.com/anemptyarchive/topic-models-ao)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/anemptyarchive/topic-models-ao?style=social)|
 |[slp2025](https://github.com/ryota-komatsu/slp2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ryota-komatsu/slp2025?style=social)|
-|[book_impress_it-basic-education-ai](https://github.com/liber-craft-co-ltd/book_impress_it-basic-education-ai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liber-craft-co-ltd/book_impress_it-basic-education-ai?style=social)|
+|[book-impress-it-basic-education-ai](https://github.com/liber-craft-co-ltd/book-impress-it-basic-education-ai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liber-craft-co-ltd/book-impress-it-basic-education-ai?style=social)|
 |[genai-agent-advanced-book](https://github.com/masamasa59/genai-agent-advanced-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masamasa59/genai-agent-advanced-book?style=social)|
 |[support-genai-book](https://github.com/yoheikikuta/support-genai-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yoheikikuta/support-genai-book?style=social)|
 |[ir100](https://github.com/ir100/ir100)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ir100/ir100?style=social)|
