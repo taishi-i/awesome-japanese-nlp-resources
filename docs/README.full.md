@@ -7,8 +7,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [890 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [454 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [895 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [450 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Listed information on [156 multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,11 +16,15 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Python**
- * [natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing) - An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. 59-item checklist across six layers, plus an automated checker.
- * [TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox) - Free offline desktop app (Windows/macOS) that reads Japanese PDFs, images, EPUB and Aozora Bunko aloud with VOICEVOX voices (Zundamon etc.), with SRT subtitles. ／ PDF・画像・青空文庫の日本語を VOICEVOX（ずんだもん等）で朗読・音声化する無料デスクトップアプリ。オフラインOCR・行ごとの話者切替・字幕出力。
- * [natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
+ * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - A fork of Irodori-TTS. It includes tools for generating captions (such as with LLM-Studio) and merging models. The inference capabilities have also been enhanced with features like continuous generation and voice quality adjustment.
+ * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine: AI Voice Imitation System - Text to Speech Engine
+ * [onsei](https://github.com/itsupera/onsei) - Japanese pitch accent practice tool
+ * [furiganalyse](https://github.com/itsupera/furiganalyse) - Add furigana to Japanese ebooks (and other useful conversions)
 
-_Updated on Oct 20, 2026_
+**JavaScript**
+ * [miteiru](https://github.com/hockyy/miteiru) - Free video player for learning Japanese, Mandarin, Cantonese and Vietnamese from what you watch. Click any subtitle word for its reading and offline dictionary meaning. Plays local files and YouTube, with dual subtitles, karaoke lyrics and Anki export.
+
+_Updated on Oct 27, 2026_
 
 
 ## Claude Code & Codex Plugin

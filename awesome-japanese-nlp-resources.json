@@ -4153,6 +4153,54 @@
                     "zh-hans": "这是用于写作和修改工作日本语，使其易读易懂的代理技能。",
                     "zh-hant": "這是用來撰寫、修改工作日本語，使其易讀易懂的 Agent 技能。"
                 }
+            },
+            "https://github.com/iron-mukakin/Emoji-TTS": {
+                "sub_category": null,
+                "repository_name": "Emoji-TTS",
+                "user_name": "iron-mukakin",
+                "description": "A fork of Irodori-TTS. It includes tools for generating captions (such as with LLM-Studio) and merging models. The inference capabilities have also been enhanced with features like continuous generation and voice quality adjustment.",
+                "multilingual_descriptions": {
+                    "en": "A fork of Irodori-TTS. It includes tools for generating captions (such as with LLM-Studio) and merging models. The inference capabilities have also been enhanced with features like continuous generation and voice quality adjustment.",
+                    "ja": "Irodori-TTSのフォークです。LLM-Studioなどを使ったキャプション生成ツールや、モデルをマージするツールが含まれています。また、連続生成や音声品質の調整といった機能により、推論機能も強化されています。",
+                    "zh-hans": "Irodori-TTS 的一个分支版本。它包含用于生成字幕的工具（例如使用 LLM-Studio），以及模型合并工具。推理能力也得到了增强，新增了连续生成和音质调节等功能。",
+                    "zh-hant": "Irodori-TTS 的分支版本。包含用於生成字幕的工具（例如搭配 LLM-Studio 使用）以及模型合併工具。推理能力也有所增強，加入了連續生成與語音品質調整等功能。"
+                }
+            },
+            "https://github.com/Aivis-Project/AivisSpeech-Engine": {
+                "sub_category": null,
+                "repository_name": "AivisSpeech-Engine",
+                "user_name": "Aivis-Project",
+                "description": "Text to Speech Engine",
+                "multilingual_descriptions": {
+                    "en": "AivisSpeech Engine: AI Voice Imitation System - Text to Speech Engine",
+                    "ja": "AivisSpeech Engine：AI音声模倣システム ― 音声合成エンジン",
+                    "zh-hans": "AivisSpeech 引擎：AI 语音模仿系统——文本转语音引擎",
+                    "zh-hant": "AivisSpeech 引擎：AI 語音模仿系統－文字轉語音引擎"
+                }
+            },
+            "https://github.com/itsupera/onsei": {
+                "sub_category": null,
+                "repository_name": "onsei",
+                "user_name": "itsupera",
+                "description": "Japanese pitch accent practice tool",
+                "multilingual_descriptions": {
+                    "en": "Japanese pitch accent practice tool",
+                    "ja": "日本語のピッチアクセント練習ツール",
+                    "zh-hans": "日语音调练习工具",
+                    "zh-hant": "日語音調練習工具"
+                }
+            },
+            "https://github.com/itsupera/furiganalyse": {
+                "sub_category": null,
+                "repository_name": "furiganalyse",
+                "user_name": "itsupera",
+                "description": "Add furigana to Japanese ebooks (and other useful conversions)",
+                "multilingual_descriptions": {
+                    "en": "Add furigana to Japanese ebooks (and other useful conversions)",
+                    "ja": "日本語の電子書籍にふりがなを付ける（その他の便利な変換も）",
+                    "zh-hans": "为日语电子书添加振假名（以及其他实用的转换功能）",
+                    "zh-hant": "為日文電子書添加振假名（以及其他實用的轉換）"
+                }
             }
         },
         "C++": {
@@ -5454,6 +5502,18 @@
                     "ja": "grepによる意味で、言語を横断して検索します。TypeSafe Jevは、すべての行を意味に対してスコア付けし、AND/OR/NOTで意味を組み合わせます。",
                     "zh-hans": "通过意义在不同语言中进行grep。TypeSafe Jev根据每行的意义进行评分；使用AND/OR/NOT组合意义。意味で探すgrep。可以在日语中搜索英语，也可以在英语中搜索日语。",
                     "zh-hant": "通過不同語言的含義進行grep。TypeSafe Jev對每行進行含義評分；使用AND/OR/NOT組合含義。意味で探すgrep。日本語で英語を、英語で日本語を検索できる。"
+                }
+            },
+            "https://github.com/hockyy/miteiru": {
+                "sub_category": null,
+                "repository_name": "miteiru",
+                "user_name": "hockyy",
+                "description": "Free video player for learning Japanese, Mandarin, Cantonese and Vietnamese from what you watch. Click any subtitle word for its reading and offline dictionary meaning. Plays local files and YouTube, with dual subtitles, karaoke lyrics and Anki export.",
+                "multilingual_descriptions": {
+                    "en": "Free video player for learning Japanese, Mandarin, Cantonese and Vietnamese from what you watch. Click any subtitle word for its reading and offline dictionary meaning. Plays local files and YouTube, with dual subtitles, karaoke lyrics and Anki export.",
+                    "ja": "日本語・中国語（標準語／広東語）・ベトナム語の学習に使える無料動画プレーヤー。視聴中の動画に表示された字幕の単語をクリックすると、読み方やオフライン辞書の意味を確認できます。ローカルファイルやYouTubeの再生に対応し、二重字幕、カラオケ歌詞、Ankiへのエクスポートも利用できます。",
+                    "zh-hans": "免费的视频播放器，通过观看内容学习日语、普通话、粤语和越南语。点击任意字幕单词即可查看其读音和离线词典释义。支持播放本地文件和 YouTube 视频，并提供双语字幕、卡拉 OK 歌词以及 Anki 导出功能。",
+                    "zh-hant": "免費影片播放器，讓你從觀看的內容學習日文、普通話、粵語和越南語。點擊任何字幕中的單詞，即可查看讀音及離線字典釋義。支援播放本機檔案與 YouTube，並提供雙語字幕、卡拉 OK 歌詞及匯出至 Anki 的功能。"
                 }
             }
         },
