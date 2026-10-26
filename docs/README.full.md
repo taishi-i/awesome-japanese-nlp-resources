@@ -702,6 +702,7 @@ General-purpose tools supporting Japanese language processing
  * [TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox) - Free offline desktop app (Windows/macOS) that reads Japanese PDFs, images, EPUB and Aozora Bunko aloud with VOICEVOX voices (Zundamon etc.), with SRT subtitles. ／ PDF・画像・青空文庫の日本語を VOICEVOX（ずんだもん等）で朗読・音声化する無料デスクトップアプリ。オフラインOCR・行ごとの話者切替・字幕出力。
  * [natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
  * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - A fork of Irodori-TTS. It includes tools for generating captions (such as with LLM-Studio) and merging models. The inference capabilities have also been enhanced with features like continuous generation and voice quality adjustment.
+ * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine: AI Voice Imitation System - Text to Speech Engine
 
 
 |Name|downloads/week|total downloads|stars|
@@ -919,6 +920,7 @@ General-purpose tools supporting Japanese language processing
 |[TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rakuyou211-blip/TextToVoicevox?style=social)|
 |[natural-japanese](https://github.com/coji/natural-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/coji/natural-japanese?style=social)|
 |[Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iron-mukakin/Emoji-TTS?style=social)|
+|[AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aivis-Project/AivisSpeech-Engine?style=social)|
 
 
 ## C++
