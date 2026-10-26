@@ -701,6 +701,7 @@ General-purpose tools supporting Japanese language processing
  * [natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing) - An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. 59-item checklist across six layers, plus an automated checker.
  * [TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox) - Free offline desktop app (Windows/macOS) that reads Japanese PDFs, images, EPUB and Aozora Bunko aloud with VOICEVOX voices (Zundamon etc.), with SRT subtitles. ／ PDF・画像・青空文庫の日本語を VOICEVOX（ずんだもん等）で朗読・音声化する無料デスクトップアプリ。オフラインOCR・行ごとの話者切替・字幕出力。
  * [natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
+ * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - A fork of Irodori-TTS. It includes tools for generating captions (such as with LLM-Studio) and merging models. The inference capabilities have also been enhanced with features like continuous generation and voice quality adjustment.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -917,6 +918,7 @@ General-purpose tools supporting Japanese language processing
 |[natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kojikojikojikoji/natural-japanese-writing?style=social)|
 |[TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rakuyou211-blip/TextToVoicevox?style=social)|
 |[natural-japanese](https://github.com/coji/natural-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/coji/natural-japanese?style=social)|
+|[Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iron-mukakin/Emoji-TTS?style=social)|
 
 
 ## C++
