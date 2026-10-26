@@ -704,6 +704,7 @@ General-purpose tools supporting Japanese language processing
  * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - A fork of Irodori-TTS. It includes tools for generating captions (such as with LLM-Studio) and merging models. The inference capabilities have also been enhanced with features like continuous generation and voice quality adjustment.
  * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine: AI Voice Imitation System - Text to Speech Engine
  * [onsei](https://github.com/itsupera/onsei) - Japanese pitch accent practice tool
+ * [furiganalyse](https://github.com/itsupera/furiganalyse) - Add furigana to Japanese ebooks (and other useful conversions)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -923,6 +924,7 @@ General-purpose tools supporting Japanese language processing
 |[Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/iron-mukakin/Emoji-TTS?style=social)|
 |[AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aivis-Project/AivisSpeech-Engine?style=social)|
 |[onsei](https://github.com/itsupera/onsei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/onsei?style=social)|
+|[furiganalyse](https://github.com/itsupera/furiganalyse)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/furiganalyse?style=social)|
 
 
 ## C++
