@@ -4,7 +4,7 @@
   "d": "💫 Industrial-strength Natural Language Processing (NLP) in Python.",
   "d_ja": "💫 Python による産業レベルの自然言語処理（NLP）。",
   "id": "gh:explosion/spacy",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "spaCy",
   "ns": 10,
   "s": [
@@ -38,7 +38,7 @@
   "d": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification.",
   "d_ja": "次の10年のための自然言語処理。単語分割、品詞タグ付け、固有表現認識、統語・意味依存構造解析、文書分類。",
   "id": "gh:hankcs/hanlp",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "HanLP",
   "ns": 10,
   "s": [
@@ -293,7 +293,7 @@
   "d": "The most accurate natural language detection library for Rust, suitable for short text and mixed-language text.",
   "d_ja": "Rust 向けの最も高精度な自然言語判定ライブラリで、短文や多言語混在テキストに適している。",
   "id": "gh:pemistahl/lingua-rs",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "lingua-rs",
   "ns": 7.97,
   "s": [
@@ -1347,7 +1347,7 @@
   "d": "Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine.",
   "d_ja": "Confucius4-TTS：多言語・クロスリンガル対応のゼロショット音声合成エンジン。",
   "id": "gh:netease-youdao/confucius4-tts",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "Confucius4-TTS",
   "ns": 7.6,
   "s": [
@@ -1483,7 +1483,7 @@
   "d": "OCR, layout analysis, reading order, table recognition in 90+ languages.",
   "d_ja": "90以上の言語に対応したOCR、レイアウト解析、読み順推定、表認識。",
   "id": "gh:datalab-to/surya",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "surya",
   "ns": 10,
   "s": [
@@ -1500,7 +1500,7 @@
   "d": "OCR model that handles complex tables, forms, handwriting with full layout.",
   "d_ja": "複雑な表・フォーム・手書き文字をレイアウト全体を含めて処理できるOCRモデル。",
   "id": "gh:datalab-to/chandra",
-  "lc": "2026-06",
+  "lc": "2026-10",
   "n": "chandra",
   "ns": 10,
   "s": [
@@ -2197,7 +2197,7 @@
   "d": "Monolingual wordlists with pronunciation information in IPA.",
   "d_ja": "IPA による発音情報付きの単言語単語リスト。",
   "id": "gh:open-dict-data/ipa-dict",
-  "lc": "2025-05",
+  "lc": "2026-10",
   "n": "ipa-dict",
   "ns": 7.57,
   "s": [
@@ -2520,7 +2520,7 @@
   "d": "Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.",
   "d_ja": "プラットフォームに依存しないカスタマイズ可能なパイプライン処理ブロック群を提供することで、データ処理をスクリプトの混沌から解放する。",
   "id": "gh:huggingface/datatrove",
-  "lc": "2026-09",
+  "lc": "2026-10",
   "n": "datatrove",
   "ns": 9.19,
   "s": [
