@@ -8,7 +8,7 @@
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
 - Listed information on [895 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [450 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [441 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Listed information on [156 multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -51,7 +51,7 @@ The plugin ships four skills:
 
 | Skill | Purpose |
 |---|---|
-| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,200+ resource dataset |
+| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,450+ resource dataset |
 | `/awesome-japanese-nlp-resources:discover <tool-or-topic>` | Given a tool, find alternatives (listed and unlisted); given a topic, find contribution candidates not yet in the list |
 | `/awesome-japanese-nlp-resources:compare <tool-or-topic>` | Compare several libraries/models/datasets across a few criteria as a ○/△/✕ table |
 | `/awesome-japanese-nlp-resources:research <topic>` | Survey the dataset + latest web research for a combined trend + challenges report |
@@ -155,7 +155,7 @@ Libraries that split Japanese text into words or morphemes and assign part-of-sp
 
 |Name|downloads/week|total downloads|stars|
 -|-|-|-
-|[SudachiPy](https://github.com/WorksApplications/SudachiPy)|[![Downloads](https://static.pepy.tech/badge/sudachipy/week)](https://pepy.tech/project/sudachipy)|[![Downloads](https://static.pepy.tech/badge/sudachipy)](https://pepy.tech/project/sudachipy)|![GitHub Repo stars](https://img.shields.io/github/stars/WorksApplications/SudachiPy?style=social)|
+|[sudachi.rs](https://github.com/WorksApplications/sudachi.rs)|[![Downloads](https://static.pepy.tech/badge/sudachipy/week)](https://pepy.tech/project/sudachipy)|[![Downloads](https://static.pepy.tech/badge/sudachipy)](https://pepy.tech/project/sudachipy)|![GitHub Repo stars](https://img.shields.io/github/stars/WorksApplications/sudachi.rs?style=social)|
 |[Janome](https://github.com/mocobeta/janome)|[![Downloads](https://static.pepy.tech/badge/janome/week)](https://pepy.tech/project/janome)|[![Downloads](https://static.pepy.tech/badge/janome)](https://pepy.tech/project/janome)|![GitHub Repo stars](https://img.shields.io/github/stars/mocobeta/janome?style=social)|
 |[mecab-python3](https://github.com/SamuraiT/mecab-python3)|[![Downloads](https://static.pepy.tech/badge/mecab-python3/week)](https://pepy.tech/project/mecab-python3)|[![Downloads](https://static.pepy.tech/badge/mecab-python3)](https://pepy.tech/project/mecab-python3)|![GitHub Repo stars](https://img.shields.io/github/stars/SamuraiT/mecab-python3?style=social)|
 |[mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python)|[![Downloads](https://static.pepy.tech/badge/mecab/week)](https://pepy.tech/project/mecab)|[![Downloads](https://static.pepy.tech/badge/mecab)](https://pepy.tech/project/mecab)|![GitHub Repo stars](https://img.shields.io/github/stars/ikegami-yukino/mecab?style=social)|
@@ -775,7 +775,7 @@ General-purpose tools supporting Japanese language processing
 |[asr](https://github.com/zakuro-ai/asr)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zakuro-ai/asr?style=social)|
 |[neural_ime](https://github.com/yohokuno/neural_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yohokuno/neural_ime?style=social)|
 |[neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Kyubyong/neural_japanese_transliterator?style=social)|
-|[tinysegmenter](https://github.com/SamuraiT/tinysegmenter)|[![Downloads](https://static.pepy.tech/badge/tinysegmenter/week)](https://pepy.tech/project/tinysegmenter3)|[![Downloads](https://static.pepy.tech/badge/tinysegmenter3)](https://pepy.tech/project/tinysegmenter3)|![GitHub Repo stars](https://img.shields.io/github/stars/SamuraiT/tinysegmenter3?style=social)|
+|[tinysegmenter](https://github.com/SamuraiT/tinysegmenter)|[![Downloads](https://static.pepy.tech/badge/tinysegmenter3/week)](https://pepy.tech/project/tinysegmenter3)|[![Downloads](https://static.pepy.tech/badge/tinysegmenter3)](https://pepy.tech/project/tinysegmenter3)|![GitHub Repo stars](https://img.shields.io/github/stars/SamuraiT/tinysegmenter?style=social)|
 |[AugLy-jp](https://github.com/chck/AugLy-jp)|[![Downloads](https://static.pepy.tech/badge/AugLy-jp/week)](https://pepy.tech/project/AugLy-jp)|[![Downloads](https://static.pepy.tech/badge/AugLy-jp)](https://pepy.tech/project/AugLy-jp)|![GitHub Repo stars](https://img.shields.io/github/stars/chck/AugLy-jp?style=social)|
 |[furigana4epub](https://github.com/Mumumu4/furigana4epub)|[![Downloads](https://static.pepy.tech/badge/furigana4epub/week)](https://pepy.tech/project/furigana4epub)|[![Downloads](https://static.pepy.tech/badge/furigana4epub)](https://pepy.tech/project/furigana4epub)|![GitHub Repo stars](https://img.shields.io/github/stars/Mumumu4/furigana4epub?style=social)|
 |[PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou)|[![Downloads](https://static.pepy.tech/badge/PyKatsuyou/week)](https://pepy.tech/project/PyKatsuyou)|[![Downloads](https://static.pepy.tech/badge/PyKatsuyou)](https://pepy.tech/project/PyKatsuyou)|![GitHub Repo stars](https://img.shields.io/github/stars/SmashinFries/PyKatsuyou?style=social)|
@@ -1616,6 +1616,7 @@ Resources for Japanese dictionaries and input method editors (IME)
 |[mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/kengo700/mouse_over_dictionary?style=social)|
 |[jisyo](https://github.com/skk-dict/jisyo)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/skk-dict/jisyo?style=social)|
 |[skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ymrl/skk-jisyo.emoji-ja?style=social)|
+|[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 |[aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/konyu/aws_dic_for_google_ime?style=social)|
 |[cl-skkserv](https://github.com/tani/cl-skkserv)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tani/cl-skkserv?style=social)|
 |[anthy](https://github.com/xorgy/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xorgy/anthy?style=social)|
@@ -1690,7 +1691,6 @@ Corpora annotated with part-of-speech tags and named entities
 |[UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/UD_Japanese-GSD?style=social)|
 |[KWDLC](https://github.com/ku-nlp/KWDLC)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/KWDLC?style=social)|
 |[AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ku-nlp/AnnotatedFKCCorpus?style=social)|
-|[anthy](https://github.com/netsphere-labs/anthy)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/netsphere-labs/anthy?style=social)|
 |[UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/UniversalDependencies/UD_Japanese-GSDLUW?style=social)|
 |[ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/universaldependencies/ud_japanese-bccwj?style=social)|
 
@@ -2081,6 +2081,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[multils-japanese](https://github.com/naist-nlp/multils-japanese)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/naist-nlp/multils-japanese?style=social)|
 |[nwjc](https://github.com/masayu-a/nwjc)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/masayu-a/nwjc?style=social)|
 |[open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mantra-inc/open-mantra-dataset?style=social)|
+|[public-annotations](https://github.com/manga109/public-annotations)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/manga109/public-annotations?style=social)|
 |[gimei](https://github.com/willnet/gimei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/willnet/gimei?style=social)|
 |[safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sbintuitions/safety-boundary-test?style=social)|
 |[j-ono-data](https://github.com/ObakeConstructs/j-ono-data)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ObakeConstructs/j-ono-data?style=social)|
@@ -2211,11 +2212,10 @@ Guides and tutorials for learning Japanese NLP tools and techniques
 |[nlpbook](https://github.com/mamorlis/nlpbook)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/mamorlis/nlpbook?style=social)|
 |[kantan-regex-book](https://github.com/makenowjust/kantan-regex-book)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/makenowjust/kantan-regex-book?style=social)|
 |[bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hpprc/bert-classification-tutorial-2024?style=social)|
-|[Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/main/Gemma2_2b_Japanese_finetuning_colab.ipynb?style=social)|
+|[Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/qianniu0304/gemma2_2b_finetune_jp_tutorial?style=social)|
 |[textmining-ja](https://github.com/paithiov909/textmining-ja)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/paithiov909/textmining-ja?style=social)|
 |[nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/yuiseki/nlp2025-tutorial-2?style=social)|
 |[nlp100v2025](https://github.com/upura/nlp100v2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/upura/nlp100v2025?style=social)|
-|[public-annotations](https://github.com/manga109/public-annotations)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/manga109/public-annotations?style=social)|
 |[topic-models-ao](https://github.com/anemptyarchive/topic-models-ao)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/anemptyarchive/topic-models-ao?style=social)|
 |[slp2025](https://github.com/ryota-komatsu/slp2025)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ryota-komatsu/slp2025?style=social)|
 |[book-impress-it-basic-education-ai](https://github.com/liber-craft-co-ltd/book-impress-it-basic-education-ai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liber-craft-co-ltd/book-impress-it-basic-education-ai?style=social)|

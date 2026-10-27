@@ -1,4 +1,4 @@
 interface:
   display_name: "Japanese NLP Search"
-  short_description: "Search 1,350+ curated Japanese NLP resources"
+  short_description: "Search 1,450+ curated Japanese NLP resources"
   default_prompt: "Use $awesome-japanese-nlp-resources:search to find Japanese morphological analyzers."

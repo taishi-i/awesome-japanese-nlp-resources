@@ -72,7 +72,7 @@ The plugin also ships `data/multilingual_resources.json` (same item format) list
 
 ### Step 3 — Survey the existing dataset (inline Python)
 
-**Do not read the data file directly** (no Read tool, `cat`, or `head`) — it is about 660 KB. Run the scoring in a single shell command using Python.
+**Do not read the data file directly** (no Read tool, `cat`, or `head`) — it is about 730 KB. Run the scoring in a single shell command using Python.
 
 ```python
 python3 << 'EOF'

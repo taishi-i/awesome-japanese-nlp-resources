@@ -9,7 +9,7 @@
     {
       "name": "awesome-japanese-nlp-resources",
       "source": "./plugins/awesome-japanese-nlp-resources",
-      "description": "Search 1,200+ Japanese NLP resources: libraries (Python/Rust/JS/Go/Java), pretrained models, datasets/corpora, tutorials, and dictionaries",
+      "description": "Search 1,450+ Japanese NLP resources: libraries (Python/Rust/JS/Go/Java), pretrained models, datasets/corpora, tutorials, and dictionaries",
       "author": {
         "name": "taishi-i"
       },

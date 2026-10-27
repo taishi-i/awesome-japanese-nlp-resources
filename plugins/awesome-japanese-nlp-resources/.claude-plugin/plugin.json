@@ -1,7 +1,7 @@
 {
   "name": "awesome-japanese-nlp-resources",
-  "version": "2.2.4",
-  "description": "Search 1,350+ Japanese NLP resources: libraries, pretrained models, datasets, tutorials, dictionaries, Hugging Face resources, and multilingual libraries that also support Japanese from awesome-japanese-nlp-resources",
+  "version": "2.2.5",
+  "description": "Search 1,450+ Japanese NLP resources: libraries, pretrained models, datasets, tutorials, dictionaries, Hugging Face resources, and multilingual libraries that also support Japanese from awesome-japanese-nlp-resources",
   "author": {
     "name": "taishi-i"
   },

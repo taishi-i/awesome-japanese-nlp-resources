@@ -104,7 +104,7 @@ The plugin also ships `data/multilingual_resources.json` (same item format) list
 
 ### Step 3 — Search and score with Python
 
-**Do not read the data file directly** (no Read tool, `cat`, `head`, or similar) — it is about 660 KB and would flood the context. Instead, run the scoring in a single shell command using Python.
+**Do not read the data file directly** (no Read tool, `cat`, `head`, or similar) — it is about 730 KB and would flood the context. Instead, run the scoring in a single shell command using Python.
 
 Each item in the JSON array has:
 - `u`: GitHub or Hugging Face URL
@@ -119,7 +119,7 @@ Each item in the JSON array has:
 - `dl`: Hugging Face download count (HF items only; absent or 0 otherwise)
 - `nd`: normalized download score 0–10 (log-scaled, HF items only)
 - `sc`: pre-computed quality score (higher = more popular/active)
-- `status`: `"ok"` or `"not_found"` — items whose repo 404s (~8 of ~1200) are filtered out below; never recommend one
+- `status`: `"ok"` or `"not_found"` — items whose repo 404s are filtered out below; never recommend one
 
 Run the following, substituting `RESOURCES_PATH` with the absolute path from Step 2, `keywords` with your English keywords and `ja_keywords` with your raw Japanese terms, both from Step 1 (`ja_keywords` may be `[]`):
 

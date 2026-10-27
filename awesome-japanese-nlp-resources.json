@@ -5658,10 +5658,10 @@
                 "user_name": "WorksApplications",
                 "description": "A Japanese Tokenizer for Business",
                 "multilingual_descriptions": {
-                    "en": "SudachiPy 0.6* and above are developed as Sudachi.rs.",
-                    "ja": "SudachiPy 0.6以上はSudachi.rsとして開発されています。",
-                    "zh-hans": "SudachiPy 0.6及以上版本已经开发为Sudachi.rs。",
-                    "zh-hant": "SudachiPy 0.6*及以上版本已開發為Sudachi.rs。"
+                    "en": "A Japanese Tokenizer for Business",
+                    "ja": "ビジネス向けの日本語トークナイザー",
+                    "zh-hans": "一个用于商务的日语分词器",
+                    "zh-hant": "一個針對商業用途的日文分詞器"
                 }
             },
             "https://github.com/WorksApplications/SudachiDict": {

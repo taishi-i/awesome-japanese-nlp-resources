@@ -1,7 +1,7 @@
 {
   "name": "awesome-japanese-nlp-resources",
-  "version": "2.2.4",
-  "description": "Search 1,350+ Japanese NLP resources: libraries, pretrained models, datasets, tutorials, dictionaries, Hugging Face resources, and multilingual libraries that also support Japanese from awesome-japanese-nlp-resources",
+  "version": "2.2.5",
+  "description": "Search 1,450+ Japanese NLP resources: libraries, pretrained models, datasets, tutorials, dictionaries, Hugging Face resources, and multilingual libraries that also support Japanese from awesome-japanese-nlp-resources",
   "author": {
     "name": "taishi-i"
   },
@@ -20,7 +20,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Awesome Japanese NLP Resources",
-    "shortDescription": "Search, compare, and discover 1,350+ Japanese NLP resources",
+    "shortDescription": "Search, compare, and discover 1,450+ Japanese NLP resources",
     "longDescription": "Find Japanese NLP libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources from the curated awesome-japanese-nlp-resources list. Four skills: search the bundled dataset, discover alternatives and resources not yet listed, compare candidates in a table, and research trends and challenges with live web research. Ask in Japanese or English.",
     "developerName": "taishi-i",
     "category": "Productivity",

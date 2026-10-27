@@ -1,6 +1,6 @@
 # awesome-japanese-nlp-resources
 
-Search, discover, and track 1,350+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code) or [Codex](https://developers.openai.com/codex).
+Search, discover, and track 1,450+ Japanese NLP resources directly from [Claude Code](https://claude.ai/code) or [Codex](https://developers.openai.com/codex).
 
 This plugin ships four skills that work together across all categories of [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources): libraries, pretrained models, datasets, tutorials, dictionaries, and Hugging Face resources. It also covers [multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md), such as language detectors, speech and OCR models, and search engines with Japanese analyzers.
 
@@ -75,7 +75,7 @@ This plugin ships four skills. The commands below use the Claude Code form; in C
 
 | Command | Purpose |
 |---|---|
-| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,350+ resource dataset |
+| `/awesome-japanese-nlp-resources:search <query>` | Search the bundled 1,450+ resource dataset |
 | `/awesome-japanese-nlp-resources:discover <tool-or-topic>` | Given a tool, find alternatives (listed and unlisted); given a topic, find contribution candidates not yet in the list |
 | `/awesome-japanese-nlp-resources:compare <tool-or-topic>` | Compare several libraries/models/datasets across a few criteria as a ○/△/✕ table |
 | `/awesome-japanese-nlp-resources:research <topic>` | Survey the dataset + latest web research for a combined trend + challenges report |
@@ -213,13 +213,13 @@ All data is bundled in the plugin at `data/resources.json` and sourced from the 
 |----------|--------|-------|
 | Python library | GitHub | 350 |
 | Corpus / Dataset | GitHub | 224 |
-| Hugging Face models | Hugging Face | 174 |
-| Hugging Face datasets | Hugging Face | 137 |
+| Hugging Face models | Hugging Face | 264 |
+| Hugging Face datasets | Hugging Face | 177 |
 | JavaScript / Rust / C++ / Go / Java | GitHub | 132 |
 | Dictionary and IME | GitHub | 85 |
 | Pretrained model / ChatGPT | GitHub | 64 |
 | Tutorials / Research summaries | GitHub | 40 |
-| **Total** | | **1,206** |
+| **Total** | | **1,336** |
 <!-- END AUTO-COUNTS -->
 
 ## License

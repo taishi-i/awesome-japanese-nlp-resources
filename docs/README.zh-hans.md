@@ -8,7 +8,7 @@
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
 - [列出了895个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了450个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
+- [列出了441个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 - [列出了156个同样支持日语的多语言库、模型和数据集的信息](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.zh-hans.md)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -51,7 +51,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 
 | 技能 | 用途 |
 |---|---|
-| `/awesome-japanese-nlp-resources:search <query>` | 搜索内置的 1,200 多个资源数据集 |
+| `/awesome-japanese-nlp-resources:search <query>` | 搜索内置的 1,450 多个资源数据集 |
 | `/awesome-japanese-nlp-resources:discover <工具名或主题>` | 给定工具名，查找已收录和未收录的替代方案；给定主题，查找可贡献的未收录候选 |
 | `/awesome-japanese-nlp-resources:compare <工具名或主题>` | 从多个角度将多个库/模型/数据集比较为 ○/△/✕ 表格 |
 | `/awesome-japanese-nlp-resources:research <topic>` | 结合数据集与最新网络研究，生成趋势与挑战的综合报告 |
@@ -154,7 +154,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [SudachiPy](https://github.com/WorksApplications/SudachiPy) | 📥 369k | 📦 76M | ⭐ 443 | 🔴 october 2022|
+| 🔗 [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) | 📥 369k | 📦 76M | ⭐ 489 | 🟢 october|
 | 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 62k | 📦 14M | ⭐ 917 | 🟡 june|
 | 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 194k | 📦 43M | ⭐ 580 | 🟡 november 2025|
 | 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 82k | 📦 4M | ⭐ 274 | 🔴 october 2024|
@@ -777,7 +777,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 | 🔗 [asr](https://github.com/zakuro-ai/asr) | - | - | ⭐ 72 | 🟢 october|
 | 🔗 [neural_ime](https://github.com/yohokuno/neural_ime) | - | - | ⭐ 67 | 🔴 december 2016|
 | 🔗 [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) | - | - | ⭐ 179 | 🔴 september 2017|
-| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 94k | 📦 182k | ⭐ repo not found | 🔴 november 2015|
+| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 375 | 📦 182k | ⭐ 53 | 🔴 november 2015|
 | 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 48 | 📦 33k | ⭐ 7 | 🟢 september|
 | 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 40 | 📦 13k | ⭐ 34 | 🔴 september 2021|
 | 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 32 | 📦 24k | ⭐ 13 | 🔴 march 2025|
@@ -1645,6 +1645,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [mouse_over_dictionary](https://github.com/kengo700/mouse_over_dictionary) | - | - | ⭐ 72 | 🔴 january 2020|
 | 🔗 [jisyo](https://github.com/skk-dict/jisyo) | - | - | ⭐ 28 | 🔴 september 2023|
 | 🔗 [skk-jisyo.emoji-ja](https://github.com/ymrl/skk-jisyo.emoji-ja) | - | - | ⭐ 30 | 🔴 march 2018|
+| 🔗 [anthy](https://github.com/netsphere-labs/anthy) | - | - | ⭐ 16 | 🔴 february 2023|
 | 🔗 [aws_dic_for_google_ime](https://github.com/konyu/aws_dic_for_google_ime) | - | - | ⭐ 7 | 🔴 november 2019|
 | 🔗 [cl-skkserv](https://github.com/tani/cl-skkserv) | - | - | ⭐ 31 | 🔴 october 2024|
 | 🔗 [anthy](https://github.com/xorgy/anthy) | - | - | ⭐ 6 | 🔴 july 2013|
@@ -1719,7 +1720,6 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [UD_Japanese-GSD](https://github.com/megagonlabs/UD_Japanese-GSD) | - | - | ⭐ 29 | 🔴 may 2022|
 | 🔗 [KWDLC](https://github.com/ku-nlp/KWDLC) | - | - | ⭐ 87 | 🔴 december 2023|
 | 🔗 [AnnotatedFKCCorpus](https://github.com/ku-nlp/AnnotatedFKCCorpus) | - | - | ⭐ 18 | 🔴 december 2023|
-| 🔗 [anthy](https://github.com/netsphere-labs/anthy) | - | - | ⭐ 16 | 🔴 february 2023|
 | 🔗 [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW) | - | - | ⭐ 5 | 🟡 may|
 | 🔗 [ud_japanese-bccwj](https://github.com/universaldependencies/ud_japanese-bccwj) | - | - | ⭐ 27 | 🟡 may|
 
@@ -2113,6 +2113,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [multils-japanese](https://github.com/naist-nlp/multils-japanese) | - | - | ⭐ 1 | 🟢 august|
 | 🔗 [nwjc](https://github.com/masayu-a/nwjc) | - | - | ⭐ 10 | 🔴 april 2022|
 | 🔗 [open-mantra-dataset](https://github.com/mantra-inc/open-mantra-dataset) | - | - | ⭐ 208 | 🔴 march 2023|
+| 🔗 [public-annotations](https://github.com/manga109/public-annotations) | - | - | ⭐ 15 | 🔴 april 2025|
 | 🔗 [gimei](https://github.com/willnet/gimei) | - | - | ⭐ 425 | 🟢 last wednesday|
 | 🔗 [safety-boundary-test](https://github.com/sbintuitions/safety-boundary-test) | - | - | ⭐ 9 | 🟡 april|
 | 🔗 [j-ono-data](https://github.com/ObakeConstructs/j-ono-data) | - | - | ⭐ 11 | 🟡 july|
@@ -2245,11 +2246,10 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [nlpbook](https://github.com/mamorlis/nlpbook) | - | - | ⭐ 14 | 🟢 last wednesday|
 | 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ 21 | 🔴 march 2024|
 | 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 31 | 🔴 july 2024|
-| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found | 🔴 august 2024|
+| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ 12 | 🔴 august 2024|
 | 🔗 [textmining-ja](https://github.com/paithiov909/textmining-ja) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) | - | - | ⭐ 17 | 🟡 february|
 | 🔗 [nlp100v2025](https://github.com/upura/nlp100v2025) | - | - | ⭐ 92 | 🔴 april 2025|
-| 🔗 [public-annotations](https://github.com/manga109/public-annotations) | - | - | ⭐ 15 | 🔴 april 2025|
 | 🔗 [topic-models-ao](https://github.com/anemptyarchive/topic-models-ao) | - | - | ⭐ 4 | 🔴 may 2025|
 | 🔗 [slp2025](https://github.com/ryota-komatsu/slp2025) | - | - | ⭐ 65 | 🟡 april|
 | 🔗 [book-impress-it-basic-education-ai](https://github.com/liber-craft-co-ltd/book-impress-it-basic-education-ai) | - | - | ⭐ 4 | 🔴 june 2025|
