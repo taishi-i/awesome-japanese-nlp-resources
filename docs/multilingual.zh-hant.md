@@ -6,9 +6,9 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 並非專為日語打造、但同樣支援日語的多語言函式庫、模型與資料集精選列表。
-本頁面收錄具備日語具體功能的多語言函式庫、模型與資料集，例如日語語種識別、日語分詞器與分析器、日語語音與 OCR 模型，以及資料集中的日語部分。目前共收錄156個儲存庫。
+本頁面收錄具備日語具體功能的多語言函式庫、模型與資料集，例如日語語種識別、日語分詞器與分析器、日語語音與 OCR 模型，以及資料集中的日語部分。目前共收錄165個儲存庫。
 
-_更新於2026年10月27日_
+_更新於2026年10月31日_
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.zh-hans.md)
 
@@ -42,15 +42,15 @@ _更新於2026年10月27日_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [spaCy](https://github.com/explosion/spaCy) | [![Downloads](https://static.pepy.tech/badge/spacy/week)](https://pepy.tech/project/spacy) | [![Downloads](https://static.pepy.tech/badge/spacy)](https://pepy.tech/project/spacy) | ⭐ 34k | 🟢 yesterday|
+| 🔗 [spaCy](https://github.com/explosion/spaCy) | [![Downloads](https://static.pepy.tech/badge/spacy/week)](https://pepy.tech/project/spacy) | [![Downloads](https://static.pepy.tech/badge/spacy)](https://pepy.tech/project/spacy) | ⭐ 34k | 🟢 last tuesday|
 | 🔗 [stanza](https://github.com/stanfordnlp/stanza) | [![Downloads](https://static.pepy.tech/badge/stanza/week)](https://pepy.tech/project/stanza) | [![Downloads](https://static.pepy.tech/badge/stanza)](https://pepy.tech/project/stanza) | ⭐ 7.9k | 🟢 october|
-| 🔗 [HanLP](https://github.com/hankcs/HanLP) | [![Downloads](https://static.pepy.tech/badge/hanlp/week)](https://pepy.tech/project/hanlp) | [![Downloads](https://static.pepy.tech/badge/hanlp)](https://pepy.tech/project/hanlp) | ⭐ 37k | 🟢 last sunday|
-| 🔗 [trankit](https://github.com/nlp-uoregon/trankit) | [![Downloads](https://static.pepy.tech/badge/trankit/week)](https://pepy.tech/project/trankit) | [![Downloads](https://static.pepy.tech/badge/trankit)](https://pepy.tech/project/trankit) | ⭐ 799 | 🔴 july 2025|
-| 🔗 [udpipe](https://github.com/ufal/udpipe) | [![Downloads](https://static.pepy.tech/badge/ufal.udpipe/week)](https://pepy.tech/project/ufal.udpipe) | [![Downloads](https://static.pepy.tech/badge/ufal.udpipe)](https://pepy.tech/project/ufal.udpipe) | ⭐ 422 | 🟡 june|
+| 🔗 [HanLP](https://github.com/hankcs/HanLP) | [![Downloads](https://static.pepy.tech/badge/hanlp/week)](https://pepy.tech/project/hanlp) | [![Downloads](https://static.pepy.tech/badge/hanlp)](https://pepy.tech/project/hanlp) | ⭐ 37k | 🟢 september|
+| 🔗 [trankit](https://github.com/nlp-uoregon/trankit) | [![Downloads](https://static.pepy.tech/badge/trankit/week)](https://pepy.tech/project/trankit) | [![Downloads](https://static.pepy.tech/badge/trankit)](https://pepy.tech/project/trankit) | ⭐ 796 | 🔴 july 2025|
+| 🔗 [udpipe](https://github.com/ufal/udpipe) | [![Downloads](https://static.pepy.tech/badge/ufal.udpipe/week)](https://pepy.tech/project/ufal.udpipe) | [![Downloads](https://static.pepy.tech/badge/ufal.udpipe)](https://pepy.tech/project/ufal.udpipe) | ⭐ 425 | 🟡 june|
 | 🔗 [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) | [![Downloads](https://static.pepy.tech/badge/spark-nlp/week)](https://pepy.tech/project/spark-nlp) | [![Downloads](https://static.pepy.tech/badge/spark-nlp)](https://pepy.tech/project/spark-nlp) | ⭐ 4.2k | 🟢 september|
-| 🔗 [openmed](https://github.com/maziyarpanahi/openmed) | [![Downloads](https://static.pepy.tech/badge/openmed/week)](https://pepy.tech/project/openmed) | [![Downloads](https://static.pepy.tech/badge/openmed)](https://pepy.tech/project/openmed) | ⭐ 5.4k | 🟢 yesterday|
-| 🔗 [transformers](https://github.com/huggingface/transformers) | [![Downloads](https://static.pepy.tech/badge/transformers/week)](https://pepy.tech/project/transformers) | [![Downloads](https://static.pepy.tech/badge/transformers)](https://pepy.tech/project/transformers) | ⭐ 167k | 🟢 yesterday|
-| 🔗 [nltk](https://github.com/nltk/nltk) | [![Downloads](https://static.pepy.tech/badge/nltk/week)](https://pepy.tech/project/nltk) | [![Downloads](https://static.pepy.tech/badge/nltk)](https://pepy.tech/project/nltk) | ⭐ 15k | 🟢 last saturday|
+| 🔗 [openmed](https://github.com/maziyarpanahi/openmed) | [![Downloads](https://static.pepy.tech/badge/openmed/week)](https://pepy.tech/project/openmed) | [![Downloads](https://static.pepy.tech/badge/openmed)](https://pepy.tech/project/openmed) | ⭐ 5.7k | 🟢 yesterday|
+| 🔗 [transformers](https://github.com/huggingface/transformers) | [![Downloads](https://static.pepy.tech/badge/transformers/week)](https://pepy.tech/project/transformers) | [![Downloads](https://static.pepy.tech/badge/transformers)](https://pepy.tech/project/transformers) | ⭐ 168k | 🟢 yesterday|
+| 🔗 [nltk](https://github.com/nltk/nltk) | [![Downloads](https://static.pepy.tech/badge/nltk/week)](https://pepy.tech/project/nltk) | [![Downloads](https://static.pepy.tech/badge/nltk)](https://pepy.tech/project/nltk) | ⭐ 15k | 🟢 yesterday|
 
 
 ## Tokenization and segmentation
@@ -65,10 +65,10 @@ _更新於2026年10月27日_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [sentencepiece](https://github.com/google/sentencepiece) | [![Downloads](https://static.pepy.tech/badge/sentencepiece/week)](https://pepy.tech/project/sentencepiece) | [![Downloads](https://static.pepy.tech/badge/sentencepiece)](https://pepy.tech/project/sentencepiece) | ⭐ 12k | 🟢 yesterday|
-| 🔗 [icu](https://github.com/unicode-org/icu) | - | - | ⭐ 3.6k | 🟢 last friday|
+| 🔗 [sentencepiece](https://github.com/google/sentencepiece) | [![Downloads](https://static.pepy.tech/badge/sentencepiece/week)](https://pepy.tech/project/sentencepiece) | [![Downloads](https://static.pepy.tech/badge/sentencepiece)](https://pepy.tech/project/sentencepiece) | ⭐ 12k | 🟢 last thursday|
+| 🔗 [icu](https://github.com/unicode-org/icu) | - | - | ⭐ 3.6k | 🟢 last thursday|
 | 🔗 [wtpsplit](https://github.com/segment-any-text/wtpsplit) | [![Downloads](https://static.pepy.tech/badge/wtpsplit/week)](https://pepy.tech/project/wtpsplit) | [![Downloads](https://static.pepy.tech/badge/wtpsplit)](https://pepy.tech/project/wtpsplit) | ⭐ 1.4k | 🟢 september|
-| 🔗 [charabia](https://github.com/meilisearch/charabia) | - | ![Crates.io](https://img.shields.io/crates/d/charabia) | ⭐ 360 | 🟢 august|
+| 🔗 [charabia](https://github.com/meilisearch/charabia) | - | ![Crates.io](https://img.shields.io/crates/d/charabia) | ⭐ 359 | 🟢 august|
 | 🔗 [gse](https://github.com/go-ego/gse) | - | - | ⭐ 2.8k | 🟢 september|
 
 
@@ -91,14 +91,14 @@ _更新於2026年10月27日_
 -|-|-|-|-
 | 🔗 [fastText](https://github.com/facebookresearch/fastText) | [![Downloads](https://static.pepy.tech/badge/fasttext/week)](https://pepy.tech/project/fasttext) | [![Downloads](https://static.pepy.tech/badge/fasttext)](https://pepy.tech/project/fasttext) | ⭐ 27k | 🔴 march 2024|
 | 🔗 [lingua-py](https://github.com/pemistahl/lingua-py) | [![Downloads](https://static.pepy.tech/badge/lingua-language-detector/week)](https://pepy.tech/project/lingua-language-detector) | [![Downloads](https://static.pepy.tech/badge/lingua-language-detector)](https://pepy.tech/project/lingua-language-detector) | ⭐ 1.8k | 🟡 march|
-| 🔗 [lingua](https://github.com/pemistahl/lingua) | - | - | ⭐ 825 | 🔴 december 2024|
-| 🔗 [lingua-rs](https://github.com/pemistahl/lingua-rs) | - | ![Crates.io](https://img.shields.io/crates/d/lingua) | ⭐ 1.1k | 🟢 last wednesday|
+| 🔗 [lingua](https://github.com/pemistahl/lingua) | - | - | ⭐ 831 | 🔴 december 2024|
+| 🔗 [lingua-rs](https://github.com/pemistahl/lingua-rs) | - | ![Crates.io](https://img.shields.io/crates/d/lingua) | ⭐ 1.1k | 🟢 october|
 | 🔗 [lingua-go](https://github.com/pemistahl/lingua-go) | - | - | ⭐ 1.4k | 🔴 december 2024|
 | 🔗 [langdetect](https://github.com/Mimino666/langdetect) | [![Downloads](https://static.pepy.tech/badge/langdetect/week)](https://pepy.tech/project/langdetect) | [![Downloads](https://static.pepy.tech/badge/langdetect)](https://pepy.tech/project/langdetect) | ⭐ 1.9k | 🔴 march 2025|
-| 🔗 [GlotLID](https://github.com/cisnlp/GlotLID) | - | - | ⭐ 220 | 🟡 april|
+| 🔗 [GlotLID](https://github.com/cisnlp/GlotLID) | - | - | ⭐ 223 | 🟡 april|
 | 🔗 [whatlang-rs](https://github.com/greyblake/whatlang-rs) | - | ![Crates.io](https://img.shields.io/crates/d/whatlang) | ⭐ 1.1k | 🟡 december 2025|
 | 🔗 [franc](https://github.com/wooorm/franc) | ![npm](https://img.shields.io/npm/dw/franc) | ![npm](https://img.shields.io/npm/dt/franc) | ⭐ 4.4k | 🔴 march 2024|
-| 🔗 [whichlang](https://github.com/quickwit-oss/whichlang) | - | ![Crates.io](https://img.shields.io/crates/d/whichlang) | ⭐ 461 | 🟡 march|
+| 🔗 [whichlang](https://github.com/quickwit-oss/whichlang) | - | ![Crates.io](https://img.shields.io/crates/d/whichlang) | ⭐ 463 | 🟡 march|
 
 
 ## Machine translation
@@ -113,19 +113,21 @@ _更新於2026年10月27日_
  * [Hy-MT](https://github.com/Tencent-Hunyuan/Hy-MT) - 混元翻譯模型 1.5 版本，包含一個18億參數翻譯模型（HY-MT1.5-1.8B）和一個70億參數翻譯模型（HY-MT1.5-7B）。
  * [gemmax](https://github.com/xiaomi-research/gemmax) - 基於 Gemma 的多語言機器翻譯模型。
  * [ALMA](https://github.com/fe1ixxu/ALMA) - 最先進的基於大型語言模型的翻譯模型。
+ * [Index-Translate](https://github.com/bilibili/Index-Translate) - 嗶哩嗶哩推出的多語言、多模態翻譯模型系列，包括中日雙向長文件翻譯以及譯為日語的語音翻譯。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [seamless_communication](https://github.com/facebookresearch/seamless_communication) | - | - | ⭐ 12k | 🟢 september|
-| 🔗 [argos-translate](https://github.com/argosopentech/argos-translate) | [![Downloads](https://static.pepy.tech/badge/argostranslate/week)](https://pepy.tech/project/argostranslate) | [![Downloads](https://static.pepy.tech/badge/argostranslate)](https://pepy.tech/project/argostranslate) | ⭐ 6.5k | 🟢 august|
-| 🔗 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | [![Downloads](https://static.pepy.tech/badge/libretranslate/week)](https://pepy.tech/project/libretranslate) | [![Downloads](https://static.pepy.tech/badge/libretranslate)](https://pepy.tech/project/libretranslate) | ⭐ 17k | 🟢 yesterday|
-| 🔗 [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) | - | - | ⭐ 866 | 🟡 february|
-| 🔗 [Seed-X-7B](https://github.com/ByteDance-Seed/Seed-X-7B) | - | - | ⭐ 170 | 🔴 august 2025|
-| 🔗 [Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) | - | - | ⭐ 679 | 🟢 august|
-| 🔗 [Hy-MT](https://github.com/Tencent-Hunyuan/Hy-MT) | - | - | ⭐ 829 | 🟡 june|
-| 🔗 [gemmax](https://github.com/xiaomi-research/gemmax) | - | - | ⭐ 93 | 🟢 august|
-| 🔗 [ALMA](https://github.com/fe1ixxu/ALMA) | - | - | ⭐ 592 | 🔴 april 2025|
+| 🔗 [argos-translate](https://github.com/argosopentech/argos-translate) | [![Downloads](https://static.pepy.tech/badge/argostranslate/week)](https://pepy.tech/project/argostranslate) | [![Downloads](https://static.pepy.tech/badge/argostranslate)](https://pepy.tech/project/argostranslate) | ⭐ 6.6k | 🟢 august|
+| 🔗 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | [![Downloads](https://static.pepy.tech/badge/libretranslate/week)](https://pepy.tech/project/libretranslate) | [![Downloads](https://static.pepy.tech/badge/libretranslate)](https://pepy.tech/project/libretranslate) | ⭐ 17k | 🟢 last monday|
+| 🔗 [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) | - | - | ⭐ 873 | 🟡 february|
+| 🔗 [Seed-X-7B](https://github.com/ByteDance-Seed/Seed-X-7B) | - | - | ⭐ 171 | 🔴 august 2025|
+| 🔗 [Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) | - | - | ⭐ 1.5k | 🟢 august|
+| 🔗 [Hy-MT](https://github.com/Tencent-Hunyuan/Hy-MT) | - | - | ⭐ 841 | 🟡 june|
+| 🔗 [gemmax](https://github.com/xiaomi-research/gemmax) | - | - | ⭐ 94 | 🟢 august|
+| 🔗 [ALMA](https://github.com/fe1ixxu/ALMA) | - | - | ⭐ 593 | 🔴 april 2025|
+| 🔗 [Index-Translate](https://github.com/bilibili/Index-Translate) | - | - | ⭐ 1.8k | 🟢 last monday|
 
 
 ## Speech recognition
@@ -155,34 +157,36 @@ _更新於2026年10月27日_
  * [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - 支援16個以上模型系列的 ggml 語音轉文字推論。
  * [kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi 是 Kaldi 專案的官方所在地。
  * [julius](https://github.com/julius-speech/julius) - 開源大詞彙量連續語音辨識引擎。
+ * [lhotse](https://github.com/lhotse-speech/lhotse) - 面向語音與多模態機器學習的資料準備工具包，提供 CSJ、ReazonSpeech 等日語語料庫的處理腳本。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [whisper](https://github.com/openai/whisper) | [![Downloads](https://static.pepy.tech/badge/openai-whisper/week)](https://pepy.tech/project/openai-whisper) | [![Downloads](https://static.pepy.tech/badge/openai-whisper)](https://pepy.tech/project/openai-whisper) | ⭐ 110k | 🟢 august|
-| 🔗 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | - | - | ⭐ 54k | 🟢 october|
+| 🔗 [whisper](https://github.com/openai/whisper) | [![Downloads](https://static.pepy.tech/badge/openai-whisper/week)](https://pepy.tech/project/openai-whisper) | [![Downloads](https://static.pepy.tech/badge/openai-whisper)](https://pepy.tech/project/openai-whisper) | ⭐ 112k | 🟢 august|
+| 🔗 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | - | - | ⭐ 55k | 🟢 yesterday|
 | 🔗 [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | [![Downloads](https://static.pepy.tech/badge/faster-whisper/week)](https://pepy.tech/project/faster-whisper) | [![Downloads](https://static.pepy.tech/badge/faster-whisper)](https://pepy.tech/project/faster-whisper) | ⭐ 26k | 🟢 october|
 | 🔗 [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) | [![Downloads](https://static.pepy.tech/badge/whisper-ctranslate2/week)](https://pepy.tech/project/whisper-ctranslate2) | [![Downloads](https://static.pepy.tech/badge/whisper-ctranslate2)](https://pepy.tech/project/whisper-ctranslate2) | ⭐ 1.4k | 🟢 october|
-| 🔗 [whisperX](https://github.com/m-bain/whisperX) | [![Downloads](https://static.pepy.tech/badge/whisperx/week)](https://pepy.tech/project/whisperx) | [![Downloads](https://static.pepy.tech/badge/whisperx)](https://pepy.tech/project/whisperx) | ⭐ 24k | 🟢 last thursday|
+| 🔗 [whisperX](https://github.com/m-bain/whisperX) | [![Downloads](https://static.pepy.tech/badge/whisperx/week)](https://pepy.tech/project/whisperx) | [![Downloads](https://static.pepy.tech/badge/whisperx)](https://pepy.tech/project/whisperx) | ⭐ 25k | 🟢 october|
 | 🔗 [argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) | - | - | ⭐ 6.4k | 🟢 october|
-| 🔗 [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) | [![Downloads](https://static.pepy.tech/badge/qwen-asr/week)](https://pepy.tech/project/qwen-asr) | [![Downloads](https://static.pepy.tech/badge/qwen-asr)](https://pepy.tech/project/qwen-asr) | ⭐ 3.6k | 🟡 june|
-| 🔗 [SenseVoice](https://github.com/QwenAudio/SenseVoice) | - | - | ⭐ 9.4k | 🟢 september|
-| 🔗 [FunASR](https://github.com/modelscope/FunASR) | [![Downloads](https://static.pepy.tech/badge/funasr/week)](https://pepy.tech/project/funasr) | [![Downloads](https://static.pepy.tech/badge/funasr)](https://pepy.tech/project/funasr) | ⭐ 21k | 🟢 last thursday|
-| 🔗 [omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) | [![Downloads](https://static.pepy.tech/badge/omnilingual-asr/week)](https://pepy.tech/project/omnilingual-asr) | [![Downloads](https://static.pepy.tech/badge/omnilingual-asr)](https://pepy.tech/project/omnilingual-asr) | ⭐ 2.9k | 🟡 december 2025|
+| 🔗 [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) | [![Downloads](https://static.pepy.tech/badge/qwen-asr/week)](https://pepy.tech/project/qwen-asr) | [![Downloads](https://static.pepy.tech/badge/qwen-asr)](https://pepy.tech/project/qwen-asr) | ⭐ 3.8k | 🟡 june|
+| 🔗 [SenseVoice](https://github.com/QwenAudio/SenseVoice) | - | - | ⭐ 9.6k | 🟢 september|
+| 🔗 [FunASR](https://github.com/modelscope/FunASR) | [![Downloads](https://static.pepy.tech/badge/funasr/week)](https://pepy.tech/project/funasr) | [![Downloads](https://static.pepy.tech/badge/funasr)](https://pepy.tech/project/funasr) | ⭐ 21k | 🟢 today|
+| 🔗 [omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) | [![Downloads](https://static.pepy.tech/badge/omnilingual-asr/week)](https://pepy.tech/project/omnilingual-asr) | [![Downloads](https://static.pepy.tech/badge/omnilingual-asr)](https://pepy.tech/project/omnilingual-asr) | ⭐ 3k | 🟡 december 2025|
 | 🔗 [moonshine](https://github.com/moonshine-ai/moonshine) | [![Downloads](https://static.pepy.tech/badge/moonshine-voice/week)](https://pepy.tech/project/moonshine-voice) | [![Downloads](https://static.pepy.tech/badge/moonshine-voice)](https://pepy.tech/project/moonshine-voice) | ⭐ 11k | 🟢 august|
-| 🔗 [Dolphin](https://github.com/DataoceanAI/Dolphin) | [![Downloads](https://static.pepy.tech/badge/dataoceanai-dolphin/week)](https://pepy.tech/project/dataoceanai-dolphin) | [![Downloads](https://static.pepy.tech/badge/dataoceanai-dolphin)](https://pepy.tech/project/dataoceanai-dolphin) | ⭐ 793 | 🟡 may|
-| 🔗 [NeMo Speech](https://github.com/NVIDIA-NeMo/Speech) | [![Downloads](https://static.pepy.tech/badge/nemo-toolkit/week)](https://pepy.tech/project/nemo-toolkit) | [![Downloads](https://static.pepy.tech/badge/nemo-toolkit)](https://pepy.tech/project/nemo-toolkit) | ⭐ 19k | 🟢 yesterday|
+| 🔗 [Dolphin](https://github.com/DataoceanAI/Dolphin) | [![Downloads](https://static.pepy.tech/badge/dataoceanai-dolphin/week)](https://pepy.tech/project/dataoceanai-dolphin) | [![Downloads](https://static.pepy.tech/badge/dataoceanai-dolphin)](https://pepy.tech/project/dataoceanai-dolphin) | ⭐ 796 | 🟡 may|
+| 🔗 [NeMo Speech](https://github.com/NVIDIA-NeMo/Speech) | [![Downloads](https://static.pepy.tech/badge/nemo-toolkit/week)](https://pepy.tech/project/nemo-toolkit) | [![Downloads](https://static.pepy.tech/badge/nemo-toolkit)](https://pepy.tech/project/nemo-toolkit) | ⭐ 19k | 🟢 today|
 | 🔗 [espnet](https://github.com/espnet/espnet) | [![Downloads](https://static.pepy.tech/badge/espnet/week)](https://pepy.tech/project/espnet) | [![Downloads](https://static.pepy.tech/badge/espnet)](https://pepy.tech/project/espnet) | ⭐ 10k | 🟢 yesterday|
-| 🔗 [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | [![Downloads](https://static.pepy.tech/badge/sherpa-onnx/week)](https://pepy.tech/project/sherpa-onnx) | [![Downloads](https://static.pepy.tech/badge/sherpa-onnx)](https://pepy.tech/project/sherpa-onnx) | ⭐ 15k | 🟢 yesterday|
-| 🔗 [icefall](https://github.com/k2-fsa/icefall) | - | - | ⭐ 1.5k | 🟢 last saturday|
+| 🔗 [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | [![Downloads](https://static.pepy.tech/badge/sherpa-onnx/week)](https://pepy.tech/project/sherpa-onnx) | [![Downloads](https://static.pepy.tech/badge/sherpa-onnx)](https://pepy.tech/project/sherpa-onnx) | ⭐ 16k | 🟢 last thursday|
+| 🔗 [icefall](https://github.com/k2-fsa/icefall) | - | - | ⭐ 1.5k | 🟢 last wednesday|
 | 🔗 [vosk-api](https://github.com/alphacep/vosk-api) | [![Downloads](https://static.pepy.tech/badge/vosk/week)](https://pepy.tech/project/vosk) | [![Downloads](https://static.pepy.tech/badge/vosk)](https://pepy.tech/project/vosk) | ⭐ 15k | 🟢 october|
 | 🔗 [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) | [![Downloads](https://static.pepy.tech/badge/montreal-forced-aligner/week)](https://pepy.tech/project/montreal-forced-aligner) | [![Downloads](https://static.pepy.tech/badge/montreal-forced-aligner)](https://pepy.tech/project/montreal-forced-aligner) | ⭐ 1.9k | 🟢 october|
 | 🔗 [Fun-ASR](https://github.com/QwenAudio/Fun-ASR) | - | - | ⭐ 1.6k | 🟢 october|
-| 🔗 [FluidAudio](https://github.com/FluidInference/FluidAudio) | - | - | ⭐ 3k | 🟢 last sunday|
-| 🔗 [CrispASR](https://github.com/CrispStrobe/CrispASR) | - | - | ⭐ 732 | 🟢 yesterday|
-| 🔗 [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) | - | - | ⭐ 2k | 🟢 last sunday|
-| 🔗 [kaldi](https://github.com/kaldi-asr/kaldi) | - | - | ⭐ 15k | 🔴 september 2025|
+| 🔗 [FluidAudio](https://github.com/FluidInference/FluidAudio) | - | - | ⭐ 3.2k | 🟢 yesterday|
+| 🔗 [CrispASR](https://github.com/CrispStrobe/CrispASR) | - | - | ⭐ 785 | 🟢 today|
+| 🔗 [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) | - | - | ⭐ 2.1k | 🟢 last tuesday|
+| 🔗 [kaldi](https://github.com/kaldi-asr/kaldi) | - | - | ⭐ 16k | 🔴 september 2025|
 | 🔗 [julius](https://github.com/julius-speech/julius) | - | - | ⭐ 1.9k | 🔴 june 2025|
+| 🔗 [lhotse](https://github.com/lhotse-speech/lhotse) | [![Downloads](https://static.pepy.tech/badge/lhotse/week)](https://pepy.tech/project/lhotse) | [![Downloads](https://static.pepy.tech/badge/lhotse)](https://pepy.tech/project/lhotse) | ⭐ 1.2k | 🟢 october|
 
 
 ## Speech synthesis
@@ -195,7 +199,7 @@ _更新於2026年10月27日_
  * [coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) - 🐸💬 —— 在研究與生產環境中久經考驗的語音合成深度學習工具包。
  * [MeloTTS](https://github.com/myshell-ai/MeloTTS) - MyShell.ai 推出的高品質多語言語音合成函式庫，支援英語、西班牙語、法語、中文、日語和韓語。
  * [OpenVoice](https://github.com/myshell-ai/OpenVoice) - MIT 與 MyShell 推出的即時聲音複製。音訊基礎模型。
- * [kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M。
+ * [kokoro](https://github.com/hexgrad/kokoro) - 輕量級 82M 參數開放權重語音合成模型 Kokoro-82M 的推論函式庫，可透過 G2P 函式庫 misaki（misaki[ja]）合成日語語音。
  * [bark](https://github.com/suno-ai/bark) - 🔊 基於文字提示的生成式音訊模型。
  * [Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 是基於超過20萬小時多樣化多語言語音訓練的領先開放權重語音合成模型，其表現力與品質可媲美甚至超越頂尖的語音合成服務商。
  * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 僅需1分鐘的語音資料即可訓練出優秀的語音合成模型！（少樣本聲音複製）
@@ -215,37 +219,43 @@ _更新於2026年10月27日_
  * [OmniVoice](https://github.com/k2-fsa/OmniVoice) - 支援600多種語言的高品質聲音複製語音合成。
  * [T5Gemma-TTS](https://github.com/Aratako/T5Gemma-TTS) - 基於 T5Gemma 編碼器-解碼器大型語言模型的多語言語音合成模型，支援聲音複製與時長控制。
  * [audio.cpp](https://github.com/0xShug0/audio.cpp) - 基於 ggml 打造的音訊模型一體化純 C++ 推論引擎，支援語音合成、語音辨識、VAD、聲音轉換、音樂生成等，效能高度最佳化，且不依賴 Python。
+ * [KittenTTS](https://github.com/KittenML/KittenTTS) - 可在 CPU 上執行的開源語音合成模型系列；Kitten-TTS 2 支援聲音複製與表現力控制，涵蓋包括日語在內的 20 種語言。
+ * [pocket-tts](https://github.com/kyutai-labs/pocket-tts) - 可在 CPU 上執行的輕量級語音合成，並提供社群訓練的日語模型（pocket-tts-ja）。
+ * [Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) - 包含 0.5B 稠密版與 7.9B-A1.3B MoE 版的開源語音合成模型系列，支援聲音複製、音色設計與自然語言控制，可合成包括日語在內的 7 種語言。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | [![Downloads](https://static.pepy.tech/badge/qwen-tts/week)](https://pepy.tech/project/qwen-tts) | [![Downloads](https://static.pepy.tech/badge/qwen-tts)](https://pepy.tech/project/qwen-tts) | ⭐ 14k | 🟡 march|
 | 🔗 [CosyVoice](https://github.com/QwenAudio/CosyVoice) | - | - | ⭐ 24k | 🟡 may|
-| 🔗 [fish-speech](https://github.com/fishaudio/fish-speech) | [![Downloads](https://static.pepy.tech/badge/fish-speech/week)](https://pepy.tech/project/fish-speech) | [![Downloads](https://static.pepy.tech/badge/fish-speech)](https://pepy.tech/project/fish-speech) | ⭐ 33k | 🟢 october|
+| 🔗 [fish-speech](https://github.com/fishaudio/fish-speech) | [![Downloads](https://static.pepy.tech/badge/fish-speech/week)](https://pepy.tech/project/fish-speech) | [![Downloads](https://static.pepy.tech/badge/fish-speech)](https://pepy.tech/project/fish-speech) | ⭐ 34k | 🟢 last thursday|
 | 🔗 [chatterbox](https://github.com/resemble-ai/chatterbox) | [![Downloads](https://static.pepy.tech/badge/chatterbox-tts/week)](https://pepy.tech/project/chatterbox-tts) | [![Downloads](https://static.pepy.tech/badge/chatterbox-tts)](https://pepy.tech/project/chatterbox-tts) | ⭐ 27k | 🟡 july|
-| 🔗 [coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [![Downloads](https://static.pepy.tech/badge/coqui-tts/week)](https://pepy.tech/project/coqui-tts) | [![Downloads](https://static.pepy.tech/badge/coqui-tts)](https://pepy.tech/project/coqui-tts) | ⭐ 2.3k | 🟢 last saturday|
+| 🔗 [coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [![Downloads](https://static.pepy.tech/badge/coqui-tts/week)](https://pepy.tech/project/coqui-tts) | [![Downloads](https://static.pepy.tech/badge/coqui-tts)](https://pepy.tech/project/coqui-tts) | ⭐ 2.3k | 🟢 october|
 | 🔗 [MeloTTS](https://github.com/myshell-ai/MeloTTS) | - | - | ⭐ 7.7k | 🔴 december 2024|
 | 🔗 [OpenVoice](https://github.com/myshell-ai/OpenVoice) | - | - | ⭐ 38k | 🔴 april 2025|
-| 🔗 [kokoro](https://github.com/hexgrad/kokoro) | [![Downloads](https://static.pepy.tech/badge/kokoro/week)](https://pepy.tech/project/kokoro) | [![Downloads](https://static.pepy.tech/badge/kokoro)](https://pepy.tech/project/kokoro) | ⭐ 9.2k | 🔴 august 2025|
+| 🔗 [kokoro](https://github.com/hexgrad/kokoro) | [![Downloads](https://static.pepy.tech/badge/kokoro/week)](https://pepy.tech/project/kokoro) | [![Downloads](https://static.pepy.tech/badge/kokoro)](https://pepy.tech/project/kokoro) | ⭐ 9.8k | 🔴 august 2025|
 | 🔗 [bark](https://github.com/suno-ai/bark) | - | - | ⭐ 39k | 🔴 april 2024|
 | 🔗 [Zonos](https://github.com/Zyphra/Zonos) | - | - | ⭐ 7.2k | 🔴 march 2025|
-| 🔗 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | - | - | ⭐ 62k | 🟢 october|
+| 🔗 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | - | - | ⭐ 64k | 🟢 october|
 | 🔗 [Amphion](https://github.com/open-mmlab/Amphion) | - | - | ⭐ 10k | 🟡 march|
-| 🔗 [index-tts](https://github.com/index-tts/index-tts) | - | - | ⭐ 24k | 🟢 september|
-| 🔗 [VoxCPM](https://github.com/OpenBMB/VoxCPM) | [![Downloads](https://static.pepy.tech/badge/voxcpm/week)](https://pepy.tech/project/voxcpm) | [![Downloads](https://static.pepy.tech/badge/voxcpm)](https://pepy.tech/project/voxcpm) | ⭐ 38k | 🟢 october|
-| 🔗 [Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) | - | - | ⭐ 980 | 🟡 april|
+| 🔗 [index-tts](https://github.com/index-tts/index-tts) | - | - | ⭐ 25k | 🟢 september|
+| 🔗 [VoxCPM](https://github.com/OpenBMB/VoxCPM) | [![Downloads](https://static.pepy.tech/badge/voxcpm/week)](https://pepy.tech/project/voxcpm) | [![Downloads](https://static.pepy.tech/badge/voxcpm)](https://pepy.tech/project/voxcpm) | ⭐ 41k | 🟢 october|
+| 🔗 [Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) | - | - | ⭐ 992 | 🟡 april|
 | 🔗 [FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2) | - | - | ⭐ 1.4k | 🔴 october 2025|
 | 🔗 [OuteTTS](https://github.com/edwko/OuteTTS) | [![Downloads](https://static.pepy.tech/badge/outetts/week)](https://pepy.tech/project/outetts) | [![Downloads](https://static.pepy.tech/badge/outetts)](https://pepy.tech/project/outetts) | ⭐ 1.4k | 🟡 march|
-| 🔗 [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) | - | - | ⭐ 4.2k | 🟢 september|
-| 🔗 [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | - | - | ⭐ 4.4k | 🟢 september|
-| 🔗 [mlx-audio](https://github.com/Blaizzy/mlx-audio) | [![Downloads](https://static.pepy.tech/badge/mlx-audio/week)](https://pepy.tech/project/mlx-audio) | [![Downloads](https://static.pepy.tech/badge/mlx-audio)](https://pepy.tech/project/mlx-audio) | ⭐ 8k | 🟢 yesterday|
+| 🔗 [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) | - | - | ⭐ 4.3k | 🟢 september|
+| 🔗 [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | - | - | ⭐ 4.6k | 🟢 september|
+| 🔗 [mlx-audio](https://github.com/Blaizzy/mlx-audio) | [![Downloads](https://static.pepy.tech/badge/mlx-audio/week)](https://pepy.tech/project/mlx-audio) | [![Downloads](https://static.pepy.tech/badge/mlx-audio)](https://pepy.tech/project/mlx-audio) | ⭐ 8.2k | 🟢 yesterday|
 | 🔗 [Genie-TTS](https://github.com/High-Logic/Genie-TTS) | [![Downloads](https://static.pepy.tech/badge/genie-tts/week)](https://pepy.tech/project/genie-tts) | [![Downloads](https://static.pepy.tech/badge/genie-tts)](https://pepy.tech/project/genie-tts) | ⭐ 1.8k | 🟢 august|
 | 🔗 [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | - | - | ⭐ 1.4k | 🟢 september|
-| 🔗 [Confucius4-TTS](https://github.com/netease-youdao/Confucius4-TTS) | - | - | ⭐ 826 | 🟢 last friday|
-| 🔗 [kani-tts](https://github.com/nineninesix-ai/kani-tts) | [![Downloads](https://static.pepy.tech/badge/kani-tts/week)](https://pepy.tech/project/kani-tts) | [![Downloads](https://static.pepy.tech/badge/kani-tts)](https://pepy.tech/project/kani-tts) | ⭐ 459 | 🟡 november 2025|
-| 🔗 [OmniVoice](https://github.com/k2-fsa/OmniVoice) | [![Downloads](https://static.pepy.tech/badge/omnivoice/week)](https://pepy.tech/project/omnivoice) | [![Downloads](https://static.pepy.tech/badge/omnivoice)](https://pepy.tech/project/omnivoice) | ⭐ 14k | 🟢 august|
-| 🔗 [T5Gemma-TTS](https://github.com/Aratako/T5Gemma-TTS) | - | - | ⭐ 312 | 🟡 april|
-| 🔗 [audio.cpp](https://github.com/0xShug0/audio.cpp) | - | - | ⭐ 3.3k | 🟢 yesterday|
+| 🔗 [Confucius4-TTS](https://github.com/netease-youdao/Confucius4-TTS) | - | - | ⭐ 851 | 🟢 october|
+| 🔗 [kani-tts](https://github.com/nineninesix-ai/kani-tts) | [![Downloads](https://static.pepy.tech/badge/kani-tts/week)](https://pepy.tech/project/kani-tts) | [![Downloads](https://static.pepy.tech/badge/kani-tts)](https://pepy.tech/project/kani-tts) | ⭐ 457 | 🟡 november 2025|
+| 🔗 [OmniVoice](https://github.com/k2-fsa/OmniVoice) | [![Downloads](https://static.pepy.tech/badge/omnivoice/week)](https://pepy.tech/project/omnivoice) | [![Downloads](https://static.pepy.tech/badge/omnivoice)](https://pepy.tech/project/omnivoice) | ⭐ 16k | 🟢 august|
+| 🔗 [T5Gemma-TTS](https://github.com/Aratako/T5Gemma-TTS) | - | - | ⭐ 313 | 🟡 april|
+| 🔗 [audio.cpp](https://github.com/0xShug0/audio.cpp) | - | - | ⭐ 3.9k | 🟢 today|
+| 🔗 [KittenTTS](https://github.com/KittenML/KittenTTS) | [![Downloads](https://static.pepy.tech/badge/kittenml/week)](https://pepy.tech/project/kittenml) | [![Downloads](https://static.pepy.tech/badge/kittenml)](https://pepy.tech/project/kittenml) | ⭐ 17k | 🟢 last tuesday|
+| 🔗 [pocket-tts](https://github.com/kyutai-labs/pocket-tts) | [![Downloads](https://static.pepy.tech/badge/pocket-tts/week)](https://pepy.tech/project/pocket-tts) | [![Downloads](https://static.pepy.tech/badge/pocket-tts)](https://pepy.tech/project/pocket-tts) | ⭐ 10k | 🟢 today|
+| 🔗 [Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) | - | - | ⭐ 430 | 🟢 last tuesday|
 
 
 ## OCR and document AI
@@ -264,23 +274,25 @@ _更新於2026年10月27日_
  * [tesseract.js](https://github.com/naptha/tesseract.js) - 支援100多種語言的純 JavaScript OCR 📖🎉🖥。
  * [pdfminer.six](https://github.com/pdfminer/pdfminer.six) - 由社群維護的 pdfminer 分支——我們探究 PDF。
  * [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF 是一個用於 PDF（及其他）文件資料擷取、分析、轉換與操作的高效能 Python 函式庫。
+ * [indra](https://github.com/datalab-to/indra) - 可在 CPU 上執行的 100 萬參數 OCR 模型，支援 80 多種語言，其 CJK 辨識模型涵蓋日語假名與漢字，並支援直書文字。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | [![Downloads](https://static.pepy.tech/badge/paddleocr/week)](https://pepy.tech/project/paddleocr) | [![Downloads](https://static.pepy.tech/badge/paddleocr)](https://pepy.tech/project/paddleocr) | ⭐ 91k | 🟢 september|
-| 🔗 [tesseract](https://github.com/tesseract-ocr/tesseract) | - | - | ⭐ 77k | 🟢 last saturday|
+| 🔗 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | [![Downloads](https://static.pepy.tech/badge/paddleocr/week)](https://pepy.tech/project/paddleocr) | [![Downloads](https://static.pepy.tech/badge/paddleocr)](https://pepy.tech/project/paddleocr) | ⭐ 92k | 🟢 september|
+| 🔗 [tesseract](https://github.com/tesseract-ocr/tesseract) | - | - | ⭐ 77k | 🟢 last wednesday|
 | 🔗 [EasyOCR](https://github.com/JaidedAI/EasyOCR) | [![Downloads](https://static.pepy.tech/badge/easyocr/week)](https://pepy.tech/project/easyocr) | [![Downloads](https://static.pepy.tech/badge/easyocr)](https://pepy.tech/project/easyocr) | ⭐ 30k | 🟡 december 2025|
-| 🔗 [surya](https://github.com/datalab-to/surya) | [![Downloads](https://static.pepy.tech/badge/surya-ocr/week)](https://pepy.tech/project/surya-ocr) | [![Downloads](https://static.pepy.tech/badge/surya-ocr)](https://pepy.tech/project/surya-ocr) | ⭐ 21k | 🟢 last friday|
-| 🔗 [chandra](https://github.com/datalab-to/chandra) | [![Downloads](https://static.pepy.tech/badge/chandra-ocr/week)](https://pepy.tech/project/chandra-ocr) | [![Downloads](https://static.pepy.tech/badge/chandra-ocr)](https://pepy.tech/project/chandra-ocr) | ⭐ 12k | 🟢 last thursday|
-| 🔗 [MinerU](https://github.com/opendatalab/MinerU) | [![Downloads](https://static.pepy.tech/badge/mineru/week)](https://pepy.tech/project/mineru) | [![Downloads](https://static.pepy.tech/badge/mineru)](https://pepy.tech/project/mineru) | ⭐ 81k | 🟢 october|
-| 🔗 [RapidOCR](https://github.com/RapidAI/RapidOCR) | [![Downloads](https://static.pepy.tech/badge/rapidocr/week)](https://pepy.tech/project/rapidocr) | [![Downloads](https://static.pepy.tech/badge/rapidocr)](https://pepy.tech/project/rapidocr) | ⭐ 8k | 🟢 last sunday|
+| 🔗 [surya](https://github.com/datalab-to/surya) | [![Downloads](https://static.pepy.tech/badge/surya-ocr/week)](https://pepy.tech/project/surya-ocr) | [![Downloads](https://static.pepy.tech/badge/surya-ocr)](https://pepy.tech/project/surya-ocr) | ⭐ 22k | 🟢 last thursday|
+| 🔗 [chandra](https://github.com/datalab-to/chandra) | [![Downloads](https://static.pepy.tech/badge/chandra-ocr/week)](https://pepy.tech/project/chandra-ocr) | [![Downloads](https://static.pepy.tech/badge/chandra-ocr)](https://pepy.tech/project/chandra-ocr) | ⭐ 13k | 🟢 october|
+| 🔗 [MinerU](https://github.com/opendatalab/MinerU) | [![Downloads](https://static.pepy.tech/badge/mineru/week)](https://pepy.tech/project/mineru) | [![Downloads](https://static.pepy.tech/badge/mineru)](https://pepy.tech/project/mineru) | ⭐ 83k | 🟢 yesterday|
+| 🔗 [RapidOCR](https://github.com/RapidAI/RapidOCR) | [![Downloads](https://static.pepy.tech/badge/rapidocr/week)](https://pepy.tech/project/rapidocr) | [![Downloads](https://static.pepy.tech/badge/rapidocr)](https://pepy.tech/project/rapidocr) | ⭐ 8.4k | 🟢 last sunday|
 | 🔗 [Pix2Text](https://github.com/breezedeus/Pix2Text) | [![Downloads](https://static.pepy.tech/badge/pix2text/week)](https://pepy.tech/project/pix2text) | [![Downloads](https://static.pepy.tech/badge/pix2text)](https://pepy.tech/project/pix2text) | ⭐ 3.3k | 🟢 august|
-| 🔗 [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | [![Downloads](https://static.pepy.tech/badge/opendataloader-pdf/week)](https://pepy.tech/project/opendataloader-pdf) | [![Downloads](https://static.pepy.tech/badge/opendataloader-pdf)](https://pepy.tech/project/opendataloader-pdf) | ⭐ 29k | 🟢 yesterday|
+| 🔗 [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | [![Downloads](https://static.pepy.tech/badge/opendataloader-pdf/week)](https://pepy.tech/project/opendataloader-pdf) | [![Downloads](https://static.pepy.tech/badge/opendataloader-pdf)](https://pepy.tech/project/opendataloader-pdf) | ⭐ 30k | 🟢 yesterday|
 | 🔗 [TurboOCR](https://github.com/aiptimizer/TurboOCR) | - | - | ⭐ 1.1k | 🟢 september|
 | 🔗 [tesseract.js](https://github.com/naptha/tesseract.js) | ![npm](https://img.shields.io/npm/dw/tesseract.js) | ![npm](https://img.shields.io/npm/dt/tesseract.js) | ⭐ 39k | 🟡 may|
 | 🔗 [pdfminer.six](https://github.com/pdfminer/pdfminer.six) | [![Downloads](https://static.pepy.tech/badge/pdfminer.six/week)](https://pepy.tech/project/pdfminer.six) | [![Downloads](https://static.pepy.tech/badge/pdfminer.six)](https://pepy.tech/project/pdfminer.six) | ⭐ 7k | 🟡 march|
-| 🔗 [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | [![Downloads](https://static.pepy.tech/badge/pymupdf/week)](https://pepy.tech/project/pymupdf) | [![Downloads](https://static.pepy.tech/badge/pymupdf)](https://pepy.tech/project/pymupdf) | ⭐ 11k | 🟢 yesterday|
+| 🔗 [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | [![Downloads](https://static.pepy.tech/badge/pymupdf/week)](https://pepy.tech/project/pymupdf) | [![Downloads](https://static.pepy.tech/badge/pymupdf)](https://pepy.tech/project/pymupdf) | ⭐ 11k | 🟢 today|
+| 🔗 [indra](https://github.com/datalab-to/indra) | [![Downloads](https://static.pepy.tech/badge/indra-ocr/week)](https://pepy.tech/project/indra-ocr) | [![Downloads](https://static.pepy.tech/badge/indra-ocr)](https://pepy.tech/project/indra-ocr) | ⭐ 1.5k | 🟢 october|
 
 
 ## Embeddings and retrieval
@@ -293,8 +305,8 @@ _更新於2026年10月27日_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) | [![Downloads](https://static.pepy.tech/badge/wikipedia2vec/week)](https://pepy.tech/project/wikipedia2vec) | [![Downloads](https://static.pepy.tech/badge/wikipedia2vec)](https://pepy.tech/project/wikipedia2vec) | ⭐ 973 | 🔴 january 2024|
-| 🔗 [pyserini](https://github.com/castorini/pyserini) | [![Downloads](https://static.pepy.tech/badge/pyserini/week)](https://pepy.tech/project/pyserini) | [![Downloads](https://static.pepy.tech/badge/pyserini)](https://pepy.tech/project/pyserini) | ⭐ 2.2k | 🟢 yesterday|
+| 🔗 [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) | [![Downloads](https://static.pepy.tech/badge/wikipedia2vec/week)](https://pepy.tech/project/wikipedia2vec) | [![Downloads](https://static.pepy.tech/badge/wikipedia2vec)](https://pepy.tech/project/wikipedia2vec) | ⭐ 974 | 🔴 january 2024|
+| 🔗 [pyserini](https://github.com/castorini/pyserini) | [![Downloads](https://static.pepy.tech/badge/pyserini/week)](https://pepy.tech/project/pyserini) | [![Downloads](https://static.pepy.tech/badge/pyserini)](https://pepy.tech/project/pyserini) | ⭐ 2.2k | 🟢 today|
 | 🔗 [sentence-transformers](https://github.com/huggingface/sentence-transformers) | [![Downloads](https://static.pepy.tech/badge/sentence-transformers/week)](https://pepy.tech/project/sentence-transformers) | [![Downloads](https://static.pepy.tech/badge/sentence-transformers)](https://pepy.tech/project/sentence-transformers) | ⭐ 19k | 🟢 yesterday|
 
 
@@ -322,31 +334,35 @@ _更新於2026年10月27日_
  * [lancedb](https://github.com/lancedb/lancedb) - 面向多模態 AI、對開發者友善的開源嵌入式檢索函式庫。搜尋更多，管理更少。
  * [bleve](https://github.com/blevesearch/bleve) - 面向 Go 的現代文字/數值/地理空間/向量索引函式庫。
  * [lunr-languages](https://github.com/MihaiValentin/lunr-languages) - 為 Lunr JavaScript 函式庫提供的多語言詞幹擷取器與停用詞合集。
+ * [infinity](https://github.com/infiniflow/infinity) - 面向 LLM 應用的 AI 原生資料庫，支援稠密向量、稀疏向量、多向量與全文的混合檢索，並內建日語分析器。
+ * [fess](https://github.com/codelibs/fess) - 基於 OpenSearch 的自架企業搜尋伺服器，可在管理介面中維護用於日語形態素分析的 Kuromoji 詞典。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [lucene](https://github.com/apache/lucene) | - | - | ⭐ 3.6k | 🟢 yesterday|
-| 🔗 [elasticsearch](https://github.com/elastic/elasticsearch) | - | - | ⭐ 78k | 🟢 yesterday|
-| 🔗 [OpenSearch](https://github.com/opensearch-project/OpenSearch) | - | - | ⭐ 14k | 🟢 yesterday|
+| 🔗 [elasticsearch](https://github.com/elastic/elasticsearch) | - | - | ⭐ 78k | 🟢 today|
+| 🔗 [OpenSearch](https://github.com/opensearch-project/OpenSearch) | - | - | ⭐ 14k | 🟢 today|
 | 🔗 [solr](https://github.com/apache/solr) | - | - | ⭐ 1.7k | 🟢 yesterday|
-| 🔗 [meilisearch](https://github.com/meilisearch/meilisearch) | - | - | ⭐ 59k | 🟢 yesterday|
+| 🔗 [meilisearch](https://github.com/meilisearch/meilisearch) | - | - | ⭐ 60k | 🟢 last thursday|
 | 🔗 [typesense](https://github.com/typesense/typesense) | - | - | ⭐ 27k | 🟢 yesterday|
-| 🔗 [groonga](https://github.com/groonga/groonga) | - | - | ⭐ 859 | 🟢 yesterday|
-| 🔗 [pgroonga](https://github.com/pgroonga/pgroonga) | - | - | ⭐ 752 | 🟢 october|
-| 🔗 [mroonga](https://github.com/mroonga/mroonga) | - | - | ⭐ 192 | 🟢 last friday|
-| 🔗 [pg_bigm](https://github.com/pgbigm/pg_bigm) | - | - | ⭐ 157 | 🟢 august|
-| 🔗 [paradedb](https://github.com/paradedb/paradedb) | - | - | ⭐ 9.3k | 🟢 last saturday|
-| 🔗 [weaviate](https://github.com/weaviate/weaviate) | - | - | ⭐ 17k | 🟢 october|
-| 🔗 [milvus](https://github.com/milvus-io/milvus) | - | - | ⭐ 46k | 🟢 yesterday|
-| 🔗 [qdrant](https://github.com/qdrant/qdrant) | - | - | ⭐ 35k | 🟢 last wednesday|
+| 🔗 [groonga](https://github.com/groonga/groonga) | - | - | ⭐ 859 | 🟢 last thursday|
+| 🔗 [pgroonga](https://github.com/pgroonga/pgroonga) | - | - | ⭐ 758 | 🟢 october|
+| 🔗 [mroonga](https://github.com/mroonga/mroonga) | - | - | ⭐ 192 | 🟢 october|
+| 🔗 [pg_bigm](https://github.com/pgbigm/pg_bigm) | - | - | ⭐ 159 | 🟢 august|
+| 🔗 [paradedb](https://github.com/paradedb/paradedb) | - | - | ⭐ 9.5k | 🟢 today|
+| 🔗 [weaviate](https://github.com/weaviate/weaviate) | - | - | ⭐ 17k | 🟢 yesterday|
+| 🔗 [milvus](https://github.com/milvus-io/milvus) | - | - | ⭐ 47k | 🟢 today|
+| 🔗 [qdrant](https://github.com/qdrant/qdrant) | - | - | ⭐ 35k | 🟢 october|
 | 🔗 [flexsearch](https://github.com/nextapps-de/flexsearch) | ![npm](https://img.shields.io/npm/dw/flexsearch) | ![npm](https://img.shields.io/npm/dt/flexsearch) | ⭐ 14k | 🟡 may|
-| 🔗 [sonic](https://github.com/valeriansaliou/sonic) | - | ![Crates.io](https://img.shields.io/crates/d/sonic-server) | ⭐ 21k | 🟢 last wednesday|
+| 🔗 [sonic](https://github.com/valeriansaliou/sonic) | - | ![Crates.io](https://img.shields.io/crates/d/sonic-server) | ⭐ 21k | 🟢 yesterday|
 | 🔗 [orama](https://github.com/oramasearch/orama) | ![npm](https://img.shields.io/npm/dw/@orama/orama) | ![npm](https://img.shields.io/npm/dt/@orama/orama) | ⭐ 11k | 🟡 july|
-| 🔗 [pagefind](https://github.com/Pagefind/pagefind) | ![npm](https://img.shields.io/npm/dw/pagefind) | ![npm](https://img.shields.io/npm/dt/pagefind) | ⭐ 5.5k | 🟢 yesterday|
-| 🔗 [lancedb](https://github.com/lancedb/lancedb) | [![Downloads](https://static.pepy.tech/badge/lancedb/week)](https://pepy.tech/project/lancedb) | [![Downloads](https://static.pepy.tech/badge/lancedb)](https://pepy.tech/project/lancedb) | ⭐ 12k | 🟢 yesterday|
+| 🔗 [pagefind](https://github.com/Pagefind/pagefind) | ![npm](https://img.shields.io/npm/dw/pagefind) | ![npm](https://img.shields.io/npm/dt/pagefind) | ⭐ 5.5k | 🟢 last wednesday|
+| 🔗 [lancedb](https://github.com/lancedb/lancedb) | [![Downloads](https://static.pepy.tech/badge/lancedb/week)](https://pepy.tech/project/lancedb) | [![Downloads](https://static.pepy.tech/badge/lancedb)](https://pepy.tech/project/lancedb) | ⭐ 12k | 🟢 today|
 | 🔗 [bleve](https://github.com/blevesearch/bleve) | - | - | ⭐ 11k | 🟢 october|
-| 🔗 [lunr-languages](https://github.com/MihaiValentin/lunr-languages) | ![npm](https://img.shields.io/npm/dw/lunr-languages) | ![npm](https://img.shields.io/npm/dt/lunr-languages) | ⭐ 458 | 🟢 october|
+| 🔗 [lunr-languages](https://github.com/MihaiValentin/lunr-languages) | ![npm](https://img.shields.io/npm/dw/lunr-languages) | ![npm](https://img.shields.io/npm/dt/lunr-languages) | ⭐ 459 | 🟢 october|
+| 🔗 [infinity](https://github.com/infiniflow/infinity) | [![Downloads](https://static.pepy.tech/badge/infinity-sdk/week)](https://pepy.tech/project/infinity-sdk) | [![Downloads](https://static.pepy.tech/badge/infinity-sdk)](https://pepy.tech/project/infinity-sdk) | ⭐ 4.8k | 🟢 last tuesday|
+| 🔗 [fess](https://github.com/codelibs/fess) | - | - | ⭐ 1.1k | 🟢 last wednesday|
 
 
 ## Text normalization and phonetics
@@ -367,15 +383,15 @@ _更新於2026年10月27日_
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [NeMo-text-processing](https://github.com/NVIDIA/NeMo-text-processing) | [![Downloads](https://static.pepy.tech/badge/nemo-text-processing/week)](https://pepy.tech/project/nemo-text-processing) | [![Downloads](https://static.pepy.tech/badge/nemo-text-processing)](https://pepy.tech/project/nemo-text-processing) | ⭐ 510 | 🟢 september|
-| 🔗 [WeTextProcessing](https://github.com/wenet-e2e/WeTextProcessing) | [![Downloads](https://static.pepy.tech/badge/wetextprocessing/week)](https://pepy.tech/project/wetextprocessing) | [![Downloads](https://static.pepy.tech/badge/wetextprocessing)](https://pepy.tech/project/wetextprocessing) | ⭐ 826 | 🟡 july|
-| 🔗 [misaki](https://github.com/hexgrad/misaki) | [![Downloads](https://static.pepy.tech/badge/misaki/week)](https://pepy.tech/project/misaki) | [![Downloads](https://static.pepy.tech/badge/misaki)](https://pepy.tech/project/misaki) | ⭐ 511 | 🔴 august 2025|
-| 🔗 [espeak-ng](https://github.com/espeak-ng/espeak-ng) | - | - | ⭐ 6.9k | 🟢 september|
-| 🔗 [epitran](https://github.com/dmort27/epitran) | [![Downloads](https://static.pepy.tech/badge/epitran/week)](https://pepy.tech/project/epitran) | [![Downloads](https://static.pepy.tech/badge/epitran)](https://pepy.tech/project/epitran) | ⭐ 841 | 🟢 october|
-| 🔗 [uroman](https://github.com/isi-nlp/uroman) | [![Downloads](https://static.pepy.tech/badge/uroman/week)](https://pepy.tech/project/uroman) | [![Downloads](https://static.pepy.tech/badge/uroman)](https://pepy.tech/project/uroman) | ⭐ 252 | 🔴 july 2024|
-| 🔗 [num2words](https://github.com/savoirfairelinux/num2words) | [![Downloads](https://static.pepy.tech/badge/num2words/week)](https://pepy.tech/project/num2words) | [![Downloads](https://static.pepy.tech/badge/num2words)](https://pepy.tech/project/num2words) | ⭐ 970 | 🔴 may 2025|
+| 🔗 [NeMo-text-processing](https://github.com/NVIDIA/NeMo-text-processing) | [![Downloads](https://static.pepy.tech/badge/nemo-text-processing/week)](https://pepy.tech/project/nemo-text-processing) | [![Downloads](https://static.pepy.tech/badge/nemo-text-processing)](https://pepy.tech/project/nemo-text-processing) | ⭐ 516 | 🟢 september|
+| 🔗 [WeTextProcessing](https://github.com/wenet-e2e/WeTextProcessing) | [![Downloads](https://static.pepy.tech/badge/wetextprocessing/week)](https://pepy.tech/project/wetextprocessing) | [![Downloads](https://static.pepy.tech/badge/wetextprocessing)](https://pepy.tech/project/wetextprocessing) | ⭐ 832 | 🟢 today|
+| 🔗 [misaki](https://github.com/hexgrad/misaki) | [![Downloads](https://static.pepy.tech/badge/misaki/week)](https://pepy.tech/project/misaki) | [![Downloads](https://static.pepy.tech/badge/misaki)](https://pepy.tech/project/misaki) | ⭐ 518 | 🔴 august 2025|
+| 🔗 [espeak-ng](https://github.com/espeak-ng/espeak-ng) | - | - | ⭐ 7k | 🟢 september|
+| 🔗 [epitran](https://github.com/dmort27/epitran) | [![Downloads](https://static.pepy.tech/badge/epitran/week)](https://pepy.tech/project/epitran) | [![Downloads](https://static.pepy.tech/badge/epitran)](https://pepy.tech/project/epitran) | ⭐ 843 | 🟢 october|
+| 🔗 [uroman](https://github.com/isi-nlp/uroman) | [![Downloads](https://static.pepy.tech/badge/uroman/week)](https://pepy.tech/project/uroman) | [![Downloads](https://static.pepy.tech/badge/uroman)](https://pepy.tech/project/uroman) | ⭐ 255 | 🔴 july 2024|
+| 🔗 [num2words](https://github.com/savoirfairelinux/num2words) | [![Downloads](https://static.pepy.tech/badge/num2words/week)](https://pepy.tech/project/num2words) | [![Downloads](https://static.pepy.tech/badge/num2words)](https://pepy.tech/project/num2words) | ⭐ 969 | 🔴 may 2025|
 | 🔗 [dateparser](https://github.com/scrapinghub/dateparser) | [![Downloads](https://static.pepy.tech/badge/dateparser/week)](https://pepy.tech/project/dateparser) | [![Downloads](https://static.pepy.tech/badge/dateparser)](https://pepy.tech/project/dateparser) | ⭐ 2.9k | 🟢 yesterday|
-| 🔗 [ipa-dict](https://github.com/open-dict-data/ipa-dict) | - | - | ⭐ 808 | 🟢 last thursday|
+| 🔗 [ipa-dict](https://github.com/open-dict-data/ipa-dict) | - | - | ⭐ 822 | 🟢 october|
 | 🔗 [Recognizers-Text](https://github.com/microsoft/Recognizers-Text) | [![Downloads](https://static.pepy.tech/badge/recognizers-text-suite/week)](https://pepy.tech/project/recognizers-text-suite) | [![Downloads](https://static.pepy.tech/badge/recognizers-text-suite)](https://pepy.tech/project/recognizers-text-suite) | ⭐ 1.8k | 🟡 january|
 | 🔗 [chrono](https://github.com/wanasit/chrono) | ![npm](https://img.shields.io/npm/dw/chrono-node) | ![npm](https://img.shields.io/npm/dt/chrono-node) | ⭐ 5.3k | 🟢 october|
 
@@ -404,19 +420,19 @@ _更新於2026年10月27日_
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
 | 🔗 [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | [![Downloads](https://static.pepy.tech/badge/lm-eval/week)](https://pepy.tech/project/lm-eval) | [![Downloads](https://static.pepy.tech/badge/lm-eval)](https://pepy.tech/project/lm-eval) | ⭐ 14k | 🟢 september|
-| 🔗 [mteb](https://github.com/embeddings-benchmark/mteb) | [![Downloads](https://static.pepy.tech/badge/mteb/week)](https://pepy.tech/project/mteb) | [![Downloads](https://static.pepy.tech/badge/mteb)](https://pepy.tech/project/mteb) | ⭐ 3.4k | 🟢 yesterday|
+| 🔗 [mteb](https://github.com/embeddings-benchmark/mteb) | [![Downloads](https://static.pepy.tech/badge/mteb/week)](https://pepy.tech/project/mteb) | [![Downloads](https://static.pepy.tech/badge/mteb)](https://pepy.tech/project/mteb) | ⭐ 3.5k | 🟢 last thursday|
 | 🔗 [sacrebleu](https://github.com/mjpost/sacrebleu) | [![Downloads](https://static.pepy.tech/badge/sacrebleu/week)](https://pepy.tech/project/sacrebleu) | [![Downloads](https://static.pepy.tech/badge/sacrebleu)](https://pepy.tech/project/sacrebleu) | ⭐ 1.3k | 🟢 august|
 | 🔗 [xtreme](https://github.com/google-research/xtreme) | - | - | ⭐ 650 | 🔴 january 2023|
-| 🔗 [belebele](https://github.com/facebookresearch/belebele) | - | - | ⭐ 339 | 🔴 december 2024|
-| 🔗 [miracl](https://github.com/project-miracl/miracl) | - | - | ⭐ 214 | 🔴 july 2024|
+| 🔗 [belebele](https://github.com/facebookresearch/belebele) | - | - | ⭐ 342 | 🔴 december 2024|
+| 🔗 [miracl](https://github.com/project-miracl/miracl) | - | - | ⭐ 215 | 🔴 july 2024|
 | 🔗 [mr.tydi](https://github.com/castorini/mr.tydi) | - | - | ⭐ 83 | 🔴 february 2022|
 | 🔗 [tydiqa](https://github.com/google-research-datasets/tydiqa) | - | - | ⭐ 319 | 🔴 april 2020|
-| 🔗 [ml-mkqa](https://github.com/apple-aiml-research/ml-mkqa) | - | - | ⭐ 198 | 🟢 september|
-| 🔗 [massive](https://github.com/alexa/massive) | - | - | ⭐ 572 | 🔴 november 2022|
+| 🔗 [ml-mkqa](https://github.com/apple-aiml-research/ml-mkqa) | - | - | ⭐ 199 | 🟢 september|
+| 🔗 [massive](https://github.com/alexa/massive) | - | - | ⭐ 576 | 🔴 november 2022|
 | 🔗 [paws](https://github.com/google-research-datasets/paws) | - | - | ⭐ 572 | 🔴 january 2022|
 | 🔗 [xl-sum](https://github.com/csebuetnlp/xl-sum) | - | - | ⭐ 279 | 🔴 march 2024|
-| 🔗 [url-nlp (MGSM)](https://github.com/google-research/url-nlp) | - | - | ⭐ 279 | 🔴 august 2025|
-| 🔗 [M-IFEval](https://github.com/lightblue-tech/M-IFEval) | - | - | ⭐ 12 | 🔴 july 2025|
+| 🔗 [url-nlp (MGSM)](https://github.com/google-research/url-nlp) | - | - | ⭐ 278 | 🔴 august 2025|
+| 🔗 [M-IFEval](https://github.com/lightblue-tech/M-IFEval) | - | - | ⭐ 13 | 🔴 july 2025|
 | 🔗 [mintaka](https://github.com/amazon-science/mintaka) | - | - | ⭐ 118 | 🔴 october 2022|
 | 🔗 [Wikilingua](https://github.com/esdurmus/Wikilingua) | - | - | ⭐ 100 | 🔴 march 2025|
 
@@ -432,16 +448,18 @@ _更新於2026年10月27日_
  * [scattertext](https://github.com/JasonKessler/scattertext) - 精美地視覺化不同文件類型之間語言使用的差異。
  * [sumy](https://github.com/miso-belica/sumy) - 用於對文字文件與 HTML 頁面進行自動摘要的模組。
  * [textlint](https://github.com/textlint/textlint) - textlint 是面向自然語言文本的可插拔校對工具。
+ * [chardet](https://github.com/chardet/chardet) - Python 字元編碼偵測函式庫，可識別 Shift_JIS、CP932、EUC-JP、ISO-2022-JP 等日語編碼。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [datatrove](https://github.com/huggingface/datatrove) | [![Downloads](https://static.pepy.tech/badge/datatrove/week)](https://pepy.tech/project/datatrove) | [![Downloads](https://static.pepy.tech/badge/datatrove)](https://pepy.tech/project/datatrove) | ⭐ 3.4k | 🟢 last friday|
-| 🔗 [Wordless](https://github.com/BLKSerene/Wordless) | - | - | ⭐ 760 | 🔴 october 2025|
+| 🔗 [datatrove](https://github.com/huggingface/datatrove) | [![Downloads](https://static.pepy.tech/badge/datatrove/week)](https://pepy.tech/project/datatrove) | [![Downloads](https://static.pepy.tech/badge/datatrove)](https://pepy.tech/project/datatrove) | ⭐ 3.4k | 🟢 last tuesday|
+| 🔗 [Wordless](https://github.com/BLKSerene/Wordless) | - | - | ⭐ 763 | 🔴 october 2025|
 | 🔗 [wordfreq](https://github.com/rspeer/wordfreq) | [![Downloads](https://static.pepy.tech/badge/wordfreq/week)](https://pepy.tech/project/wordfreq) | [![Downloads](https://static.pepy.tech/badge/wordfreq)](https://pepy.tech/project/wordfreq) | ⭐ 1.8k | 🔴 january 2025|
-| 🔗 [wn](https://github.com/goodmami/wn) | [![Downloads](https://static.pepy.tech/badge/wn/week)](https://pepy.tech/project/wn) | [![Downloads](https://static.pepy.tech/badge/wn)](https://pepy.tech/project/wn) | ⭐ 303 | 🟢 september|
-| 🔗 [wiktextract](https://github.com/tatuylonen/wiktextract) | [![Downloads](https://static.pepy.tech/badge/wiktextract/week)](https://pepy.tech/project/wiktextract) | [![Downloads](https://static.pepy.tech/badge/wiktextract)](https://pepy.tech/project/wiktextract) | ⭐ 1.3k | 🟢 yesterday|
+| 🔗 [wn](https://github.com/goodmami/wn) | [![Downloads](https://static.pepy.tech/badge/wn/week)](https://pepy.tech/project/wn) | [![Downloads](https://static.pepy.tech/badge/wn)](https://pepy.tech/project/wn) | ⭐ 304 | 🟢 september|
+| 🔗 [wiktextract](https://github.com/tatuylonen/wiktextract) | [![Downloads](https://static.pepy.tech/badge/wiktextract/week)](https://pepy.tech/project/wiktextract) | [![Downloads](https://static.pepy.tech/badge/wiktextract)](https://pepy.tech/project/wiktextract) | ⭐ 1.3k | 🟢 last monday|
 | 🔗 [scattertext](https://github.com/JasonKessler/scattertext) | [![Downloads](https://static.pepy.tech/badge/scattertext/week)](https://pepy.tech/project/scattertext) | [![Downloads](https://static.pepy.tech/badge/scattertext)](https://pepy.tech/project/scattertext) | ⭐ 2.3k | 🟡 july|
 | 🔗 [sumy](https://github.com/miso-belica/sumy) | [![Downloads](https://static.pepy.tech/badge/sumy/week)](https://pepy.tech/project/sumy) | [![Downloads](https://static.pepy.tech/badge/sumy)](https://pepy.tech/project/sumy) | ⭐ 3.7k | 🟢 last sunday|
-| 🔗 [textlint](https://github.com/textlint/textlint) | ![npm](https://img.shields.io/npm/dw/textlint) | ![npm](https://img.shields.io/npm/dt/textlint) | ⭐ 3.2k | 🟢 last saturday|
+| 🔗 [textlint](https://github.com/textlint/textlint) | ![npm](https://img.shields.io/npm/dw/textlint) | ![npm](https://img.shields.io/npm/dt/textlint) | ⭐ 3.2k | 🟢 last thursday|
+| 🔗 [chardet](https://github.com/chardet/chardet) | [![Downloads](https://static.pepy.tech/badge/chardet/week)](https://pepy.tech/project/chardet) | [![Downloads](https://static.pepy.tech/badge/chardet)](https://pepy.tech/project/chardet) | ⭐ 2.7k | 🟢 yesterday|
 
