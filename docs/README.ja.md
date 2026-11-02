@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [895件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [441 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [896件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [475 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 165 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,15 +16,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - Irodori-TTSのフォークです。LLM-Studioなどを使ったキャプション生成ツールや、モデルをマージするツールが含まれています。また、連続生成や音声品質の調整といった機能により、推論機能も強化されています。
- * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine：AI音声模倣システム ― 音声合成エンジン
- * [onsei](https://github.com/itsupera/onsei) - 日本語のピッチアクセント練習ツール
- * [furiganalyse](https://github.com/itsupera/furiganalyse) - 日本語の電子書籍にふりがなを付ける（その他の便利な変換も）
+ * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
 
-**JavaScript**
- * [miteiru](https://github.com/hockyy/miteiru) - 日本語・中国語（標準語／広東語）・ベトナム語の学習に使える無料動画プレーヤー。視聴中の動画に表示された字幕の単語をクリックすると、読み方やオフライン辞書の意味を確認できます。ローカルファイルやYouTubeの再生に対応し、二重字幕、カラオケ歌詞、Ankiへのエクスポートも利用できます。
-
-_Updated on Oct 27, 2026_
+_Updated on Nov 03, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -154,7 +148,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) | 📥 369k | 📦 76M | ⭐ 489 | 🟢 october|
+| 🔗 [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) | 📥 317k | 📦 76M | ⭐ 491 | 🟢 october|
 | 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 62k | 📦 14M | ⭐ 917 | 🟡 june|
 | 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 194k | 📦 43M | ⭐ 580 | 🟡 november 2025|
 | 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 82k | 📦 4M | ⭐ 274 | 🔴 october 2024|
@@ -493,7 +487,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 
 
 <details markdown="1">
-<summary>216 件を表示</summary>
+<summary>217 件を表示</summary>
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 日本のフルネームを姓と名に分けるためのツール。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 日本語の自然言語処理のPythonライブラリに特化したリソースの厳選リスト
@@ -711,6 +705,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine：AI音声模倣システム ― 音声合成エンジン
  * [onsei](https://github.com/itsupera/onsei) - 日本語のピッチアクセント練習ツール
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - 日本語の電子書籍にふりがなを付ける（その他の便利な変換も）
+ * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -777,7 +772,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 | 🔗 [asr](https://github.com/zakuro-ai/asr) | - | - | ⭐ 72 | 🟢 october|
 | 🔗 [neural_ime](https://github.com/yohokuno/neural_ime) | - | - | ⭐ 67 | 🔴 december 2016|
 | 🔗 [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) | - | - | ⭐ 179 | 🔴 september 2017|
-| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 375 | 📦 182k | ⭐ 53 | 🔴 november 2015|
+| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 94k | 📦 182k | ⭐ repo not found | 🔴 november 2015|
 | 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 48 | 📦 33k | ⭐ 7 | 🟢 september|
 | 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 40 | 📦 13k | ⭐ 34 | 🔴 september 2021|
 | 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 32 | 📦 24k | ⭐ 13 | 🔴 march 2025|
@@ -931,6 +926,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 | 🔗 [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) | - | - | ⭐ 185 | 🟢 today|
 | 🔗 [onsei](https://github.com/itsupera/onsei) | - | - | ⭐ 41 | 🟢 august|
 | 🔗 [furiganalyse](https://github.com/itsupera/furiganalyse) | - | - | ⭐ 95 | 🟡 february|
+| 🔗 [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) | - | - | ⭐ 10 | 🟢 today|
 
 </details>
 
@@ -2246,7 +2242,7 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 | 🔗 [nlpbook](https://github.com/mamorlis/nlpbook) | - | - | ⭐ 14 | 🟢 last wednesday|
 | 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ 21 | 🔴 march 2024|
 | 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 31 | 🔴 july 2024|
-| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ 12 | 🔴 august 2024|
+| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found | 🔴 august 2024|
 | 🔗 [textmining-ja](https://github.com/paithiov909/textmining-ja) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) | - | - | ⭐ 17 | 🟡 february|
 | 🔗 [nlp100v2025](https://github.com/upura/nlp100v2025) | - | - | ⭐ 92 | 🔴 april 2025|

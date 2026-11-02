@@ -4201,6 +4201,18 @@
                     "zh-hans": "为日语电子书添加振假名（以及其他实用的转换功能）",
                     "zh-hant": "為日文電子書添加振假名（以及其他實用的轉換）"
                 }
+            },
+            "https://github.com/RyuuNeko1107/ja-furigana-dict": {
+                "sub_category": null,
+                "repository_name": "ja-furigana-dict",
+                "user_name": "RyuuNeko1107",
+                "description": "コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)",
+                "multilingual_descriptions": {
+                    "en": "Japanese furigana dictionary for community management (for the furigana library)",
+                    "ja": "コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)",
+                    "zh-hans": "社区维护的日语注音词典（用于 Furigana 库）",
+                    "zh-hant": "社群運營的日語振假名詞典（供 furigana 函式庫使用）"
+                }
             }
         },
         "C++": {

@@ -7,8 +7,8 @@
 
 專用於 Python 庫、預訓練模型、詞典和日語 NLP 語料庫的精選資源列表
 
-- [列出了895個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
-- [列出了441個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md)
+- [列出了896個GitHub倉庫的資訊 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md)
+- [列出了475個Hugging Face倉庫的資訊（模型和數據集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hant.md)
 - [列出了165個同樣支援日語的多語言函式庫、模型與資料集的資訊](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.zh-hant.md)
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,15 +16,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - Irodori-TTS 的分支版本。包含用於生成字幕的工具（例如搭配 LLM-Studio 使用）以及模型合併工具。推理能力也有所增強，加入了連續生成與語音品質調整等功能。
- * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech 引擎：AI 語音模仿系統－文字轉語音引擎
- * [onsei](https://github.com/itsupera/onsei) - 日語音調練習工具
- * [furiganalyse](https://github.com/itsupera/furiganalyse) - 為日文電子書添加振假名（以及其他實用的轉換）
+ * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - 社群運營的日語振假名詞典（供 furigana 函式庫使用）
 
-**JavaScript**
- * [miteiru](https://github.com/hockyy/miteiru) - 免費影片播放器，讓你從觀看的內容學習日文、普通話、粵語和越南語。點擊任何字幕中的單詞，即可查看讀音及離線字典釋義。支援播放本機檔案與 YouTube，並提供雙語字幕、卡拉 OK 歌詞及匯出至 Anki 的功能。
-
-_Updated on Oct 27, 2026_
+_Updated on Nov 03, 2026_
 
 
 ## Claude Code 與 Codex 外掛
@@ -154,7 +148,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 
 |Name|downloads/week|total downloads|stars|last commit|
 -|-|-|-|-
-| 🔗 [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) | 📥 369k | 📦 76M | ⭐ 489 | 🟢 october|
+| 🔗 [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) | 📥 317k | 📦 76M | ⭐ 491 | 🟢 october|
 | 🔗 [Janome](https://github.com/mocobeta/janome) | 📥 62k | 📦 14M | ⭐ 917 | 🟡 june|
 | 🔗 [mecab-python3](https://github.com/SamuraiT/mecab-python3) | 📥 194k | 📦 43M | ⭐ 580 | 🟡 november 2025|
 | 🔗 [mecab](https://github.com/ikegami-yukino/mecab/tree/master/mecab/python) | 📥 82k | 📦 4M | ⭐ 274 | 🔴 october 2024|
@@ -493,7 +487,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 
 
 <details markdown="1">
-<summary>顯示 216 個項目</summary>
+<summary>顯示 217 個項目</summary>
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 一個將日本全名分為姓氏和名字的工具。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 一個精選的資源清單，專門為日語自然語言處理的Python庫而設。
@@ -711,6 +705,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
  * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech 引擎：AI 語音模仿系統－文字轉語音引擎
  * [onsei](https://github.com/itsupera/onsei) - 日語音調練習工具
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - 為日文電子書添加振假名（以及其他實用的轉換）
+ * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - 社群運營的日語振假名詞典（供 furigana 函式庫使用）
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -777,7 +772,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 | 🔗 [asr](https://github.com/zakuro-ai/asr) | - | - | ⭐ 72 | 🟢 october|
 | 🔗 [neural_ime](https://github.com/yohokuno/neural_ime) | - | - | ⭐ 67 | 🔴 december 2016|
 | 🔗 [neural_japanese_transliterator](https://github.com/Kyubyong/neural_japanese_transliterator) | - | - | ⭐ 179 | 🔴 september 2017|
-| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 375 | 📦 182k | ⭐ 53 | 🔴 november 2015|
+| 🔗 [tinysegmenter](https://github.com/SamuraiT/tinysegmenter) | 📥 94k | 📦 182k | ⭐ repo not found | 🔴 november 2015|
 | 🔗 [AugLy-jp](https://github.com/chck/AugLy-jp) | 📥 48 | 📦 33k | ⭐ 7 | 🟢 september|
 | 🔗 [furigana4epub](https://github.com/Mumumu4/furigana4epub) | 📥 40 | 📦 13k | ⭐ 34 | 🔴 september 2021|
 | 🔗 [PyKatsuyou](https://github.com/SmashinFries/PyKatsuyou) | 📥 32 | 📦 24k | ⭐ 13 | 🔴 march 2025|
@@ -931,6 +926,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 | 🔗 [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) | - | - | ⭐ 185 | 🟢 today|
 | 🔗 [onsei](https://github.com/itsupera/onsei) | - | - | ⭐ 41 | 🟢 august|
 | 🔗 [furiganalyse](https://github.com/itsupera/furiganalyse) | - | - | ⭐ 95 | 🟡 february|
+| 🔗 [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) | - | - | ⭐ 10 | 🟢 today|
 
 </details>
 
@@ -2246,7 +2242,7 @@ genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超�
 | 🔗 [nlpbook](https://github.com/mamorlis/nlpbook) | - | - | ⭐ 14 | 🟢 last wednesday|
 | 🔗 [kantan-regex-book](https://github.com/makenowjust/kantan-regex-book) | - | - | ⭐ 21 | 🔴 march 2024|
 | 🔗 [bert-classification-tutorial-2024](https://github.com/hpprc/bert-classification-tutorial-2024) | - | - | ⭐ 31 | 🔴 july 2024|
-| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ 12 | 🔴 august 2024|
+| 🔗 [Gemma2_2b_Japanese_finetuning_colab.ipynb](https://github.com/qianniu0304/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb) | - | - | ⭐ repo not found | 🔴 august 2024|
 | 🔗 [textmining-ja](https://github.com/paithiov909/textmining-ja) | - | - | ⭐ 3 | 🟡 march|
 | 🔗 [nlp2025-tutorial-2](https://github.com/yuiseki/nlp2025-tutorial-2) | - | - | ⭐ 17 | 🟡 february|
 | 🔗 [nlp100v2025](https://github.com/upura/nlp100v2025) | - | - | ⭐ 92 | 🔴 april 2025|

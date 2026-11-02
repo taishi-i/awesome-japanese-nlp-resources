@@ -7,8 +7,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [895件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [441 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [896件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [475 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 165 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 
 [English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
@@ -16,15 +16,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [Emoji-TTS](https://github.com/iron-mukakin/Emoji-TTS) - Irodori-TTSのフォークです。LLM-Studioなどを使ったキャプション生成ツールや、モデルをマージするツールが含まれています。また、連続生成や音声品質の調整といった機能により、推論機能も強化されています。
- * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine：AI音声模倣システム ― 音声合成エンジン
- * [onsei](https://github.com/itsupera/onsei) - 日本語のピッチアクセント練習ツール
- * [furiganalyse](https://github.com/itsupera/furiganalyse) - 日本語の電子書籍にふりがなを付ける（その他の便利な変換も）
+ * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
 
-**JavaScript**
- * [miteiru](https://github.com/hockyy/miteiru) - 日本語・中国語（標準語／広東語）・ベトナム語の学習に使える無料動画プレーヤー。視聴中の動画に表示された字幕の単語をクリックすると、読み方やオフライン辞書の意味を確認できます。ローカルファイルやYouTubeの再生に対応し、二重字幕、カラオケ歌詞、Ankiへのエクスポートも利用できます。
-
-_Updated on Oct 27, 2026_
+_Updated on Nov 03, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -708,6 +702,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine) - AivisSpeech Engine：AI音声模倣システム ― 音声合成エンジン
  * [onsei](https://github.com/itsupera/onsei) - 日本語のピッチアクセント練習ツール
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - 日本語の電子書籍にふりがなを付ける（その他の便利な変換も）
+ * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -928,6 +923,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[AivisSpeech-Engine](https://github.com/Aivis-Project/AivisSpeech-Engine)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Aivis-Project/AivisSpeech-Engine?style=social)|
 |[onsei](https://github.com/itsupera/onsei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/onsei?style=social)|
 |[furiganalyse](https://github.com/itsupera/furiganalyse)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/furiganalyse?style=social)|
+|[ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/RyuuNeko1107/ja-furigana-dict?style=social)|
 
 
 ## C++
