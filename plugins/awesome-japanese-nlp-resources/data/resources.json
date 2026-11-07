@@ -6,7 +6,7 @@
     "id": "gh:0017-alt/doppelganger-jc",
     "lc": "2026-01",
     "n": "Doppelganger-JC",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -22,7 +22,7 @@
     "id": "gh:1never/open2ch-dialogue-corpus",
     "lc": "2021-06",
     "n": "open2ch-dialogue-corpus",
-    "ns": 5.25,
+    "ns": 5.29,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -39,7 +39,7 @@
     "id": "gh:34j/mecab-text-cleaner",
     "lc": "2026-09",
     "n": "mecab-text-cleaner",
-    "ns": 2.35,
+    "ns": 2.37,
     "pt": 5000,
     "pw": 23,
     "s": [
@@ -58,7 +58,7 @@
     "id": "gh:6gsn/marine",
     "lc": "2022-09",
     "n": "marine",
-    "ns": 4.14,
+    "ns": 4.17,
     "pt": 18000,
     "pw": 142,
     "s": [
@@ -80,7 +80,7 @@
     "id": "gh:7ka-hiira/hazkey",
     "lc": "2026-02",
     "n": "hazkey",
-    "ns": 6.22,
+    "ns": 6.27,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -96,7 +96,7 @@
     "id": "gh:aratako/irodori-tts",
     "lc": "2026-11",
     "n": "Irodori-TTS",
-    "ns": 8.27,
+    "ns": 8.33,
     "s": [],
     "sc": 0.0,
     "st": 1500,
@@ -110,7 +110,7 @@
     "id": "gh:aratako/japanese-rp-bench",
     "lc": "2024-09",
     "n": "Japanese-RP-Bench",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -126,7 +126,7 @@
     "id": "gh:aspjt/pax_sapientica",
     "lc": "2025-12",
     "n": "PAX_SAPIENTICA",
-    "ns": 5.97,
+    "ns": 6.01,
     "s": [
       "Information Extraction & Text Mining"
     ],
@@ -142,7 +142,7 @@
     "id": "gh:ayanaminn/n46whisper",
     "lc": "2025-02",
     "n": "N46Whisper",
-    "ns": 8.42,
+    "ns": 8.47,
     "s": [
       "Text Generation",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -159,7 +159,7 @@
     "id": "gh:bandainamcoresearchinc/distilbert-base-jp",
     "lc": "2020-04",
     "n": "DistilBERT-base-jp",
-    "ns": 5.76,
+    "ns": 5.79,
     "s": [
       "Responsible & Trustworthy NLP",
       "Representation Learning",
@@ -179,7 +179,7 @@
     "id": "gh:bramblexu/ja-stopword-filter",
     "lc": "2026-08",
     "n": "ja-stopword-filter",
-    "ns": 1.82,
+    "ns": 1.83,
     "pt": 7000,
     "pw": 5,
     "s": [],
@@ -195,7 +195,7 @@
     "id": "gh:cjangcjengh/tacotron2-japanese",
     "lc": "2022-09",
     "n": "tacotron2-japanese",
-    "ns": 6.32,
+    "ns": 6.36,
     "s": [
       "Multimodality"
     ],
@@ -211,7 +211,7 @@
     "id": "gh:cyberagentailab/adparaphrase",
     "lc": "2025-05",
     "n": "AdParaphrase",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Paraphrasing",
       "Text Generation"
@@ -228,7 +228,7 @@
     "id": "gh:cyberagentailab/lctg-bench",
     "lc": "2024-07",
     "n": "LCTG-Bench",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -244,7 +244,7 @@
     "id": "gh:cyberagentailab/camera",
     "lc": "2024-08",
     "n": "camera",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [
       "Visual Data in NLP",
       "Text Generation",
@@ -262,7 +262,7 @@
     "id": "gh:cyberagentailab/japanese-nli-model",
     "lc": "2022-10",
     "n": "japanese-nli-model",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -279,7 +279,7 @@
     "id": "gh:cyberagentailab/jvs_nonpara_kana",
     "lc": "2026-06",
     "n": "jvs_nonpara_kana",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -295,7 +295,7 @@
     "id": "gh:djtb/hatsuon",
     "lc": "2022-03",
     "n": "hatsuon",
-    "ns": 4.14,
+    "ns": 4.17,
     "pt": 2400,
     "pw": 49,
     "s": [
@@ -314,7 +314,7 @@
     "id": "gh:daisukebekki/jsem",
     "lc": "2024-11",
     "n": "JSeM",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Semantic Parsing",
       "Semantic Similarity",
@@ -332,7 +332,7 @@
     "id": "gh:dayuanjiang/giant_ja-en_parallel_corpus",
     "lc": "2019-08",
     "n": "giant_ja-en_parallel_corpus",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -351,7 +351,7 @@
     "id": "gh:detopall/manga-translator",
     "lc": "2026-06",
     "n": "manga-translator",
-    "ns": 3.44,
+    "ns": 3.47,
     "s": [],
     "sc": 0.0,
     "st": 20,
@@ -365,7 +365,7 @@
     "id": "gh:ehimenlp/academicbart",
     "lc": "2024-07",
     "n": "AcademicBART",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -383,7 +383,7 @@
     "id": "gh:ehimenlp/academicroberta",
     "lc": "2024-09",
     "n": "AcademicRoBERTa",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -401,7 +401,7 @@
     "id": "gh:ehimenlp/hotate",
     "lc": "2026-06",
     "n": "HOTATE",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development",
       "Dialogue Systems & Conversational Agents"
@@ -418,7 +418,7 @@
     "id": "gh:ehimenlp/jmedwic",
     "lc": "2026-05",
     "n": "JMedWiC",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -434,7 +434,7 @@
     "id": "gh:foosoft/yomichan",
     "lc": "2023-02",
     "n": "yomichan",
-    "ns": 7.92,
+    "ns": 7.98,
     "s": [
       "Multilinguality",
       "Annotation and Dataset Development",
@@ -452,7 +452,7 @@
     "id": "gh:foosoft/yomichan-import",
     "lc": "2023-02",
     "n": "yomichan-import",
-    "ns": 5.08,
+    "ns": 5.11,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -469,7 +469,7 @@
     "id": "gh:fujitsuresearch/onecompression",
     "lc": "2026-10",
     "n": "OneCompression",
-    "ns": 6.9,
+    "ns": 6.94,
     "s": [],
     "sc": 0.0,
     "st": 443,
@@ -483,7 +483,7 @@
     "id": "gh:fujitsuresearch/japanese-dataset-for-automated-fact-checking",
     "lc": "2026-06",
     "n": "japanese-dataset-for-automated-fact-checking",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -499,7 +499,7 @@
     "id": "gh:gink03/5ch-analysis",
     "lc": "2018-11",
     "n": "5ch-analysis",
-    "ns": 4.9,
+    "ns": 4.93,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -515,7 +515,7 @@
     "id": "gh:gink03/fasttext-vs-word2vec-on-twitter-data",
     "lc": "2017-08",
     "n": "fasttext-vs-word2vec-on-twitter-data",
-    "ns": 4.4,
+    "ns": 4.43,
     "s": [
       "Representation Learning",
       "Semantic Text Processing"
@@ -532,7 +532,7 @@
     "id": "gh:gink03/minimal-search-engine",
     "lc": "2019-07",
     "n": "minimal-search-engine",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Information Retrieval",
       "Indexing"
@@ -549,7 +549,7 @@
     "id": "gh:geson-anko/vrchatbot",
     "lc": "2022-12",
     "n": "vrchatbot",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Language Models",
       "Text Generation"
@@ -566,7 +566,7 @@
     "id": "gh:gin5050/deep-learning-with-pytorch-ja",
     "lc": "2021-05",
     "n": "deep-learning-with-pytorch-ja",
-    "ns": 5.65,
+    "ns": 5.68,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -583,7 +583,7 @@
     "id": "gh:greatdane/convert-numbers-to-japanese",
     "lc": "2020-11",
     "n": "Convert-Numbers-to-Japanese",
-    "ns": 4.47,
+    "ns": 4.5,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -600,7 +600,7 @@
     "id": "gh:hemingwaylee/japanese-wordnet-visualization",
     "lc": "2022-11",
     "n": "japanese-wordnet-visualization",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [],
     "sc": 0.0,
     "st": 3,
@@ -614,7 +614,7 @@
     "id": "gh:hironsan/hotpeppergourmetdialogue",
     "lc": "2016-05",
     "n": "HotPepperGourmetDialogue",
-    "ns": 6.35,
+    "ns": 6.4,
     "s": [
       "Natural Language Interfaces",
       "Information Retrieval",
@@ -632,7 +632,7 @@
     "id": "gh:hironsan/iob2corpus",
     "lc": "2020-02",
     "n": "IOB2Corpus",
-    "ns": 4.67,
+    "ns": 4.7,
     "s": [
       "Information Extraction & Text Mining",
       "Syntactic Text Processing",
@@ -652,7 +652,7 @@
     "id": "gh:hironsan/asari",
     "lc": "2022-10",
     "n": "asari",
-    "ns": 5.7,
+    "ns": 5.74,
     "pt": 83000,
     "pw": 69,
     "s": [
@@ -670,7 +670,7 @@
     "id": "gh:hironsan/ja.text8",
     "lc": "2017-10",
     "n": "ja.text8",
-    "ns": 5.36,
+    "ns": 5.39,
     "s": [
       "Representation Learning",
       "Semantic Text Processing"
@@ -687,7 +687,7 @@
     "id": "gh:hiroshiba/julius4seg",
     "lc": "2021-08",
     "n": "julius4seg",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [],
     "sc": -0.298,
     "st": 7,
@@ -701,7 +701,7 @@
     "id": "gh:hiroshiba/jvs_hiho",
     "lc": "2021-02",
     "n": "jvs_hiho",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Multilinguality",
       "Speech & Audio in NLP",
@@ -720,7 +720,7 @@
     "id": "gh:hizuru3/python-habachen",
     "lc": "2025-10",
     "n": "python-habachen",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 3000000,
     "pw": 13000,
     "s": [
@@ -738,7 +738,7 @@
     "id": "gh:hojichar/hojichar",
     "lc": "2026-11",
     "n": "HojiChar",
-    "ns": 5.49,
+    "ns": 5.53,
     "pt": 1000000,
     "pw": 1000,
     "s": [
@@ -756,7 +756,7 @@
     "id": "gh:jpcertcc/phishurl-list",
     "lc": "2026-10",
     "n": "phishurl-list",
-    "ns": 6.08,
+    "ns": 6.12,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -772,7 +772,7 @@
     "id": "gh:japanese-image-captioning/clipcap-for-japanese",
     "lc": "2022-10",
     "n": "ClipCap-for-Japanese",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -789,7 +789,7 @@
     "id": "gh:japanese-image-captioning/sat-for-japanese",
     "lc": "2022-10",
     "n": "SAT-for-Japanese",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Natural Language Interfaces",
       "Visual Data in NLP",
@@ -808,7 +808,7 @@
     "id": "gh:zakuro-ai/asr",
     "lc": "2026-10",
     "n": "asr",
-    "ns": 4.85,
+    "ns": 4.89,
     "s": [
       "Speech Recognition",
       "Text Generation",
@@ -827,7 +827,7 @@
     "id": "gh:jetrunner/unihan-lm",
     "lc": "2020-11",
     "n": "unihan-lm",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Multilinguality",
       "Language Models",
@@ -845,7 +845,7 @@
     "id": "gh:jinyamyzk/t5_japanese_dialogue_generation",
     "lc": "2021-11",
     "n": "t5_japanese_dialogue_generation",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Text Generation",
@@ -864,7 +864,7 @@
     "id": "gh:keinos/google-ime-user-dictionary-ja-en",
     "lc": "2016-12",
     "n": "google-ime-user-dictionary-ja-en",
-    "ns": 4.74,
+    "ns": 4.77,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -881,7 +881,7 @@
     "id": "gh:kazumaproject/kotlin-kana-kanji-converter",
     "lc": "2026-11",
     "n": "kotlin-kana-kanji-converter",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -898,7 +898,7 @@
     "id": "gh:kensuke-mitsuzawa/japanesetokenizers",
     "lc": "2019-03",
     "n": "JapaneseTokenizers",
-    "ns": 5.58,
+    "ns": 5.62,
     "s": [
       "Text Generation",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -915,7 +915,7 @@
     "id": "gh:kentow/ngram-language-model",
     "lc": "2017-12",
     "n": "Ngram-language-model",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -932,7 +932,7 @@
     "id": "gh:kentow/hidden-markov-model",
     "lc": "2017-06",
     "n": "hidden-markov-model",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -950,7 +950,7 @@
     "id": "gh:kentow/mixture-of-unigram-model",
     "lc": "2017-06",
     "n": "mixture-of-unigram-model",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Cognitive Modeling",
       "Topic Modeling",
@@ -970,7 +970,7 @@
     "id": "gh:kodairatomonori/threelinesummarydataset",
     "lc": "2018-04",
     "n": "ThreeLineSummaryDataset",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -986,7 +986,7 @@
     "id": "gh:koichiyasuoka/supar-unidic",
     "lc": "2026-08",
     "n": "SuPar-UniDic",
-    "ns": 3.5,
+    "ns": 3.52,
     "pt": 126000,
     "pw": 325,
     "s": [
@@ -1010,7 +1010,7 @@
     "id": "gh:koichiyasuoka/unidic2ud",
     "lc": "2025-12",
     "n": "UniDic2UD",
-    "ns": 4.14,
+    "ns": 4.17,
     "pt": 342000,
     "pw": 690,
     "s": [
@@ -1037,7 +1037,7 @@
     "id": "gh:koichiyasuoka/esupar",
     "lc": "2026-09",
     "n": "esupar",
-    "ns": 4.55,
+    "ns": 4.58,
     "pt": 188000,
     "pw": 414,
     "s": [
@@ -1061,7 +1061,7 @@
     "id": "gh:kosuke-szk/ja_text_bert",
     "lc": "2018-11",
     "n": "ja_text_bert",
-    "ns": 5.37,
+    "ns": 5.4,
     "s": [
       "Phonology",
       "Annotation and Dataset Development",
@@ -1079,7 +1079,7 @@
     "id": "gh:kyubyong/neural_japanese_transliterator",
     "lc": "2017-09",
     "n": "neural_japanese_transliterator",
-    "ns": 5.87,
+    "ns": 5.91,
     "s": [
       "Representation Learning",
       "Text Generation"
@@ -1096,7 +1096,7 @@
     "id": "gh:language-media-lab/commonsense-moral-ja",
     "lc": "2025-11",
     "n": "commonsense-moral-ja",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Reasoning",
       "Commonsense Reasoning"
@@ -1113,7 +1113,7 @@
     "id": "gh:leko/goya",
     "lc": "2021-12",
     "n": "goya",
-    "ns": 5.03,
+    "ns": 5.06,
     "pt": 12000,
     "s": [
       "Syntactic Text Processing",
@@ -1132,7 +1132,7 @@
     "id": "gh:m-gen/aituberdegikkomirii",
     "lc": "2023-03",
     "n": "AITuberDegikkoMirii",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Language Models",
       "Text Generation"
@@ -1149,7 +1149,7 @@
     "id": "gh:machine-learning-tokyo/en-jp-ml-lexicon",
     "lc": "2021-03",
     "n": "EN-JP-ML-Lexicon",
-    "ns": 4.23,
+    "ns": 4.26,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1166,7 +1166,7 @@
     "id": "gh:mao-ku/jass",
     "lc": "2022-01",
     "n": "JASS",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -1185,7 +1185,7 @@
     "id": "gh:marvnc/pixiv-yomitan",
     "lc": "2026-09",
     "n": "pixiv-yomitan",
-    "ns": 4.88,
+    "ns": 4.92,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -1201,7 +1201,7 @@
     "id": "gh:masao-taketani/japanese_text_classification",
     "lc": "2020-01",
     "n": "japanese_text_classification",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Information Extraction & Text Mining",
       "Information Retrieval",
@@ -1221,7 +1221,7 @@
     "id": "gh:mokkemeguru/japanese-corpus",
     "lc": "2018-10",
     "n": "japanese-corpus",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Dialogue Response Generation",
       "Dialogue Systems & Conversational Agents",
@@ -1239,7 +1239,7 @@
     "id": "gh:morinoseimorizo/jparacrawl-finetune",
     "lc": "2021-04",
     "n": "jparacrawl-finetune",
-    "ns": 5.27,
+    "ns": 5.3,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -1260,7 +1260,7 @@
     "id": "gh:mosasom/inappropriate-words-ja",
     "lc": "2021-12",
     "n": "inappropriate-words-ja",
-    "ns": 6.07,
+    "ns": 6.11,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -1276,7 +1276,7 @@
     "id": "gh:mumumu4/furigana4epub",
     "lc": "2021-09",
     "n": "furigana4epub",
-    "ns": 4.02,
+    "ns": 4.05,
     "pt": 13000,
     "pw": 40,
     "s": [
@@ -1295,7 +1295,7 @@
     "id": "gh:netdex/niinii",
     "lc": "2026-10",
     "n": "niinii",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1312,7 +1312,7 @@
     "id": "gh:obakeconstructs/j-ono-data",
     "lc": "2026-07",
     "n": "j-ono-data",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -1328,7 +1328,7 @@
     "id": "gh:pkshatechnology-research/camphr",
     "lc": "2021-08",
     "n": "camphr",
-    "ns": 6.58,
+    "ns": 6.63,
     "pt": 281000,
     "pw": 280,
     "s": [
@@ -1347,7 +1347,7 @@
     "id": "gh:pkshatechnology-research/tdmelodic",
     "lc": "2024-03",
     "n": "tdmelodic",
-    "ns": 5.47,
+    "ns": 5.51,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1364,7 +1364,7 @@
     "id": "gh:pseitz/wana_kana_rust",
     "lc": "2026-05",
     "n": "wana_kana_rust",
-    "ns": 5.12,
+    "ns": 5.15,
     "pt": 680000,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1381,7 +1381,7 @@
     "id": "gh:patchethium/e2k",
     "lc": "2026-11",
     "n": "e2k",
-    "ns": 3.5,
+    "ns": 3.52,
     "pt": 45000,
     "pw": 2000,
     "s": [
@@ -1401,7 +1401,7 @@
     "id": "gh:ramos-ramos/bert-japan-vaccination",
     "lc": "2022-05",
     "n": "BERT-Japan-vaccination",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Language Models",
       "Emotion Analysis",
@@ -1420,7 +1420,7 @@
     "id": "gh:rinrin0413/ayashiy-nipongo-dic",
     "lc": "2024-05",
     "n": "Ayashiy-Nipongo-Dic",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -1437,7 +1437,7 @@
     "id": "gh:ryutaro-a/mlm-scoring-transformers",
     "lc": "2022-12",
     "n": "mlm-scoring-transformers",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Responsible & Trustworthy NLP",
       "Ethical NLP",
@@ -1456,7 +1456,7 @@
     "id": "gh:ryuuneko1107/ja-furigana",
     "lc": "2026-11",
     "n": "ja-furigana",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Text Normalization"
     ],
@@ -1472,7 +1472,7 @@
     "id": "gh:stair-lab-cit/stair-captions",
     "lc": "2018-07",
     "n": "STAIR-captions",
-    "ns": 5.1,
+    "ns": 5.14,
     "s": [
       "Visual Data in NLP",
       "Captioning",
@@ -1492,7 +1492,7 @@
     "id": "gh:saitolab/security_words",
     "lc": "2023-08",
     "n": "security_words",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -1508,7 +1508,7 @@
     "id": "gh:sakanaai/edinet-bench",
     "lc": "2026-03",
     "n": "EDINET-Bench",
-    "ns": 4.12,
+    "ns": 4.14,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -1529,7 +1529,7 @@
     "id": "gh:samurait/mecab-python3",
     "lc": "2025-11",
     "n": "mecab-python3",
-    "ns": 7.2,
+    "ns": 7.25,
     "pt": 43000000,
     "pw": 194000,
     "s": [
@@ -1547,9 +1547,9 @@
     "id": "gh:samurait/tinysegmenter",
     "lc": "2015-11",
     "n": "tinysegmenter",
-    "ns": 4.51,
+    "ns": 4.54,
     "pt": 182000,
-    "pw": 375,
+    "pw": 94000,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -1568,7 +1568,7 @@
     "id": "gh:shingo-kamata/japanese_qa_demo_with_haystack_and_es",
     "lc": "2022-12",
     "n": "japanese_qa_demo_with_haystack_and_es",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Information Retrieval",
       "Indexing"
@@ -1585,7 +1585,7 @@
     "id": "gh:skelterlabsinc/jaquad",
     "lc": "2022-01",
     "n": "JaQuAD",
-    "ns": 5.34,
+    "ns": 5.37,
     "s": [
       "Reasoning",
       "Natural Language Interfaces",
@@ -1605,7 +1605,7 @@
     "id": "gh:smashinfries/pykatsuyou",
     "lc": "2025-03",
     "n": "PyKatsuyou",
-    "ns": 2.99,
+    "ns": 3.01,
     "pt": 24000,
     "pw": 32,
     "s": [
@@ -1624,7 +1624,7 @@
     "id": "gh:stability-ai/lm-evaluation-harness",
     "lc": "2023-11",
     "n": "jp-stable",
-    "ns": 5.71,
+    "ns": 5.74,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -1641,7 +1641,7 @@
     "id": "gh:tut-slp-lab/jdt-with-kenlm-scoring",
     "lc": "2022-07",
     "n": "JDT-with-KenLM-scoring",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents",
@@ -1660,7 +1660,7 @@
     "id": "gh:takeuchi-lab-lm/python_asa",
     "lc": "2020-01",
     "n": "python_asa",
-    "ns": 3.55,
+    "ns": 3.57,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -1692,7 +1692,7 @@
     "id": "gh:tzawa/google-vs-deepl-je",
     "lc": "2020-03",
     "n": "google-vs-deepl-je",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -1710,7 +1710,7 @@
     "id": "gh:uec-inabalab/etcdataset",
     "lc": "2026-05",
     "n": "ETCDataset",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Annotation and Dataset Development",
       "Dialogue Systems & Conversational Agents"
@@ -1727,7 +1727,7 @@
     "id": "gh:umichang/nijisanji-ime-dic",
     "lc": "2026-08",
     "n": "nijisanji-ime-dic",
-    "ns": 4.28,
+    "ns": 4.31,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -1743,7 +1743,7 @@
     "id": "gh:umichang/pokemon-ime-dic",
     "lc": "2020-01",
     "n": "pokemon-ime-dic",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -1759,7 +1759,7 @@
     "id": "gh:universaldependencies/ud_japanese-gsdluw",
     "lc": "2026-05",
     "n": "UD_Japanese-GSDLUW",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Syntactic Text Processing",
       "Semantic Text Processing",
@@ -1782,7 +1782,7 @@
     "id": "gh:voicevox/voicevox",
     "lc": "2026-11",
     "n": "voicevox",
-    "ns": 9.17,
+    "ns": 9.23,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -1803,7 +1803,7 @@
     "id": "gh:voicevox/voicevox_core",
     "lc": "2026-11",
     "n": "voicevox_core",
-    "ns": 7.92,
+    "ns": 7.98,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality"
@@ -1824,7 +1824,7 @@
     "id": "gh:voicevox/voicevox_engine",
     "lc": "2026-11",
     "n": "voicevox_engine",
-    "ns": 8.48,
+    "ns": 8.54,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality"
@@ -1841,7 +1841,7 @@
     "id": "gh:valkyrja3607/tuning_playbook_ja",
     "lc": "2023-01",
     "n": "tuning_playbook_ja",
-    "ns": 5.95,
+    "ns": 5.99,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -1857,7 +1857,7 @@
     "id": "gh:wanikani/wanakana",
     "lc": "2026-06",
     "n": "WanaKana",
-    "ns": 7.75,
+    "ns": 7.8,
     "pt": 3600000,
     "pw": 69000,
     "s": [
@@ -1876,7 +1876,7 @@
     "id": "gh:wedontpanic/jotoba",
     "lc": "2024-01",
     "n": "Jotoba",
-    "ns": 6.06,
+    "ns": 6.1,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1898,7 +1898,7 @@
     "id": "gh:worksapplications/sudachidict",
     "lc": "2026-10",
     "n": "SudachiDict",
-    "ns": 6.51,
+    "ns": 6.55,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -1919,7 +1919,7 @@
     "id": "gh:worksapplications/sudachitra",
     "lc": "2023-12",
     "n": "SudachiTra",
-    "ns": 4.99,
+    "ns": 5.02,
     "pt": 211000,
     "pw": 709,
     "s": [
@@ -1942,7 +1942,7 @@
     "id": "gh:worksapplications/chive",
     "lc": "2024-03",
     "n": "chiVe",
-    "ns": 5.87,
+    "ns": 5.91,
     "s": [
       "Representation Learning",
       "Semantic Text Processing"
@@ -1959,7 +1959,7 @@
     "id": "gh:worksapplications/chikkarpy",
     "lc": "2022-02",
     "n": "chikkarpy",
-    "ns": 4.55,
+    "ns": 4.58,
     "pt": 70000,
     "pw": 200,
     "s": [
@@ -1986,9 +1986,9 @@
     "id": "gh:worksapplications/sudachi.rs",
     "lc": "2026-10",
     "n": "sudachi.rs",
-    "ns": 7.01,
+    "ns": 7.06,
     "pt": 76000000,
-    "pw": 369000,
+    "pw": 317000,
     "s": [
       "Syntactic Text Processing",
       "Tagging",
@@ -1996,7 +1996,7 @@
       "Vocabulary, Dictionary, and Language Input Method"
     ],
     "sc": 0.669,
-    "st": 489,
+    "st": 491,
     "status": "ok",
     "u": "https://github.com/WorksApplications/sudachi.rs"
   },
@@ -2007,7 +2007,7 @@
     "id": "gh:yutomaeda1209/vrchatgpt",
     "lc": "2023-03",
     "n": "VRChatGPT",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Response Generation",
@@ -2028,7 +2028,7 @@
     "id": "gh:yutaroogawa/bert_japanese_google_colaboratory",
     "lc": "2022-01",
     "n": "BERT_Japanese_Google_Colaboratory",
-    "ns": 3.85,
+    "ns": 3.87,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -2045,7 +2045,7 @@
     "id": "gh:zhaopeiduo/blip2-japanese",
     "lc": "2025-09",
     "n": "BLIP2-Japanese",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -2062,7 +2062,7 @@
     "id": "gh:a-hamdi/japanesearabic",
     "lc": "2025-05",
     "n": "japanesearabic",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2078,7 +2078,7 @@
     "id": "gh:accel-brain/accel-brain-code",
     "lc": "2023-12",
     "n": "accel-brain-code",
-    "ns": 6.56,
+    "ns": 6.6,
     "pt": 157000,
     "pw": 208,
     "s": [
@@ -2098,7 +2098,7 @@
     "id": "gh:actlaboratory/englishtokanaconverter",
     "lc": "2026-08",
     "n": "englishtokanaconverter",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -2115,7 +2115,7 @@
     "id": "gh:adilmoujahid/kanji-flashcard-app-gpt4",
     "lc": "2023-10",
     "n": "kanji-flashcard-app-gpt4",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Syntactic Text Processing",
       "Language Models"
@@ -2132,7 +2132,7 @@
     "id": "gh:agatan/yoin",
     "lc": "2017-10",
     "n": "yoin",
-    "ns": 3.73,
+    "ns": 3.75,
     "pt": 3100,
     "s": [
       "Syntactic Text Processing",
@@ -2152,7 +2152,7 @@
     "id": "gh:aih-uth/joint-information-extraction-hs",
     "lc": "2021-11",
     "n": "joint-information-extraction-hs",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -2168,7 +2168,7 @@
     "id": "gh:aiishii/jemhopqa",
     "lc": "2025-04",
     "n": "jemhopqa",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Responsible & Trustworthy NLP",
       "Natural Language Interfaces",
@@ -2187,7 +2187,7 @@
     "id": "gh:aistairc/medllm_qa_benchmark",
     "lc": "2025-01",
     "n": "medLLM_QA_benchmark",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -2203,7 +2203,7 @@
     "id": "gh:ajatt-tools/mecab_controller",
     "lc": "2026-10",
     "n": "mecab_controller",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -2219,7 +2219,7 @@
     "id": "gh:akarigroup/akari_chatgpt_bot",
     "lc": "2025-10",
     "n": "akari_chatgpt_bot",
-    "ns": 4.4,
+    "ns": 4.43,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -2236,7 +2236,7 @@
     "id": "gh:akaza-im/akaza",
     "lc": "2026-06",
     "n": "akaza",
-    "ns": 6.32,
+    "ns": 6.36,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -2253,7 +2253,7 @@
     "id": "gh:akimfromparis/rag-japanese",
     "lc": "2025-05",
     "n": "rag-japanese",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Responsible & Trustworthy NLP",
       "Text Generation",
@@ -2271,7 +2271,7 @@
     "id": "gh:akirakubo/bert-japanese-aozora",
     "lc": "2020-08",
     "n": "bert-japanese-aozora",
-    "ns": 4.23,
+    "ns": 4.26,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -2289,7 +2289,7 @@
     "id": "gh:akirakubo/mecab-mozcdic",
     "lc": "2018-01",
     "n": "mecab-mozcdic",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2305,7 +2305,7 @@
     "id": "gh:akr4/tantivy-vibrato",
     "lc": "2026-04",
     "n": "tantivy-vibrato",
-    "ns": 1.57,
+    "ns": 1.58,
     "pt": 1600,
     "s": [
       "Syntactic Text Processing",
@@ -2325,7 +2325,7 @@
     "id": "gh:albno273/denonbu-ime-dic",
     "lc": "2022-11",
     "n": "denonbu-ime-dic",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2341,7 +2341,7 @@
     "id": "gh:algon-320/vime",
     "lc": "2022-11",
     "n": "vime",
-    "ns": 6.15,
+    "ns": 6.19,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -2358,7 +2358,7 @@
     "id": "gh:alinear-corp/albert-japanese",
     "lc": "2021-10",
     "n": "albert-japanese",
-    "ns": 3.99,
+    "ns": 4.02,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -2376,7 +2376,7 @@
     "id": "gh:alinear-corp/kuzukiri",
     "lc": "2025-06",
     "n": "kuzukiri",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 31000,
     "pw": 93,
     "s": [
@@ -2395,7 +2395,7 @@
     "id": "gh:alvations/yubin",
     "lc": "2019-10",
     "n": "yubin",
-    "ns": 1.57,
+    "ns": 1.58,
     "pt": 3000,
     "pw": 17,
     "s": [
@@ -2416,7 +2416,7 @@
     "id": "gh:amanoese/kana2ipa",
     "lc": "2020-10",
     "n": "kana2ipa",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2432,7 +2432,7 @@
     "id": "gh:andree-surya/moji4j",
     "lc": "2022-06",
     "n": "moji4j",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -2449,7 +2449,7 @@
     "id": "gh:anemptyarchive/topic-models-ao",
     "lc": "2025-05",
     "n": "topic-models-ao",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [],
     "sc": 0.0,
     "st": 4,
@@ -2463,7 +2463,7 @@
     "id": "gh:anilogia/animedb",
     "lc": "2023-01",
     "n": "animedb",
-    "ns": 6.57,
+    "ns": 6.62,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -2479,7 +2479,7 @@
     "id": "gh:aocattleya/wordcloud-japanese",
     "lc": "2020-01",
     "n": "WordCloud-Japanese",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -2496,7 +2496,7 @@
     "id": "gh:aozorahack/aozorabunko_text",
     "lc": "2023-03",
     "n": "aozorabunko_text",
-    "ns": 5.24,
+    "ns": 5.28,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -2512,7 +2512,7 @@
     "id": "gh:aratako/magpie-nemotron",
     "lc": "2024-07",
     "n": "magpie-nemotron",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [],
     "sc": -0.298,
     "st": 8,
@@ -2526,7 +2526,7 @@
     "id": "gh:arusl/anlp_nlp2021_d3-1",
     "lc": "2022-03",
     "n": "anlp_nlp2021_d3-1",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Information Extraction & Text Mining",
       "Responsible & Trustworthy NLP",
@@ -2563,7 +2563,7 @@
     "id": "gh:asutorufa/hujiang_dictionary",
     "lc": "2026-10",
     "n": "hujiang_dictionary",
-    "ns": 4.87,
+    "ns": 4.9,
     "s": [],
     "sc": 0.0,
     "st": 73,
@@ -2583,7 +2583,7 @@
     "id": "gh:atilika/kuromoji",
     "lc": "2019-09",
     "n": "kuromoji",
-    "ns": 7.92,
+    "ns": 7.98,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -2603,7 +2603,7 @@
     "id": "gh:aurorawright/owocr",
     "lc": "2026-03",
     "n": "owocr",
-    "ns": 6.49,
+    "ns": 6.53,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -2620,7 +2620,7 @@
     "id": "gh:ayutaz/piper-plus",
     "lc": "2026-11",
     "n": "piper-plus",
-    "ns": 6.2,
+    "ns": 6.24,
     "s": [],
     "sc": 0.0,
     "st": 238,
@@ -2634,7 +2634,7 @@
     "id": "gh:azookey/azookeykanakanjiconverter",
     "lc": "2026-10",
     "n": "AzooKeyKanaKanjiConverter",
-    "ns": 5.8,
+    "ns": 5.84,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2650,7 +2650,7 @@
     "id": "gh:azookey/azookey",
     "lc": "2026-11",
     "n": "azooKey",
-    "ns": 7.56,
+    "ns": 7.61,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2666,7 +2666,7 @@
     "id": "gh:azookey/azookey-desktop",
     "lc": "2026-11",
     "n": "azooKey-Desktop",
-    "ns": 7.92,
+    "ns": 7.98,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2682,7 +2682,7 @@
     "id": "gh:azookey/ajimee-bench",
     "lc": "2025-01",
     "n": "ajimee-bench",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -2698,7 +2698,7 @@
     "id": "gh:azu/sudachi-synonyms-dictionary",
     "lc": "2026-10",
     "n": "sudachi-synonyms-dictionary",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [],
     "sc": 0.0,
     "st": 15,
@@ -2712,7 +2712,7 @@
     "id": "gh:azure-samples/jp-azureopenai-samples",
     "lc": "2026-03",
     "n": "jp-azureopenai-samples",
-    "ns": 6.37,
+    "ns": 6.41,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2728,7 +2728,7 @@
     "id": "gh:bangumi-data/bangumi-data",
     "lc": "2026-11",
     "n": "bangumi-data",
-    "ns": 7.34,
+    "ns": 7.39,
     "pt": 63000,
     "pw": 435,
     "s": [],
@@ -2744,7 +2744,7 @@
     "id": "gh:bikatr7/kairyou",
     "lc": "2025-06",
     "n": "kairyou",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 35000,
     "pw": 59,
     "s": [
@@ -2766,7 +2766,7 @@
     "id": "gh:bikatr7/kudasai",
     "lc": "2025-06",
     "n": "kudasai",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -2784,7 +2784,7 @@
     "id": "gh:blueaxis/poricom",
     "lc": "2023-06",
     "n": "Poricom",
-    "ns": 6.9,
+    "ns": 6.95,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -2801,7 +2801,7 @@
     "id": "gh:borh-lab/natsume-simple",
     "lc": "2026-10",
     "n": "natsume-simple",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2817,7 +2817,7 @@
     "id": "gh:borh/aozora-corpus-generator",
     "lc": "2025-06",
     "n": "aozora-corpus-generator",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -2835,7 +2835,7 @@
     "id": "gh:bungoume/mecab-web-api",
     "lc": "2022-07",
     "n": "mecab-web-api",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2851,7 +2851,7 @@
     "id": "gh:buruzaemon/natto-py",
     "lc": "2023-11",
     "n": "natto-py",
-    "ns": 5.16,
+    "ns": 5.2,
     "pt": 34000000,
     "pw": 2000,
     "s": [
@@ -2872,7 +2872,7 @@
     "id": "gh:canna-input/canna",
     "lc": "2026-09",
     "n": "canna",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2888,7 +2888,7 @@
     "id": "gh:chakki-works/coarij",
     "lc": "2020-12",
     "n": "CoARiJ",
-    "ns": 5.16,
+    "ns": 5.2,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -2904,7 +2904,7 @@
     "id": "gh:chakki-works/japanese-company-lexicon",
     "lc": "2023-01",
     "n": "Japanese-Company-Lexicon",
-    "ns": 5.21,
+    "ns": 5.25,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -2920,7 +2920,7 @@
     "id": "gh:chakki-works/chabsa-dataset",
     "lc": "2018-09",
     "n": "chABSA-dataset",
-    "ns": 5.62,
+    "ns": 5.66,
     "s": [
       "Aspect-based Sentiment Analysis",
       "Sentiment Analysis"
@@ -2937,7 +2937,7 @@
     "id": "gh:chakki-works/entitypedia",
     "lc": "2018-12",
     "n": "entitypedia",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Information Extraction & Text Mining",
       "Syntactic Text Processing",
@@ -2955,7 +2955,7 @@
     "id": "gh:chakki-works/namaco",
     "lc": "2018-02",
     "n": "namaco",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [
       "Information Extraction & Text Mining",
       "Named Entity Recognition",
@@ -2973,7 +2973,7 @@
     "id": "gh:chck/augly-jp",
     "lc": "2026-09",
     "n": "AugLy-jp",
-    "ns": 2.35,
+    "ns": 2.37,
     "pt": 33000,
     "pw": 48,
     "s": [
@@ -2992,7 +2992,7 @@
     "id": "gh:chezou/mykytea-python",
     "lc": "2026-03",
     "n": "Mykytea-python",
-    "ns": 4.09,
+    "ns": 4.11,
     "pt": 592000,
     "pw": 534,
     "s": [
@@ -3015,7 +3015,7 @@
     "id": "gh:chrisgrieser/alfred-japanese-dictionary",
     "lc": "2026-10",
     "n": "alfred-japanese-dictionary",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Multilinguality",
       "Speech & Audio in NLP",
@@ -3035,7 +3035,7 @@
     "id": "gh:cihai/cihai",
     "lc": "2026-11",
     "n": "cihai",
-    "ns": 5.14,
+    "ns": 5.17,
     "pt": 231000,
     "pw": 633,
     "s": [
@@ -3056,7 +3056,7 @@
     "id": "gh:cjkvi/cjkvi-dict",
     "lc": "2017-09",
     "n": "cjkvi-dict",
-    "ns": 5.37,
+    "ns": 5.4,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -3073,7 +3073,7 @@
     "id": "gh:cl-tohoku/aio2_dpr_baseline",
     "lc": "2022-01",
     "n": "AIO2_DPR_baseline",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -3089,7 +3089,7 @@
     "id": "gh:cl-tohoku/bpersona-chat",
     "lc": "2023-01",
     "n": "BPersona-chat",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Multilinguality",
       "Cross-Lingual Transfer",
@@ -3107,7 +3107,7 @@
     "id": "gh:cl-tohoku/ilys-aoba-chatbot",
     "lc": "2021-10",
     "n": "ILYS-aoba-chatbot",
-    "ns": 3.6,
+    "ns": 3.62,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
@@ -3124,7 +3124,7 @@
     "id": "gh:cl-tohoku/phemt",
     "lc": "2021-02",
     "n": "PheMT",
-    "ns": 3.44,
+    "ns": 3.47,
     "s": [
       "Multilinguality",
       "Responsible & Trustworthy NLP",
@@ -3145,7 +3145,7 @@
     "id": "gh:cl-tohoku/bert-japanese",
     "lc": "2024-03",
     "n": "bert-japanese",
-    "ns": 7.14,
+    "ns": 7.19,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -3163,7 +3163,7 @@
     "id": "gh:cl-tohoku/elmo-japanese",
     "lc": "2019-10",
     "n": "elmo-japanese",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -3180,7 +3180,7 @@
     "id": "gh:cl-tohoku/j-unimorph",
     "lc": "2026-05",
     "n": "j-unimorph",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Syntactic Text Processing",
       "Morphology"
@@ -3197,7 +3197,7 @@
     "id": "gh:cl-tohoku/keigo_transfer_task",
     "lc": "2022-11",
     "n": "keigo_transfer_task",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -3214,7 +3214,7 @@
     "id": "gh:cl-tohoku/showcase",
     "lc": "2018-06",
     "n": "showcase",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 8000,
     "pw": 19,
     "s": [
@@ -3228,31 +3228,12 @@
   },
   {
     "c": "Python library",
-    "d": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
-    "d_ja": "OCRフリー文書理解トランスフォーマー（Donut）および合成文書ジェネレーター（SynthDoG）の公式実装、ECCV 2022",
-    "id": "gh:clovaai/donut",
-    "lc": "2023-07",
-    "n": "donut",
-    "ns": 10.0,
-    "pt": 205000,
-    "pw": 83,
-    "s": [
-      "Visual Data in NLP",
-      "Multimodality"
-    ],
-    "sc": 17.124,
-    "st": 6900,
-    "status": "ok",
-    "u": "https://github.com/clovaai/donut"
-  },
-  {
-    "c": "Python library",
     "d": "Negima is a Python package to extract phrases in Japanese text by using the part-of-speeches based rules you defined.",
     "d_ja": "Negimaは、定義した品詞ベースのルールを使用して、日本語テキストからフレーズを抽出するためのPythonパッケージです。",
     "id": "gh:cocodrips/negima",
     "lc": "2018-08",
     "n": "negima",
-    "ns": 3.06,
+    "ns": 3.08,
     "pt": 17000,
     "pw": 28,
     "s": [
@@ -3271,7 +3252,7 @@
     "id": "gh:codefirst/aquaskk",
     "lc": "2026-09",
     "n": "aquaskk",
-    "ns": 6.7,
+    "ns": 6.75,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -3288,7 +3269,7 @@
     "id": "gh:cokice/japanese-analyzer",
     "lc": "2026-11",
     "n": "japanese-analyzer",
-    "ns": 7.56,
+    "ns": 7.62,
     "s": [],
     "sc": 0.0,
     "st": 800,
@@ -3302,7 +3283,7 @@
     "id": "gh:colorfulscoop/gpt-ja",
     "lc": "2021-09",
     "n": "gpt-ja",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents",
@@ -3322,7 +3303,7 @@
     "id": "gh:colorfulscoop/sbert-ja",
     "lc": "2021-08",
     "n": "sbert-ja",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -3340,7 +3321,7 @@
     "id": "gh:compile10/kaitai",
     "lc": "2026-11",
     "n": "kaitai",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -3354,7 +3335,7 @@
     "id": "gh:cool-japan/mecrab",
     "lc": "2026-01",
     "n": "mecrab",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Morphology",
       "Syntactic Text Processing"
@@ -3371,7 +3352,7 @@
     "id": "gh:craftzdog/react-native-japanese-tokenizer",
     "lc": "2023-06",
     "n": "react-native-japanese-tokenizer",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -3388,7 +3369,7 @@
     "id": "gh:cyberagentailab/camera3",
     "lc": "2024-05",
     "n": "camera3",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -3404,7 +3385,7 @@
     "id": "gh:daac-tools/crawdad",
     "lc": "2026-08",
     "n": "crawdad",
-    "ns": 4.17,
+    "ns": 4.2,
     "pt": 282000,
     "s": [
       "Information Retrieval",
@@ -3422,7 +3403,7 @@
     "id": "gh:daac-tools/daachorse",
     "lc": "2026-10",
     "n": "daachorse",
-    "ns": 6.4,
+    "ns": 6.44,
     "pt": 9400000,
     "s": [
       "Information Retrieval",
@@ -3440,7 +3421,7 @@
     "id": "gh:daac-tools/python-vaporetto",
     "lc": "2026-05",
     "n": "python-vaporetto",
-    "ns": 3.5,
+    "ns": 3.52,
     "pt": 193000,
     "pw": 633,
     "s": [
@@ -3461,7 +3442,7 @@
     "id": "gh:daac-tools/python-vibrato",
     "lc": "2026-05",
     "n": "python-vibrato",
-    "ns": 4.36,
+    "ns": 4.39,
     "pt": 129000,
     "pw": 413,
     "s": [
@@ -3486,7 +3467,7 @@
     "id": "gh:daac-tools/vaporetto",
     "lc": "2026-11",
     "n": "vaporetto",
-    "ns": 6.45,
+    "ns": 6.49,
     "pt": 349000,
     "s": [
       "Syntactic Text Processing",
@@ -3510,7 +3491,7 @@
     "id": "gh:daac-tools/vibrato",
     "lc": "2026-11",
     "n": "vibrato",
-    "ns": 6.86,
+    "ns": 6.9,
     "pt": 103000,
     "s": [
       "Syntactic Text Processing",
@@ -3530,7 +3511,7 @@
     "id": "gh:dahatake/generativeai-prompt-sample-japanese",
     "lc": "2026-10",
     "n": "generativeai-prompt-sample-japanese",
-    "ns": 6.88,
+    "ns": 6.93,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Response Generation",
@@ -3552,7 +3533,7 @@
     "id": "gh:dahlia/cjk-compsci-terms",
     "lc": "2026-10",
     "n": "cjk-compsci-terms",
-    "ns": 5.73,
+    "ns": 5.77,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -3568,7 +3549,7 @@
     "id": "gh:daisukebekki/lightblue",
     "lc": "2026-10",
     "n": "lightblue",
-    "ns": 3.85,
+    "ns": 3.87,
     "s": [
       "Representation Learning",
       "Syntactic Text Processing",
@@ -3587,7 +3568,7 @@
     "id": "gh:davidluzgouveia/kanji-data",
     "lc": "2026-02",
     "n": "kanji-data",
-    "ns": 6.22,
+    "ns": 6.26,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -3604,7 +3585,7 @@
     "id": "gh:digital-go-jp/kanjikana-model",
     "lc": "2026-04",
     "n": "kanjikana-model",
-    "ns": 5.43,
+    "ns": 5.47,
     "s": [],
     "sc": 0.0,
     "st": 121,
@@ -3618,7 +3599,7 @@
     "id": "gh:digital-go-jp/lawqa_jp",
     "lc": "2026-02",
     "n": "lawqa_jp",
-    "ns": 6.37,
+    "ns": 6.42,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -3634,7 +3615,7 @@
     "id": "gh:discus0434/pdf-translator",
     "lc": "2024-05",
     "n": "pdf-translator",
-    "ns": 6.62,
+    "ns": 6.67,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -3652,7 +3633,7 @@
     "id": "gh:discus0434/text-generation",
     "lc": "2025-08",
     "n": "text-generation",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Text Generation",
       "Language Models",
@@ -3670,7 +3651,7 @@
     "id": "gh:naoto-iwase/igakuqa119",
     "lc": "2026-11",
     "n": "IgakuQA119",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [],
     "sc": 0.0,
     "st": 10,
@@ -3684,7 +3665,7 @@
     "id": "gh:cjkvsoft/kyujipy",
     "lc": "2026-01",
     "n": "kyujipy",
-    "ns": 3.55,
+    "ns": 3.57,
     "pt": 24000,
     "pw": 70,
     "s": [],
@@ -3700,7 +3681,7 @@
     "id": "gh:deepapps91/kindai-ocr",
     "lc": "2026-07",
     "n": "Kindai-OCR",
-    "ns": 5.7,
+    "ns": 5.74,
     "s": [
       "Multilinguality",
       "Visual Data in NLP",
@@ -3719,7 +3700,7 @@
     "id": "gh:dwangomediavillage/pydomino",
     "lc": "2025-08",
     "n": "pydomino",
-    "ns": 4.28,
+    "ns": 4.31,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -3735,7 +3716,7 @@
     "id": "gh:eagleflo/jisho",
     "lc": "2026-04",
     "n": "jisho",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -3752,7 +3733,7 @@
     "id": "gh:echamudi/japanese-toolkit",
     "lc": "2023-01",
     "n": "japanese-toolkit",
-    "ns": 4.72,
+    "ns": 4.75,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -3769,7 +3750,7 @@
     "id": "gh:eggplants/aovec",
     "lc": "2023-01",
     "n": "aovec",
-    "ns": 1.57,
+    "ns": 1.58,
     "pt": 88000,
     "pw": 55,
     "s": [
@@ -3788,7 +3769,7 @@
     "id": "gh:eggplants/wiredify",
     "lc": "2025-12",
     "n": "wiredify",
-    "ns": 1.57,
+    "ns": 1.58,
     "pt": 7000,
     "pw": 58,
     "s": [
@@ -3806,7 +3787,7 @@
     "id": "gh:ehimenlp/matcha",
     "lc": "2026-05",
     "n": "matcha",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Multimodality"
     ],
@@ -3822,7 +3803,7 @@
     "id": "gh:ekiyo55/kotobacore",
     "lc": "2026-09",
     "n": "kotobacore",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Sentiment Analysis"
     ],
@@ -3838,7 +3819,7 @@
     "id": "gh:elith-co-jp/meconaudio",
     "lc": "2023-10",
     "n": "meconaudio",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality"
@@ -3855,7 +3836,7 @@
     "id": "gh:elzup/jlpt-word-list",
     "lc": "2022-02",
     "n": "jlpt-word-list",
-    "ns": 5.21,
+    "ns": 5.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -3871,7 +3852,7 @@
     "id": "gh:elzup/jptext-to-emoji",
     "lc": "2026-06",
     "n": "jptext-to-emoji",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -3887,7 +3868,7 @@
     "id": "gh:er-ri/bertjsc",
     "lc": "2024-08",
     "n": "bertjsc",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -3904,7 +3885,7 @@
     "id": "gh:esrille/furiganapad",
     "lc": "2025-04",
     "n": "furiganapad",
-    "ns": 3.44,
+    "ns": 3.47,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -3921,7 +3902,7 @@
     "id": "gh:esrille/ibus-hiragana",
     "lc": "2026-03",
     "n": "ibus-hiragana",
-    "ns": 4.99,
+    "ns": 5.02,
     "s": [
       "Phonology",
       "Syntactic Text Processing",
@@ -3939,7 +3920,7 @@
     "id": "gh:esrille/oskim",
     "lc": "2023-02",
     "n": "oskim",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -3956,7 +3937,7 @@
     "id": "gh:europeanplaice/mojimoji-rs",
     "lc": "2022-11",
     "n": "mojimoji-rs",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Text Normalization"
     ],
@@ -3972,7 +3953,7 @@
     "id": "gh:fasiha/kamiya-codec",
     "lc": "2025-05",
     "n": "kamiya-codec",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -3988,7 +3969,7 @@
     "id": "gh:fauu/kamite",
     "lc": "2025-03",
     "n": "Kamite",
-    "ns": 5.64,
+    "ns": 5.68,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -4005,7 +3986,7 @@
     "id": "gh:forsakeninfinity/cejc_yomichan_freq_dict",
     "lc": "2023-06",
     "n": "cejc_yomichan_freq_dict",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4021,7 +4002,7 @@
     "id": "gh:franzwong/chrome-ext-translate-to-hiragana-with-chatgpt",
     "lc": "2023-04",
     "n": "chrome-ext-translate-to-hiragana-with-chatgpt",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Multilinguality",
       "Natural Language Interfaces",
@@ -4043,7 +4024,7 @@
     "id": "gh:fujiwarat/anthy-unicode",
     "lc": "2026-09",
     "n": "anthy-unicode",
-    "ns": 4.4,
+    "ns": 4.43,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -4059,7 +4040,7 @@
     "id": "gh:fukuyori/rakukan",
     "lc": "2026-11",
     "n": "rakukan",
-    "ns": 4.23,
+    "ns": 4.26,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -4075,7 +4056,7 @@
     "id": "gh:fumifumi0831/whisper-transcription",
     "lc": "2026-01",
     "n": "whisper-transcription",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [],
     "sc": 0.0,
     "st": 21,
@@ -4103,7 +4084,7 @@
     "id": "gh:gbrlsnchs/kana",
     "lc": "2026-10",
     "n": "kana",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Syntactic Text Processing",
       "Paraphrasing",
@@ -4122,7 +4103,7 @@
     "id": "gh:gecko655/proofreading-tool",
     "lc": "2025-10",
     "n": "proofreading-tool",
-    "ns": 5.07,
+    "ns": 5.1,
     "s": [
       "Syntactic Text Processing",
       "Text Error Correction"
@@ -4139,7 +4120,7 @@
     "id": "gh:gemmarx/unicode-jp-rs",
     "lc": "2020-04",
     "n": "unicode-jp-rs",
-    "ns": 3.39,
+    "ns": 3.41,
     "pt": 70000,
     "s": [
       "Syntactic Text Processing",
@@ -4157,7 +4138,7 @@
     "id": "gh:geolonia/japanese-addresses",
     "lc": "2026-08",
     "n": "japanese-addresses",
-    "ns": 7.52,
+    "ns": 7.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4173,7 +4154,7 @@
     "id": "gh:geolonia/japanese-addresses-v2",
     "lc": "2026-09",
     "n": "japanese-addresses-v2",
-    "ns": 5.03,
+    "ns": 5.06,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4189,7 +4170,7 @@
     "id": "gh:geolonia/normalize-japanese-addresses",
     "lc": "2026-11",
     "n": "normalize-japanese-addresses",
-    "ns": 7.77,
+    "ns": 7.83,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -4206,7 +4187,7 @@
     "id": "gh:geonlp-platform/pygeonlp",
     "lc": "2026-03",
     "n": "pygeonlp",
-    "ns": 3.55,
+    "ns": 3.57,
     "pt": 31000,
     "pw": 411,
     "s": [
@@ -4226,7 +4207,7 @@
     "id": "gh:georgescutelnicu/manga-translator",
     "lc": "2026-08",
     "n": "manga-translator",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [],
     "sc": 0.0,
     "st": 27,
@@ -4240,7 +4221,7 @@
     "id": "gh:ghmagazine/llm-book",
     "lc": "2025-12",
     "n": "llm-book",
-    "ns": 6.98,
+    "ns": 7.03,
     "s": [],
     "sc": 0.782,
     "st": 477,
@@ -4254,7 +4235,7 @@
     "id": "gh:gnurt2041/mangaocr",
     "lc": "2024-05",
     "n": "MangaOCR",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [
       "Visual Data in NLP"
     ],
@@ -4270,7 +4251,7 @@
     "id": "gh:gojp/nihongo",
     "lc": "2026-06",
     "n": "nihongo",
-    "ns": 5.01,
+    "ns": 5.05,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -4286,7 +4267,7 @@
     "id": "gh:golbin/node-mecab-ya",
     "lc": "2021-06",
     "n": "node-mecab-ya",
-    "ns": 5.33,
+    "ns": 5.36,
     "pt": 7800,
     "pw": 39,
     "s": [
@@ -4305,7 +4286,7 @@
     "id": "gh:google/budoux",
     "lc": "2026-11",
     "n": "budoux",
-    "ns": 8.48,
+    "ns": 8.54,
     "pt": 915000,
     "pw": 32000,
     "s": [
@@ -4331,7 +4312,7 @@
     "id": "gh:google/mozc",
     "lc": "2026-11",
     "n": "mozc",
-    "ns": 9.06,
+    "ns": 9.12,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -4348,7 +4329,7 @@
     "id": "gh:google/mozc-devices",
     "lc": "2026-10",
     "n": "mozc-devices",
-    "ns": 9.06,
+    "ns": 9.12,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -4365,7 +4346,7 @@
     "id": "gh:google/shuwa",
     "lc": "2022-12",
     "n": "shuwa",
-    "ns": 5.64,
+    "ns": 5.68,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -4382,7 +4363,7 @@
     "id": "gh:gotutiyan/gec-info-ja",
     "lc": "2025-04",
     "n": "GEC-Info-ja",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4398,7 +4379,7 @@
     "id": "gh:greymd/ojichat",
     "lc": "2024-10",
     "n": "ojichat",
-    "ns": 8.11,
+    "ns": 8.17,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -4415,7 +4396,7 @@
     "id": "gh:gyokuro33/chuanhuchatgptjapanese",
     "lc": "2023-03",
     "n": "ChuanhuChatGPTJapanese",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Response Generation",
@@ -4435,7 +4416,7 @@
     "id": "gh:hakatashi/japanese.js",
     "lc": "2020-08",
     "n": "japanese.js",
-    "ns": 5.8,
+    "ns": 5.84,
     "s": [
       "Text Normalization"
     ],
@@ -4451,7 +4432,7 @@
     "id": "gh:hakatashi/kyujitai.js",
     "lc": "2020-08",
     "n": "kyujitai.js",
-    "ns": 3.64,
+    "ns": 3.67,
     "pt": 3400,
     "pw": 83,
     "s": [
@@ -4485,7 +4466,7 @@
     "id": "gh:hecomi/node-mecab-async",
     "lc": "2017-10",
     "n": "node-mecab-async",
-    "ns": 5.27,
+    "ns": 5.3,
     "pt": 300000,
     "pw": 1300,
     "s": [
@@ -4506,7 +4487,7 @@
     "id": "gh:heppokofrontend/hololive-dictionary",
     "lc": "2024-12",
     "n": "hololive-dictionary",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -4522,7 +4503,7 @@
     "id": "gh:hexenq/kuroshiro",
     "lc": "2026-10",
     "n": "kuroshiro",
-    "ns": 7.81,
+    "ns": 7.87,
     "pt": 945000,
     "pw": 16000,
     "s": [
@@ -4541,7 +4522,7 @@
     "id": "gh:hexenq/kuroshiro-analyzer-kuromoji",
     "lc": "2026-10",
     "n": "kuroshiro-analyzer-kuromoji",
-    "ns": 4.85,
+    "ns": 4.89,
     "pt": 927000,
     "pw": 16000,
     "s": [
@@ -4562,7 +4543,7 @@
     "id": "gh:himkt/awesome-bert-japanese",
     "lc": "2023-03",
     "n": "awesome-bert-japanese",
-    "ns": 5.53,
+    "ns": 5.57,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -4585,7 +4566,7 @@
     "id": "gh:himkt/konoha",
     "lc": "2026-11",
     "n": "konoha",
-    "ns": 6.32,
+    "ns": 6.36,
     "pt": 7000000,
     "pw": 67000,
     "s": [
@@ -4606,7 +4587,7 @@
     "id": "gh:hingston/japanese",
     "lc": "2018-09",
     "n": "japanese",
-    "ns": 5.13,
+    "ns": 5.16,
     "s": [
       "Information Extraction & Text Mining"
     ],
@@ -4622,7 +4603,7 @@
     "id": "gh:hiraokusky/snark",
     "lc": "2020-03",
     "n": "snark",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -4639,7 +4620,7 @@
     "id": "gh:hirokidaichi/wanna",
     "lc": "2023-04",
     "n": "wanna",
-    "ns": 5.61,
+    "ns": 5.65,
     "pt": 22000,
     "pw": 137,
     "s": [
@@ -4658,7 +4639,7 @@
     "id": "gh:hiroshi-manabe/extract_jawp_names",
     "lc": "2022-12",
     "n": "extract_jawp_names",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4674,7 +4655,7 @@
     "id": "gh:hiroshi-matsuda-rit/nlp2024-tutorial-3",
     "lc": "2024-04",
     "n": "nlp2024-tutorial-3",
-    "ns": 5.35,
+    "ns": 5.38,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -4691,7 +4672,7 @@
     "id": "gh:hiroshiba/vv_core_inference",
     "lc": "2025-12",
     "n": "vv_core_inference",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [],
     "sc": 0.0,
     "st": 31,
@@ -4705,7 +4686,7 @@
     "id": "gh:hitachi-nlp/compare-ja-tokenizer",
     "lc": "2023-06",
     "n": "compare-ja-tokenizer",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Responsible & Trustworthy NLP",
       "Syntactic Text Processing",
@@ -4724,7 +4705,7 @@
     "id": "gh:hkiyomaru/ja-senter-benchmark",
     "lc": "2023-02",
     "n": "ja-senter-benchmark",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -4741,7 +4722,7 @@
     "id": "gh:hkiyomaru/japanese-word-aggregation",
     "lc": "2018-08",
     "n": "japanese-word-aggregation",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Term Extraction",
       "Information Extraction & Text Mining"
@@ -4758,7 +4739,7 @@
     "id": "gh:hkiyomaru/jinf",
     "lc": "2026-08",
     "n": "jinf",
-    "ns": 1.82,
+    "ns": 1.83,
     "pt": 70000,
     "pw": 389,
     "s": [
@@ -4777,7 +4758,7 @@
     "id": "gh:hlorenzi/jisho-open",
     "lc": "2026-07",
     "n": "jisho-open",
-    "ns": 4.82,
+    "ns": 4.86,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -4794,7 +4775,7 @@
     "id": "gh:hnishi/handson-language-models",
     "lc": "2021-03",
     "n": "handson-language-models",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4810,7 +4791,7 @@
     "id": "gh:hotchpotch/duckdb-vaporetto",
     "lc": "2026-04",
     "n": "duckdb-vaporetto",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Indexing",
       "Information Retrieval"
@@ -4827,7 +4808,7 @@
     "id": "gh:hotchpotch/fast-bunkai",
     "lc": "2025-10",
     "n": "fast-bunkai",
-    "ns": 4.93,
+    "ns": 4.96,
     "pt": 10000,
     "pw": 114,
     "s": [
@@ -4845,7 +4826,7 @@
     "id": "gh:hotchpotch/jacwir",
     "lc": "2025-09",
     "n": "jacwir",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -4861,7 +4842,7 @@
     "id": "gh:hotchpotch/jqara",
     "lc": "2025-09",
     "n": "jqara",
-    "ns": 4.33,
+    "ns": 4.36,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -4877,7 +4858,7 @@
     "id": "gh:hotchpotch/sqlite-vaporetto",
     "lc": "2026-04",
     "n": "sqlite-vaporetto",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Indexing",
       "Information Retrieval"
@@ -4894,7 +4875,7 @@
     "id": "gh:hotchpotch/wikipedia-passages-jawiki-embeddings-utils",
     "lc": "2024-03",
     "n": "wikipedia-passages-jawiki-embeddings-utils",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Representation Learning",
       "Semantic Text Processing"
@@ -4911,7 +4892,7 @@
     "id": "gh:hpprc/japanese-sentence-breaker",
     "lc": "2021-02",
     "n": "japanese-sentence-breaker",
-    "ns": 3.06,
+    "ns": 3.08,
     "pt": 7000,
     "pw": 16,
     "s": [
@@ -4930,7 +4911,7 @@
     "id": "gh:hpprc/jawiki-cleaner",
     "lc": "2021-02",
     "n": "jawiki-cleaner",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 26000,
     "pw": 31,
     "s": [
@@ -4949,7 +4930,7 @@
     "id": "gh:hpprc/llm-lora-classification",
     "lc": "2023-07",
     "n": "llm-lora-classification",
-    "ns": 5.19,
+    "ns": 5.22,
     "s": [
       "Information Extraction & Text Mining",
       "Information Retrieval",
@@ -4967,7 +4948,7 @@
     "id": "gh:hpprc/bert-classification-tutorial-2024",
     "lc": "2024-07",
     "n": "bert-classification-tutorial-2024",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Language Models",
@@ -4985,7 +4966,7 @@
     "id": "gh:hpprc/llm-translator",
     "lc": "2025-01",
     "n": "llm-translator",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -5004,7 +4985,7 @@
     "id": "gh:hpprc/simple-simcse-ja",
     "lc": "2023-10",
     "n": "simple-simcse-ja",
-    "ns": 4.81,
+    "ns": 4.84,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -5020,7 +5001,7 @@
     "id": "gh:icoxfog417/fasttextjapanesetutorial",
     "lc": "2016-09",
     "n": "fastTextJapaneseTutorial",
-    "ns": 6.0,
+    "ns": 6.04,
     "s": [
       "Information Extraction & Text Mining",
       "Information Retrieval",
@@ -5038,7 +5019,7 @@
     "id": "gh:ids-cv/wrime",
     "lc": "2025-09",
     "n": "wrime",
-    "ns": 5.88,
+    "ns": 5.92,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -5054,7 +5035,7 @@
     "id": "gh:ikawaha/kagome",
     "lc": "2026-10",
     "n": "kagome",
-    "ns": 7.8,
+    "ns": 7.85,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -5073,7 +5054,7 @@
     "id": "gh:ikawaha/kagome-dict",
     "lc": "2026-10",
     "n": "kagome-dict",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -5089,7 +5070,7 @@
     "id": "gh:ikegami-yukino/asa-python",
     "lc": "2019-02",
     "n": "asa-python",
-    "ns": 2.81,
+    "ns": 2.83,
     "pt": 32000,
     "pw": 26,
     "s": [
@@ -5108,7 +5089,7 @@
     "id": "gh:ikegami-yukino/cabocha",
     "lc": "2022-08",
     "n": "cabocha",
-    "ns": 2.35,
+    "ns": 2.37,
     "pt": 56000,
     "pw": 85,
     "s": [
@@ -5127,7 +5108,7 @@
     "id": "gh:ikegami-yukino/dataset-list",
     "lc": "2024-07",
     "n": "dataset-list",
-    "ns": 5.43,
+    "ns": 5.46,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5147,7 +5128,7 @@
     "id": "gh:ikegami-yukino/jaconv",
     "lc": "2026-02",
     "n": "jaconv",
-    "ns": 6.63,
+    "ns": 6.68,
     "pt": 88000000,
     "pw": 1000000,
     "s": [
@@ -5170,7 +5151,7 @@
     "id": "gh:ikegami-yukino/mecab",
     "lc": "2024-10",
     "n": "mecab",
-    "ns": 6.35,
+    "ns": 6.4,
     "pt": 4000000,
     "pw": 82000,
     "s": [
@@ -5191,7 +5172,7 @@
     "id": "gh:ikegami-yukino/mozcpy",
     "lc": "2026-10",
     "n": "mozcpy",
-    "ns": 4.43,
+    "ns": 4.46,
     "pt": 23000,
     "pw": 606,
     "s": [
@@ -5216,7 +5197,7 @@
     "id": "gh:ikegami-yukino/neologdn",
     "lc": "2026-05",
     "n": "neologdn",
-    "ns": 6.42,
+    "ns": 6.46,
     "pt": 2000000,
     "pw": 16000,
     "s": [
@@ -5235,7 +5216,7 @@
     "id": "gh:ikegami-yukino/neologdn-java",
     "lc": "2026-11",
     "n": "neologdn-java",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -5258,7 +5239,7 @@
     "id": "gh:ikegami-yukino/oseti",
     "lc": "2025-08",
     "n": "oseti",
-    "ns": 5.21,
+    "ns": 5.25,
     "pt": 177000,
     "pw": 437,
     "s": [
@@ -5277,7 +5258,7 @@
     "id": "gh:ikegami-yukino/pymlask",
     "lc": "2024-07",
     "n": "pymlask",
-    "ns": 5.42,
+    "ns": 5.45,
     "pt": 68000,
     "pw": 66,
     "s": [
@@ -5296,7 +5277,7 @@
     "id": "gh:ikegami-yukino/rakutenma-python",
     "lc": "2017-05",
     "n": "rakutenma-python",
-    "ns": 3.6,
+    "ns": 3.62,
     "pt": 28000,
     "pw": 25,
     "s": [
@@ -5316,7 +5297,7 @@
     "id": "gh:ikegami-yukino/sengiri",
     "lc": "2025-11",
     "n": "sengiri",
-    "ns": 3.64,
+    "ns": 3.67,
     "pt": 140000,
     "pw": 323,
     "s": [
@@ -5335,7 +5316,7 @@
     "id": "gh:ikegami-yukino/zunda-python",
     "lc": "2019-11",
     "n": "zunda-python",
-    "ns": 2.71,
+    "ns": 2.73,
     "pt": 6000,
     "pw": 16,
     "s": [
@@ -5354,7 +5335,7 @@
     "id": "gh:informatix-inc/bert",
     "lc": "2022-04",
     "n": "bert",
-    "ns": 3.81,
+    "ns": 3.84,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -5371,7 +5352,7 @@
     "id": "gh:inspection-ai/japanese-toxic-dataset",
     "lc": "2023-01",
     "n": "japanese-toxic-dataset",
-    "ns": 3.55,
+    "ns": 3.57,
     "s": [
       "Morphology",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -5388,7 +5369,7 @@
     "id": "gh:iory/japanese2phoneme",
     "lc": "2022-02",
     "n": "japanese2phoneme",
-    "ns": 0.78,
+    "ns": 0.79,
     "pt": 5000,
     "pw": 19,
     "s": [
@@ -5407,7 +5388,7 @@
     "id": "gh:ir100/ir100",
     "lc": "2025-12",
     "n": "ir100",
-    "ns": 5.14,
+    "ns": 5.17,
     "s": [],
     "sc": 0.0,
     "st": 93,
@@ -5421,7 +5402,7 @@
     "id": "gh:itayperl/kantan",
     "lc": "2024-10",
     "n": "kantan",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing",
@@ -5439,7 +5420,7 @@
     "id": "gh:iwasakiyuuki/bert-abstractive-text-summarization",
     "lc": "2019-12",
     "n": "bert-abstractive-text-summarization",
-    "ns": 4.43,
+    "ns": 4.46,
     "s": [],
     "sc": 0.0,
     "st": 49,
@@ -5453,7 +5434,7 @@
     "id": "gh:izuna385/japanese-bert-sentiment-analyzer",
     "lc": "2021-04",
     "n": "Japanese-BERT-Sentiment-Analyzer",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Language Models",
       "Semantic Text Processing",
@@ -5471,7 +5452,7 @@
     "id": "gh:izuna385/jel",
     "lc": "2021-07",
     "n": "jel",
-    "ns": 2.9,
+    "ns": 2.92,
     "pt": 8000,
     "pw": 15,
     "s": [
@@ -5491,7 +5472,7 @@
     "id": "gh:jamesohortle/loanwords_gairaigo",
     "lc": "2021-01",
     "n": "loanwords_gairaigo",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing",
@@ -5509,7 +5490,7 @@
     "id": "gh:japan-opendata/awesome-japan-opendata",
     "lc": "2026-08",
     "n": "awesome-japan-opendata",
-    "ns": 5.83,
+    "ns": 5.87,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -5526,7 +5507,7 @@
     "id": "gh:japanese-law-analysis/data_set",
     "lc": "2025-01",
     "n": "data_set",
-    "ns": 4.53,
+    "ns": 4.56,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -5543,7 +5524,7 @@
     "id": "gh:japanese-law-analysis/listup_precedent",
     "lc": "2026-07",
     "n": "listup_precedent",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5559,7 +5540,7 @@
     "id": "gh:jeresig/node-romaji-name",
     "lc": "2023-12",
     "n": "node-romaji-name",
-    "ns": 4.17,
+    "ns": 4.2,
     "pt": 22000,
     "pw": 53,
     "s": [
@@ -5578,7 +5559,7 @@
     "id": "gh:jiali-ms/jlm",
     "lc": "2019-06",
     "n": "JLM",
-    "ns": 5.35,
+    "ns": 5.38,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -5595,7 +5576,7 @@
     "id": "gh:jiro4989/ojosama",
     "lc": "2026-10",
     "n": "ojosama",
-    "ns": 6.74,
+    "ns": 6.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5611,7 +5592,7 @@
     "id": "gh:jitendex/jitendex",
     "lc": "2026-08",
     "n": "jitendex",
-    "ns": 7.14,
+    "ns": 7.18,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -5627,7 +5608,7 @@
     "id": "gh:jonnyli1125/gector-ja",
     "lc": "2021-06",
     "n": "gector-ja",
-    "ns": 3.44,
+    "ns": 3.47,
     "s": [
       "Representation Learning",
       "Syntactic Text Processing",
@@ -5647,7 +5628,7 @@
     "id": "gh:joycodetech/qmd-ja",
     "lc": "2026-09",
     "n": "qmd-ja",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [],
     "sc": 0.0,
     "st": 2,
@@ -5661,7 +5642,7 @@
     "id": "gh:jpreprocess/jpreprocess",
     "lc": "2026-06",
     "n": "jpreprocess",
-    "ns": 4.65,
+    "ns": 4.68,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality"
@@ -5678,7 +5659,7 @@
     "id": "gh:jqk09a/japanese-daily-dialogue",
     "lc": "2023-03",
     "n": "japanese-daily-dialogue",
-    "ns": 4.67,
+    "ns": 4.7,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
@@ -5695,7 +5676,7 @@
     "id": "gh:julius-speech/dictation-kit",
     "lc": "2019-04",
     "n": "dictation-kit",
-    "ns": 5.79,
+    "ns": 5.83,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -5711,7 +5692,7 @@
     "id": "gh:jungokasai/igakuqa",
     "lc": "2023-03",
     "n": "IgakuQA",
-    "ns": 4.49,
+    "ns": 4.52,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents",
@@ -5746,7 +5727,7 @@
     "id": "gh:juno-rmks/utsuho",
     "lc": "2026-03",
     "n": "utsuho",
-    "ns": 2.03,
+    "ns": 2.04,
     "pt": 26000,
     "pw": 48,
     "s": [
@@ -5765,7 +5746,7 @@
     "id": "gh:jurabiinc/bert-ner-japanese",
     "lc": "2022-09",
     "n": "bert-ner-japanese",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Language Models",
@@ -5783,7 +5764,7 @@
     "id": "gh:kaiidams/kokoro-speech-dataset",
     "lc": "2026-04",
     "n": "Kokoro-Speech-Dataset",
-    "ns": 4.88,
+    "ns": 4.92,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5799,7 +5780,7 @@
     "id": "gh:kajyuuen/daaja",
     "lc": "2023-02",
     "n": "daaja",
-    "ns": 4.72,
+    "ns": 4.75,
     "pt": 27000,
     "pw": 39,
     "s": [
@@ -5819,7 +5800,7 @@
     "id": "gh:kamigaito/jawiki_word_vector_updater",
     "lc": "2020-05",
     "n": "jawiki_word_vector_updater",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5835,7 +5816,7 @@
     "id": "gh:kanjialive/kanji-data-media",
     "lc": "2026-09",
     "n": "kanji-data-media",
-    "ns": 6.88,
+    "ns": 6.92,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -5851,7 +5832,7 @@
     "id": "gh:kanjirz50/rake-ja",
     "lc": "2018-10",
     "n": "rake-ja",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Term Extraction",
       "Information Extraction & Text Mining"
@@ -5868,7 +5849,7 @@
     "id": "gh:kanjirz50/termextract",
     "lc": "2018-09",
     "n": "termextract",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5900,7 +5881,7 @@
     "id": "gh:karakuri-ai/gptuber-by-langchain",
     "lc": "2023-01",
     "n": "gptuber-by-langchain",
-    "ns": 4.7,
+    "ns": 4.74,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Text Generation",
@@ -5919,7 +5900,7 @@
     "id": "gh:karakuri-ai/osworld-jp",
     "lc": "2026-05",
     "n": "osworld-jp",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -5935,7 +5916,7 @@
     "id": "gh:kariminf/jslingua",
     "lc": "2023-10",
     "n": "jslingua",
-    "ns": 4.51,
+    "ns": 4.54,
     "pt": 9400,
     "pw": 53,
     "s": [
@@ -5954,7 +5935,7 @@
     "id": "gh:katahiromz/mzimeja",
     "lc": "2026-10",
     "n": "mzimeja",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -5970,7 +5951,7 @@
     "id": "gh:kazuhikoarase/jaconv",
     "lc": "2025-06",
     "n": "jaconv",
-    "ns": 5.07,
+    "ns": 5.1,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -5986,7 +5967,7 @@
     "id": "gh:kazuhito00/asagi-vlm-colaboratory-sample",
     "lc": "2025-03",
     "n": "asagi-vlm-colaboratory-sample",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6002,7 +5983,7 @@
     "id": "gh:kazumaproject/japanesekeyboard",
     "lc": "2026-11",
     "n": "japanesekeyboard",
-    "ns": 6.68,
+    "ns": 6.73,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6018,7 +5999,7 @@
     "id": "gh:yuigawada/jaspice",
     "lc": "2026-06",
     "n": "JaSPICE",
-    "ns": 2.6,
+    "ns": 2.62,
     "pt": 2000,
     "pw": 7,
     "s": [
@@ -6039,7 +6020,7 @@
     "id": "gh:ken11/bert-japanese-ner-finetuning",
     "lc": "2022-06",
     "n": "bert-japanese-ner-finetuning",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -6056,7 +6037,7 @@
     "id": "gh:ken11/mbart-finetuning",
     "lc": "2021-10",
     "n": "mbart-finetuning",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Text Generation",
       "Language Models",
@@ -6074,7 +6055,7 @@
     "id": "gh:ken11/noyaki",
     "lc": "2022-08",
     "n": "noyaki",
-    "ns": 2.03,
+    "ns": 2.04,
     "pt": 25000,
     "pw": 225,
     "s": [
@@ -6093,7 +6074,7 @@
     "id": "gh:kengo700/mouse_over_dictionary",
     "lc": "2020-01",
     "n": "mouse_over_dictionary",
-    "ns": 4.85,
+    "ns": 4.89,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -6110,7 +6091,7 @@
     "id": "gh:kgmkm/novel2agent-jp",
     "lc": "2026-09",
     "n": "novel2agent-jp",
-    "ns": 5.3,
+    "ns": 5.33,
     "s": [],
     "sc": 0.0,
     "st": 107,
@@ -6129,7 +6110,7 @@
     "id": "gh:kha-white/manga-ocr",
     "lc": "2026-07",
     "n": "manga-ocr",
-    "ns": 8.98,
+    "ns": 9.04,
     "pt": 410000,
     "pw": 4000,
     "s": [
@@ -6148,7 +6129,7 @@
     "id": "gh:kha-white/mokuro",
     "lc": "2026-07",
     "n": "mokuro",
-    "ns": 8.48,
+    "ns": 8.54,
     "pt": 116000,
     "pw": 448,
     "s": [
@@ -6169,7 +6150,7 @@
     "id": "gh:kishiyamat/mishearing-corpus",
     "lc": "2026-09",
     "n": "mishearing-corpus",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6185,7 +6166,7 @@
     "id": "gh:kissge/elaws-history",
     "lc": "2026-11",
     "n": "elaws-history",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6201,7 +6182,7 @@
     "id": "gh:kiyoka/sumibi",
     "lc": "2026-10",
     "n": "Sumibi",
-    "ns": 4.77,
+    "ns": 4.81,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6217,7 +6198,7 @@
     "id": "gh:kiyoka/sekka",
     "lc": "2026-05",
     "n": "sekka",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -6234,7 +6215,7 @@
     "id": "gh:kmatsu-tokudai/emotioncorpusjapanesetokushimaa2lab",
     "lc": "2024-09",
     "n": "emotioncorpusjapanesetokushimaa2lab",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6250,7 +6231,7 @@
     "id": "gh:kmizu/softly-replace",
     "lc": "2023-05",
     "n": "softly-replace",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Paraphrasing",
       "Text Generation",
@@ -6268,7 +6249,7 @@
     "id": "gh:knok/make-meidai-dialogue",
     "lc": "2017-09",
     "n": "make-meidai-dialogue",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
@@ -6285,7 +6266,7 @@
     "id": "gh:koichiyasuoka/japanese-luw-tokenizer",
     "lc": "2021-12",
     "n": "japanese-luw-tokenizer",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [],
     "sc": 0.0,
     "st": 6,
@@ -6299,7 +6280,7 @@
     "id": "gh:kokubunken/nijl-manyoshutei",
     "lc": "2026-03",
     "n": "nijl-manyoshutei",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6315,7 +6296,7 @@
     "id": "gh:komiya-lab/monaka",
     "lc": "2025-01",
     "n": "monaka",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -6332,7 +6313,7 @@
     "id": "gh:komutan/nmecab",
     "lc": "2024-03",
     "n": "NMeCab",
-    "ns": 5.29,
+    "ns": 5.32,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -6351,7 +6332,7 @@
     "id": "gh:koniwa/koniwa",
     "lc": "2025-04",
     "n": "koniwa",
-    "ns": 4.67,
+    "ns": 4.7,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality",
@@ -6369,7 +6350,7 @@
     "id": "gh:konstantindjairo/jitenbot",
     "lc": "2024-12",
     "n": "jitenbot",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [],
     "sc": 0.0,
     "st": 4,
@@ -6383,7 +6364,7 @@
     "id": "gh:konyu/aws_dic_for_google_ime",
     "lc": "2019-11",
     "n": "aws_dic_for_google_ime",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6399,7 +6380,7 @@
     "id": "gh:koozaki/romaji-conv",
     "lc": "2026-02",
     "n": "romaji-conv",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -6415,7 +6396,7 @@
     "id": "gh:korguchi/text2phoneme",
     "lc": "2023-05",
     "n": "text2phoneme",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -6437,7 +6418,7 @@
     "id": "gh:kotaro-kinoshita/yomitoku",
     "lc": "2026-11",
     "n": "yomitoku",
-    "ns": 8.42,
+    "ns": 8.47,
     "pt": 138000,
     "pw": 2000,
     "s": [
@@ -6456,7 +6437,7 @@
     "id": "gh:kotofurumiya/genshin-dict",
     "lc": "2026-09",
     "n": "genshin-dict",
-    "ns": 5.51,
+    "ns": 5.54,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6472,7 +6453,7 @@
     "id": "gh:ktnyt/go-moji",
     "lc": "2019-04",
     "n": "go-moji",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -6489,7 +6470,7 @@
     "id": "gh:ku-nlp/annotatedfkccorpus",
     "lc": "2023-12",
     "n": "AnnotatedFKCCorpus",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Syntactic Text Processing",
       "Annotation and Dataset Development"
@@ -6506,7 +6487,7 @@
     "id": "gh:ku-nlp/east-meld",
     "lc": "2023-06",
     "n": "EaST-MELD",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -6526,7 +6507,7 @@
     "id": "gh:ku-nlp/jmrd",
     "lc": "2022-07",
     "n": "JMRD",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Dialogue Systems & Conversational Agents"
     ],
@@ -6542,7 +6523,7 @@
     "id": "gh:ku-nlp/jumandic",
     "lc": "2022-08",
     "n": "JumanDIC",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -6558,7 +6539,7 @@
     "id": "gh:ku-nlp/kwdlc",
     "lc": "2023-12",
     "n": "KWDLC",
-    "ns": 5.07,
+    "ns": 5.1,
     "s": [
       "Syntactic Text Processing",
       "Annotation and Dataset Development"
@@ -6575,7 +6556,7 @@
     "id": "gh:ku-nlp/visa",
     "lc": "2022-10",
     "n": "VISA",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Multilinguality",
       "Visual Data in NLP",
@@ -6595,7 +6576,7 @@
     "id": "gh:ku-nlp/wikipediaannotatedcorpus",
     "lc": "2026-08",
     "n": "WikipediaAnnotatedCorpus",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Syntactic Text Processing",
       "Knowledge Representation",
@@ -6616,7 +6597,7 @@
     "id": "gh:ku-nlp/winograd-schema-challenge-ja",
     "lc": "2019-01",
     "n": "Winograd-Schema-Challenge-Ja",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -6634,7 +6615,7 @@
     "id": "gh:ku-nlp/bertknp",
     "lc": "2021-10",
     "n": "bertknp",
-    "ns": 3.6,
+    "ns": 3.62,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing",
@@ -6653,7 +6634,7 @@
     "id": "gh:ku-nlp/ishi",
     "lc": "2020-05",
     "n": "ishi",
-    "ns": 1.24,
+    "ns": 1.25,
     "pt": 7000,
     "pw": 14,
     "s": [
@@ -6673,7 +6654,7 @@
     "id": "gh:ku-nlp/ja-vicuna-qa-benchmark",
     "lc": "2024-06",
     "n": "ja-vicuna-qa-benchmark",
-    "ns": 3.99,
+    "ns": 4.02,
     "s": [
       "Natural Language Interfaces",
       "Question Answering"
@@ -6695,7 +6676,7 @@
     "id": "gh:ku-nlp/juman",
     "lc": "2021-12",
     "n": "juman",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Morphology",
       "Syntactic Text Processing"
@@ -6719,7 +6700,7 @@
     "id": "gh:ku-nlp/jumanpp",
     "lc": "2026-10",
     "n": "jumanpp",
-    "ns": 6.82,
+    "ns": 6.86,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -6742,7 +6723,7 @@
     "id": "gh:ku-nlp/knp",
     "lc": "2023-11",
     "n": "knp",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -6759,7 +6740,7 @@
     "id": "gh:ku-nlp/kuci",
     "lc": "2024-02",
     "n": "kuci",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6775,7 +6756,7 @@
     "id": "gh:ku-nlp/kwja",
     "lc": "2026-11",
     "n": "kwja",
-    "ns": 5.67,
+    "ns": 5.71,
     "pt": 67000,
     "pw": 503,
     "s": [
@@ -6794,7 +6775,7 @@
     "id": "gh:ku-nlp/kyoto-reader",
     "lc": "2024-06",
     "n": "kyoto-reader",
-    "ns": 2.71,
+    "ns": 2.73,
     "pt": 72000,
     "pw": 1000,
     "s": [
@@ -6817,7 +6798,7 @@
     "id": "gh:ku-nlp/pyknp",
     "lc": "2026-01",
     "n": "pyknp",
-    "ns": 5.14,
+    "ns": 5.17,
     "pt": 3000000,
     "pw": 577,
     "s": [
@@ -6837,7 +6818,7 @@
     "id": "gh:ku-nlp/pyknp-eventgraph",
     "lc": "2022-09",
     "n": "pyknp-eventgraph",
-    "ns": 2.49,
+    "ns": 2.5,
     "pt": 69000,
     "pw": 97,
     "s": [
@@ -6857,7 +6838,7 @@
     "id": "gh:ku-nlp/rhoknp",
     "lc": "2026-11",
     "n": "rhoknp",
-    "ns": 4.2,
+    "ns": 4.23,
     "pt": 2000000,
     "pw": 10000,
     "s": [
@@ -6878,7 +6859,7 @@
     "id": "gh:ku-nlp/speechbsd",
     "lc": "2024-02",
     "n": "speechBSD",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality",
@@ -6896,7 +6877,7 @@
     "id": "gh:ku-nlp/text-cleaning",
     "lc": "2022-11",
     "n": "text-cleaning",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Syntactic Text Processing",
       "Text Generation"
@@ -6913,7 +6894,7 @@
     "id": "gh:kufu/japanese-hr-niah",
     "lc": "2026-01",
     "n": "japanese-hr-niah",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6929,7 +6910,7 @@
     "id": "gh:kujirahand/ejdict",
     "lc": "2026-09",
     "n": "EJDict",
-    "ns": 6.35,
+    "ns": 6.4,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -6946,7 +6927,7 @@
     "id": "gh:kunishou/japanese-alpaca-lora",
     "lc": "2023-04",
     "n": "Japanese-Alpaca-LoRA",
-    "ns": 5.61,
+    "ns": 5.64,
     "s": [
       "Language Models",
       "Representation Learning"
@@ -6963,7 +6944,7 @@
     "id": "gh:kunishou/databricks-dolly-15k-ja",
     "lc": "2023-07",
     "n": "databricks-dolly-15k-ja",
-    "ns": 5.09,
+    "ns": 5.13,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6979,7 +6960,7 @@
     "id": "gh:kunishou/do-not-answer-ja",
     "lc": "2023-12",
     "n": "do-not-answer-ja",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -6995,7 +6976,7 @@
     "id": "gh:kunishou/oasst1-89k-ja",
     "lc": "2023-11",
     "n": "oasst1-89k-ja",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -7012,7 +6993,7 @@
     "id": "gh:kuniwak/name",
     "lc": "2025-01",
     "n": "name",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Syntactic Text Processing",
       "Information Retrieval"
@@ -7029,7 +7010,7 @@
     "id": "gh:kuramitsulab/modelvista-3lang",
     "lc": "2026-03",
     "n": "modelvista-3lang",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7045,7 +7026,7 @@
     "id": "gh:kuroshiba-ginji/japanesetextemoticondata",
     "lc": "2021-03",
     "n": "japanesetextemoticondata",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7061,7 +7042,7 @@
     "id": "gh:kyamauchi1023/pl-bert-ja",
     "lc": "2023-12",
     "n": "pl-bert-ja",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Language Models"
     ],
@@ -7077,7 +7058,7 @@
     "id": "gh:laboroai/laboro-bert-japanese",
     "lc": "2022-05",
     "n": "Laboro-BERT-Japanese",
-    "ns": 4.87,
+    "ns": 4.9,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -7095,7 +7076,7 @@
     "id": "gh:laboroai/laboro-distilbert-japanese",
     "lc": "2020-12",
     "n": "Laboro-DistilBERT-Japanese",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -7112,7 +7093,7 @@
     "id": "gh:laboroai/laboro-paracorpus",
     "lc": "2021-11",
     "n": "Laboro-ParaCorpus",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -7131,7 +7112,7 @@
     "id": "gh:laboroai/tedxjp-10k",
     "lc": "2021-01",
     "n": "TEDxJP-10K",
-    "ns": 3.81,
+    "ns": 3.84,
     "s": [
       "Speech Recognition",
       "Text Generation",
@@ -7151,7 +7132,7 @@
     "id": "gh:language-media-lab/jethics",
     "lc": "2025-06",
     "n": "jethics",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7167,7 +7148,7 @@
     "id": "gh:laoshubaby/japanese-technical-dict",
     "lc": "2024-11",
     "n": "japanese-technical-dict",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7183,7 +7164,7 @@
     "id": "gh:lapras-inc/dependency-based-japanese-word-embeddings",
     "lc": "2019-08",
     "n": "dependency-based-japanese-word-embeddings",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Representation Learning",
       "Syntactic Text Processing",
@@ -7202,7 +7183,7 @@
     "id": "gh:lazyfoxchan/rime-jaroomaji",
     "lc": "2026-11",
     "n": "rime-jaroomaji",
-    "ns": 4.59,
+    "ns": 4.62,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -7218,7 +7199,7 @@
     "id": "gh:daac-tools/find-simdoc",
     "lc": "2025-03",
     "n": "find-simdoc",
-    "ns": 4.69,
+    "ns": 4.72,
     "pt": 29000,
     "s": [
       "Information Retrieval",
@@ -7236,7 +7217,7 @@
     "id": "gh:legalforce-research/stringmatch-bench",
     "lc": "2022-09",
     "n": "stringmatch-bench",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Responsible & Trustworthy NLP",
       "Information Retrieval",
@@ -7256,7 +7237,7 @@
     "id": "gh:legalforce-research/tokenizer-speed-bench",
     "lc": "2023-03",
     "n": "tokenizer-speed-bench",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Responsible & Trustworthy NLP",
       "Syntactic Text Processing",
@@ -7275,7 +7256,7 @@
     "id": "gh:letuananh/chirptext",
     "lc": "2022-10",
     "n": "chirptext",
-    "ns": 2.35,
+    "ns": 2.37,
     "pt": 433000,
     "pw": 10000,
     "s": [
@@ -7294,7 +7275,7 @@
     "id": "gh:liaoziyang/negapoji",
     "lc": "2017-08",
     "n": "negapoji",
-    "ns": 5.69,
+    "ns": 5.73,
     "s": [
       "Information Extraction & Text Mining",
       "Information Retrieval",
@@ -7312,7 +7293,7 @@
     "id": "gh:liber-craft-co-ltd/book-impress-it-basic-education-ai",
     "lc": "2025-06",
     "n": "book-impress-it-basic-education-ai",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [],
     "sc": 0.0,
     "st": 4,
@@ -7326,7 +7307,7 @@
     "id": "gh:lightblue-tech/japanese_llm_eval",
     "lc": "2024-04",
     "n": "japanese_llm_eval",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": -0.31,
     "st": 5,
@@ -7344,7 +7325,7 @@
     "id": "gh:lighttransport/jagger-python",
     "lc": "2024-03",
     "n": "jagger-python",
-    "ns": 2.99,
+    "ns": 3.01,
     "pt": 342000,
     "pw": 888,
     "s": [
@@ -7365,7 +7346,7 @@
     "id": "gh:lighttransport/japanese-llama-experiment",
     "lc": "2025-12",
     "n": "japanese-llama-experiment",
-    "ns": 4.53,
+    "ns": 4.56,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -7381,7 +7362,7 @@
     "id": "gh:lighttransport/jdepp-python",
     "lc": "2024-02",
     "n": "jdepp-python",
-    "ns": 1.82,
+    "ns": 1.83,
     "pt": 323000,
     "pw": 333,
     "s": [
@@ -7405,7 +7386,7 @@
     "id": "gh:lindera/lindera",
     "lc": "2026-11",
     "n": "lindera",
-    "ns": 7.41,
+    "ns": 7.46,
     "pt": 3000000,
     "s": [
       "Syntactic Text Processing",
@@ -7424,7 +7405,7 @@
     "id": "gh:lindera/lindera-tantivy",
     "lc": "2026-08",
     "n": "lindera-tantivy",
-    "ns": 4.82,
+    "ns": 4.86,
     "pt": 240000,
     "s": [
       "Syntactic Text Processing",
@@ -7444,7 +7425,7 @@
     "id": "gh:lindera/lindera-sqlite",
     "lc": "2026-08",
     "n": "lindera-sqlite",
-    "ns": 3.6,
+    "ns": 3.62,
     "s": [
       "Indexing",
       "Information Retrieval"
@@ -7461,7 +7442,7 @@
     "id": "gh:line/line-distilbert-japanese",
     "lc": "2023-03",
     "n": "LINE-DistilBERT-Japanese",
-    "ns": 4.38,
+    "ns": 4.41,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -7480,7 +7461,7 @@
     "id": "gh:litagin02/vits-japros-webui",
     "lc": "2024-01",
     "n": "vits-japros-webui",
-    "ns": 4.26,
+    "ns": 4.28,
     "s": [],
     "sc": -0.199,
     "st": 42,
@@ -7494,7 +7475,7 @@
     "id": "gh:lithium0003/findtextcenternet",
     "lc": "2025-08",
     "n": "findtextcenternet",
-    "ns": 4.76,
+    "ns": 4.79,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -7511,7 +7492,7 @@
     "id": "gh:llm-jp/jmultiwoz-tc",
     "lc": "2026-10",
     "n": "JMultiWOZ-TC",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Annotation and Dataset Development",
       "Dialogue Systems & Conversational Agents"
@@ -7528,7 +7509,7 @@
     "id": "gh:llm-jp/awesome-japanese-llm",
     "lc": "2026-11",
     "n": "awesome-japanese-llm",
-    "ns": 8.2,
+    "ns": 8.25,
     "s": [],
     "sc": 2.884,
     "st": 1400,
@@ -7542,7 +7523,7 @@
     "id": "gh:llm-jp/eval_vertical_ja",
     "lc": "2026-05",
     "n": "eval_vertical_ja",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [],
     "sc": 0.0,
     "st": 3,
@@ -7556,7 +7537,7 @@
     "id": "gh:llm-jp/jgpqa",
     "lc": "2025-09",
     "n": "jgpqa",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7572,7 +7553,7 @@
     "id": "gh:llm-jp/llm-jp-4-cookbook",
     "lc": "2026-10",
     "n": "llm-jp-4-cookbook",
-    "ns": 4.17,
+    "ns": 4.2,
     "s": [],
     "sc": 0.0,
     "st": 39,
@@ -7586,7 +7567,7 @@
     "id": "gh:llm-jp/llm-jp-corpus",
     "lc": "2023-10",
     "n": "llm-jp-corpus",
-    "ns": 4.43,
+    "ns": 4.46,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7607,7 +7588,7 @@
     "id": "gh:llm-jp/llm-jp-eval",
     "lc": "2026-08",
     "n": "llm-jp-eval",
-    "ns": 5.84,
+    "ns": 5.88,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -7624,7 +7605,7 @@
     "id": "gh:llm-jp/llm-jp-eval-mm",
     "lc": "2026-04",
     "n": "llm-jp-eval-mm",
-    "ns": 4.31,
+    "ns": 4.34,
     "s": [
       "Language Models",
       "Semantic Text Processing",
@@ -7642,7 +7623,7 @@
     "id": "gh:llm-jp/llm-jp-judge",
     "lc": "2026-09",
     "n": "llm-jp-judge",
-    "ns": 4.72,
+    "ns": 4.75,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -7659,7 +7640,7 @@
     "id": "gh:llm-jp/llm-jp-longbench",
     "lc": "2026-03",
     "n": "llm-jp-longbench",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7675,7 +7656,7 @@
     "id": "gh:llm-jp/llm-jp-sft",
     "lc": "2024-06",
     "n": "llm-jp-sft",
-    "ns": 4.74,
+    "ns": 4.77,
     "s": [
       "Language Models",
       "Semantic Text Processing",
@@ -7693,7 +7674,7 @@
     "id": "gh:llm-jp/llm-jp-tokenizer",
     "lc": "2026-09",
     "n": "llm-jp-tokenizer",
-    "ns": 4.51,
+    "ns": 4.54,
     "s": [
       "Multilinguality",
       "Annotation and Dataset Development",
@@ -7711,7 +7692,7 @@
     "id": "gh:llm-jp/llm-jp-vila",
     "lc": "2025-08",
     "n": "llm-jp-vila",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [],
     "sc": 0.0,
     "st": 10,
@@ -7725,7 +7706,7 @@
     "id": "gh:llm-jp/simple-evals-mm",
     "lc": "2026-11",
     "n": "simple-evals-mm",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": 0.0,
     "st": 5,
@@ -7739,7 +7720,7 @@
     "id": "gh:llm-jp/text2dataset",
     "lc": "2025-01",
     "n": "text2dataset",
-    "ns": 3.96,
+    "ns": 3.98,
     "s": [],
     "sc": -0.261,
     "st": 32,
@@ -7753,7 +7734,7 @@
     "id": "gh:llm-jp/waon",
     "lc": "2025-11",
     "n": "waon",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7769,7 +7750,7 @@
     "id": "gh:ln2058/tsukeru-furigana-converter",
     "lc": "2026-11",
     "n": "tsukeru-furigana-converter",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [],
     "sc": 0.0,
     "st": 10,
@@ -7783,7 +7764,7 @@
     "id": "gh:lovell/hepburn",
     "lc": "2026-10",
     "n": "hepburn",
-    "ns": 5.53,
+    "ns": 5.57,
     "pt": 6700000,
     "pw": 37000,
     "s": [
@@ -7803,7 +7784,7 @@
     "id": "gh:lwhb/lawhub",
     "lc": "2020-11",
     "n": "lawhub",
-    "ns": 5.68,
+    "ns": 5.72,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7819,7 +7800,7 @@
     "id": "gh:lychee1223/novelanalysisbyner",
     "lc": "2024-06",
     "n": "novelanalysisbyner",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Information Extraction & Text Mining",
       "Named Entity Recognition"
@@ -7836,7 +7817,7 @@
     "id": "gh:m3yrin/ntm",
     "lc": "2019-07",
     "n": "NTM",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Information Extraction & Text Mining",
       "Topic Modeling"
@@ -7853,7 +7834,7 @@
     "id": "gh:maeda6uiui/wikipediawordfrequencylist2",
     "lc": "2022-04",
     "n": "WikipediaWordFrequencyList2",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7869,7 +7850,7 @@
     "id": "gh:makenowjust/kantan-regex-book",
     "lc": "2024-03",
     "n": "kantan-regex-book",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -7886,7 +7867,7 @@
     "id": "gh:makotoga/o-dic",
     "lc": "2026-02",
     "n": "o-dic",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -7902,7 +7883,7 @@
     "id": "gh:mamorlis/nlpbook",
     "lc": "2026-11",
     "n": "nlpbook",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -7918,7 +7899,7 @@
     "id": "gh:manga109/manga109api",
     "lc": "2022-03",
     "n": "manga109api",
-    "ns": 5.53,
+    "ns": 5.57,
     "pt": 49000,
     "pw": 48,
     "s": [
@@ -7938,7 +7919,7 @@
     "id": "gh:manga109/public-annotations",
     "lc": "2025-04",
     "n": "public-annotations",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -7954,7 +7935,7 @@
     "id": "gh:manju-summoner/aisisteraichan",
     "lc": "2023-05",
     "n": "AISisterAIChan",
-    "ns": 3.85,
+    "ns": 3.87,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Language Models",
@@ -7972,7 +7953,7 @@
     "id": "gh:mantra-inc/open-mantra-dataset",
     "lc": "2023-03",
     "n": "open-mantra-dataset",
-    "ns": 6.04,
+    "ns": 6.08,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -7990,7 +7971,7 @@
     "id": "gh:marmooo/graded-enja-corpus",
     "lc": "2025-08",
     "n": "graded-enja-corpus",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8007,7 +7988,7 @@
     "id": "gh:marmooo/kanji-dict",
     "lc": "2026-09",
     "n": "kanji-dict",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -8023,7 +8004,7 @@
     "id": "gh:marmooo/nandoku",
     "lc": "2026-05",
     "n": "nandoku",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8039,7 +8020,7 @@
     "id": "gh:marmooo/tanaka-corpus-plus",
     "lc": "2021-06",
     "n": "tanaka-corpus-plus",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8055,7 +8036,7 @@
     "id": "gh:maruamyu/imas-ime-dic",
     "lc": "2026-01",
     "n": "imas-ime-dic",
-    "ns": 3.96,
+    "ns": 3.98,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -8072,7 +8053,7 @@
     "id": "gh:marvnc/japanese-furigana-normalize",
     "lc": "2024-07",
     "n": "japanese-furigana-normalize",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [],
     "sc": 0.0,
     "st": 8,
@@ -8086,7 +8067,7 @@
     "id": "gh:marvnc/yomitan-dictionaries",
     "lc": "2026-03",
     "n": "yomitan-dictionaries",
-    "ns": 7.74,
+    "ns": 7.8,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -8103,7 +8084,7 @@
     "id": "gh:masamasa59/genai-agent-advanced-book",
     "lc": "2025-09",
     "n": "genai-agent-advanced-book",
-    "ns": 6.04,
+    "ns": 6.08,
     "s": [],
     "sc": 0.0,
     "st": 207,
@@ -8117,7 +8098,7 @@
     "id": "gh:masanorihirano/llm-japanese-dataset",
     "lc": "2024-01",
     "n": "llm-japanese-dataset",
-    "ns": 5.1,
+    "ns": 5.14,
     "s": [
       "Annotation and Dataset Development",
       "Dialogue Systems & Conversational Agents"
@@ -8134,7 +8115,7 @@
     "id": "gh:masashi-y/depccg",
     "lc": "2026-08",
     "n": "depccg",
-    "ns": 5.25,
+    "ns": 5.29,
     "pt": 53000,
     "pw": 170,
     "s": [
@@ -8154,7 +8135,7 @@
     "id": "gh:masayu-a/wlsp-antonym",
     "lc": "2021-03",
     "n": "WLSP-antonym",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8170,7 +8151,7 @@
     "id": "gh:masayu-a/wlsp-familiarity",
     "lc": "2025-01",
     "n": "WLSP-familiarity",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Knowledge Representation",
       "Semantic Text Processing"
@@ -8187,7 +8168,7 @@
     "id": "gh:masayu-a/nwjc",
     "lc": "2022-04",
     "n": "nwjc",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Multilinguality",
       "Annotation and Dataset Development"
@@ -8204,7 +8185,7 @@
     "id": "gh:massao000/add-dictionary",
     "lc": "2025-10",
     "n": "add-dictionary",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8221,7 +8202,7 @@
     "id": "gh:matbahasa/prosub",
     "lc": "2025-04",
     "n": "ProSub",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Linguistics & Cognitive NLP",
       "Linguistic Theories",
@@ -8239,7 +8220,7 @@
     "id": "gh:matbahasa/kamuskita",
     "lc": "2026-10",
     "n": "kamuskita",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8255,7 +8236,7 @@
     "id": "gh:matsuolab/jp-llm-corpus-pii-filter",
     "lc": "2025-03",
     "n": "jp-llm-corpus-pii-filter",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [],
     "sc": 0.0,
     "st": 7,
@@ -8269,7 +8250,7 @@
     "id": "gh:matsurih/jdeppy",
     "lc": "2022-02",
     "n": "jdeppy",
-    "ns": 1.57,
+    "ns": 1.58,
     "pt": 12000,
     "pw": 20,
     "s": [
@@ -8288,7 +8269,7 @@
     "id": "gh:matthewbieda/jp-translate.cloud",
     "lc": "2024-09",
     "n": "jp-translate.cloud",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -8307,7 +8288,7 @@
     "id": "gh:koharu-rs/koharu",
     "lc": "2026-11",
     "n": "koharu",
-    "ns": 9.93,
+    "ns": 10.0,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -8326,7 +8307,7 @@
     "id": "gh:mcgrizzz/yomine",
     "lc": "2026-11",
     "n": "yomine",
-    "ns": 4.77,
+    "ns": 4.81,
     "s": [],
     "sc": 0.0,
     "st": 67,
@@ -8340,7 +8321,7 @@
     "id": "gh:megagonlabs/ud_japanese-gsd",
     "lc": "2022-05",
     "n": "UD_Japanese-GSD",
-    "ns": 3.85,
+    "ns": 3.87,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing"
@@ -8376,7 +8357,7 @@
     "id": "gh:megagonlabs/asdc",
     "lc": "2023-08",
     "n": "asdc",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Natural Language Interfaces",
       "Information Retrieval",
@@ -8394,7 +8375,7 @@
     "id": "gh:megagonlabs/bunkai",
     "lc": "2023-08",
     "n": "bunkai",
-    "ns": 6.01,
+    "ns": 6.05,
     "pt": 125000,
     "pw": 243,
     "s": [
@@ -8413,7 +8394,7 @@
     "id": "gh:megagonlabs/desuwa",
     "lc": "2022-05",
     "n": "desuwa",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 11000,
     "pw": 32,
     "s": [
@@ -8433,7 +8414,7 @@
     "id": "gh:megagonlabs/ebe-dataset",
     "lc": "2020-12",
     "n": "ebe-dataset",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Responsible & Trustworthy NLP",
       "Reasoning",
@@ -8459,7 +8440,7 @@
     "id": "gh:megagonlabs/ginza",
     "lc": "2026-09",
     "n": "ginza",
-    "ns": 7.66,
+    "ns": 7.72,
     "pt": 3000000,
     "pw": 11000,
     "s": [
@@ -8479,7 +8460,7 @@
     "id": "gh:megagonlabs/ginza-transformers",
     "lc": "2026-09",
     "n": "ginza-transformers",
-    "ns": 3.21,
+    "ns": 3.23,
     "pt": 281000,
     "pw": 686,
     "s": [
@@ -8501,7 +8482,7 @@
     "id": "gh:megagonlabs/instruction_ja",
     "lc": "2023-07",
     "n": "instruction_ja",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8517,7 +8498,7 @@
     "id": "gh:megagonlabs/jrte-corpus",
     "lc": "2023-06",
     "n": "jrte-corpus",
-    "ns": 4.94,
+    "ns": 4.98,
     "s": [
       "Reasoning",
       "Textual Inference",
@@ -8537,7 +8518,7 @@
     "id": "gh:megagonlabs/jrte-corpus_example",
     "lc": "2021-11",
     "n": "jrte-corpus_example",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Reasoning",
       "Textual Inference",
@@ -8556,7 +8537,7 @@
     "id": "gh:megagonlabs/quasi_japanese_reviews",
     "lc": "2023-07",
     "n": "quasi_japanese_reviews",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8572,7 +8553,7 @@
     "id": "gh:megagonlabs/t5-japanese",
     "lc": "2021-09",
     "n": "t5-japanese",
-    "ns": 4.17,
+    "ns": 4.2,
     "s": [
       "Text Generation",
       "Language Models",
@@ -8590,7 +8571,7 @@
     "id": "gh:mercari/engineer-vocabulary-list",
     "lc": "2020-11",
     "n": "engineer-vocabulary-list",
-    "ns": 8.6,
+    "ns": 8.66,
     "s": [
       "Multilinguality"
     ],
@@ -8606,7 +8587,7 @@
     "id": "gh:mimneko/kanji-data",
     "lc": "2026-06",
     "n": "kanji-data",
-    "ns": 4.02,
+    "ns": 4.05,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8622,7 +8603,7 @@
     "id": "gh:minhpqn/jmlm_scoring",
     "lc": "2022-02",
     "n": "jmlm_scoring",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -8641,7 +8622,7 @@
     "id": "gh:minosvasilias/kanjigrid",
     "lc": "2018-11",
     "n": "kanjigrid",
-    "ns": 4.33,
+    "ns": 4.36,
     "s": [
       "Information Retrieval"
     ],
@@ -8663,7 +8644,7 @@
     "id": "gh:miurahr/pykakasi",
     "lc": "2026-07",
     "n": "pykakasi",
-    "ns": 6.95,
+    "ns": 7.0,
     "pt": 42000000,
     "pw": 685000,
     "s": [
@@ -8683,7 +8664,7 @@
     "id": "gh:mkan0141/toemoji",
     "lc": "2018-04",
     "n": "toEmoji",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -8699,7 +8680,7 @@
     "id": "gh:mkartawijaya/dango",
     "lc": "2021-11",
     "n": "dango",
-    "ns": 3.73,
+    "ns": 3.75,
     "pt": 28000,
     "pw": 41,
     "s": [
@@ -8719,7 +8700,7 @@
     "id": "gh:mkartawijaya/hasami",
     "lc": "2021-02",
     "n": "hasami",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 48000,
     "pw": 248,
     "s": [
@@ -8738,7 +8719,7 @@
     "id": "gh:mmorise/ita-corpus",
     "lc": "2026-07",
     "n": "ita-corpus",
-    "ns": 6.22,
+    "ns": 6.26,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8755,7 +8736,7 @@
     "id": "gh:mmorise/rohan4600",
     "lc": "2026-03",
     "n": "rohan4600",
-    "ns": 4.9,
+    "ns": 4.93,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8778,7 +8759,7 @@
     "id": "gh:mocobeta/janome",
     "lc": "2026-06",
     "n": "janome",
-    "ns": 7.72,
+    "ns": 7.77,
     "pt": 14000000,
     "pw": 62000,
     "s": [
@@ -8798,7 +8779,7 @@
     "id": "gh:mocobeta/janome-tutorial",
     "lc": "2019-03",
     "n": "janome-tutorial",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -8814,7 +8795,7 @@
     "id": "gh:mojyack/mikan",
     "lc": "2026-08",
     "n": "mikan",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -8831,7 +8812,7 @@
     "id": "gh:mpkato/japanese-ir-tutorial",
     "lc": "2024-06",
     "n": "japanese-ir-tutorial",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8848,7 +8829,7 @@
     "id": "gh:mrpicklepinosaur/matsuba",
     "lc": "2023-03",
     "n": "matsuba",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [],
     "sc": 0.0,
     "st": 19,
@@ -8862,7 +8843,7 @@
     "id": "gh:moikdev/himotoki-py",
     "lc": "2026-10",
     "n": "himotoki-py",
-    "ns": 2.49,
+    "ns": 2.5,
     "pt": 7000,
     "pw": 50,
     "s": [],
@@ -8878,7 +8859,7 @@
     "id": "gh:mtgto/macskk",
     "lc": "2026-11",
     "n": "macskk",
-    "ns": 6.53,
+    "ns": 6.57,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -8895,7 +8876,7 @@
     "id": "gh:mtripg6666tdr/kaomoji_proj",
     "lc": "2025-10",
     "n": "Kaomoji_proj",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -8911,7 +8892,7 @@
     "id": "gh:musyoku/python-npycrf",
     "lc": "2018-03",
     "n": "python-npycrf",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Low-Resource NLP"
     ],
@@ -8927,7 +8908,7 @@
     "id": "gh:musyoku/python-npylm",
     "lc": "2019-01",
     "n": "python-npylm",
-    "ns": 4.02,
+    "ns": 4.05,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8944,7 +8925,7 @@
     "id": "gh:musyoku/unsupervised-pos-tagging",
     "lc": "2017-10",
     "n": "unsupervised-pos-tagging",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -8961,7 +8942,7 @@
     "id": "gh:mutaguchi/character_chat",
     "lc": "2023-06",
     "n": "character_chat",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Language Models",
       "Text Generation"
@@ -8978,7 +8959,7 @@
     "id": "gh:mynlp/niilc-qa",
     "lc": "2015-11",
     "n": "niilc-qa",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Multilinguality",
       "Natural Language Interfaces",
@@ -8997,7 +8978,7 @@
     "id": "gh:myokoym/aozorasearch",
     "lc": "2026-03",
     "n": "aozorasearch",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Information Retrieval"
     ],
@@ -9013,7 +8994,7 @@
     "id": "gh:nagataaaas/japanera",
     "lc": "2025-06",
     "n": "Japanera",
-    "ns": 4.05,
+    "ns": 4.08,
     "pt": 501000,
     "pw": 9000,
     "s": [],
@@ -9029,7 +9010,7 @@
     "id": "gh:nagataaaas/jusho",
     "lc": "2024-06",
     "n": "Jusho",
-    "ns": 2.9,
+    "ns": 2.92,
     "pt": 71000,
     "pw": 635,
     "s": [
@@ -9047,7 +9028,7 @@
     "id": "gh:nagataaaas/kanjize",
     "lc": "2025-06",
     "n": "kanjize",
-    "ns": 4.79,
+    "ns": 4.82,
     "pt": 2000000,
     "pw": 22000,
     "s": [
@@ -9083,7 +9064,7 @@
     "id": "gh:naist-nlp/jalecon",
     "lc": "2023-07",
     "n": "jalecon",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Syntactic Text Processing",
       "Semantic Text Processing",
@@ -9101,7 +9082,7 @@
     "id": "gh:naist-nlp/multils-japanese",
     "lc": "2026-08",
     "n": "multils-japanese",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Paraphrasing",
       "Text Generation",
@@ -9120,7 +9101,7 @@
     "id": "gh:nakagami/awabi",
     "lc": "2025-11",
     "n": "awabi",
-    "ns": 2.81,
+    "ns": 2.83,
     "pt": 27000,
     "s": [
       "Syntactic Text Processing",
@@ -9140,7 +9121,7 @@
     "id": "gh:nanjakkun/uchinaaguchi_dict",
     "lc": "2026-07",
     "n": "uchinaaguchi_dict",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -9157,7 +9138,7 @@
     "id": "gh:naokiri/cskk",
     "lc": "2026-10",
     "n": "cskk",
-    "ns": 5.04,
+    "ns": 5.07,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -9175,7 +9156,7 @@
     "id": "gh:naoto-iwase/jmle2026-bench",
     "lc": "2026-03",
     "n": "jmle2026-bench",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9191,7 +9172,7 @@
     "id": "gh:nathancorvussolis/corvusskk",
     "lc": "2026-08",
     "n": "corvusskk",
-    "ns": 6.72,
+    "ns": 6.76,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -9208,7 +9189,7 @@
     "id": "gh:ncaq/dic-nico-intersection-pixiv",
     "lc": "2024-09",
     "n": "dic-nico-intersection-pixiv",
-    "ns": 5.27,
+    "ns": 5.3,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -9224,7 +9205,7 @@
     "id": "gh:ndl-lab/hiragana_mojigazo",
     "lc": "2020-04",
     "n": "hiragana_mojigazo",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9240,7 +9221,7 @@
     "id": "gh:ndl-lab/hurigana-speech-corpus-aozora",
     "lc": "2025-03",
     "n": "hurigana-speech-corpus-aozora",
-    "ns": 4.47,
+    "ns": 4.5,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -9257,7 +9238,7 @@
     "id": "gh:ndl-lab/huriganacorpus-aozora",
     "lc": "2024-01",
     "n": "huriganacorpus-aozora",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -9274,7 +9255,7 @@
     "id": "gh:ndl-lab/huriganacorpus-ndlbib",
     "lc": "2021-09",
     "n": "huriganacorpus-ndlbib",
-    "ns": 3.99,
+    "ns": 4.02,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -9291,7 +9272,7 @@
     "id": "gh:ndl-lab/ndc_predictor",
     "lc": "2021-08",
     "n": "ndc_predictor",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [],
     "sc": 0.0,
     "st": 14,
@@ -9305,7 +9286,7 @@
     "id": "gh:ndl-lab/ndl-minhon-ocrdataset",
     "lc": "2026-03",
     "n": "ndl-minhon-ocrdataset",
-    "ns": 3.55,
+    "ns": 3.57,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -9322,7 +9303,7 @@
     "id": "gh:ndl-lab/ndlngramdata",
     "lc": "2023-01",
     "n": "ndlngramdata",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -9339,7 +9320,7 @@
     "id": "gh:ndl-lab/ndlngramviewer_v2",
     "lc": "2026-04",
     "n": "ndlngramviewer_v2",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9355,7 +9336,7 @@
     "id": "gh:ndl-lab/ndlocr_cli",
     "lc": "2025-09",
     "n": "ndlocr_cli",
-    "ns": 7.39,
+    "ns": 7.44,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -9372,7 +9353,7 @@
     "id": "gh:ndl-lab/pdmocrdataset-part1",
     "lc": "2024-06",
     "n": "pdmocrdataset-part1",
-    "ns": 5.0,
+    "ns": 5.03,
     "s": [
       "Visual Data in NLP",
       "Multimodality",
@@ -9390,7 +9371,7 @@
     "id": "gh:ndl-lab/pdmocrdataset-part2",
     "lc": "2024-06",
     "n": "pdmocrdataset-part2",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Visual Data in NLP",
       "Multimodality",
@@ -9408,7 +9389,7 @@
     "id": "gh:ndl-lab/text_recognition",
     "lc": "2023-07",
     "n": "text_recognition",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -9425,7 +9406,7 @@
     "id": "gh:neilctwu/youyakuman",
     "lc": "2020-09",
     "n": "YouyakuMan",
-    "ns": 4.49,
+    "ns": 4.52,
     "s": [
       "Information Extraction & Text Mining",
       "Summarization",
@@ -9465,7 +9446,7 @@
     "id": "gh:nelsonapenn/japanese_android_ime",
     "lc": "2025-09",
     "n": "japanese_android_ime",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -9481,7 +9462,7 @@
     "id": "gh:neocl/jamdict",
     "lc": "2021-06",
     "n": "jamdict",
-    "ns": 5.83,
+    "ns": 5.87,
     "pt": 95000,
     "pw": 1000,
     "s": [
@@ -9508,7 +9489,7 @@
     "id": "gh:neologd/mecab-ipadic-neologd",
     "lc": "2020-09",
     "n": "mecab-ipadic-neologd",
-    "ns": 8.98,
+    "ns": 9.04,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -9529,7 +9510,7 @@
     "id": "gh:neologd/mecab-unidic-neologd",
     "lc": "2020-09",
     "n": "mecab-unidic-neologd",
-    "ns": 5.08,
+    "ns": 5.11,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -9545,7 +9526,7 @@
     "id": "gh:netsphere-labs/anthy",
     "lc": "2023-02",
     "n": "anthy",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -9568,7 +9549,7 @@
     "id": "gh:neubig/kytea",
     "lc": "2020-04",
     "n": "kytea",
-    "ns": 6.09,
+    "ns": 6.13,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -9587,7 +9568,7 @@
     "id": "gh:nicolas-raoul/jakaroma",
     "lc": "2025-06",
     "n": "jakaroma",
-    "ns": 4.84,
+    "ns": 4.87,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -9604,7 +9585,7 @@
     "id": "gh:nicolas-raoul/kakasi-java",
     "lc": "2016-04",
     "n": "kakasi-java",
-    "ns": 4.57,
+    "ns": 4.6,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -9621,7 +9602,7 @@
     "id": "gh:nict-astrec-att/jhpt",
     "lc": "2026-03",
     "n": "jhpt",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9637,7 +9618,7 @@
     "id": "gh:nikotora/medvoice-jp-asr",
     "lc": "2026-06",
     "n": "medvoice-jp-asr",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": 0.0,
     "st": 5,
@@ -9651,7 +9632,7 @@
     "id": "gh:nknytk/albert-japanese-tinysegmenter",
     "lc": "2023-09",
     "n": "albert-japanese-tinysegmenter",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Representation Learning",
       "Text Generation",
@@ -9686,7 +9667,7 @@
     "id": "gh:nlp-titech/copa-japanese",
     "lc": "2023-02",
     "n": "copa-japanese",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9719,7 +9700,7 @@
     "id": "gh:nlp-waseda/jmmlu",
     "lc": "2025-10",
     "n": "JMMLU",
-    "ns": 4.31,
+    "ns": 4.34,
     "s": [
       "Responsible & Trustworthy NLP",
       "Low-Resource NLP"
@@ -9736,7 +9717,7 @@
     "id": "gh:nlp-waseda/jtruthfulqa",
     "lc": "2025-02",
     "n": "JTruthfulQA",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9752,7 +9733,7 @@
     "id": "gh:nlp-waseda/chain-of-thought-ja-dataset",
     "lc": "2023-09",
     "n": "chain-of-thought-ja-dataset",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Responsible & Trustworthy NLP",
       "Language Models",
@@ -9770,7 +9751,7 @@
     "id": "gh:nlp-waseda/comet-atomic-ja",
     "lc": "2024-03",
     "n": "comet-atomic-ja",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9786,7 +9767,7 @@
     "id": "gh:nlp-waseda/dcsg-ja",
     "lc": "2023-03",
     "n": "dcsg-ja",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Reasoning",
       "Natural Language Interfaces",
@@ -9807,7 +9788,7 @@
     "id": "gh:nobu-g/jglue-evaluation-scripts",
     "lc": "2026-11",
     "n": "jglue-evaluation-scripts",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9823,7 +9804,7 @@
     "id": "gh:nohanaga/azure-search-openai-demo",
     "lc": "2023-12",
     "n": "azure-search-openai-demo",
-    "ns": 4.36,
+    "ns": 4.39,
     "s": [
       "Information Retrieval",
       "Text Generation"
@@ -9840,7 +9821,7 @@
     "id": "gh:noir55/japanese_llm_simple_webui",
     "lc": "2024-05",
     "n": "japanese_llm_simple_webui",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [],
     "sc": -0.273,
     "st": 17,
@@ -9854,7 +9835,7 @@
     "id": "gh:northern-system-service/gpt4-autoeval",
     "lc": "2024-06",
     "n": "gpt4-autoeval",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Text Generation",
       "Language Models",
@@ -9872,7 +9853,7 @@
     "id": "gh:nttcslab/japanese-dialog-transformers",
     "lc": "2023-06",
     "n": "japanese-dialog-transformers",
-    "ns": 6.24,
+    "ns": 6.28,
     "s": [
       "Responsible & Trustworthy NLP",
       "Language Models",
@@ -9891,7 +9872,7 @@
     "id": "gh:nu-dialogue/j-moshi",
     "lc": "2026-09",
     "n": "j-moshi",
-    "ns": 6.55,
+    "ns": 6.59,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
@@ -9908,7 +9889,7 @@
     "id": "gh:nu-dialogue/moshi-finetune",
     "lc": "2026-01",
     "n": "moshi-finetune",
-    "ns": 5.28,
+    "ns": 5.31,
     "s": [],
     "sc": 0.0,
     "st": 105,
@@ -9922,7 +9903,7 @@
     "id": "gh:nuko-yokohama/ramendb",
     "lc": "2026-04",
     "n": "ramendb",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -9938,7 +9919,7 @@
     "id": "gh:nullponull/kansai-accent-dictionary",
     "lc": "2026-06",
     "n": "kansai-accent-dictionary",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -9954,7 +9935,7 @@
     "id": "gh:nut-jnlp/japanesetopicwsd",
     "lc": "2018-09",
     "n": "japanesetopicwsd",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -9970,7 +9951,7 @@
     "id": "gh:o24s/haqumei",
     "lc": "2026-11",
     "n": "haqumei",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Text Normalization"
     ],
@@ -9986,7 +9967,7 @@
     "id": "gh:obfusk/jiten",
     "lc": "2023-12",
     "n": "jiten",
-    "ns": 5.54,
+    "ns": 5.58,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -10002,7 +9983,7 @@
     "id": "gh:octanove/shiba",
     "lc": "2023-11",
     "n": "shiba",
-    "ns": 5.09,
+    "ns": 5.13,
     "pt": 9000,
     "pw": 26,
     "s": [
@@ -10025,7 +10006,7 @@
     "id": "gh:odashi/small_parallel_enja",
     "lc": "2019-09",
     "n": "small_parallel_enja",
-    "ns": 5.19,
+    "ns": 5.22,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -10044,7 +10025,7 @@
     "id": "gh:olety/japanese-pitch-accent-resources",
     "lc": "2024-02",
     "n": "japanese-pitch-accent-resources",
-    "ns": 5.51,
+    "ns": 5.54,
     "s": [
       "Syntactic Text Processing",
       "Phonetics"
@@ -10061,7 +10042,7 @@
     "id": "gh:olsgaard/japanese_nlp_scripts",
     "lc": "2019-06",
     "n": "Japanese_nlp_scripts",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -10077,7 +10058,7 @@
     "id": "gh:open-dict-data/wikidict-ja",
     "lc": "2016-06",
     "n": "wikidict-ja",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -10093,7 +10074,7 @@
     "id": "gh:kenall-inc/jntajis-python",
     "lc": "2026-03",
     "n": "jntajis-python",
-    "ns": 3.5,
+    "ns": 3.52,
     "pt": 151000,
     "pw": 839,
     "s": [
@@ -10111,7 +10092,7 @@
     "id": "gh:openvino-book/paddleocr-vl-sft-for-japanese-manga-on-rtx-3060",
     "lc": "2025-12",
     "n": "paddleocr-vl-sft-for-japanese-manga-on-rtx-3060",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Visual Data in NLP"
     ],
@@ -10127,7 +10108,7 @@
     "id": "gh:oshizo/japaneseembeddingeval",
     "lc": "2024-10",
     "n": "JapaneseEmbeddingEval",
-    "ns": 5.91,
+    "ns": 5.95,
     "s": [
       "Representation Learning",
       "Syntactic Text Processing",
@@ -10145,7 +10126,7 @@
     "id": "gh:oshizo/japanese-llm-roleplay-benchmark",
     "lc": "2023-11",
     "n": "japanese-llm-roleplay-benchmark",
-    "ns": 4.26,
+    "ns": 4.28,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -10162,7 +10143,7 @@
     "id": "gh:otodn/sentiment_ja_js",
     "lc": "2021-12",
     "n": "sentiment_ja_js",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Sentiment Analysis"
     ],
@@ -10178,7 +10159,7 @@
     "id": "gh:otnc/closewords",
     "lc": "2026-05",
     "n": "closewords",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": 0.0,
     "st": 5,
@@ -10192,7 +10173,7 @@
     "id": "gh:ou-medinfo/medbertjp",
     "lc": "2020-11",
     "n": "medbertjp",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -10209,7 +10190,7 @@
     "id": "gh:p-geon/ja-tokenizer-docker-py",
     "lc": "2022-05",
     "n": "ja-tokenizer-docker-py",
-    "ns": 4.09,
+    "ns": 4.11,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -10228,7 +10209,7 @@
     "id": "gh:paithiov909/textmining-ja",
     "lc": "2026-03",
     "n": "textmining-ja",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Low-Resource NLP"
@@ -10245,7 +10226,7 @@
     "id": "gh:passaglia/yomikata",
     "lc": "2023-10",
     "n": "yomikata",
-    "ns": 4.09,
+    "ns": 4.11,
     "pt": 51000,
     "pw": 55,
     "s": [
@@ -10264,7 +10245,7 @@
     "id": "gh:peaceiris/emoji-ime-dictionary",
     "lc": "2026-05",
     "n": "emoji-ime-dictionary",
-    "ns": 6.72,
+    "ns": 6.76,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -10280,7 +10261,7 @@
     "id": "gh:peaceiris/google-ime-dictionary",
     "lc": "2026-05",
     "n": "google-ime-dictionary",
-    "ns": 5.34,
+    "ns": 5.37,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -10296,7 +10277,7 @@
     "id": "gh:pfnet-research/japanese-lm-fin-harness",
     "lc": "2026-06",
     "n": "japanese-lm-fin-harness",
-    "ns": 4.97,
+    "ns": 5.01,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -10313,7 +10294,7 @@
     "id": "gh:pfnet-research/pfmt-bench-fin-ja",
     "lc": "2025-03",
     "n": "pfmt-bench-fin-ja",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [],
     "sc": 0.0,
     "st": 9,
@@ -10327,7 +10308,7 @@
     "id": "gh:pfnet/plamo-translate-cli",
     "lc": "2026-11",
     "n": "plamo-translate-cli",
-    "ns": 6.64,
+    "ns": 6.69,
     "s": [
       "Machine Translation"
     ],
@@ -10343,7 +10324,7 @@
     "id": "gh:philipperemy/japanese-words-to-vectors",
     "lc": "2020-08",
     "n": "japanese-words-to-vectors",
-    "ns": 5.07,
+    "ns": 5.1,
     "s": [
       "Representation Learning",
       "Semantic Text Processing"
@@ -10360,7 +10341,7 @@
     "id": "gh:phkhanhtrinh23/japanese_spelling_correction",
     "lc": "2023-09",
     "n": "japanese_spelling_correction",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [],
     "sc": 0.0,
     "st": 16,
@@ -10374,7 +10355,7 @@
     "id": "gh:pixiv/chatvrm",
     "lc": "2025-05",
     "n": "chatvrm",
-    "ns": 7.63,
+    "ns": 7.68,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -10391,7 +10372,7 @@
     "id": "gh:po3rin/hirakanadic",
     "lc": "2023-07",
     "n": "hirakanadic",
-    "ns": 2.35,
+    "ns": 2.37,
     "pt": 15000,
     "pw": 43,
     "s": [
@@ -10410,7 +10391,7 @@
     "id": "gh:po3rin/symptom-expression-search",
     "lc": "2021-02",
     "n": "symptom-expression-search",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Information Retrieval"
     ],
@@ -10431,7 +10412,7 @@
     "id": "gh:polm/cutlet",
     "lc": "2026-09",
     "n": "cutlet",
-    "ns": 6.75,
+    "ns": 6.79,
     "pt": 2000000,
     "pw": 21000,
     "s": [
@@ -10456,7 +10437,7 @@
     "id": "gh:polm/fugashi",
     "lc": "2025-10",
     "n": "fugashi",
-    "ns": 7.11,
+    "ns": 7.16,
     "pt": 19000000,
     "pw": 187000,
     "s": [
@@ -10477,7 +10458,7 @@
     "id": "gh:polm/ipadic-py",
     "lc": "2021-10",
     "n": "ipadic-py",
-    "ns": 3.64,
+    "ns": 3.67,
     "pt": 8000000,
     "pw": 60000,
     "s": [
@@ -10495,7 +10476,7 @@
     "id": "gh:polm/ja-tokenizer-benchmark",
     "lc": "2022-02",
     "n": "ja-tokenizer-benchmark",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [],
     "sc": 0.0,
     "st": 7,
@@ -10509,7 +10490,7 @@
     "id": "gh:polm/posuto",
     "lc": "2026-10",
     "n": "posuto",
-    "ns": 6.19,
+    "ns": 6.23,
     "pt": 954000,
     "pw": 8000,
     "s": [
@@ -10527,7 +10508,7 @@
     "id": "gh:polm/unidic-lite",
     "lc": "2020-09",
     "n": "unidic-lite",
-    "ns": 4.49,
+    "ns": 4.52,
     "pt": 14000000,
     "pw": 179000,
     "s": [
@@ -10547,7 +10528,7 @@
     "id": "gh:polm/unidic-py",
     "lc": "2025-02",
     "n": "unidic-py",
-    "ns": 5.37,
+    "ns": 5.4,
     "pt": 13000000,
     "pw": 84000,
     "s": [
@@ -10565,7 +10546,7 @@
     "id": "gh:poyo46/ginza-examples",
     "lc": "2021-01",
     "n": "ginza-examples",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -10582,7 +10563,7 @@
     "id": "gh:python-nlp-book/python-nlp-book",
     "lc": "2023-05",
     "n": "python-nlp-book",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -10599,7 +10580,7 @@
     "id": "gh:qianniu0304/gemma2_2b_finetune_jp_tutorial",
     "lc": "2024-08",
     "n": "Gemma2_2b_Japanese_finetuning_colab.ipynb",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Text Generation",
       "Language Models",
@@ -10617,7 +10598,7 @@
     "id": "gh:r9y9/pyopenjtalk",
     "lc": "2025-04",
     "n": "pyopenjtalk",
-    "ns": 6.3,
+    "ns": 6.34,
     "pt": 2000000,
     "pw": 28000,
     "s": [
@@ -10637,7 +10618,7 @@
     "id": "gh:r9y9/ttslearn",
     "lc": "2023-03",
     "n": "ttslearn",
-    "ns": 6.33,
+    "ns": 6.38,
     "s": [],
     "sc": 0.0,
     "st": 269,
@@ -10651,7 +10632,7 @@
     "id": "gh:rabbit19981023/yomigana-ebook",
     "lc": "2024-02",
     "n": "yomigana-ebook",
-    "ns": 3.81,
+    "ns": 3.84,
     "pt": 9000,
     "pw": 63,
     "s": [
@@ -10670,7 +10651,7 @@
     "id": "gh:racerandom/jamie",
     "lc": "2026-03",
     "n": "JaMIE",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Term Extraction",
       "Information Extraction & Text Mining"
@@ -10687,7 +10668,7 @@
     "id": "gh:rakuten-nlp/rakutenma",
     "lc": "2015-01",
     "n": "rakutenma",
-    "ns": 6.96,
+    "ns": 7.01,
     "pt": 1300,
     "pw": 16,
     "s": [
@@ -10708,7 +10689,7 @@
     "id": "gh:reasonset/mozcdict-ext",
     "lc": "2026-11",
     "n": "mozcdict-ext",
-    "ns": 4.84,
+    "ns": 4.87,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -10724,7 +10705,7 @@
     "id": "gh:reazon-research/reazonspeech",
     "lc": "2026-06",
     "n": "reazonspeech",
-    "ns": 6.79,
+    "ns": 6.84,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality",
@@ -10742,7 +10723,7 @@
     "id": "gh:reiko-y/jsts-neg",
     "lc": "2026-09",
     "n": "JSTS-Neg",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -10758,7 +10739,7 @@
     "id": "gh:reppy4620/dialog",
     "lc": "2020-10",
     "n": "Dialog",
-    "ns": 4.85,
+    "ns": 4.89,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents",
@@ -10777,7 +10758,7 @@
     "id": "gh:respaired/tsukasa-speech",
     "lc": "2025-05",
     "n": "tsukasa-speech",
-    "ns": 4.76,
+    "ns": 4.79,
     "s": [
       "Text Generation",
       "Speech & Audio in NLP",
@@ -10795,7 +10776,7 @@
     "id": "gh:retarfi/jptranstokenizer",
     "lc": "2024-02",
     "n": "jptranstokenizer",
-    "ns": 2.03,
+    "ns": 2.04,
     "pt": 32000,
     "pw": 36,
     "s": [
@@ -10818,7 +10799,7 @@
     "id": "gh:retarfi/language-pretraining",
     "lc": "2023-05",
     "n": "language-pretraining",
-    "ns": 4.45,
+    "ns": 4.48,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -10836,7 +10817,7 @@
     "id": "gh:retrieva/japagen",
     "lc": "2024-10",
     "n": "japagen",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -10873,7 +10854,7 @@
     "id": "gh:riken-grp/j-cre3",
     "lc": "2026-09",
     "n": "J-CRe3",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -10889,7 +10870,7 @@
     "id": "gh:riken-grp/lookvqa",
     "lc": "2024-08",
     "n": "LookVQA",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -10905,7 +10886,7 @@
     "id": "gh:rindybell/kokkosho_data",
     "lc": "2019-07",
     "n": "kokkosho_data",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -10921,7 +10902,7 @@
     "id": "gh:rixwew/darts-clone-python",
     "lc": "2022-04",
     "n": "darts-clone-python",
-    "ns": 3.44,
+    "ns": 3.47,
     "pt": 9000000,
     "pw": 2000,
     "s": [
@@ -10942,7 +10923,7 @@
     "id": "gh:rkmt/summarize_arxv",
     "lc": "2023-05",
     "n": "summarize_arxv",
-    "ns": 5.83,
+    "ns": 5.87,
     "s": [
       "Information Extraction & Text Mining"
     ],
@@ -10958,7 +10939,7 @@
     "id": "gh:route250/fastrtc-jp",
     "lc": "2025-05",
     "n": "fastrtc-jp",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [],
     "sc": 0.0,
     "st": 6,
@@ -10972,7 +10953,7 @@
     "id": "gh:rpryzant/jesc",
     "lc": "2017-11",
     "n": "JESC",
-    "ns": 5.12,
+    "ns": 5.15,
     "s": [
       "Multilinguality",
       "Machine Translation",
@@ -10990,7 +10971,7 @@
     "id": "gh:rskmoi/namedivider-python",
     "lc": "2026-10",
     "n": "namedivider-python",
-    "ns": 6.26,
+    "ns": 6.3,
     "pt": 117000,
     "pw": 2000,
     "s": [
@@ -11009,7 +10990,7 @@
     "id": "gh:rtr46/meikiocr",
     "lc": "2026-09",
     "n": "meikiocr",
-    "ns": 5.23,
+    "ns": 5.27,
     "pt": 57000,
     "pw": 886,
     "s": [
@@ -11027,7 +11008,7 @@
     "id": "gh:rtr46/meikipop",
     "lc": "2026-10",
     "n": "meikipop",
-    "ns": 7.41,
+    "ns": 7.46,
     "s": [
       "Visual Data in NLP"
     ],
@@ -11043,7 +11024,7 @@
     "id": "gh:ryuryukke/japanese_summarizer",
     "lc": "2022-08",
     "n": "japanese_summarizer",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Information Extraction & Text Mining",
       "Summarization",
@@ -11061,7 +11042,7 @@
     "id": "gh:s-taka/fugumt",
     "lc": "2021-02",
     "n": "fugumt",
-    "ns": 4.74,
+    "ns": 4.77,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -11077,7 +11058,7 @@
     "id": "gh:s1r-j/jinmei-dict",
     "lc": "2020-04",
     "n": "jinmei-dict",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11093,7 +11074,7 @@
     "id": "gh:sakarika/kanjitomo-ocr",
     "lc": "2021-05",
     "n": "kanjitomo-ocr",
-    "ns": 6.03,
+    "ns": 6.07,
     "s": [
       "Syntactic Text Processing",
       "Visual Data in NLP",
@@ -11111,7 +11092,7 @@
     "id": "gh:samunohito/kanaria",
     "lc": "2026-02",
     "n": "kanaria",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -11128,7 +11109,7 @@
     "id": "gh:sapjax/yama",
     "lc": "2026-02",
     "n": "yama",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [],
     "sc": 0.0,
     "st": 8,
@@ -11142,7 +11123,7 @@
     "id": "gh:sarulab-speech/jtubespeech",
     "lc": "2023-03",
     "n": "jtubespeech",
-    "ns": 6.17,
+    "ns": 6.21,
     "s": [
       "Speech & Audio in NLP",
       "Multimodality",
@@ -11160,7 +11141,7 @@
     "id": "gh:sarulab-speech/whisper-asr-finetune",
     "lc": "2022-12",
     "n": "whisper-asr-finetune",
-    "ns": 3.96,
+    "ns": 3.98,
     "s": [
       "Speech Recognition",
       "Text Generation",
@@ -11181,7 +11162,7 @@
     "id": "gh:sarulab-speech/xvector_jtubespeech",
     "lc": "2023-11",
     "n": "xvector_jtubespeech",
-    "ns": 4.38,
+    "ns": 4.41,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -11197,7 +11178,7 @@
     "id": "gh:sarumaj/go-kakasi",
     "lc": "2026-11",
     "n": "go-kakasi",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -11232,7 +11213,7 @@
     "id": "gh:sbintuitions/jmteb",
     "lc": "2026-10",
     "n": "jmteb",
-    "ns": 5.18,
+    "ns": 5.21,
     "s": [
       "Responsible & Trustworthy NLP",
       "Representation Learning",
@@ -11250,7 +11231,7 @@
     "id": "gh:sbintuitions/safety-boundary-test",
     "lc": "2026-04",
     "n": "safety-boundary-test",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11266,7 +11247,7 @@
     "id": "gh:sbintuitions/sarashina2.2-tts",
     "lc": "2026-06",
     "n": "sarashina2.2-tts",
-    "ns": 5.09,
+    "ns": 5.13,
     "s": [],
     "sc": 0.0,
     "st": 89,
@@ -11280,7 +11261,7 @@
     "id": "gh:scriptin/jmdict-simplified",
     "lc": "2026-10",
     "n": "jmdict-simplified",
-    "ns": 6.77,
+    "ns": 6.82,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -11297,7 +11278,7 @@
     "id": "gh:scriptin/kanji-frequency",
     "lc": "2026-03",
     "n": "kanji-frequency",
-    "ns": 5.8,
+    "ns": 5.84,
     "s": [
       "Information Extraction & Text Mining"
     ],
@@ -11313,7 +11294,7 @@
     "id": "gh:scriptin/topokanji",
     "lc": "2026-08",
     "n": "topokanji",
-    "ns": 6.05,
+    "ns": 6.09,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11329,7 +11310,7 @@
     "id": "gh:sea-turt1e/kanjiconv",
     "lc": "2026-11",
     "n": "kanjiconv",
-    "ns": 3.44,
+    "ns": 3.47,
     "pt": 34000,
     "pw": 2000,
     "s": [
@@ -11347,7 +11328,7 @@
     "id": "gh:sea-turt1e/yurenizer",
     "lc": "2026-11",
     "n": "yurenizer",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 22000,
     "pw": 503,
     "s": [
@@ -11366,7 +11347,7 @@
     "id": "gh:septn/kotowaza",
     "lc": "2026-02",
     "n": "kotowaza",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11382,7 +11363,7 @@
     "id": "gh:sethclydesdale/colloquial-kansai-dictionary",
     "lc": "2026-08",
     "n": "colloquial-kansai-dictionary",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -11399,7 +11380,7 @@
     "id": "gh:shewiiii/pitchbench",
     "lc": "2026-02",
     "n": "pitchbench",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [],
     "sc": 0.0,
     "st": 2,
@@ -11413,7 +11394,7 @@
     "id": "gh:shi3z/alpaca_ja",
     "lc": "2023-05",
     "n": "alpaca_ja",
-    "ns": 5.05,
+    "ns": 5.09,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -11430,7 +11411,7 @@
     "id": "gh:shi3z/japanese-llm-benchmark",
     "lc": "2026-07",
     "n": "japanese-llm-benchmark",
-    "ns": 4.47,
+    "ns": 4.5,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11446,7 +11427,7 @@
     "id": "gh:shibuiwilliam/aozora_classification",
     "lc": "2017-09",
     "n": "aozora_classification",
-    "ns": 2.81,
+    "ns": 2.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11462,7 +11443,7 @@
     "id": "gh:shibuiwilliam/py-kaomoji",
     "lc": "2018-12",
     "n": "py-kaomoji",
-    "ns": 2.2,
+    "ns": 2.22,
     "pt": 39000,
     "pw": 34,
     "s": [],
@@ -11497,7 +11478,7 @@
     "id": "gh:shigashiyama/jcms",
     "lc": "2026-04",
     "n": "jcms",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Syntactic Text Processing",
       "Semantic Text Processing",
@@ -11516,7 +11497,7 @@
     "id": "gh:shihono/alphabet2kana",
     "lc": "2026-02",
     "n": "alphabet2kana",
-    "ns": 3.14,
+    "ns": 3.16,
     "pt": 65000,
     "pw": 117,
     "s": [
@@ -11535,7 +11516,7 @@
     "id": "gh:shihono/evaluate_japanese_w2v",
     "lc": "2024-11",
     "n": "evaluate_japanese_w2v",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Responsible & Trustworthy NLP",
       "Representation Learning",
@@ -11555,7 +11536,7 @@
     "id": "gh:shikeda/hdic",
     "lc": "2026-11",
     "n": "hdic",
-    "ns": 4.33,
+    "ns": 4.36,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -11571,7 +11552,7 @@
     "id": "gh:shimo4228/doctrine-corpus",
     "lc": "2026-10",
     "n": "doctrine-corpus",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11587,7 +11568,7 @@
     "id": "gh:shinespark/dvorakjp-roman-table",
     "lc": "2026-10",
     "n": "dvorakjp-roman-table",
-    "ns": 4.61,
+    "ns": 4.64,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -11603,7 +11584,7 @@
     "id": "gh:shirakaba/pitch-accent",
     "lc": "2023-09",
     "n": "pitch-accent",
-    "ns": 1.24,
+    "ns": 1.25,
     "pt": 199,
     "pw": 1,
     "s": [
@@ -11622,7 +11603,7 @@
     "id": "gh:shirayu/ita-corpus-chuwa",
     "lc": "2021-08",
     "n": "ita-corpus-chuwa",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Syntactic Text Processing",
       "Linguistics & Cognitive NLP",
@@ -11640,7 +11621,7 @@
     "id": "gh:shisa-ai/jp-tl-bench",
     "lc": "2026-02",
     "n": "jp-tl-bench",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [],
     "sc": 0.0,
     "st": 6,
@@ -11654,7 +11635,7 @@
     "id": "gh:shisa-ai/shisa-v2",
     "lc": "2025-12",
     "n": "shisa-v2",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -11673,7 +11654,7 @@
     "id": "gh:shogo82148/grongish",
     "lc": "2026-10",
     "n": "Grongish",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11689,7 +11670,7 @@
     "id": "gh:shogo82148/tinysegmentermaker",
     "lc": "2022-09",
     "n": "TinySegmenterMaker",
-    "ns": 4.88,
+    "ns": 4.92,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -11706,7 +11687,7 @@
     "id": "gh:shunk031/allennlp-ner-ja",
     "lc": "2022-05",
     "n": "allennlp-NER-ja",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Information Extraction & Text Mining",
       "Named Entity Recognition"
@@ -11723,7 +11704,7 @@
     "id": "gh:shunk031/allennlp-shiba-model",
     "lc": "2021-06",
     "n": "allennlp-shiba-model",
-    "ns": 2.9,
+    "ns": 2.92,
     "pt": 24000,
     "pw": 26,
     "s": [
@@ -11745,7 +11726,7 @@
     "id": "gh:creative-graphic-design/huggingface-datasets_camera",
     "lc": "2023-03",
     "n": "huggingface-datasets_CAMERA",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Visual Data in NLP",
       "Text Generation",
@@ -11763,7 +11744,7 @@
     "id": "gh:shunk031/huggingface-datasets_jglue",
     "lc": "2025-03",
     "n": "huggingface-datasets_JGLUE",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Responsible & Trustworthy NLP",
       "Multimodality",
@@ -11782,7 +11763,7 @@
     "id": "gh:shunk031/huggingface-datasets_livedoor-news-corpus",
     "lc": "2023-10",
     "n": "huggingface-datasets_livedoor-news-corpus",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Dialogue Systems & Conversational Agents",
       "Multimodality",
@@ -11800,7 +11781,7 @@
     "id": "gh:shunk031/huggingface-datasets_wrime",
     "lc": "2023-01",
     "n": "huggingface-datasets_wrime",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -11817,7 +11798,7 @@
     "id": "gh:shyyhs/courseraparallelcorpusmining",
     "lc": "2024-08",
     "n": "CourseraParallelCorpusMining",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -11837,7 +11818,7 @@
     "id": "gh:sifue/chatgpt-slackbot",
     "lc": "2024-07",
     "n": "chatgpt-slackbot",
-    "ns": 4.7,
+    "ns": 4.74,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -11854,7 +11835,7 @@
     "id": "gh:siikamiika/japanese-family-names",
     "lc": "2017-06",
     "n": "japanese-family-names",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Information Extraction & Text Mining"
     ],
@@ -11870,7 +11851,7 @@
     "id": "gh:sinchir0/kaggle_llm_book",
     "lc": "2026-07",
     "n": "kaggle_llm_book",
-    "ns": 4.26,
+    "ns": 4.28,
     "s": [],
     "sc": 0.0,
     "st": 42,
@@ -11884,7 +11865,7 @@
     "id": "gh:singletongue/wikipedia-utils",
     "lc": "2024-04",
     "n": "wikipedia-utils",
-    "ns": 4.94,
+    "ns": 4.98,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization",
@@ -11902,7 +11883,7 @@
     "id": "gh:skk-dict/jisyo",
     "lc": "2023-09",
     "n": "jisyo",
-    "ns": 3.81,
+    "ns": 3.84,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -11918,7 +11899,7 @@
     "id": "gh:smartnews-smri/house-of-councillors",
     "lc": "2026-09",
     "n": "house-of-councillors",
-    "ns": 5.32,
+    "ns": 5.35,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -11934,7 +11915,7 @@
     "id": "gh:smartnews-smri/house-of-representatives",
     "lc": "2026-11",
     "n": "house-of-representatives",
-    "ns": 5.89,
+    "ns": 5.93,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -11951,7 +11932,7 @@
     "id": "gh:sociocom/dnorm-j",
     "lc": "2022-06",
     "n": "DNorm-J",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -11984,7 +11965,7 @@
     "id": "gh:sociocom/jiwc-dictionary",
     "lc": "2021-01",
     "n": "JIWC-Dictionary",
-    "ns": 4.2,
+    "ns": 4.23,
     "s": [
       "Emotion Analysis",
       "Sentiment Analysis",
@@ -12002,7 +11983,7 @@
     "id": "gh:sociocom/medner-j",
     "lc": "2022-05",
     "n": "MedNER-J",
-    "ns": 3.33,
+    "ns": 3.35,
     "s": [
       "Term Extraction",
       "Information Extraction & Text Mining"
@@ -12019,7 +12000,7 @@
     "id": "gh:sociocom/jmed-llm",
     "lc": "2024-09",
     "n": "jmed-llm",
-    "ns": 4.63,
+    "ns": 4.66,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -12036,7 +12017,7 @@
     "id": "gh:sociocom/psychiatry-clinical-notes",
     "lc": "2025-10",
     "n": "psychiatry-clinical-notes",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12052,7 +12033,7 @@
     "id": "gh:sonoisa/clip-japanese",
     "lc": "2025-09",
     "n": "clip-japanese",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Low-Resource NLP"
     ],
@@ -12068,7 +12049,7 @@
     "id": "gh:sonoisa/deep-question-generation",
     "lc": "2023-03",
     "n": "deep-question-generation",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -12085,7 +12066,7 @@
     "id": "gh:sonoisa/t5-japanese",
     "lc": "2025-09",
     "n": "t5-japanese",
-    "ns": 5.4,
+    "ns": 5.43,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -12102,7 +12083,7 @@
     "id": "gh:sophiefy/mecab-visualizer",
     "lc": "2023-09",
     "n": "mecab-visualizer",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -12119,7 +12100,7 @@
     "id": "gh:sosuke115/qlora_ja",
     "lc": "2024-07",
     "n": "qlora_ja",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Low-Resource NLP"
     ],
@@ -12135,7 +12116,7 @@
     "id": "gh:sph-mn/nihongo",
     "lc": "2025-01",
     "n": "nihongo",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -12151,7 +12132,7 @@
     "id": "gh:stephenmk/yomitan-jlpt-vocab",
     "lc": "2025-08",
     "n": "yomitan-jlpt-vocab",
-    "ns": 5.61,
+    "ns": 5.65,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing",
@@ -12170,7 +12151,7 @@
     "id": "gh:stockmarkteam/bert-book",
     "lc": "2024-02",
     "n": "bert-book",
-    "ns": 6.32,
+    "ns": 6.36,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -12187,7 +12168,7 @@
     "id": "gh:stockmarkteam/business-slide-questions",
     "lc": "2025-05",
     "n": "business-slide-questions",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12203,7 +12184,7 @@
     "id": "gh:stockmarkteam/ner-wikipedia-dataset",
     "lc": "2023-09",
     "n": "ner-wikipedia-dataset",
-    "ns": 5.62,
+    "ns": 5.66,
     "s": [
       "Information Extraction & Text Mining",
       "Coreference Resolution",
@@ -12222,7 +12203,7 @@
     "id": "gh:studio-ousia/luke",
     "lc": "2023-06",
     "n": "luke",
-    "ns": 7.46,
+    "ns": 7.51,
     "s": [
       "Representation Learning",
       "Knowledge Representation",
@@ -12245,7 +12226,7 @@
     "id": "gh:studio-ousia/mojimoji",
     "lc": "2024-01",
     "n": "mojimoji",
-    "ns": 5.71,
+    "ns": 5.74,
     "pt": 14000000,
     "pw": 56000,
     "s": [
@@ -12264,7 +12245,7 @@
     "id": "gh:sugi2000/data-on-japanese-diet-members",
     "lc": "2022-09",
     "n": "Data-on-Japanese-Diet-Members",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12280,7 +12261,7 @@
     "id": "gh:suguru/elasticsearch-analysis-japanese",
     "lc": "2012-03",
     "n": "elasticsearch-analysis-japanese",
-    "ns": 3.85,
+    "ns": 3.87,
     "s": [
       "Information Extraction & Text Mining",
       "Syntactic Text Processing",
@@ -12302,7 +12283,7 @@
     "id": "gh:supershaneski/openai-chatfriend",
     "lc": "2023-04",
     "n": "openai-chatfriend",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Language Models",
       "Text Generation"
@@ -12319,7 +12300,7 @@
     "id": "gh:swallow-llm/swallow-corpus",
     "lc": "2024-11",
     "n": "swallow-corpus",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12335,7 +12316,7 @@
     "id": "gh:swallow-llm/swallow-evaluation",
     "lc": "2025-09",
     "n": "swallow-evaluation",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -12352,7 +12333,7 @@
     "id": "gh:swallow-llm/swallow-evaluation-instruct",
     "lc": "2026-05",
     "n": "swallow-evaluation-instruct",
-    "ns": 4.02,
+    "ns": 4.05,
     "s": [
       "Language Models"
     ],
@@ -12368,7 +12349,7 @@
     "id": "gh:sylhare/kanji",
     "lc": "2026-10",
     "n": "kanji",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12384,7 +12365,7 @@
     "id": "gh:t-sagara/jageocoder",
     "lc": "2026-03",
     "n": "jageocoder",
-    "ns": 5.31,
+    "ns": 5.34,
     "pt": 500000,
     "pw": 8000,
     "s": [
@@ -12402,7 +12383,7 @@
     "id": "gh:t-sagara/japanese-address-testdata",
     "lc": "2023-09",
     "n": "japanese-address-testdata",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12418,7 +12399,7 @@
     "id": "gh:t3tra-dev/mozuku",
     "lc": "2026-04",
     "n": "mozuku",
-    "ns": 6.84,
+    "ns": 6.89,
     "s": [],
     "sc": 0.0,
     "st": 421,
@@ -12432,7 +12413,7 @@
     "id": "gh:tachi-hi/jamorasep",
     "lc": "2026-02",
     "n": "jamorasep",
-    "ns": 2.81,
+    "ns": 2.83,
     "pt": 13000,
     "pw": 245,
     "s": [
@@ -12451,7 +12432,7 @@
     "id": "gh:tadeokondrak/anthywl",
     "lc": "2025-04",
     "n": "anthywl",
-    "ns": 4.02,
+    "ns": 4.05,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -12473,7 +12454,7 @@
     "id": "gh:taishi-i/nagisa",
     "lc": "2026-09",
     "n": "nagisa",
-    "ns": 6.84,
+    "ns": 6.89,
     "pt": 11000000,
     "pw": 54000,
     "s": [
@@ -12494,7 +12475,7 @@
     "id": "gh:taishi-i/nagisa_bert",
     "lc": "2026-02",
     "n": "nagisa_bert",
-    "ns": 2.03,
+    "ns": 2.04,
     "pt": 63000,
     "pw": 63,
     "s": [
@@ -12514,7 +12495,7 @@
     "id": "gh:taishi-i/toiro",
     "lc": "2025-11",
     "n": "toiro",
-    "ns": 5.44,
+    "ns": 5.48,
     "pt": 29000,
     "pw": 102,
     "s": [
@@ -12534,7 +12515,7 @@
     "id": "gh:takamichi-lab/j-spaw",
     "lc": "2026-09",
     "n": "j-spaw",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -12550,7 +12531,7 @@
     "id": "gh:takamichi-lab/nlp-lecture-keio",
     "lc": "2026-07",
     "n": "nlp-lecture-keio",
-    "ns": 3.44,
+    "ns": 3.47,
     "s": [],
     "sc": 0.0,
     "st": 20,
@@ -12564,7 +12545,7 @@
     "id": "gh:takapy0210/nlplot",
     "lc": "2022-09",
     "n": "nlplot",
-    "ns": 6.19,
+    "ns": 6.23,
     "pt": 118000,
     "pw": 115,
     "s": [
@@ -12589,7 +12570,7 @@
     "id": "gh:taku910/cabocha",
     "lc": "2025-02",
     "n": "cabocha",
-    "ns": 5.43,
+    "ns": 5.46,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing"
@@ -12612,7 +12593,7 @@
     "id": "gh:taku910/mecab",
     "lc": "2025-02",
     "n": "mecab",
-    "ns": 7.92,
+    "ns": 7.98,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation",
@@ -12631,7 +12612,7 @@
     "id": "gh:takumakanari/japanese-numbers-python",
     "lc": "2020-04",
     "n": "japanese-numbers-python",
-    "ns": 3.5,
+    "ns": 3.52,
     "pt": 2000000,
     "pw": 3000,
     "s": [
@@ -12650,7 +12631,7 @@
     "id": "gh:takuyaa/ja-law-parser",
     "lc": "2024-01",
     "n": "ja-law-parser",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Syntactic Text Processing",
       "Syntactic Parsing",
@@ -12669,7 +12650,7 @@
     "id": "gh:takuyaa/kuromoji.js",
     "lc": "2018-11",
     "n": "kuromoji.js",
-    "ns": 7.82,
+    "ns": 7.87,
     "pt": 13000000,
     "pw": 227000,
     "s": [
@@ -12690,7 +12671,7 @@
     "id": "gh:takuyaa/mecab-ipadic-seed",
     "lc": "2016-07",
     "n": "mecab-ipadic-seed",
-    "ns": 2.49,
+    "ns": 2.5,
     "pt": 11000,
     "pw": 419,
     "s": [
@@ -12708,7 +12689,7 @@
     "id": "gh:tani/cl-skkserv",
     "lc": "2024-10",
     "n": "cl-skkserv",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -12724,7 +12705,7 @@
     "id": "gh:tanreinama/gptsan",
     "lc": "2023-09",
     "n": "GPTSAN",
-    "ns": 5.42,
+    "ns": 5.45,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -12741,7 +12722,7 @@
     "id": "gh:tanreinama/japanese-bpeencoder",
     "lc": "2021-09",
     "n": "Japanese-BPEEncoder",
-    "ns": 4.26,
+    "ns": 4.28,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -12757,7 +12738,7 @@
     "id": "gh:tanreinama/japanese-bpeencoder_v2",
     "lc": "2023-01",
     "n": "Japanese-BPEEncoder_V2",
-    "ns": 4.23,
+    "ns": 4.26,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -12773,7 +12754,7 @@
     "id": "gh:tanreinama/japanese-fakenews-dataset",
     "lc": "2021-05",
     "n": "Japanese-Fakenews-Dataset",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -12790,7 +12771,7 @@
     "id": "gh:tanreinama/ocr_japanease",
     "lc": "2021-04",
     "n": "OCR_Japanease",
-    "ns": 6.26,
+    "ns": 6.3,
     "s": [
       "Visual Data in NLP",
       "Multimodality",
@@ -12808,7 +12789,7 @@
     "id": "gh:tanreinama/roberta-japanese",
     "lc": "2021-11",
     "n": "RoBERTa-japanese",
-    "ns": 3.6,
+    "ns": 3.62,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -12826,7 +12807,7 @@
     "id": "gh:tanreinama/amlp-japanese",
     "lc": "2022-05",
     "n": "aMLP-japanese",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -12844,7 +12825,7 @@
     "id": "gh:tanreinama/gpt2-japanese",
     "lc": "2023-09",
     "n": "gpt2-japanese",
-    "ns": 6.54,
+    "ns": 6.58,
     "s": [
       "Text Generation",
       "Language Models",
@@ -12862,7 +12843,7 @@
     "id": "gh:tanreinama/text2text-japanese",
     "lc": "2021-07",
     "n": "text2text-japanese",
-    "ns": 4.02,
+    "ns": 4.05,
     "s": [
       "Dialogue Response Generation",
       "Text Generation",
@@ -12881,7 +12862,7 @@
     "id": "gh:tasukuigarashi/j-liwc2015",
     "lc": "2024-11",
     "n": "j-liwc2015",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -12898,7 +12879,7 @@
     "id": "gh:tathi/tweet_extructor",
     "lc": "2022-08",
     "n": "tweet_extructor",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Information Retrieval",
       "Text Classification",
@@ -12916,7 +12897,7 @@
     "id": "gh:tb-yasu/deep-openreview-research-ja",
     "lc": "2025-11",
     "n": "deep-openreview-research-ja",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [],
     "sc": 0.0,
     "st": 13,
@@ -12930,7 +12911,7 @@
     "id": "gh:tdcyamadaya/lm-evaluation-harness-jp-stable",
     "lc": "2023-06",
     "n": "lm-evaluation-harness-jp-stable",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Responsible & Trustworthy NLP",
       "Language Models",
@@ -12963,7 +12944,7 @@
     "id": "gh:terallite/yasumail",
     "lc": "2026-01",
     "n": "yasumail",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [],
     "sc": 0.0,
     "st": 3,
@@ -12977,7 +12958,7 @@
     "id": "gh:teru-oka-1933/meval",
     "lc": "2019-08",
     "n": "meval",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Morphology",
       "Syntactic Text Processing"
@@ -12994,7 +12975,7 @@
     "id": "gh:textlint-ja/analyze-desumasu-dearu",
     "lc": "2026-04",
     "n": "analyze-desumasu-dearu",
-    "ns": 3.33,
+    "ns": 3.35,
     "pt": 8199999,
     "pw": 167000,
     "s": [
@@ -13013,7 +12994,7 @@
     "id": "gh:textlint-ja/technological-book-corpus-ja",
     "lc": "2026-04",
     "n": "technological-book-corpus-ja",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -13030,7 +13011,7 @@
     "id": "gh:thammin/juman-bin",
     "lc": "2017-05",
     "n": "juman-bin",
-    "ns": 1.57,
+    "ns": 1.58,
     "pt": 474,
     "pw": 4,
     "s": [
@@ -13051,7 +13032,7 @@
     "id": "gh:theglenn/jmdict-fst",
     "lc": "2026-05",
     "n": "jmdict-fst",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13067,7 +13048,7 @@
     "id": "gh:yomidevs/jmdict-yomitan",
     "lc": "2026-05",
     "n": "jmdict-yomitan",
-    "ns": 6.54,
+    "ns": 6.59,
     "s": [
       "Multilinguality",
       "Annotation and Dataset Development",
@@ -13085,7 +13066,7 @@
     "id": "gh:tiwanari/emoticon",
     "lc": "2020-05",
     "n": "emoticon",
-    "ns": 4.36,
+    "ns": 4.39,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13101,7 +13082,7 @@
     "id": "gh:tk-yasuno/selective-rag-kasensabo",
     "lc": "2025-11",
     "n": "selective-rag-kasensabo",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -13117,7 +13098,7 @@
     "id": "gh:tkscode/pynormalizenumexp",
     "lc": "2024-04",
     "n": "pynormalizenumexp",
-    "ns": 2.49,
+    "ns": 2.5,
     "pt": 16000,
     "pw": 41,
     "s": [
@@ -13136,7 +13117,7 @@
     "id": "gh:tmu-nlp/japanesewordsimilaritydataset",
     "lc": "2021-12",
     "n": "JapaneseWordSimilarityDataset",
-    "ns": 5.25,
+    "ns": 5.29,
     "s": [
       "Semantic Similarity",
       "Semantic Text Processing"
@@ -13153,7 +13134,7 @@
     "id": "gh:tmu-nlp/twittercorpus",
     "lc": "2026-11",
     "n": "TwitterCorpus",
-    "ns": 3.5,
+    "ns": 3.52,
     "s": [
       "Information Retrieval",
       "Sentiment Analysis"
@@ -13170,7 +13151,7 @@
     "id": "gh:tmu-nlp/simple-jppdb",
     "lc": "2017-03",
     "n": "simple-jppdb",
-    "ns": 3.96,
+    "ns": 3.98,
     "s": [
       "Paraphrasing",
       "Text Generation",
@@ -13188,7 +13169,7 @@
     "id": "gh:togatoga/kanpyo",
     "lc": "2026-02",
     "n": "kanpyo",
-    "ns": 5.32,
+    "ns": 5.35,
     "pt": 2500,
     "s": [
       "Syntactic Text Processing",
@@ -13208,7 +13189,7 @@
     "id": "gh:togatoga/karukan",
     "lc": "2026-11",
     "n": "karukan",
-    "ns": 7.48,
+    "ns": 7.54,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13224,7 +13205,7 @@
     "id": "gh:togiso/openchj-genji",
     "lc": "2025-03",
     "n": "openchj-genji",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -13241,7 +13222,7 @@
     "id": "gh:tokuhirom/jawiki-kana-kanji-dict",
     "lc": "2026-11",
     "n": "jawiki-kana-kanji-dict",
-    "ns": 4.74,
+    "ns": 4.77,
     "s": [
       "Syntactic Text Processing",
       "Morphology",
@@ -13259,7 +13240,7 @@
     "id": "gh:tomo-vv/temporalnli_dataset",
     "lc": "2023-07",
     "n": "temporalNLI_dataset",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Responsible & Trustworthy NLP",
       "Language Models",
@@ -13278,7 +13259,7 @@
     "id": "gh:tomokane/mecab-dic-converter",
     "lc": "2026-05",
     "n": "mecab-dic-converter",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -13292,7 +13273,7 @@
     "id": "gh:tonnetonne814/pl-bert-vits2",
     "lc": "2023-12",
     "n": "pl-bert-vits2",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [],
     "sc": 0.0,
     "st": 14,
@@ -13306,7 +13287,7 @@
     "id": "gh:tos-kamiya/tra-fugu",
     "lc": "2023-03",
     "n": "tra-fugu",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -13324,7 +13305,7 @@
     "id": "gh:tosiyuki/llava-jp",
     "lc": "2024-06",
     "n": "LLaVA-JP",
-    "ns": 4.72,
+    "ns": 4.75,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing",
@@ -13342,7 +13323,7 @@
     "id": "gh:tosiyuki/llm-jp-asr",
     "lc": "2024-09",
     "n": "llm-jp-asr",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -13358,7 +13339,7 @@
     "id": "gh:toufu-24/substring-word-finder",
     "lc": "2025-11",
     "n": "substring-word-finder",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -13374,7 +13355,7 @@
     "id": "gh:tshatrov/ichiran",
     "lc": "2026-10",
     "n": "ichiran",
-    "ns": 6.82,
+    "ns": 6.87,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -13390,7 +13371,7 @@
     "id": "gh:tsmatz/huggingface-finetune-japanese",
     "lc": "2023-10",
     "n": "huggingface-finetune-japanese",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Language Models",
       "Semantic Text Processing"
@@ -13407,7 +13388,7 @@
     "id": "gh:tsukumijima/marine-plus",
     "lc": "2026-11",
     "n": "marine-plus",
-    "ns": 2.6,
+    "ns": 2.62,
     "pt": 15000,
     "pw": 151,
     "s": [],
@@ -13423,7 +13404,7 @@
     "id": "gh:tsukumijima/pyopenjtalk-plus",
     "lc": "2026-11",
     "n": "pyopenjtalk-plus",
-    "ns": 4.76,
+    "ns": 4.79,
     "pt": 813000,
     "pw": 39000,
     "s": [],
@@ -13439,7 +13420,7 @@
     "id": "gh:tsurai/mecab-rs",
     "lc": "2023-09",
     "n": "mecab-rs",
-    "ns": 4.85,
+    "ns": 4.89,
     "pt": 42000,
     "s": [
       "Syntactic Text Processing",
@@ -13459,7 +13440,7 @@
     "id": "gh:tsuruoka-lab/ami-meeting-parallel-corpus",
     "lc": "2020-12",
     "n": "AMI-Meeting-Parallel-Corpus",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [
       "Multilinguality",
       "Speech & Audio in NLP",
@@ -13478,7 +13459,7 @@
     "id": "gh:tsuruoka-lab/bsd",
     "lc": "2021-11",
     "n": "BSD",
-    "ns": 4.93,
+    "ns": 4.96,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents",
@@ -13496,7 +13477,7 @@
     "id": "gh:ttop32/jmtrans",
     "lc": "2021-01",
     "n": "JMTrans",
-    "ns": 5.07,
+    "ns": 5.1,
     "s": [
       "Multilinguality",
       "Visual Data in NLP",
@@ -13516,7 +13497,7 @@
     "id": "gh:tuem/resembla",
     "lc": "2025-08",
     "n": "resembla",
-    "ns": 4.88,
+    "ns": 4.92,
     "s": [
       "Semantic Similarity",
       "Semantic Text Processing"
@@ -13533,7 +13514,7 @@
     "id": "gh:tuem/trimatch",
     "lc": "2026-02",
     "n": "trimatch",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Information Retrieval",
       "Indexing"
@@ -13550,7 +13531,7 @@
     "id": "gh:twada/japanese-numerals-to-number",
     "lc": "2023-02",
     "n": "japanese-numerals-to-number",
-    "ns": 4.63,
+    "ns": 4.66,
     "pt": 3700000,
     "pw": 78000,
     "s": [
@@ -13569,7 +13550,7 @@
     "id": "gh:tysonwu/japanki",
     "lc": "2023-10",
     "n": "japanki",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13585,7 +13566,7 @@
     "id": "gh:u-masao/pocket-researcher",
     "lc": "2025-04",
     "n": "pocket-researcher",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [],
     "sc": 0.0,
     "st": 10,
@@ -13599,7 +13580,7 @@
     "id": "gh:uasi/skk-emoji-jisyo",
     "lc": "2025-01",
     "n": "skk-emoji-jisyo",
-    "ns": 5.64,
+    "ns": 5.68,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13615,7 +13596,7 @@
     "id": "gh:uec-inabalab/kokorochat",
     "lc": "2026-05",
     "n": "kokorochat",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Annotation and Dataset Development",
       "Dialogue Systems & Conversational Agents"
@@ -13632,7 +13613,7 @@
     "id": "gh:ueno/libkkc",
     "lc": "2024-08",
     "n": "libkkc",
-    "ns": 5.39,
+    "ns": 5.42,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -13650,7 +13631,7 @@
     "id": "gh:ueno/libskk",
     "lc": "2026-10",
     "n": "libskk",
-    "ns": 5.24,
+    "ns": 5.28,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -13667,7 +13648,7 @@
     "id": "gh:uezo/chatdollkit",
     "lc": "2026-03",
     "n": "ChatdollKit",
-    "ns": 8.02,
+    "ns": 8.08,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
@@ -13684,7 +13665,7 @@
     "id": "gh:uezo/aiavatarkit",
     "lc": "2026-10",
     "n": "aiavatarkit",
-    "ns": 7.41,
+    "ns": 7.46,
     "s": [
       "Natural Language Interfaces",
       "Dialogue Systems & Conversational Agents"
@@ -13701,7 +13682,7 @@
     "id": "gh:unilight/jatts",
     "lc": "2026-03",
     "n": "jatts",
-    "ns": 4.31,
+    "ns": 4.34,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization"
@@ -13718,7 +13699,7 @@
     "id": "gh:universaldependencies/ud_japanese-bccwj",
     "lc": "2026-05",
     "n": "ud_japanese-bccwj",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Annotation and Dataset Development",
       "Named Entity Recognition",
@@ -13736,7 +13717,7 @@
     "id": "gh:upura/nlp-recipes-ja",
     "lc": "2021-04",
     "n": "nlp-recipes-ja",
-    "ns": 4.76,
+    "ns": 4.79,
     "s": [
       "Syntactic Text Processing",
       "Text Segmentation"
@@ -13753,7 +13734,7 @@
     "id": "gh:upura/nlp100v2025",
     "lc": "2025-04",
     "n": "nlp100v2025",
-    "ns": 5.13,
+    "ns": 5.16,
     "s": [],
     "sc": -0.085,
     "st": 92,
@@ -13767,7 +13748,7 @@
     "id": "gh:uribo/isbn4groups",
     "lc": "2024-06",
     "n": "isbn4groups",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -13783,7 +13764,7 @@
     "id": "gh:utubo/mh-dict-jp",
     "lc": "2025-04",
     "n": "mh-dict-jp",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -13800,7 +13781,7 @@
     "id": "gh:utuhiro78/mozcdic-ut-jawiki",
     "lc": "2026-10",
     "n": "mozcdic-ut-jawiki",
-    "ns": 3.99,
+    "ns": 4.02,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13816,7 +13797,7 @@
     "id": "gh:utuhiro78/mozcdic-ut-personal-names",
     "lc": "2026-10",
     "n": "mozcdic-ut-personal-names",
-    "ns": 3.81,
+    "ns": 3.84,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13832,7 +13813,7 @@
     "id": "gh:utuhiro78/mozcdic-ut-place-names",
     "lc": "2026-10",
     "n": "mozcdic-ut-place-names",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -13849,7 +13830,7 @@
     "id": "gh:utuhiro78/mozcdic-ut-sudachidict",
     "lc": "2026-10",
     "n": "mozcdic-ut-sudachidict",
-    "ns": 3.64,
+    "ns": 3.67,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13865,7 +13846,7 @@
     "id": "gh:verypluming/jsick",
     "lc": "2023-05",
     "n": "JSICK",
-    "ns": 4.36,
+    "ns": 4.39,
     "s": [
       "Textual Inference",
       "Semantic Text Processing",
@@ -13883,7 +13864,7 @@
     "id": "gh:verypluming/janli",
     "lc": "2023-05",
     "n": "JaNLI",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Responsible & Trustworthy NLP",
       "Reasoning",
@@ -13902,7 +13883,7 @@
     "id": "gh:verypluming/japanesenli",
     "lc": "2021-06",
     "n": "JapaneseNLI",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -13918,7 +13899,7 @@
     "id": "gh:voicevox/kanalizer",
     "lc": "2026-05",
     "n": "kanalizer",
-    "ns": 3.92,
+    "ns": 3.95,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -13935,7 +13916,7 @@
     "id": "gh:wandb/heron-vlm-leaderboard",
     "lc": "2024-12",
     "n": "heron-vlm-leaderboard",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Language Models"
     ],
@@ -13951,7 +13932,7 @@
     "id": "gh:wandb/llm-leaderboard",
     "lc": "2026-05",
     "n": "llm-leaderboard",
-    "ns": 5.16,
+    "ns": 5.2,
     "s": [],
     "sc": -0.088,
     "st": 95,
@@ -13965,7 +13946,7 @@
     "id": "gh:webbigdata-jp/jtransbench",
     "lc": "2025-10",
     "n": "jtransbench",
-    "ns": 2.99,
+    "ns": 3.01,
     "s": [],
     "sc": 0.0,
     "st": 13,
@@ -13979,7 +13960,7 @@
     "id": "gh:whym/anlp-jp-history",
     "lc": "2024-04",
     "n": "anlp-jp-history",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Annotation and Dataset Development",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -13996,7 +13977,7 @@
     "id": "gh:wikiwikification/jawikicorpus",
     "lc": "2018-11",
     "n": "jawikicorpus",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14012,7 +13993,7 @@
     "id": "gh:wikiwikification/jawikivec",
     "lc": "2018-11",
     "n": "jawikivec",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Representation Learning",
       "Knowledge Representation",
@@ -14030,7 +14011,7 @@
     "id": "gh:willnet/gimei",
     "lc": "2026-11",
     "n": "gimei",
-    "ns": 6.85,
+    "ns": 6.9,
     "s": [
       "Syntactic Text Processing",
       "Text Generation"
@@ -14047,7 +14028,7 @@
     "id": "gh:worksapplications/elasticsearch-sudachi",
     "lc": "2026-06",
     "n": "elasticsearch-sudachi",
-    "ns": 6.1,
+    "ns": 6.14,
     "s": [
       "Syntactic Text Processing",
       "Information Retrieval"
@@ -14064,7 +14045,7 @@
     "id": "gh:wtnv-lab/tweetmapping",
     "lc": "2026-03",
     "n": "tweetMapping",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -14081,7 +14062,7 @@
     "id": "gh:wwwcojp/ja_sentence_segmenter",
     "lc": "2026-11",
     "n": "ja_sentence_segmenter",
-    "ns": 4.91,
+    "ns": 4.95,
     "pt": 292000,
     "pw": 4000,
     "s": [
@@ -14100,7 +14081,7 @@
     "id": "gh:xorgy/anthy",
     "lc": "2013-07",
     "n": "anthy",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -14116,7 +14097,7 @@
     "id": "gh:y-koj/ibus-jig",
     "lc": "2023-12",
     "n": "ibus-jig",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [],
     "sc": 0.0,
     "st": 4,
@@ -14130,7 +14111,7 @@
     "id": "gh:yagays/embedrank",
     "lc": "2019-03",
     "n": "embedrank",
-    "ns": 4.4,
+    "ns": 4.43,
     "s": [
       "Representation Learning",
       "Syntactic Text Processing",
@@ -14148,7 +14129,7 @@
     "id": "gh:yagays/emoji-ja",
     "lc": "2025-03",
     "n": "emoji-ja",
-    "ns": 5.01,
+    "ns": 5.05,
     "s": [
       "Syntactic Text Processing",
       "Morphology",
@@ -14166,7 +14147,7 @@
     "id": "gh:yagays/ja-icd10",
     "lc": "2021-07",
     "n": "ja-icd10",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": 0.0,
     "st": 5,
@@ -14180,7 +14161,7 @@
     "id": "gh:yagays/ja-timex",
     "lc": "2023-11",
     "n": "ja-timex",
-    "ns": 5.6,
+    "ns": 5.64,
     "pt": 145000,
     "pw": 791,
     "s": [
@@ -14200,7 +14181,7 @@
     "id": "gh:yagays/kanjivg-radical",
     "lc": "2018-08",
     "n": "kanjivg-radical",
-    "ns": 5.3,
+    "ns": 5.33,
     "s": [],
     "sc": 0.0,
     "st": 107,
@@ -14214,7 +14195,7 @@
     "id": "gh:yagays/manbyo-sudachi",
     "lc": "2021-04",
     "n": "manbyo-sudachi",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Multilinguality",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -14231,7 +14212,7 @@
     "id": "gh:yagays/nayose-wikipedia-ja",
     "lc": "2020-03",
     "n": "nayose-wikipedia-ja",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Information Extraction & Text Mining",
       "Coreference Resolution",
@@ -14250,7 +14231,7 @@
     "id": "gh:yagays/pretrained_doc2vec_ja",
     "lc": "2019-01",
     "n": "pretrained_doc2vec_ja",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [
       "Language Models"
     ],
@@ -14266,7 +14247,7 @@
     "id": "gh:yagays/pytorch_bert_japanese",
     "lc": "2019-06",
     "n": "pytorch_bert_japanese",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Visual Data in NLP",
       "Language Models",
@@ -14285,7 +14266,7 @@
     "id": "gh:yagays/yat",
     "lc": "2018-06",
     "n": "yat",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [],
     "sc": 0.0,
     "st": 7,
@@ -14304,7 +14285,7 @@
     "id": "gh:yahoojapan/jglue",
     "lc": "2025-03",
     "n": "JGLUE",
-    "ns": 6.63,
+    "ns": 6.67,
     "s": [
       "Responsible & Trustworthy NLP",
       "Language Models",
@@ -14324,7 +14305,7 @@
     "id": "gh:yahoojapan/ja-vg-vqa",
     "lc": "2018-11",
     "n": "ja-vg-vqa",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14340,7 +14321,7 @@
     "id": "gh:yahoojapan/yjcaptions",
     "lc": "2016-11",
     "n": "yjcaptions",
-    "ns": 4.65,
+    "ns": 4.68,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14356,7 +14337,7 @@
     "id": "gh:yamachig/lawtext",
     "lc": "2026-10",
     "n": "lawtext",
-    "ns": 5.23,
+    "ns": 5.27,
     "s": [
       "Linguistics & Cognitive NLP"
     ],
@@ -14372,7 +14353,7 @@
     "id": "gh:yamagoya/jconj",
     "lc": "2020-05",
     "n": "jconj",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14388,7 +14369,7 @@
     "id": "gh:yamamaya/radicalchar",
     "lc": "2022-12",
     "n": "radicalchar",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -14405,7 +14386,7 @@
     "id": "gh:yantaisa11/retrieval-based-voice-conversion-webui-jp-localization",
     "lc": "2023-04",
     "n": "Retrieval-based-Voice-Conversion-WebUI-JP-localization",
-    "ns": 4.38,
+    "ns": 4.41,
     "s": [
       "Syntactic Text Processing"
     ],
@@ -14421,7 +14402,7 @@
     "id": "gh:yas-sim/handwritten-japanese-ocr",
     "lc": "2022-04",
     "n": "handwritten-japanese-ocr",
-    "ns": 4.12,
+    "ns": 4.14,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -14438,7 +14419,7 @@
     "id": "gh:yisusdev2005/simple-ocr-for-manga",
     "lc": "2025-03",
     "n": "simple-ocr-for-manga",
-    "ns": 2.35,
+    "ns": 2.37,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -14455,7 +14436,7 @@
     "id": "gh:ymrl/skk-jisyo.emoji-ja",
     "lc": "2018-03",
     "n": "skk-jisyo.emoji-ja",
-    "ns": 3.88,
+    "ns": 3.91,
     "s": [
       "Visual Data in NLP",
       "Multimodality"
@@ -14472,7 +14453,7 @@
     "id": "gh:ymym3412/chariot-pytorch-japanese-text-classification",
     "lc": "2019-03",
     "n": "chariot-PyTorch-Japanese-text-classification",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [
       "Information Extraction & Text Mining",
       "Information Retrieval",
@@ -14506,7 +14487,7 @@
     "id": "gh:yocjyet/wlsp-classical",
     "lc": "2025-11",
     "n": "wlsp-classical",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14522,7 +14503,7 @@
     "id": "gh:yoheikikuta/bert-japanese",
     "lc": "2021-02",
     "n": "bert-japanese",
-    "ns": 7.02,
+    "ns": 7.07,
     "s": [
       "Representation Learning",
       "Language Models",
@@ -14540,7 +14521,7 @@
     "id": "gh:yoheikikuta/support-genai-book",
     "lc": "2026-08",
     "n": "support-genai-book",
-    "ns": 5.29,
+    "ns": 5.32,
     "s": [],
     "sc": 0.0,
     "st": 106,
@@ -14554,7 +14535,7 @@
     "id": "gh:yohokuno/jsc",
     "lc": "2012-12",
     "n": "jsc",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [
       "Multilinguality",
       "Syntactic Text Processing",
@@ -14572,7 +14553,7 @@
     "id": "gh:yohokuno/neural_ime",
     "lc": "2016-12",
     "n": "neural_ime",
-    "ns": 4.77,
+    "ns": 4.81,
     "s": [
       "Syntactic Text Processing",
       "Vocabulary, Dictionary, and Language Input Method"
@@ -14589,7 +14570,7 @@
     "id": "gh:yoriyuki/nksnd",
     "lc": "2018-05",
     "n": "nksnd",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -14607,7 +14588,7 @@
     "id": "gh:yoshino/jp-ocr-evaluation",
     "lc": "2024-03",
     "n": "jp-ocr-evaluation",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Visual Data in NLP"
     ],
@@ -14623,7 +14604,7 @@
     "id": "gh:yosina-lib/yosina",
     "lc": "2026-04",
     "n": "yosina",
-    "ns": 3.77,
+    "ns": 3.8,
     "s": [
       "Text Normalization"
     ],
@@ -14639,7 +14620,7 @@
     "id": "gh:youichiro/transformer-copy",
     "lc": "2020-09",
     "n": "transformer-copy",
-    "ns": 3.85,
+    "ns": 3.87,
     "s": [
       "Phonology",
       "Annotation and Dataset Development"
@@ -14656,7 +14637,7 @@
     "id": "gh:youmima/jacred",
     "lc": "2024-03",
     "n": "jacred",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [
       "Term Extraction",
       "Information Extraction & Text Mining",
@@ -14674,7 +14655,7 @@
     "id": "gh:yuibi/spacy_tutorial",
     "lc": "2020-01",
     "n": "spacy_tutorial",
-    "ns": 4.74,
+    "ns": 4.77,
     "s": [
       "Multilinguality",
       "Language Models",
@@ -14692,7 +14673,7 @@
     "id": "gh:yuiseki/nlp2025-tutorial-2",
     "lc": "2026-02",
     "n": "nlp2025-tutorial-2",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Responsible & Trustworthy NLP"
     ],
@@ -14708,7 +14689,7 @@
     "id": "gh:yukaryavka/rinna_gpt-neox_ggml-lora",
     "lc": "2023-05",
     "n": "rinna_gpt-neox_ggml-lora",
-    "ns": 3.39,
+    "ns": 3.41,
     "s": [
       "Syntactic Text Processing",
       "Language Models",
@@ -14726,7 +14707,7 @@
     "id": "gh:yush02084/medical-paper-summarizer-public",
     "lc": "2026-04",
     "n": "medical-paper-summarizer-public",
-    "ns": 3.44,
+    "ns": 3.47,
     "s": [],
     "sc": 0.0,
     "st": 20,
@@ -14740,7 +14721,7 @@
     "id": "gh:yusugomori/jesc_small",
     "lc": "2019-07",
     "n": "jesc_small",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -14759,7 +14740,7 @@
     "id": "gh:yuta1984/honkoku-data",
     "lc": "2026-11",
     "n": "honkoku-data",
-    "ns": 3.6,
+    "ns": 3.62,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14775,7 +14756,7 @@
     "id": "gh:yuukimiyo/generalpolicyspeechofprimeministerofjapan",
     "lc": "2020-01",
     "n": "GeneralPolicySpeechOfPrimeMinisterOfJapan",
-    "ns": 2.2,
+    "ns": 2.22,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14791,7 +14772,7 @@
     "id": "gh:yuukitoriyama/japanese-address-parser",
     "lc": "2026-11",
     "n": "japanese-address-parser",
-    "ns": 3.06,
+    "ns": 3.08,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14807,7 +14788,7 @@
     "id": "gh:yuukitoriyama/merged-town-names",
     "lc": "2022-05",
     "n": "merged-town-names",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [
       "Annotation and Dataset Development"
     ],
@@ -14823,7 +14804,7 @@
     "id": "gh:yuyay/chainer_nic",
     "lc": "2018-12",
     "n": "chainer_nic",
-    "ns": 3.27,
+    "ns": 3.29,
     "s": [
       "Multilinguality",
       "Visual Data in NLP",
@@ -14844,7 +14825,7 @@
     "id": "gh:yuzu-ai/japanese-llm-ranking",
     "lc": "2024-03",
     "n": "japanese-llm-ranking",
-    "ns": 4.45,
+    "ns": 4.48,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -14860,7 +14841,7 @@
     "id": "gh:zassou65535/vits",
     "lc": "2023-02",
     "n": "vits",
-    "ns": 5.14,
+    "ns": 5.17,
     "s": [
       "Multimodality"
     ],
@@ -14876,7 +14857,7 @@
     "id": "gh:zbller/mecari",
     "lc": "2025-09",
     "n": "Mecari",
-    "ns": 4.23,
+    "ns": 4.26,
     "s": [
       "Morphology",
       "Syntactic Text Processing"
@@ -14893,7 +14874,7 @@
     "id": "gh:zeimu-ai/open-zeimu-mcp",
     "lc": "2026-06",
     "n": "open-zeimu-mcp",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -14907,7 +14888,7 @@
     "id": "gh:zhang-jinyi/web-crawled-corpus-for-japanese-chinese-nmt",
     "lc": "2023-09",
     "n": "Web-Crawled-Corpus-for-Japanese-Chinese-NMT",
-    "ns": 3.21,
+    "ns": 3.23,
     "s": [
       "Multilinguality",
       "Text Generation",
@@ -14926,7 +14907,7 @@
     "id": "gh:zomysan/alkana.py",
     "lc": "2021-10",
     "n": "alkana.py",
-    "ns": 4.05,
+    "ns": 4.08,
     "s": [
       "Syntactic Text Processing",
       "Text Normalization",
@@ -14945,7 +14926,7 @@
     "id": "gh:zuntan03/easylightchatassistant",
     "lc": "2024-04",
     "n": "easylightchatassistant",
-    "ns": 4.4,
+    "ns": 4.43,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -14961,7 +14942,7 @@
     "id": "gh:zuntan03/easyllasa",
     "lc": "2025-09",
     "n": "easyllasa",
-    "ns": 3.73,
+    "ns": 3.75,
     "s": [],
     "sc": 0.0,
     "st": 26,
@@ -14975,7 +14956,7 @@
     "id": "gh:zuntan03/easynovelassistant",
     "lc": "2024-07",
     "n": "easynovelassistant",
-    "ns": 6.19,
+    "ns": 6.23,
     "s": [
       "Vocabulary, Dictionary, and Language Input Method"
     ],
@@ -14991,7 +14972,7 @@
     "id": "gh:zuofanf/mini-transformer-from-scratch",
     "lc": "2025-11",
     "n": "mini-transformer-from-scratch",
-    "ns": 1.24,
+    "ns": 1.25,
     "s": [],
     "sc": 0.0,
     "st": 2,
@@ -15005,7 +14986,7 @@
     "id": "gh:llm-jp/llm-jp-moshi",
     "lc": "2026-03",
     "n": "llm-jp-moshi",
-    "ns": 3.69,
+    "ns": 3.71,
     "s": [],
     "sc": 0.0,
     "st": 25,
@@ -15019,7 +15000,7 @@
     "id": "gh:anchori/jlpt-kanji-dictionary",
     "lc": "2025-05",
     "n": "jlpt-kanji-dictionary",
-    "ns": 4.26,
+    "ns": 4.28,
     "s": [],
     "sc": 0.0,
     "st": 42,
@@ -15047,7 +15028,7 @@
     "id": "gh:interfacex-co-jp/genshijin",
     "lc": "2026-08",
     "n": "genshijin",
-    "ns": 6.57,
+    "ns": 6.62,
     "s": [],
     "sc": 0.0,
     "st": 333,
@@ -15075,7 +15056,7 @@
     "id": "gh:sserada/fuseji",
     "lc": "2026-06",
     "n": "fuseji",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -15089,7 +15070,7 @@
     "id": "gh:seanmcbroom/jmdictsqlite",
     "lc": "2026-11",
     "n": "JMdictSQLite",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": 0.0,
     "st": 5,
@@ -15103,7 +15084,7 @@
     "id": "gh:btrkeks/jp-deinflector",
     "lc": "2026-07",
     "n": "jp-deinflector",
-    "ns": 2.49,
+    "ns": 2.5,
     "s": [],
     "sc": 0.0,
     "st": 8,
@@ -15131,7 +15112,7 @@
     "id": "gh:tagucci/moine",
     "lc": "2026-09",
     "n": "moine",
-    "ns": 2.71,
+    "ns": 2.73,
     "s": [],
     "sc": 0.0,
     "st": 10,
@@ -15145,7 +15126,7 @@
     "id": "gh:baneido/jp-pii-detector",
     "lc": "2026-11",
     "n": "jp-pii-detector",
-    "ns": 1.82,
+    "ns": 1.83,
     "s": [],
     "sc": 0.0,
     "st": 4,
@@ -15159,7 +15140,7 @@
     "id": "gh:pfnet-research/pfgen-bench",
     "lc": "2026-08",
     "n": "pfgen-bench",
-    "ns": 5.33,
+    "ns": 5.36,
     "s": [],
     "sc": 0.0,
     "st": 110,
@@ -15173,7 +15154,7 @@
     "id": "gh:sbintuitions/j-tau-bench",
     "lc": "2026-10",
     "n": "j-tau-bench",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [],
     "sc": 0.0,
     "st": 15,
@@ -15187,7 +15168,7 @@
     "id": "gh:pfnet-research/bbh-ja",
     "lc": "2025-07",
     "n": "bbh-ja",
-    "ns": 2.03,
+    "ns": 2.04,
     "s": [],
     "sc": 0.0,
     "st": 5,
@@ -15201,7 +15182,7 @@
     "id": "gh:pfnet-research/jfbench",
     "lc": "2026-11",
     "n": "jfbench",
-    "ns": 3.14,
+    "ns": 3.16,
     "s": [],
     "sc": 0.0,
     "st": 15,
@@ -15215,7 +15196,7 @@
     "id": "gh:kimushun1101/mikke",
     "lc": "2026-11",
     "n": "mikke",
-    "ns": 4.43,
+    "ns": 4.46,
     "s": [],
     "sc": 0.0,
     "st": 49,
@@ -15229,7 +15210,7 @@
     "id": "gh:t3tra-dev/bpe2regex",
     "lc": "2026-08",
     "n": "bpe2regex",
-    "ns": 2.6,
+    "ns": 2.62,
     "s": [],
     "sc": 0.0,
     "st": 9,
@@ -15243,7 +15224,7 @@
     "id": "gh:nwiizo/suiko",
     "lc": "2026-10",
     "n": "suiko",
-    "ns": 5.38,
+    "ns": 5.41,
     "s": [],
     "sc": 0.0,
     "st": 115,
@@ -15257,7 +15238,7 @@
     "id": "gh:reinehonoka/aica-corpus",
     "lc": "2026-05",
     "n": "aica-corpus",
-    "ns": 3.6,
+    "ns": 3.62,
     "s": [],
     "sc": 0.0,
     "st": 23,
@@ -15271,7 +15252,7 @@
     "id": "gh:vbkaisetsu/daac-bpe",
     "lc": "2026-08",
     "n": "daac-bpe",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [],
     "sc": 0.0,
     "st": 3,
@@ -15285,7 +15266,7 @@
     "id": "gh:ayutaz/sanotts-jp",
     "lc": "2026-10",
     "n": "sanoTTS-jp",
-    "ns": 4.82,
+    "ns": 4.86,
     "s": [],
     "sc": 0.0,
     "st": 70,
@@ -15299,7 +15280,7 @@
     "id": "gh:worksapplications/sudachi",
     "lc": "2026-09",
     "n": "Sudachi",
-    "ns": 7.82,
+    "ns": 7.87,
     "s": [],
     "sc": 0.0,
     "st": 1000,
@@ -15313,7 +15294,7 @@
     "id": "gh:hpprc/bert-classification-tutorial",
     "lc": "2024-05",
     "n": "bert-classification-tutorial",
-    "ns": 6.17,
+    "ns": 6.21,
     "s": [],
     "sc": 0.0,
     "st": 232,
@@ -15327,7 +15308,7 @@
     "id": "gh:ryota-komatsu/slp2025",
     "lc": "2026-04",
     "n": "slp2025",
-    "ns": 4.74,
+    "ns": 4.77,
     "s": [],
     "sc": 0.0,
     "st": 65,
@@ -15341,7 +15322,7 @@
     "id": "gh:uehaj/sys1grep",
     "lc": "2026-11",
     "n": "sys1grep",
-    "ns": 5.68,
+    "ns": 5.71,
     "s": [],
     "sc": 0.0,
     "st": 150,
@@ -15355,7 +15336,7 @@
     "id": "gh:kzkhykw/jev-auto-ime",
     "lc": "2026-09",
     "n": "jev-auto-ime",
-    "ns": 2.9,
+    "ns": 2.92,
     "s": [],
     "sc": 0.0,
     "st": 12,
@@ -15369,7 +15350,7 @@
     "id": "gh:yoshitakaoyama/jpnorm",
     "lc": "2026-10",
     "n": "jpnorm",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -15383,7 +15364,7 @@
     "id": "gh:holotherapper/adlib",
     "lc": "2026-04",
     "n": "adlib",
-    "ns": 1.57,
+    "ns": 1.58,
     "s": [],
     "sc": 0.0,
     "st": 3,
@@ -15397,7 +15378,7 @@
     "id": "gh:nanaism/yomiyasu",
     "lc": "2026-11",
     "n": "yomiyasu",
-    "ns": 8.9,
+    "ns": 8.96,
     "s": [],
     "sc": 0.0,
     "st": 2600,
@@ -15411,7 +15392,7 @@
     "id": "gh:yksr-melt/meltype",
     "lc": "2026-11",
     "n": "Meltype",
-    "ns": 8.2,
+    "ns": 8.25,
     "s": [],
     "sc": 0.0,
     "st": 1400,
@@ -15425,7 +15406,7 @@
     "id": "gh:nishika-inc/jmeeteval",
     "lc": "2026-08",
     "n": "jmeeteval",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -15439,7 +15420,7 @@
     "id": "gh:kojikojikojikoji/natural-japanese-writing",
     "lc": "2026-10",
     "n": "natural-japanese-writing",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -15453,7 +15434,7 @@
     "id": "gh:rakuyou211-blip/texttovoicevox",
     "lc": "2026-11",
     "n": "TextToVoicevox",
-    "ns": 0.78,
+    "ns": 0.79,
     "s": [],
     "sc": 0.0,
     "st": 1,
@@ -15467,7 +15448,7 @@
     "id": "gh:coji/natural-japanese",
     "lc": "2026-11",
     "n": "natural-japanese",
-    "ns": 8.6,
+    "ns": 8.66,
     "s": [],
     "sc": 0.0,
     "st": 2000,
@@ -15481,7 +15462,7 @@
     "id": "gh:iron-mukakin/emoji-tts",
     "lc": "2026-10",
     "n": "Emoji-TTS",
-    "ns": 4.49,
+    "ns": 4.52,
     "s": [],
     "sc": 0.0,
     "st": 52,
@@ -15495,7 +15476,7 @@
     "id": "gh:aivis-project/aivisspeech-engine",
     "lc": "2026-11",
     "n": "AivisSpeech-Engine",
-    "ns": 5.91,
+    "ns": 5.95,
     "s": [],
     "sc": 0.0,
     "st": 185,
@@ -15509,7 +15490,7 @@
     "id": "gh:itsupera/onsei",
     "lc": "2026-08",
     "n": "onsei",
-    "ns": 4.23,
+    "ns": 4.26,
     "s": [],
     "sc": 0.0,
     "st": 41,
@@ -15523,7 +15504,7 @@
     "id": "gh:itsupera/furiganalyse",
     "lc": "2026-02",
     "n": "furiganalyse",
-    "ns": 5.16,
+    "ns": 5.2,
     "s": [],
     "sc": 0.0,
     "st": 95,
@@ -15537,12 +15518,26 @@
     "id": "gh:hockyy/miteiru",
     "lc": "2026-11",
     "n": "miteiru",
-    "ns": 5.43,
+    "ns": 5.46,
     "s": [],
     "sc": 0.0,
     "st": 120,
     "status": "ok",
     "u": "https://github.com/hockyy/miteiru"
+  },
+  {
+    "c": "Python library",
+    "d": "Japanese furigana dictionary for community management (for the furigana library)",
+    "d_ja": "コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)",
+    "id": "gh:ryuuneko1107/ja-furigana-dict",
+    "lc": "2026-11",
+    "n": "ja-furigana-dict",
+    "ns": 2.73,
+    "s": [],
+    "sc": 0.0,
+    "st": 10,
+    "status": "ok",
+    "u": "https://github.com/RyuuNeko1107/ja-furigana-dict"
   },
   {
     "c": "HuggingFace Model (Translation)",

@@ -1070,18 +1070,6 @@
                     "zh-hant": "NDLOCR的應用程式"
                 }
             },
-            "https://github.com/clovaai/donut": {
-                "sub_category": "OCR",
-                "repository_name": "donut",
-                "user_name": "clovaai",
-                "description": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
-                "multilingual_descriptions": {
-                    "en": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
-                    "ja": "OCRフリー文書理解トランスフォーマー（Donut）および合成文書ジェネレーター（SynthDoG）の公式実装、ECCV 2022",
-                    "zh-hans": "OCR-free文档理解变压器（Donut）和合成文档生成器（SynthDoG）的官方实现，ECCV 2022",
-                    "zh-hant": "OCR-free文件理解轉換器（Donut）和合成文件生成器（SynthDoG）的官方實施，ECCV 2022"
-                }
-            },
             "https://github.com/ttop32/JMTrans": {
                 "sub_category": "OCR",
                 "repository_name": "JMTrans",

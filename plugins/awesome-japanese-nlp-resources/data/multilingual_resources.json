@@ -238,6 +238,23 @@
   "u": "https://github.com/go-ego/gse"
  },
  {
+  "c": "Multilingual (Tokenization and segmentation)",
+  "d": "🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.",
+  "d_ja": "🐍💯pySBD（Python Sentence Boundary Disambiguation）は、そのまま使えるルールベースの文境界検出ライブラリ。",
+  "id": "gh:nipunsadvilkar/pysbd",
+  "lc": "2021-02",
+  "n": "pySBD",
+  "ns": 7.75,
+  "s": [
+   "Tokenization and segmentation",
+   "Multilingual"
+  ],
+  "sc": 0.0,
+  "st": 943,
+  "status": "ok",
+  "u": "https://github.com/nipunsadvilkar/pySBD"
+ },
+ {
   "c": "Multilingual (Language identification)",
   "d": "Library for fast text representation and classification.",
   "d_ja": "高速なテキスト表現と分類のためのライブラリ。",
@@ -1647,6 +1664,23 @@
   "st": 10827,
   "status": "ok",
   "u": "https://github.com/pymupdf/PyMuPDF"
+ },
+ {
+  "c": "Multilingual (OCR and document AI)",
+  "d": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022.",
+  "d_ja": "OCR を使わない文書理解 Transformer（Donut）と合成文書生成器（SynthDoG）の公式実装（ECCV 2022）。",
+  "id": "gh:clovaai/donut",
+  "lc": "2023-07",
+  "n": "donut",
+  "ns": 10,
+  "s": [
+   "OCR and document AI",
+   "Multilingual"
+  ],
+  "sc": 0.0,
+  "st": 6926,
+  "status": "ok",
+  "u": "https://github.com/clovaai/donut"
  },
  {
   "c": "Multilingual (Embeddings and retrieval)",
