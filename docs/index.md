@@ -9,11 +9,11 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [895件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [475 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
-- [日本語にも対応した多言語ライブラリ・モデル・データセット 158 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
+- [895件の GitHub リポジトリ情報](README.ja.md) を掲載中
+- [475 件の Hugging Face リポジトリ情報 ](huggingface.ja.md) を掲載中
+- [日本語にも対応した多言語ライブラリ・モデル・データセット 158 件の情報](multilingual.ja.md) を掲載中
 
-[English](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+[English](README.en.md) | [日本語 (Japanese) ](README.ja.md) | [繁體中文 (Chinese) ](README.zh-hant.md) | [简体中文 (Chinese) ](README.zh-hans.md)
 
 ## 🎉 The latest additions
 
@@ -74,9 +74,9 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 
 
 ## Contents
- * [Hugging Face](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md)
-   * [Models](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md#models)
-   * [Datasets](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md#datasets)
+ * [Hugging Face](huggingface.md)
+   * [Models](huggingface.md#models)
+   * [Datasets](huggingface.md#datasets)
  * [Python library](#python-library)
    * [Morphology analysis](#morphology-analysis)
    * [Parsing](#parsing)

@@ -1,0 +1,52 @@
+# GitHub Pages builds the site from docs/, so this file (not the one at the
+# repository root) is the site's configuration.
+
+# The theme the site has used so far, set explicitly.
+theme: jekyll-theme-primer
+
+# Writes sitemap.xml so search crawlers can find every page, not just index.
+plugins:
+  - jekyll-sitemap
+
+# Page language for <html lang> and og:locale. Pages not listed are English.
+defaults:
+  - scope:
+      path: "index.md"
+    values:
+      lang: "ja"
+  - scope:
+      path: "README.ja.md"
+    values:
+      lang: "ja"
+  - scope:
+      path: "huggingface.ja.md"
+    values:
+      lang: "ja"
+  - scope:
+      path: "multilingual.ja.md"
+    values:
+      lang: "ja"
+  - scope:
+      path: "README.zh-hans.md"
+    values:
+      lang: "zh-Hans"
+  - scope:
+      path: "huggingface.zh-hans.md"
+    values:
+      lang: "zh-Hans"
+  - scope:
+      path: "multilingual.zh-hans.md"
+    values:
+      lang: "zh-Hans"
+  - scope:
+      path: "README.zh-hant.md"
+    values:
+      lang: "zh-Hant"
+  - scope:
+      path: "huggingface.zh-hant.md"
+    values:
+      lang: "zh-Hant"
+  - scope:
+      path: "multilingual.zh-hant.md"
+    values:
+      lang: "zh-Hant"
