@@ -5,6 +5,8 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+<a href="https://trendshift.io/repositories/112745?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112745" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112745/weekly" alt="taishi-i%2Fawesome-japanese-nlp-resources | Trendshift" width="250" height="55"/></a>
+
 并非专为日语打造、但同样支持日语的多语言库、模型与数据集精选列表。
 本页面收录具备日语具体功能的多语言库、模型与数据集，例如日语语种识别、日语分词器与分析器、日语语音与 OCR 模型，以及数据集中的日语部分。目前共收录158个仓库。
 

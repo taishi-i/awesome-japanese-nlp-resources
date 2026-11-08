@@ -5,6 +5,8 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+<a href="https://trendshift.io/repositories/112745?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112745" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112745/weekly" alt="taishi-i%2Fawesome-japanese-nlp-resources | Trendshift" width="250" height="55"/></a>
+
 A curated list of multilingual libraries, models, and datasets that are not Japanese-specific but also support Japanese
 This page lists multilingual libraries, models and datasets that provide concrete Japanese features, such as Japanese language detection, Japanese tokenizers and analyzers, Japanese speech and OCR models, and Japanese splits of datasets. Currently, it includes 158 repositories.
 

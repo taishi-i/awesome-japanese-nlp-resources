@@ -5,6 +5,8 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+<a href="https://trendshift.io/repositories/112745?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112745" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112745/weekly" alt="taishi-i%2Fawesome-japanese-nlp-resources | Trendshift" width="250" height="55"/></a>
+
 日本語専用ではないものの日本語にも対応した、多言語ライブラリ・モデル・データセットを厳選してまとめた一覧です。
 このページでは、日本語の言語判定、日本語トークナイザーやアナライザー、日本語の音声・OCRモデル、データセットの日本語分割など、日本語向けの具体的な機能を備えた多言語ライブラリ・モデル・データセットを掲載しています。現在、158件のリポジトリを掲載しています。
 
