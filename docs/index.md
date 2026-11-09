@@ -9,8 +9,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [895件の GitHub リポジトリ情報](README.ja.md) を掲載中
-- [475 件の Hugging Face リポジトリ情報 ](huggingface.ja.md) を掲載中
+- [896件の GitHub リポジトリ情報](README.ja.md) を掲載中
+- [490 件の Hugging Face リポジトリ情報 ](huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 158 件の情報](multilingual.ja.md) を掲載中
 
 [English](README.en.md) | [日本語 (Japanese) ](README.ja.md) | [繁體中文 (Chinese) ](README.zh-hant.md) | [简体中文 (Chinese) ](README.zh-hans.md)
@@ -18,9 +18,9 @@
 ## 🎉 The latest additions
 
 **Python**
- * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
+ * [ndlocr-lite](https://github.com/ndl-lab/ndlocr-lite) - NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
 
-_Updated on Nov 03, 2026_
+_Updated on Nov 10, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -387,6 +387,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [MangaOCR](https://github.com/gnurt2041/MangaOCR) - 日本語テキスト用の軽量なOCRモデル、特にマンガ向け
  * [meikiocr](https://github.com/rtr46/meikiocr) - 高速、高精度、日本のビデオゲーム向けのローカルOCR
  * [meikipop](https://github.com/rtr46/meikipop) - Windows、Linux、およびmacOS用のユニバーサル日本語OCRポップアップ辞書
+ * [ndlocr-lite](https://github.com/ndl-lab/ndlocr-lite) - NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -409,6 +410,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 |[MangaOCR](https://github.com/gnurt2041/MangaOCR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gnurt2041/MangaOCR?style=social)|
 |[meikiocr](https://github.com/rtr46/meikiocr)|[![Downloads](https://pepy.tech/badge/meikiocr/week)](https://pepy.tech/project/meikiocr)|[![Downloads](https://pepy.tech/badge/meikiocr)](https://pepy.tech/project/meikiocr)|![GitHub Repo stars](https://img.shields.io/github/stars/rtr46/meikiocr?style=social)|
 |[meikipop](https://github.com/rtr46/meikipop)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/rtr46/meikipop?style=social)|
+|[ndlocr-lite](https://github.com/ndl-lab/ndlocr-lite)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ndl-lab/ndlocr-lite?style=social)|
 
 
 ### Tool for pretrained models

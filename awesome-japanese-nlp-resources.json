@@ -1226,6 +1226,18 @@
                     "zh-hant": "通用日語OCR彈出式字典，適用於Windows、Linux和macOS"
                 }
             },
+            "https://github.com/ndl-lab/ndlocr-lite": {
+                "sub_category": "OCR",
+                "repository_name": "ndlocr-lite",
+                "user_name": "ndl-lab",
+                "description": "NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)",
+                "multilingual_descriptions": {
+                    "en": "NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)",
+                    "ja": "NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)",
+                    "zh-hans": "NDLOCR-Lite 应用程序存储库（包括源代码）",
+                    "zh-hant": "NDLOCR-Lite 應用程式的儲存庫（包括原始碼）"
+                }
+            },
             "https://github.com/yahoojapan/JGLUE": {
                 "sub_category": "Tool for pretrained models",
                 "repository_name": "JGLUE",
