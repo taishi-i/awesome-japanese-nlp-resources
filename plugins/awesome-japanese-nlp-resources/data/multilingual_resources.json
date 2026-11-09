@@ -38,7 +38,7 @@
   "d": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification.",
   "d_ja": "次の10年のための自然言語処理。単語分割、品詞タグ付け、固有表現認識、統語・意味依存構造解析、文書分類。",
   "id": "gh:hankcs/hanlp",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "HanLP",
   "ns": 10,
   "s": [
@@ -89,7 +89,7 @@
   "d": "State of the Art Natural Language Processing.",
   "d_ja": "最先端の自然言語処理。",
   "id": "gh:johnsnowlabs/spark-nlp",
-  "lc": "2026-09",
+  "lc": "2026-11",
   "n": "spark-nlp",
   "ns": 9.43,
   "s": [
@@ -106,7 +106,7 @@
   "d": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0.",
   "d_ja": "ローカルファーストのヘルスケアAI：完全にオンデバイスで動作する臨床固有表現認識と HIPAA 準拠の個人情報匿名化。2,200以上の医療モデル、21言語、Apple MLX + Python 対応。クラウド不要で、患者データがネットワーク外に出ることはありません。Apache-2.0。",
   "id": "gh:maziyarpanahi/openmed",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "openmed",
   "ns": 9.73,
   "s": [
@@ -174,7 +174,7 @@
   "d": "The home of the ICU project source code.",
   "d_ja": "ICU プロジェクトのソースコードのホーム。",
   "id": "gh:unicode-org/icu",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "icu",
   "ns": 9.27,
   "s": [
@@ -310,7 +310,7 @@
   "d": "The most accurate natural language detection library for Rust, suitable for short text and mixed-language text.",
   "d_ja": "Rust 向けの最も高精度な自然言語判定ライブラリで、短文や多言語混在テキストに適している。",
   "id": "gh:pemistahl/lingua-rs",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "lingua-rs",
   "ns": 7.97,
   "s": [
@@ -361,7 +361,7 @@
   "d": "[EMNLP 2023] 💬 Language Identification with Support for More Than 2000 Labels.",
   "d_ja": "[EMNLP 2023] 💬 2000以上のラベルに対応した言語識別。",
   "id": "gh:cisnlp/glotlid",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "GlotLID",
   "ns": 6.11,
   "s": [
@@ -599,7 +599,7 @@
   "d": "Port of OpenAI's Whisper model in C/C++.",
   "d_ja": "OpenAI の Whisper モデルの C/C++ 移植版。",
   "id": "gh:ggml-org/whisper.cpp",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "whisper.cpp",
   "ns": 10,
   "s": [
@@ -752,7 +752,7 @@
   "d": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces.",
   "d_ja": "音声エージェントやインターフェースの構築に向けた、超低遅延の音声認識・意図認識・音声合成。",
   "id": "gh:moonshine-ai/moonshine",
-  "lc": "2026-08",
+  "lc": "2026-11",
   "n": "moonshine",
   "ns": 10,
   "s": [
@@ -786,7 +786,7 @@
   "d": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
   "d_ja": "大規模言語モデル・マルチモーダル・音声AI（自動音声認識とテキスト読み上げ）に取り組む研究者・開発者向けに構築された、スケーラブルな生成AIフレームワーク。",
   "id": "gh:nvidia-nemo/speech",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "NeMo Speech",
   "ns": 10,
   "s": [
@@ -820,7 +820,7 @@
   "d": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages.",
   "d_ja": "次世代 Kaldi と onnxruntime を用いた、インターネット接続不要の音声認識・音声合成・話者分離・音声強調・音源分離・VAD。組み込みシステム、Android、iOS、HarmonyOS、Raspberry Pi、RISC-V、RK NPU、Axera NPU、Ascend NPU、x86_64サーバー、WebSocketサーバー/クライアントに対応し、12のプログラミング言語をサポート。",
   "id": "gh:k2-fsa/sherpa-onnx",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "sherpa-onnx",
   "ns": 10,
   "s": [
@@ -1041,7 +1041,7 @@
   "d": "SoTA open-source TTS.",
   "d_ja": "最先端のオープンソース音声合成。",
   "id": "gh:resemble-ai/chatterbox",
-  "lc": "2026-07",
+  "lc": "2026-11",
   "n": "chatterbox",
   "ns": 10,
   "s": [
@@ -1160,7 +1160,7 @@
   "d": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
   "d_ja": "わずか1分の音声データでも、優れた音声合成モデルを学習できる！（少数サンプルによる声質クローン）",
   "id": "gh:rvc-boss/gpt-sovits",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "GPT-SoVITS",
   "ns": 10,
   "s": [
@@ -1211,7 +1211,7 @@
   "d": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning.",
   "d_ja": "VoxCPM2：トークナイザー不要の音声合成で、多言語音声生成・クリエイティブな音声デザイン・実物さながらの声質クローンを実現。",
   "id": "gh:openbmb/voxcpm",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "VoxCPM",
   "ns": 10,
   "s": [
@@ -1312,7 +1312,7 @@
   "c": "Multilingual (Speech synthesis)",
   "d": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
   "d_ja": "Apple の MLX フレームワーク上に構築された音声合成（TTS）・音声認識（STT）・音声変換（STS）ライブラリで、Apple Silicon 上で効率的な音声解析を実現。",
-  "id": "gh:blaizzy/mlx-audio",
+  "id": "gh:neywa-labs/mlx-audio",
   "lc": "2026-11",
   "n": "mlx-audio",
   "ns": 10,
@@ -1323,7 +1323,7 @@
   "sc": 0.0,
   "st": 7993,
   "status": "ok",
-  "u": "https://github.com/Blaizzy/mlx-audio"
+  "u": "https://github.com/Neywa-Labs/mlx-audio"
  },
  {
   "c": "Multilingual (Speech synthesis)",
@@ -1364,7 +1364,7 @@
   "d": "Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine.",
   "d_ja": "Confucius4-TTS：多言語・クロスリンガル対応のゼロショット音声合成エンジン。",
   "id": "gh:netease-youdao/confucius4-tts",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "Confucius4-TTS",
   "ns": 7.6,
   "s": [
@@ -1415,7 +1415,7 @@
   "d": "Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM.",
   "d_ja": "T5Gemma エンコーダー・デコーダー型LLMをベースにした、声質クローンと発話時間制御に対応する多言語音声合成モデル。",
   "id": "gh:aratako/t5gemma-tts",
-  "lc": "2026-04",
+  "lc": "2026-11",
   "n": "T5Gemma-TTS",
   "ns": 6.5,
   "s": [
@@ -1500,7 +1500,7 @@
   "d": "OCR, layout analysis, reading order, table recognition in 90+ languages.",
   "d_ja": "90以上の言語に対応したOCR、レイアウト解析、読み順推定、表認識。",
   "id": "gh:datalab-to/surya",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "surya",
   "ns": 10,
   "s": [
@@ -1551,7 +1551,7 @@
   "d": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
   "d_ja": "📄 ONNX Runtime・OpenVINO・MNN・PaddlePaddle・TensorRT・PyTorch をベースにした、複数のプログラミング言語に対応する優れたOCRツールキット。",
   "id": "gh:rapidai/rapidocr",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "RapidOCR",
   "ns": 10,
   "s": [
@@ -1823,7 +1823,7 @@
   "d": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences.",
   "d_ja": "Algolia + Pinecone のオープンソース代替であり、ElasticSearch よりも使いやすい代替でもある ⚡ 🔍 ✨ 快適な検索体験を構築するための、高速でタイポに強いインメモリのあいまい検索エンジン。",
   "id": "gh:typesense/typesense",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "typesense",
   "ns": 10,
   "s": [
@@ -1840,7 +1840,7 @@
   "d": "An embeddable fulltext search engine. Groonga is the successor project to Senna.",
   "d_ja": "組み込み可能な全文検索エンジン。Groonga は Senna の後継プロジェクト。",
   "id": "gh:groonga/groonga",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "groonga",
   "ns": 7.64,
   "s": [
@@ -1857,7 +1857,7 @@
   "d": "PGroonga is a PostgreSQL extension to use Groonga as index. PGroonga makes PostgreSQL fast full text search platform for all languages!",
   "d_ja": "PGroonga は、Groonga をインデックスとして利用する PostgreSQL 拡張機能。PGroonga により、PostgreSQL はあらゆる言語に対応した高速な全文検索プラットフォームになる！",
   "id": "gh:pgroonga/pgroonga",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "pgroonga",
   "ns": 7.49,
   "s": [
@@ -1874,7 +1874,7 @@
   "d": "A MySQL pluggable storage engine based on Groonga.",
   "d_ja": "Groonga をベースにした MySQL 用のプラガブルストレージエンジン。",
   "id": "gh:mroonga/mroonga",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "mroonga",
   "ns": 5.95,
   "s": [
@@ -1891,7 +1891,7 @@
   "d": "The pg_bigm module provides full text search capability in PostgreSQL. This module allows a user to create 2-gram (bigram) index for faster full text search.",
   "d_ja": "pg_bigm モジュールは PostgreSQL に全文検索機能を提供する。このモジュールにより、より高速な全文検索のための2-gram（バイグラム）インデックスを作成できる。",
   "id": "gh:pgbigm/pg_bigm",
-  "lc": "2026-08",
+  "lc": "2026-11",
   "n": "pg_bigm",
   "ns": 5.73,
   "s": [
@@ -2061,7 +2061,7 @@
   "d": "A modern text/numeric/geo-spatial/vector indexing library for go.",
   "d_ja": "Go 向けの、テキスト・数値・地理空間・ベクトルに対応したモダンな索引ライブラリ。",
   "id": "gh:blevesearch/bleve",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "bleve",
   "ns": 10,
   "s": [
@@ -2112,7 +2112,7 @@
   "d": "Text Normalization & Inverse Text Normalization.",
   "d_ja": "テキスト正規化と逆テキスト正規化。",
   "id": "gh:wenet-e2e/wetextprocessing",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "WeTextProcessing",
   "ns": 7.6,
   "s": [
@@ -2146,7 +2146,7 @@
   "d": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
   "d_ja": "eSpeak NG は、100以上の言語・アクセントに対応したオープンソースの音声合成エンジン。",
   "id": "gh:espeak-ng/espeak-ng",
-  "lc": "2026-09",
+  "lc": "2026-11",
   "n": "espeak-ng",
   "ns": 10,
   "s": [
@@ -2265,7 +2265,7 @@
   "d": "A natural language date parser in Javascript.",
   "d_ja": "JavaScript による自然言語の日付パーサー。",
   "id": "gh:wanasit/chrono",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "chrono",
   "ns": 9.7,
   "s": [
@@ -2554,7 +2554,7 @@
   "d": "Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.",
   "d_ja": "プラットフォームに依存しないカスタマイズ可能なパイプライン処理ブロック群を提供することで、データ処理をスクリプトの混沌から解放する。",
   "id": "gh:huggingface/datatrove",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "datatrove",
   "ns": 9.19,
   "s": [
@@ -2622,7 +2622,7 @@
   "d": "Wiktionary dump file parser and multilingual data extractor.",
   "d_ja": "Wiktionary のダンプファイルパーサー兼多言語データ抽出ツール。",
   "id": "gh:tatuylonen/wiktextract",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "wiktextract",
   "ns": 8.09,
   "s": [
@@ -2656,7 +2656,7 @@
   "d": "Module for automatic summarization of text documents and HTML pages.",
   "d_ja": "テキスト文書や HTML ページを自動要約するモジュール。",
   "id": "gh:miso-belica/sumy",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "sumy",
   "ns": 9.29,
   "s": [
@@ -2673,7 +2673,7 @@
   "d": "textlint is the pluggable linter for natural language text.",
   "d_ja": "textlint は、自然言語テキストのためのプラガブルな校正ツール。",
   "id": "gh:textlint/textlint",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "textlint",
   "ns": 9.13,
   "s": [
