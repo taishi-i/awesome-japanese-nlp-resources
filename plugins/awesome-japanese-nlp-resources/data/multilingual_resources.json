@@ -21,7 +21,7 @@
   "d": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages.",
   "d_ja": "トークン化・文分割・固有表現認識、および多数の言語の構文解析のための Stanford NLP の Python ライブラリ。",
   "id": "gh:stanfordnlp/stanza",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "stanza",
   "ns": 10,
   "s": [
@@ -446,7 +446,7 @@
   "d": "Open-source offline translation library written in Python.",
   "d_ja": "Python で書かれたオープンソースのオフライン翻訳ライブラリ。",
   "id": "gh:argosopentech/argos-translate",
-  "lc": "2026-08",
+  "lc": "2026-11",
   "n": "argos-translate",
   "ns": 9.94,
   "s": [
@@ -463,7 +463,7 @@
   "d": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
   "d_ja": "無料でオープンソースの機械翻訳API。セルフホスト可能で、オフライン対応かつ簡単にセットアップできる。",
   "id": "gh:libretranslate/libretranslate",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "LibreTranslate",
   "ns": 10,
   "s": [
@@ -633,7 +633,7 @@
   "d": "OpenAI Whisper-compatible CLI for local multilingual transcription, including Japanese, with batched inference and live microphone input.",
   "d_ja": "OpenAI Whisper 互換の CLI で、日本語を含む多言語音声をローカルで文字起こし。バッチ推論やマイクからのライブ入力に対応。",
   "id": "gh:softcatala/whisper-ctranslate2",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "whisper-ctranslate2",
   "ns": 8.16,
   "s": [
@@ -650,7 +650,7 @@
   "d": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
   "d_ja": "WhisperX：単語レベルのタイムスタンプ（＆話者分離）を備えた自動音声認識。",
   "id": "gh:m-bain/whisperx",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "whisperX",
   "ns": 10,
   "s": [
@@ -837,7 +837,7 @@
   "d": "The icefall project contains speech-related recipes for various datasets using k2-fsa and lhotse.",
   "d_ja": "icefall プロジェクトは、k2-fsa と lhotse を用いた各種データセット向けの音声関連レシピを収録。",
   "id": "gh:k2-fsa/icefall",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "icefall",
   "ns": 8.28,
   "s": [
@@ -888,7 +888,7 @@
   "d": "Fun-ASR speech recognition models, with native Hugging Face Transformers support for Fun-ASR-Nano and separate FunASR, vLLM and llama.cpp deployment paths.",
   "d_ja": "Fun-ASR 音声認識モデル群。Fun-ASR-Nano は Hugging Face Transformers にネイティブ対応し、別途 FunASR・vLLM・llama.cpp によるデプロイ経路も提供。",
   "id": "gh:qwenaudio/fun-asr",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "Fun-ASR",
   "ns": 8.32,
   "s": [
@@ -939,7 +939,7 @@
   "d": "ggml speech-to-text inference for 16+ model families.",
   "d_ja": "16以上のモデルファミリーに対応した ggml による音声認識推論。",
   "id": "gh:handy-computer/transcribe.cpp",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "transcribe.cpp",
   "ns": 8.59,
   "s": [
@@ -1058,7 +1058,7 @@
   "d": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production.",
   "d_ja": "🐸💬 ── 研究・実運用の両方で実績のある、音声合成のためのディープラーニングツールキット。",
   "id": "gh:idiap/coqui-ai-tts",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "coqui-ai-TTS",
   "ns": 8.77,
   "s": [
@@ -1483,7 +1483,7 @@
   "d": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
   "d_ja": "80以上の言語と、ラテン文字・中国語・アラビア語・デーヴァナーガリー・キリル文字などの主要な文字体系に対応した、すぐに使えるOCR。",
   "id": "gh:jaidedai/easyocr",
-  "lc": "2025-12",
+  "lc": "2026-11",
   "n": "EasyOCR",
   "ns": 10,
   "s": [
@@ -1959,7 +1959,7 @@
   "d": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/.",
   "d_ja": "Qdrant ── 次世代AIのための高性能・大規模ベクトルデータベース兼ベクトル検索エンジン。クラウド版（https://cloud.qdrant.io/）も利用可能。",
   "id": "gh:qdrant/qdrant",
-  "lc": "2026-10",
+  "lc": "2026-11",
   "n": "qdrant",
   "ns": 10,
   "s": [
