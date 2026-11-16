@@ -1954,6 +1954,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [adlib](https://github.com/holotherapper/adlib) - ADLIB: Japanese ASR benchmark framework with language-aware evaluation
  * [jmeeteval](https://github.com/nishika-inc/jmeeteval) - J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク
  * [jcola](https://github.com/osekilab/jcola) - JCoLA: Japanese Corpus of Linguistic Acceptability
+ * [JFinTEB](https://github.com/retarfi/JFinTEB) - Japanese Financial Text Embedding Benchmark
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2149,6 +2150,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[adlib](https://github.com/holotherapper/adlib)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/holotherapper/adlib?style=social)|
 |[jmeeteval](https://github.com/nishika-inc/jmeeteval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nishika-inc/jmeeteval?style=social)|
 |[jcola](https://github.com/osekilab/jcola)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/osekilab/jcola?style=social)|
+|[JFinTEB](https://github.com/retarfi/JFinTEB)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/JFinTEB?style=social)|
 
 
 ## Tutorial
