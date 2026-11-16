@@ -10291,6 +10291,30 @@
                     "zh-hans": "J-MeetEval: 指示遵循性评估基准在日语会议任务中的应用",
                     "zh-hant": "J-MeetEval: 日本語會議任務中指示遵循性評估基準"
                 }
+            },
+            "https://github.com/osekilab/jcola": {
+                "sub_category": null,
+                "repository_name": "jcola",
+                "user_name": "osekilab",
+                "description": "JCoLA: Japanese Corpus of Linguistic Acceptability",
+                "multilingual_descriptions": {
+                    "en": "JCoLA: Japanese Corpus of Linguistic Acceptability",
+                    "ja": "JCoLA：日本語の言語受容性コーパス",
+                    "zh-hans": "JCoLA：日语语言可接受性语料库",
+                    "zh-hant": "JCoLA：日語語言可接受性語料庫"
+                }
+            },
+            "https://github.com/retarfi/JFinTEB": {
+                "sub_category": null,
+                "repository_name": "JFinTEB",
+                "user_name": "retarfi",
+                "description": "Japanese Financial Text Embedding Benchmark",
+                "multilingual_descriptions": {
+                    "en": "Japanese Financial Text Embedding Benchmark",
+                    "ja": "日本語金融テキスト埋め込みベンチマーク",
+                    "zh-hans": "日语金融文本嵌入基准测试",
+                    "zh-hant": "日本金融文本嵌入基準測試"
+                }
             }
         },
         "Tutorial": {

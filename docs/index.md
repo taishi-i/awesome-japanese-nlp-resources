@@ -9,18 +9,19 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [896件の GitHub リポジトリ情報](README.ja.md) を掲載中
-- [490 件の Hugging Face リポジトリ情報 ](huggingface.ja.md) を掲載中
+- [898件の GitHub リポジトリ情報](README.ja.md) を掲載中
+- [497 件の Hugging Face リポジトリ情報 ](huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 158 件の情報](multilingual.ja.md) を掲載中
 
 [English](README.en.md) | [日本語 (Japanese) ](README.ja.md) | [繁體中文 (Chinese) ](README.zh-hant.md) | [简体中文 (Chinese) ](README.zh-hans.md)
 
 ## 🎉 The latest additions
 
-**Python**
- * [ndlocr-lite](https://github.com/ndl-lab/ndlocr-lite) - NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
+**Corpus**
+ * [jcola](https://github.com/osekilab/jcola) - JCoLA：日本語の言語受容性コーパス
+ * [JFinTEB](https://github.com/retarfi/JFinTEB) - 日本語金融テキスト埋め込みベンチマーク
 
-_Updated on Nov 10, 2026_
+_Updated on Nov 17, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -1952,6 +1953,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
  * [aica-corpus](https://github.com/reinehonoka/aica-corpus) - AIキャラクター・フィラー・笑い声・感情表現に特化した日本語TTSコーパス（CC0）
  * [adlib](https://github.com/holotherapper/adlib) - ADLIB：言語を認識した評価を備えた日本語ASRベンチマークフレームワーク
  * [jmeeteval](https://github.com/nishika-inc/jmeeteval) - J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク
+ * [jcola](https://github.com/osekilab/jcola) - JCoLA：日本語の言語受容性コーパス
+ * [JFinTEB](https://github.com/retarfi/JFinTEB) - 日本語金融テキスト埋め込みベンチマーク
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2146,6 +2149,8 @@ ChatGPTやAPIを用いて日本語の対話やテキスト生成を行うため�
 |[aica-corpus](https://github.com/reinehonoka/aica-corpus)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reinehonoka/aica-corpus?style=social)|
 |[adlib](https://github.com/holotherapper/adlib)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/holotherapper/adlib?style=social)|
 |[jmeeteval](https://github.com/nishika-inc/jmeeteval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nishika-inc/jmeeteval?style=social)|
+|[jcola](https://github.com/osekilab/jcola)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/osekilab/jcola?style=social)|
+|[JFinTEB](https://github.com/retarfi/JFinTEB)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/JFinTEB?style=social)|
 
 
 ## Tutorial
