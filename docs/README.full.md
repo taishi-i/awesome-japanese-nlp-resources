@@ -708,6 +708,7 @@ General-purpose tools supporting Japanese language processing
  * [onsei](https://github.com/itsupera/onsei) - Japanese pitch accent practice tool
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - Add furigana to Japanese ebooks (and other useful conversions)
  * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
+ * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Inference code for Haas, fast and accurate Japanese speech recognition
 
 
 |Name|downloads/week|total downloads|stars|
@@ -929,6 +930,7 @@ General-purpose tools supporting Japanese language processing
 |[onsei](https://github.com/itsupera/onsei)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/onsei?style=social)|
 |[furiganalyse](https://github.com/itsupera/furiganalyse)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/furiganalyse?style=social)|
 |[ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/RyuuNeko1107/ja-furigana-dict?style=social)|
+|[Haas-ASR](https://github.com/third-intelligence/Haas-ASR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/third-intelligence/Haas-ASR?style=social)|
 
 
 ## C++
