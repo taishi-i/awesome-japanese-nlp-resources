@@ -4213,6 +4213,18 @@
                     "zh-hans": "社区维护的日语注音词典（用于 Furigana 库）",
                     "zh-hant": "社群運營的日語振假名詞典（供 furigana 函式庫使用）"
                 }
+            },
+            "https://github.com/third-intelligence/Haas-ASR": {
+                "sub_category": null,
+                "repository_name": "Haas-ASR",
+                "user_name": "third-intelligence",
+                "description": "Inference code for Haas, fast and accurate Japanese speech recognition",
+                "multilingual_descriptions": {
+                    "en": "Inference code for Haas, fast and accurate Japanese speech recognition",
+                    "ja": "Haas向け推論コード：高速かつ高精度な日本語音声認識",
+                    "zh-hans": "Haas 的推理代码，实现快速且准确的日语语音识别",
+                    "zh-hant": "Haas 的推論程式碼：快速且準確的日語語音辨識"
+                }
             }
         },
         "C++": {
@@ -10314,6 +10326,30 @@
                     "ja": "日本語金融テキスト埋め込みベンチマーク",
                     "zh-hans": "日语金融文本嵌入基准测试",
                     "zh-hant": "日本金融文本嵌入基準測試"
+                }
+            },
+            "https://github.com/shigashiyama/cadel": {
+                "sub_category": null,
+                "repository_name": "cadel",
+                "user_name": "shigashiyama",
+                "description": "CADEL: Corpus of Administrative Web Documents for Japanese Entity Linking (Version 1.0)",
+                "multilingual_descriptions": {
+                    "en": "CADEL: Corpus of Administrative Web Documents for Japanese Entity Linking (Version 1.0)",
+                    "ja": "CADEL：日本語エンティティリンキングのための行政ウェブ文書コーパス（バージョン1.0）",
+                    "zh-hans": "CADEL：面向日语实体链接的行政网页文档语料库（1.0 版）",
+                    "zh-hant": "CADEL：用於日語實體連結的行政網頁文件語料庫（第 1.0 版）"
+                }
+            },
+            "https://github.com/SDS-NLP/JaFaithSum": {
+                "sub_category": null,
+                "repository_name": "JaFaithSum",
+                "user_name": "SDS-NLP",
+                "description": "A Japanese Faithfulness Evaluation Dataset for LLM Summarization",
+                "multilingual_descriptions": {
+                    "en": "A Japanese Faithfulness Evaluation Dataset for LLM Summarization",
+                    "ja": "LLMによる要約の忠実性評価のための日本語データセット",
+                    "zh-hans": "用于评估大语言模型摘要忠实性的日语数据集",
+                    "zh-hant": "用於評估大型語言模型摘要忠實度的日文資料集"
                 }
             }
         },

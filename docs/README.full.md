@@ -9,8 +9,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [898 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [497 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [901 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [512 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Listed information on [168 multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp.org](https://www.awesome-japanese-nlp.org/en), a site to explore Japanese NLP resources by task, popularity, and freshness!
 
@@ -19,10 +19,13 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 ## 🎉 The latest additions
 
 **Corpus**
- * [jcola](https://github.com/osekilab/jcola) - JCoLA: Japanese Corpus of Linguistic Acceptability
- * [JFinTEB](https://github.com/retarfi/JFinTEB) - Japanese Financial Text Embedding Benchmark
+ * [cadel](https://github.com/shigashiyama/cadel) - CADEL: Corpus of Administrative Web Documents for Japanese Entity Linking (Version 1.0)
+ * [JaFaithSum](https://github.com/SDS-NLP/JaFaithSum) - A Japanese Faithfulness Evaluation Dataset for LLM Summarization
 
-_Updated on Nov 17, 2026_
+**Python**
+ * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Inference code for Haas, fast and accurate Japanese speech recognition
+
+_Updated on Nov 23, 2026_
 
 
 ## Claude Code & Codex Plugin
