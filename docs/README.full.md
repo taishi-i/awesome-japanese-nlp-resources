@@ -1958,6 +1958,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jcola](https://github.com/osekilab/jcola) - JCoLA: Japanese Corpus of Linguistic Acceptability
  * [JFinTEB](https://github.com/retarfi/JFinTEB) - Japanese Financial Text Embedding Benchmark
  * [cadel](https://github.com/shigashiyama/cadel) - CADEL: Corpus of Administrative Web Documents for Japanese Entity Linking (Version 1.0)
+ * [JaFaithSum](https://github.com/SDS-NLP/JaFaithSum) - A Japanese Faithfulness Evaluation Dataset for LLM Summarization
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2155,6 +2156,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jcola](https://github.com/osekilab/jcola)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/osekilab/jcola?style=social)|
 |[JFinTEB](https://github.com/retarfi/JFinTEB)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/JFinTEB?style=social)|
 |[cadel](https://github.com/shigashiyama/cadel)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shigashiyama/cadel?style=social)|
+|[JaFaithSum](https://github.com/SDS-NLP/JaFaithSum)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/SDS-NLP/JaFaithSum?style=social)|
 
 
 ## Tutorial
