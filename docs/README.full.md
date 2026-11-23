@@ -1957,6 +1957,7 @@ Corpora for tasks such as question answering or entailment recognition
  * [jmeeteval](https://github.com/nishika-inc/jmeeteval) - J-MeetEval: 日本語会議タスクにおける指示追従性評価ベンチマーク
  * [jcola](https://github.com/osekilab/jcola) - JCoLA: Japanese Corpus of Linguistic Acceptability
  * [JFinTEB](https://github.com/retarfi/JFinTEB) - Japanese Financial Text Embedding Benchmark
+ * [cadel](https://github.com/shigashiyama/cadel) - CADEL: Corpus of Administrative Web Documents for Japanese Entity Linking (Version 1.0)
 
 
 |Name|downloads/week|total downloads|stars|
@@ -2153,6 +2154,7 @@ Corpora for tasks such as question answering or entailment recognition
 |[jmeeteval](https://github.com/nishika-inc/jmeeteval)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/nishika-inc/jmeeteval?style=social)|
 |[jcola](https://github.com/osekilab/jcola)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/osekilab/jcola?style=social)|
 |[JFinTEB](https://github.com/retarfi/JFinTEB)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/retarfi/JFinTEB?style=social)|
+|[cadel](https://github.com/shigashiyama/cadel)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/shigashiyama/cadel?style=social)|
 
 
 ## Tutorial
