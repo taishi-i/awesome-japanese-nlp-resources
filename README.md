@@ -2326,3 +2326,4 @@ Summaries of studies and papers in Japanese NLP research
  * [Yuma-Ichikawa](https://github.com/Yuma-Ichikawa) - [github](https://github.com/Yuma-Ichikawa)
  * [theGlenn](https://github.com/theGlenn) - [github](https://github.com/theGlenn)
  * [shimo4228](https://github.com/shimo4228) - [github](https://github.com/shimo4228)
+ * [DameNianch](https://github.com/DameNianch) - [github](https://github.com/DameNianch)
