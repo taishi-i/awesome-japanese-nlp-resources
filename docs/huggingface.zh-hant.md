@@ -8,7 +8,7 @@
 <a href="https://trendshift.io/repositories/112745?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112745" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112745/weekly" alt="taishi-i%2Fawesome-japanese-nlp-resources | Trendshift" width="250" height="55"/></a>
 
 專門收錄日語NLP相關的Python函式庫、LLM、詞典和語料庫資源的精選列表。
-本頁面列出了Hugging Face上可用的日語NLP專用模型和資料集。目前包含282個模型和230個資料集。
+本頁面列出了Hugging Face上可用的日語NLP專用模型和資料集。目前包含283個模型和230個資料集。
 
 _更新於2026年11月23日_
 
@@ -320,6 +320,7 @@ _更新於2026年11月23日_
  * [bert-finetuned-japanese-sentiment](https://huggingface.co/christian-phu/bert-finetuned-japanese-sentiment) - 📥 247k / ⭐ 16 / 在 Amazon 商品評論上微調日本 BERT（cl‑tohoku/bert‑base‑japanese‑v2）以進行情感分類，達到約 81% 的準確率與 0.73 的 F1 分數，在 6 個 epoch 之後，學習率為 2 × 10⁻⁵。
  * [japanese-sentiment-analysis](https://huggingface.co/jarvisx17/japanese-sentiment-analysis) - 📥 4k / ⭐ 15 / 在 chABSA 數據集上訓練的日文情感分析模型，達到 loss 0.0001、accuracy 1.0、以及 F1 1.0。使用 Transformers 4.24.0 和 PyTorch 1.12.1+cu113 構建，使用 Adam 進行優化（learning rate 2e‑05，10 epochs，batch size 16），並通過 `model(**inputs)` 評估。
  * [bert-base-japanese-v2-wrime-fine-tune](https://huggingface.co/patrickramos/bert-base-japanese-v2-wrime-fine-tune) - 📥 2k / ⭐ 6 / 一個針對 WRIME 數據集微調的日本 BERT BASE 模型，為作者和讀者預測八種情感（喜悅、悲傷、期待、驚訝、憤怒、恐懼、厭惡、信任）的 0‑4 強度分數；代碼可用，訓練耗時 3 小時於 K80 上，對作者達到約 0.6 MSE，對讀者達到約 0.2 MSE。
+ * [gpr-1-nasubi-massive](https://huggingface.co/openif/gpr-1-nasubi-massive) - 📥 0 / ⭐ 0 / 一款輕量級、僅使用 CPU 的日語意圖分類模型（GPR‑1 Nasubi）來自 OpenIF，採用基於規則的特徵和線性頭部，在 MASSIVE 測試集上達到 85.34% 的準確率，模型大小為 15.98 MiB。
 
 ### token-classification
  * [bert-base-japanese-v3-ner-wikipedia-dataset](https://huggingface.co/llm-book/bert-base-japanese-v3-ner-wikipedia-dataset) - 📥 6k / ⭐ 11 / Fine‑tuned Japanese BERT‑Base 用於在維基百科資料集上的命名實體識別，已在《Large Language Model Introduction》一書第六章展示，可透過 Hugging Face transformers pipeline 部署（Apache 2.0 授權）。

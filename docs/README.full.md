@@ -9,8 +9,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [901 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [512 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [902 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [513 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Listed information on [168 multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp.org](https://www.awesome-japanese-nlp.org/en), a site to explore Japanese NLP resources by task, popularity, and freshness!
 
@@ -24,8 +24,9 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 **Python**
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Inference code for Haas, fast and accurate Japanese speech recognition
+ * [openif](https://github.com/DameNianch/openif) - A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.
 
-_Updated on Nov 23, 2026_
+_Updated on Nov 26, 2026_
 
 
 ## Claude Code & Codex Plugin
@@ -712,6 +713,7 @@ General-purpose tools supporting Japanese language processing
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - Add furigana to Japanese ebooks (and other useful conversions)
  * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Inference code for Haas, fast and accurate Japanese speech recognition
+ * [openif](https://github.com/DameNianch/openif) - A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.
 
 
 |Name|downloads/week|total downloads|stars|
@@ -934,6 +936,7 @@ General-purpose tools supporting Japanese language processing
 |[furiganalyse](https://github.com/itsupera/furiganalyse)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/itsupera/furiganalyse?style=social)|
 |[ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/RyuuNeko1107/ja-furigana-dict?style=social)|
 |[Haas-ASR](https://github.com/third-intelligence/Haas-ASR)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/third-intelligence/Haas-ASR?style=social)|
+|[openif](https://github.com/DameNianch/openif)|[![Downloads](https://static.pepy.tech/badge/openif/week)](https://pepy.tech/project/openif)|[![Downloads](https://static.pepy.tech/badge/openif)](https://pepy.tech/project/openif)|![GitHub Repo stars](https://img.shields.io/github/stars/DameNianch/openif?style=social)|
 
 
 ## C++

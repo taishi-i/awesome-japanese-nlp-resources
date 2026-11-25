@@ -4225,6 +4225,18 @@
                     "zh-hans": "Haas 的推理代码，实现快速且准确的日语语音识别",
                     "zh-hant": "Haas 的推論程式碼：快速且準確的日語語音辨識"
                 }
+            },
+            "https://github.com/DameNianch/openif": {
+                "sub_category": null,
+                "repository_name": "openif",
+                "user_name": "DameNianch",
+                "description": "A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.",
+                "multilingual_descriptions": {
+                    "en": "A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.",
+                    "ja": "ルールベースの言語特徴と学習済みの線形分類器を組み合わせた日本語意図分類ライブラリ。推論時にLLMやニューラルネットワークを必要としない。",
+                    "zh-hans": "一个将基于规则的语言特征与学习得到的线性分类器相结合的日语意图分类库，推理时无需 LLM 或神经网络。",
+                    "zh-hant": "一個將基於規則的語言特徵與學習得到的線性分類器相結合的日語意圖分類函式庫，推論時無需 LLM 或神經網路。"
+                }
             }
         },
         "C++": {

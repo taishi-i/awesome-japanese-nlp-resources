@@ -8,7 +8,7 @@
 <a href="https://trendshift.io/repositories/112745?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112745" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112745/weekly" alt="taishi-i%2Fawesome-japanese-nlp-resources | Trendshift" width="250" height="55"/></a>
 
 日本語向けのNLPに関する、Pythonライブラリ、LLM、辞書、コーパスに特化したリソースを厳選してまとめた一覧です。
-このページでは、Hugging Faceで利用可能な日本語NLP特化のモデルとデータセットを掲載しています。現在、282件のモデルと230件のデータセットが含まれています。
+このページでは、Hugging Faceで利用可能な日本語NLP特化のモデルとデータセットを掲載しています。現在、283件のモデルと230件のデータセットが含まれています。
 
 _2026年11月23日更新_
 
@@ -321,6 +321,7 @@ National Institute of Informatics の LLM R&D Center で事前学習・ミドル
  * [bert-finetuned-japanese-sentiment](https://huggingface.co/christian-phu/bert-finetuned-japanese-sentiment) - 📥 247k / ⭐ 16 / Amazonの商品レビューに対して感情分類のためにFine‑tuned Japanese BERT (cl‑tohoku/bert‑base‑japanese‑v2) を使用し、6エポックで学習率 2 × 10⁻⁵ を設定した結果、約81 % の精度と0.73のF1スコアを達成しました。
  * [japanese-sentiment-analysis](https://huggingface.co/jarvisx17/japanese-sentiment-analysis) - 📥 4k / ⭐ 15 / 日本語感情分析モデルは、chABSAデータセットで学習され、損失0.0001、精度1.0、F1スコア1.0を達成しました。Transformers 4.24.0およびPyTorch 1.12.1+cu113で構築され、Adam（学習率2e‑05、10エポック、バッチサイズ16）で最適化され、`model(**inputs)`で評価されました。
  * [bert-base-japanese-v2-wrime-fine-tune](https://huggingface.co/patrickramos/bert-base-japanese-v2-wrime-fine-tune) - 📥 2k / ⭐ 6 / 日本語版 BERT BASE を WRIME データセットでファインチューニングしたモデルは、作家と読者の 8 つの感情（喜び、悲しみ、期待、驚き、怒り、不安、嫌悪、信頼）に対して 0〜4 の強度スコアを予測し、コードは公開済みです。K80 GPU 上で 3 時間で訓練し、作家では約 0.6 MSE、読者では約 0.2 MSE を達成しました。
+ * [gpr-1-nasubi-massive](https://huggingface.co/openif/gpr-1-nasubi-massive) - 📥 0 / ⭐ 0 / 軽量でCPUのみを使用する日本語意図分類モデル（GPR‑1 Nasubi） は、OpenIFから提供され、ルールベースの特徴と線形ヘッドを用いて、MASSIVEテストセットで85.34％の精度を15.98 MiBのサイズで達成します。
 
 ### token-classification
  * [bert-base-japanese-v3-ner-wikipedia-dataset](https://huggingface.co/llm-book/bert-base-japanese-v3-ner-wikipedia-dataset) - 📥 6k / ⭐ 11 / Wikipediaデータセット上の固有表現認識用に微調整された日本語 BERT‑Base は、*Large Language Model Introduction* の第6章で紹介され、Hugging Face transformers パイプライン（Apache 2.0 ライセンス）でデプロイできるものです。

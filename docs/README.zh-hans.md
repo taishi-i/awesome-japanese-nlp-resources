@@ -9,8 +9,8 @@
 
 专用于 Python 库、预训练模型、词典和日语 NLP 语料库的精选资源列表
 
-- [列出了901个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
-- [列出了512个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
+- [列出了902个GitHub仓库的信息 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.zh-hans.md)
+- [列出了513个Hugging Face仓库的信息（模型和数据集） ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.zh-hans.md)
 - [列出了168个同样支持日语的多语言库、模型和数据集的信息](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.zh-hans.md)
 - 🎉 我们正式发布了可按用途、热门程度与新旧浏览日语NLP资源的网站 [awesome-japanese-nlp.org](https://www.awesome-japanese-nlp.org/zh-hans)！
 
@@ -24,8 +24,9 @@
 
 **Python**
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Haas 的推理代码，实现快速且准确的日语语音识别
+ * [openif](https://github.com/DameNianch/openif) - 一个将基于规则的语言特征与学习得到的线性分类器相结合的日语意图分类库，推理时无需 LLM 或神经网络。
 
-_Updated on Nov 23, 2026_
+_Updated on Nov 26, 2026_
 
 
 ## Claude Code 与 Codex 插件
@@ -494,7 +495,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 
 
 <details markdown="1">
-<summary>显示 218 个项目</summary>
+<summary>显示 219 个项目</summary>
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 一个将日本全名分成姓和名的工具。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 一个精选的资源列表，专门介绍用于日语自然语言处理的Python库。
@@ -714,6 +715,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - 为日语电子书添加振假名（以及其他实用的转换功能）
  * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - 社区维护的日语注音词典（用于 Furigana 库）
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Haas 的推理代码，实现快速且准确的日语语音识别
+ * [openif](https://github.com/DameNianch/openif) - 一个将基于规则的语言特征与学习得到的线性分类器相结合的日语意图分类库，推理时无需 LLM 或神经网络。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -936,6 +938,7 @@ codex plugin add awesome-japanese-nlp-resources@awesome-japanese-nlp-resources
 | 🔗 [furiganalyse](https://github.com/itsupera/furiganalyse) | - | - | ⭐ 96 | 🟡 february|
 | 🔗 [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) | - | - | ⭐ 10 | 🟢 november|
 | 🔗 [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) | - | - | ⭐ 48 | 🟢 october|
+| 🔗 [openif](https://github.com/DameNianch/openif) | 📥 324 | 📦 324 | ⭐ 0 | 🟢 november|
 
 </details>
 

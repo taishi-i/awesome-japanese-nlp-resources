@@ -9,8 +9,8 @@
 
 日本語の自然言語処理に関するPythonライブラリ、学習済みモデル、辞書、およびコーパスの厳選リストです。
 
-- [901件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
-- [512 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
+- [902件の GitHub リポジトリ情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.ja.md) を掲載中
+- [513 件の Hugging Face リポジトリ情報 ](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.ja.md) を掲載中
 - [日本語にも対応した多言語ライブラリ・モデル・データセット 168 件の情報](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.ja.md) を掲載中
 - 🎉 日本語NLPリソースを目的・人気・新しさから探せるサイト [awesome-japanese-nlp.org](https://www.awesome-japanese-nlp.org/) をリリースしました！
 
@@ -24,8 +24,9 @@
 
 **Python**
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Haas向け推論コード：高速かつ高精度な日本語音声認識
+ * [openif](https://github.com/DameNianch/openif) - ルールベースの言語特徴と学習済みの線形分類器を組み合わせた日本語意図分類ライブラリ。推論時にLLMやニューラルネットワークを必要としない。
 
-_Updated on Nov 23, 2026_
+_Updated on Nov 26, 2026_
 
 
 ## Claude Code・Codex プラグイン
@@ -494,7 +495,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 
 
 <details markdown="1">
-<summary>218 件を表示</summary>
+<summary>219 件を表示</summary>
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - 日本のフルネームを姓と名に分けるためのツール。
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - 日本語の自然言語処理のPythonライブラリに特化したリソースの厳選リスト
@@ -714,6 +715,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - 日本語の電子書籍にふりがなを付ける（その他の便利な変換も）
  * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - コミュニティ運営の日本語フリガナ辞書 (furigana ライブラリ用)
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Haas向け推論コード：高速かつ高精度な日本語音声認識
+ * [openif](https://github.com/DameNianch/openif) - ルールベースの言語特徴と学習済みの線形分類器を組み合わせた日本語意図分類ライブラリ。推論時にLLMやニューラルネットワークを必要としない。
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -936,6 +938,7 @@ Codex では `/` の代わりに `$` を付けて同じスキルを呼び出し�
 | 🔗 [furiganalyse](https://github.com/itsupera/furiganalyse) | - | - | ⭐ 96 | 🟡 february|
 | 🔗 [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) | - | - | ⭐ 10 | 🟢 november|
 | 🔗 [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) | - | - | ⭐ 48 | 🟢 october|
+| 🔗 [openif](https://github.com/DameNianch/openif) | 📥 324 | 📦 324 | ⭐ 0 | 🟢 november|
 
 </details>
 

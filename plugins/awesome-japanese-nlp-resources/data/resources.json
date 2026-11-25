@@ -15707,6 +15707,22 @@
     "u": "https://github.com/SDS-NLP/JaFaithSum"
   },
   {
+    "c": "Python library",
+    "d": "A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.",
+    "d_ja": "ルールベースの言語特徴と学習済みの線形分類器を組み合わせた日本語意図分類ライブラリ。推論時にLLMやニューラルネットワークを必要としない。",
+    "id": "gh:damenianch/openif",
+    "lc": "2026-11",
+    "n": "openif",
+    "ns": 0.0,
+    "pt": 324,
+    "pw": 324,
+    "s": [],
+    "sc": 0.0,
+    "st": 0,
+    "status": "ok",
+    "u": "https://github.com/DameNianch/openif"
+  },
+  {
     "c": "HuggingFace Model (Translation)",
     "d": "Japanese‑to‑English Transformer‑Align MT model from the Opus corpus, using normalization and SentencePiece preprocessing, achieves 41.7 BLEU and 0.589 chr‑F on the Tatoeba test set.",
     "dl": 41000,
@@ -22029,5 +22045,16 @@
     "s": [],
     "sc": 0.0,
     "u": "https://huggingface.co/datasets/Myduso/AzurLane-Irodori-TTS-Dataset"
+  },
+  {
+    "c": "HuggingFace Model (Text Classification)",
+    "d": "A lightweight, CPU‑only Japanese intent classification model (GPR‑1 Nasubi) from OpenIF that uses rule‑based features and a linear head to achieve 85.34% accuracy on the MASSIVE test set with a 15.98 MiB size.",
+    "dl": 0,
+    "id": "hf:openif/gpr-1-nasubi-massive",
+    "n": "gpr-1-nasubi-massive",
+    "nd": 0.0,
+    "s": [],
+    "sc": 0.0,
+    "u": "https://huggingface.co/openif/gpr-1-nasubi-massive"
   }
 ]

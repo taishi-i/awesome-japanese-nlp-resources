@@ -9,8 +9,8 @@
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
 
-- Listed information on [901 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
-- Listed information on [512 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
+- Listed information on [902 GitHub repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/README.full.md)
+- Listed information on [513 Hugging Face repositories](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/huggingface.md) (models and datasets)
 - Listed information on [168 multilingual libraries, models, and datasets that also support Japanese](https://github.com/taishi-i/awesome-japanese-nlp-resources/blob/main/docs/multilingual.md)
 - 🎉 We are excited to announce the release of [awesome-japanese-nlp.org](https://www.awesome-japanese-nlp.org/en), a site to explore Japanese NLP resources by task, popularity, and freshness!
 
@@ -24,8 +24,9 @@ A curated list of resources dedicated to Python libraries, llms, dictionaries, a
 
 **Python**
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Inference code for Haas, fast and accurate Japanese speech recognition
+ * [openif](https://github.com/DameNianch/openif) - A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.
 
-_Updated on Nov 23, 2026_
+_Updated on Nov 26, 2026_
 
 
 ## Claude Code & Codex Plugin
@@ -495,7 +496,7 @@ General-purpose tools supporting Japanese language processing
 
 
 <details markdown="1">
-<summary>Show 218 items</summary>
+<summary>Show 219 items</summary>
 
  * [namedivider-python](https://github.com/rskmoi/namedivider-python) - A tool for dividing the Japanese full name into a family name and a given name.
  * [asa-python](https://github.com/ikegami-yukino/asa-python) - A curated list of resources dedicated to Python libraries of NLP for Japanese
@@ -715,6 +716,7 @@ General-purpose tools supporting Japanese language processing
  * [furiganalyse](https://github.com/itsupera/furiganalyse) - Add furigana to Japanese ebooks (and other useful conversions)
  * [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) - Japanese furigana dictionary for community management (for the furigana library)
  * [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) - Inference code for Haas, fast and accurate Japanese speech recognition
+ * [openif](https://github.com/DameNianch/openif) - A Japanese intent classification library combining rule-based linguistic features with a learned linear classifier, without requiring LLMs or neural networks at inference time.
 
 
 |Name|downloads/week|total downloads|stars|last commit|
@@ -937,6 +939,7 @@ General-purpose tools supporting Japanese language processing
 | 🔗 [furiganalyse](https://github.com/itsupera/furiganalyse) | - | - | ⭐ 96 | 🟡 february|
 | 🔗 [ja-furigana-dict](https://github.com/RyuuNeko1107/ja-furigana-dict) | - | - | ⭐ 10 | 🟢 november|
 | 🔗 [Haas-ASR](https://github.com/third-intelligence/Haas-ASR) | - | - | ⭐ 48 | 🟢 october|
+| 🔗 [openif](https://github.com/DameNianch/openif) | 📥 324 | 📦 324 | ⭐ 0 | 🟢 november|
 
 </details>
 

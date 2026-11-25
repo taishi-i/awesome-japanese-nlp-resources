@@ -8,7 +8,7 @@
 <a href="https://trendshift.io/repositories/112745?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112745" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112745/weekly" alt="taishi-i%2Fawesome-japanese-nlp-resources | Trendshift" width="250" height="55"/></a>
 
 A curated list of resources dedicated to Python libraries, llms, dictionaries, and corpora of NLP for Japanese
-This page lists Japanese NLP-specific models and datasets available on Hugging Face. Currently, it includes 282 models and 230 datasets.
+This page lists Japanese NLP-specific models and datasets available on Hugging Face. Currently, it includes 283 models and 230 datasets.
 
 _Updated on Nov 23, 2026_
 
@@ -320,6 +320,7 @@ _Updated on Nov 23, 2026_
  * [bert-finetuned-japanese-sentiment](https://huggingface.co/christian-phu/bert-finetuned-japanese-sentiment) - 📥 247k / ⭐ 16 / Fine‑tuned Japanese BERT (cl‑tohoku/bert‑base‑japanese‑v2) on Amazon product reviews for sentiment classification, achieving ~81 % accuracy and 0.73 F1 after 6 epochs with a 2 × 10⁻⁵ learning rate.
  * [japanese-sentiment-analysis](https://huggingface.co/jarvisx17/japanese-sentiment-analysis) - 📥 4k / ⭐ 15 / Japanese sentiment analysis model trained on the chABSA dataset, achieving loss 0.0001, accuracy 1.0, and F1 1.0, built with Transformers 4.24.0 and PyTorch 1.12.1+cu113, optimized with Adam (learning rate 2e‑05, 10 epochs, batch size 16) and evaluated via `model(**inputs)`.
  * [bert-base-japanese-v2-wrime-fine-tune](https://huggingface.co/patrickramos/bert-base-japanese-v2-wrime-fine-tune) - 📥 2k / ⭐ 6 / A Japanese BERT BASE fine‑tuned on the WRIME dataset predicts 0‑4 intensity scores for eight emotions (joy, sadness, anticipation, surprise, anger, fear, disgust, trust) for writers and readers, with code available, trained in 3 hrs on a K80, achieving about 0.6 MSE for writers and 0.2 MSE for readers.
+ * [gpr-1-nasubi-massive](https://huggingface.co/openif/gpr-1-nasubi-massive) - 📥 0 / ⭐ 0 / A lightweight, CPU‑only Japanese intent classification model (GPR‑1 Nasubi) from OpenIF that uses rule‑based features and a linear head to achieve 85.34% accuracy on the MASSIVE test set with a 15.98 MiB size.
 
 ### token-classification
  * [bert-base-japanese-v3-ner-wikipedia-dataset](https://huggingface.co/llm-book/bert-base-japanese-v3-ner-wikipedia-dataset) - 📥 6k / ⭐ 11 / Fine‑tuned Japanese BERT‑Base for named‑entity recognition on a Wikipedia dataset, presented in Chapter 6 of the *Large Language Model Introduction* book and deployable via a Hugging Face transformers pipeline (Apache 2.0 licensed).
